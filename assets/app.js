@@ -22,13 +22,22 @@ async function renderInicio(el) {
     <div class="card hero"><h2>Prepárate para el 29N</h2>
       <p>${days > 0 ? `Quedan <strong>${days} días</strong> para las Elecciones Generales.` : 'Elecciones Generales del 29 de noviembre de 2026.'}
       Aquí tienes los programas de ${nParties || 'varios'} partidos resumidos por temas, un comparador y tests para repasar.</p></div>
+    <aside class="review transparency" aria-label="Aviso de transparencia">
+      <b>🔎 Aviso de transparencia</b>
+      <ul>
+        <li>Todo el contenido de esta web (resúmenes, comparaciones, porcentajes y preguntas) se ha generado con inteligencia artificial ("vibe coding") <b>directamente a partir de los programas oficiales</b>, sin que una persona haya revisado cada dato.</li>
+        <li>La IA puede equivocarse y también puede tener <b>sus propios sesgos</b>.</li>
+        <li>Hemos intentado ser neutrales. Aun así, por transparencia: las ideas de la persona que ha creado esta web probablemente se inclinan hacia la izquierda, y eso puede haber influido en qué se destaca y cómo se redacta.</li>
+        <li><b>Comprueba siempre el documento original:</b> cada dato lleva un enlace 📄 a su página en el programa. Si ves un error, usa 👎 en las preguntas del test.</li>
+      </ul>
+    </aside>
     <div class="grid">
       <a class="card tile" href="#/resumenes">📚<b>Resúmenes</b><span>Qué propone cada partido, tema por tema.</span></a>
       <a class="card tile" href="#/comparar">⚖️<b>Comparar</b><span>% de acuerdo y qué les separa.</span></a>
       <a class="card tile" href="#/test">✅<b>Test</b><span>20 preguntas por partido y tema.</span></a>
       <a class="card tile" href="#/mesa">🗳️<b>Mesa electoral</b><span>Qué hacer si te toca estar en una mesa.</span></a>
     </div>
-    <p class="muted small">Resúmenes neutrales hechos a partir de los programas oficiales. Cada dato enlaza a su página del PDF original para que puedas comprobarlo.</p>`;
+    <p class="muted small">Resúmenes hechos a partir de los programas oficiales de cada partido, que puedes consultar en la carpeta de fuentes de la web.</p>`;
 }
 
 async function render() {

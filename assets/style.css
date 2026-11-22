@@ -95,6 +95,9 @@ ul.cmp li { border-top:1px solid var(--border); padding-top:8px; }
 .stance { display:inline-block; font-size:.78rem; padding:2px 8px; border-radius:999px; color:#fff; margin:2px 4px 2px 0; text-shadow:0 0 2px rgba(0,0,0,.4); }
 .s2 { background:var(--s2); } .s1 { background:var(--s1); } .s0 { background:var(--s0); } .sm1 { background:var(--sm1); } .sm2 { background:var(--sm2); } .sn { background:transparent; color:var(--muted); border:1px dashed var(--muted); text-shadow:none; }
 .review { background:color-mix(in srgb, var(--warn) 14%, var(--card)); border:1px solid color-mix(in srgb, var(--warn) 45%, var(--border)); border-radius:12px; padding:10px 14px; margin:0 0 12px; font-size:.9rem; }
+.transparency { margin:12px 0; }
+.transparency ul { margin:6px 0 0; padding-left:20px; }
+.transparency li { margin:4px 0; }
 .formula { font-size:1.05rem; font-weight:700; text-align:center; background:var(--bg); border-radius:8px; padding:10px; }
 details.pair > summary { display:flex; flex-wrap:wrap; align-items:center; gap:4px 6px; }
 details.pair .pct { margin-left:auto; font-size:1.05rem; }
