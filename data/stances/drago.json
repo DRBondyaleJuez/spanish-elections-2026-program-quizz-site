@@ -498,5 +498,305 @@
   "v": null,
   "page": null,
   "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "viv-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-10": {
+  "v": -1,
+  "page": 7,
+  "note": "Defiende limitar el crecimiento según la capacidad de carga de cada isla; no menciona la Ley del Suelo."
+ },
+ "viv-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-12": {
+  "v": 1,
+  "page": 8,
+  "note": "Propone que la vivienda pública comprada o rehabilitada sea para el parque de alquiler; no menciona prohibir su venta."
+ },
+ "emp-7": {
+  "v": 2,
+  "page": 10,
+  "note": "Pide refuerzos fijos de inspectores cada año y el traspaso de la Inspección de Trabajo a Canarias."
+ },
+ "emp-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-13": {
+  "v": -1,
+  "page": 11,
+  "note": "Quiere que la gestión pública directa sea la regla en la sanidad y la privada una excepción justificada."
+ },
+ "pen-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-8": {
+  "v": 1,
+  "page": 12,
+  "note": "Pide un complemento de insularidad financiado por el Estado para pensiones contributivas bajas y no contributivas."
+ },
+ "pen-9": {
+  "v": 1,
+  "page": 12,
+  "note": "Propone un año de prestación y cotización para cuidadoras tras el fallecimiento de la persona cuidada; no propone un sistema público nuevo."
+ },
+ "pen-10": {
+  "v": -1,
+  "page": 16,
+  "note": "Pide conceder el bono social de oficio, sin solicitud, a quien ya acredita vulnerabilidad; no menciona endurecer requisitos."
+ },
+ "san-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-9": {
+  "v": -1,
+  "page": 11,
+  "note": "Quiere que la gestión pública directa sea la regla en la sanidad y la privada una excepción justificada."
+ },
+ "san-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-9": {
+  "v": 1,
+  "page": 23,
+  "note": "Pide más fondos del Pacto de Estado contra la violencia de género y reforzar la igualdad real; no menciona el Ministerio."
+ },
+ "igu-10": {
+  "v": -1,
+  "page": 18,
+  "note": "Propone medidas específicas para mujeres en el campo, como acreditar su trabajo y bonificar su cotización."
+ },
+ "inm-9": {
+  "v": 1,
+  "page": 7,
+  "note": "Propone regular el acceso a la residencia según la capacidad de carga de cada isla; no fija un máximo anual de entradas."
+ },
+ "inm-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-11": {
+  "v": -1,
+  "page": 7,
+  "note": "Pide regular un empadronamiento efectivo según la capacidad de cada isla, no garantizarlo a todas las personas."
+ },
+ "inm-12": {
+  "v": -2,
+  "page": 23,
+  "note": "Rechaza la externalización del control migratorio mediante acuerdos con países africanos para frenar las salidas."
+ },
+ "med-8": {
+  "v": 1,
+  "page": 29,
+  "note": "Pide oponerse a prospecciones de gas, petróleo o minerales en aguas en disputa frente a Canarias; no menciona el fracking."
+ },
+ "med-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-11": {
+  "v": 1,
+  "page": 18,
+  "note": "Propone limitar el acceso a espacios naturales saturados según su capacidad de carga; no propone ampliarlos."
+ },
+ "med-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-7": {
+  "v": 1,
+  "page": 17,
+  "note": "Propone dar prioridad a los tejados en el autoconsumo; no menciona parques solares o eólicos en suelo agrícola."
+ },
+ "rur-8": {
+  "v": 2,
+  "page": 11,
+  "note": "Pide atención presencial en cada isla y un fondo estatal para financiar estudios en islas no capitalinas, que cuestan más."
+ },
+ "rur-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-10": {
+  "v": 1,
+  "page": 16,
+  "note": "Propone cuidar la biodiversidad y los animales con decisión de las comunidades locales; no menciona al lobo ni al ganado."
+ },
+ "ter-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-11": {
+  "v": 1,
+  "page": 29,
+  "note": "Pide el traspaso completo de costas y los traspasos pendientes; no menciona puertos, aeropuertos ni cercanías."
+ },
+ "ter-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-11": {
+  "v": -2,
+  "page": 25,
+  "note": "Propone ampliar el Congreso a 400 escaños; no propone reducir diputados ni cargos."
+ },
+ "ins-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-13": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-14": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-15": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-11": {
+  "v": 2,
+  "page": 15,
+  "note": "Propone un plan para llevar internet de 100 megas a todas las casas de Canarias, financiando el despliegue donde falte."
+ },
+ "cul-12": {
+  "v": null,
+  "page": null,
+  "note": ""
  }
 }

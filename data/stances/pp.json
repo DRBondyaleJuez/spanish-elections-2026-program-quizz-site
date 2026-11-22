@@ -498,5 +498,305 @@
   "v": null,
   "page": null,
   "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "viv-9": {
+  "v": 1,
+  "page": 43,
+  "note": "Propone una deducción en el IRPF por alquiler según ingresos, con más apoyo a quien menos gana."
+ },
+ "viv-10": {
+  "v": 2,
+  "page": 41,
+  "note": "Propone aprobar una nueva Ley del Suelo para agilizar el planeamiento urbanístico."
+ },
+ "viv-11": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "viv-12": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "emp-7": {
+  "v": 1,
+  "page": 19,
+  "note": "Propone que Inspección, Seguridad Social y Policía actúen juntas y endurecer sanciones por contratos simulados."
+ },
+ "emp-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "emp-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "emp-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "eco-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "eco-10": {
+  "v": 2,
+  "page": 13,
+  "note": "Propone un decreto de simplificación para eliminar la burocracia que afecta a ciudadanos y empresas."
+ },
+ "eco-11": {
+  "v": 2,
+  "page": 47,
+  "note": "Propone rebajar el IVA de los alimentos básicos."
+ },
+ "eco-12": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "eco-13": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "pen-7": {
+  "v": 2,
+  "page": 34,
+  "note": "Propone incentivar la jubilación activa mediante deducciones en el IRPF."
+ },
+ "pen-8": {
+  "v": -1,
+  "page": 15,
+  "note": "Propone que las cotizaciones sigan financiando las pensiones, sin dividir los recursos por territorios."
+ },
+ "pen-9": {
+  "v": 1,
+  "page": 32,
+  "note": "Propone fortalecer los servicios públicos y los cuidados de proximidad en zonas alejadas."
+ },
+ "pen-10": {
+  "v": 1,
+  "page": 46,
+  "note": "Propone perseguir el fraude en prestaciones indebidas; no menciona endurecer requisitos."
+ },
+ "san-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "san-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "san-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "san-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "edu-8": {
+  "v": 2,
+  "page": 32,
+  "note": "Propone implantar una prueba de acceso a la universidad (PAU) común para todo el territorio nacional."
+ },
+ "edu-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "edu-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "edu-11": {
+  "v": 1,
+  "page": 44,
+  "note": "Propone que la escuela infantil de 0 a 3 años sea gratuita; no amplía la gratuidad a todo el sistema."
+ },
+ "igu-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "igu-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "igu-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "igu-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "inm-9": {
+  "v": 2,
+  "page": 19,
+  "note": "Propone fijar cupos anuales de inmigración laboral ajustados a la capacidad real de acogida."
+ },
+ "inm-10": {
+  "v": 1,
+  "page": 19,
+  "note": "Propone exigir un compromiso de integración y aprender español para renovar la residencia."
+ },
+ "inm-11": {
+  "v": -2,
+  "page": 19,
+  "note": "Propone que el empadronamiento, por sí solo, no baste para acceder a ayudas no urgentes."
+ },
+ "inm-12": {
+  "v": 1,
+  "page": 18,
+  "note": "Propone equipos conjuntos de investigación policial en países de origen y tránsito contra las redes."
+ },
+ "med-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "med-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "med-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "med-11": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "med-12": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "rur-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "rur-8": {
+  "v": 1,
+  "page": 32,
+  "note": "Propone incentivos económicos en zonas en declive para frenar la despoblación."
+ },
+ "rur-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "rur-10": {
+  "v": 0,
+  "page": 49,
+  "note": "Propone proteger a los ganaderos frente al lobo, compatibilizándolo con su conservación."
+ },
+ "ter-9": {
+  "v": -2,
+  "page": 33,
+  "note": "Propone aumentar el apoyo de las diputaciones en la gestión y prestación de servicios."
+ },
+ "ter-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ter-11": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ter-12": {
+  "v": 2,
+  "page": 15,
+  "note": "Propone recuperar en el Código Penal el delito de sedición."
+ },
+ "ins-11": {
+  "v": 1,
+  "page": 13,
+  "note": "Propone reducir ministerios, altos cargos y asesores; no menciona diputados ni senadores."
+ },
+ "ins-12": {
+  "v": 2,
+  "page": 25,
+  "note": "Propone que los condenados por corrupción no puedan ser indultados."
+ },
+ "ins-13": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ins-14": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ins-15": {
+  "v": -2,
+  "page": 26,
+  "note": "Propone reforzar el Senado, con control de la ejecución presupuestaria cada año."
+ },
+ "ext-8": {
+  "v": 1,
+  "page": 56,
+  "note": "Propone que la defensa europea se financie con compras conjuntas."
+ },
+ "ext-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ext-10": {
+  "v": 2,
+  "page": 56,
+  "note": "Considera Gibraltar una cuestión de Estado y propone reivindicar la soberanía española."
+ },
+ "ext-11": {
+  "v": 1,
+  "page": 56,
+  "note": "Respalda que Ucrania avance hacia la Unión Europea conforme a los procedimientos establecidos."
+ },
+ "cul-8": {
+  "v": 2,
+  "page": 27,
+  "note": "Propone reformar RTVE y EFE para recuperar su independencia."
+ },
+ "cul-9": {
+  "v": 2,
+  "page": 38,
+  "note": "Propone restituir el Premio Nacional de Tauromaquia y fortalecer esta manifestación cultural."
+ },
+ "cul-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "cul-11": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "cul-12": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
  }
 }

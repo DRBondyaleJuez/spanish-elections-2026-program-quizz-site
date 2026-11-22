@@ -498,5 +498,305 @@
   "v": null,
   "page": null,
   "note": "No lo menciona el programa."
+ },
+ "viv-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-11": {
+  "v": 2,
+  "page": 5,
+  "note": "Propone prohibir de forma permanente los desahucios de familias vulnerables sin alternativa habitacional."
+ },
+ "viv-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-7": {
+  "v": 2,
+  "page": 7,
+  "note": "Propone transferir por completo la Inspección de Trabajo y reforzarla para perseguir abusos y excesos de jornada."
+ },
+ "emp-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-9": {
+  "v": 1,
+  "page": 6,
+  "note": "Propone reducir la precariedad y la temporalidad laboral; no concreta que el indefinido sea la norma."
+ },
+ "emp-10": {
+  "v": 2,
+  "page": 16,
+  "note": "Propone fomentar la participación de las personas trabajadoras en la propiedad y gestión de las empresas."
+ },
+ "eco-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-12": {
+  "v": 2,
+  "page": 8,
+  "note": "Propone límites temporales a los precios de bienes y servicios esenciales y recuperar el «tope al gas»."
+ },
+ "eco-13": {
+  "v": -2,
+  "page": 11,
+  "note": "Rechaza la privatización y externalización de servicios sanitarios y de pensiones."
+ },
+ "pen-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-9": {
+  "v": 1,
+  "page": 12,
+  "note": "Propone avanzar hacia cuidados públicos y gratuitos, limitando su privatización; no habla de un nuevo pilar."
+ },
+ "pen-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-8": {
+  "v": 1,
+  "page": 11,
+  "note": "Propone avanzar hacia una Farmacia Pública de medicamentos básicos con gestión autonómica; no menciona fabricación propia."
+ },
+ "san-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-9": {
+  "v": 2,
+  "page": 11,
+  "note": "Propone bajar las ratios de alumnos por aula aprovechando la caída de la natalidad."
+ },
+ "edu-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-11": {
+  "v": 2,
+  "page": 20,
+  "note": "Propone acceso efectivo al padrón y a sanidad, educación y vivienda sin importar la situación administrativa."
+ },
+ "inm-12": {
+  "v": -2,
+  "page": 20,
+  "note": "Rechaza la externalización de fronteras y el Pacto Europeo de Migración y Asilo."
+ },
+ "med-8": {
+  "v": 1,
+  "page": 15,
+  "note": "Propone reducir urgentemente el uso de combustibles fósiles; no menciona expresamente el fracking."
+ },
+ "med-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-10": {
+  "v": 1,
+  "page": 18,
+  "note": "Propone eliminar subvenciones a combustibles fósiles y gravar los vuelos privados y los billetes de avión."
+ },
+ "med-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-11": {
+  "v": 2,
+  "page": 24,
+  "note": "Propone asumir competencias sobre puertos y aeropuertos; sobre cercanías solo pide reforzar el servicio."
+ },
+ "ter-12": {
+  "v": -1,
+  "page": 23,
+  "note": "Critica el uso de instituciones contra el independentismo y defiende el derecho a decidir; no menciona la sedición."
+ },
+ "ins-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-13": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-14": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-15": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-8": {
+  "v": 1,
+  "page": 28,
+  "note": "Propone una seguridad europea propia basada en la diplomacia y rechaza la OTAN; no menciona un ejército común."
+ },
+ "ext-9": {
+  "v": 2,
+  "page": 29,
+  "note": "Propone reconocer el Estado palestino y políticas efectivas para la libertad de Palestina."
+ },
+ "ext-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-12": {
+  "v": 1,
+  "page": 21,
+  "note": "Propone gobernanza democrática de la IA con auditoría y protección de derechos; no menciona la vigilancia masiva."
  }
 }

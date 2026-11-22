@@ -498,5 +498,305 @@
   "v": 0,
   "page": 146,
   "note": "Propone reformar el reparto de la publicidad institucional para hacerlo más justo y evitar financiar pseudomedios."
+ },
+ "viv-9": {
+  "v": null,
+  "page": null,
+  "note": "No menciona ayudas al alquiler para jóvenes."
+ },
+ "viv-10": {
+  "v": 0,
+  "page": 10,
+  "note": "Propone modificar la Ley del Suelo para reservar suelo a vivienda habitual; no busca liberar suelo."
+ },
+ "viv-11": {
+  "v": 2,
+  "page": 15,
+  "note": "Propone erradicar los desahucios sin alternativa habitacional."
+ },
+ "viv-12": {
+  "v": 2,
+  "page": 19,
+  "note": "Propone proteger de forma permanente el parque público de la venta, con un gran parque público de alquiler."
+ },
+ "emp-7": {
+  "v": 2,
+  "page": 100,
+  "note": "Propone reforzar la Inspección de Trabajo y ampliar su plantilla de inspectores."
+ },
+ "emp-8": {
+  "v": -2,
+  "page": 51,
+  "note": "Propone la prevalencia del convenio sectorial y la ultraactividad indefinida de los convenios."
+ },
+ "emp-9": {
+  "v": 1,
+  "page": 100,
+  "note": "Propone reducir la temporalidad en el sector público hasta el 8 %; no generaliza el contrato indefinido."
+ },
+ "emp-10": {
+  "v": 2,
+  "page": 115,
+  "note": "Propone participación paritaria de las plantillas en los consejos de administración y reparto del beneficio."
+ },
+ "eco-9": {
+  "v": 2,
+  "page": 47,
+  "note": "Propone ampliar el impuesto sobre transacciones financieras."
+ },
+ "eco-10": {
+  "v": 2,
+  "page": 92,
+  "note": "Propone reforzar la ventanilla única y digitalizar para reducir trámites burocráticos a las pymes."
+ },
+ "eco-11": {
+  "v": null,
+  "page": null,
+  "note": "No propone bajar el IVA de los alimentos básicos."
+ },
+ "eco-12": {
+  "v": 2,
+  "page": 56,
+  "note": "Propone fijar topes máximos de precio en alimentos básicos de la cesta saludable."
+ },
+ "eco-13": {
+  "v": -2,
+  "page": 84,
+  "note": "Propone participaciones públicas mayoritarias en explotaciones estratégicas, en sentido contrario a venderlas."
+ },
+ "pen-7": {
+  "v": null,
+  "page": null,
+  "note": "No menciona compatibilizar la pensión de jubilación con el trabajo."
+ },
+ "pen-8": {
+  "v": null,
+  "page": null,
+  "note": "No menciona financiar las pensiones con impuestos generales."
+ },
+ "pen-9": {
+  "v": 2,
+  "page": 7,
+  "note": "Propone blindar un Estado del bienestar con los cuidados en el centro y un Pacto de Estado por los Cuidados."
+ },
+ "pen-10": {
+  "v": null,
+  "page": null,
+  "note": "No propone endurecer requisitos de ayudas sociales."
+ },
+ "san-7": {
+  "v": null,
+  "page": null,
+  "note": "No menciona el copago farmacéutico."
+ },
+ "san-8": {
+  "v": 2,
+  "page": 29,
+  "note": "Propone crear una industria farmacéutica con participación 100 % pública."
+ },
+ "san-9": {
+  "v": -2,
+  "page": 26,
+  "note": "Propone derogar la Ley 15/1997 y hacer excepcional la gestión indirecta con entidades privadas."
+ },
+ "san-10": {
+  "v": 2,
+  "page": 30,
+  "note": "Propone aumentar y planificar las plazas de formación sanitaria especializada, con mejoras laborales."
+ },
+ "edu-8": {
+  "v": null,
+  "page": null,
+  "note": "No menciona una prueba de acceso a la universidad única para toda España."
+ },
+ "edu-9": {
+  "v": 2,
+  "page": 31,
+  "note": "Propone fijar por ley ratios máximas por aula: 15 en Primaria y 20 en Secundaria."
+ },
+ "edu-10": {
+  "v": 1,
+  "page": 32,
+  "note": "Propone estudiar y regular el uso de teléfonos móviles en los centros escolares."
+ },
+ "edu-11": {
+  "v": 1,
+  "page": 22,
+  "note": "Propone comedor escolar gratuito en Infantil y Primaria; no menciona libros de texto gratuitos."
+ },
+ "igu-7": {
+  "v": 2,
+  "page": 38,
+  "note": "Propone que el consentimiento explícito determine si hay agresión sexual (solo sí es sí)."
+ },
+ "igu-8": {
+  "v": null,
+  "page": null,
+  "note": "No menciona la gestación subrogada."
+ },
+ "igu-9": {
+  "v": null,
+  "page": null,
+  "note": "No menciona el Ministerio de Igualdad ni organismos específicos para las mujeres."
+ },
+ "igu-10": {
+  "v": -1,
+  "page": 38,
+  "note": "Propone destinar al menos el 5 % del presupuesto a políticas de igualdad entre mujeres y hombres."
+ },
+ "inm-9": {
+  "v": null,
+  "page": null,
+  "note": "No propone fijar un máximo anual de personas inmigrantes."
+ },
+ "inm-10": {
+  "v": null,
+  "page": null,
+  "note": "No menciona examen de idioma ni de conocimientos para residencia o nacionalidad."
+ },
+ "inm-11": {
+  "v": 2,
+  "page": 126,
+  "note": "Propone un empadronamiento flexible y suprimir trabas para acceder a derechos básicos."
+ },
+ "inm-12": {
+  "v": -2,
+  "page": 127,
+  "note": "Rechaza centros de retorno en terceros países y las listas de países seguros."
+ },
+ "med-8": {
+  "v": 1,
+  "page": 64,
+  "note": "Propone prohibir importar gas de fracking y dejar de invertir en exploración de combustibles fósiles."
+ },
+ "med-9": {
+  "v": null,
+  "page": null,
+  "note": "No menciona las zonas de bajas emisiones."
+ },
+ "med-10": {
+  "v": 2,
+  "page": 48,
+  "note": "Propone profundizar en la fiscalidad sobre el carbono y los hidrocarburos."
+ },
+ "med-11": {
+  "v": null,
+  "page": null,
+  "note": "No menciona ampliar espacios naturales protegidos."
+ },
+ "med-12": {
+  "v": 2,
+  "page": 66,
+  "note": "Propone electrificación integral y fin del diésel para 2030, antes de la fecha de 2035."
+ },
+ "rur-7": {
+  "v": null,
+  "page": null,
+  "note": "No menciona limitar parques solares o eólicos en suelo agrícola."
+ },
+ "rur-8": {
+  "v": 2,
+  "page": 97,
+  "note": "Propone garantizar por ley servicios públicos básicos a menos de 30 minutos en el medio rural."
+ },
+ "rur-9": {
+  "v": -1,
+  "page": 88,
+  "note": "Propone reducir de forma vinculante plaguicidas y fertilizantes sintéticos, en sentido contrario."
+ },
+ "rur-10": {
+  "v": 2,
+  "page": 77,
+  "note": "Propone devolver al lobo la protección estricta, con prevención de daños e indemnizaciones ágiles."
+ },
+ "ter-9": {
+  "v": null,
+  "page": null,
+  "note": "No menciona suprimir las diputaciones provinciales."
+ },
+ "ter-10": {
+  "v": 2,
+  "page": 140,
+  "note": "Propone que el Senado sea una verdadera cámara de representación territorial."
+ },
+ "ter-11": {
+  "v": -1,
+  "page": 105,
+  "note": "Propone que Renfe tenga titularidad y operación exclusiva de la alta velocidad; no menciona cercanías."
+ },
+ "ter-12": {
+  "v": -1,
+  "page": 8,
+  "note": "Propone una República Federal y Plurinacional que reconozca la diversidad de los pueblos; no endurece la respuesta del Estado."
+ },
+ "ins-11": {
+  "v": null,
+  "page": null,
+  "note": "No menciona reducir el número de diputados, senadores o cargos políticos."
+ },
+ "ins-12": {
+  "v": 1,
+  "page": 142,
+  "note": "Propone eliminar la atenuante por dilaciones indebidas en casos de corrupción; no menciona los indultos."
+ },
+ "ins-13": {
+  "v": null,
+  "page": null,
+  "note": "No menciona eliminar o limitar la acusación popular."
+ },
+ "ins-14": {
+  "v": 2,
+  "page": 117,
+  "note": "Propone endurecer las incompatibilidades contra las puertas giratorias."
+ },
+ "ins-15": {
+  "v": -1,
+  "page": 140,
+  "note": "Propone convertir el Senado en cámara de representación territorial, no suprimirlo."
+ },
+ "ext-8": {
+  "v": null,
+  "page": null,
+  "note": "No menciona un ejército europeo común."
+ },
+ "ext-9": {
+  "v": 2,
+  "page": 132,
+  "note": "Pide que todos los Estados miembros reconozcan formalmente al Estado de Palestina."
+ },
+ "ext-10": {
+  "v": null,
+  "page": null,
+  "note": "No menciona la soberanía española sobre Gibraltar."
+ },
+ "ext-11": {
+  "v": null,
+  "page": null,
+  "note": "No menciona apoyar la entrada de nuevos países en la UE."
+ },
+ "cul-8": {
+  "v": null,
+  "page": null,
+  "note": "No menciona la independencia de RTVE."
+ },
+ "cul-9": {
+  "v": -2,
+  "page": 34,
+  "note": "Propone derogar la Ley 18/2013 que protege la tauromaquia y suprimir las subvenciones a los toros."
+ },
+ "cul-10": {
+  "v": 2,
+  "page": 45,
+  "note": "Propone elevar al 15 % el Impuesto sobre Servicios Digitales a las grandes tecnológicas."
+ },
+ "cul-11": {
+  "v": 2,
+  "page": 97,
+  "note": "Propone que las personas del medio rural tengan internet rápido para vivir y trabajar en el pueblo."
+ },
+ "cul-12": {
+  "v": 1,
+  "page": 52,
+  "note": "Prohíbe datos biométricos para el control horario laboral; no aborda la vigilancia masiva con IA."
  }
 }

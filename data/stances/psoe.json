@@ -498,5 +498,305 @@
   "v": null,
   "page": null,
   "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "viv-9": {
+  "v": 1,
+  "page": 31,
+  "note": "Propone una garantía pública de acceso al alquiler para jóvenes, con seguros de impago; no un bono directo."
+ },
+ "viv-10": {
+  "v": 1,
+  "page": 29,
+  "note": "Propone una Ley de Sostenibilidad y Movilización del Suelo para agilizar el desarrollo urbanístico y movilizar suelo público."
+ },
+ "viv-11": {
+  "v": 2,
+  "page": 33,
+  "note": "Propone garantizar protección frente a desahucios de personas vulnerables sin alternativa habitacional."
+ },
+ "viv-12": {
+  "v": -1,
+  "page": 28,
+  "note": "Propone promover vivienda pública para venta o alquiler estable, no solo para alquiler."
+ },
+ "emp-7": {
+  "v": 2,
+  "page": 41,
+  "note": "Propone reforzar la Inspección de Trabajo y erradicar las horas extra ilegales y no remuneradas."
+ },
+ "emp-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "emp-9": {
+  "v": 2,
+  "page": 90,
+  "note": "Propone favorecer la contratación indefinida y limitar el abuso de la temporalidad."
+ },
+ "emp-10": {
+  "v": 2,
+  "page": 43,
+  "note": "Propone reforzar la participación de los trabajadores en la gestión de las empresas."
+ },
+ "eco-9": {
+  "v": 2,
+  "page": 49,
+  "note": "Propone reforzar la tasa Tobin, elevando el tipo impositivo del 0,2% al 0,4%."
+ },
+ "eco-10": {
+  "v": 1,
+  "page": 18,
+  "note": "Propone una ventanilla digital única para simplificar trámites a ciudadanos y empresas."
+ },
+ "eco-11": {
+  "v": 1,
+  "page": 38,
+  "note": "Propone que cualquier rebaja del IVA de alimentos básicos llegue al precio final."
+ },
+ "eco-12": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "eco-13": {
+  "v": -1,
+  "page": 49,
+  "note": "Propone limitar la privatización de la sanidad y la gestión directa como modalidad preferente."
+ },
+ "pen-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "pen-8": {
+  "v": 2,
+  "page": 40,
+  "note": "Propone que el Estado asuma la financiación de prestaciones no contributivas, separando fuentes."
+ },
+ "pen-9": {
+  "v": 2,
+  "page": 46,
+  "note": "Propone un sistema comunitario de cuidados que no deje solas a las familias."
+ },
+ "pen-10": {
+  "v": -1,
+  "page": 38,
+  "note": "Propone potenciar el Ingreso Mínimo Vital con pasarelas automáticas que simplifiquen el acceso."
+ },
+ "san-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "san-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "san-9": {
+  "v": -1,
+  "page": 49,
+  "note": "Propone limitar la privatización de la sanidad, con gestión directa como modalidad preferente."
+ },
+ "san-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "edu-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "edu-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "edu-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "edu-11": {
+  "v": 2,
+  "page": 46,
+  "note": "Propone una educación pública y gratuita de los 0 a los 18 años."
+ },
+ "igu-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "igu-8": {
+  "v": 2,
+  "page": 77,
+  "note": "Propone reforzar las medidas contra la gestación subrogada, reconocida como violencia reproductiva."
+ },
+ "igu-9": {
+  "v": 1,
+  "page": 78,
+  "note": "Critica que la derecha debilite los organismos de igualdad; defiende la estructura actual."
+ },
+ "igu-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "inm-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "inm-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "inm-11": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "inm-12": {
+  "v": 1,
+  "page": 92,
+  "note": "Propone reforzar la cooperación con países de origen y tránsito para combatir a las mafias."
+ },
+ "med-8": {
+  "v": 1,
+  "page": 65,
+  "note": "Propone una hoja de ruta para el abandono progresivo de los combustibles fósiles."
+ },
+ "med-9": {
+  "v": 2,
+  "page": 71,
+  "note": "Propone impulsar las Zonas de Bajas Emisiones y la movilidad sostenible en las ciudades."
+ },
+ "med-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "med-11": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "med-12": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "rur-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "rur-8": {
+  "v": 1,
+  "page": 57,
+  "note": "Propone priorizar la accesibilidad de los servicios públicos y el transporte en el medio rural."
+ },
+ "rur-9": {
+  "v": -2,
+  "page": 73,
+  "note": "Propone defender y profundizar el Pacto Verde Europeo, sin reducir su ambición climática."
+ },
+ "rur-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ter-9": {
+  "v": -1,
+  "page": 92,
+  "note": "Propone que las diputaciones presten servicios con garantías; no plantea suprimirlas."
+ },
+ "ter-10": {
+  "v": 2,
+  "page": 91,
+  "note": "Propone reformar el Senado para convertirlo en una auténtica cámara de representación territorial."
+ },
+ "ter-11": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ter-12": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ins-11": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ins-12": {
+  "v": 1,
+  "page": 102,
+  "note": "Propone una Ley de Integridad Pública y una Estrategia Nacional Anticorrupción con mapas de riesgo."
+ },
+ "ins-13": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ins-14": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ins-15": {
+  "v": -1,
+  "page": 91,
+  "note": "Propone reformar el Senado como cámara territorial, no suprimirlo."
+ },
+ "ext-8": {
+  "v": 1,
+  "page": 110,
+  "note": "Propone impulsar la Unión Europea de la defensa y su autonomía estratégica militar."
+ },
+ "ext-9": {
+  "v": 2,
+  "page": 105,
+  "note": "Destaca el reconocimiento del Estado de Palestina en 2024 y la defensa de la paz en Gaza."
+ },
+ "ext-10": {
+  "v": 1,
+  "page": 110,
+  "note": "Propone desplegar el Acuerdo sobre Gibraltar preservando la posición de España sobre la soberanía."
+ },
+ "ext-11": {
+  "v": 1,
+  "page": 110,
+  "note": "Propone impulsar la ampliación de la UE con la entrada de los Balcanes Occidentales."
+ },
+ "cul-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "cul-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "cul-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "cul-11": {
+  "v": 2,
+  "page": 18,
+  "note": "Propone un plan de ayudas al despliegue de banda ancha para cerrar las brechas de conectividad."
+ },
+ "cul-12": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
  }
 }

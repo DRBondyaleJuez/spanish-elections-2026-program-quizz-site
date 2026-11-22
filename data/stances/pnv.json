@@ -498,5 +498,305 @@
   "v": null,
   "page": null,
   "note": "No lo menciona el programa."
+ },
+ "viv-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-7": {
+  "v": 2,
+  "page": 9,
+  "note": "Propone reforzar la Inspección de Trabajo contra el fraude laboral y las falsas personas autónomas."
+ },
+ "emp-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-10": {
+  "v": 2,
+  "page": 14,
+  "note": "Propone reducir la burocracia y eliminar duplicidades administrativas para crear y ampliar empresas."
+ },
+ "eco-11": {
+  "v": 1,
+  "page": 21,
+  "note": "Propone estudiar tipos de IVA cero o superreducidos para alimentos básicos, dentro del marco europeo."
+ },
+ "eco-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-13": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-9": {
+  "v": 1,
+  "page": 33,
+  "note": "Propone una prestación para cuidadores no profesionales y un Fondo Personal para Cuidados; no habla de un nuevo pilar."
+ },
+ "pen-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-10": {
+  "v": 1,
+  "page": 32,
+  "note": "Propone ajustar las plazas MIR a las necesidades reales y formar más especialistas donde hacen falta."
+ },
+ "edu-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-9": {
+  "v": 1,
+  "page": 26,
+  "note": "Propone reforzar la independencia de los organismos de igualdad; no menciona el Ministerio de Igualdad."
+ },
+ "igu-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-8": {
+  "v": -1,
+  "page": 16,
+  "note": "Propone reforzar las infraestructuras de gas natural y el apoyo a la cogeneración; no menciona el fracking."
+ },
+ "med-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-11": {
+  "v": 1,
+  "page": 17,
+  "note": "Propone reforzar la protección de espacios naturales y ecosistemas; no habla de limitar actividades económicas."
+ },
+ "med-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-9": {
+  "v": -1,
+  "page": 21,
+  "note": "Propone que las diputaciones forales usen superávits y reglas de gasto más flexibles; no plantea suprimirlas."
+ },
+ "ter-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-11": {
+  "v": 2,
+  "page": 20,
+  "note": "Propone gestionar desde Euskadi los puertos de Bilbao y Pasaia y avanzar hacia un modelo aeroportuario vasco."
+ },
+ "ter-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-13": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-14": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-15": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-12": {
+  "v": null,
+  "page": null,
+  "note": ""
  }
 }

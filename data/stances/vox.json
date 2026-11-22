@@ -498,5 +498,305 @@
     "v": null,
     "page": null,
     "note": "No menciona subvenciones ni publicidad institucional a medios de comunicación."
+  },
+  "viv-9": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "viv-10": {
+    "v": 2,
+    "page": 23,
+    "note": "Propone reformar la Ley del Suelo para ampliar el suelo disponible y agilizar trámites para construir vivienda."
+  },
+  "viv-11": {
+    "v": -1,
+    "page": 24,
+    "note": "Propone desalojos de ocupas en menos de 24 horas; no menciona protección de familias vulnerables sin alternativa."
+  },
+  "viv-12": {
+    "v": -1,
+    "page": 23,
+    "note": "Promueve vivienda protegida con cesiones de suelo y colaboración público-privada; no plantea un parque público solo de alquiler."
+  },
+  "emp-7": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "emp-8": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "emp-9": {
+    "v": 1,
+    "page": 12,
+    "note": "Objetivo de empleo estable y derogación de la legislación laboral actual; no fija un límite a los temporales."
+  },
+  "emp-10": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "eco-9": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "eco-10": {
+    "v": 2,
+    "page": 28,
+    "note": "Derogar tres normas por cada nueva ley, silencio administrativo positivo y fin de la cita previa para simplificar trámites."
+  },
+  "eco-11": {
+    "v": 2,
+    "page": 9,
+    "note": "Rebaja del tipo reducido y general del IVA priorizando productos esenciales y de primera necesidad."
+  },
+  "eco-12": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "eco-13": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "pen-7": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "pen-8": {
+    "v": 1,
+    "page": 51,
+    "note": "El Estado paga la cotización a la Seguridad Social de quienes cuidan hijos; no propone financiar pensiones con impuestos en general."
+  },
+  "pen-9": {
+    "v": 1,
+    "page": 52,
+    "note": "Más presupuesto en dependencia, ayudas al cuidado en casa y plazas de residencia; no crea un pilar nuevo."
+  },
+  "pen-10": {
+    "v": 2,
+    "page": 19,
+    "note": "El Ingreso Mínimo Vital solo para españoles con menos recursos; supresión de ayudas sociales a inmigrantes ilegales."
+  },
+  "san-7": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "san-8": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "san-9": {
+    "v": 1,
+    "page": 37,
+    "note": "Colaboración público-privada para reducir listas de espera cuando ayude a reducir demoras; no menciona libre elección de centro privado."
+  },
+  "san-10": {
+    "v": 1,
+    "page": 38,
+    "note": "Mejora de salarios, guardias y carrera profesional, con incentivos y plan de retorno; no menciona plazas MIR."
+  },
+  "edu-8": {
+    "v": 2,
+    "page": 41,
+    "note": "Propone una EVAU única para toda España."
+  },
+  "edu-9": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "edu-10": {
+    "v": 2,
+    "page": 41,
+    "note": "Propone el fin de los móviles en clase."
+  },
+  "edu-11": {
+    "v": 1,
+    "page": 42,
+    "note": "Becas de comedor y transporte con prioridad nacional; no propone gratuidad total de libros ni comedor."
+  },
+  "igu-7": {
+    "v": -1,
+    "page": 30,
+    "note": "Derogar las leyes de género para sustituirlas por normas de protección a víctimas; no menciona el consentimiento."
+  },
+  "igu-8": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "igu-9": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "igu-10": {
+    "v": 2,
+    "page": 30,
+    "note": "Normas de protección a víctimas de violencia sin distinción; sustituye las leyes de género."
+  },
+  "inm-9": {
+    "v": 1,
+    "page": 15,
+    "note": "Propone no acoger más inmigrantes (ni uno más), más restrictivo que un máximo anual; no fija cifra."
+  },
+  "inm-10": {
+    "v": 1,
+    "page": 15,
+    "note": "Endurecer requisitos para la nacionalidad y suprimir el arraigo; no menciona examen de idioma."
+  },
+  "inm-11": {
+    "v": -2,
+    "page": 19,
+    "note": "Excluye de la sanidad a extranjeros en situación ilegal salvo urgencia y suprime ayudas sociales a inmigrantes ilegales."
+  },
+  "inm-12": {
+    "v": 1,
+    "page": 16,
+    "note": "Retirar la cooperación al desarrollo a países que no colaboren en gestionar los flujos migratorios."
+  },
+  "med-8": {
+    "v": -2,
+    "page": 12,
+    "note": "Pide fin de las restricciones para explorar y explotar recursos naturales y yacimientos; no menciona el fracking."
+  },
+  "med-9": {
+    "v": -2,
+    "page": 29,
+    "note": "Propone acabar con las imposiciones climáticas, incluidas las zonas de bajas emisiones."
+  },
+  "med-10": {
+    "v": -2,
+    "page": 12,
+    "note": "Propone revertir los impuestos a las emisiones de CO2 y bajar la fiscalidad de la electricidad."
+  },
+  "med-11": {
+    "v": -2,
+    "page": 12,
+    "note": "Pide fin de las restricciones para explotar recursos naturales; revisa restricciones ambientales."
+  },
+  "med-12": {
+    "v": -2,
+    "page": 12,
+    "note": "Propone revertir la prohibición de motores de combustión, en el marco de rechazo al Pacto Verde."
+  },
+  "rur-7": {
+    "v": 2,
+    "page": 34,
+    "note": "Impedir la instalación descontrolada de macroplantas solares y eólicas sobre suelo agrícola."
+  },
+  "rur-8": {
+    "v": 1,
+    "page": 20,
+    "note": "Garantizar la calidad de los servicios públicos sea cual sea el lugar de residencia; no menciona costes."
+  },
+  "rur-9": {
+    "v": 1,
+    "page": 34,
+    "note": "Fondo de compensación ante normas de Bruselas, declaración responsable y revisión de restricciones ambientales."
+  },
+  "rur-10": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "ter-9": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "ter-10": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "ter-11": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "ter-12": {
+    "v": 2,
+    "page": 55,
+    "note": "Recuperar el delito de sedición y respuesta contundente frente a ataques a la unidad nacional; no cita el artículo 155."
+  },
+  "ins-11": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "ins-12": {
+    "v": 2,
+    "page": 55,
+    "note": "Endurecer penas por corrupción y prohibir indultos en delitos de corrupción política."
+  },
+  "ins-13": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "ins-14": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "ins-15": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "ext-8": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "ext-9": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "ext-10": {
+    "v": 2,
+    "page": 48,
+    "note": "Recuperar la soberanía española sobre Gibraltar con presión internacional."
+  },
+  "ext-11": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "cul-8": {
+    "v": 1,
+    "page": 58,
+    "note": "Propone limpiar RTVE de control político para informar con objetividad; no detalla cómo se elige la dirección."
+  },
+  "cul-9": {
+    "v": 2,
+    "page": 43,
+    "note": "Defensa y promoción de la tauromaquia."
+  },
+  "cul-10": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "cul-11": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "cul-12": {
+    "v": -1,
+    "page": 27,
+    "note": "Impulsa la inteligencia artificial en empresas y Administración; no menciona límites a la vigilancia."
   }
 }

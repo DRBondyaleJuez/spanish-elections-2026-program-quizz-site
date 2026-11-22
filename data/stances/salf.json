@@ -498,5 +498,305 @@
     "v": 1,
     "page": 29,
     "note": "Elimina la publicidad institucional y subvenciones a sindicatos y patronal; no menciona medios."
+  },
+  "viv-9": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "viv-10": {
+    "v": 1,
+    "page": 6,
+    "note": "Ofrece suelo público y de la Sareb a concurso y acelera licencias; no cita expresamente la Ley del Suelo."
+  },
+  "viv-11": {
+    "v": -2,
+    "page": 5,
+    "note": "Desalojo en 48 horas y lanzamiento en 30 días, sin excusas de vulnerabilidad."
+  },
+  "viv-12": {
+    "v": -2,
+    "page": 6,
+    "note": "Propone vivienda protegida en propiedad a precio tasado, no en alquiler."
+  },
+  "emp-7": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "emp-8": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "emp-9": {
+    "v": 1,
+    "page": 30,
+    "note": "Un único contrato indefinido con indemnización creciente; no menciona límites a los temporales."
+  },
+  "emp-10": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "eco-9": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "eco-10": {
+    "v": 2,
+    "page": 30,
+    "note": "Licencia de actividad en 24 horas por declaración responsable."
+  },
+  "eco-11": {
+    "v": 1,
+    "page": 13,
+    "note": "IVA de la luz y del agua al 4 por ciento; no menciona alimentos."
+  },
+  "eco-12": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "eco-13": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "pen-7": {
+    "v": 2,
+    "page": 20,
+    "note": "Jubilación activa total: cobra el 100 % de la pensión mientras trabaja."
+  },
+  "pen-8": {
+    "v": 0,
+    "page": 21,
+    "note": "Publica por separado cotizaciones y transferencias del Estado; no propone financiar pensiones con impuestos generales."
+  },
+  "pen-9": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "pen-10": {
+    "v": 2,
+    "page": 19,
+    "note": "Exige cinco años de residencia y cotización para ayudas no contributivas y vivienda pública."
+  },
+  "san-7": {
+    "v": 2,
+    "page": 23,
+    "note": "Copago cero en farmacia para menores de 3 años, pensiones mínimas y enfermos crónicos."
+  },
+  "san-8": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "san-9": {
+    "v": 2,
+    "page": 22,
+    "note": "Si se superan los plazos máximos, el paciente elige centro público o privado con pago por el sistema público."
+  },
+  "san-10": {
+    "v": 1,
+    "page": 22,
+    "note": "Sube el sueldo de médicos un 20 % y del resto de profesionales un 10 % en cuatro años; no menciona plazas MIR."
+  },
+  "edu-8": {
+    "v": 2,
+    "page": 33,
+    "note": "Selectividad única en castellano para toda España."
+  },
+  "edu-9": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "edu-10": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "edu-11": {
+    "v": -1,
+    "page": 34,
+    "note": "Cheque escolar válido en centros públicos, concertados y privados; no propone gratuidad total."
+  },
+  "igu-7": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "igu-8": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "igu-9": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "igu-10": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "inm-9": {
+    "v": 2,
+    "page": 18,
+    "note": "Cupo anual de inmigración votado en el Congreso."
+  },
+  "inm-10": {
+    "v": 1,
+    "page": 18,
+    "note": "Nacionalidad a los diez años con examen de cultura y Constitución; no menciona idioma."
+  },
+  "inm-11": {
+    "v": -2,
+    "page": 23,
+    "note": "Tarjeta sanitaria solo para españoles y residentes legales; urgencias para todos."
+  },
+  "inm-12": {
+    "v": 1,
+    "page": 17,
+    "note": "Ni dinero, visados ni preferencias comerciales a países que no readmitan a sus nacionales en 72 horas."
+  },
+  "med-8": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "med-9": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "med-10": {
+    "v": -1,
+    "page": 13,
+    "note": "Rebaja impuestos a la electricidad y suprime el impuesto a la producción eléctrica; no menciona combustibles fósiles."
+  },
+  "med-11": {
+    "v": -2,
+    "page": 35,
+    "note": "Veta la Ley de Restauración por dejar improductivo hasta el 40 % de la Red Natura."
+  },
+  "med-12": {
+    "v": -1,
+    "page": 35,
+    "note": "Se opone al Pacto Verde europeo; no menciona la prohibición de coches de combustión."
+  },
+  "rur-7": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "rur-8": {
+    "v": 1,
+    "page": 22,
+    "note": "Complemento de 30.000 euros para médicos en plazas rurales; no cubre otros servicios."
+  },
+  "rur-9": {
+    "v": 1,
+    "page": 35,
+    "note": "Veta el Pacto Verde, el recorte de la PAC y el acuerdo con Mercosur para defender al campo."
+  },
+  "rur-10": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "ter-9": {
+    "v": 2,
+    "page": 16,
+    "note": "Supresión de las diputaciones provinciales."
+  },
+  "ter-10": {
+    "v": -2,
+    "page": 29,
+    "note": "Propone suprimir el Senado."
+  },
+  "ter-11": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "ter-12": {
+    "v": 1,
+    "page": 26,
+    "note": "Prohibir amnistías y condicionar los indultos; no menciona el artículo 155 ni la sedición."
+  },
+  "ins-11": {
+    "v": 2,
+    "page": 29,
+    "note": "Reduce de 823 a 450 los altos cargos y limita a 15 años los cargos públicos remunerados."
+  },
+  "ins-12": {
+    "v": 2,
+    "page": 25,
+    "note": "Corrupción imprescriptible, sin indulto ni tercer grado."
+  },
+  "ins-13": {
+    "v": -2,
+    "page": 27,
+    "note": "Blinda la acción popular en la reforma constitucional."
+  },
+  "ins-14": {
+    "v": 2,
+    "page": 28,
+    "note": "Puertas giratorias cerradas: cinco años de incompatibilidad para pasar a empresas reguladas."
+  },
+  "ins-15": {
+    "v": 2,
+    "page": 29,
+    "note": "Propone suprimir el Senado."
+  },
+  "ext-8": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "ext-9": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "ext-10": {
+    "v": 2,
+    "page": 37,
+    "note": "Pone la soberanía de Gibraltar sobre la mesa en la negociación."
+  },
+  "ext-11": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "cul-8": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "cul-9": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "cul-10": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "cul-11": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
+  },
+  "cul-12": {
+    "v": null,
+    "page": null,
+    "note": "El programa no dice nada que permita saberlo."
   }
 }

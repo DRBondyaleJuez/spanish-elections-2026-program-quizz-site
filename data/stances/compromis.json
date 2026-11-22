@@ -498,5 +498,305 @@
   "v": null,
   "page": null,
   "note": ""
+ },
+ "viv-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-10": {
+  "v": -1,
+  "page": 28,
+  "note": "Propone proteger el suelo agrario de alto valor frente a la urbanización, en sentido contrario a liberar más suelo."
+ },
+ "viv-11": {
+  "v": 2,
+  "page": 6,
+  "note": "Propone prohibir por ley los desahucios sin alternativa habitacional."
+ },
+ "viv-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-7": {
+  "v": 2,
+  "page": 7,
+  "note": "Propone reforzar la Inspección de Trabajo para detectar y sancionar el fraude y las horas extra no declaradas."
+ },
+ "emp-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-10": {
+  "v": 2,
+  "page": 19,
+  "note": "Propone la participación directa de las personas trabajadoras en los consejos de administración de las grandes empresas."
+ },
+ "eco-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-10": {
+  "v": 2,
+  "page": 8,
+  "note": "Propone reducir trámites administrativos para micropymes y autónomos, como notificaciones y declaraciones."
+ },
+ "eco-11": {
+  "v": 2,
+  "page": 18,
+  "note": "Propone bajar el IVA de productos básicos, culturales y de higiene femenina."
+ },
+ "eco-12": {
+  "v": 1,
+  "page": 5,
+  "note": "Propone controlar los precios del alquiler y exigir transparencia en precios de alimentación; no propone topes a alimentos ni energía."
+ },
+ "eco-13": {
+  "v": -2,
+  "page": 19,
+  "note": "Propone que el Estado compre participaciones y cree empresas públicas en sectores estratégicos; contraria a privatizar."
+ },
+ "pen-7": {
+  "v": 1,
+  "page": 41,
+  "note": "Propone mecanismos de jubilación progresiva en sectores con desgaste; no plantea cobrar la pensión completa trabajando."
+ },
+ "pen-8": {
+  "v": 1,
+  "page": 18,
+  "note": "Propone un impuesto a las empresas por el uso de robots para reforzar las pensiones, además de las cotizaciones."
+ },
+ "pen-9": {
+  "v": 2,
+  "page": 11,
+  "note": "Propone una política pública de cuidados y un Estatuto de las Personas Cuidadoras, integrado en la Ley de Dependencia."
+ },
+ "pen-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-7": {
+  "v": 2,
+  "page": 9,
+  "note": "Propone suprimir el copago farmacéutico de las personas pensionistas."
+ },
+ "san-8": {
+  "v": 2,
+  "page": 10,
+  "note": "Propone crear una industria farmacéutica pública para medicamentos esenciales y genéricos."
+ },
+ "san-9": {
+  "v": -2,
+  "page": 9,
+  "note": "Propone impedir la privatización de la gestión sanitaria; es contraria a financiar con fondos públicos centros privados."
+ },
+ "san-10": {
+  "v": 1,
+  "page": 9,
+  "note": "Propone ampliar plantillas de profesionales sanitarios; no menciona plazas MIR."
+ },
+ "edu-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-11": {
+  "v": 1,
+  "page": 10,
+  "note": "Propone que el comedor escolar sea gratuito y universal; no menciona libros."
+ },
+ "igu-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-8": {
+  "v": 2,
+  "page": 47,
+  "note": "Propone reforzar la prohibición de la gestación subrogada y sancionar la publicidad de las agencias que la ofrecen."
+ },
+ "igu-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-10": {
+  "v": -1,
+  "page": 45,
+  "note": "Propone medidas de salud específicas para mujeres según su sexo; en sentido contrario a medidas iguales para todos."
+ },
+ "inm-9": {
+  "v": -1,
+  "page": 56,
+  "note": "Propone abrir vías de regularización para quienes ya viven aquí; no plantea un máximo anual de entradas."
+ },
+ "inm-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-11": {
+  "v": 2,
+  "page": 56,
+  "note": "Propone hacer obligatorio que los ayuntamientos empadronen a todas las personas, sea cual sea su situación administrativa."
+ },
+ "inm-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-8": {
+  "v": 1,
+  "page": 27,
+  "note": "Propone abandonar los combustibles fósiles hacia 2040; no menciona expresamente prohibir el fracking."
+ },
+ "med-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-11": {
+  "v": 0,
+  "page": 25,
+  "note": "Prioriza recuperar los espacios protegidos deteriorados, sin centrarse en ampliar la superficie protegida."
+ },
+ "med-12": {
+  "v": 1,
+  "page": 27,
+  "note": "Propone electrificar el sistema al 100% en 2030 y abandonar los combustibles fósiles; no cita la fecha de 2035."
+ },
+ "rur-7": {
+  "v": 1,
+  "page": 28,
+  "note": "Propone proteger el suelo agrario de alto valor en la Ley del Suelo; no menciona parques solares ni eólicos."
+ },
+ "rur-8": {
+  "v": 1,
+  "page": 53,
+  "note": "Propone apoyar a los municipios frente al despoblamiento; no menciona garantizar servicios aunque cuesten más."
+ },
+ "rur-9": {
+  "v": 0,
+  "page": 22,
+  "note": "Mixto: simplifica el régimen de pequeñas explotaciones, pero propone reducir pesticidas y fertilizantes sintéticos."
+ },
+ "rur-10": {
+  "v": 1,
+  "page": 25,
+  "note": "Propone reducir las amenazas para la fauna silvestre; no menciona al lobo ni compensaciones ganaderas."
+ },
+ "ter-9": {
+  "v": 2,
+  "page": 53,
+  "note": "Propone avanzar en la supresión de las diputaciones provinciales."
+ },
+ "ter-10": {
+  "v": 2,
+  "page": 52,
+  "note": "Propone convertir el Senado en un espacio efectivo de representación territorial."
+ },
+ "ter-11": {
+  "v": 2,
+  "page": 52,
+  "note": "Propone traspasar a la Generalitat competencias en puertos, aeropuertos y Cercanías."
+ },
+ "ter-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-12": {
+  "v": 1,
+  "page": 36,
+  "note": "Propone protección para denunciantes de corrupción y más transparencia; no menciona penas más duras ni indultos."
+ },
+ "ins-13": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-14": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-15": {
+  "v": -1,
+  "page": 52,
+  "note": "Propone reformar el Senado para convertirlo en representación territorial; no plantea suprimirlo."
+ },
+ "ext-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-12": {
+  "v": 1,
+  "page": 16,
+  "note": "Propone regular estrictamente los usos de la IA y proteger frente a los deep fakes; no menciona vigilancia masiva ni reconocimiento facial."
  }
 }

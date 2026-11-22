@@ -498,5 +498,305 @@
   "v": null,
   "page": null,
   "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "viv-9": {
+  "v": 1,
+  "page": 11,
+  "note": "Propone una línea estatal reforzada de vivienda joven y alquiler asequible; no menciona ayudas directas al alquiler."
+ },
+ "viv-10": {
+  "v": 1,
+  "page": 11,
+  "note": "Propone acortar trámites de vivienda protegida y comprar suelo para vivienda pública; no menciona la Ley del Suelo."
+ },
+ "viv-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-13": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-9": {
+  "v": 1,
+  "page": 9,
+  "note": "Pide financiación estatal estable para la dependencia y una estrategia de cuidados de larga duración; no lo llama nuevo pilar."
+ },
+ "pen-10": {
+  "v": -1,
+  "page": 10,
+  "note": "Quiere que aceptar un empleo no provoque una pérdida brusca de protección; no propone endurecer requisitos."
+ },
+ "san-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-10": {
+  "v": 1,
+  "page": 9,
+  "note": "Pide formación sanitaria especializada que responda a las necesidades de Canarias y disponer de especialistas; sin cifras de plazas MIR."
+ },
+ "edu-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-11": {
+  "v": 1,
+  "page": 9,
+  "note": "Propone plazas públicas gratuitas de educación infantil de 0 a 3 años; no menciona libros ni comedor."
+ },
+ "igu-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-11": {
+  "v": 1,
+  "page": 19,
+  "note": "Pide financiación para la atención sanitaria y educativa de menores extranjeros no acompañados; no menciona el empadronamiento general."
+ },
+ "inm-12": {
+  "v": 1,
+  "page": 19,
+  "note": "Propone cooperación con países de origen y tránsito en seguridad y movilidad ordenada; no menciona el control de salidas."
+ },
+ "med-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-11": {
+  "v": 1,
+  "page": 17,
+  "note": "Propone restaurar la naturaleza en Canarias con financiación estatal; no menciona ampliar espacios protegidos."
+ },
+ "med-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-7": {
+  "v": 1,
+  "page": 13,
+  "note": "Pide mantener el suelo agrícola en uso y consenso para proyectos renovables; no menciona parques solares en suelo agrícola."
+ },
+ "rur-8": {
+  "v": 2,
+  "page": 8,
+  "note": "Pide financiar el coste real de prestar servicios en un archipiélago alejado para que el lugar de residencia no limite el acceso."
+ },
+ "rur-9": {
+  "v": 1,
+  "page": 20,
+  "note": "Pide adaptaciones de normas europeas cuando causen impactos desproporcionados en agricultura; no pide rebajar exigencias ambientales generales."
+ },
+ "rur-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-11": {
+  "v": 2,
+  "page": 8,
+  "note": "Pide un papel efectivo del Gobierno canario y los cabildos en la gestión de puertos y aeropuertos; no menciona trenes de cercanías."
+ },
+ "ter-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-13": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-14": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-15": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-11": {
+  "v": 1,
+  "page": 17,
+  "note": "Pide un plan específico de telecomunicaciones para mejorar el acceso digital fuera de las áreas urbanas; no habla de servicio universal."
+ },
+ "cul-12": {
+  "v": null,
+  "page": null,
+  "note": ""
  }
 }

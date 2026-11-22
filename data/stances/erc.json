@@ -498,5 +498,305 @@
   "v": null,
   "page": null,
   "note": ""
+ },
+ "viv-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-10": {
+  "v": 2,
+  "page": 19,
+  "note": "Propone reformar la ley del suelo para que el suelo clasificado se edifique en plazos y no se retenga."
+ },
+ "viv-11": {
+  "v": 2,
+  "page": 19,
+  "note": "Propone evitar los desahucios de personas vulnerables sin vivienda alternativa, mejorando la regulación de arrendamientos."
+ },
+ "viv-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-7": {
+  "v": 1,
+  "page": 27,
+  "note": "Propone reforzar la lucha contra los falsos autónomos; no menciona aumentar el número de inspectores."
+ },
+ "emp-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-9": {
+  "v": 1,
+  "page": 25,
+  "note": "Propone combatir la temporalidad injustificada y que el despido no sea una vía fácil; no plantea eliminar todos los temporales."
+ },
+ "emp-10": {
+  "v": 2,
+  "page": 27,
+  "note": "Propone dar representación a los trabajadores en los consejos de administración de las empresas, con cuotas mínimas."
+ },
+ "eco-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-11": {
+  "v": 2,
+  "page": 21,
+  "note": "Propone bajar el IVA de los alimentos básicos y de higiene."
+ },
+ "eco-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-13": {
+  "v": -2,
+  "page": 37,
+  "note": "Se presenta como muro de contención frente a la privatización de los servicios públicos."
+ },
+ "pen-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-9": {
+  "v": 1,
+  "page": 41,
+  "note": "Propone financiar la Ley de Dependencia con más fondos estatales; no describe un sistema público de cuidados completo."
+ },
+ "pen-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-9": {
+  "v": -2,
+  "page": 41,
+  "note": "Propone reforzar la sanidad pública y frenar su privatización; es contraria a financiar con fondos públicos centros privados."
+ },
+ "san-10": {
+  "v": 1,
+  "page": 41,
+  "note": "Propone ampliar plantillas de profesionales sanitarios y mejorar sueldos y guardias; no menciona plazas MIR."
+ },
+ "edu-8": {
+  "v": -2,
+  "page": 45,
+  "note": "Propone eliminar el distrito único universitario y que Cataluña planifique el acceso; contraria a una prueba única estatal."
+ },
+ "edu-9": {
+  "v": 2,
+  "page": 11,
+  "note": "Propone reducir las ratios de alumnos por aula en la escuela pública."
+ },
+ "edu-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-11": {
+  "v": 1,
+  "page": 11,
+  "note": "Defiende una educación pública y gratuita para todos; no menciona libros ni comedor."
+ },
+ "igu-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-9": {
+  "v": 1,
+  "page": 24,
+  "note": "Propone blindar las políticas de igualdad y feministas; no menciona el Ministerio de Igualdad."
+ },
+ "igu-10": {
+  "v": -1,
+  "page": 24,
+  "note": "Propone blindar las políticas feministas e igualitarias, en sentido contrario a medidas iguales sin distinguir sexo."
+ },
+ "inm-9": {
+  "v": -1,
+  "page": 17,
+  "note": "Propone abrir y ampliar vías legales y seguras de migración; no plantea un máximo anual."
+ },
+ "inm-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-12": {
+  "v": -2,
+  "page": 17,
+  "note": "Propone acabar con la externalización de las fronteras y no tramitar solicitudes en países terceros."
+ },
+ "med-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-10": {
+  "v": 2,
+  "page": 22,
+  "note": "Propone consolidar la fiscalidad verde y eliminar las exenciones fiscales al combustible de aviación."
+ },
+ "med-11": {
+  "v": 1,
+  "page": 32,
+  "note": "Propone ampliar la ZEPA del Delta del Llobregat; no menciona limitar actividades económicas."
+ },
+ "med-12": {
+  "v": 1,
+  "page": 31,
+  "note": "Propone sustituir los combustibles fósiles por electricidad en la movilidad; no cita la fecha de 2035."
+ },
+ "rur-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-11": {
+  "v": 2,
+  "page": 37,
+  "note": "Propone traspasar la titularidad y gestión de puertos y aeropuertos a Cataluña, y Rodalies a la Generalitat."
+ },
+ "ter-12": {
+  "v": -2,
+  "page": 8,
+  "note": "Propone negociar un referéndum de autodeterminación y derogar la Ley mordaza; contraria a endurecer la respuesta."
+ },
+ "ins-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-13": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-14": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-15": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-8": {
+  "v": 1,
+  "page": 17,
+  "note": "Propone una UE con estrategia de seguridad propia y autónoma de la OTAN en defensa; no menciona un ejército común."
+ },
+ "ext-9": {
+  "v": 2,
+  "page": 16,
+  "note": "Propone reclamar el reconocimiento del Estado de Palestina y apoyar su plena soberanía."
+ },
+ "ext-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-10": {
+  "v": 2,
+  "page": 17,
+  "note": "Propone un impuesto digital para las grandes plataformas tecnológicas y combatir la elusión fiscal."
+ },
+ "cul-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-12": {
+  "v": 2,
+  "page": 35,
+  "note": "Propone rechazar la vigilancia masiva indiscriminada e IA al servicio de las personas; no menciona el reconocimiento facial."
  }
 }
