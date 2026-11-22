@@ -1,0 +1,72 @@
+[
+  {
+    "id": "compromis-empleo-001",
+    "doc": "compromis",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "Compromís propone una jornada laboral de cinco días y 37,5 horas semanales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Compromís propone reducir la jornada a cuatro días, es decir, 32 horas semanales, sin reducción de sueldo.",
+    "tip": "Compara el número de días a la semana con la semana laboral habitual.",
+    "source": {
+      "doc": "compromis",
+      "page": 7,
+      "section": "Empleo"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "compromis-territorio-001",
+    "doc": "compromis",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué porcentaje de la deuda pública de la Generalitat Valenciana atribuye Compromís a la infrafinanciación y exige condonar?",
+    "options": [
+      "35 %",
+      "50 %",
+      "78 %",
+      "100 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Compromís exige la condonación de la deuda histórica de la Generalitat Valenciana fruto de la infrafinanciación crónica, que cifra en un 78 % del total de la deuda pública. Condonar significa que el Estado la perdonaría o la asumiría.",
+    "tip": "Es una mayoría muy amplia de la deuda, pero no toda.",
+    "source": {
+      "doc": "compromis",
+      "page": 50,
+      "section": "Financiación autonómica"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-exterior-001",
+    "doc": "compromis",
+    "topic": "exterior",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Compromís?",
+    "options": [
+      "Construir una Unión Europea de la Defensa que pueda sustituir el marco de la OTAN",
+      "Prohibir los espectáculos taurinos con muerte del animal",
+      "Eliminar el calendario de cierre de las centrales nucleares",
+      "Exigir la condonación de parte de la deuda de la Generalitat Valenciana"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Compromís propone mantener el calendario de cierre de las centrales nucleares, no eliminarlo. Eliminarlo es una propuesta del PP y de Vox. Las demás opciones sí figuran en su programa.",
+    "tip": "Una opción es contraria a su defensa de las energías renovables.",
+    "source": {
+      "doc": "compromis",
+      "page": 54,
+      "section": "Política exterior y defensa"
+    },
+    "difficulty": 2
+  }
+]

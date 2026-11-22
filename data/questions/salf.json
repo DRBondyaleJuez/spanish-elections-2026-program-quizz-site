@@ -1,0 +1,75 @@
+[
+  {
+    "id": "salf-vivienda-001",
+    "doc": "salf",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "SALF propone eliminar el IBI para todos, pero compensando a los ayuntamientos por lo que dejarían de ingresar.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. SALF propone eliminar por completo el IBI (Impuesto sobre Bienes Inmuebles), para todos y sin compensación a los ayuntamientos.",
+    "tip": "Fíjate en si el programa dice que alguien cubriría el dinero que se deja de recaudar.",
+    "source": {
+      "doc": "salf",
+      "page": 7,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-instituciones-001",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "Marca todas las propuestas de SALF sobre el tamaño de las instituciones:",
+    "options": [
+      "Suprimir 12 ministerios para pasar de 22 a 10",
+      "Suprimir el Senado",
+      "Suprimir las diputaciones provinciales",
+      "Suprimir la Sala Penal de la Audiencia Nacional",
+      "Crear un Consejo Vasco de Justicia"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "SALF propone reducir el Gobierno de 22 a 10 ministerios, suprimir el Senado y las diputaciones provinciales (junto con el Consejo de Estado). Suprimir la Sala Penal de la Audiencia Nacional es de Compromís, y el Consejo Vasco de Justicia es del PNV.",
+    "tip": "Tres de las opciones son recortes de estructuras del Estado; las otras dos pertenecen a otros partidos.",
+    "source": {
+      "doc": "salf",
+      "page": 16,
+      "section": "Ahorro y financiación del programa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-exterior-001",
+    "doc": "salf",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone dos referéndums: uno para renegociar la relación con la UE y, si Bruselas se niega, otro para decidir la salida?",
+    "options": [
+      "pp",
+      "salf",
+      "psoe",
+      "erc"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es una propuesta de SALF: primero un referéndum de renegociación europea y, si Bruselas rechaza renegociar, un segundo referéndum sobre la salida de la UE.",
+    "tip": "Es el único partido de la lista que plantea una posible salida de la UE.",
+    "source": {
+      "doc": "salf",
+      "page": 35,
+      "section": "Unión Europea"
+    },
+    "difficulty": 1
+  }
+]

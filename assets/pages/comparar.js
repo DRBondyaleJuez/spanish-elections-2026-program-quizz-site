@@ -1,4 +1,4 @@
-import { loadBase, loadJSON, parseHash, setParams, esc, pdfLink, chips, bindChips, glossaryText, STANCE } from '../lib.js';
+import { loadBase, loadJSON, parseHash, setParams, esc, pdfLink, chips, bindChips, glossaryText, STANCE, reviewNote } from '../lib.js';
 
 // % de acuerdo = 100 × (1 − media(|pA − pB|) / 4), solo con afirmaciones que tratan ambos.
 export function agreement(statements, a, b) {
@@ -26,7 +26,9 @@ export async function render(app) {
 
   const head = `
     <h2>Comparar partidos</h2>
-    <p class="muted">Para cada tema hemos elegido varias afirmaciones concretas y anotado la postura de cada partido según su programa (de muy en contra a muy a favor). El % de acuerdo mide lo cerca que están sus posturas en las afirmaciones que tratan los dos; <em>n</em> es cuántas se han podido comparar (con n pequeño el % es poco fiable).</p>
+    <p class="muted">Para cada tema hemos elegido varias afirmaciones concretas y anotado la postura de cada partido según su programa (de muy en contra a muy a favor). El % de acuerdo mide lo cerca que están sus posturas en las afirmaciones que tratan los dos; <em>n</em> es cuántas se han podido comparar (con n pequeño el % es poco fiable).
+    <a href="#/anexo">¿Cómo se calcula? Ver el anexo con la justificación →</a></p>
+    ${reviewNote('Las posturas son una interpretación del texto: lee la nota y la página de cada una.')}
     <div class="filters">
       <div class="flabel">Partidos (2 o más) <button class="link" data-all="p">todos</button></div>
       ${chips('p', B.parties.map(p => ({ id: p.id, label: p.short, color: p.color })), sel)}
@@ -76,7 +78,8 @@ export async function render(app) {
   const pairBox = `<div class="card"><h3><span class="dot" style="--c:${PA.color}"></span>${esc(PA.short)} vs <span class="dot" style="--c:${PB.color}"></span>${esc(PB.short)}</h3>
     <div class="bars">${byTopic.map(x => `<div class="bar${x.n < 3 ? ' weak' : ''}"><span>${x.t.icon} ${esc(x.t.name.split(',')[0])}</span><div><i style="width:${x.pct}%;background:${color(x.pct)}"></i></div><b>${x.pct}%<small>n=${x.n}</small></b></div>`).join('') || '<p class="muted">No hay afirmaciones comparables.</p>'}</div>
     <h4>🔥 Lo que más les separa</h4><ul class="cmp">${far.map(row).join('') || '<li class="muted">No hay grandes diferencias en estas afirmaciones.</li>'}</ul>
-    <h4>🤝 En lo que coinciden</h4><ul class="cmp">${near.map(row).join('') || '<li class="muted">No hay coincidencias claras.</li>'}</ul></div>`;
+    <h4>🤝 En lo que coinciden</h4><ul class="cmp">${near.map(row).join('') || '<li class="muted">No hay coincidencias claras.</li>'}</ul>
+    <p><a href="#/anexo?par=${A},${Bp}">Ver el cálculo paso a paso de ${esc(PA.short)} – ${esc(PB.short)} →</a></p></div>`;
 
   // Tabla de afirmaciones
   const topicsShown = B.topics.filter(t => st.some(s => s.topic === t.id));

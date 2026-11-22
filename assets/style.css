@@ -76,6 +76,37 @@ ul.cmp { list-style:none; padding:0; }
 ul.cmp li { border-top:1px solid var(--border); padding-top:8px; }
 .stance { display:inline-block; font-size:.78rem; padding:2px 8px; border-radius:999px; color:#fff; margin:2px 4px 2px 0; text-shadow:0 0 2px rgba(0,0,0,.4); }
 .s2 { background:var(--s2); } .s1 { background:var(--s1); } .s0 { background:var(--s0); } .sm1 { background:var(--sm1); } .sm2 { background:var(--sm2); } .sn { background:transparent; color:var(--muted); border:1px dashed var(--muted); text-shadow:none; }
+.review { background:color-mix(in srgb, #e0b100 14%, var(--card)); border:1px solid color-mix(in srgb, #e0b100 45%, var(--border)); border-radius:12px; padding:10px 14px; margin:0 0 12px; font-size:.9rem; }
+.formula { font-size:1.05rem; font-weight:700; text-align:center; background:var(--bg); border-radius:8px; padding:10px; }
+details.pair > summary { display:flex; flex-wrap:wrap; align-items:center; gap:4px 6px; }
+details.pair .pct { margin-left:auto; font-size:1.05rem; }
+.pair-body { margin-top:8px; }
+table.calc { border-collapse:collapse; font-size:.8rem; width:100%; }
+.calc th, .calc td { border:1px solid var(--border); padding:4px 6px; vertical-align:top; }
+.calc td:nth-child(n+2) { white-space:nowrap; text-align:center; }
+/* Test */
+.btn { font:inherit; min-height:44px; padding:8px 18px; border-radius:10px; border:1.5px solid var(--border); background:var(--card); color:var(--fg); cursor:pointer; }
+.btn.primary { background:var(--accent); border-color:var(--accent); color:#fff; font-weight:600; }
+.btn:disabled { opacity:.5; }
+.row { display:flex; flex-wrap:wrap; gap:8px; margin-top:8px; }
+.qtext { font-weight:600; margin:6px 0 10px; }
+.opts { display:flex; flex-direction:column; gap:6px; }
+.opt { display:flex; gap:10px; align-items:flex-start; padding:10px 12px; min-height:44px; border:1.5px solid var(--border); border-radius:10px; cursor:pointer; }
+.opt input { margin-top:4px; transform:scale(1.2); flex:none; }
+.opt:has(input:checked) { border-color:var(--accent); background:color-mix(in srgb, var(--accent) 8%, transparent); }
+.opt.right, .opt.right:has(input:checked) { border-color:var(--s2); background:color-mix(in srgb, var(--s2) 15%, transparent); }
+.opt.wrong, .opt.wrong:has(input:checked) { border-color:var(--sm2); background:color-mix(in srgb, var(--sm2) 15%, transparent); }
+.opt:has(input:disabled) { cursor:default; }
+.qcard.good { border-left:5px solid var(--s2); }
+.qcard.bad { border-left:5px solid var(--sm2); }
+.tip { margin-top:8px; font-size:.9rem; }
+.feedback { margin-top:10px; border-top:1px dashed var(--border); padding-top:8px; }
+.feedback p { margin:4px 0; }
+.qbar { position:sticky; bottom:0; padding:10px 0; background:linear-gradient(transparent, var(--bg) 30%); }
+.qbar .btn { width:100%; }
+.score { text-align:center; }
+.score .big { font-size:2.4rem; font-weight:800; }
+.score .row { justify-content:center; }
 .stmt { border-top:1px solid var(--border); padding-top:6px; margin-top:6px; }
 .stmt p { margin:4px 0; }
 .stance-row { font-size:.88rem; margin:3px 0; }

@@ -45,11 +45,14 @@ Se publica con **GitHub Pages**. No hay paso de compilación: HTML + CSS + JS no
 - [x] Página **Comparar**: elegir partidos y temas → tabla/mapa de calor de % + "lo que más les separa" (las afirmaciones con más diferencia) con citas.
 - [x] 80 afirmaciones; posturas por partido en `data/stances/<id>.json` → `python tools/merge_stances.py` las une y genera `data/agreement.json` (la web calcula el % en vivo con los mismos datos).
 
+- [x] **Anexo `#/anexo`**: justificación del % (escala, fórmula, límites), cálculo paso a paso de cada pareja, mayores desacuerdos y acuerdos con página en cada programa. Aviso "comprueba el documento original" en Resúmenes, Comparar y Anexo.
+- [ ] Revisar a mano las afirmaciones más ambiguas (p. ej. ter-1, ins-4, eco-1) y ampliar a ~6 por tema para que n sea mayor en los programas cortos.
+
 ## Fase 4 — Cuestionarios (versión preliminar: 2 preguntas por programa)
-- [ ] `data/questions/<id>.json` con el esquema de AGENTS.md §5 (tema, página, pista, explicación).
-- [ ] Tipos: verdadero/falso, opción única, opción múltiple, **"¿Qué partido lo propone?"** (cruza partidos), **"¿Quién NO lo propone?"**, y relacionar propuesta↔partido.
-- [ ] Página **Test**: filtrar por partidos y/o temas → 20 preguntas al azar (o menos si no hay tantas) → enviar → nota, corrección, explicación y enlace a la fuente `pdf#page=N` (en otra pestaña).
-- [ ] Guardar en el móvil (localStorage) el historial y las preguntas falladas → modo "repasar fallos".
+- [x] `data/questions/<id>.json` con el esquema de AGENTS.md §5 (tema, página, pista, explicación). **Versión preliminar: 3 por partido (30).** Pendiente revisar que `source.section` coincide con el título real de la sección.
+- [x] Tipos (falta `match`, relacionar): verdadero/falso, opción única, opción múltiple, **"¿Qué partido lo propone?"** (cruza partidos), **"¿Quién NO lo propone?"**, y relacionar propuesta↔partido.
+- [x] Página **Test**: filtrar por partidos y/o temas → 20 preguntas al azar (o menos si no hay tantas) → enviar → nota, corrección, explicación y enlace a la fuente `pdf#page=N` (en otra pestaña).
+- [x] Guardar en el móvil (localStorage) el historial y las preguntas falladas → modo "repasar fallos".
 
 ## Fase 5 — Mesa electoral
 - [ ] `data/mesa/summary.json`: resumen paso a paso (constitución de la mesa 8:00, votación 9:00–20:00, voto CERA/correo, escrutinio, actas, incidencias), con páginas.

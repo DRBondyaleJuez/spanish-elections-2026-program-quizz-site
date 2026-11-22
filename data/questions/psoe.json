@@ -1,0 +1,75 @@
+[
+  {
+    "id": "psoe-economia-001",
+    "doc": "psoe",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone una Ley de Salarios Justos que aumentaría el impuesto de sociedades a las empresas cotizadas en las que el sueldo del primer ejecutivo supere 100 veces el de la plantilla mediana?",
+    "options": [
+      "pp",
+      "psoe",
+      "vox",
+      "salf"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es una propuesta del PSOE: las cotizadas con una ratio superior a 100 a 1 pagarían más impuesto de sociedades, con un tramo mayor a partir de 200 a 1. La idea es desincentivar la desigualdad de sueldos dentro de una misma empresa.",
+    "tip": "Piensa en qué partido plantea subir impuestos a empresas por la desigualdad salarial interna.",
+    "source": {
+      "doc": "psoe",
+      "page": 48,
+      "section": "Fiscalidad justa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-empleo-001",
+    "doc": "psoe",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "El PSOE propone que la jornada laboral legal baje directamente hasta las 35 horas semanales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PSOE propone completar la reducción de la jornada legal a 37,5 horas e incentivar que, mediante la negociación colectiva (convenios), se avance hacia las 35 horas. Las 35 horas serían un objetivo por convenio, no la jornada legal.",
+    "tip": "Fíjate en la diferencia entre lo que fijaría la ley y lo que se negociaría en cada convenio.",
+    "source": {
+      "doc": "psoe",
+      "page": 41,
+      "section": "Trabajo digno"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "psoe-pensiones-001",
+    "doc": "psoe",
+    "topic": "pensiones",
+    "type": "multi",
+    "question": "Marca todas las características de la Cuenta de Futuro que propone el PSOE:",
+    "options": [
+      "Una cuenta pública de 1.000 euros asignada al nacer a cada niño o niña",
+      "Está invertida en fondos públicos",
+      "Se puede disponer del dinero a partir de los 18 años",
+      "Solo se puede cobrar al jubilarse, a los 65 años",
+      "Su gestión se encarga a bancos privados"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "La Cuenta de Futuro daría 1.000 euros públicos al nacer, invertidos en fondos públicos y disponibles desde los 18 años para estudios o proyectos propios. Los hogares de menor renta recibirían aportaciones anuales adicionales.",
+    "tip": "Es una herramienta pensada para la juventud, no para la jubilación.",
+    "source": {
+      "doc": "psoe",
+      "page": 56,
+      "section": "Un Estado de bienestar para todos los hogares y todas las edades"
+    },
+    "difficulty": 2
+  }
+]

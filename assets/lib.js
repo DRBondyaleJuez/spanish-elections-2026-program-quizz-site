@@ -118,6 +118,12 @@ export function initGlossaryPopover() {
   });
 }
 
+// Aviso para invitar siempre a consultar la fuente original.
+export function reviewNote(extra = '') {
+  return `<div class="review">🔎 <b>Comprueba siempre el documento original.</b> Esto es un resumen hecho para estudiar y puede simplificar o contener errores.
+    Cada dato lleva un enlace 📄 a la página exacta del programa oficial.${extra ? ' ' + extra : ''}</div>`;
+}
+
 export const STANCE = {
   2: { label: 'Muy a favor', cls: 's2' },
   1: { label: 'A favor', cls: 's1' },

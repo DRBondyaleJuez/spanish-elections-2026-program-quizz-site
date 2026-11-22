@@ -7,7 +7,8 @@ const pages = {
   inicio: () => ({ render: renderInicio }),
   resumenes: () => import('./pages/resumenes.js'),
   comparar: () => import('./pages/comparar.js'),
-  test: null,
+  anexo: () => import('./pages/anexo.js'),
+  test: () => import('./pages/test.js'),
   mesa: null,
   'test-mesa': null,
 };

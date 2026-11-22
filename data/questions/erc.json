@@ -1,0 +1,72 @@
+[
+  {
+    "id": "erc-territorio-001",
+    "doc": "erc",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué propone ERC para ejercer el derecho de autodeterminación?",
+    "options": [
+      "Negociar un referéndum de autodeterminación en Cataluña, con la UE y el Consejo de Europa como facilitadores",
+      "Declarar la independencia de forma unilateral en el Parlament",
+      "Convocar una consulta no vinculante sin acuerdo con el Estado",
+      "Renunciar a la autodeterminación a cambio de más financiación"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "ERC propone negociar la convocatoria de un referéndum de autodeterminación con acompañamiento internacional, con la Unión Europea y el Consejo de Europa como facilitadores.",
+    "tip": "La palabra clave es negociar: no se plantea una vía unilateral.",
+    "source": {
+      "doc": "erc",
+      "page": 8,
+      "section": "Derecho de autodeterminación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-empleo-001",
+    "doc": "erc",
+    "topic": "empleo",
+    "type": "which_party",
+    "question": "¿Qué partido propone que Cataluña tenga un salario mínimo propio de 1.460 euros, superior al estatal?",
+    "options": [
+      "erc",
+      "psoe",
+      "cc",
+      "podemos"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es una propuesta de ERC: un Salario Mínimo de Cataluña de 1.460 euros, con las modificaciones normativas necesarias para que el Govern pueda fijarlo. El PNV plantea algo parecido para Euskadi, pero sin esa cifra.",
+    "tip": "Se refiere a un salario mínimo propio de una comunidad concreta.",
+    "source": {
+      "doc": "erc",
+      "page": 20,
+      "section": "Empleo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-pensiones-001",
+    "doc": "erc",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "ERC propone actualizar las pensiones con el IPC estatal único, igual para toda España.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. ERC propone revalorizar las pensiones según el IPC de cada territorio, y no con un índice único para todo el Estado.",
+    "tip": "La palabra importante es «cada territorio».",
+    "source": {
+      "doc": "erc",
+      "page": 26,
+      "section": "Pensiones"
+    },
+    "difficulty": 2
+  }
+]

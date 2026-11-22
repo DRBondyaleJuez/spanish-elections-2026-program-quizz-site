@@ -1,0 +1,72 @@
+[
+  {
+    "id": "pp-instituciones-001",
+    "doc": "pp",
+    "topic": "instituciones",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del PP?",
+    "options": [
+      "Derogar la Ley de Amnistía",
+      "Recuperar el delito de sedición en el Código Penal",
+      "Eliminar el calendario de cierre de las centrales nucleares",
+      "Salir de la OTAN"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PP no propone salir de la OTAN. Sí propone derogar la Ley de Amnistía, recuperar el delito de sedición (y el de convocatoria de referéndum ilegal) y eliminar el calendario de cierre nuclear. La salida de la OTAN es una propuesta de Podemos.",
+    "tip": "Una de las opciones va en contra de la línea de política exterior y defensa de este partido.",
+    "source": {
+      "doc": "pp",
+      "page": 25,
+      "section": "Impunidad y derecho de gracia"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-vivienda-001",
+    "doc": "pp",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué propone el PP respecto a la Ley de Vivienda de 2023?",
+    "options": [
+      "Derogarla, eliminando las zonas tensionadas y el índice de precios del alquiler",
+      "Mantenerla y ampliar el número de zonas tensionadas",
+      "Reformarla para topar los alquileres en toda España",
+      "Traspasarla íntegramente a los ayuntamientos"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PP propone derogar la Ley de Vivienda. Según su programa, las zonas tensionadas y el índice de precios han introducido más intervención y menos oferta de alquiler. Las zonas tensionadas son áreas donde se pueden aplicar límites al precio del alquiler.",
+    "tip": "Su postura sobre intervenir los precios del alquiler es contraria a la del Gobierno actual.",
+    "source": {
+      "doc": "pp",
+      "page": 42,
+      "section": "Vivienda"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-cultura-001",
+    "doc": "pp",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "Según el PP, ningún menor de 16 años podría tener cuenta en redes sociales en ningún caso.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PP propone que ningún menor de 14 años pueda tener una cuenta en redes sociales y que, hasta los 16, se necesite autorización de los padres. Es decir, hay dos umbrales de edad.",
+    "tip": "Hay dos edades distintas en la propuesta: una de prohibición y otra de permiso familiar.",
+    "source": {
+      "doc": "pp",
+      "page": 45,
+      "section": "Menores y redes sociales"
+    },
+    "difficulty": 2
+  }
+]

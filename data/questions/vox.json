@@ -1,0 +1,77 @@
+[
+  {
+    "id": "vox-inmigracion-001",
+    "doc": "vox",
+    "topic": "inmigracion",
+    "type": "which_party",
+    "question": "¿Qué partido propone el principio de «prioridad nacional», con acceso preferente de los españoles a la vivienda pública, guarderías y ayudas?",
+    "options": [
+      "frenteamplio",
+      "podemos",
+      "vox",
+      "compromis"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una propuesta de Vox: «En España, los españoles primero». Supone dar acceso preferente a los españoles a vivienda pública, plazas de guardería, ayudas, prestaciones y servicios sociales.",
+    "tip": "Piensa en el partido cuyo lema sitúa a los españoles en primer lugar en el acceso a las ayudas.",
+    "source": {
+      "doc": "vox",
+      "page": 19,
+      "section": "Prioridad nacional"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-economia-001",
+    "doc": "vox",
+    "topic": "economia",
+    "type": "single",
+    "question": "Vox propone que, por cada nueva ley que se apruebe, se deroguen...",
+    "options": [
+      "una norma vigente",
+      "dos normas vigentes",
+      "tres normas vigentes",
+      "cinco normas vigentes"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Vox propone derogar tres normas por cada una que se apruebe. Cada ley nueva tendría que identificar en su propio texto cuáles son las tres normas vigentes que deroga; si no, no se tramitaría.",
+    "tip": "El número aparece en el propio título de la propuesta y es mayor que dos.",
+    "source": {
+      "doc": "vox",
+      "page": 28,
+      "section": "Reducción de la carga normativa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-educacion-001",
+    "doc": "vox",
+    "topic": "educacion",
+    "type": "multi",
+    "question": "Marca todas las propuestas educativas que están en el programa de Vox:",
+    "options": [
+      "Prohibir el burka y el niqab en los espacios públicos",
+      "Terminar con los menús halal en los comedores escolares",
+      "Eliminar el programa de Lengua Árabe y Cultura Marroquí",
+      "Avanzar hacia una única red educativa pública, con moratoria de nuevos conciertos",
+      "Sacar la asignatura de religión del horario escolar"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Vox propone prohibir el burka y el niqab, acabar con los menús halal en los comedores escolares y eliminar el programa de Lengua Árabe y Cultura Marroquí. La red pública única con moratoria de conciertos y sacar la religión del horario escolar son propuestas de Podemos.",
+    "tip": "Dos de las opciones van en contra de lo que este partido defiende sobre la enseñanza concertada y las tradiciones.",
+    "source": {
+      "doc": "vox",
+      "page": 42,
+      "section": "Educación"
+    },
+    "difficulty": 3
+  }
+]

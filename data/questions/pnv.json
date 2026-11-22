@@ -1,0 +1,75 @@
+[
+  {
+    "id": "pnv-territorio-001",
+    "doc": "pnv",
+    "topic": "territorio",
+    "type": "which_party",
+    "question": "¿Qué partido propone avanzar hacia un «Concierto Político» entre Euskadi y el Estado, con reconocimiento nacional y bilateralidad?",
+    "options": [
+      "psoe",
+      "pnv",
+      "erc",
+      "cc"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es una propuesta del PNV: un Concierto Político que traslade los principios de pacto y bilateralidad (relación de igual a igual) al ámbito político, con reconocimiento nacional y mecanismos imparciales para evitar incumplimientos unilaterales.",
+    "tip": "El nombre recuerda al Concierto Económico, el sistema fiscal propio vasco.",
+    "source": {
+      "doc": "pnv",
+      "page": 39,
+      "section": "Concierto Político"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-economia-001",
+    "doc": "pnv",
+    "topic": "economia",
+    "type": "multi",
+    "question": "Marca todas las propuestas del programa del PNV:",
+    "options": [
+      "Ampliar la capacidad de las Haciendas Forales para regular el IVA y los Impuestos Especiales",
+      "Que Euskadi tenga voz propia en el Consejo ECOFIN y en el de Justicia y Asuntos de Interior de la UE",
+      "Favorecer la creación de una Macrorregión Atlántica Europea",
+      "Suprimir el Senado",
+      "Derogar la Ley de Amnistía"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El PNV propone ampliar la capacidad normativa de las Haciendas Forales en IVA e impuestos especiales (dentro de los límites de la UE), tener voz propia en formaciones del Consejo de la UE y favorecer una Macrorregión Atlántica Europea. Suprimir el Senado lo plantea SALF y derogar la Ley de Amnistía, el PP.",
+    "tip": "Las tres propuestas correctas giran en torno a la capacidad de decisión de Euskadi dentro del Estado y de la UE.",
+    "source": {
+      "doc": "pnv",
+      "page": 41,
+      "section": "Euskadi en Europa"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-empleo-001",
+    "doc": "pnv",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "El PNV reclama la competencia para fijar un salario mínimo propio en Euskadi, que podría ser inferior al estatal.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PNV reclama poder fijar un salario mínimo propio, adaptado al coste de vida, pero siempre por encima del mínimo estatal.",
+    "tip": "Fíjate en la expresión que limita la cifra respecto al mínimo estatal.",
+    "source": {
+      "doc": "pnv",
+      "page": 9,
+      "section": "Empleo"
+    },
+    "difficulty": 2
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cc-territorio-001",
+    "doc": "cc",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "Coalición Canaria propone que el dinero del REF cuente como financiación ordinaria de la sanidad y la educación en Canarias.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Coalición Canaria propone separar el REF (Régimen Económico y Fiscal de Canarias) de la financiación de los servicios públicos, e impedir que sus recursos se computen como financiación ordinaria de la sanidad, la educación y otros servicios.",
+    "tip": "El objetivo es que el REF sea un complemento y no sustituya a la financiación ordinaria.",
+    "source": {
+      "doc": "cc",
+      "page": 8,
+      "section": "Autogobierno y financiación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-otros-001",
+    "doc": "cc",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué descuento para residentes en el transporte aéreo y marítimo propone proteger Coalición Canaria?",
+    "options": [
+      "25 %",
+      "50 %",
+      "75 %",
+      "100 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Coalición Canaria propone consolidar y proteger la bonificación del 75 % para residentes en el transporte aéreo y marítimo, y reforzar su supervisión.",
+    "tip": "Es una bonificación de tres cuartas partes del precio.",
+    "source": {
+      "doc": "cc",
+      "page": 17,
+      "section": "Transporte y conectividad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cc-cultura-001",
+    "doc": "cc",
+    "topic": "cultura",
+    "type": "which_party",
+    "question": "¿Qué partido propone crear el Centro Nacional de Vulcanología con sede principal en La Palma?",
+    "options": [
+      "psoe",
+      "pnv",
+      "cc",
+      "erc"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una propuesta de Coalición Canaria: defender la creación y financiación estable del Centro Nacional de Vulcanología, con sede principal en La Palma y colaboración con el ecosistema científico de Tenerife.",
+    "tip": "Se relaciona con la erupción volcánica de 2021 en las islas.",
+    "source": {
+      "doc": "cc",
+      "page": 16,
+      "section": "Ciencia"
+    },
+    "difficulty": 1
+  }
+]

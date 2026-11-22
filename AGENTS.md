@@ -22,6 +22,8 @@ Web estática en **español** para preparar las Elecciones Generales del **29/11
 - Cuando aparezca un término técnico, añadirlo al `glossary` del resumen (o a `data/glossary_extra.json`) y ejecutar `python tools/build_glossary.py`, que genera `data/glossary.json`. La web subraya esos términos automáticamente.
 - Validar siempre con `python tools/validate.py [id]`.
 
+- Toda página que muestre resúmenes, posturas o porcentajes incluye `reviewNote()` (invita a consultar el documento original).
+
 ## 4. Lista común de temas (`data/topics.json`)
 Usar estos ids en todo el proyecto. Si un tema no encaja, ponerlo en `otros`. No crear temas nuevos sin actualizar este archivo.
 
@@ -85,7 +87,10 @@ Usar estos ids en todo el proyecto. Si un tema no encaja, ponerlo en `otros`. No
 ## 6. Estructura
 ```
 index.html          app de una sola página
-assets/app.js       router + páginas
+assets/app.js       router (rutas → assets/pages/*.js)
+assets/lib.js       utilidades: carga de datos, filtros en el hash, enlaces a PDF, glosario, reviewNote()
+assets/quiz.js      motor de tests reutilizable (runQuiz); historial de fallos en localStorage
+assets/pages/       inicio, resumenes, comparar, anexo, test (y mesa / test-mesa en la fase 5)
 assets/style.css
 data/               todo el contenido (JSON)
 sources/            PDFs originales (se sirven tal cual para los enlaces #page=N)
@@ -96,7 +101,7 @@ tools/              scripts de Python (extracción, validación, cálculo de acu
 ## 7. Probar en local
 Hace falta un servidor (con `file://` no se pueden cargar los JSON):
 ```
-python -m http.server 8000
+python tools/serve.py
 ```
 → http://localhost:8000. Desde el móvil, en la misma wifi: `http://<IP-del-PC>:8000`.
 En Claude Code Desktop: `preview_start` con el nombre `site` (`.claude/launch.json`).

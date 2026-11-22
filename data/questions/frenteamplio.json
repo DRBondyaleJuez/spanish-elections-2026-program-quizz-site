@@ -1,0 +1,74 @@
+[
+  {
+    "id": "frenteamplio-economia-001",
+    "doc": "frenteamplio",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué límite propone el Frente Amplio para la herencia que puede recibir cada heredero de los ultrarricos?",
+    "options": [
+      "1 millón de euros",
+      "5 millones de euros",
+      "10 millones de euros",
+      "50 millones de euros"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El Frente Amplio propone limitar las herencias de los ultrarricos a un máximo de 10 millones de euros por heredero. El exceso se gravaría al 100 % y lo recaudado se destinaría a vivienda social.",
+    "tip": "La cifra está entre 5 y 50 millones.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 46,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-vivienda-001",
+    "doc": "frenteamplio",
+    "topic": "vivienda",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del Frente Amplio?",
+    "options": [
+      "Expropiación progresiva de viviendas de grandes tenedores corporativos, empezando por los de más de 1.000 viviendas",
+      "Prohibir que las personas jurídicas con ánimo de lucro compren viviendas, salvo para alquiler asequible regulado",
+      "Pasar los suelos y fincas de la SAREB a la empresa pública Casa 47",
+      "IVA del 0 % en la primera vivienda habitual de familias españolas"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "La rebaja del IVA al 0 % para la primera vivienda de familias españolas es una propuesta de Vox. El Frente Amplio apuesta por expropiar a grandes tenedores, prohibir la compra a fondos e inmobiliarias y traspasar la SAREB a Casa 47.",
+    "tip": "Tres opciones buscan quitar protagonismo al mercado privado; la otra usa un incentivo fiscal para comprar.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 10,
+      "section": "Vivienda"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-medioambiente-001",
+    "doc": "frenteamplio",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone tres horas de luz gratis al día en la franja solar para todos los hogares?",
+    "options": [
+      "pp",
+      "frenteamplio",
+      "cc",
+      "salf"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es una propuesta del Frente Amplio: una comercializadora eléctrica pública ofrecería tres horas diarias gratuitas en la franja solar, y las grandes comercializadoras estarían obligadas por ley a incluirlas en su oferta.",
+    "tip": "Se combina con una comercializadora eléctrica de titularidad pública.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 64,
+      "section": "Energía"
+    },
+    "difficulty": 2
+  }
+]

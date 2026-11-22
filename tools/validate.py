@@ -98,11 +98,47 @@ def check_positions():
                 err(f"{w}/{pid}", f"página fuera de rango {pg}")
 
 
+TYPES = {"tf", "single", "multi", "which_party", "which_not", "match"}
+
+
+def check_questions(name):
+    f = D / "questions" / f"{name}.json"
+    if not f.exists():
+        return
+    for i, q in enumerate(json.loads(f.read_text(encoding="utf-8"))):
+        w = f"questions/{name}[{q.get('id', i)}]"
+        for k in ("id", "doc", "topic", "type", "question", "options", "answer", "explanation", "tip", "source"):
+            if not q.get(k) and q.get(k) != 0:
+                err(w, f"falta {k}")
+        if q.get("id") in QIDS:
+            err(w, "id repetido")
+        QIDS.add(q.get("id"))
+        if q.get("type") not in TYPES:
+            err(w, f"tipo desconocido {q.get('type')}")
+        if name != "mesa" and q.get("topic") not in topics:
+            err(w, "tema desconocido")
+        opts, ans = q.get("options", []), q.get("answer", [])
+        if not isinstance(ans, list) or not ans or any(not isinstance(a, int) or not 0 <= a < len(opts) for a in ans):
+            err(w, "answer no válido")
+        if q.get("type") == "tf" and opts != ["Verdadero", "Falso"]:
+            err(w, "tf debe tener opciones Verdadero/Falso")
+        if q.get("type") == "which_party" and any(o not in parties for o in opts):
+            err(w, "which_party con partido desconocido")
+        if q.get("type") in ("single", "tf", "which_party", "which_not") and len(ans) != 1:
+            err(w, "debe tener una sola respuesta")
+        check_source(w, q.get("source"))
+
+
+QIDS = set()
+
+
 if __name__ == "__main__":
     only = sys.argv[1:]
     for pid in only or parties:
         check_summary(pid)
+        check_questions(pid)
     if not only:
+        check_questions("mesa")
         check_positions()
     print("\n".join(errors) if errors else "OK")
     sys.exit(1 if errors else 0)

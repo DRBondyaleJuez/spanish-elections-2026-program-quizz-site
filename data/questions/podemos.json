@@ -1,0 +1,72 @@
+[
+  {
+    "id": "podemos-vivienda-001",
+    "doc": "podemos",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Podemos propone reducir los alquileres un 40 % por ley, pero solo en los contratos nuevos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La reducción del 40 % se aplicaría también a los contratos vigentes, sus renovaciones y prórrogas, además de a los nuevos. Con un límite: el precio resultante no podría quedar por debajo del 60 % del precio medio de la zona.",
+    "tip": "Fíjate en si la medida afectaría a quienes ya tienen un contrato firmado.",
+    "source": {
+      "doc": "podemos",
+      "page": 8,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-exterior-001",
+    "doc": "podemos",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone denunciar el Tratado del Atlántico Norte para salir de la OTAN y cerrar las bases estadounidenses de Rota y Morón?",
+    "options": [
+      "pp",
+      "podemos",
+      "psoe",
+      "pnv"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es una propuesta de Podemos: impulsar la salida de España de la OTAN y poner fin a la presencia militar estadounidense, incluidas la Base Naval de Rota y la Base Aérea de Morón.",
+    "tip": "Busca el partido que quiere que España deje la alianza militar occidental.",
+    "source": {
+      "doc": "podemos",
+      "page": 28,
+      "section": "Paz y política exterior"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-pensiones-001",
+    "doc": "podemos",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿A qué edad propone Podemos adelantar la edad ordinaria de jubilación?",
+    "options": [
+      "60 años",
+      "63 años",
+      "65 años",
+      "67 años"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Podemos propone adelantar la edad ordinaria de jubilación a los 63 años, financiando las pensiones con cargo a los Presupuestos Generales del Estado. La edad ordinaria es aquella a la que se puede jubilar una persona sin penalización.",
+    "tip": "Es un adelanto respecto a la edad actual, pero no tan grande como hasta los 60.",
+    "source": {
+      "doc": "podemos",
+      "page": 41,
+      "section": "Pensiones"
+    },
+    "difficulty": 2
+  }
+]
