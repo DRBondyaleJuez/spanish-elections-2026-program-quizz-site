@@ -1,0 +1,402 @@
+{
+ "viv-1": {
+  "v": 1,
+  "page": 19,
+  "note": "Propone limitar los alquileres en zonas tensionadas, pero de forma temporal y excepcional, con garantías para el propietario."
+ },
+ "viv-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-3": {
+  "v": 0,
+  "page": 22,
+  "note": "Plan Nacional de Barrios con suelo público y fondo público soberano, pero construcción y gestión con colaboración público-privada."
+ },
+ "viv-4": {
+  "v": 2,
+  "page": 19,
+  "note": "Mediación en 30 días, juzgados de arrendamientos en 60 y delito de estafa para la inquiokupación y el impago premeditado."
+ },
+ "viv-5": {
+  "v": 2,
+  "page": 21,
+  "note": "Recargo mínimo del 10% a la compra de vivienda no habitual por inversores extracomunitarios."
+ },
+ "viv-6": {
+  "v": 2,
+  "page": 20,
+  "note": "Cero IVA, ITP y AJD para menores de 35 años y ITP único del 2%, AJD 0% e IVA 4% para el resto."
+ },
+ "viv-7": {
+  "v": 1,
+  "page": 21,
+  "note": "Aplica el IVA general del 10% a los alquileres turísticos de corta estancia para igualarlos a la actividad hotelera."
+ },
+ "emp-1": {
+  "v": 1,
+  "page": 49,
+  "note": "SMI fijado por un órgano técnico con una senda para que no baje de dos tercios de la mediana salarial."
+ },
+ "emp-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-4": {
+  "v": 1,
+  "page": 53,
+  "note": "Cuota de autónomos opcional según ingresos reales del mes anterior y bono fiscal para compensar cotizaciones los tres primeros años."
+ },
+ "emp-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-1": {
+  "v": 0,
+  "page": 32,
+  "note": "Dice que no hace falta subir ni bajar impuestos en general; actualiza el IRPF con el IPC y baja impuestos a la vivienda."
+ },
+ "eco-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-4": {
+  "v": 1,
+  "page": 4,
+  "note": "Reduce un 90% los asesores y evalúa los programas de gasto para eliminar los ineficaces, sin plantear un recorte general."
+ },
+ "eco-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-3": {
+  "v": 1,
+  "page": 84,
+  "note": "Jubilación anticipada sin recorte para policías, guardias civiles, vigilancia aduanera y militares por ser profesiones de riesgo."
+ },
+ "pen-4": {
+  "v": 1,
+  "page": 73,
+  "note": "Bono Crianza mensual por hijo, mayor a menores rentas, e IMV tramitado de oficio; no es universal."
+ },
+ "pen-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-5": {
+  "v": 1,
+  "page": 77,
+  "note": "Cribado de salud mental perinatal, Unidades de Enlace en colegios y seguimiento tras intentos de suicidio."
+ },
+ "edu-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-3": {
+  "v": 1,
+  "page": 75,
+  "note": "Construir una red pública y universal de 0 a 3 años; mientras tanto, cheque guardería para que ninguna familia pague más del 50%."
+ },
+ "edu-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-1": {
+  "v": 2,
+  "page": 99,
+  "note": "Bloquear cualquier intento de desmantelar la red pública de protección a víctimas de violencia machista."
+ },
+ "igu-2": {
+  "v": 2,
+  "page": 99,
+  "note": "Garantizar la interrupción voluntaria del embarazo en la sanidad pública de todas las comunidades y defender la ley de plazos."
+ },
+ "igu-3": {
+  "v": 1,
+  "page": 100,
+  "note": "Se opone a recortar derechos LGTBIQ+ y a derogar normas de no discriminación trans; no cita la libre determinación de género."
+ },
+ "igu-4": {
+  "v": 2,
+  "page": 74,
+  "note": "Baja posparto específica, permiso parental retribuido al 50% y ampliación de reducciones de jornada hasta los 16 años."
+ },
+ "igu-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-1": {
+  "v": -1,
+  "page": 57,
+  "note": "Quiere una vía ordinaria que funcione para que no hagan falta regularizaciones extraordinarias."
+ },
+ "inm-2": {
+  "v": 1,
+  "page": 57,
+  "note": "Registro de órdenes de expulsión con prioridad para quienes delinquen y control de fronteras según el Pacto Europeo de Migración."
+ },
+ "inm-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-2": {
+  "v": 1,
+  "page": 93,
+  "note": "Regulación exigente con la descarbonización, pero neutral entre tecnologías y atenta al mercado."
+ },
+ "med-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-2": {
+  "v": 1,
+  "page": 97,
+  "note": "Defiende una PAC y una política pesquera con competencia equitativa frente a importaciones de terceros países."
+ },
+ "rur-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-4": {
+  "v": 0,
+  "page": 88,
+  "note": "Comisión Técnica del Agua y Plan Director de Inversiones, desalación y reutilización; no menciona trasvases ni un plan nacional."
+ },
+ "ter-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-2": {
+  "v": 0,
+  "page": 36,
+  "note": "Armoniza normas y exige reconocimiento mutuo entre comunidades, sin proponer devolver competencias al Estado."
+ },
+ "ter-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-1": {
+  "v": 2,
+  "page": 9,
+  "note": "Los vocales judiciales del CGPJ serían elegidos por los jueces, sin intervención de las asociaciones judiciales."
+ },
+ "ins-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-4": {
+  "v": 1,
+  "page": 85,
+  "note": "Nueva ley procesal contra la multirreincidencia y delitos de corrupción imprescriptibles; no habla de subir penas en general."
+ },
+ "ins-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-6": {
+  "v": 1,
+  "page": 4,
+  "note": "Reduce un 90% los asesores del Gobierno; no propone reducir el número de ministerios."
+ },
+ "ins-7": {
+  "v": 2,
+  "page": 10,
+  "note": "Eliminar los aforamientos no constitucionales y reformar la Constitución para quitar los de diputados y senadores."
+ },
+ "ext-1": {
+  "v": 1,
+  "page": 85,
+  "note": "Dice que, si España invierte más en defensa, la primera inversión serán sus profesionales; no fija un objetivo de gasto."
+ },
+ "ext-2": {
+  "v": -1,
+  "page": 97,
+  "note": "Propone reforzar el pilar europeo dentro de la OTAN."
+ },
+ "ext-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-4": {
+  "v": 1,
+  "page": 96,
+  "note": "Quiere una Europa más ágil, con mercado único real, defensa común y supervisión del Estado de derecho."
+ },
+ "ext-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-1": {
+  "v": 2,
+  "page": 103,
+  "note": "Bajar al 10% el IVA de la música grabada y reducir el de los servicios deportivos; fija un incentivo fiscal al cine."
+ },
+ "cul-2": {
+  "v": 1,
+  "page": 103,
+  "note": "Exige transparencia, licencias y etiquetado de contenidos de IA y registro público de algoritmos de la Administración."
+ },
+ "cul-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-4": {
+  "v": 2,
+  "page": 60,
+  "note": "Ley de Financiación de la Ciencia con inversión total en I+D del 2% en 2027 y del 3% en 2030."
+ },
+ "cul-5": {
+  "v": -1,
+  "page": 102,
+  "note": "Propone un RTVE con consejo profesional y financiación plurianual, sin reducirla ni privatizarla."
+ },
+ "cul-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ }
+}

@@ -25,6 +25,7 @@
   "definition": "Privilegio por el que ciertos cargos solo pueden ser juzgados por tribunales superiores.",
   "from": [
    "compromis",
+   "d21",
    "podemos",
    "pp",
    "salf"
@@ -41,6 +42,7 @@
   "term": "AIReF",
   "definition": "Autoridad Independiente de Responsabilidad Fiscal: organismo que vigila las cuentas públicas.",
   "from": [
+   "d21",
    "pp",
    "psoe",
    "salf"
@@ -129,6 +131,7 @@
   "term": "CGPJ",
   "definition": "Consejo General del Poder Judicial: órgano de gobierno de los jueces.",
   "from": [
+   "d21",
    "pp",
    "vox"
   ]
@@ -201,6 +204,13 @@
   ]
  },
  {
+  "term": "Cotización",
+  "definition": "Cantidad que pagan trabajadores y empresas a la Seguridad Social, que da derecho a pensiones y prestaciones.",
+  "from": [
+   "d21"
+  ]
+ },
+ {
   "term": "Cuña fiscal",
   "definition": "Diferencia entre lo que cuesta un trabajador a la empresa y lo que cobra neto, por impuestos y cotizaciones.",
   "from": [
@@ -226,6 +236,13 @@
   "definition": "Ajustar los tramos del impuesto a la inflación para que no se pague más solo porque suben los precios.",
   "from": [
    "pp"
+  ]
+ },
+ {
+  "term": "Derecho al error",
+  "definition": "Principio por el que un fallo formal sin mala fe se corrige sin sanción económica.",
+  "from": [
+   "d21"
   ]
  },
  {
@@ -341,6 +358,13 @@
   ]
  },
  {
+  "term": "IGAE",
+  "definition": "Intervención General de la Administración del Estado: órgano que audita y controla internamente las cuentas y el gasto público.",
+  "from": [
+   "d21"
+  ]
+ },
+ {
   "term": "IGIC",
   "definition": "Impuesto General Indirecto Canario: el impuesto sobre el consumo que se aplica en Canarias en lugar del IVA.",
   "from": [
@@ -374,6 +398,13 @@
   "definition": "Prestación estatal que garantiza un nivel mínimo de renta a hogares en situación de vulnerabilidad económica.",
   "from": [
    "cc"
+  ]
+ },
+ {
+  "term": "Interoperabilidad",
+  "definition": "Capacidad de que sistemas informáticos de distintas administraciones intercambien datos entre sí.",
+  "from": [
+   "d21"
   ]
  },
  {
@@ -418,6 +449,7 @@
   "term": "ITP y AJD",
   "definition": "Impuesto de Transmisiones Patrimoniales y de Actos Jurídicos Documentados: se pagan al comprar una vivienda de segunda mano o firmar la hipoteca.",
   "from": [
+   "d21",
    "salf"
   ]
  },
@@ -541,6 +573,13 @@
   "definition": "Parte de los ingresos sobre la que no se paga IRPF.",
   "from": [
    "salf"
+  ]
+ },
+ {
+  "term": "Neutralidad tecnológica",
+  "definition": "Criterio de fijar objetivos generales sin favorecer por ley una tecnología concreta.",
+  "from": [
+   "d21"
   ]
  },
  {
@@ -710,9 +749,17 @@
   ]
  },
  {
+  "term": "SERPAVI",
+  "definition": "Sistema Estatal de Referencia del Precio del Alquiler de Vivienda: índice público que sirve de referencia para los precios de alquiler.",
+  "from": [
+   "d21"
+  ]
+ },
+ {
   "term": "Silencio administrativo positivo",
   "definition": "Si la Administración no responde en plazo, la solicitud se considera aprobada.",
   "from": [
+   "d21",
    "pp",
    "vox"
   ]
@@ -782,6 +829,13 @@
   "from": [
    "compromis",
    "frenteamplio"
+  ]
+ },
+ {
+  "term": "Tenure track",
+  "definition": "Itinerario de carrera científica con plaza fija garantizada si se superan las evaluaciones previstas.",
+  "from": [
+   "d21"
   ]
  },
  {
@@ -866,6 +920,7 @@
   "definition": "Zona donde el alquiler o la hipoteca pesan demasiado en los ingresos, lo que permite aplicar límites a los precios.",
   "from": [
    "compromis",
+   "d21",
    "frenteamplio",
    "psoe"
   ]

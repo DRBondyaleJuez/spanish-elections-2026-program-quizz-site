@@ -1,0 +1,979 @@
+{
+ "party": "d21",
+ "overview": "Democracia 21 organiza su programa en cinco bloques (España Limpia, Resuelve, Prospera, Cuida y Lidera) con medidas muy detalladas. Parte de una limpieza política de clientelismo y corrupción y la combina con una Administración digital y proactiva, la vivienda como prioridad número uno y mucha atención a la gestión basada en datos, tecnología e inteligencia artificial.",
+ "topics": {
+  "vivienda": {
+   "summary": "Plan en dos fases: limitar temporalmente los alquileres y bajar impuestos de compra ya, y construir barrios de vivienda asequible durante diez años con colaboración público-privada.",
+   "points": [
+    {
+     "text": "Limitar de forma temporal y excepcional los alquileres en zonas tensionadas usando el índice SERPAVI, a cambio de proteger al pequeño propietario con un servicio público de garantía de cobro ante impagos de inquilinos vulnerables.",
+     "source": {
+      "doc": "d21",
+      "page": 19
+     }
+    },
+    {
+     "text": "Crear mediación gratuita y vinculante (30 días) y juzgados especializados de arrendamientos (60 días más), y tipificar como estafa firmar un contrato con intención de no pagar.",
+     "source": {
+      "doc": "d21",
+      "page": 19
+     }
+    },
+    {
+     "text": "Eliminar IVA, ITP y AJD en la compra de vivienda habitual para menores de 35 años (hasta 400.000 euros) y bajar esos impuestos para el resto: ITP único del 2%, AJD al 0% e IVA del 4%.",
+     "source": {
+      "doc": "d21",
+      "page": 20
+     }
+    },
+    {
+     "text": "Reasignar unos 10.000 millones de fondos europeos Next Generation no ejecutados a un Fondo Público Soberano que promueva vivienda protegida y asequible, abierto a coinversión privada.",
+     "source": {
+      "doc": "d21",
+      "page": 20
+     }
+    },
+    {
+     "text": "Recargo mínimo del 10% (las comunidades podrían subirlo al 25%) a la compra de vivienda no habitual por inversores extracomunitarios, e IVA general del 10% a los alquileres turísticos de corta estancia.",
+     "source": {
+      "doc": "d21",
+      "page": 21
+     }
+    },
+    {
+     "text": "Plan Nacional de Barrios a 10 años: barrios completos de mil viviendas, con suelo público cedido en derecho de superficie a 75 años y construcción por empresas públicas y privadas.",
+     "source": {
+      "doc": "d21",
+      "page": 22
+     }
+    },
+    {
+     "text": "Licencias de obra mayor en 30 días (si no, las resuelve la comunidad), declaración responsable para obra menor y silencio positivo de 3 meses en autorizaciones sectoriales.",
+     "source": {
+      "doc": "d21",
+      "page": 23
+     }
+    },
+    {
+     "text": "Obligar a administraciones y empresas públicas a liberar su suelo inactivo y crear un portal público para seguir cada desarrollo urbanístico.",
+     "source": {
+      "doc": "d21",
+      "page": 24
+     }
+    }
+   ]
+  },
+  "empleo": {
+   "summary": "Se centra en subir salarios por la vía de la productividad, con incentivos fiscales, un SMI fijado por un órgano técnico y un nuevo marco para los autónomos.",
+   "points": [
+    {
+     "text": "Bonus y pluses ligados a productividad verificable tributarían al 5% en el IRPF hasta 5.000 euros al año, con bonificación del 50% (75% en pymes pequeñas) de la cotización de la empresa por ese extra.",
+     "source": {
+      "doc": "d21",
+      "page": 48
+     }
+    },
+    {
+     "text": "Un órgano técnico independiente fijaría el SMI cada año, con una senda para que no baje de dos tercios de la mediana salarial y filtros de prudencia para jóvenes y pequeñas empresas.",
+     "source": {
+      "doc": "d21",
+      "page": 49
+     }
+    },
+    {
+     "text": "Deducción en el Impuesto sobre Sociedades para las empresas que suban los sueldos por encima del IPC, reforzada para los trabajadores jóvenes.",
+     "source": {
+      "doc": "d21",
+      "page": 49
+     }
+    },
+    {
+     "text": "Exigir en la contratación pública el cumplimiento de convenios colectivos con salarios dignos y rescindir contratos a quien compita con dumping salarial.",
+     "source": {
+      "doc": "d21",
+      "page": 49
+     }
+    },
+    {
+     "text": "Plan estatal de integración de la inteligencia artificial y sistema de seguimiento de su impacto en el empleo.",
+     "source": {
+      "doc": "d21",
+      "page": 48
+     }
+    },
+    {
+     "text": "Autónomos: cuota opcional calculada cada mes según los ingresos netos del mes anterior, cese de actividad parcial y bono fiscal de despegue durante los tres primeros años.",
+     "source": {
+      "doc": "d21",
+      "page": 53
+     }
+    },
+    {
+     "text": "Nuevo Estatuto del Trabajo Autónomo negociado en una mesa de diálogo, y régimen de IVA franquiciado (sin IVA ni declaraciones trimestrales) para quien facture menos de 85.000 euros.",
+     "source": {
+      "doc": "d21",
+      "page": 54
+     }
+    }
+   ]
+  },
+  "economia": {
+   "summary": "Propone un sistema fiscal estable, simple y progresivo sin subir ni bajar impuestos en general, menos burocracia y un mercado interior sin barreras entre comunidades.",
+   "points": [
+    {
+     "text": "Actualizar cada año por el IPC los tramos, mínimos y reducciones del IRPF, y que los cambios tributarios solo entren en vigor el 1 de enero con seis meses de aviso y sin efecto retroactivo.",
+     "source": {
+      "doc": "d21",
+      "page": 33
+     }
+    },
+    {
+     "text": "Las ganancias por vender activos mantenidos menos de un año tributarían como rentas del trabajo, no como ahorro.",
+     "source": {
+      "doc": "d21",
+      "page": 33
+     }
+    },
+    {
+     "text": "Declaración de la renta prefabricada por Hacienda, recibo anual del contribuyente con el destino de sus impuestos y derecho al error sin sanción cuando no hay mala fe.",
+     "source": {
+      "doc": "d21",
+      "page": 32
+     }
+    },
+    {
+     "text": "Concentrar la inspección en el fraude real (economía sumergida, tramas de IVA, criptoactivos) y dar fecha de caducidad y evaluación independiente a cada beneficio fiscal.",
+     "source": {
+      "doc": "d21",
+      "page": 33
+     }
+    },
+    {
+     "text": "Impuesto de Sociedades del 5% para los beneficios que las pymes reinviertan, tributando de forma ordinaria solo al repartir dividendos.",
+     "source": {
+      "doc": "d21",
+      "page": 50
+     }
+    },
+    {
+     "text": "Programa de auditoría de barreras para derogar en 12 meses normas o trámites sin justificación clara de protección pública.",
+     "source": {
+      "doc": "d21",
+      "page": 35
+     }
+    },
+    {
+     "text": "Crear una empresa en una hora con trámite digital único, licencia provisional automática si la Administración no responde a tiempo y mejor acceso de las pymes a la contratación pública.",
+     "source": {
+      "doc": "d21",
+      "page": 51
+     }
+    },
+    {
+     "text": "Reconocimiento mutuo: cualquier licencia o título válido en una comunidad lo sería en toda España, y se prohibiría repetir trámites o pagar tasas duplicadas.",
+     "source": {
+      "doc": "d21",
+      "page": 36
+     }
+    }
+   ]
+  },
+  "pensiones": {
+   "summary": "No propone una reforma cerrada: crea una asamblea ciudadana para debatir las pensiones y un Estado que conceda las ayudas sociales de oficio.",
+   "points": [
+    {
+     "text": "Asamblea Ciudadana de 150 personas elegidas por sorteo, con expertos independientes, que deliberaría un año sobre el futuro de las pensiones y cuyas recomendaciones se llevarían al Pacto de Toledo.",
+     "source": {
+      "doc": "d21",
+      "page": 79
+     }
+    },
+    {
+     "text": "Reforzar por ley la independencia de la AIReF y publicar sus proyecciones de pensiones como datos abiertos con un simulador público.",
+     "source": {
+      "doc": "d21",
+      "page": 79
+     }
+    },
+    {
+     "text": "Ampliar la base de cotizantes con más empleo cualificado, permanencia voluntaria de los séniors y menos economía sumergida.",
+     "source": {
+      "doc": "d21",
+      "page": 80
+     }
+    },
+    {
+     "text": "Tramitar de oficio el Ingreso Mínimo Vital y el Complemento de Ayuda para la Infancia a las familias vulnerables.",
+     "source": {
+      "doc": "d21",
+      "page": 30
+     }
+    },
+    {
+     "text": "Escudo Social Único: una sola plataforma y un único ingreso mensual para las ayudas sociales de distintas administraciones, diseñado para que trabajar siempre compense.",
+     "source": {
+      "doc": "d21",
+      "page": 73
+     }
+    },
+    {
+     "text": "Hacer posible compatibilizar pensión y trabajo y combatir la discriminación por edad en el empleo.",
+     "source": {
+      "doc": "d21",
+      "page": 80
+     }
+    },
+    {
+     "text": "Jubilación anticipada sin recorte para Policía Nacional, Guardia Civil, Vigilancia Aduanera y militares por ser profesiones de riesgo.",
+     "source": {
+      "doc": "d21",
+      "page": 84
+     }
+    }
+   ]
+  },
+  "sanidad": {
+   "summary": "Se apoya en gestión eficiente, tecnología e inteligencia artificial para reducir esperas, junto a mejores condiciones laborales para los profesionales sanitarios.",
+   "points": [
+    {
+     "text": "Nombrar a los directivos de hospitales y áreas de salud solo por concurso de mérito, con mandatos evaluados por resultados.",
+     "source": {
+      "doc": "d21",
+      "page": 68
+     }
+    },
+    {
+     "text": "Sistema automático que reasigne al instante citas y huecos de quirófano perdidos y apertura de quirófanos públicos por la tarde; las aseguradoras podrían alquilar tramos vacantes y todo lo ingresado se reinvertiría en la sanidad pública.",
+     "source": {
+      "doc": "d21",
+      "page": 69
+     }
+    },
+    {
+     "text": "Fin progresivo de las guardias de 24 horas hacia turnos máximos de 12 horas, y reconocimiento del grupo A1 para enfermería.",
+     "source": {
+      "doc": "d21",
+      "page": 69
+     }
+    },
+    {
+     "text": "Ley Estatal de Protección del Personal Sanitario con penas más duras y un registro nacional de agresores.",
+     "source": {
+      "doc": "d21",
+      "page": 70
+     }
+    },
+    {
+     "text": "Historial clínico único y accesible en todo el país, app móvil de triaje con IA e IA clínica que redacte borradores de informes revisados por el profesional.",
+     "source": {
+      "doc": "d21",
+      "page": 71
+     }
+    },
+    {
+     "text": "Red de hospitales monotemáticos de referencia y un Centro Nacional de Trasplantes impulsado por la ONT.",
+     "source": {
+      "doc": "d21",
+      "page": 72
+     }
+    },
+    {
+     "text": "Auditoría de ratios para acercar médicos, enfermeras y TCAE por paciente a la media de la UE con un calendario vinculante.",
+     "source": {
+      "doc": "d21",
+      "page": 70
+     }
+    },
+    {
+     "text": "Salud mental: cribado de ansiedad y depresión en el embarazo, Unidades de Enlace en los colegios y seguimiento en 72 horas tras un intento de suicidio.",
+     "source": {
+      "doc": "d21",
+      "page": 78
+     }
+    }
+   ]
+  },
+  "educacion": {
+   "summary": "Pone la educación en el centro con un objetivo PISA, más peso a las materias instrumentales, mejor carrera docente y una apuesta fuerte por la FP.",
+   "points": [
+    {
+     "text": "Plan Estatal para situar a España en el top 10 europeo de PISA en 8 años, con más horas de materias instrumentales y métodos basados en evidencia.",
+     "source": {
+      "doc": "d21",
+      "page": 42
+     }
+    },
+    {
+     "text": "Nueva materia obligatoria de Cultura Económica y Financiera en la ESO y tecnología como especialidad troncal del currículo.",
+     "source": {
+      "doc": "d21",
+      "page": 42
+     }
+    },
+    {
+     "text": "Pruebas de acceso a los grados de Educación, un MIR Educativo de dos años remunerados y una carrera docente que no dependa solo de la antigüedad.",
+     "source": {
+      "doc": "d21",
+      "page": 44
+     }
+    },
+    {
+     "text": "Educación infantil de 0 a 3 años como etapa pedagógica: mejor remuneración y ratios para los educadores y un plan de estimulación temprana.",
+     "source": {
+      "doc": "d21",
+      "page": 43
+     }
+    },
+    {
+     "text": "Plan de renovación de colegios e institutos públicos y equipos de refuerzo en los centros con más necesidades según un Índice Socioeducativo.",
+     "source": {
+      "doc": "d21",
+      "page": 44
+     }
+    },
+    {
+     "text": "Universidad: grados flexibles, prácticas tutorizadas en todos los títulos, becas pagadas en septiembre y un Comparador Público de Titulaciones con inserción laboral y salarios.",
+     "source": {
+      "doc": "d21",
+      "page": 46
+     }
+    },
+    {
+     "text": "FP: prácticas en segundo curso, tutor compartido para pymes, créditos fiscales a quien forma y financiación plurianual.",
+     "source": {
+      "doc": "d21",
+      "page": 47
+     }
+    },
+    {
+     "text": "Hucha de Formación para Jóvenes: unos 500 euros por joven de 18 años, integrando el Bono Cultural Joven y el Verano Joven.",
+     "source": {
+      "doc": "d21",
+      "page": 47
+     }
+    }
+   ]
+  },
+  "igualdad": {
+   "summary": "Defiende mantener sin retrocesos las leyes de igualdad, violencia de género, aborto y derechos LGTBIQ+, y propone medidas de conciliación y de reconocimiento de todos los modelos de familia.",
+   "points": [
+    {
+     "text": "Mantener y proteger la red pública de atención a víctimas de violencia machista y reafirmar el compromiso con eliminar la brecha salarial y penalizar el acoso.",
+     "source": {
+      "doc": "d21",
+      "page": 99
+     }
+    },
+    {
+     "text": "Oponerse a cualquier intento de derogar o limitar la ley de plazos del aborto y garantizar la interrupción del embarazo en la sanidad pública de todas las comunidades.",
+     "source": {
+      "doc": "d21",
+      "page": 99
+     }
+    },
+    {
+     "text": "Oponerse a recortes de los derechos LGTBIQ+, actuar contra los delitos de odio y las terapias de conversión y exigir centros educativos libres de acoso.",
+     "source": {
+      "doc": "d21",
+      "page": 100
+     }
+    },
+    {
+     "text": "Baja médica específica de recuperación posparto y retribución al 50% de las ocho semanas de permiso parental, en una bolsa de tiempo flexible hasta que el hijo cumpla 12 años.",
+     "source": {
+      "doc": "d21",
+      "page": 74
+     }
+    },
+    {
+     "text": "Las parejas de mujeres, casadas o no, podrían inscribir a sus hijos como de ambas desde el hospital, e incluir el método ROPA en la cartera común de sanidad.",
+     "source": {
+      "doc": "d21",
+      "page": 76
+     }
+    },
+    {
+     "text": "Reconocer de oficio el título de familia monoparental desde el primer hijo, con complemento en el Bono Crianza y bolsa de tiempo doble.",
+     "source": {
+      "doc": "d21",
+      "page": 76
+     }
+    },
+    {
+     "text": "Blindaje presupuestario y de derechos de las personas con discapacidad, con accesibilidad universal e inclusión laboral y educativa.",
+     "source": {
+      "doc": "d21",
+      "page": 100
+     }
+    }
+   ]
+  },
+  "inmigracion": {
+   "summary": "Plantea una inmigración ordenada y vinculada a las necesidades laborales: visados legales que funcionen, cumplimiento de las expulsiones, integración y rechazo de la xenofobia.",
+   "points": [
+    {
+     "text": "Visado de búsqueda de empleo de 6 meses (prorrogable a 9), con baremo de puntos y cupo anual, inspirado en la Chancenkarte alemana.",
+     "source": {
+      "doc": "d21",
+      "page": 56
+     }
+    },
+    {
+     "text": "Programa de formación profesional en países de origen, con contrato firmado antes de viajar, para sectores con vacantes estructurales.",
+     "source": {
+      "doc": "d21",
+      "page": 56
+     }
+    },
+    {
+     "text": "Extranjería digital con expediente único, citas nominativas y plazos máximos, con la idea de que una vía ordinaria eficaz evite regularizaciones extraordinarias.",
+     "source": {
+      "doc": "d21",
+      "page": 57
+     }
+    },
+    {
+     "text": "Registro digital único de órdenes de expulsión, prioridad para quienes cometen delitos y acuerdos de readmisión con los países de origen.",
+     "source": {
+      "doc": "d21",
+      "page": 57
+     }
+    },
+    {
+     "text": "Aplicar completo el Pacto Europeo de Migración y Asilo, con control biométrico de entradas y salidas y asilo resuelto en semanas.",
+     "source": {
+      "doc": "d21",
+      "page": 57
+     }
+    },
+    {
+     "text": "Tarjeta de Oportunidad de 9 meses para jóvenes extutelados con formación y buen comportamiento, y un itinerario gratuito de acogida (idioma, Constitución, orientación laboral).",
+     "source": {
+      "doc": "d21",
+      "page": 58
+     }
+    },
+    {
+     "text": "Tolerancia cero con la xenofobia: más fiscales para delitos de odio y pruebas de discriminación en alquiler y selección de personal.",
+     "source": {
+      "doc": "d21",
+      "page": 58
+     }
+    },
+    {
+     "text": "Incentivos fiscales y trámites ágiles para que los españoles en el extranjero vuelvan, incluidos teletrabajadores y sus familias.",
+     "source": {
+      "doc": "d21",
+      "page": 59
+     }
+    }
+   ]
+  },
+  "medioambiente": {
+   "summary": "Combina descarbonización con neutralidad tecnológica y se centra en adaptarse al clima: prevención de incendios, gestión del agua, calor y economía circular.",
+   "points": [
+    {
+     "text": "Regulación exigente con la descarbonización pero neutral en las tecnologías, sin que el Estado decida cuál gana.",
+     "source": {
+      "doc": "d21",
+      "page": 93
+     }
+    },
+    {
+     "text": "Gestionar un millón de hectáreas de monte al año, con ganadería extensiva y quemas controladas, y exigir bomberos forestales todo el año.",
+     "source": {
+      "doc": "d21",
+      "page": 87
+     }
+    },
+    {
+     "text": "Sistema de alerta operativa de riesgo de incendio y plan de apoyo a los pueblos para su autoprotección.",
+     "source": {
+      "doc": "d21",
+      "page": 87
+     }
+    },
+    {
+     "text": "Ejecutar al 100% las obras comprometidas contra inundaciones y hacer cumplir la prohibición de construir en las zonas de mayor riesgo.",
+     "source": {
+      "doc": "d21",
+      "page": 88
+     }
+    },
+    {
+     "text": "Triplicar el ritmo de renovación de redes de agua, con contadores inteligentes y tarifas progresivas por tramos de consumo.",
+     "source": {
+      "doc": "d21",
+      "page": 88
+     }
+    },
+    {
+     "text": "Plan contra el calor extremo con llamada o visita en 24 horas a las personas vulnerables registradas, un mapa de islas de calor y fondos para sombra en las ciudades.",
+     "source": {
+      "doc": "d21",
+      "page": 89
+     }
+    },
+    {
+     "text": "Sistema de depósito y retorno de envases con puntos en el comercio de barrio, y pago de la tasa de basuras según lo que genera cada hogar.",
+     "source": {
+      "doc": "d21",
+      "page": 90
+     }
+    },
+    {
+     "text": "Fiscalidad energética que deje de penalizar la electricidad frente a los fósiles para impulsar la electrificación.",
+     "source": {
+      "doc": "d21",
+      "page": 94
+     }
+    }
+   ]
+  },
+  "rural": {
+   "summary": "Trata lo rural sobre todo como prevención de incendios, riego eficiente y una estrategia europea contra la despoblación.",
+   "points": [
+    {
+     "text": "Usar ganadería extensiva, olivares y cultivos como cortafuegos que den renta al mundo rural y bajar el IVA de los trabajos de prevención.",
+     "source": {
+      "doc": "d21",
+      "page": 87
+     }
+    },
+    {
+     "text": "Riego inteligente con amortización fiscal acelerada y deducciones de I+D+i para explotaciones y pymes innovadoras, y desalación con renovables para regantes.",
+     "source": {
+      "doc": "d21",
+      "page": 89
+     }
+    },
+    {
+     "text": "Defender una PAC y una Política Pesquera Común que modernicen el sector con agrotecnología y competencia equitativa frente a importaciones de terceros países.",
+     "source": {
+      "doc": "d21",
+      "page": 97
+     }
+    },
+    {
+     "text": "Exigir una estrategia comunitaria contra la despoblación en el Marco Financiero 2028-2034, con incentivos fiscales, conectividad y fondos directos.",
+     "source": {
+      "doc": "d21",
+      "page": 98
+     }
+    },
+    {
+     "text": "Programas de capacitación digital para personas mayores y para el medio rural.",
+     "source": {
+      "doc": "d21",
+      "page": 26
+     }
+    }
+   ]
+  },
+  "territorio": {
+   "summary": "No trata el autogobierno ni la financiación autonómica; se centra en armonizar normas, exigir resultados a los ayuntamientos y coordinar administraciones.",
+   "points": [
+    {
+     "text": "Reconocimiento mutuo: licencias, homologaciones y títulos de una comunidad válidos en toda España, para que las comunidades no fragmenten el mercado.",
+     "source": {
+      "doc": "d21",
+      "page": 36
+     }
+    },
+    {
+     "text": "Si un ayuntamiento paraliza vivienda asequible o incumple sus objetivos, su competencia urbanística pasaría a su comunidad autónoma.",
+     "source": {
+      "doc": "d21",
+      "page": 23
+     }
+    },
+    {
+     "text": "Ley de Interoperabilidad con órgano de gobernanza digital de Estado, comunidades y entidades locales, manteniendo cada administración la custodia de sus datos.",
+     "source": {
+      "doc": "d21",
+      "page": 25
+     }
+    },
+    {
+     "text": "Los casos de corrupción de políticos de una comunidad se juzgarían en una comunidad adyacente.",
+     "source": {
+      "doc": "d21",
+      "page": 6
+     }
+    },
+    {
+     "text": "Programa estatal de apoyo y refuerzo a las comunidades cuyos resultados educativos caigan más de dos puntos por debajo de la media.",
+     "source": {
+      "doc": "d21",
+      "page": 43
+     }
+    }
+   ]
+  },
+  "instituciones": {
+   "summary": "Su eje es una limpieza política: despolitizar nombramientos, endurecer la lucha anticorrupción, eliminar aforamientos y abrir la política a la ciudadanía.",
+   "points": [
+    {
+     "text": "Reducir un 90% los asesores, delito de enchufismo y nombramientos solo por mérito y capacidad, con inspección de los cargos de libre designación existentes.",
+     "source": {
+      "doc": "d21",
+      "page": 4
+     }
+    },
+    {
+     "text": "Juzgados especializados en corrupción, doblar los recursos de la Fiscalía Anticorrupción y crear una Oficina Anticorrupción que pueda multar hasta el 10% del volumen de negocio o ingresos.",
+     "source": {
+      "doc": "d21",
+      "page": 7
+     }
+    },
+    {
+     "text": "Delitos de corrupción imprescriptibles, inhabilitación de por vida para condenados y suspensión de la financiación pública a partidos con dirigentes investigados.",
+     "source": {
+      "doc": "d21",
+      "page": 8
+     }
+    },
+    {
+     "text": "Los vocales judiciales del CGPJ serían elegidos por los jueces, y el Fiscal General saldría de una terna elegida por 3/5 del Congreso.",
+     "source": {
+      "doc": "d21",
+      "page": 9
+     }
+    },
+    {
+     "text": "Eliminar los aforamientos no recogidos en la Constitución y reformar la Constitución para quitar los de diputados y senadores.",
+     "source": {
+      "doc": "d21",
+      "page": 10
+     }
+    },
+    {
+     "text": "Asambleas ciudadanas por sorteo, límite de dos mandatos u ocho años en un mismo cargo y sueldo descontado a parlamentarios que no asistan.",
+     "source": {
+      "doc": "d21",
+      "page": 13
+     }
+    },
+    {
+     "text": "Reforma de la Ley Electoral hacia listas desbloqueadas o abiertas.",
+     "source": {
+      "doc": "d21",
+      "page": 14
+     }
+    },
+    {
+     "text": "Dirección pública profesional: directores generales funcionarios de carrera con mandatos de cuatro años no vinculados al cambio de Gobierno.",
+     "source": {
+      "doc": "d21",
+      "page": 37
+     }
+    },
+    {
+     "text": "Nueva ley procesal contra la multirreincidencia, jubilación anticipada y mejoras para policías, guardias civiles y militares, y centro nacional contra el fraude digital.",
+     "source": {
+      "doc": "d21",
+      "page": 85
+     }
+    }
+   ]
+  },
+  "exterior": {
+   "summary": "Apuesta por una Unión Europea más ágil, con mercado único, defensa conjunta y condicionalidad democrática, y no menciona otros asuntos exteriores.",
+   "points": [
+    {
+     "text": "Condicionalidad democrática estricta para los fondos europeos y un mecanismo europeo de supervisión anual del Estado de derecho.",
+     "source": {
+      "doc": "d21",
+      "page": 96
+     }
+    },
+    {
+     "text": "Desarrollar el Escudo Europeo de la Democracia frente a injerencias, guerra híbrida y desinformación.",
+     "source": {
+      "doc": "d21",
+      "page": 96
+     }
+    },
+    {
+     "text": "Aplicar los informes Draghi y Letta para derribar barreras en el mercado único y completar la Unión de Ahorros e Inversiones.",
+     "source": {
+      "doc": "d21",
+      "page": 97
+     }
+    },
+    {
+     "text": "Reforzar el pilar europeo de defensa dentro de la OTAN con compras conjuntas y una base industrial común.",
+     "source": {
+      "doc": "d21",
+      "page": 97
+     }
+    },
+    {
+     "text": "Reorientar fondos europeos no ejecutados a vivienda asequible y buscar un estatus europeo específico para Ceuta y Melilla.",
+     "source": {
+      "doc": "d21",
+      "page": 98
+     }
+    },
+    {
+     "text": "Presión diplomática para acelerar las interconexiones eléctricas con el resto de Europa.",
+     "source": {
+      "doc": "d21",
+      "page": 94
+     }
+    }
+   ]
+  },
+  "cultura": {
+   "summary": "Quiere una cultura despolitizada y competitiva, con incentivos fiscales, protección de autores frente a la IA, estatuto del artista y modernización digital del Estado.",
+   "points": [
+    {
+     "text": "Nueva Ley del Cine con incentivo fiscal estatal del 35% (horizonte del 40%), crédito fiscal del 30% para videojuegos y bajar al 10% el IVA de la música grabada.",
+     "source": {
+      "doc": "d21",
+      "page": 101
+     }
+    },
+    {
+     "text": "RTVE con consejo profesional elegido por dos tercios del Congreso y financiación plurianual, y direcciones de museos y teatros públicos por concurso de méritos.",
+     "source": {
+      "doc": "d21",
+      "page": 102
+     }
+    },
+    {
+     "text": "Obligar a los desarrolladores de IA a informar de las obras con que entrenan, a licenciarlas y a etiquetar los contenidos generados o asistidos por IA.",
+     "source": {
+      "doc": "d21",
+      "page": 103
+     }
+    },
+    {
+     "text": "Completar el Estatuto del Artista, con fiscalidad para ingresos irregulares y protección de la maternidad.",
+     "source": {
+      "doc": "d21",
+      "page": 103
+     }
+    },
+    {
+     "text": "Cultura accesible: ningún estudiante sin ir al teatro, concierto o museo en la ESO, y museos estatales gratuitos los fines de semana.",
+     "source": {
+      "doc": "d21",
+      "page": 104
+     }
+    },
+    {
+     "text": "Crear una Agencia Nacional de Ciberseguridad Independiente (ANCI) y registros públicos de algoritmos y de acceso a tus datos.",
+     "source": {
+      "doc": "d21",
+      "page": 27
+     }
+    },
+    {
+     "text": "Ley de Financiación de la Ciencia que fije un objetivo del 2% de inversión total en I+D en 2027 y del 3% en 2030, y un CSIC con presidencia elegida por concurso internacional.",
+     "source": {
+      "doc": "d21",
+      "page": 60
+     }
+    },
+    {
+     "text": "Carrera investigadora con tenure track, plazas publicadas en EURAXESS y libertad para crear spin-offs sin perder la plaza pública.",
+     "source": {
+      "doc": "d21",
+      "page": 61
+     }
+    }
+   ]
+  },
+  "otros": {
+   "summary": "Incluye infraestructuras planificadas con datos y centradas en conservar, protección animal con los veterinarios y un estatuto del deportista.",
+   "points": [
+    {
+     "text": "Estrategia Estatal de Infraestructuras a 25 años y evaluación de cada gran obra por la AIReF al año, a los cinco y a los diez de su puesta en marcha.",
+     "source": {
+      "doc": "d21",
+      "page": 63
+     }
+    },
+    {
+     "text": "Conservar antes que inaugurar: planes de mantenimiento con sensores e IA y programas plurianuales de conservación de carreteras.",
+     "source": {
+      "doc": "d21",
+      "page": 64
+     }
+    },
+    {
+     "text": "Tras los accidentes de Adamuz y Urda, revisión técnica independiente de la señalización de la alta velocidad en los seis primeros meses y extensión del ERTMS.",
+     "source": {
+      "doc": "d21",
+      "page": 64
+     }
+    },
+    {
+     "text": "Planes de fiabilidad para Cercanías y Rodalies y un Plan de Conectividad Logística de puertos.",
+     "source": {
+      "doc": "d21",
+      "page": 65
+     }
+    },
+    {
+     "text": "Reconocimiento sanitario pleno para los veterinarios, IVA sanitario para sus servicios (primero medicamentos veterinarios al 4%) y una nueva Ley de Bienestar Animal basada en evidencia científica.",
+     "source": {
+      "doc": "d21",
+      "page": 81
+     }
+    },
+    {
+     "text": "Fondo Estatal de Peritaje Veterinario Forense financiado con las multas por maltrato animal.",
+     "source": {
+      "doc": "d21",
+      "page": 82
+     }
+    },
+    {
+     "text": "Estatuto del deportista: reconocer a efectos de cotización los años de carrera de los deportistas de alto nivel desde 1980 y bajar el IVA de los servicios deportivos al 10%.",
+     "source": {
+      "doc": "d21",
+      "page": 106
+     }
+    },
+    {
+     "text": "Actividades extraescolares deportivas gratuitas en centros públicos, con atención a las niñas de 12 a 16 años, y objetivo del 40% de mujeres también en las presidencias federativas.",
+     "source": {
+      "doc": "d21",
+      "page": 107
+     }
+    }
+   ]
+  }
+ },
+ "distinctive": [
+  {
+   "topic": "instituciones",
+   "text": "Reducir un 90% los asesores del Gobierno y tipificar el delito de enchufismo, con inspección y posibles despidos de los cargos de libre designación actuales.",
+   "why": "Es de los pocos programas que concretan un límite numérico de asesores y un delito específico de enchufismo.",
+   "source": {
+    "doc": "d21",
+    "page": 4
+   }
+  },
+  {
+   "topic": "instituciones",
+   "text": "Asambleas ciudadanas elegidas por sorteo para desbloquear asuntos de fondo, con referéndum consultivo, y un cara a cara anual del Presidente con ciudadanos sorteados.",
+   "why": "Es de los pocos programas que incorporan la democracia deliberativa por sorteo como mecanismo estable.",
+   "source": {
+    "doc": "d21",
+    "page": 11
+   }
+  },
+  {
+   "topic": "instituciones",
+   "text": "Impedir ejercer un mismo cargo público más de dos mandatos completos u ocho años.",
+   "why": "Es de los pocos programas que proponen una limitación legal de mandatos para todos los cargos públicos.",
+   "source": {
+    "doc": "d21",
+    "page": 13
+   }
+  },
+  {
+   "topic": "vivienda",
+   "text": "Limitar temporalmente los alquileres en zonas tensionadas a cambio de una garantía pública de cobro para el propietario, junto a impuestos cero para menores de 35 años.",
+   "why": "Combina un tope temporal de alquileres con medidas de oferta y rebajas fiscales, una mezcla poco habitual en los programas.",
+   "source": {
+    "doc": "d21",
+    "page": 19
+   }
+  },
+  {
+   "topic": "economia",
+   "text": "Impuesto de Sociedades del 5% para los beneficios que las pymes reinviertan, y tributar como rentas del trabajo las ganancias de activos vendidos en menos de un año.",
+   "why": "Es de los pocos que proponen un tipo reducido solo para beneficios reinvertidos y equiparar la especulación a corto plazo al trabajo.",
+   "source": {
+    "doc": "d21",
+    "page": 50
+   }
+  },
+  {
+   "topic": "sanidad",
+   "text": "Alquilar a mutuas y aseguradoras los quirófanos públicos vacíos por la tarde con tarifas públicas, y reinvertir el 100% de esos ingresos en la sanidad pública.",
+   "why": "Es de los pocos programas que plantean abrir a aseguradoras la capacidad pública ociosa con reinversión obligatoria.",
+   "source": {
+    "doc": "d21",
+    "page": 69
+   }
+  },
+  {
+   "topic": "educacion",
+   "text": "Crear un MIR Educativo de dos años de formación práctica remunerada en los centros y un modelo de IA educativa propio financiado y auditado por el Estado.",
+   "why": "Es de los pocos que proponen una formación docente tipo MIR y una IA educativa pública.",
+   "source": {
+    "doc": "d21",
+    "page": 44
+   }
+  },
+  {
+   "topic": "pensiones",
+   "text": "Convocar en los primeros cien días una asamblea de 150 personas elegidas por sorteo para deliberar un año sobre el futuro de las pensiones.",
+   "why": "Es de los pocos programas que no fijan una reforma de pensiones y delegan la propuesta en un proceso ciudadano deliberativo.",
+   "source": {
+    "doc": "d21",
+    "page": 79
+   }
+  }
+ ],
+ "glossary": [
+  {
+   "term": "SERPAVI",
+   "definition": "Sistema Estatal de Referencia del Precio del Alquiler de Vivienda: índice público que sirve de referencia para los precios de alquiler."
+  },
+  {
+   "term": "Zona tensionada",
+   "definition": "Zona donde el alquiler o la compra de vivienda pesa mucho en los ingresos de los hogares y puede aplicarse una regulación especial de precios."
+  },
+  {
+   "term": "ITP y AJD",
+   "definition": "Impuesto de Transmisiones Patrimoniales (al comprar vivienda de segunda mano) y de Actos Jurídicos Documentados (al formalizar escrituras e hipotecas)."
+  },
+  {
+   "term": "Aforamiento",
+   "definition": "Privilegio por el que ciertos cargos solo pueden ser juzgados por tribunales superiores en lugar de por los jueces ordinarios."
+  },
+  {
+   "term": "CGPJ",
+   "definition": "Consejo General del Poder Judicial: órgano de gobierno de los jueces."
+  },
+  {
+   "term": "AIReF",
+   "definition": "Autoridad Independiente de Responsabilidad Fiscal: organismo que evalúa las cuentas públicas y hace proyecciones económicas."
+  },
+  {
+   "term": "IGAE",
+   "definition": "Intervención General de la Administración del Estado: órgano que audita y controla internamente las cuentas y el gasto público."
+  },
+  {
+   "term": "Silencio administrativo positivo",
+   "definition": "Regla por la que, si la Administración no responde en plazo, se entiende que la solicitud está aprobada."
+  },
+  {
+   "term": "Interoperabilidad",
+   "definition": "Capacidad de que sistemas informáticos de distintas administraciones intercambien datos entre sí."
+  },
+  {
+   "term": "Derecho al error",
+   "definition": "Principio por el que un fallo formal sin mala fe se corrige sin sanción económica."
+  },
+  {
+   "term": "Cotización",
+   "definition": "Cantidad que pagan trabajadores y empresas a la Seguridad Social, que da derecho a pensiones y prestaciones."
+  },
+  {
+   "term": "Tenure track",
+   "definition": "Itinerario de carrera científica con plaza fija garantizada si se superan las evaluaciones previstas."
+  },
+  {
+   "term": "Neutralidad tecnológica",
+   "definition": "Criterio de fijar objetivos generales sin favorecer por ley una tecnología concreta."
+  }
+ ]
+}

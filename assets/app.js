@@ -1,5 +1,5 @@
 // Router por hash. Cada página es un módulo en assets/pages/ con export render(app).
-import { parseHash, initGlossaryPopover, esc } from './lib.js';
+import { parseHash, initGlossaryPopover, esc, loadBase } from './lib.js';
 
 const app = document.getElementById('app');
 
@@ -15,12 +15,13 @@ const pages = {
 
 const titles = { test: 'Test de programas', mesa: 'La mesa electoral paso a paso', 'test-mesa': 'Test de la mesa electoral' };
 
-function renderInicio(el) {
+async function renderInicio(el) {
+  const nParties = (await loadBase().catch(() => null))?.parties.length;
   const days = Math.ceil((new Date('2026-11-29T09:00:00+01:00') - new Date()) / 864e5);
   el.innerHTML = `
     <div class="card hero"><h2>Prepárate para el 29N</h2>
       <p>${days > 0 ? `Quedan <strong>${days} días</strong> para las Elecciones Generales.` : 'Elecciones Generales del 29 de noviembre de 2026.'}
-      Aquí tienes los programas de 10 partidos resumidos por temas, un comparador y tests para repasar.</p></div>
+      Aquí tienes los programas de ${nParties || 'varios'} partidos resumidos por temas, un comparador y tests para repasar.</p></div>
     <div class="grid">
       <a class="card tile" href="#/resumenes">📚<b>Resúmenes</b><span>Qué propone cada partido, tema por tema.</span></a>
       <a class="card tile" href="#/comparar">⚖️<b>Comparar</b><span>% de acuerdo y qué les separa.</span></a>

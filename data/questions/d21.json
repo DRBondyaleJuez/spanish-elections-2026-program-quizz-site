@@ -1,0 +1,2370 @@
+[
+  {
+    "id": "d21-cultura-001",
+    "doc": "d21",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "Según Democracia21, ninguna denegación de una ayuda la decidirá solo una máquina: siempre la revisará una persona.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa añade un registro público de algoritmos, evaluación de impacto sobre derechos fundamentales, auditorías independientes y un informe anual de errores.",
+    "tip": "Habría siempre supervisión humana en las denegaciones.",
+    "source": {
+      "doc": "d21",
+      "page": 31,
+      "section": "Un Estado proactivo que llegue antes de que tengas que pedirlo: Un Estado innovador y con algoritmos transparentes"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-cultura-002",
+    "doc": "d21",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿Qué organismo crearía Democracia21 para unificar las competencias civiles de ciberseguridad hoy dispersas en INCIBE, CCN y CNPIC?",
+    "options": [
+      "La Dirección General de Seguridad Digital del Ministerio del Interior",
+      "Una dependencia del CNI",
+      "El Centro Nacional de Ciberdefensa",
+      "La Agencia Nacional de Ciberseguridad Independiente (ANCI)"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "La ANCI sería una autoridad administrativa independiente y punto de contacto único de la Directiva europea NIS2. El CNI se concentraría en el espionaje y las amenazas geopolíticas.",
+    "tip": "El nombre incluye la palabra «independiente».",
+    "source": {
+      "doc": "d21",
+      "page": 27,
+      "section": "Una Administración moderna y digital que te facilite la vida: Mando único civil de ciberseguridad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-cultura-003",
+    "doc": "d21",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "La Ley de Financiación de la Ciencia que propone Democracia21 fijaría una inversión total en I+D del 3% del PIB ya en 2027.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso: la senda sería del 2% en 2027 y del 3% en 2030 (con al menos un 1,25% del PIB de inversión pública en 2030), actualizada con el IPC y protegida frente a prórrogas presupuestarias.",
+    "tip": "El 3% se alcanza más tarde.",
+    "source": {
+      "doc": "d21",
+      "page": 60,
+      "section": "Talento científico, confiamos en vuestro trabajo: Una ley que blinde la inversión en ciencia"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-cultura-004",
+    "doc": "d21",
+    "topic": "cultura",
+    "type": "which_party",
+    "question": "¿Qué partido propone crear Sociedades de Inversión Cultural, inspiradas en las SOFICA francesas, para invertir con deducción fiscal en cine, series, discos, libros o videojuegos españoles?",
+    "options": [
+      "psoe",
+      "d21",
+      "podemos",
+      "pp"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Junto al ICO como inversor ancla y a sociedades de garantía recíproca, buscan que la propiedad intelectual creada en España se quede en España.",
+    "tip": "Se inspira en un modelo francés de inversión en producciones culturales.",
+    "source": {
+      "doc": "d21",
+      "page": 102,
+      "section": "Cultura y talento que proyecten a España al mundo: Fomentar la inversión"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-cultura-005",
+    "doc": "d21",
+    "topic": "cultura",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Democracia21 sobre cultura?",
+    "options": [
+      "Etiquetado obligatorio y visible de contenidos «Generado por IA» o «Asistido por IA»",
+      "Completar el Estatuto del Artista, incluyendo al personal técnico y de apoyo",
+      "Bajar al 10% el IVA de la música grabada",
+      "Prohibir el uso de inteligencia artificial generativa en cualquier proceso creativo"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa pide transparencia, licencia y remuneración justa a los titulares de las obras con las que se entrenan los modelos, pero no prohíbe usar IA en la creación.",
+    "tip": "El texto pide transparencia, no prohibición.",
+    "source": {
+      "doc": "d21",
+      "page": 103,
+      "section": "Cultura y talento que proyecten a España al mundo: Crear con derechos en la era de la IA"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-cultura-006",
+    "doc": "d21",
+    "topic": "cultura",
+    "type": "multi",
+    "question": "Marca las medidas de Democracia21 para despolitizar las instituciones culturales y los medios públicos.",
+    "options": [
+      "Un contrato-programa plurianual y vinculante para financiar RTVE",
+      "Elegir el Consejo de RTVE tras un concurso evaluado por expertos independientes, con votación de las Cortes por dos tercios",
+      "Fusionar RTVE y la Agencia EFE en un único ente",
+      "Elegir las direcciones de museos nacionales, la Biblioteca Nacional o la Filmoteca por concurso internacional de méritos, con mandatos de cinco años"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "La Agencia EFE tendría su propia ley con el mismo modelo, pero no se fusionaría con RTVE. El objetivo es que la cultura la dirijan los mejores, no los afines.",
+    "tip": "Las medidas buscan independencia de cada entidad, no unificarlas.",
+    "source": {
+      "doc": "d21",
+      "page": 102,
+      "section": "Cultura y talento que proyecten a España al mundo: Instituciones culturales libres de partidismo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-cultura-007",
+    "doc": "d21",
+    "topic": "cultura",
+    "type": "multi",
+    "question": "Marca las medidas del «Estatuto de Autogobierno Científico» que propone Democracia21.",
+    "options": [
+      "Justificación por módulos e hitos, no factura a factura",
+      "Compra científica directa por encima del umbral actual de 50.000 €, hasta los umbrales europeos",
+      "Mantener la tasa de reposición en el CSIC",
+      "Un Start-Up Package (dotación inicial) para todo nuevo investigador estable"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "explanation": "El Start-Up Package aparece en el apartado de carrera investigadora y es obligatorio para arrancar el laboratorio. El programa propone liberar al CSIC y a los OPI de la tasa de reposición, no mantenerla.",
+    "tip": "Una de las opciones es justo lo que el programa quiere eliminar.",
+    "source": {
+      "doc": "d21",
+      "page": 61,
+      "section": "Talento científico, confiamos en vuestro trabajo: Estatuto de autogobierno científico"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-cultura-008",
+    "doc": "d21",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "Democracia21 propone publicar todas las plazas científicas financiadas con fondos públicos en EURAXESS, el portal europeo de empleo científico, en español e inglés.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Los tribunales tendrían mayoría de evaluadores externos con currículos públicos y se descartarían conflictos de interés mediante un sistema digital. Los procesos se resolverían en un máximo de tres meses.",
+    "tip": "Es un portal europeo de empleo científico.",
+    "source": {
+      "doc": "d21",
+      "page": 62,
+      "section": "Talento científico, confiamos en vuestro trabajo: Plazas abiertas al mundo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-economia-001",
+    "doc": "d21",
+    "topic": "economia",
+    "type": "tf",
+    "question": "Democracia21 propone que las ganancias por vender activos mantenidos menos de un año tributen como rentas del trabajo, no como ahorro.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Hoy tributan en la escala del ahorro (19% al 30%). El programa propone la escala del trabajo para la especulación a corto plazo, como ocurría hasta 2014, y mantener el trato actual a la inversión a largo plazo.",
+    "tip": "Importa cuánto tiempo se mantiene la inversión.",
+    "source": {
+      "doc": "d21",
+      "page": 33,
+      "section": "Impuestos justificados y que se entiendan: Pagar lo que es justo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-economia-002",
+    "doc": "d21",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué propone Democracia21 para que la inflación no suba los impuestos del IRPF?",
+    "options": [
+      "Reducir un punto todos los tipos cada año",
+      "Actualizar cada año por ley los tramos, mínimos y reducciones según el IPC",
+      "Eliminar el primer tramo del IRPF",
+      "Cobrar el IRPF solo cada dos años"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El problema es la «progresividad en frío»: si el sueldo sube solo lo que los precios, se puede saltar de tramo y pagar más sin ser más rico. La actualización sería desde el 1 de enero siguiente y sin efectos retroactivos.",
+    "tip": "La medida ata los tramos a un indicador de precios.",
+    "source": {
+      "doc": "d21",
+      "page": 33,
+      "section": "Impuestos justificados y que se entiendan: Que la inflación no suba tus impuestos"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "d21-economia-003",
+    "doc": "d21",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone fijar el Impuesto de Sociedades de las PYMES en el 5% para los beneficios que se reinviertan en la empresa?",
+    "options": [
+      "psoe",
+      "d21",
+      "pp",
+      "vox"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Las PYMES solo tributarían de forma ordinaria al repartir dividendos. Mientras reinviertan el beneficio en crecer, contratar, subir sueldos, digitalizarse o acumular reservas, pagarían el 5%.",
+    "tip": "Pagar menos depende de no repartir el beneficio.",
+    "source": {
+      "doc": "d21",
+      "page": 50,
+      "section": "Revolución PYME: Crecer sin frenos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-economia-004",
+    "doc": "d21",
+    "topic": "economia",
+    "type": "single",
+    "question": "Para contribuyentes con rentas sencillas, ¿qué ocurriría con la declaración de la renta según Democracia21?",
+    "options": [
+      "Se eliminaría la obligación de declarar",
+      "Solo la presentarían las gestorías autorizadas",
+      "Hacienda prepararía y presentaría la declaración completa, y si no se cambia nada pasado el plazo, quedaría hecha",
+      "Habría que declarar cada dos años"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es «La Renta en un Clic»: Hacienda aplicaría de oficio las deducciones estatales y autonómicas y las cartas empezarían con una frase clara sobre qué ocurre, qué hacer y en qué plazo.",
+    "tip": "El silencio del contribuyente equivale a aceptar el borrador.",
+    "source": {
+      "doc": "d21",
+      "page": 32,
+      "section": "Impuestos justificados y que se entiendan: La Renta en un Clic"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "d21-economia-005",
+    "doc": "d21",
+    "topic": "economia",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Democracia21 sobre impuestos?",
+    "options": [
+      "Un «Recibo del Contribuyente» digital que detalle a dónde va el dinero aportado",
+      "Evaluar de forma independiente cada beneficio fiscal y eliminar los que no cumplan su objetivo",
+      "Reconocer el Derecho al Error, con un periodo de corrección guiada sin sanciones si no hay mala fe",
+      "Crear un nuevo impuesto sobre las grandes fortunas"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Democracia21 afirma que no hace falta subir ni bajar impuestos para mejorar el sistema, sino hacerlo más progresivo, transparente, neutral y sencillo.",
+    "tip": "El programa se centra en simplificar y evaluar, no en crear tributos.",
+    "source": {
+      "doc": "d21",
+      "page": 32,
+      "section": "Impuestos justificados y que se entiendan: Entender lo que pagas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-economia-006",
+    "doc": "d21",
+    "topic": "economia",
+    "type": "multi",
+    "question": "Marca las medidas de Democracia21 para reducir la burocracia normativa.",
+    "options": [
+      "Que cualquier licencia o homologación aprobada en una Comunidad sea válida en toda España",
+      "Prohibir por ley que una empresa repita trámites o pague tasas duplicadas para operar en varias regiones",
+      "Que el Estado asuma todas las competencias de comercio de las Comunidades",
+      "Derogar en 12 meses toda norma o trámite que no tenga una justificación clara de protección pública"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "Combinan una auditoría de barreras (basada en el «sludge audit» de la OCDE) con un principio de reconocimiento mutuo entre territorios. El programa no propone recentralizar competencias.",
+    "tip": "Buscan quitar trabas sin cambiar quién tiene la competencia.",
+    "source": {
+      "doc": "d21",
+      "page": 36,
+      "section": "Menos normas, más claras, estables y coordinadas: Un país diverso, un mercado sin barreras"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-economia-007",
+    "doc": "d21",
+    "topic": "economia",
+    "type": "tf",
+    "question": "Si el Estado aprueba un nuevo permiso laboral, Democracia21 propone un periodo transitorio de 2 años en el que el Estado garantice que las micropymes no asumen el sobrecoste.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es el «Marco Laboral Proporcional»: los derechos laborales no deberían financiarse a costa de asfixiar a los negocios más pequeños.",
+    "tip": "El Estado compensaría el coste durante un periodo de adaptación.",
+    "source": {
+      "doc": "d21",
+      "page": 50,
+      "section": "Revolución PYME: Marco laboral proporcional"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-economia-008",
+    "doc": "d21",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone un «Test PYME» preceptivo en toda nueva norma y sustituir el «efecto escalón» por una rampa progresiva?",
+    "options": [
+      "psoe",
+      "pp",
+      "d21",
+      "vox"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El objetivo es que crecer no se penalice con saltos regulatorios bruscos al superar umbrales de facturación o de plantilla. Las nuevas exigencias se aplicarían de forma gradual.",
+    "tip": "Se trata de suavizar lo que ocurre al superar ciertos umbrales de tamaño.",
+    "source": {
+      "doc": "d21",
+      "page": 50,
+      "section": "Revolución PYME: De «efecto escalón» a «rampa progresiva»"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-economia-009",
+    "doc": "d21",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone un protocolo para crear una empresa en una hora, unificando Notaría, Registro Mercantil, Agencia Tributaria y Seguridad Social, en el «modelo Estonia»?",
+    "options": [
+      "d21",
+      "pp",
+      "psoe",
+      "vox"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La constitución sería 100% digital, con declaración responsable por defecto y una ordenanza municipal estandarizada en todo el país.",
+    "tip": "El modelo se inspira en un país báltico muy digitalizado.",
+    "source": {
+      "doc": "d21",
+      "page": 51,
+      "section": "Revolución PYME: Fuera todas las barreras innecesarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-educacion-001",
+    "doc": "d21",
+    "topic": "educacion",
+    "type": "which_party",
+    "question": "¿Qué partido propone un «MIR Educativo»: dos años de formación práctica remunerada en colegios e institutos, guiada por profesores como mentores?",
+    "options": [
+      "psoe",
+      "d21",
+      "pp",
+      "vox"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Está inspirado en el sistema MIR sanitario (médico interno residente). Los actuales profesores actuarían como mentores y habría evaluación continua sobre el terreno.",
+    "tip": "Toma prestado el nombre del sistema de formación de especialistas médicos.",
+    "source": {
+      "doc": "d21",
+      "page": 44,
+      "section": "La educación en el centro: Fortalecer el prestigio de la docencia"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-educacion-002",
+    "doc": "d21",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿En qué plazo máximo propone Democracia21 situar a España en el top 10 europeo en los tres ámbitos de PISA?",
+    "options": [
+      "En 12 años",
+      "En 4 años",
+      "En 8 años",
+      "En 20 años"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "PISA es la evaluación internacional de la OCDE que mide matemáticas, comprensión lectora y ciencias. El Plan Estatal Educativo ampliaría las horas de materias instrumentales y reforzaría fonética, cálculo mental y experimentación.",
+    "tip": "No es una legislatura, pero tampoco más de una década.",
+    "source": {
+      "doc": "d21",
+      "page": 42,
+      "section": "La educación en el centro: Recuperar todo el potencial educativo del país"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-educacion-003",
+    "doc": "d21",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "Democracia21 propone una nueva materia obligatoria de Cultura Económica y Financiera en la ESO, con enfoque práctico.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Se articularía en tres pilares: economía personal, economía social y economía profesional y del emprendimiento. Ningún joven debería terminar la educación obligatoria sin saber leer una nómina o entender una hipoteca.",
+    "tip": "El objetivo es que sepan leer una nómina.",
+    "source": {
+      "doc": "d21",
+      "page": 42,
+      "section": "La educación en el centro: Educación económica para la vida"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "d21-educacion-004",
+    "doc": "d21",
+    "topic": "educacion",
+    "type": "multi",
+    "question": "Marca las medidas de Democracia21 sobre la formación del profesorado.",
+    "options": [
+      "Un MIR Educativo de dos años de formación práctica remunerada",
+      "Evaluaciones específicas de ingreso a los grados de enseñanza que midan competencia comunicativa y perfil vocacional",
+      "Suprimir las oposiciones docentes",
+      "Restablecer las menciones en el grado de Educación (Matemáticas, Lengua y Ciencias) y crear una especialidad en Tecnología"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "Combinan especialización, selección y formación práctica. No se propone eliminar las oposiciones, sino un nuevo modelo de carrera.",
+    "tip": "Casi todo refuerza el acceso a la profesión, no lo elimina.",
+    "source": {
+      "doc": "d21",
+      "page": 44,
+      "section": "La educación en el centro: Fortalecer el prestigio de la docencia"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-educacion-005",
+    "doc": "d21",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿En qué modelo extranjero se inspira Democracia21 para su inteligencia artificial educativa propia, financiada y auditada por el Estado?",
+    "options": [
+      "En el de Singapur",
+      "En el de Corea del Sur",
+      "En el de Finlandia",
+      "En el de Estonia, número 1 en PISA en Europa"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Sería un modelo de lenguaje de apoyo a la educación que fomente el pensamiento crítico y funcione como tutor de refuerzo personalizado, con garantía de privacidad.",
+    "tip": "Es un país báltico muy conocido por su digitalización.",
+    "source": {
+      "doc": "d21",
+      "page": 41,
+      "section": "La educación en el centro: Inteligencia Artificial educativa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-educacion-006",
+    "doc": "d21",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "La «Hucha de Formación para Jóvenes» daría a cada joven que cumpla 18 años una cuenta digital de aproximadamente 1.000 euros.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso: serían aproximadamente 500 euros por joven, con los 300 millones de euros anuales que hoy se destinan al Bono Cultural Joven y al Verano Joven.",
+    "tip": "Mira la cuantía.",
+    "source": {
+      "doc": "d21",
+      "page": 47,
+      "section": "La educación en el centro: Hucha de formación para jóvenes"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-educacion-007",
+    "doc": "d21",
+    "topic": "educacion",
+    "type": "single",
+    "question": "Para que las becas lleguen al inicio del curso, ¿qué ministerio se encargaría de la revisión económica según Democracia21?",
+    "options": [
+      "Hacienda",
+      "Inclusión y Seguridad Social",
+      "Universidades",
+      "Educación"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Se evaluaría la renta fiscal de dos años antes y se unificarían los calendarios académicos antes del verano, liberando a las universidades de esta carga.",
+    "tip": "Es el ministerio que ya tiene los datos de renta.",
+    "source": {
+      "doc": "d21",
+      "page": 45,
+      "section": "La educación en el centro: Becas que lleguen a tiempo en septiembre"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-educacion-008",
+    "doc": "d21",
+    "topic": "educacion",
+    "type": "which_party",
+    "question": "¿Qué partido propone crear un «Tutor Compartido Sectorial», financiado por la Administración, para las pequeñas empresas que no pueden tutorizar por sí solas a alumnos de FP?",
+    "options": [
+      "d21",
+      "psoe",
+      "pp",
+      "podemos"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Se complementa con los «Créditos de Retorno Empresarial», por los que las PYMES acumulan saldo por cada hora de tutoría certificada, canjeable por deducciones, formación o puntos en la contratación pública.",
+    "tip": "Es una figura que ayuda a las pymes a formar sin tener que hacerlo cada una por su cuenta.",
+    "source": {
+      "doc": "d21",
+      "page": 46,
+      "section": "La educación en el centro: Apostar por la Formación Profesional más que nunca"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-educacion-009",
+    "doc": "d21",
+    "topic": "educacion",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Democracia21 sobre educación?",
+    "options": [
+      "Un Índice Socioeducativo para repartir recursos extra a los centros",
+      "Un Comparador Público de Titulaciones con satisfacción, inserción laboral y salarios",
+      "Trasladar por defecto las prácticas de FP al segundo curso",
+      "Matrícula universitaria gratuita para todo el alumnado"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Las tres primeras sí están. El programa plantea becas puntuales, una Hucha de Formación y mejoras de calidad, pero no la gratuidad universal de la matrícula.",
+    "tip": "Una opción se refiere a un cambio de financiación que el programa no menciona.",
+    "source": {
+      "doc": "d21",
+      "page": 46,
+      "section": "La educación en el centro: Universidad flexible, práctica y conectada al mundo real"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-empleo-001",
+    "doc": "d21",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿A qué tipo único de IRPF tributarían los incentivos salariales ligados a mejoras verificables de productividad, hasta 5.000 € al año?",
+    "options": [
+      "Al 15%",
+      "Al 10%",
+      "Al 5%",
+      "Al 19%"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Quienes hoy pagan de media menos de un 5% de IRPF no tributarían nada por estos pluses. La empresa que comparta la mejora tendría una bonificación del 50% en su cotización a la Seguridad Social por ese extra (75% en PYMES de menos de 50 trabajadores).",
+    "tip": "Para quien paga poco IRPF, el plus no tributaría nada.",
+    "source": {
+      "doc": "d21",
+      "page": 48,
+      "section": "Más salario, más productividad: Incentivo fiscal al salario por productividad real"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-empleo-002",
+    "doc": "d21",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "Democracia21 propone que el SMI no baje de las tres cuartas partes de la mediana salarial.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso: el objetivo es que el SMI no baje de 2/3 de la mediana salarial, con una senda plurianual y un Órgano Técnico Independiente que lo actualice cada año. La mediana es el salario que deja a la mitad de trabajadores por encima y a la mitad por debajo.",
+    "tip": "La fracción es menor que tres cuartos.",
+    "source": {
+      "doc": "d21",
+      "page": 49,
+      "section": "Más salario, más productividad: Actualización del SMI por un órgano técnico e independiente"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-empleo-003",
+    "doc": "d21",
+    "topic": "empleo",
+    "type": "multi",
+    "question": "Marca las medidas de Democracia21 para favorecer las subidas salariales.",
+    "options": [
+      "Exención fiscal y de cotizaciones para el reparto voluntario de beneficios, siempre que no sustituya la subida del salario base",
+      "Una deducción en el Impuesto sobre Sociedades para las empresas que suban los salarios por encima del IPC, con incentivo reforzado para los jóvenes",
+      "Exigir en los pliegos de contratación pública el cumplimiento de convenios colectivos con salarios dignos, con rescisión de contratos si hay dumping salarial",
+      "Fijar por ley un tope máximo a los sueldos de los directivos"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa combina incentivos fiscales y exigencias en la compra pública. No propone topes a los salarios de directivos.",
+    "tip": "Las medidas premian, no limitan, los sueldos altos.",
+    "source": {
+      "doc": "d21",
+      "page": 49,
+      "section": "Más salario, más productividad: Un marco legal favorable a las subidas salariales"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-empleo-004",
+    "doc": "d21",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Cómo se calcularía la cuota en el modelo de «liquidación automática voluntaria» para autónomos?",
+    "options": [
+      "Según el número de empleados",
+      "Cada mes, en función del dinero neto facturado el mes anterior",
+      "Sobre la facturación estimada de los próximos 12 meses",
+      "Por una cuota fija anual pactada con la Seguridad Social"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Gracias a la conexión entre Seguridad Social y Hacienda, la cuota se calcularía y cobraría a mes vencido. Si un mes factura menos, la cuota baja. Sería optativo: se podría seguir en el sistema actual.",
+    "tip": "Evita tener que adivinar la facturación futura.",
+    "source": {
+      "doc": "d21",
+      "page": 53,
+      "section": "Autónomo, estamos contigo: Liquidación automática voluntaria"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "d21-empleo-005",
+    "doc": "d21",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "Democracia21 propone que los autónomos y microactividades que facturen menos de 30.000 € al año no tengan que añadir IVA en sus facturas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso: el umbral del IVA franquiciado que cita el programa es de 85.000 € al año. Quienes se acojan no tendrían que añadir IVA ni presentar declaraciones trimestrales.",
+    "tip": "El umbral es bastante más alto.",
+    "source": {
+      "doc": "d21",
+      "page": 54,
+      "section": "Autónomo, estamos contigo: IVA franquiciado"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-empleo-006",
+    "doc": "d21",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué es el «Cese de Actividad Parcial» que propone Democracia21?",
+    "options": [
+      "La baja definitiva del autónomo con prestación de un año",
+      "Un mes de vacaciones pagadas",
+      "Un «ERTE del autónomo»: un cese parcial temporal ante caídas excepcionales de ingresos, sin dar de baja el negocio",
+      "La conversión obligatoria en empresa"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Un ERTE es el expediente de regulación temporal de empleo con el que una empresa protege a su plantilla en un bache. El cese parcial se activaría de forma verificada con los datos de la facturación electrónica.",
+    "tip": "Su apodo remite a la herramienta que usan las empresas con su plantilla.",
+    "source": {
+      "doc": "d21",
+      "page": 54,
+      "section": "Autónomo, estamos contigo: Cese de actividad parcial"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-empleo-007",
+    "doc": "d21",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "Democracia21 propone un Bono Fiscal de Despegue: un crédito fiscal directo para compensar obligaciones con el Estado durante los tres primeros ejercicios de un nuevo autónomo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El crédito se asignaría a cada nuevo autónomo para compensar, hasta un importe determinado, impuestos o cotizaciones debidamente declarados.",
+    "tip": "Alivia la carga fiscal al empezar.",
+    "source": {
+      "doc": "d21",
+      "page": 55,
+      "section": "Autónomo, estamos contigo: Despegue de autónomo a empresa mucho más fácil"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-exterior-001",
+    "doc": "d21",
+    "topic": "exterior",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Democracia21 sobre la Unión Europea y la defensa?",
+    "options": [
+      "Desarrollar el Escudo Europeo de la Democracia frente a injerencias y desinformación",
+      "Reforzar el pilar europeo de defensa dentro de la OTAN",
+      "Culminar la Unión de Ahorros e Inversiones",
+      "Que España salga de la OTAN"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Democracia21 propone reforzar el pilar europeo dentro de la OTAN, con compras conjuntas de armamento y movilidad militar. La salida de la OTAN no figura en su programa.",
+    "tip": "Una opción contradice la alianza que el programa quiere reforzar.",
+    "source": {
+      "doc": "d21",
+      "page": 97,
+      "section": "Construir la Unión Europea del Siglo 21: Defender juntos nuestra paz y seguridad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "d21-exterior-002",
+    "doc": "d21",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Qué informes europeos haría suyos Democracia21 para eliminar barreras regulatorias en el mercado único?",
+    "options": [
+      "Los informes Barnier y Juncker",
+      "Los informes Delors y Monnet",
+      "Los informes Draghi y Letta",
+      "Los informes Lagarde y Merkel"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Se centraría en los mercados de bienes, servicios y, especialmente, el digital. Si no se logra avance inmediato en el marco actual, se buscarían métodos alternativos.",
+    "tip": "Son dos informes recientes sobre competitividad y mercado único.",
+    "source": {
+      "doc": "d21",
+      "page": 97,
+      "section": "Construir la Unión Europea del Siglo 21: Una Europa, un mercado"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-exterior-003",
+    "doc": "d21",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "Democracia21 propone aplicar el Reglamento de Condicionalidad del Estado de Derecho para congelar de forma automática fondos comunitarios a gobiernos que vulneren la independencia judicial.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "También impulsaría un Mecanismo Europeo de Estado de Derecho con ciclos anuales de supervisión vinculante, que incluya compromisos contra la corrupción y el clientelismo.",
+    "tip": "Los fondos dependerían del respeto al Estado de derecho.",
+    "source": {
+      "doc": "d21",
+      "page": 96,
+      "section": "Construir la Unión Europea del Siglo 21: Una Europa democrática frente a cualquier amenaza"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-exterior-004",
+    "doc": "d21",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "Democracia21 propone excluir a Ceuta y Melilla del marco europeo de insularidad y desarrollo para las islas no ultraperiféricas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso: promueve su reconocimiento dentro de ese marco, con un estatus de protección y blindaje socioeconómico europeo por su singularidad fronteriza.",
+    "tip": "Se piden para ellas medidas de protección específicas.",
+    "source": {
+      "doc": "d21",
+      "page": 98,
+      "section": "Construir la Unión Europea del Siglo 21: Pacto Insular y Escudo Territorial para Ceuta y Melilla"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-exterior-005",
+    "doc": "d21",
+    "topic": "exterior",
+    "type": "multi",
+    "question": "Marca las propuestas de Democracia21 para las Fuerzas Armadas.",
+    "options": [
+      "Restablecer el servicio militar obligatorio",
+      "Reconocer por ley la profesión militar como profesión de riesgo para todo el personal, con jubilación anticipada sin recorte de pensión",
+      "Dar un título de FP de grado medio al ser soldado o marinero y de técnico superior al ascender a cabo primero",
+      "Eliminar de forma progresiva la salida forzosa de soldados y marineros a los 45 años"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "El programa propone una Ley Integral de la Carrera Militar con promoción interna y homologación de la formación. No contempla recuperar la mili obligatoria.",
+    "tip": "Las medidas profesionalizan; no recuperan nada obligatorio.",
+    "source": {
+      "doc": "d21",
+      "page": 85,
+      "section": "Seguridad y Defensa para el mundo de hoy: Dignidad y futuro para nuestras Fuerzas Armadas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-igualdad-001",
+    "doc": "d21",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "Democracia21 se opone a cualquier intento de derogar, limitar o entorpecer la actual ley de plazos del aborto.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa defiende además que la interrupción voluntaria del embarazo esté plenamente garantizada en la red sanitaria pública de todas las Comunidades. La ley de plazos permite abortar libremente dentro de un periodo determinado de la gestación.",
+    "tip": "El programa lo resume en «ni se cuestiona ni se restringe».",
+    "source": {
+      "doc": "d21",
+      "page": 99,
+      "section": "Ni un paso atrás en derechos sociales: Derechos reproductivos con libertad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "d21-igualdad-002",
+    "doc": "d21",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "Frente a los delitos de odio, ¿qué compromiso recoge el programa de Democracia21?",
+    "options": [
+      "Despenalizar los discursos de odio salvo incitación directa a la violencia",
+      "Crear un registro público de denunciados",
+      "Trasladar su persecución a las policías locales",
+      "Exigir y apoyar la aplicación de la ley contra quienes promuevan agresiones, discursos de odio o terapias de conversión"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Una terapia de conversión es un intento de «cambiar» la orientación sexual o la identidad de género de una persona. El programa añade que el Estado debe garantizar centros educativos libres de acoso.",
+    "tip": "El texto habla de aplicar la ley, no de cambiarla en sentido permisivo.",
+    "source": {
+      "doc": "d21",
+      "page": 100,
+      "section": "Ni un paso atrás en derechos sociales: Derechos LGTBIQ+"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-igualdad-003",
+    "doc": "d21",
+    "topic": "igualdad",
+    "type": "multi",
+    "question": "Marca las posiciones de Democracia21 en su apartado de derechos sociales.",
+    "options": [
+      "Bloquear cualquier iniciativa que pretenda desmantelar o desfinanciar la red pública de protección a las víctimas de violencia machista",
+      "Prohibir la prostitución en todo el territorio",
+      "Garantizar el acceso a la interrupción voluntaria del embarazo en la sanidad pública de todas las Comunidades",
+      "Considerar la accesibilidad universal y la vida autónoma de las personas con discapacidad como líneas rojas en las políticas públicas"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "El apartado «Ni un paso atrás en derechos sociales» se centra en defender derechos ya reconocidos. No aborda la prohibición de la prostitución.",
+    "tip": "Predomina el verbo «defender» frente a «prohibir».",
+    "source": {
+      "doc": "d21",
+      "page": 100,
+      "section": "Ni un paso atrás en derechos sociales: Discapacidad"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-inmigracion-001",
+    "doc": "d21",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Qué duración tendría el visado de búsqueda de empleo que propone Democracia21, inspirado en la Chancenkarte alemana?",
+    "options": [
+      "6 meses, prorrogable a 9",
+      "18 meses, no prorrogable",
+      "3 meses, sin prórroga",
+      "12 meses, prorrogable a 24"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Se concedería sin oferta previa, con baremo de puntos (titulación, experiencia, idioma y demanda sectorial) y cupo anual según las vacantes reales. Quien encuentre un empleo formal obtendría su permiso sin salir de España.",
+    "tip": "Es medio año, ampliable en tres meses.",
+    "source": {
+      "doc": "d21",
+      "page": 56,
+      "section": "Una política migratoria con cabeza: Un visado para buscar trabajo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-inmigracion-002",
+    "doc": "d21",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "Según el programa de Democracia21, en 2023 España ejecutó más de la mitad de las órdenes de expulsión que dictó.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso: dictó 64.260 órdenes y ejecutó 3.090, menos del 5%. Por eso propone un registro digital único que siga cada orden desde que se dicta hasta que se ejecuta, con prioridad para quienes cometen delitos, especialmente los reincidentes.",
+    "tip": "La cifra de ejecución es muy baja.",
+    "source": {
+      "doc": "d21",
+      "page": 57,
+      "section": "Una política migratoria con cabeza: Que se cumpla lo que dicta la ley"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-inmigracion-003",
+    "doc": "d21",
+    "topic": "inmigracion",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Democracia21 sobre inmigración?",
+    "options": [
+      "Un visado de búsqueda de empleo de 6 meses, con cupo según vacantes reales",
+      "Un registro digital único que siga cada orden de expulsión hasta su ejecución",
+      "Una Tarjeta de Oportunidad de 9 meses para jóvenes extutelados con formación y buen comportamiento cívico",
+      "Una regularización extraordinaria y masiva de las personas en situación irregular"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa sostiene que, con una vía ordinaria que funcione, la irregularidad no se acumulará hasta forzar regularizaciones extraordinarias.",
+    "tip": "El texto argumenta explícitamente contra una de estas medidas.",
+    "source": {
+      "doc": "d21",
+      "page": 57,
+      "section": "Una política migratoria con cabeza: Extranjería sin colas, sin mafias y sin papeles caducados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-inmigracion-004",
+    "doc": "d21",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Cuánto duraría la autorización de residencia y trabajo de la «Tarjeta de Oportunidad» para jóvenes extutelados?",
+    "options": [
+      "24 meses",
+      "9 meses",
+      "3 meses",
+      "6 meses"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Se exigiría al menos un año de formación secundaria o profesional, buen comportamiento cívico continuado e identidad y edad verificadas. Quien firme un contrato y cotice pasaría al permiso ordinario; si no, la tarjeta decaería.",
+    "tip": "Es la misma duración de la prórroga del visado de búsqueda de empleo.",
+    "source": {
+      "doc": "d21",
+      "page": 58,
+      "section": "Una política migratoria con cabeza: Tarjeta de Oportunidad para jóvenes extutelados"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-inmigracion-005",
+    "doc": "d21",
+    "topic": "inmigracion",
+    "type": "multi",
+    "question": "Marca las medidas de Democracia21 para facilitar el regreso de españoles que viven en el extranjero.",
+    "options": [
+      "Resolver en un mes, por vía prioritaria y digital, la residencia de la pareja e hijos extranjeros de quien vuelve",
+      "Un régimen sencillo para investigadores, docentes y profesionales cualificados que regresan, pensado también para sueldos que no sean muy altos",
+      "Un alta exprés, 100% digital y también en inglés, para empleadores extranjeros con un trabajador que retorna",
+      "Exención total del IRPF durante toda la vida laboral para quienes regresen"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El actual régimen de impatriados está pensado sobre todo para grandes salarios. El programa también propone reglas claras de Hacienda para que el teletrabajo no convierta a la empresa extranjera en contribuyente en España.",
+    "tip": "Las ayudas son de gestión y de tramitación, no una exención ilimitada.",
+    "source": {
+      "doc": "d21",
+      "page": 59,
+      "section": "Una política migratoria con cabeza: Españoles en el mundo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-inmigracion-006",
+    "doc": "d21",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "Democracia21 propone que quien sea víctima de un delito de odio o de explotación laboral pueda denunciarlo sin que su denuncia active un expediente de expulsión.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Sería una protección similar a la que ya existe para las víctimas de violencia de género y de trata. El programa también refuerza con fiscales y medios la persecución de los delitos de odio.",
+    "tip": "Se trata de que denunciar no ponga en riesgo a la víctima.",
+    "source": {
+      "doc": "d21",
+      "page": 58,
+      "section": "Una política migratoria con cabeza: Tolerancia cero con la xenofobia"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-instituciones-001",
+    "doc": "d21",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "Democracia21 propone que los ministros y consejeros no puedan tener más de 4 asesores.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa plantea reducir un 90% los asesores: 4 como máximo por ministro o consejero, 7 por vicepresidente y 20 en el gabinete del Presidente. Los asesores no tendrían chófer ni otras prebendas, y sus sueldos y currículos serían públicos.",
+    "tip": "Fíjate en cuántos asesores se permitirían como máximo a un ministro.",
+    "source": {
+      "doc": "d21",
+      "page": 4,
+      "section": "España Limpia: Punto y final al tsunami de asesores"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "d21-instituciones-002",
+    "doc": "d21",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "Según Democracia21, los delitos de corrupción prescribirían a los 20 años, igual que otros delitos graves.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso: el programa propone que los delitos relacionados con la corrupción no prescriban nunca, y que quien sea condenado por sentencia firme quede inhabilitado de por vida para cargos públicos.",
+    "tip": "La propuesta va más allá de alargar plazos.",
+    "source": {
+      "doc": "d21",
+      "page": 8,
+      "section": "España Limpia: Quien roba a lo público, no volverá nunca a lo público"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-instituciones-003",
+    "doc": "d21",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Cómo propone Democracia21 elegir al Fiscal General del Estado?",
+    "options": [
+      "El Congreso lo elige directamente por mayoría de 3/5",
+      "Lo eligen por sorteo los fiscales de carrera",
+      "Lo nombra el Rey a propuesta del Consejo de Ministros, sin intervención del Congreso",
+      "El Congreso (3/5) elige una terna y el Gobierno elige entre ella, previo informe del CGPJ"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Para garantizar la independencia de la Fiscalía, el Congreso elegiría una terna por mayoría de 3/5 y el Gobierno escogería a una persona de esa terna, con informe previo del Consejo General del Poder Judicial (CGPJ). Además, su mandato no coincidiría con el electoral.",
+    "tip": "Intervienen el Congreso, el Gobierno y el CGPJ, cada uno en un paso distinto.",
+    "source": {
+      "doc": "d21",
+      "page": 9,
+      "section": "España Limpia: Una Fiscalía independiente"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-instituciones-004",
+    "doc": "d21",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "Marca todas las propuestas de Democracia21 sobre los aforamientos.",
+    "options": [
+      "Mantener el aforamiento de Diputados y Senadores solo para delitos graves",
+      "Eliminar los que no estén expresamente previstos en la Constitución, reformando la Ley Orgánica del Poder Judicial",
+      "Eliminar los aforamientos de Diputados y Senadores mediante una reforma constitucional (art. 71)",
+      "Limitar el aforamiento de los miembros del Gobierno a acciones penales por funciones propias del cargo y sin carácter retroactivo"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "Un aforamiento es un fuero especial por el que ciertos cargos son juzgados por tribunales superiores. El programa propone una reforma «quirúrgica» de la Constitución que elimine los de parlamentarios y limite los del Gobierno. No propone conservar el de Diputados y Senadores.",
+    "tip": "El aforamiento parlamentario desaparece por completo.",
+    "source": {
+      "doc": "d21",
+      "page": 10,
+      "section": "España Limpia: Punto y final a los aforamientos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-instituciones-005",
+    "doc": "d21",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Hasta qué porcentaje del volumen de negocios de una empresa podría sancionar la Oficina Anticorrupción que propone Democracia21?",
+    "options": [
+      "5%",
+      "1%",
+      "10%",
+      "25%"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "La Oficina Anticorrupción se centraría en la prevención, con poder de inspección sobre los mecanismos anticorrupción de empresas y partidos. Podría sancionar hasta el 10% del volumen total de negocios de la empresa (o de los ingresos del partido sancionado).",
+    "tip": "Es una cifra redonda y baja, pero aplicada sobre el volumen total.",
+    "source": {
+      "doc": "d21",
+      "page": 7,
+      "section": "España Limpia: Fiscalía y Oficina Anticorrupción, más fuertes que nunca"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-instituciones-006",
+    "doc": "d21",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone tipificar el «delito de enchufismo», ampliando el artículo 405 del Código Penal?",
+    "options": [
+      "psoe",
+      "pp",
+      "vox",
+      "d21"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Democracia21 quiere castigar penalmente los nombramientos que no respeten el mérito y la capacidad, e inhabilitar por ley a los políticos que los hagan. Solo permitiría la libre designación para el Secretario de Estado.",
+    "tip": "El nombre de la medida alude a colocar a conocidos en cargos públicos.",
+    "source": {
+      "doc": "d21",
+      "page": 4,
+      "section": "España Limpia: Fuera cargos de carnet y delito de enchufismo"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "d21-instituciones-007",
+    "doc": "d21",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone sustituir las listas cerradas por listas desbloqueadas y abiertas en la reforma de la Ley Electoral?",
+    "options": [
+      "pp",
+      "d21",
+      "podemos",
+      "psoe"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Democracia21 quiere que la ciudadanía tenga más capacidad para decidir qué personas la representan, reduciendo el peso de las listas cerradas elaboradas por los partidos.",
+    "tip": "Se trata de cambiar el modo en que se elige a las personas concretas de cada candidatura.",
+    "source": {
+      "doc": "d21",
+      "page": 14,
+      "section": "España Limpia: Aire fresco en nuestro sistema electoral"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-instituciones-008",
+    "doc": "d21",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Cómo se elegiría la Asamblea de «Cara a Cara con la Ciudadanía» ante la que se sometería cada año el Presidente del Gobierno?",
+    "options": [
+      "Por elección directa en las urnas",
+      "Por designación del CIS",
+      "Por sorteo, de forma representativa de la sociedad",
+      "Por votación de los diputados"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "La asamblea se elegiría por sorteo, como los jurados populares, con garantías de independencia e indemnización de gastos. El Presidente respondería a preguntas directas de los ciudadanos sobre decisiones o políticas concretas.",
+    "tip": "Se parece al método de selección de los jurados populares.",
+    "source": {
+      "doc": "d21",
+      "page": 11,
+      "section": "España Limpia: Devolver el poder al ciudadano"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "d21-instituciones-009",
+    "doc": "d21",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "Marca las medidas que propone Democracia21 para que los políticos rindan cuentas.",
+    "options": [
+      "Los Diputados y Senadores no cobrarían el sueldo mensual si faltan a plenos y comisiones sin causa de enfermedad o fuerza mayor",
+      "Se suspendería el sueldo de todo el Gobierno si no presenta los Presupuestos Generales",
+      "Se convocarían elecciones automáticas si el Congreso rechaza un solo presupuesto",
+      "El incumplimiento injustificado de presentar presupuestos durante más de un año daría lugar al cese del Gobierno"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "Son los lemas «Si no trabajan, no cobran» y «No habrá gobierno sin presupuestos». El programa no propone convocar elecciones por el rechazo parlamentario de un presupuesto.",
+    "tip": "Las medidas castigan el bolsillo y, en el caso más grave, el cargo.",
+    "source": {
+      "doc": "d21",
+      "page": 12,
+      "section": "España Limpia: No habrá gobierno sin presupuestos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-instituciones-010",
+    "doc": "d21",
+    "topic": "instituciones",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Democracia21?",
+    "options": [
+      "Crear juzgados especializados en corrupción, siguiendo el modelo de los de violencia de género",
+      "Castigar penalmente al cargo público que, sabiendo de un caso de corrupción, no lo denuncie",
+      "Suspender la financiación pública de un partido cuyos principales dirigentes estén formalmente investigados por corrupción",
+      "Eliminar la acusación popular en los procesos penales"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Las tres primeras están en el apartado anticorrupción. El programa no menciona suprimir la acusación popular.",
+    "tip": "Una de las opciones recorta una figura procesal que el texto no toca.",
+    "source": {
+      "doc": "d21",
+      "page": 8,
+      "section": "España Limpia: Cortar de raíz la corrupción"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-instituciones-011",
+    "doc": "d21",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "Democracia21 propone que nadie pueda ejercer un mismo cargo público más de tres mandatos o 12 años.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso: el lema es «Con dos mandatos basta». La obligación legal sería no ejercer el mismo cargo durante más de dos mandatos completos o un periodo acumulado superior a ocho años.",
+    "tip": "Cambia la cifra: el límite es más estricto.",
+    "source": {
+      "doc": "d21",
+      "page": 13,
+      "section": "España Limpia: Con dos mandatos basta"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "d21-medioambiente-001",
+    "doc": "d21",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone gestionar un millón de hectáreas de monte al año para romper la continuidad del combustible frente a los incendios?",
+    "options": [
+      "vox",
+      "podemos",
+      "psoe",
+      "d21"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa lo apoya con ganadería extensiva, cultivos que actúan como cortafuegos y quemas controladas por profesionales, y rebajaría el IVA de los trabajos de prevención.",
+    "tip": "La cifra se mide en hectáreas anuales y se atribuye a lo que dice la ciencia forestal.",
+    "source": {
+      "doc": "d21",
+      "page": 87,
+      "section": "Medio ambiente y adaptación climática: Gestión forestal frente a los incendios"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-medioambiente-002",
+    "doc": "d21",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "Democracia21 propone hacer cumplir la ley que exige que los bomberos forestales trabajen todo el año, con financiación estatal condicionada a que cada Comunidad tenga operativos estables.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "En invierno trabajarían en la prevención del monte. Además, los datos de cada incendio (perímetro, medios y evolución) serían públicos y en tiempo real.",
+    "tip": "La ley ya existe, pero no se cumple en todo el país.",
+    "source": {
+      "doc": "d21",
+      "page": 88,
+      "section": "Medio ambiente y adaptación climática: Profesionales todo el año"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-medioambiente-003",
+    "doc": "d21",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "Según el programa, ¿cuánto invierte España por habitante y año en infraestructuras del agua?",
+    "options": [
+      "54 euros",
+      "120 euros",
+      "90 euros",
+      "24 euros"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa compara con Francia y Alemania, que invierten cerca de 90 euros. Propone reducir esa brecha para triplicar el ritmo de renovación de redes en las que se pierde uno de cada diez litros.",
+    "tip": "Es unas cuatro veces menos que en Francia y Alemania.",
+    "source": {
+      "doc": "d21",
+      "page": 88,
+      "section": "Medio ambiente y adaptación climática: Ni una gota perdida"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-medioambiente-004",
+    "doc": "d21",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "Marca las medidas de Democracia21 en política energética.",
+    "options": [
+      "Reconocer el almacenamiento (baterías, bombeo y calor) como pilar estratégico del sistema",
+      "Focalizar las ayudas en un bono social eléctrico automático y reforzado para hogares vulnerables, en vez de subsidios generalizados",
+      "Prohibir por ley cualquier cambio normativo retroactivo sobre proyectos de generación ya comprometidos",
+      "Mantener subsidios generalizados a la factura de la luz para todos los hogares"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa propone neutralidad tecnológica, competencia y un escudo social hiperfocalizado. Critica los subsidios generalizados que benefician a rentas altas.",
+    "tip": "El programa critica un tipo de ayuda que beneficia también a las rentas altas.",
+    "source": {
+      "doc": "d21",
+      "page": 93,
+      "section": "Ser una potencia energética: Reglas claras, seguridad jurídica y precios reales"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-medioambiente-005",
+    "doc": "d21",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "En el sistema de depósito y retorno de envases, Democracia21 propone que las máquinas de devolución las paguen los pequeños comercios.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso: las pagarían los fabricantes que ponen los envases en el mercado, no el pequeño comercio ni el contribuyente. Habría puntos de devolución en comercios de barrio y pueblos, y el depósito nunca sería un impuesto encubierto.",
+    "tip": "El coste recae en quien pone los envases en el mercado.",
+    "source": {
+      "doc": "d21",
+      "page": 90,
+      "section": "Medio ambiente y adaptación climática: Un retorno de envases que funcione de verdad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-medioambiente-006",
+    "doc": "d21",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué modelo catalán propone extender Democracia21 a todo el litoral para limpiar el mar?",
+    "options": [
+      "Que las cofradías de pescadores retiren, pesen y entreguen en puerto la basura que sale en sus redes, con incentivos",
+      "Prohibir la pesca de arrastre",
+      "Una tasa a los barcos de recreo",
+      "Voluntariado obligatorio en playas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "En Cataluña las cofradías han retirado más de medio millón de litros de residuos en cinco años. Además se pondrían barreras y filtros en las desembocaduras de los ríos y las redes de saneamiento.",
+    "tip": "Quienes mejor conocen el mar actúan como colaboradores.",
+    "source": {
+      "doc": "d21",
+      "page": 90,
+      "section": "Medio ambiente y adaptación climática: Mar limpio con quienes mejor lo conocen"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-medioambiente-007",
+    "doc": "d21",
+    "topic": "medioambiente",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Democracia21 sobre energía?",
+    "options": [
+      "Contratos de compra de energía renovable a 10 o 15 años para PYMES mediante plataformas de compra agregada",
+      "Separar la operación del sistema eléctrico de la titularidad de la red de transporte",
+      "Neutralidad tecnológica: que el Estado fije objetivos sin elegir la tecnología ganadora",
+      "Prohibir la construcción de nuevas centrales renovables en suelo agrícola"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Las tres primeras forman parte del plan. El programa apuesta por la abundancia renovable y por zonas industriales verdes, no por prohibir nuevas instalaciones.",
+    "tip": "Una de las opciones frenaría justo lo que el programa quiere impulsar.",
+    "source": {
+      "doc": "d21",
+      "page": 94,
+      "section": "Ser una potencia energética: Redes modernas, almacenamiento e inteligencia en el sistema"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-otros-001",
+    "doc": "d21",
+    "topic": "otros",
+    "type": "single",
+    "question": "En materia de seguridad ferroviaria, ¿qué se encargaría en los primeros seis meses de Gobierno según Democracia21?",
+    "options": [
+      "Una revisión técnica absolutamente independiente de la señalización y los sistemas de protección de toda la alta velocidad",
+      "Una comisión parlamentaria de investigación",
+      "La privatización del mantenimiento",
+      "La paralización de la alta velocidad hasta nuevo aviso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "También extendería el ERTMS, el sistema europeo de control automático de trenes, empezando por las líneas con más riesgo y tráfico, y reforzaría la inspección de carriles y soldaduras.",
+    "tip": "La revisión sería externa a la propia administración ferroviaria.",
+    "source": {
+      "doc": "d21",
+      "page": 64,
+      "section": "Infraestructuras y crecimiento sostenibles: Seguridad ferroviaria sin concesiones"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-otros-002",
+    "doc": "d21",
+    "topic": "otros",
+    "type": "tf",
+    "question": "Democracia21 propone una Estrategia Estatal de Infraestructuras a 10 años y programas de inversión a 4 años.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso: serían una estrategia a 25 años y programas de inversión a 6 años, con prioridades, calendario y financiación públicos, para que las grandes obras sobrevivan a los cambios de Gobierno.",
+    "tip": "Los plazos son más largos que los del enunciado.",
+    "source": {
+      "doc": "d21",
+      "page": 63,
+      "section": "Infraestructuras y crecimiento sostenibles: Planificar con datos, no con promesas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-otros-003",
+    "doc": "d21",
+    "topic": "otros",
+    "type": "multi",
+    "question": "Marca las medidas de Democracia21 para planificar y evaluar infraestructuras.",
+    "options": [
+      "Publicar una cartera estatal de proyectos para seguir su financiación y ejecución",
+      "Crear una nueva Agencia Estatal de Infraestructuras que sustituya a ADIF y AENA",
+      "Usar un mismo método y los mismos datos para comparar alternativas de carreteras, tren, puertos y aeropuertos",
+      "Evaluar cada gran obra con la AIReF al año, a los cinco y a los diez años de su puesta en marcha"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "El programa dice expresamente que se hará «sin crear nuevos organismos». La AIReF es la Autoridad Independiente de Responsabilidad Fiscal.",
+    "tip": "La planificación integrada se haría sin nuevos organismos.",
+    "source": {
+      "doc": "d21",
+      "page": 63,
+      "section": "Infraestructuras y crecimiento sostenibles: Una planificación integrada, sin más burocracia"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-otros-004",
+    "doc": "d21",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿A qué tipo bajaría Democracia21 el IVA de los medicamentos veterinarios, hoy en el 10%?",
+    "options": [
+      "Al 7%",
+      "Al 2%",
+      "Al 4%",
+      "Al 0%"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Lo igualaría al de los medicamentos de uso humano. También defendería en la UE que los servicios veterinarios a animales de compañía pasen de tributar al 21% a un IVA sanitario.",
+    "tip": "Es el tipo superreducido.",
+    "source": {
+      "doc": "d21",
+      "page": 81,
+      "section": "Protección animal con los veterinarios: IVA sanitario para mascotas y reconocimiento sanitario pleno"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-otros-005",
+    "doc": "d21",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿A qué tipo reduciría Democracia21 el IVA de todos los servicios deportivos, hoy en el 21%?",
+    "options": [
+      "Al 0%",
+      "Al 4%",
+      "Al 10%",
+      "Al 15%"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El programa recuerda que la práctica deportiva soporta el 21% desde 2012 y defiende la actividad física como herramienta preventiva. También incentivaría fiscalmente a las empresas que promuevan deporte saludable.",
+    "tip": "Es el tipo reducido, no el superreducido.",
+    "source": {
+      "doc": "d21",
+      "page": 107,
+      "section": "Deporte para un país sano y vital: El deporte es salud - Reducción del IVA al 10%"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "d21-otros-006",
+    "doc": "d21",
+    "topic": "otros",
+    "type": "which_party",
+    "question": "¿Qué partido propone un «Pasaporte Deportivo Joven», un carné digital con recompensas para quienes mantengan una práctica deportiva regular?",
+    "options": [
+      "psoe",
+      "pp",
+      "vox",
+      "d21"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Forma parte del plan de choque contra el abandono deportivo adolescente y femenino, con actividades extraescolares gratuitas en los centros públicos y especial atención a las niñas de 12 a 16 años.",
+    "tip": "Premia la constancia con entradas, material o actividades de ocio.",
+    "source": {
+      "doc": "d21",
+      "page": 107,
+      "section": "Deporte para un país sano y vital: Plan de choque contra el abandono deportivo adolescente y femenino"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-pensiones-001",
+    "doc": "d21",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Cuántas personas, elegidas por sorteo cívico, formarían la Asamblea Ciudadana por el Futuro de las Pensiones?",
+    "options": [
+      "1.000",
+      "300",
+      "50",
+      "150"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Se convocaría en los primeros cien días de legislatura, con un consejo de expertos independientes. Deliberaría durante un año y el Gobierno respondería públicamente a cada recomendación antes de llevarlas al Pacto de Toledo y a las Cortes.",
+    "tip": "Es una cifra intermedia, mayor que un centenar pero lejos de un millar.",
+    "source": {
+      "doc": "d21",
+      "page": 79,
+      "section": "Redefiniendo el envejecimiento: Asegurar las pensiones actuales y futuras"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-pensiones-002",
+    "doc": "d21",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "Democracia21 propone fijar por ley el objetivo de reducir la pobreza infantil del 28% actual a menos del 20%.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso: el objetivo vinculante es reducirla al menos a la mitad a lo largo de la legislatura, del 28% a menos del 14%, el nivel de los países más avanzados de Europa.",
+    "tip": "El objetivo es reducirla a la mitad.",
+    "source": {
+      "doc": "d21",
+      "page": 73,
+      "section": "Contigo y con tu familia: Compromiso de Estado - Pobreza infantil a la mitad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-pensiones-003",
+    "doc": "d21",
+    "topic": "pensiones",
+    "type": "which_party",
+    "question": "¿Qué partido propone un «Cheque Guardería» por el que ninguna familia de renta baja o media pague más del 50% del coste medio de una plaza infantil?",
+    "options": [
+      "pp",
+      "psoe",
+      "d21",
+      "vox"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El Estado completaría las ayudas autonómicas hasta cubrir ese 50% en cualquier escuela infantil autorizada. El descuento se aplicaría directamente en la factura, sin adelantar dinero.",
+    "tip": "El descuento se aplica en la factura, no en la declaración de la renta.",
+    "source": {
+      "doc": "d21",
+      "page": 75,
+      "section": "Contigo y con tu familia: Un país diseñado para conciliar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-pensiones-004",
+    "doc": "d21",
+    "topic": "pensiones",
+    "type": "multi",
+    "question": "Marca las medidas de Democracia21 sobre permisos y conciliación por maternidad y crianza.",
+    "options": [
+      "Ampliar el permiso por nacimiento a 26 semanas",
+      "Que la reducción de jornada por cuidado de hijos cotice al 100% hasta que el menor cumpla 12 años",
+      "Poder adaptar el horario o reducir la jornada hasta que los hijos cumplan 16 años",
+      "Una baja médica específica de recuperación posparto, por criterio clínico, que no reste días al permiso por nacimiento"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "El programa recuerda que hoy el permiso por nacimiento es de 19 semanas y no propone ampliarlo, sino complementar con otras medidas para que criar no penalice la carrera ni las pensiones.",
+    "tip": "No se toca la duración del permiso por nacimiento.",
+    "source": {
+      "doc": "d21",
+      "page": 74,
+      "section": "Contigo y con tu familia: Tiempo para cuidar, sin frenar tu carrera"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-pensiones-005",
+    "doc": "d21",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "Democracia21 propone una única plataforma digital, el Escudo Social Único, que integre las ayudas sociales de ministerios, Comunidades y Ayuntamientos y las pague en un único ingreso mensual.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Además se diseñaría para que trabajar siempre compense: aceptar un empleo nunca haría perder más de lo que se gana.",
+    "tip": "Busca acabar con el laberinto de ayudas dispersas.",
+    "source": {
+      "doc": "d21",
+      "page": 73,
+      "section": "Contigo y con tu familia: Escudo Social Único"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-pensiones-006",
+    "doc": "d21",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Qué método de reproducción asistida incorporaría Democracia21 a la cartera común de la sanidad pública?",
+    "options": [
+      "El diagnóstico genético preimplantacional universal",
+      "La microinyección espermática (ICSI) exclusivamente",
+      "El método ROPA",
+      "La congelación de óvulos sin indicación médica"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El método ROPA permite que en una pareja de mujeres una aporte los óvulos y la otra gestacione el embarazo. Hoy solo lo ofrecen algunas Comunidades. Forma parte de «Dos madres, mismos derechos».",
+    "tip": "Está relacionado con las parejas de mujeres.",
+    "source": {
+      "doc": "d21",
+      "page": 76,
+      "section": "Contigo y con tu familia: Dos madres, mismos derechos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-pensiones-007",
+    "doc": "d21",
+    "topic": "pensiones",
+    "type": "which_party",
+    "question": "¿Qué partido propone facilitar suelo público y financiación preferente a cooperativas de «cohousing sénior» en cesión de uso?",
+    "options": [
+      "psoe",
+      "d21",
+      "pp",
+      "vox"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Son proyectos de convivencia con servicios de salud compartidos y espacios comunitarios. Se complementarían con un programa de «Alquiler Seguro Sénior» para quienes dejen su vivienda en alquiler asequible.",
+    "tip": "Es un modelo de convivencia pensado para combatir la soledad.",
+    "source": {
+      "doc": "d21",
+      "page": 80,
+      "section": "Redefiniendo el envejecimiento: Cohousing sénior y alquiler seguro"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-pensiones-008",
+    "doc": "d21",
+    "topic": "pensiones",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Democracia21 sobre pensiones y envejecimiento?",
+    "options": [
+      "Reforzar por ley la independencia y los medios de la AIReF y publicar sus proyecciones sobre pensiones con un simulador público",
+      "Simplificar las vías para compatibilizar pensión y trabajo",
+      "Un Plan Estatal de Longevidad Saludable con cribado de la fragilidad en atención primaria",
+      "Elevar la edad legal de jubilación a los 70 años"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Democracia21 plantea un debate con datos y una asamblea ciudadana, sin proponer una cifra concreta de edad de jubilación. Defiende la permanencia voluntaria del talento sénior.",
+    "tip": "El programa habla de voluntariedad, no de imposiciones.",
+    "source": {
+      "doc": "d21",
+      "page": 79,
+      "section": "Redefiniendo el envejecimiento"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-rural-001",
+    "doc": "d21",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué defiende Democracia21 para la Política Agrícola Común (PAC) y la Política Pesquera Común?",
+    "options": [
+      "Que se reserven a explotaciones de más de 100 hectáreas",
+      "Que se financien solo con fondos nacionales",
+      "Que aseguren la modernización con agrotecnología y regadío eficiente y condiciones de competencia equitativas frente a importaciones de terceros países",
+      "Su desaparición progresiva"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El objetivo es la autosuficiencia alimentaria y que agricultores y pescadores sean pilares de la sostenibilidad ambiental y la seguridad alimentaria de Europa.",
+    "tip": "El texto vincula modernización y competencia leal.",
+    "source": {
+      "doc": "d21",
+      "page": 97,
+      "section": "Construir la Unión Europea del Siglo 21: PAC y Política Pesquera para la autosuficiencia alimentaria"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-rural-002",
+    "doc": "d21",
+    "topic": "rural",
+    "type": "tf",
+    "question": "Democracia21 pide que la futura política de cohesión de la UE incorpore una estrategia para regiones escasamente pobladas basada en el modelo ártico europeo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La estrategia incluiría incentivos fiscales específicos, alta conectividad y fondos directos para fijar actividad empresarial y relevar generacionalmente al medio rural. Se pediría para el Marco Financiero Multianual 2028-2034.",
+    "tip": "Se toma como ejemplo una región del norte de Europa.",
+    "source": {
+      "doc": "d21",
+      "page": 98,
+      "section": "Construir la Unión Europea del Siglo 21: Estrategia europea contra la despoblación"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-sanidad-001",
+    "doc": "d21",
+    "topic": "sanidad",
+    "type": "which_party",
+    "question": "¿Qué partido propone una red de «Hospitales Monotemáticos de Referencia» (oncología, cardiología avanzada, prótesis de cadera y rodilla, cataratas…)?",
+    "options": [
+      "d21",
+      "psoe",
+      "pp",
+      "vox"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La idea es que equipos hiperespecializados operen con menos complicaciones y menos espera, mientras los hospitales generales y comarcales se refuerzan en atención integral, diagnóstico rápido y urgencias de proximidad.",
+    "tip": "Cada hospital se centra en un tipo de enfermedad o procedimiento.",
+    "source": {
+      "doc": "d21",
+      "page": 71,
+      "section": "Sanidad pública: Llevar la sanidad pública a lo más alto - Especialización + IA"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-sanidad-002",
+    "doc": "d21",
+    "topic": "sanidad",
+    "type": "which_party",
+    "question": "¿Qué partido propone crear un Centro Nacional de Trasplantes impulsado por la Organización Nacional de Trasplantes (ONT)?",
+    "options": [
+      "psoe",
+      "podemos",
+      "pp",
+      "d21"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Centralizar los procedimientos más complejos evitaría que los trasplantes desborden a los grandes hospitales generales y obliguen a reprogramar cirugías ordinarias.",
+    "tip": "Busca liberar quirófanos de los hospitales generales.",
+    "source": {
+      "doc": "d21",
+      "page": 72,
+      "section": "Sanidad pública: Centro Nacional de Trasplantes"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-sanidad-003",
+    "doc": "d21",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "Democracia21 propone que los ingresos por alquilar quirófanos vacíos de tarde a mutuas y aseguradoras se destinen solo en un 50% a la sanidad pública.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso: se blindaría por ley que el 100% de esos ingresos se reinvierta en reducir listas de espera, mejorar sueldos, renovar tecnología y financiar la sanidad pública. Los pacientes públicos tendrían prioridad absoluta en el turno de tarde.",
+    "tip": "La reinversión sería total.",
+    "source": {
+      "doc": "d21",
+      "page": 69,
+      "section": "Sanidad pública: Rendimiento máximo de quirófanos y reinversión en listas de espera"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-sanidad-004",
+    "doc": "d21",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Hacia qué duración máxima de turno propone Democracia21 una transición progresiva para acabar con las guardias presenciales de 24 horas?",
+    "options": [
+      "8 horas",
+      "18 horas",
+      "16 horas",
+      "12 horas"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Se empezaría por los servicios con mayor sobrecarga y se crearían equipos nocturnos específicos y Unidades Provinciales de Respuesta Rápida para cubrir urgencias entre hospitales.",
+    "tip": "Es la mitad de las 24 horas actuales.",
+    "source": {
+      "doc": "d21",
+      "page": 69,
+      "section": "Sanidad pública: Fin progresivo de las guardias de 24 horas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "d21-sanidad-005",
+    "doc": "d21",
+    "topic": "sanidad",
+    "type": "multi",
+    "question": "Marca las medidas de Democracia21 para los profesionales sanitarios.",
+    "options": [
+      "Reconocer el Grupo A1 para enfermería y ampliar el catálogo de especialidades de enfermería",
+      "Prohibir que el personal del Sistema Nacional de Salud trabaje también en la sanidad privada",
+      "Una Ley Estatal de Protección del Personal Sanitario con un Registro Nacional de Agresores",
+      "Un nuevo Estatuto de la Profesión Médica para el siglo 21"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "El Grupo A1 es la categoría de la función pública que corresponde a titulaciones universitarias de Grado con alta responsabilidad. El programa no propone incompatibilidades con la sanidad privada.",
+    "tip": "Todas las medidas buscan reconocer y proteger; una de las opciones prohibiría.",
+    "source": {
+      "doc": "d21",
+      "page": 70,
+      "section": "Sanidad pública: Dignidad para todos los profesionales sanitarios"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-sanidad-006",
+    "doc": "d21",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué permitiría el estándar técnico común y obligatorio del historial clínico que propone Democracia21?",
+    "options": [
+      "Que cualquier profesional autorizado en un centro público de España acceda en tiempo real al historial completo leyendo la tarjeta, y que el paciente vea cada acceso desde el móvil",
+      "Que solo se comparta un resumen de diagnósticos",
+      "Que cada Comunidad conserve su propio sistema sin conectarlo",
+      "Que el historial sea de uso exclusivo del médico de cabecera"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Hoy el historial sigue fragmentado en sistemas autonómicos. El programa incluye diagnósticos, alergias, tratamientos, analíticas e imágenes, y la incorporación progresiva de la sanidad privada.",
+    "tip": "El paciente controla quién consulta y ve los accesos.",
+    "source": {
+      "doc": "d21",
+      "page": 71,
+      "section": "Sanidad pública: Tu historial clínico, contigo en cualquier parte de España"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-sanidad-007",
+    "doc": "d21",
+    "topic": "sanidad",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Democracia21 sobre sanidad?",
+    "options": [
+      "Un sistema que reasigne automáticamente las citas y huecos de quirófano que se pierdan por cancelaciones previsibles",
+      "Una Red Sanitaria Compartida con un sistema de IA de auditoría continua bajo supervisión humana",
+      "Un paquete de deducciones en el IRPF durante tres años para los sanitarios españoles que regresen del extranjero",
+      "Eliminar los conciertos del sistema público con la sanidad privada"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Las tres primeras están en el apartado de gestión inteligente y profesionales. El programa incluso plantea que mutuas y aseguradoras puedan alquilar tramos horarios vacantes de quirófanos públicos.",
+    "tip": "Una de las opciones va en sentido contrario al texto, que abre colaboración con lo privado.",
+    "source": {
+      "doc": "d21",
+      "page": 69,
+      "section": "Sanidad pública: Que cada euro salve vidas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-sanidad-008",
+    "doc": "d21",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "Democracia21 propone prohibir abrir nuevos centros de salud o consultorios que no cuenten de antemano con dotación presupuestaria y de plantilla médica garantizada.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es la medida «No más centros sanitarios fantasma»: se haría una auditoría inmediata para frenar centros promovidos como reclamo electoral sin capacidad real de contratación.",
+    "tip": "Se trata de evitar inauguraciones sin personal.",
+    "source": {
+      "doc": "d21",
+      "page": 69,
+      "section": "Sanidad pública: No más centros sanitarios fantasma"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-territorio-001",
+    "doc": "d21",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué efecto tendría el Programa de Armonización Normativa basado en el Reconocimiento Mutuo que propone Democracia21?",
+    "options": [
+      "Solo valdría para títulos universitarios",
+      "Habría una licencia única estatal sustituyendo a las autonómicas",
+      "Las Comunidades perderían sus competencias en comercio",
+      "Cualquier licencia, homologación o título aprobado en una Comunidad sería automáticamente válido en todo el territorio nacional"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El principio de reconocimiento mutuo viene de la Unión Europea. El programa dice que las Comunidades deben acercar la gestión al ciudadano, nunca fragmentar la economía.",
+    "tip": "Un permiso concedido en un sitio vale en todos.",
+    "source": {
+      "doc": "d21",
+      "page": 36,
+      "section": "Menos normas, más claras, estables y coordinadas: Un país diverso, un mercado sin barreras"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "d21-territorio-002",
+    "doc": "d21",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "Si un Ayuntamiento retiene suelo público de forma injustificada o incumple sus objetivos de vivienda asequible, Democracia21 propone que el Estado asuma su competencia urbanística.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso: la competencia urbanística sería subrogada de forma automática por su Comunidad Autónoma, no por el Estado.",
+    "tip": "Pasa al nivel administrativo inmediatamente superior.",
+    "source": {
+      "doc": "d21",
+      "page": 23,
+      "section": "Vivienda, prioridad nº1: Responsabilidad municipal vinculante"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-vivienda-001",
+    "doc": "d21",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Cómo plantea Democracia21 la limitación de los alquileres?",
+    "options": [
+      "Como una limitación temporal y excepcional en zonas tensionadas, que se levantaría gradualmente a medida que aumente la oferta",
+      "Solo para jóvenes menores de 35 años",
+      "No propone limitar precios, solo bonificaciones fiscales",
+      "Como un tope permanente en todo el país"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es el «Pacto de Reconciliación del Alquiler»: limitar precios (con el índice SERPAVI) a cambio de proteger a los pequeños propietarios con un escudo ante impagos e inquiokupación. Una zona tensionada es aquella donde los precios son especialmente altos.",
+    "tip": "La palabra clave es «transitoria»: se retirará cuando haya más vivienda.",
+    "source": {
+      "doc": "d21",
+      "page": 19,
+      "section": "Vivienda, prioridad nº1: Pacto de Reconciliación del Alquiler"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-vivienda-002",
+    "doc": "d21",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Democracia21 propone eliminar el IVA, el ITP y el AJD en la compra de vivienda habitual para menores de 40 años.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso: la medida se dirige a menores de 35 años, con un máximo de 400.000 € de precio. Para el resto se rebajarían los impuestos de forma más limitada.",
+    "tip": "Revisa el límite de edad.",
+    "source": {
+      "doc": "d21",
+      "page": 18,
+      "section": "Vivienda, prioridad nº1: Fase 1 - Alivio hoy"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "d21-vivienda-003",
+    "doc": "d21",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿A qué tipo único reduciría Democracia21 el ITP en la compra de vivienda habitual (hasta 400.000 €)?",
+    "options": [
+      "Al 8%",
+      "Al 2%",
+      "Al 6%",
+      "Al 4%"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El ITP (Impuesto de Transmisiones Patrimoniales) bajaría a un tipo único del 2%, el AJD (Actos Jurídicos Documentados) al 0% y el IVA superreducido del 4% se ampliaría a la compra de vivienda habitual.",
+    "tip": "El objetivo es fomentar la rotación del mercado de vivienda.",
+    "source": {
+      "doc": "d21",
+      "page": 20,
+      "section": "Vivienda, prioridad nº1: Rebaja excepcional de impuestos en la compra de vivienda habitual"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "d21-vivienda-004",
+    "doc": "d21",
+    "topic": "vivienda",
+    "type": "which_party",
+    "question": "¿Qué partido propone que la Administración avale acuerdos de «usufructo temporal», por los que empresas rehabilitadoras reforman viviendas a cambio de alquilarlas a precio asequible durante un tiempo pactado?",
+    "options": [
+      "psoe",
+      "pp",
+      "d21",
+      "podemos"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El propietario recuperaría el inmueble renovado al terminar el acuerdo. Es una de las medidas de «movilización masiva de viviendas vacías» de Democracia21. El usufructo es el derecho a usar y explotar un bien ajeno temporalmente.",
+    "tip": "El propietario no paga la reforma, pero cede un tiempo el uso.",
+    "source": {
+      "doc": "d21",
+      "page": 21,
+      "section": "Vivienda, prioridad nº1: Movilización masiva de viviendas vacías"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-vivienda-005",
+    "doc": "d21",
+    "topic": "vivienda",
+    "type": "multi",
+    "question": "Marca las medidas de Democracia21 sobre compradores no residentes y alquiler turístico.",
+    "options": [
+      "Un recargo mínimo del 10% en los impuestos de compra de vivienda no habitual por inversores extracomunitarios, que las Comunidades podrán elevar hasta el 25%",
+      "IVA general del 10% para los alquileres turísticos de corta estancia",
+      "Prohibir la compra de vivienda a cualquier persona no residente",
+      "Prohibir los pisos turísticos en todo el territorio"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "explanation": "El programa busca frenar la especulación internacional y equiparar fiscalmente el alquiler turístico con la actividad hotelera. No propone prohibiciones, sino medidas fiscales.",
+    "tip": "Son medidas de impuestos, no prohibiciones.",
+    "source": {
+      "doc": "d21",
+      "page": 21,
+      "section": "Vivienda, prioridad nº1: Recargo para no residentes y competencia justa en vivienda turística"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-vivienda-006",
+    "doc": "d21",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Si un Ayuntamiento incumple el plazo de 30 días para una licencia de obra mayor, el programa de Democracia21 la concede automáticamente por silencio positivo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso: el expediente pasaría a unas Oficinas Centrales Autonómicas de Urbanismo, que resolverían en otros 30 días y cobrarían al Ayuntamiento una tasa de penalización. El silencio positivo de 3 meses se plantea para autorizaciones sectoriales.",
+    "tip": "Otra administración asumiría el trabajo, no se concede «de oficio».",
+    "source": {
+      "doc": "d21",
+      "page": 23,
+      "section": "Vivienda, prioridad nº1: Licencias de obra mayor en 30 días"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-vivienda-007",
+    "doc": "d21",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Por cuántos años se concederían los derechos de superficie del suelo público para el Plan Nacional de Barrios?",
+    "options": [
+      "75 años",
+      "50 años",
+      "30 años",
+      "99 años"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El suelo público se cedería mediante concesiones o derechos de superficie a 75 años, garantizando que suelo y viviendas sigan siendo 100% públicos al final. Un derecho de superficie permite construir sobre suelo ajeno durante un tiempo.",
+    "tip": "Es un plazo menor al siglo, pero mayor que medio siglo.",
+    "source": {
+      "doc": "d21",
+      "page": 22,
+      "section": "Vivienda, prioridad nº1: Colaboración público-privada a escala industrial"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "d21-vivienda-008",
+    "doc": "d21",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Democracia21 propone reasignar los fondos europeos Next Generation no ejecutados a un Fondo Público Soberano de vivienda asequible y protegida.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa habla de 10.000 millones de euros procedentes de fondos no utilizados o en riesgo de devolución, tras una auditoría de urgencia.",
+    "tip": "Se aprovecharían fondos que, de otro modo, se devolverían.",
+    "source": {
+      "doc": "d21",
+      "page": 18,
+      "section": "Vivienda, prioridad nº1: 10.000 millones de fondos europeos"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "d21-vivienda-009",
+    "doc": "d21",
+    "topic": "vivienda",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Democracia21 sobre vivienda?",
+    "options": [
+      "Un servicio gratuito y vinculante de mediación de arrendamientos con resolución máxima en 30 días",
+      "Un Portal Nacional de Trazabilidad Urbanística",
+      "Rebajar al 4% el IVA de la construcción de vivienda asequible",
+      "Expropiar las viviendas vacías de los grandes tenedores"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Las tres primeras se recogen en el plan. Democracia21 apuesta por incentivos fiscales y garantías para movilizar vivienda vacía, no por expropiarla.",
+    "tip": "Una opción es mucho más coercitiva que el resto.",
+    "source": {
+      "doc": "d21",
+      "page": 21,
+      "section": "Vivienda, prioridad nº1: Nuestro plan de vivienda, al detalle"
+    },
+    "difficulty": 2
+  }
+]

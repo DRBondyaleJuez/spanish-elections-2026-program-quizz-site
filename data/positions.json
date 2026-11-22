@@ -33,6 +33,11 @@
     "v": 1,
     "page": 5,
     "note": "Da competencias a ayuntamientos para declarar zonas tensionadas y propone control efectivo de precios de alquiler con registro estatal de arrendamientos."
+   },
+   "d21": {
+    "v": 1,
+    "page": 19,
+    "note": "Propone limitar los alquileres en zonas tensionadas, pero de forma temporal y excepcional, con garantías para el propietario."
    }
   }
  },
@@ -112,6 +117,11 @@
     "v": 1,
     "page": 10,
     "note": "Propone un fondo estatal de ocho años para cofinanciar vivienda pública y asequible (construir, comprar, rehabilitar)."
+   },
+   "d21": {
+    "v": 0,
+    "page": 22,
+    "note": "Plan Nacional de Barrios con suelo público y fondo público soberano, pero construcción y gestión con colaboración público-privada."
    }
   }
  },
@@ -154,6 +164,11 @@
     "v": -1,
     "page": 6,
     "note": "Propone prohibir por ley los desahucios sin alternativa habitacional, sobre todo de grandes tenedores; no menciona endurecer medidas contra la okupación."
+   },
+   "d21": {
+    "v": 2,
+    "page": 19,
+    "note": "Mediación en 30 días, juzgados de arrendamientos en 60 y delito de estafa para la inquiokupación y el impago premeditado."
    }
   }
  },
@@ -206,6 +221,11 @@
     "v": 2,
     "page": 11,
     "note": "Propone reformas para limitar la compra de vivienda en Canarias por extranjeros y una Ley Canaria de Residencia."
+   },
+   "d21": {
+    "v": 2,
+    "page": 21,
+    "note": "Recargo mínimo del 10% a la compra de vivienda no habitual por inversores extracomunitarios."
    }
   }
  },
@@ -253,6 +273,11 @@
     "v": 1,
     "page": 11,
     "note": "Apoya deducciones por primera vivienda para jóvenes y familias de rentas medias y bajas."
+   },
+   "d21": {
+    "v": 2,
+    "page": 20,
+    "note": "Cero IVA, ITP y AJD para menores de 35 años y ITP único del 2%, AJD 0% e IVA 4% para el resto."
    }
   }
  },
@@ -305,6 +330,11 @@
     "v": 1,
     "page": 11,
     "note": "Pide cobertura legal para limitar la vivienda vacacional donde haya presión sobre la vivienda residencial, distinguiendo uso ocasional e intensivo."
+   },
+   "d21": {
+    "v": 1,
+    "page": 21,
+    "note": "Aplica el IVA general del 10% a los alquileres turísticos de corta estancia para igualarlos a la actividad hotelera."
    }
   }
  },
@@ -337,6 +367,11 @@
     "v": 2,
     "page": 7,
     "note": "Garantiza por ley que el SMI llegue al 60% del salario medio."
+   },
+   "d21": {
+    "v": 1,
+    "page": 49,
+    "note": "SMI fijado por un órgano técnico con una senda para que no baje de dos tercios de la mediana salarial."
    }
   }
  },
@@ -453,6 +488,11 @@
     "v": 1,
     "page": 12,
     "note": "Pide bonificaciones en cotizaciones ligadas a subidas salariales pactadas y más ayudas a autónomos con menos ingresos."
+   },
+   "d21": {
+    "v": 1,
+    "page": 53,
+    "note": "Cuota de autónomos opcional según ingresos reales del mes anterior y bono fiscal para compensar cotizaciones los tres primeros años."
    }
   }
  },
@@ -512,6 +552,11 @@
     "v": 0,
     "page": 17,
     "note": "Propone deflactar el IRPF solo para rentas inferiores a 30.000 euros y que las rentas financieras tributen como las del trabajo."
+   },
+   "d21": {
+    "v": 0,
+    "page": 32,
+    "note": "Dice que no hace falta subir ni bajar impuestos en general; actualiza el IRPF con el IPC y baja impuestos a la vivienda."
    }
   }
  },
@@ -613,6 +658,11 @@
     "v": 2,
     "page": 16,
     "note": "Recorta sobrecoste autonómico, diputaciones, entes públicos y ministerios para financiar la rebaja de impuestos."
+   },
+   "d21": {
+    "v": 1,
+    "page": 4,
+    "note": "Reduce un 90% los asesores y evalúa los programas de gasto para eliminar los ineficaces, sin plantear un recorte general."
    }
   }
  },
@@ -773,6 +823,11 @@
     "v": 2,
     "page": 31,
     "note": "Propone eliminar las penalizaciones de la jubilación anticipada con más de 40 años cotizados."
+   },
+   "d21": {
+    "v": 1,
+    "page": 84,
+    "note": "Jubilación anticipada sin recorte para policías, guardias civiles, vigilancia aduanera y militares por ser profesiones de riesgo."
    }
   }
  },
@@ -815,6 +870,11 @@
     "v": 1,
     "page": 10,
     "note": "Propone que Canarias tramite el ingreso mínimo vital y abrir debate sobre ayudas a la crianza."
+   },
+   "d21": {
+    "v": 1,
+    "page": 73,
+    "note": "Bono Crianza mensual por hijo, mayor a menores rentas, e IMV tramitado de oficio; no es universal."
    }
   }
  },
@@ -1032,6 +1092,11 @@
     "v": 1,
     "page": 9,
     "note": "Reclama más fondos estatales para salud mental en Canarias, con mejoras en atención primaria y servicios especializados."
+   },
+   "d21": {
+    "v": 1,
+    "page": 77,
+    "note": "Cribado de salud mental perinatal, Unidades de Enlace en colegios y seguimiento tras intentos de suicidio."
    }
   }
  },
@@ -1128,6 +1193,11 @@
     "v": 1,
     "page": 9,
     "note": "Pide reforzar la financiación estatal para plazas públicas gratuitas y de calidad de 0 a 3 años."
+   },
+   "d21": {
+    "v": 1,
+    "page": 75,
+    "note": "Construir una red pública y universal de 0 a 3 años; mientras tanto, cheque guardería para que ninguna familia pague más del 50%."
    }
   }
  },
@@ -1266,6 +1336,11 @@
     "v": 1,
     "page": 10,
     "note": "Reclama financiación estatal suficiente para aplicar el Pacto de Estado contra la violencia de género en todas las islas."
+   },
+   "d21": {
+    "v": 2,
+    "page": 99,
+    "note": "Bloquear cualquier intento de desmantelar la red pública de protección a víctimas de violencia machista."
    }
   }
  },
@@ -1303,6 +1378,11 @@
     "v": 1,
     "page": 26,
     "note": "Propone proteger el acceso libre y seguro de las mujeres a los servicios sanitarios de interrupción del embarazo y fijar perímetros de protección."
+   },
+   "d21": {
+    "v": 2,
+    "page": 99,
+    "note": "Garantizar la interrupción voluntaria del embarazo en la sanidad pública de todas las comunidades y defender la ley de plazos."
    }
   }
  },
@@ -1350,6 +1430,11 @@
     "v": 1,
     "page": 27,
     "note": "Propone garantizar los derechos LGTBIQ+ y desarrollar la Ley 4/2023 para documentación de personas extranjeras trans."
+   },
+   "d21": {
+    "v": 1,
+    "page": 100,
+    "note": "Se opone a recortar derechos LGTBIQ+ y a derogar normas de no discriminación trans; no cita la libre determinación de género."
    }
   }
  },
@@ -1387,6 +1472,11 @@
     "v": 2,
     "page": 41,
     "note": "Paga progresivamente las ocho semanas de permiso de crianza y amplía los permisos de familias monoparentales."
+   },
+   "d21": {
+    "v": 2,
+    "page": 74,
+    "note": "Baja posparto específica, permiso parental retribuido al 50% y ampliación de reducciones de jornada hasta los 16 años."
    }
   }
  },
@@ -1456,6 +1546,11 @@
     "v": 1,
     "page": 25,
     "note": "Propone avanzar en los procesos de regularización previstos en la ley para quienes cumplen los requisitos."
+   },
+   "d21": {
+    "v": -1,
+    "page": 57,
+    "note": "Quiere una vía ordinaria que funcione para que no hagan falta regularizaciones extraordinarias."
    }
   }
  },
@@ -1503,6 +1598,11 @@
     "v": -1,
     "page": 28,
     "note": "Propone alternativas a la privación de libertad en los CIE y reforzar las garantías de migrantes en frontera."
+   },
+   "d21": {
+    "v": 1,
+    "page": 57,
+    "note": "Registro de órdenes de expulsión con prioridad para quienes delinquen y control de fronteras según el Pacto Europeo de Migración."
    }
   }
  },
@@ -1715,6 +1815,11 @@
     "v": 1,
     "page": 15,
     "note": "Propone sustituir progresivamente centrales térmicas por renovables y reducir fósiles, sin poner en riesgo el suministro."
+   },
+   "d21": {
+    "v": 1,
+    "page": 93,
+    "note": "Regulación exigente con la descarbonización, pero neutral entre tecnologías y atenta al mercado."
    }
   }
  },
@@ -1902,6 +2007,11 @@
     "v": 2,
     "page": 18,
     "note": "Propone reforzar la Ley de la Cadena Alimentaria y exigir a las importaciones condiciones equivalentes."
+   },
+   "d21": {
+    "v": 1,
+    "page": 97,
+    "note": "Defiende una PAC y una política pesquera con competencia equitativa frente a importaciones de terceros países."
    }
   }
  },
@@ -1961,6 +2071,11 @@
     "v": -1,
     "page": 22,
     "note": "Exige que los trasvases sean excepcionales, con acuerdo entre cuencas y respeto a caudales ecológicos."
+   },
+   "d21": {
+    "v": 0,
+    "page": 88,
+    "note": "Comisión Técnica del Agua y Plan Director de Inversiones, desalación y reutilización; no menciona trasvases ni un plan nacional."
    }
   }
  },
@@ -2035,6 +2150,11 @@
     "v": -2,
     "page": 8,
     "note": "Se opone a la recentralización y a cualquier retroceso en la capacidad de decisión de Canarias."
+   },
+   "d21": {
+    "v": 0,
+    "page": 36,
+    "note": "Armoniza normas y exige reconocimiento mutuo entre comunidades, sin proponer devolver competencias al Estado."
    }
   }
  },
@@ -2220,6 +2340,11 @@
     "v": 0,
     "page": 37,
     "note": "Quiere un CGPJ independiente elegido por mérito y capacidad con menos presidencialismo; no dice que los jueces elijan a la mayoría."
+   },
+   "d21": {
+    "v": 2,
+    "page": 9,
+    "note": "Los vocales judiciales del CGPJ serían elegidos por los jueces, sin intervención de las asociaciones judiciales."
    }
   }
  },
@@ -2311,6 +2436,11 @@
     "v": 0,
     "page": 24,
     "note": "Propone medidas contra la multirreincidencia, pero rechaza la prisión permanente revisable (p. 28)."
+   },
+   "d21": {
+    "v": 1,
+    "page": 85,
+    "note": "Nueva ley procesal contra la multirreincidencia y delitos de corrupción imprescriptibles; no habla de subir penas en general."
    }
   }
  },
@@ -2380,6 +2510,11 @@
     "v": 2,
     "page": 29,
     "note": "Reduce de 22 a 10 ministerios y de 823 a 450 altos cargos; suprime Senado y Consejo de Estado."
+   },
+   "d21": {
+    "v": 1,
+    "page": 4,
+    "note": "Reduce un 90% los asesores del Gobierno; no propone reducir el número de ministerios."
    }
   }
  },
@@ -2412,6 +2547,11 @@
     "v": 2,
     "page": 35,
     "note": "Elimina los aforamientos parlamentario y judicial."
+   },
+   "d21": {
+    "v": 2,
+    "page": 10,
+    "note": "Eliminar los aforamientos no constitucionales y reformar la Constitución para quitar los de diputados y senadores."
    }
   }
  },
@@ -2454,6 +2594,11 @@
     "v": -2,
     "page": 54,
     "note": "Plantea una UE de la Defensa que reduzca gasto militar y exige que aumentos no recorten servicios públicos."
+   },
+   "d21": {
+    "v": 1,
+    "page": 85,
+    "note": "Dice que, si España invierte más en defensa, la primera inversión serán sus profesionales; no fija un objetivo de gasto."
    }
   }
  },
@@ -2481,6 +2626,11 @@
     "v": 1,
     "page": 54,
     "note": "Propone una Unión Europea de la Defensa que pueda sustituir el marco de la OTAN; no pide salir expresamente."
+   },
+   "d21": {
+    "v": -1,
+    "page": 97,
+    "note": "Propone reforzar el pilar europeo dentro de la OTAN."
    }
   }
  },
@@ -2555,6 +2705,11 @@
     "v": 1,
     "page": 41,
     "note": "Apoya una Europa más democrática, competitiva y social, con más presencia de Euskadi en sus instituciones."
+   },
+   "d21": {
+    "v": 1,
+    "page": 96,
+    "note": "Quiere una Europa más ágil, con mercado único real, defensa común y supervisión del Estado de derecho."
    }
   }
  },
@@ -2656,6 +2811,11 @@
     "v": 1,
     "page": 21,
     "note": "Propone revisar el IVA cultural dentro de lo que permita la normativa europea."
+   },
+   "d21": {
+    "v": 2,
+    "page": 103,
+    "note": "Bajar al 10% el IVA de la música grabada y reducir el de los servicios deportivos; fija un incentivo fiscal al cine."
    }
   }
  },
@@ -2698,6 +2858,11 @@
     "v": 1,
     "page": 35,
     "note": "Propone reforzar las obligaciones de las plataformas digitales para proteger a la infancia y cumplir el reglamento europeo de servicios digitales."
+   },
+   "d21": {
+    "v": 1,
+    "page": 103,
+    "note": "Exige transparencia, licencias y etiquetado de contenidos de IA y registro público de algoritmos de la Administración."
    }
   }
  },
@@ -2772,6 +2937,11 @@
     "v": 1,
     "page": 14,
     "note": "Pide financiación plurianual estatal para universidades canarias, astrofísica, ciencias marinas y biotecnología, y reforzar PLOCAN."
+   },
+   "d21": {
+    "v": 2,
+    "page": 60,
+    "note": "Ley de Financiación de la Ciencia con inversión total en I+D del 2% en 2027 y del 3% en 2030."
    }
   }
  },
@@ -2789,6 +2959,11 @@
     "v": -1,
     "page": 15,
     "note": "Plantea ampliar la programación en valenciano en RTVE y emitir las autonómicas en todo el Estado."
+   },
+   "d21": {
+    "v": -1,
+    "page": 102,
+    "note": "Propone un RTVE con consejo profesional y financiación plurianual, sin reducirla ni privatizarla."
    }
   }
  },

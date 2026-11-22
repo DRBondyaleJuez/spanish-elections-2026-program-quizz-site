@@ -19,6 +19,7 @@ Se publica con **GitHub Pages**. No hay paso de compilación: HTML + CSS + JS no
 | `erc` | ERC | e2026-programa.pdf | 48 | ca |
 | `compromis` | Compromís | programa-compromis-front-valencia.pdf | 57 | ca/va |
 | `pnv` | EAJ-PNV | programa-electoral-29n.pdf | 43 | es (+eu) |
+| `d21` | Democracia 21 | programa-democracia21.pdf | 108 | es |
 | `cc` | Coalición Canaria | CCA-26-Programa_Electoral-29NOV.pdf | 23 | es |
 | `mesa` | Manual de la mesa electoral | MMM_G2026_castellano_para_web.pdf | 37 | es |
 
@@ -65,7 +66,7 @@ Se publica con **GitHub Pages**. No hay paso de compilación: HTML + CSS + JS no
 - [x] Revisar las respuestas: comprobar 5 al azar por partido contra el PDF. Hecho con `tools/check_pages.py` (marca citas cuya página no encaja con el texto) + revisión manual; corregidas ~15 páginas de los resúmenes.
 
 ## Fase 7 — Ampliar contenido
-- [x] 100 preguntas por programa, repartidas entre todos los temas que trata (unas 8–15 por tema). (1.000 preguntas: 100 × 10 partidos).
+- [x] 100 preguntas por programa, repartidas entre todos los temas que trata (unas 8–15 por tema). (1.100 preguntas: 100 × 11 partidos).
 - [x] 100 preguntas del manual de mesa (solo de las páginas de instrucciones/procedimiento).
 - [x] `tools/validate.py`: comprueba el esquema, que no haya ids repetidos, que las páginas existan y que la respuesta aparezca cerca de la página citada.
 
