@@ -1,0 +1,46 @@
+14.1. Gobernanza digital, supervisión y responsabilidad penal
+    de directivos
+
+    ●Ley de Gobernanza Democrática de los Servicios Digitales y capacidad sancio
+        nadora: Aprobaremos un marco regulatorio integral que faculte a la CNMC para
+        supervisar a las grandes plataformas digitales con plantilla y recursos adecuados,
+       pudiendo imponer multas de hasta el 6 % de su facturación mundial. En infrac
+        ciones cometidas por plataformas con sede en otro país europeo, se elevará la
+       denuncia ante la Comisión Europea, rindiendo cuentas anualmente de los casos
+        tramitados. Garantizaremos el acceso de los investigadores a los datos internos
+       de las plataformas.
+
+     ●Responsabilidad penal de directivos y sanciones por contenidos ilícitos: Tipifi
+        cación como delito de la desobediencia de directivos de grandes plataformas a
+       órdenes de retirada de contenidos ilícitos, castigada con penas de hasta 4 años
+       de prisión en contextos de riesgo para la vida democrática (como procesos elec
+         torales o emergencias). Sancionaremos penalmente la amplificación deliberada de
+        contenidos ilícitos por motivos lucrativos, aplicando multas corporativas propor
+        cionales al volumen de facturación.
+
+14.2. Transparencia algorítmica, autonomía del usuario,
+     interoperabilidad y privacidad
+
+    ●Código de transparencia algorítmica y eliminación de patrones adictivos: Esta
+       bleceremos un código mínimo de transparencia bajo supervisión pública e inde
+        pendiente sobre los algoritmos y sistemas de recomendación. Las plataformas
+       deberán hacer comprensibles los criterios utilizados para ordenar, visibilizar o re
+        ducir la difusión de contenidos. Habilitaremos la selección libre de sistemas de
+       recomendación sin dinámicas de scroll infinito.
+
+     ●Elección individual del sistema de recomendación: Reconoceremos el derecho
+       de las personas usuarias a configurar el ordenamiento de sus contenidos en gran
+       des plataformas o a optar libremente por sistemas alternativos de recomendación,
+       moderación o búsqueda (desarrollados por otras empresas, entidades sociales o
+          la Administración), evitando la sumisión a un algoritmo orientativo único.
+
+      ●Interoperabilidad obligatoria y redes abiertas: Promoción en la UE e Iberoamérica de
+          la interoperabilidad obligatoria de grandes plataformas, permitiendo la comunicación
+         fluida entre distintas aplicaciones de mensajería o el seguimiento cruzado en redes
+         sociales. Prohibiremos que las grandes plataformas bloqueen o discriminen a rivales,
+       impongan condiciones desfavorables o favorezcan sus propias herramientas.
+
+     ●Portabilidad de datos y perfil social: Garantizaremos el derecho a la portabilidad
+       completa y segura de datos, permitiendo a la ciudadanía transferir sus publicaciones,
+        contactos y seguidores a otras plataformas al cambiar de servicio. Abriremos plata
+       formas para facilitar la salida de usuarios e impondremos restricciones a la adquisi

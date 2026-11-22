@@ -1,0 +1,123 @@
+{
+ "doc": "mesa",
+ "file": "sources/MMM_G2026_castellano_para_web.pdf",
+ "pages": 37,
+ "pageOffset": 1,
+ "note": "Página física = página impresa + 1.",
+ "sections": [
+  {
+   "id": "constitucion",
+   "name": "8:00–9:00 · Reunión, material y constitución de la Mesa",
+   "pages": [
+    [
+     4,
+     9
+    ]
+   ],
+   "quiz": true
+  },
+  {
+   "id": "votacion",
+   "name": "9:00–20:00 · Votación (identificación, censo, voto, lista numerada)",
+   "pages": [
+    [
+     9,
+     11
+    ]
+   ],
+   "quiz": true
+  },
+  {
+   "id": "cierre",
+   "name": "20:00 · Cierre, voto por correo y voto de la Mesa",
+   "pages": [
+    [
+     11,
+     12
+    ]
+   ],
+   "quiz": true
+  },
+  {
+   "id": "escrutinio",
+   "name": "Escrutinio, anuncio de resultados y actas",
+   "pages": [
+    [
+     12,
+     15
+    ]
+   ],
+   "quiz": true
+  },
+  {
+   "id": "documentacion",
+   "name": "Fin: preparación y entrega de los tres sobres",
+   "pages": [
+    [
+     15,
+     17
+    ]
+   ],
+   "quiz": true
+  },
+  {
+   "id": "accesibilidad",
+   "name": "Accesibilidad de los procesos electorales",
+   "pages": [
+    [
+     17,
+     20
+    ]
+   ],
+   "quiz": true
+  },
+  {
+   "id": "info",
+   "name": "Información general (interventores, apoderados, acceso al local…)",
+   "pages": [
+    [
+     20,
+     22
+    ]
+   ],
+   "quiz": true
+  },
+  {
+   "id": "incidencias",
+   "name": "Parte II · Incidencias y soluciones",
+   "pages": [
+    [
+     23,
+     27
+    ]
+   ],
+   "quiz": true
+  },
+  {
+   "id": "modelos",
+   "name": "Parte III · Modelos de sobres e impresos",
+   "pages": [
+    [
+     28,
+     35
+    ]
+   ],
+   "quiz": false
+  },
+  {
+   "id": "breves",
+   "name": "Breves instrucciones (resumen gráfico)",
+   "pages": [
+    [
+     2,
+     2
+    ],
+    [
+     36,
+     37
+    ]
+   ],
+   "quiz": true
+  }
+ ]
+}

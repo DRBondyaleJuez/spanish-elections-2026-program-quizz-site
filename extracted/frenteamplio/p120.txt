@@ -1,0 +1,53 @@
+140      PODER DIGITAL Y PLURALISMO INFORMATIVO
+
+
+
+
+                 ción de competidores y a la autofavoritización por posición dominante, promoviendo
+                     la separación estructural de actividades a nivel europeo cuando sea necesario.
+
+            ●Preservación del seudónimo y acceso a datos por orden judicial: Reconoceremos
+                    el derecho a utilizar seudónimos legítimos en el entorno digital y a acreditar la ma
+                  yoría de edad o la condición de persona real sin necesidad de revelar la identidad
+                       civil. La identificación real solo podrá realizarse mediante orden judicial explícita
+                dentro de investigaciones penales.
+
+            ●Espacios de datos públicos y retorno de la inversión colectiva: Impedimento de la
+                 apropiación exclusiva por parte de grandes tecnológicas de la información genera
+              da en servicios públicos. Crearemos espacios de datos con salvaguardas de priva
+                cidad para fines de interés general, fijando condiciones de acceso y retorno público
+               sobre infraestructuras, datos y conocimiento financiados con fondos colectivos.
+
+       14.3. Regulación de la inteligencia artificial en el sector
+           público y privado
+
+         ●Uso transparente de la inteligencia artificial en la administración pública: Apro
+              baremos una ley específica para el buen uso de la IA en el sector público, que in
+                cluya un inventario público obligatorio de los sistemas en uso, su finalidad, datos,
+                tasa de error y sesgos, evaluados de forma previa a su despliegue y anualmente.
+              Toda resolución administrativa asistida por IA lo indicará de forma expresa, otor
+              gando la facultad de solicitar una revisión por parte de un empleado público.
+
+             ●Auditorías de seguridad e impacto en contratación pública y servicios esencia
+                   les: Exigencia a proveedores de superar una auditoría de seguridad independiente
+                antes de desplegar sistemas de IA en contratos públicos, habilitando a la Admi
+                  nistración para rescindir contratos en caso de comportamientos de riesgo. Ex
+              tenderemos las auditorías independientes a decisiones automatizadas en empleo,
+                  crédito, seguros y servicios esenciales, garantizando información clara, revisión
+              humana, vías de reclamación y supervisión de la representación laboral contra la
+                 discriminación.
+
+            ●Rendición de cuentas de directivos de IA y respuesta a emergencias: Compa
+                 recencia obligatoria en el Congreso y el Senado de directivos de empresas de IA
+              cuando sus agentes o sistemas autónomos pongan en peligro la seguridad ciudada
+                 na, accedan a datos personales administrados por el Estado o manipulen servicios
+                   digitales públicos. Revisaremos con urgencia la capacidad de respuesta de Fuerzas
+              de Seguridad, Protección Civil, Seguridad Nacional e INCIBE frente a incidentes o
+                ciberataques contra infraestructuras críticas (red eléctrica, hospitales, transporte).
+
+            ●Protección frente a deepfakes e IA generativa: Consideración como intromisión
+                   ilegítima de la difusión no consentida de imágenes o voces hiperrealistas falsas
+              de una persona (salvo excepciones de sátira y crítica pública). Exigencia a desa
+                  rrolladores de IA generativa de acreditar medidas de seguridad eficaces ante los
+                 reguladores, y desarrollo de campañas educativas dirigidas a la juventud contra el
+              uso humillante de estas tecnologías, con foco en la violencia de género.

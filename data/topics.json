@@ -1,0 +1,77 @@
+[
+ {
+  "id": "vivienda",
+  "name": "Vivienda",
+  "icon": "🏠"
+ },
+ {
+  "id": "empleo",
+  "name": "Empleo, salarios y condiciones laborales",
+  "icon": "💼"
+ },
+ {
+  "id": "economia",
+  "name": "Economía, impuestos y empresas",
+  "icon": "💶"
+ },
+ {
+  "id": "pensiones",
+  "name": "Pensiones y protección social",
+  "icon": "🤝"
+ },
+ {
+  "id": "sanidad",
+  "name": "Sanidad y salud",
+  "icon": "🏥"
+ },
+ {
+  "id": "educacion",
+  "name": "Educación y universidades",
+  "icon": "🎓"
+ },
+ {
+  "id": "igualdad",
+  "name": "Igualdad, feminismo y derechos LGTBI",
+  "icon": "⚖️"
+ },
+ {
+  "id": "inmigracion",
+  "name": "Inmigración",
+  "icon": "🌍"
+ },
+ {
+  "id": "medioambiente",
+  "name": "Medio ambiente, energía y clima",
+  "icon": "🌱"
+ },
+ {
+  "id": "rural",
+  "name": "Agricultura, pesca y mundo rural",
+  "icon": "🌾"
+ },
+ {
+  "id": "territorio",
+  "name": "Modelo territorial, autogobierno y financiación autonómica",
+  "icon": "🗺️"
+ },
+ {
+  "id": "instituciones",
+  "name": "Instituciones, justicia, corrupción y seguridad",
+  "icon": "🏛️"
+ },
+ {
+  "id": "exterior",
+  "name": "Política exterior, UE y defensa",
+  "icon": "🇪🇺"
+ },
+ {
+  "id": "cultura",
+  "name": "Cultura, ciencia, digital y medios",
+  "icon": "🎭"
+ },
+ {
+  "id": "otros",
+  "name": "Otros",
+  "icon": "📌"
+ }
+]

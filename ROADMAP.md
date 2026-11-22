@@ -28,9 +28,10 @@ Se publica con **GitHub Pages**. No hay paso de compilación: HTML + CSS + JS no
 - [x] Repositorio git + repositorio público en GitHub
 
 ## Fase 1 — Extraer el texto y definir los temas
-- [ ] `tools/extract_text.py` (PyMuPDF) → `extracted/<id>/p001.txt …` (un archivo por página **física** del PDF, que es el número que usa `#page=N`).
-- [ ] Definir la **lista común de temas** en `data/topics.json` (propuesta en AGENTS.md §4) y asignar a cada tema la sección/páginas que le tocan en cada programa (`data/parties.json → topicMap`).
-- [ ] Revisar a mano los programas parciales (CC y PNV se centran en su territorio) → marcar "no lo trata" en lugar de inventar.
+- [x] `tools/extract_text.py` (PyMuPDF) → `extracted/<id>/p001.txt …` (un archivo por página **física** del PDF, que es el número que usa `#page=N`).
+- [x] Definir la **lista común de temas** en `data/topics.json` (propuesta en AGENTS.md §4) y asignar a cada tema la sección/páginas que le tocan en cada programa (`data/parties.json → topicMap`).
+- [x] Apartados del manual de la mesa con sus páginas → `data/mesa/sections.json`.
+- [x] Revisar los temas que faltan (buscando en todo el texto). Sin sección encontrada: **SALF** → medio ambiente, rural, territorio, cultura. Confirmarlo en la fase 2 y marcarlo como "no lo menciona".
 
 ## Fase 2 — Resúmenes por partido y tema
 - [ ] `data/summaries/<id>.json`: para cada tema, 3–6 puntos clave en lenguaje sencillo, cada uno con su página.

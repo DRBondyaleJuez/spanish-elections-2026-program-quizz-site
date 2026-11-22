@@ -1,0 +1,47 @@
+2.  Los sobres abiertos han de conservarse para posteriormente comprobar que su
+    número coincide con el número de personas anotadas en la lista numerada de
+     votantes. Los votantes son quienes efectivamente han entregado su voto. Su
+    número no puede ser mayor que el de personas incluidas en la lista del censo,
+    sumando a estas, si ese ha sido el caso, interventores no censados que hayan
+    votado en la Mesa y personas que hayan acudido con certificación censal de alta
+    o sentencia judicial.
+
+3.   Al examinar los sobres y las papeletas podrán encontrarse, además de los votos
+    a candidaturas, casos de:
+
+                •   votos en blanco, y
+                •   votos nulos
+
+    Estas dos categorías han de contabilizarse, por separado, para la determinación
+     del resultado de la votación. Se anotarán como datos separados en el acta de
+     escrutinio en el apartado expresamente reservado para ello.
+
+     •    Son VOTOS EN BLANCO:
+
+        o  Los sobres que no contengan papeleta.
+        o  El voto emitido a favor de una candidatura legalmente retirada.
+        o En las elecciones al Senado, las papeletas en las que no se haya
+           marcado ningún candidato o candidata.
+
+     •    Son VOTOS NULOS:
+
+        o  Los que se emiten en sobres o papeletas diferentes del modelo oficial.
+        o  Las papeletas sin sobre.
+        o En el caso de las elecciones al Congreso de los Diputados, los sobres
+           que contengan más de una papeleta de distintas candidaturas (si se
+              incluyen varias papeletas de la misma candidatura, se cuenta como un
+              solo voto válido).
+        o  Los que se emiten en sobres alterados.
+        o  Las papeletas en las que se hubiera modificado, añadido o tachado el
+           nombre de los candidatos y candidatas, alterado su orden de colocación,
+              así como aquellas en las que se hubiera introducido cualquier leyenda
+           o expresión, o producido cualquier otra alteración de carácter voluntario
+           o intencionado.
+        o En el caso de elecciones al Senado, las papeletas en las que se hayan
+           marcado más de tres candidatos o candidatas, más de dos en el caso
+           de Gran Canaria, Tenerife, Mallorca, Ceuta y Melilla, o más de uno en
+                el caso de Menorca, Ibiza, Formentera, Fuerteventura, La Gomera, El
+               Hierro, Lanzarote y La Palma.
+   Serán computados como válidos aquellos votos emitidos en papeletas que
+   contengan una señal, cruz o aspa al lado de alguno de los candidatos o candidatas,
+  12 ELECCIONES A CORTES GENERALES 2026

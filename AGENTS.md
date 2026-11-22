@@ -44,7 +44,13 @@ Usar estos ids en todo el proyecto. Si un tema no encaja, ponerlo en `otros`. No
 
 ## 5. Esquemas de datos
 
-**`data/parties.json`** — `[{ "id", "name", "short", "color", "file", "pages", "lang", "topicMap": { "<tema>": [pagInicio, pagFin] } }]`
+**`data/parties.json`** — `[{ "id", "name", "short", "color", "file", "pages", "lang", "topicMap": { "<tema>": [[pagInicio, pagFin], …] } }]`
+- `topicMap` es **orientativo**: dice dónde está cada tema según los títulos del programa. Antes de poner "no lo menciona", buscar también palabras clave en todo `extracted/<id>/` (con grep), porque algunas propuestas aparecen en otras secciones. Si un tema no está en `topicMap` es que no se encontró ninguna sección sobre él.
+- Página física de VOX = página impresa. Compromís y el manual de la mesa: física = impresa + 1. En los demás, comprobarlo siempre en `extracted/`.
+
+**`data/topics.json`** — `[{ "id", "name", "icon" }]` (los temas del §4).
+
+**`data/mesa/sections.json`** — apartados del manual de la mesa con sus páginas (`pages: [[a,b]]`) y si entran en el test (`quiz`).
 
 **`data/summaries/<id>.json`**
 ```json
@@ -78,7 +84,7 @@ assets/app.js       router + páginas
 assets/style.css
 data/               todo el contenido (JSON)
 sources/            PDFs originales (se sirven tal cual para los enlaces #page=N)
-extracted/          texto por página (lo genera tools/extract_text.py)
+extracted/          texto por página: python tools/extract_text.py [ids]  (se sube al repo para no repetirlo)
 tools/              scripts de Python (extracción, validación, cálculo de acuerdo)
 ```
 
