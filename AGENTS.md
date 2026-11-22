@@ -83,6 +83,7 @@ Usar estos ids en todo el proyecto. Si un tema no encaja, ponerlo en `otros`. No
    "source": { "doc": "psoe", "page": 12, "section": "nombre de la sección del programa" },
    "difficulty": 1 }]           // 1 fácil · 2 media · 3 difícil
 ```
+- Campo opcional `"review": { "up", "down", "notes": [], "seen": [] }`: valoraciones 👍/👎 de los usuarios. Lo rellena `python tools/import_ratings.py <export.json>` a partir del archivo que descarga el botón "Exportar mis valoraciones" del test (las valoraciones se guardan en el navegador, `localStorage('quiz-ratings-v1')`). Revisar primero las preguntas con más 👎 y, al corregir una, se puede borrar su `review`.
 - Los ids son estables y únicos: `<doc>-<tema>-<nnn>` (en la mesa: `mesa-<apartado>-<nnn>`).
 - Las opciones incorrectas deben ser creíbles (por ejemplo, propuestas de otro partido) y nunca de broma.
 

@@ -84,7 +84,7 @@ Opciones, de la más fácil a la más difícil:
 
 ## Fase 9 — Transparencia y valoración de preguntas
 - [ ] **Aviso de transparencia en la página de inicio** (`#/`, función `renderInicio` en `assets/app.js`, usando las variables de color del tema): explicar que todo el contenido se ha generado con IA ("vibe coding") directamente a partir de los programas oficiales, sin revisión humana de cada dato; que la IA puede tener sus propios sesgos; que se ha intentado ser neutral; y que, por transparencia, las ideas del creador de la web probablemente se inclinan a la izquierda. Invitar a comprobar siempre el documento original (enlaces 📄).
-- [ ] **Botones 👍 / 👎 en cada pregunta del test** (en `assets/quiz.js`, visibles tras corregir): marcar si la pregunta es buena o mala (confusa, errónea, mal citada), para revisarla en el futuro.
+- [x] **Botones 👍 / 👎 en cada pregunta del test** — hecho con la opción 1 (navegador + exportar JSON + `tools/import_ratings.py`). (en `assets/quiz.js`, visibles tras corregir): marcar si la pregunta es buena o mala (confusa, errónea, mal citada), para revisarla en el futuro.
   - Limitación: la web es estática (GitHub Pages) y no puede escribir en `data/questions/*.json`. Opciones para guardar las valoraciones:
     1. Guardarlas en el navegador (`localStorage`) y añadir un botón "Exportar valoraciones" que descargue un JSON para revisarlo y volcarlo después en los datos (sencillo, sin servidor).
     2. Que 👎 abra un *issue* de GitHub ya rellenado con el id de la pregunta (`https://github.com/DRBondyaleJuez/spanish-elections-2026-program-quizz-site/issues/new?title=...&body=...`): las valoraciones quedan en el repositorio, pero hace falta cuenta de GitHub.

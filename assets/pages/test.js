@@ -1,5 +1,5 @@
 import { loadBase, loadJSON, parseHash, setParams, esc, chips, bindChips } from '../lib.js';
-import { runQuiz, failedIds } from '../quiz.js';
+import { runQuiz, failedIds, exportButtonHTML, bindExport } from '../quiz.js';
 
 export async function render(app) {
   const B = await loadBase();
@@ -31,6 +31,7 @@ export async function render(app) {
       ${chips('f', [{ id: '0', label: 'Todas' }, { id: '1', label: `Solo mis fallos (${failed.size})` }], [onlyFailed ? '1' : '0'], { single: true })}
       <p class="small"><b>${pool.length}</b> preguntas disponibles con estos filtros${pool.length < count ? ` (el test tendrá ${pool.length})` : ''}.</p>
       <button type="button" class="btn primary" id="start" ${pool.length ? '' : 'disabled'}>Empezar test</button>
+      ${exportButtonHTML()}
     </div>
     <div id="quiz"></div>`;
 
@@ -40,6 +41,7 @@ export async function render(app) {
   bindChips(app, 'f', [onlyFailed ? '1' : '0'], v => setParams({ f: v[0] === '1' ? '1' : '' }));
   app.querySelectorAll('[data-all]').forEach(b => b.addEventListener('click', () => setParams({ [b.dataset.all]: [] })));
 
+  bindExport(app);
   app.querySelector('#start').addEventListener('click', () => {
     app.querySelector('.filters').hidden = true;
     runQuiz(app.querySelector('#quiz'), pool, {
