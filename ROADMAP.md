@@ -12,25 +12,25 @@ Se publica con **GitHub Pages**. No hay paso de compilación: HTML + CSS + JS no
 |---|---|---|---|---|
 | `psoe` | PSOE | PROGRAMAPSOE29N26.pdf | 114 | es |
 | `pp` | PP | PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf | 64 | es |
-| `vox` | VOX | Programa-WEB-021025.pdf | 48 | es (económico y vivienda) |
+| `vox` | VOX | Programa-completo-A5-1.pdf | 66 | es |
 | `podemos` | Podemos | 29N-programa-Podemos.-Paz-casa-y-trabajo.pdf | 141 | es |
 | `frenteamplio` | Frente Amplio | ProgramaFrenteAmplio.pdf | 151 | es |
 | `salf` | Se Acabó La Fiesta | SALF_Contrato_Electoral_29N.pdf | 40 | es |
 | `erc` | ERC | e2026-programa.pdf | 48 | ca |
 | `compromis` | Compromís | programa-compromis-front-valencia.pdf | 57 | ca/va |
 | `pnv` | EAJ-PNV | programa-electoral-29n.pdf | 43 | es (+eu) |
-| `cc` | Coalición Canaria | CCA-26-Programa_Electoral-29NOV.pdf | 23 | es (archivo de 69 MB, ver riesgos) |
+| `cc` | Coalición Canaria | CCA-26-Programa_Electoral-29NOV.pdf | 23 | es |
 | `mesa` | Manual de la mesa electoral | MMM_G2026_castellano_para_web.pdf | 37 | es |
 
 ## Fase 0 — Base del proyecto ✅ (esta sesión)
 - [x] ROADMAP.md y AGENTS.md
 - [x] Esqueleto de la web (`index.html`, `assets/`, `data/`) + servidor local
-- [x] Repositorio git + repositorio público en GitHub *(pendiente: GitHub CLI / login)*
+- [x] Repositorio git + repositorio público en GitHub
 
 ## Fase 1 — Extraer el texto y definir los temas
 - [ ] `tools/extract_text.py` (PyMuPDF) → `extracted/<id>/p001.txt …` (un archivo por página **física** del PDF, que es el número que usa `#page=N`).
 - [ ] Definir la **lista común de temas** en `data/topics.json` (propuesta en AGENTS.md §4) y asignar a cada tema la sección/páginas que le tocan en cada programa (`data/parties.json → topicMap`).
-- [ ] Revisar a mano los programas parciales (VOX solo trata economía y vivienda; CC y PNV se centran en su territorio) → marcar "no lo trata" en lugar de inventar.
+- [ ] Revisar a mano los programas parciales (CC y PNV se centran en su territorio) → marcar "no lo trata" en lugar de inventar.
 
 ## Fase 2 — Resúmenes por partido y tema
 - [ ] `data/summaries/<id>.json`: para cada tema, 3–6 puntos clave en lenguaje sencillo, cada uno con su página.
@@ -72,6 +72,6 @@ Se publica con **GitHub Pages**. No hay paso de compilación: HTML + CSS + JS no
 
 ## Riesgos / decisiones
 - **PDF en el móvil**: Android/Chrome no muestra los PDF dentro del navegador e ignora `#page=N` (lo descarga). Solución si molesta: incluir el visor **PDF.js** (`viewer.html?file=…#page=N`).
-- **Archivo de CC de 69 MB**: cabe en GitHub (límite 100 MB) pero es lento en el móvil. Comprimirlo (p. ej. `pymupdf` / Ghostscript) manteniendo las páginas iguales.
+- **PDFs pesados**: el de CC se comprimió de 66 MB a 0,8 MB (mismas páginas y texto). Hacer lo mismo con cualquier PDF de más de 50 MB.
 - **Programas en catalán/valenciano** (ERC, Compromís): resumen en castellano; las citas se pueden dejar en el idioma original.
 - **Neutralidad**: se resume lo que dice cada programa, sin dar opinión. Si algo no aparece en un programa, se pone "no lo menciona".

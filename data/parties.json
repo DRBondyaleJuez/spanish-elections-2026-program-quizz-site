@@ -1,7 +1,7 @@
 [
   { "id": "psoe", "name": "Partido Socialista Obrero Español", "short": "PSOE", "color": "#e30613", "file": "sources/PROGRAMAPSOE29N26.pdf", "pages": 114, "lang": "es", "topicMap": {} },
   { "id": "pp", "name": "Partido Popular", "short": "PP", "color": "#1d84ce", "file": "sources/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf", "pages": 64, "lang": "es", "topicMap": {} },
-  { "id": "vox", "name": "VOX", "short": "VOX", "color": "#5ac035", "file": "sources/Programa-WEB-021025.pdf", "pages": 48, "lang": "es", "topicMap": {} },
+  { "id": "vox", "name": "VOX", "short": "VOX", "color": "#5ac035", "file": "sources/Programa-completo-A5-1.pdf", "pages": 66, "lang": "es", "topicMap": {} },
   { "id": "podemos", "name": "Podemos", "short": "Podemos", "color": "#6b2d74", "file": "sources/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf", "pages": 141, "lang": "es", "topicMap": {} },
   { "id": "frenteamplio", "name": "Frente Amplio", "short": "Frente Amplio", "color": "#e5007d", "file": "sources/ProgramaFrenteAmplio.pdf", "pages": 151, "lang": "es", "topicMap": {} },
   { "id": "salf", "name": "Se Acabó La Fiesta", "short": "SALF", "color": "#222222", "file": "sources/SALF_Contrato_Electoral_29N.pdf", "pages": 40, "lang": "es", "topicMap": {} },
