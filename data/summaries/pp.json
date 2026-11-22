@@ -1,0 +1,952 @@
+{
+ "party": "pp",
+ "overview": "El PP presenta un programa de 'reconstrucción nacional' con cuatro objetivos: reparar el Estado, regenerar la democracia, reunir a la Nación y recuperar la ambición. Prioriza la seguridad y el control de fronteras, bajar impuestos, construir un millón de viviendas, reforzar la independencia de las instituciones y mantener la unidad territorial. Las medidas se presentan numeradas con compromisos concretos para una legislatura.",
+ "topics": {
+  "vivienda": {
+   "summary": "Apuesta por aumentar la oferta (suelo, agilidad y menos trabas), ayudas fiscales y avales a los jóvenes, y derogar la Ley de Vivienda.",
+   "points": [
+    {
+     "text": "Construir un millón de viviendas más: nueva Ley del Suelo, publicar las parcelas públicas, permitir vivienda social en suelo dotacional y licencias de obra en tres meses con silencio positivo.",
+     "source": {
+      "doc": "pp",
+      "page": 41
+     }
+    },
+    {
+     "text": "Derogar la Ley de Vivienda y eliminar las zonas tensionadas y el índice de precios del alquiler.",
+     "source": {
+      "doc": "pp",
+      "page": 42
+     }
+    },
+    {
+     "text": "Rehabilitar vivienda habitual con IVA superreducido del 4% y facilitar la vivienda industrializada y la regeneración urbana (más altura y edificabilidad).",
+     "source": {
+      "doc": "pp",
+      "page": 42
+     }
+    },
+    {
+     "text": "IVA del 4% (en vez del 10%) en la compra de primera vivienda para menores de 40 años, con pago fraccionado al ritmo de la hipoteca.",
+     "source": {
+      "doc": "pp",
+      "page": 43
+     }
+    },
+    {
+     "text": "Ampliar el aval público (hasta el 20% del valor) a menores de 40 años y crear la 'Hucha Hogar Joven': hasta 2.000 euros al año con deducción del 20%.",
+     "source": {
+      "doc": "pp",
+      "page": 43
+     }
+    },
+    {
+     "text": "Deducción en el IRPF para inquilinos y para el propietario que renueve tres años más subiendo la renta por debajo del IPC ('Tres años+').",
+     "source": {
+      "doc": "pp",
+      "page": 43
+     }
+    },
+    {
+     "text": "Ley para que el propietario recupere su vivienda ocupada en 48 horas por orden judicial, y anular el empadronamiento del ocupante.",
+     "source": {
+      "doc": "pp",
+      "page": 43
+     }
+    }
+   ]
+  },
+  "empleo": {
+   "summary": "Se centra en facilitar el trabajo autónomo y la contratación con bonificaciones, formación y menos burocracia, más que en reformar la regulación laboral.",
+   "points": [
+    {
+     "text": "Cheque de formación para cada trabajador (también para adaptarse a la inteligencia artificial), financiado con las cuotas de formación que ya se pagan.",
+     "source": {
+      "doc": "pp",
+      "page": 45
+     }
+    },
+    {
+     "text": "Nuevos autónomos sin cuota a la Seguridad Social el primer año, y el segundo si ingresan menos del salario mínimo; vivienda habitual protegida por defecto.",
+     "source": {
+      "doc": "pp",
+      "page": 46
+     }
+    },
+    {
+     "text": "Autónomos con facturación de menos de 85.000 euros no cobrarán ni declararán el IVA; declaraciones semestrales en lugar de trimestrales.",
+     "source": {
+      "doc": "pp",
+      "page": 46
+     }
+    },
+    {
+     "text": "Bonificar el 100% de las cotizaciones empresariales del primer trabajador durante un año y el 50% del segundo.",
+     "source": {
+      "doc": "pp",
+      "page": 46
+     }
+    },
+    {
+     "text": "Menos cotización por desempleo a las empresas con plantillas más estables que la media, y publicar cada mes cuántos fijos discontinuos no trabajan.",
+     "source": {
+      "doc": "pp",
+      "page": 46
+     }
+    },
+    {
+     "text": "Reforzar el papel de las mutuas para agilizar las bajas, perseguir el absentismo injustificado y proteger hasta el 100% de la base a enfermos graves.",
+     "source": {
+      "doc": "pp",
+      "page": 46
+     }
+    },
+    {
+     "text": "Ampliar bancos de horas, horarios flexibles y teletrabajo para trabajadores con hijos o personas dependientes.",
+     "source": {
+      "doc": "pp",
+      "page": 44
+     }
+    }
+   ]
+  },
+  "economia": {
+   "summary": "Propone bajar impuestos a clases medias, familias, jóvenes y autónomos, recortar burocracia y estimular la inversión y la innovación.",
+   "points": [
+    {
+     "text": "Elevar los mínimos del IRPF y bajar el impuesto a rentas medias y bajas; quien cobre el salario mínimo no pagará IRPF y el umbral subirá solo con el SMI.",
+     "source": {
+      "doc": "pp",
+      "page": 47
+     }
+    },
+    {
+     "text": "Deflactar la tarifa del IRPF para que la inflación no suponga una subida encubierta de impuestos.",
+     "source": {
+      "doc": "pp",
+      "page": 47
+     }
+    },
+    {
+     "text": "Jóvenes de 18 a 35 años: reducción del IRPF del 100% el primer año, 75% el segundo, 50% el tercero y 25% el cuarto.",
+     "source": {
+      "doc": "pp",
+      "page": 47
+     }
+    },
+    {
+     "text": "IVA del 0% en alimentos básicos (incluidos carne, pescado y conservas) mientras dure la crisis de inflación.",
+     "source": {
+      "doc": "pp",
+      "page": 47
+     }
+    },
+    {
+     "text": "Libertad de amortización: la inversión en maquinaria, digitalización o IA se podrá descontar entera en el Impuesto de Sociedades el mismo año.",
+     "source": {
+      "doc": "pp",
+      "page": 47
+     }
+    },
+    {
+     "text": "Por cada norma nueva se eliminarán tres vigentes; reducir las cargas administrativas un 25% (35% para pymes) antes de 2029.",
+     "source": {
+      "doc": "pp",
+      "page": 13
+     }
+    },
+    {
+     "text": "Test de productividad antes de aprobar normas económicas; declarar estratégicos los proyectos que creen al menos 100 empleos, con tramitación prioritaria.",
+     "source": {
+      "doc": "pp",
+      "page": 48
+     }
+    },
+    {
+     "text": "Reducir la deuda y el déficit estructural y ampliar las competencias de la AIReF para vigilar las cuentas públicas.",
+     "source": {
+      "doc": "pp",
+      "page": 13
+     }
+    }
+   ]
+  },
+  "pensiones": {
+   "summary": "Defiende las pensiones como compromiso de Estado y refuerza la protección a mayores, dependientes y personas con discapacidad.",
+   "points": [
+    {
+     "text": "Reconstruir el Pacto de Toledo y garantizar que las pensiones mantengan su poder adquisitivo y suban cada año con el IPC, también para los jóvenes en el futuro.",
+     "source": {
+      "doc": "pp",
+      "page": 34
+     }
+    },
+    {
+     "text": "Incentivar la jubilación activa con deducciones en el IRPF.",
+     "source": {
+      "doc": "pp",
+      "page": 34
+     }
+    },
+    {
+     "text": "Blindar por ley la caja única de la Seguridad Social: las cotizaciones financian las pensiones en toda España sin dividirse por territorios.",
+     "source": {
+      "doc": "pp",
+      "page": 15
+     }
+    },
+    {
+     "text": "Pacto de Estado por la Dependencia: el Estado aportará el 50% del coste público y las familias podrán deducirse el 40% de la atención profesional.",
+     "source": {
+      "doc": "pp",
+      "page": 35
+     }
+    },
+    {
+     "text": "El Estado cotizará por quien deje de trabajar o reduzca jornada para cuidar a un familiar dependiente.",
+     "source": {
+      "doc": "pp",
+      "page": 35
+     }
+    },
+    {
+     "text": "Compatibilizar las pensiones de discapacidad con el empleo y ampliar la jubilación anticipada a personas con síndrome de Down.",
+     "source": {
+      "doc": "pp",
+      "page": 35
+     }
+    }
+   ]
+  },
+  "sanidad": {
+   "summary": "Plan para reducir listas de espera con un Pacto de Estado, más profesionales, salud mental, prevención y cuidados paliativos.",
+   "points": [
+    {
+     "text": "Pacto de Estado por la Sanidad Pública con las comunidades y plan urgente para reducir las listas de espera.",
+     "source": {
+      "doc": "pp",
+      "page": 52
+     }
+    },
+    {
+     "text": "Incorporar más profesionales sanitarios, con al menos 4.500 médicos más en Atención Primaria, y un ámbito de negociación propio para los médicos.",
+     "source": {
+      "doc": "pp",
+      "page": 52
+     }
+    },
+    {
+     "text": "Plan Nacional de Salud Mental 2027-2037 con financiación garantizada y estrategia frente a las adicciones.",
+     "source": {
+      "doc": "pp",
+      "page": 53
+     }
+    },
+    {
+     "text": "Agilizar la evaluación de nuevos medicamentos, acortar plazos de financiación y precio y crear un Fondo Estatal para Enfermedades Raras y Terapias Avanzadas.",
+     "source": {
+      "doc": "pp",
+      "page": 53
+     }
+    },
+    {
+     "text": "Deducción en el IRPF de los gastos de tratamiento y cuidados por cáncer, ELA u otra enfermedad grave, y para personas celíacas.",
+     "source": {
+      "doc": "pp",
+      "page": 53
+     }
+    },
+    {
+     "text": "Ley nacional de cuidados paliativos y plan sanitario específico para Ceuta y Melilla (UCI pediátrica, radioterapia).",
+     "source": {
+      "doc": "pp",
+      "page": 54
+     }
+    },
+    {
+     "text": "Tarjeta e historial clínico y social únicos, consultables desde cualquier comunidad autónoma.",
+     "source": {
+      "doc": "pp",
+      "page": 31
+     }
+    }
+   ]
+  },
+  "educacion": {
+   "summary": "Sustituir la LOMLOE por un nuevo marco centrado en la exigencia, el prestigio docente, la libertad de elección de centro y la FP.",
+   "points": [
+    {
+     "text": "Sustituir la LOMLOE por un nuevo marco educativo, detectar pronto dificultades de lectura y cálculo y dar refuerzo dentro del horario escolar.",
+     "source": {
+      "doc": "pp",
+      "page": 51
+     }
+    },
+    {
+     "text": "Exigir nota mínima para acceder a Magisterio, crear una carrera profesional docente y defender jurídicamente al profesor agredido.",
+     "source": {
+      "doc": "pp",
+      "page": 51
+     }
+    },
+    {
+     "text": "Libertad de elección de colegio en todo el municipio y conciertos de al menos seis años que no se eliminarán donde haya demanda; no cerrar centros de educación especial.",
+     "source": {
+      "doc": "pp",
+      "page": 51
+     }
+    },
+    {
+     "text": "En la ESO se volverá a pasar de curso con las asignaturas aprobadas, con refuerzo obligatorio antes de repetir.",
+     "source": {
+      "doc": "pp",
+      "page": 52
+     }
+    },
+    {
+     "text": "Ampliar plazas de FP donde hay empleo, con un Mapa Nacional de la FP; matrícula gratuita en ciclos de alta demanda.",
+     "source": {
+      "doc": "pp",
+      "page": 52
+     }
+    },
+    {
+     "text": "Beca como derecho por ley para quien la necesite y apruebe, y becas de excelencia a los mejores expedientes.",
+     "source": {
+      "doc": "pp",
+      "page": 52
+     }
+    },
+    {
+     "text": "Prueba de acceso a la universidad (PAU) común en toda España y derecho a recibir enseñanza en castellano en todas las etapas.",
+     "source": {
+      "doc": "pp",
+      "page": 32
+     }
+    }
+   ]
+  },
+  "igualdad": {
+   "summary": "Plantea la igualdad como no discriminación y protección frente a la violencia, con revisión de la Ley Trans y el sexo biológico como criterio en el deporte femenino.",
+   "points": [
+    {
+     "text": "Combatir cualquier discriminación por origen, sexo, edad, discapacidad, orientación sexual o religión y seguir luchando contra la LGTBIfobia.",
+     "source": {
+      "doc": "pp",
+      "page": 35
+     }
+    },
+    {
+     "text": "Revisar la Ley Trans y eliminar la libre autodeterminación registral del sexo; el sexo biológico será el criterio en las categorías deportivas femeninas.",
+     "source": {
+      "doc": "pp",
+      "page": 35
+     }
+    },
+    {
+     "text": "Que el sistema de pulseras de alejamiento dependa del Ministerio del Interior, integrar la asistencia autonómica en VioGen y rendir cuentas cada año del Pacto de Estado.",
+     "source": {
+      "doc": "pp",
+      "page": 17
+     }
+    },
+    {
+     "text": "Ley integral contra la trata y criterios comunes contra la mutilación genital femenina y los matrimonios forzados.",
+     "source": {
+      "doc": "pp",
+      "page": 17
+     }
+    },
+    {
+     "text": "Políticas de igualdad centradas en eliminar los obstáculos a la carrera profesional de las mujeres, con un programa nacional de mujer rural y del mar.",
+     "source": {
+      "doc": "pp",
+      "page": 50
+     }
+    }
+   ]
+  },
+  "inmigracion": {
+   "summary": "Control estricto de fronteras con inmigración legal por cupos y puntos, endurecimiento de retornos y exigencia de integración.",
+   "points": [
+    {
+     "text": "Autoridad única para toda la política migratoria y refuerzo permanente de agentes y Frontex en la frontera sur, con apoyo de las Fuerzas Armadas cuando lo exija la seguridad nacional.",
+     "source": {
+      "doc": "pp",
+      "page": 18
+     }
+    },
+    {
+     "text": "Identificar en un máximo de siete días a quien entre irregularmente y tramitar con rapidez el asilo o la devolución.",
+     "source": {
+      "doc": "pp",
+      "page": 18
+     }
+    },
+    {
+     "text": "Visados por puntos (formación, experiencia, idioma, integración) y cupos anuales por sectores, solo con países que colaboren en los retornos.",
+     "source": {
+      "doc": "pp",
+      "page": 19
+     }
+    },
+    {
+     "text": "Prohibir por ley las regularizaciones masivas; el arraigo será excepcional y el empadronamiento por sí solo no dará acceso a ayudas no urgentes.",
+     "source": {
+      "doc": "pp",
+      "page": 19
+     }
+    },
+    {
+     "text": "Compromiso de integración obligatorio para renovar la residencia temporal (español, Constitución y valores de la UE); prohibir el burka y el niqab en espacios públicos.",
+     "source": {
+      "doc": "pp",
+      "page": 19
+     }
+    },
+    {
+     "text": "Expulsión como regla para extranjeros condenados por delitos sexuales, de sangre o multirreincidencia, y centros de retorno en terceros países.",
+     "source": {
+      "doc": "pp",
+      "page": 19
+     }
+    },
+    {
+     "text": "Resolver en 72 horas la determinación de edad de menores y priorizar su retorno con la familia en lugar del reparto entre comunidades.",
+     "source": {
+      "doc": "pp",
+      "page": 20
+     }
+    },
+    {
+     "text": "Nueva Ley de Nacionalidad: más requisitos (residencia legal continuada, español, ausencia de antecedentes) y pérdida de la nacionalidad tras ciertos delitos graves para los no nacidos españoles.",
+     "source": {
+      "doc": "pp",
+      "page": 39
+     }
+    }
+   ]
+  },
+  "medioambiente": {
+   "summary": "Prioriza energía segura y barata con nuclear, renovables y neutralidad tecnológica, y revisar los ritmos de la transición climática.",
+   "points": [
+    {
+     "text": "Eliminar el calendario de cierre de las centrales nucleares (Almaraz, Ascó, Vandellós, Cofrentes y Trillo) y ampliar su vida útil en los primeros cien días.",
+     "source": {
+      "doc": "pp",
+      "page": 54
+     }
+    },
+    {
+     "text": "Eliminar de inmediato el impuesto del 7% a la producción eléctrica y crear una Tarifa Social Única que sustituya a los bonos eléctrico y térmico.",
+     "source": {
+      "doc": "pp",
+      "page": 54
+     }
+    },
+    {
+     "text": "Plan para reforzar el sistema eléctrico y evitar otro apagón; ninguna central de gas o hidroeléctrica cerrará sin una alternativa técnicamente acreditada.",
+     "source": {
+      "doc": "pp",
+      "page": 55
+     }
+    },
+    {
+     "text": "Resolver en 18 meses los problemas de acceso y conexión a la red eléctrica.",
+     "source": {
+      "doc": "pp",
+      "page": 54
+     }
+    },
+    {
+     "text": "Actuar contra el cambio climático 'con rigor científico', revisando los ritmos de cada sector y retirando obligaciones que perjudiquen a la industria o al empleo.",
+     "source": {
+      "doc": "pp",
+      "page": 55
+     }
+    },
+    {
+     "text": "No imponer nuevas obligaciones de economía circular y aprovechar las infraestructuras que ya existen.",
+     "source": {
+      "doc": "pp",
+      "page": 55
+     }
+    },
+    {
+     "text": "Pacto Nacional del Agua con hasta 40.000 millones de euros hasta 2030 en regadío, desalación, reutilización y centrales hidroeléctricas reversibles.",
+     "source": {
+      "doc": "pp",
+      "page": 37
+     }
+    }
+   ]
+  },
+  "rural": {
+   "summary": "Un Pacto Nacional para el campo, el mar y el monte con menos impuestos, protección de ingresos y defensa de la PAC y la pesca.",
+   "points": [
+    {
+     "text": "Pacto Nacional para el campo, el mar y el monte, con cadenas agroalimentarias declaradas estratégicas y objetivos medibles.",
+     "source": {
+      "doc": "pp",
+      "page": 49
+     }
+    },
+    {
+     "text": "Bajar impuestos en el medio rural, permitir repartir entre años los ingresos de una buena cosecha y que jóvenes no paguen impuestos al comprar vivienda en municipios despoblados.",
+     "source": {
+      "doc": "pp",
+      "page": 49
+     }
+    },
+    {
+     "text": "Mantener la PAC, la pesca y el programa POSEI sin recortes en el marco financiero europeo 2028-2034.",
+     "source": {
+      "doc": "pp",
+      "page": 49
+     }
+    },
+    {
+     "text": "Crear un seguro de ingresos para agricultores y ganaderos, reformar la Ley de la Cadena Alimentaria y proteger al ganado del lobo conservando la especie.",
+     "source": {
+      "doc": "pp",
+      "page": 49
+     }
+    },
+    {
+     "text": "Exigir a los alimentos importados las mismas normas de seguridad y producción que a los productores españoles.",
+     "source": {
+      "doc": "pp",
+      "page": 50
+     }
+    },
+    {
+     "text": "Cobro por adelantado de hasta el 70% de la ayuda de la PAC a jóvenes que se incorporen y plan específico para la mujer rural y del mar.",
+     "source": {
+      "doc": "pp",
+      "page": 50
+     }
+    },
+    {
+     "text": "Reformar la Ley de Montes (gestión activa y menos papeleo), defender la caza y aprobar una nueva Ley de Costas.",
+     "source": {
+      "doc": "pp",
+      "page": 51
+     }
+    }
+   ]
+  },
+  "territorio": {
+   "summary": "Defiende el Estado de las Autonomías con reglas comunes: nueva financiación multilateral, sin regímenes bilaterales y con unidad del Estado.",
+   "points": [
+    {
+     "text": "Conferencia de Presidentes al inicio de la legislatura para un nuevo modelo de financiación autonómica, acordado en el Consejo de Política Fiscal y Financiera, y un fondo de nivelación transitorio.",
+     "source": {
+      "doc": "pp",
+      "page": 33
+     }
+    },
+    {
+     "text": "Ninguna comunidad saldrá del régimen común ni habrá nuevos regímenes singulares negociados bilateralmente.",
+     "source": {
+      "doc": "pp",
+      "page": 33
+     }
+    },
+    {
+     "text": "Cada comunidad responderá de su deuda; reestructuración multilateral y retirada gradual de los mecanismos extraordinarios de financiación.",
+     "source": {
+      "doc": "pp",
+      "page": 33
+     }
+    },
+    {
+     "text": "Nuevo sistema de financiación local, Estatuto de los Pequeños Municipios y ayudas directas a municipios de menos de 250 habitantes.",
+     "source": {
+      "doc": "pp",
+      "page": 34
+     }
+    },
+    {
+     "text": "Recuperar en el Código Penal el delito de sedición y el de convocatoria de referéndum ilegal.",
+     "source": {
+      "doc": "pp",
+      "page": 15
+     }
+    },
+    {
+     "text": "Plan Nacional de Presencia del Estado, con atención especial al País Vasco, Navarra y Cataluña, y blindaje de la unidad de la Agencia Tributaria.",
+     "source": {
+      "doc": "pp",
+      "page": 15
+     }
+    },
+    {
+     "text": "El castellano será lengua de trabajo en el Congreso y en los órganos de cooperación con las comunidades; se mantienen las lenguas cooficiales en el Senado.",
+     "source": {
+      "doc": "pp",
+      "page": 37
+     }
+    }
+   ]
+  },
+  "instituciones": {
+   "summary": "Reforma de instituciones, justicia y seguridad para limitar el poder del Gobierno, endurecer penas y combatir la corrupción.",
+   "points": [
+    {
+     "text": "Auditoría de todo el gasto y la Administración en los primeros cien días.",
+     "source": {
+      "doc": "pp",
+      "page": 12
+     }
+    },
+    {
+     "text": "Derogar la Ley de Amnistía, prohibir usar el indulto como contraprestación política y no indultar a condenados por corrupción o terrorismo.",
+     "source": {
+      "doc": "pp",
+      "page": 25
+     }
+    },
+    {
+     "text": "Dos prórrogas presupuestarias consecutivas obligarán a convocar elecciones.",
+     "source": {
+      "doc": "pp",
+      "page": 26
+     }
+    },
+    {
+     "text": "Fiscal general con mandato único de cinco años y los doce vocales judiciales del CGPJ elegidos por los propios jueces.",
+     "source": {
+      "doc": "pp",
+      "page": 27
+     }
+    },
+    {
+     "text": "Refundar el CIS, reformar RTVE y EFE y fijar por ley el mandato del presidente del INE para asegurar su independencia.",
+     "source": {
+      "doc": "pp",
+      "page": 27
+     }
+    },
+    {
+     "text": "Restablecer las penas por malversación y crear un sistema único de trazabilidad digital de contratos y subvenciones.",
+     "source": {
+      "doc": "pp",
+      "page": 28
+     }
+    },
+    {
+     "text": "Reformar el delito de desórdenes públicos, recuperar la agravante de rostro cubierto y subir a 3.000 euros la multa mínima por vandalismo en disturbios.",
+     "source": {
+      "doc": "pp",
+      "page": 16
+     }
+    },
+    {
+     "text": "Ampliar la prisión permanente revisable a quien oculte el cadáver de su víctima y a depredadores sexuales reincidentes; reformar la Ley del Menor.",
+     "source": {
+      "doc": "pp",
+      "page": 17
+     }
+    }
+   ]
+  },
+  "exterior": {
+   "summary": "Política exterior de Estado, anclada en la UE, la OTAN y el vínculo atlántico, con más inversión en defensa.",
+   "points": [
+    {
+     "text": "Ley de programación y financiación de la defensa y aumento de efectivos, con reconocimiento de profesión de riesgo para las Fuerzas Armadas.",
+     "source": {
+      "doc": "pp",
+      "page": 21
+     }
+    },
+    {
+     "text": "Reforzar los contingentes en la OTAN y el despliegue militar en Ceuta, Melilla y Canarias; impulsar la industria de defensa (drones, antiaérea, ciberdefensa).",
+     "source": {
+      "doc": "pp",
+      "page": 21
+     }
+    },
+    {
+     "text": "Defender en el presupuesto europeo 2028-2034 que la PAC y la cohesión sigan siendo políticas propias y sin recortes, y financiar la defensa europea con compras conjuntas.",
+     "source": {
+      "doc": "pp",
+      "page": 56
+     }
+    },
+    {
+     "text": "Apoyo político, económico, militar y humanitario a Ucrania y mantener las sanciones a Rusia.",
+     "source": {
+      "doc": "pp",
+      "page": 56
+     }
+    },
+    {
+     "text": "Recuperar el vínculo transatlántico con EE. UU. y hacer de Iberoamérica un socio prioritario.",
+     "source": {
+      "doc": "pp",
+      "page": 56
+     }
+    },
+    {
+     "text": "Reducir dependencias exteriores y defender en Europa una política comercial que proteja a las empresas; China se define como socio, competidor y rival sistémico.",
+     "source": {
+      "doc": "pp",
+      "page": 57
+     }
+    },
+    {
+     "text": "Auditar y redirigir la cooperación al desarrollo, y apoyar la transición democrática en Cuba, Nicaragua y Venezuela.",
+     "source": {
+      "doc": "pp",
+      "page": 57
+     }
+    }
+   ]
+  },
+  "cultura": {
+   "summary": "Cultura 'en libertad', patrimonio y tradiciones, junto con protección de menores en el entorno digital y apoyo a la IA y la innovación.",
+   "points": [
+    {
+     "text": "Acabar con la censura y la cultura de la cancelación y garantizar pluralidad en jurados e instituciones culturales públicas.",
+     "source": {
+      "doc": "pp",
+      "page": 38
+     }
+    },
+    {
+     "text": "Nueva Ley de Mecenazgo y actualización de las leyes de protección del patrimonio.",
+     "source": {
+      "doc": "pp",
+      "page": 38
+     }
+    },
+    {
+     "text": "Proteger fiestas y tradiciones populares y restituir el Premio Nacional de Tauromaquia.",
+     "source": {
+      "doc": "pp",
+      "page": 38
+     }
+    },
+    {
+     "text": "Reforzar el Instituto Cervantes y la proyección internacional del español.",
+     "source": {
+      "doc": "pp",
+      "page": 38
+     }
+    },
+    {
+     "text": "Ningún menor de 14 años con cuenta en redes sociales y autorización de los padres hasta los 16, con verificación de edad obligatoria.",
+     "source": {
+      "doc": "pp",
+      "page": 45
+     }
+    },
+    {
+     "text": "Apoyar la aplicación de la inteligencia artificial en pymes y crear zonas de innovación estratégica con trato fiscal favorable durante siete años.",
+     "source": {
+      "doc": "pp",
+      "page": 48
+     }
+    },
+    {
+     "text": "Derogar la Ley de Memoria Democrática y sustituirla por una ley de concordia.",
+     "source": {
+      "doc": "pp",
+      "page": 37
+     }
+    }
+   ]
+  },
+  "otros": {
+   "summary": "Incluye infraestructuras, emergencias, familia y deporte, que no encajan en los demás temas.",
+   "points": [
+    {
+     "text": "Plan Nacional de Infraestructuras de más de 300.000 millones de euros en 15 años junto al sector privado: autovías, alta velocidad, Cercanías y agua.",
+     "source": {
+      "doc": "pp",
+      "page": 36
+     }
+    },
+    {
+     "text": "Prioridad al mantenimiento ferroviario y de carreteras (más de 26.500 km de red estatal) y recuperar la fiabilidad del AVE.",
+     "source": {
+      "doc": "pp",
+      "page": 36
+     }
+    },
+    {
+     "text": "Crear un mando único de protección civil y emergencias y un nuevo Plan Nacional de Emergencias.",
+     "source": {
+      "doc": "pp",
+      "page": 20
+     }
+    },
+    {
+     "text": "Ley de Reconstrucción con ayuda inmediata exenta de impuestos para los afectados por catástrofes.",
+     "source": {
+      "doc": "pp",
+      "page": 21
+     }
+    },
+    {
+     "text": "Escuela infantil de 0 a 3 años gratuita al terminar la legislatura, con financiación al 50% entre el Estado y las comunidades.",
+     "source": {
+      "doc": "pp",
+      "page": 44
+     }
+    },
+    {
+     "text": "Refundir las deducciones familiares del IRPF en una sola, reembolsable y con abono mensual.",
+     "source": {
+      "doc": "pp",
+      "page": 43
+     }
+    },
+    {
+     "text": "Defender que España albergue la final del Mundial de fútbol de 2030 y condicionar la participación a ello.",
+     "source": {
+      "doc": "pp",
+      "page": 39
+     }
+    }
+   ]
+  }
+ },
+ "distinctive": [
+  {
+   "topic": "inmigracion",
+   "text": "Prohibir por ley las regularizaciones masivas e indiscriminadas y convertir el arraigo en una vía excepcional.",
+   "why": "Rompe con el modelo actual, en el que el arraigo es una vía habitual de regularización; es de los pocos programas que plantean prohibirlo por ley.",
+   "source": {
+    "doc": "pp",
+    "page": 19
+   }
+  },
+  {
+   "topic": "inmigracion",
+   "text": "Prohibir el uso del burka y el niqab en los espacios públicos.",
+   "why": "Es una prohibición de vestimenta en la vía pública, poco habitual en los programas de los grandes partidos.",
+   "source": {
+    "doc": "pp",
+    "page": 19
+   }
+  },
+  {
+   "topic": "territorio",
+   "text": "Recuperar el delito de sedición y el de convocatoria de referéndum ilegal en el Código Penal.",
+   "why": "Revierte reformas penales recientes y refuerza la respuesta penal frente a procesos de independencia.",
+   "source": {
+    "doc": "pp",
+    "page": 15
+   }
+  },
+  {
+   "topic": "instituciones",
+   "text": "Derogar la Ley de Amnistía y prohibir el uso del derecho de gracia como contraprestación para formar Gobierno.",
+   "why": "Plantea anular una ley vigente y limitar por ley el uso político del indulto.",
+   "source": {
+    "doc": "pp",
+    "page": 25
+   }
+  },
+  {
+   "topic": "instituciones",
+   "text": "Que los jueces elijan a los doce vocales judiciales del CGPJ y que dos prórrogas presupuestarias obliguen a convocar elecciones.",
+   "why": "Cambia la forma de elegir el órgano de gobierno de los jueces y propone un mecanismo automático de disolución de las Cortes que hoy no existe.",
+   "source": {
+    "doc": "pp",
+    "page": 27
+   }
+  },
+  {
+   "topic": "medioambiente",
+   "text": "Eliminar el calendario de cierre de las cinco centrales nucleares y aprobar una estrategia nacional de energía nuclear.",
+   "why": "Revierte el calendario de cierre acordado y sitúa la energía nuclear junto a las renovables como pilar del sistema.",
+   "source": {
+    "doc": "pp",
+    "page": 54
+   }
+  },
+  {
+   "topic": "vivienda",
+   "text": "Derogar la Ley de Vivienda, eliminando las zonas tensionadas y el índice de precios del alquiler.",
+   "why": "Suprime el sistema de control de alquileres vigente y lo sustituye por incentivos fiscales y más oferta de suelo.",
+   "source": {
+    "doc": "pp",
+    "page": 42
+   }
+  },
+  {
+   "topic": "cultura",
+   "text": "Ningún menor de 14 años podrá tener cuenta en redes sociales y hasta los 16 se necesitará autorización de los padres.",
+   "why": "Fija edades mínimas legales con verificación obligatoria y sanciones a las plataformas proporcionales a su facturación.",
+   "source": {
+    "doc": "pp",
+    "page": 45
+   }
+  }
+ ],
+ "glossary": [
+  {
+   "term": "SMI",
+   "definition": "Salario Mínimo Interprofesional: el sueldo más bajo que se puede pagar por ley a jornada completa."
+  },
+  {
+   "term": "IRPF",
+   "definition": "Impuesto sobre la Renta de las Personas Físicas: el impuesto que pagamos por lo que ganamos."
+  },
+  {
+   "term": "Deflactar",
+   "definition": "Ajustar los tramos del impuesto a la inflación para que no se pague más solo porque suben los precios."
+  },
+  {
+   "term": "AIReF",
+   "definition": "Autoridad Independiente de Responsabilidad Fiscal: organismo que vigila las cuentas públicas y el cumplimiento de las reglas fiscales."
+  },
+  {
+   "term": "Silencio administrativo positivo",
+   "definition": "Si la Administración no responde en plazo, la solicitud se considera aprobada."
+  },
+  {
+   "term": "Prisión permanente revisable",
+   "definition": "Pena de cadena perpetua que se revisa tras un mínimo de años para decidir si el preso puede salir."
+  },
+  {
+   "term": "Ley de Amnistía",
+   "definition": "Ley que borra responsabilidades penales de ciertos delitos, aprobada en relación con el proceso independentista catalán."
+  },
+  {
+   "term": "CGPJ",
+   "definition": "Consejo General del Poder Judicial: órgano de gobierno de los jueces."
+  },
+  {
+   "term": "Suplicatorio",
+   "definition": "Permiso que las Cortes deben dar para poder procesar a un diputado o senador."
+  },
+  {
+   "term": "Aforamiento",
+   "definition": "Privilegio por el que ciertos cargos solo pueden ser juzgados por tribunales superiores."
+  },
+  {
+   "term": "Pacto de Toledo",
+   "definition": "Comisión parlamentaria donde los partidos acuerdan reformas de las pensiones."
+  },
+  {
+   "term": "PAC",
+   "definition": "Política Agraria Común: ayudas de la Unión Europea a agricultores y ganaderos."
+  },
+  {
+   "term": "LOMLOE",
+   "definition": "Ley educativa vigente desde 2020, también llamada 'ley Celaá'."
+  },
+  {
+   "term": "Arraigo",
+   "definition": "Vía para obtener un permiso de residencia en España tras vivir aquí un tiempo, aunque se haya entrado sin papeles."
+  },
+  {
+   "term": "PISA",
+   "definition": "Prueba internacional de la OCDE que mide el nivel de lectura, matemáticas y ciencias de los alumnos de 15 años."
+  }
+ ]
+}

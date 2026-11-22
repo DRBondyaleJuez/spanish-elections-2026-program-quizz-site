@@ -1,0 +1,202 @@
+{
+  "party": "vox",
+  "overview": "El programa de VOX (\"Es sentido común\") propone una bajada general de impuestos, la reducción del gasto y la burocracia, y un giro en inmigración con el principio de \"prioridad nacional\": los españoles primero en vivienda y ayudas. También plantea derogar leyes del Gobierno actual (vivienda, laboral, género, memoria democrática, educativa) y oponerse al Pacto Verde y la Agenda 2030.",
+  "topics": {
+    "vivienda": {
+      "summary": "Aumentar la oferta construyendo más, dar prioridad nacional en vivienda protegida y reducir impuestos a la compra, con medidas duras contra la okupación.",
+      "points": [
+        { "text": "Reforma de la Ley del Suelo para ampliar el suelo disponible, agilizar trámites y construir más vivienda nueva de forma sostenida. Derogación de la Ley de Vivienda.", "source": { "doc": "vox", "page": 23 } },
+        { "text": "\"Prioridad nacional\": los españoles tendrán preferencia para acceder a vivienda protegida, social o ayudas al alquiler.", "source": { "doc": "vox", "page": 23 } },
+        { "text": "Más inversión pública en vivienda protegida, con cesiones de suelo, subvenciones, avales y créditos blandos, y colaboración público-privada.", "source": { "doc": "vox", "page": 23 } },
+        { "text": "Desalojo de la vivienda okupada en menos de 24 horas, asistencia jurídica gratuita al propietario y la \"inquiocupación\" tipificada como delito de estafa.", "source": { "doc": "vox", "page": 24 } },
+        { "text": "IVA del 0% en la compra de la primera vivienda nueva y bonificación del 100% del ITP en la de segunda mano; se recupera la deducción por vivienda habitual.", "source": { "doc": "vox", "page": 24 } },
+        { "text": "Prohibir alquilar a inmigrantes ilegales, exigiendo comprobar la residencia legal en los contratos, y fiscalidad agravada para compradores no comunitarios y fondos especulativos.", "source": { "doc": "vox", "page": 25 } }
+      ]
+    },
+    "empleo": {
+      "summary": "Derogar la legislación laboral actual y fomentar el empleo estable mediante menos impuestos, reindustrialización y apoyo a autónomos y turismo.",
+      "points": [
+        { "text": "Derogar la legislación laboral del Gobierno de Sánchez, a la que atribuye más precariedad y menor contratación.", "source": { "doc": "vox", "page": 13 } },
+        { "text": "Objetivo de trabajo estable y salarios mejores para que los jóvenes españoles puedan emanciparse y formar una familia.", "source": { "doc": "vox", "page": 12 } },
+        { "text": "Cuota de autónomos de cero euros si los ingresos no llegan al SMI y, por encima, cuota progresiva desde 50 euros.", "source": { "doc": "vox", "page": 9 } },
+        { "text": "Fomento del turismo con empleos de calidad, incluido el rural, de montaña e interior, con medidas fiscales y de promoción.", "source": { "doc": "vox", "page": 13 } },
+        { "text": "Impulso de la inteligencia artificial en empresas y formación de trabajadores y jóvenes para las nuevas oportunidades de empleo.", "source": { "doc": "vox", "page": 27 } },
+        { "text": "Medidas de conciliación y recuperación laboral de madres que interrumpieron su carrera (\"brecha maternal\"), con incentivos a las empresas.", "source": { "doc": "vox", "page": 52 } }
+      ]
+    },
+    "economia": {
+      "summary": "Rebajar de forma amplia los impuestos, recortar el gasto y la burocracia, y reindustrializar el país.",
+      "points": [
+        { "text": "Bajar y simplificar el IRPF (con un tipo menor según el número de hijos), rebajar el IVA reducido y general en productos básicos y reducir el Impuesto de Sociedades.", "source": { "doc": "vox", "page": 9 } },
+        { "text": "Reducir la deuda pública controlando el déficit y eliminando el gasto \"superfluo e ideológico\". Auditoría de las administraciones y recorte de gastos no imprescindibles.", "source": { "doc": "vox", "page": 29 } },
+        { "text": "Reducir progresivamente hasta eliminarlas las subvenciones a partidos, sindicatos, patronales, ONG y observatorios.", "source": { "doc": "vox", "page": 29 } },
+        { "text": "Plan Nacional de Reindustrialización contra las deslocalizaciones y la pérdida de empleo industrial, y más inversión en I+D+i.", "source": { "doc": "vox", "page": 12 } },
+        { "text": "Derogar tres normas por cada nueva ley, silencio administrativo positivo, fin de la cita previa y ventanilla y dato único en la Administración.", "source": { "doc": "vox", "page": 28 } },
+        { "text": "Ley de Unidad de Mercado: lo que es legal en una comunidad autónoma lo será en toda España sin trámites adicionales.", "source": { "doc": "vox", "page": 28 } },
+        { "text": "Fiscalidad mínima en zonas en riesgo de despoblación; rebaja del IGIC y supresión del AIEM en Canarias, y mejor complemento de insularidad.", "source": { "doc": "vox", "page": 10 } }
+      ]
+    },
+    "pensiones": {
+      "summary": "Sostener las pensiones mediante más crecimiento, empleo y natalidad, y centrar las ayudas sociales en los españoles.",
+      "points": [
+        { "text": "Garantizar la sostenibilidad de las pensiones con una economía más productiva, mejores salarios y más empleo.", "source": { "doc": "vox", "page": 10 } },
+        { "text": "Apoyo a las familias y fomento de la natalidad para revertir el envejecimiento de la población, como base de las pensiones futuras.", "source": { "doc": "vox", "page": 11 } },
+        { "text": "El Ingreso Mínimo Vital atenderá solo a los españoles con menos recursos y se promoverá el retorno de inmigrantes que lo cobren.", "source": { "doc": "vox", "page": 19 } },
+        { "text": "Cotización a la Seguridad Social pagada por el Estado a los españoles dedicados al cuidado de sus hijos, para que no se penalice su jubilación.", "source": { "doc": "vox", "page": 51 } },
+        { "text": "Más presupuesto en dependencia, ayudas al cuidado en casa, plazas de residencia y programas contra la soledad no deseada.", "source": { "doc": "vox", "page": 52 } }
+      ]
+    },
+    "sanidad": {
+      "summary": "Una sanidad igual en toda España, con más medios y profesionales, y atención reservada a residentes legales salvo urgencias graves.",
+      "points": [
+        { "text": "Tarjeta sanitaria única con historia clínica compartida en toda España. El desconocimiento de lenguas regionales no podrá impedir acceder a plazas sanitarias.", "source": { "doc": "vox", "page": 37 } },
+        { "text": "Plan nacional para reducir listas de espera, con colaboración público-privada cuando ayude a reducir demoras y publicación periódica de indicadores.", "source": { "doc": "vox", "page": 37 } },
+        { "text": "Refuerzo de la atención primaria y pediátrica, con atención especial a zonas rurales.", "source": { "doc": "vox", "page": 37 } },
+        { "text": "Mejora de salarios, guardias y carrera profesional; incentivos para plazas de difícil cobertura, plan de retorno de sanitarios que se fueron al extranjero y fin del turismo sanitario.", "source": { "doc": "vox", "page": 38 } },
+        { "text": "Excluir de la sanidad a los extranjeros en situación ilegal salvo urgencia grave y auditar el coste de la inmigración en la sanidad pública.", "source": { "doc": "vox", "page": 19 } },
+        { "text": "Mapa de infraestructuras sanitarias urgentes, Red de Centros Nacionales de Oncología y refuerzo de las estrategias nacionales de cáncer y salud mental.", "source": { "doc": "vox", "page": 38 } }
+      ]
+    },
+    "educacion": {
+      "summary": "Unificar el sistema educativo en toda España, derogar la LOMLOE y reforzar la exigencia, la libre elección de centro y la prioridad nacional.",
+      "points": [
+        { "text": "Derogar la LOMLOE, eliminar contenidos \"ideológicos\", potenciar matemáticas, lectura, humanidades y ciencias, y prohibir los móviles en clase.", "source": { "doc": "vox", "page": 41 } },
+        { "text": "Currículo, evaluaciones e inspección unificados a nivel nacional, reválidas y EVAU única, y educación garantizada en español en todo el territorio.", "source": { "doc": "vox", "page": 41 } },
+        { "text": "Libre elección de centro educativo en todos los niveles, con distrito único, y apuesta por la Formación Profesional.", "source": { "doc": "vox", "page": 42 } },
+        { "text": "Mejora del sistema de becas universitarias y preuniversitarias para que nadie deje de estudiar por falta de recursos.", "source": { "doc": "vox", "page": 41 } },
+        { "text": "Máximo de alumnos de otras culturas o con poco español por aula y aulas de nivelación antes de integrarse en su clase.", "source": { "doc": "vox", "page": 42 } },
+        { "text": "Prioridad nacional en la elección de centro, ayudas educativas, guardería y becas de comedor y transporte.", "source": { "doc": "vox", "page": 42 } },
+        { "text": "Garantizar la libertad de cátedra en la universidad y plan nacional contra el acoso escolar y el ciberacoso.", "source": { "doc": "vox", "page": 42 } }
+      ]
+    },
+    "igualdad": {
+      "summary": "Sustituir las leyes de género actuales por otras de protección a las víctimas de violencia, y reforzar la familia y el derecho a la vida.",
+      "points": [
+        { "text": "Derogar las \"leyes de género\", que según el programa criminalizan a los hombres y desprotegen a las mujeres, y aprobar normas de protección a las víctimas de violencia.", "source": { "doc": "vox", "page": 30 } },
+        { "text": "Mencionan el fenómeno creciente de denuncias falsas como un perjuicio para familias enteras.", "source": { "doc": "vox", "page": 30 } },
+        { "text": "Defensa del derecho a la vida \"desde su concepción hasta la muerte natural\", objeción de conciencia de sanitarios y farmacéuticos y más cuidados paliativos.", "source": { "doc": "vox", "page": 52 } },
+        { "text": "Salud de las mujeres: refuerzo del diagnóstico precoz del cáncer de mama y ginecológico y atención en embarazo, parto y posparto.", "source": { "doc": "vox", "page": 38 } },
+        { "text": "El deporte femenino debe regirse por \"criterios biológicos y deportivos objetivos\".", "source": { "doc": "vox", "page": 43 } },
+        { "text": "Prohibición del burka y el niqab en espacios públicos y en lugares donde se presten servicios públicos.", "source": { "doc": "vox", "page": 42 } }
+      ]
+    },
+    "inmigracion": {
+      "summary": "Frenar la inmigración y devolver a quienes estén en situación irregular, con prohibición de regularizaciones y recorte de ayudas a ONG y países.",
+      "points": [
+        { "text": "\"Ni uno más\": no acoger más inmigrantes tras los 5 millones llegados en 5 años; prohibición de regularizaciones masivas y de regularizar a quien entró ilegalmente.", "source": { "doc": "vox", "page": 15 } },
+        { "text": "Suprimir el arraigo y las pasarelas rápidas a la nacionalidad, endurecer requisitos y ampliar la pérdida de nacionalidad a españoles no de origen por delitos graves o reiterados.", "source": { "doc": "vox", "page": 15 } },
+        { "text": "Repatriar a quienes estén en situación ilegal y \"remigración\": plan para facilitar el retorno de extranjeros que no contribuyan o vivan de subsidios.", "source": { "doc": "vox", "page": 15 } },
+        { "text": "Deportación de quienes cometan delitos graves o hagan del delito leve su forma de vida, o traten de imponer costumbres incompatibles con la dignidad de las mujeres.", "source": { "doc": "vox", "page": 15 } },
+        { "text": "Devolver a los menores extranjeros no acompañados a sus familias o instituciones de tutela de su país de origen.", "source": { "doc": "vox", "page": 15 } },
+        { "text": "Eliminar subvenciones a ONG que promuevan o faciliten la inmigración ilegal y retirar la cooperación al desarrollo a países que no colaboren en gestionar los flujos.", "source": { "doc": "vox", "page": 16 } },
+        { "text": "Gravamen sobre las remesas al extranjero y supresión de toda ayuda social a inmigrantes ilegales.", "source": { "doc": "vox", "page": 19 } }
+      ]
+    },
+    "medioambiente": {
+      "summary": "Revertir las políticas climáticas europeas y apostar por la energía nuclear y los recursos propios, con menos restricciones ambientales.",
+      "points": [
+        { "text": "Recuperar el plan nuclear: derogar el calendario de cierre de las centrales actuales y estudiar nuevas centrales junto a las existentes.", "source": { "doc": "vox", "page": 12 } },
+        { "text": "Revertir normas inspiradas en el Pacto Verde Europeo y la Agenda 2030, como la prohibición de motores de combustión y los impuestos a las emisiones de CO2.", "source": { "doc": "vox", "page": 12 } },
+        { "text": "Acabar con las imposiciones climáticas, incluidas las Zonas de Bajas Emisiones (ZBE), por limitar la libertad de circulación.", "source": { "doc": "vox", "page": 29 } },
+        { "text": "Bajada masiva de impuestos de la electricidad, fin de la doble imposición y \"Plan Nacional de Soberanía Energética\"; sin tope a la inversión en redes eléctricas.", "source": { "doc": "vox", "page": 11 } },
+        { "text": "Fin de las restricciones para explorar y explotar recursos naturales y yacimientos minerales.", "source": { "doc": "vox", "page": 12 } },
+        { "text": "Impedir la instalación descontrolada de macroplantas solares y eólicas sobre suelo agrícola, y revisar restricciones ambientales que dificultan la prevención de incendios.", "source": { "doc": "vox", "page": 34 } }
+      ]
+    },
+    "rural": {
+      "summary": "Proteger al sector primario frente a Bruselas y la competencia exterior, con más apoyo, menos trabas y obras hidráulicas.",
+      "points": [
+        { "text": "Rechazo explícito al acuerdo UE-Mercosur, cláusulas espejo, preferencia comunitaria y más controles en frontera y contra el fraude en el etiquetado.", "source": { "doc": "vox", "page": 33 } },
+        { "text": "Fondo de compensación para mitigar el impacto de normas de Bruselas, desastres naturales o circunstancias adversas.", "source": { "doc": "vox", "page": 33 } },
+        { "text": "Rechazo a la reducción del presupuesto de la PAC y reparto de fondos con una variable que prime la despoblación.", "source": { "doc": "vox", "page": 34 } },
+        { "text": "Revisión de la Política Pesquera Común, de las cuotas y restricciones, y apoyo a la modernización de la flota y al relevo generacional.", "source": { "doc": "vox", "page": 34 } },
+        { "text": "Lucha contra incendios con limpieza de montes, más medios y coordinación, y endurecimiento de las penas a incendiarios. Defensa de la caza.", "source": { "doc": "vox", "page": 34 } },
+        { "text": "Declaración responsable y silencio administrativo positivo en trámites del medio rural, apoyo a jóvenes agricultores y refuerzo de los seguros agrarios.", "source": { "doc": "vox", "page": 35 } },
+        { "text": "Plan Nacional del Agua con interconexión de todas las cuencas y modernización de regadíos.", "source": { "doc": "vox", "page": 61 } }
+      ]
+    },
+    "territorio": {
+      "summary": "Reforzar la unidad nacional y la igualdad entre territorios, con un mercado único y respuesta penal a quien atente contra la integridad territorial.",
+      "points": [
+        { "text": "Ley de Unidad de Mercado: una misma actividad no podrá tener requisitos distintos por territorio y lo legal en una comunidad lo será en toda España.", "source": { "doc": "vox", "page": 28 } },
+        { "text": "Recuperar el delito de sedición y prohibir los indultos en delitos de corrupción política, de la forma política del Estado o de integridad territorial.", "source": { "doc": "vox", "page": 55 } },
+        { "text": "Ilegalización de partidos y organizaciones que atenten contra la soberanía, unidad e integridad territorial de España.", "source": { "doc": "vox", "page": 56 } },
+        { "text": "Garantizar la calidad de los servicios públicos y la igualdad de derechos con independencia del lugar de residencia, sobre todo en educación, sanidad, seguridad y justicia.", "source": { "doc": "vox", "page": 20 } },
+        { "text": "Educación en español garantizada en todo el territorio, con currículo e inspección unificados.", "source": { "doc": "vox", "page": 41 } },
+        { "text": "Fiscalidad mínima y diferenciada en zonas en riesgo de despoblación.", "source": { "doc": "vox", "page": 10 } }
+      ]
+    },
+    "instituciones": {
+      "summary": "Despolitizar la justicia, endurecer penas y la lucha contra la corrupción, y reforzar fuerzas de seguridad y libertad de expresión.",
+      "points": [
+        { "text": "Reformar la Ley Orgánica del Poder Judicial para que los doce vocales judiciales del CGPJ sean elegidos por los propios jueces y magistrados con voto directo y secreto.", "source": { "doc": "vox", "page": 55 } },
+        { "text": "Sacar el Tribunal Constitucional de la influencia política y garantizar la idoneidad e independencia del Fiscal General del Estado.", "source": { "doc": "vox", "page": 55 } },
+        { "text": "Auditoría integral de las administraciones para detectar corrupción y responsabilidad patrimonial personal de los cargos condenados por corrupción con todos sus bienes.", "source": { "doc": "vox", "page": 57 } },
+        { "text": "Ampliar la prisión permanente revisable y bajar la edad de responsabilidad penal del menor, con posible fin de la inimputabilidad en delitos violentos graves.", "source": { "doc": "vox", "page": 45 } },
+        { "text": "Reforma de RTVE para informar con objetividad y pluralidad, y garantía de la libertad de expresión.", "source": { "doc": "vox", "page": 58 } },
+        { "text": "Equiparación salarial y reconocimiento como profesión de riesgo para Guardia Civil, Policía Nacional y funcionarios de prisiones, y restablecer el OCON Sur contra el narcotráfico.", "source": { "doc": "vox", "page": 46 } },
+        { "text": "Ley contra el enaltecimiento del terrorismo, ETA como crímenes de lesa humanidad imprescriptibles y fin de privilegios penitenciarios a condenados por terrorismo.", "source": { "doc": "vox", "page": 57 } }
+      ]
+    },
+    "exterior": {
+      "summary": "Priorizar el interés nacional en política exterior, reforzar la defensa y las fronteras y oponerse a imposiciones de Bruselas.",
+      "points": [
+        { "text": "Recuperar la soberanía sobre Gibraltar con presión internacional, desmantelar redes de contrabando y blanqueo, y un plan de inversiones para el Campo de Gibraltar.", "source": { "doc": "vox", "page": 48 } },
+        { "text": "Sanciones, suspensión de acuerdos y revisión de relaciones diplomáticas con Marruecos hasta que respete las fronteras de España.", "source": { "doc": "vox", "page": 7 } },
+        { "text": "Aumentar la inversión en Defensa, mejorar sueldos y ayudas de vivienda y reconocer el servicio en las Fuerzas Armadas como profesión de riesgo.", "source": { "doc": "vox", "page": 47 } },
+        { "text": "Protección permanente de las fronteras con participación de las Fuerzas Armadas y militarización de la frontera de Ceuta y Melilla.", "source": { "doc": "vox", "page": 46 } },
+        { "text": "Suspender la aplicación en España de acuerdos internacionales que, según el programa, impiden su desarrollo productivo.", "source": { "doc": "vox", "page": 11 } },
+        { "text": "Reforzar la ciberseguridad y la protección de infraestructuras críticas, y defender la soberanía frente a injerencias extranjeras.", "source": { "doc": "vox", "page": 47 } }
+      ]
+    },
+    "cultura": {
+      "summary": "Promover la cultura y la historia comunes de España, la tauromaquia y el patrimonio, y despolitizar el deporte.",
+      "points": [
+        { "text": "Promoción de la cultura nacional, la historia común y el patrimonio, con atención al medio rural, iglesias y monumentos.", "source": { "doc": "vox", "page": 42 } },
+        { "text": "Nueva Ley de Mecenazgo con mayores deducciones en el IRPF y menos impuestos para el arte y los espectáculos en vivo.", "source": { "doc": "vox", "page": 43 } },
+        { "text": "Defensa y promoción de la tauromaquia.", "source": { "doc": "vox", "page": 43 } },
+        { "text": "Despolitizar el deporte y garantizar que las selecciones nacionales representen a España, con becas a deportistas y apoyo a clubes y federaciones.", "source": { "doc": "vox", "page": 43 } },
+        { "text": "Impulsar la inteligencia artificial en la economía y la Administración, manteniendo siempre la atención presencial.", "source": { "doc": "vox", "page": 27 } },
+        { "text": "Protección de menores frente a riesgos digitales como la adicción al juego o la pornografía.", "source": { "doc": "vox", "page": 52 } }
+      ]
+    },
+    "otros": {
+      "summary": "Medidas sobre Ceuta y Melilla, familia y natalidad, símbolos nacionales y memoria histórica.",
+      "points": [
+        { "text": "Ceuta y Melilla: expulsión de los \"invasores\", militarización de la frontera, plan de inversiones y llevar a la Justicia a Pedro Sánchez y su gobierno por su actuación en Ceuta.", "source": { "doc": "vox", "page": 7 } },
+        { "text": "Plan nacional de natalidad: ayudas de familia numerosa extendidas desde el primer hijo, gratuidad real de la educación infantil de 0 a 3 años y bonificación del 100% de la ayuda en el hogar.", "source": { "doc": "vox", "page": 51 } },
+        { "text": "Superar la Ley de Memoria Democrática por considerarla una ley ideológica que divide a los españoles.", "source": { "doc": "vox", "page": 30 } },
+        { "text": "Mayor protección jurídica y penas más duras por ofensas a la Bandera, el Escudo, el Himno y la Corona.", "source": { "doc": "vox", "page": 56 } },
+        { "text": "Auditoría del patrimonio inmobiliario del Estado y plan nacional de rehabilitación para vivienda y servicios públicos.", "source": { "doc": "vox", "page": 57 } },
+        { "text": "Limitar el importe de multas de tráfico y aparcamiento en infracciones que no comprometan gravemente la seguridad vial.", "source": { "doc": "vox", "page": 29 } }
+      ]
+    }
+  },
+  "distinctive": [
+    { "topic": "inmigracion", "text": "\"Remigración\": plan para facilitar el retorno a sus países de extranjeros que no contribuyan o vivan de subsidios, junto con la prohibición de regularizaciones masivas.", "why": "Es de los pocos programas que plantea el retorno organizado de población extranjera y la supresión del arraigo; rompe con el modelo actual de regularización.", "source": { "doc": "vox", "page": 15 } },
+    { "topic": "otros", "text": "\"Prioridad nacional\": acceso preferente de los españoles a vivienda pública, guarderías, ayudas, prestaciones y servicios sociales.", "why": "Establece la nacionalidad como criterio de preferencia en el acceso a servicios y ayudas públicas, algo que no recoge el modelo actual.", "source": { "doc": "vox", "page": 19 } },
+    { "topic": "economia", "text": "Derogar tres normas vigentes por cada nueva ley aprobada, con la obligación de identificarlas en el propio texto.", "why": "Introduce una regla de procedimiento legislativo poco habitual: una ley sin esa identificación no se tramita.", "source": { "doc": "vox", "page": 28 } },
+    { "topic": "vivienda", "text": "IVA del 0% y bonificación del 100% del ITP en la primera vivienda habitual de una familia española, con fiscalidad agravada para compradores no comunitarios.", "why": "Combina una exención casi total de impuestos a la compra con un trato fiscal distinto según nacionalidad o tipo de comprador.", "source": { "doc": "vox", "page": 24 } },
+    { "topic": "medioambiente", "text": "Derogar el calendario de cierre nuclear, estudiar nuevas centrales y revertir normas del Pacto Verde como la prohibición de motores de combustión y las ZBE.", "why": "Es de los pocos partidos que rechaza de forma frontal el Pacto Verde Europeo y propone ampliar la energía nuclear.", "source": { "doc": "vox", "page": 12 } },
+    { "topic": "igualdad", "text": "Derogar las leyes de género vigentes y sustituirlas por normas que protejan a las víctimas de violencia sin distinción.", "why": "Es de los pocos partidos que propone derogar por completo este marco legal en lugar de reformarlo.", "source": { "doc": "vox", "page": 30 } },
+    { "topic": "educacion", "text": "Prohibición del burka y el niqab en espacios públicos, fin de los menús halal en comedores escolares y eliminación del programa de Lengua Árabe y Cultura Marroquí.", "why": "Plantea prohibiciones específicas vinculadas a prácticas culturales y religiosas que no aparecen en otros programas.", "source": { "doc": "vox", "page": 42 } },
+    { "topic": "territorio", "text": "Ilegalización de partidos y organizaciones que atenten contra la unidad e integridad territorial de España, y recuperación del delito de sedición.", "why": "Va más lejos que otros programas al proponer la ilegalización de formaciones por su posición sobre la unidad territorial.", "source": { "doc": "vox", "page": 56 } }
+  ],
+  "glossary": [
+    { "term": "IRPF", "definition": "Impuesto sobre la Renta de las Personas Físicas: el impuesto que pagan los trabajadores y otras personas sobre sus ingresos anuales." },
+    { "term": "ITP", "definition": "Impuesto de Transmisiones Patrimoniales: impuesto que se paga al comprar una vivienda de segunda mano." },
+    { "term": "SMI", "definition": "Salario Mínimo Interprofesional: el sueldo más bajo que se puede pagar por ley a jornada completa." },
+    { "term": "Okupación e inquiocupación", "definition": "Okupación: ocupar una vivienda ajena sin permiso. Inquiocupación: dejar de pagar el alquiler y seguir viviendo en la casa como inquilino." },
+    { "term": "VUT", "definition": "Viviendas de Uso Turístico: pisos que se alquilan a turistas por periodos cortos." },
+    { "term": "Silencio administrativo positivo", "definition": "Si la Administración no responde en plazo a una solicitud, se entiende que la respuesta es favorable." },
+    { "term": "Pacto Verde Europeo y Agenda 2030", "definition": "Planes de la UE y la ONU con objetivos de lucha contra el cambio climático y desarrollo sostenible." },
+    { "term": "ZBE", "definition": "Zonas de Bajas Emisiones: áreas de las ciudades donde se limita la circulación de los vehículos más contaminantes." },
+    { "term": "Arraigo", "definition": "Vía legal para que una persona extranjera que lleva tiempo en España obtenga un permiso de residencia por sus vínculos con el país." },
+    { "term": "PAC", "definition": "Política Agrícola Común: ayudas y normas de la UE para agricultores y ganaderos." },
+    { "term": "Cláusulas espejo", "definition": "Exigir a los productos importados las mismas normas que se imponen a los productores europeos." },
+    { "term": "LOMLOE", "definition": "Ley orgánica vigente de educación, aprobada en 2020, que modificó la ley educativa anterior." },
+    { "term": "CGPJ", "definition": "Consejo General del Poder Judicial: órgano de gobierno de los jueces." },
+    { "term": "Prisión permanente revisable", "definition": "Pena de cárcel de duración indefinida que se revisa tras un mínimo de años para decidir si el condenado sale." },
+    { "term": "Remigración", "definition": "Término del programa para un plan de retorno de extranjeros a sus países de origen." }
+  ]
+}

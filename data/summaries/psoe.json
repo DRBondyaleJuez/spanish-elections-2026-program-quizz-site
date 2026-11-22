@@ -1,0 +1,215 @@
+{
+  "party": "psoe",
+  "overview": "El PSOE plantea seguir con el modelo del Gobierno progresista desde 2018: crecimiento económico unido a más derechos, servicios públicos y menos desigualdad. Sus prioridades son la vivienda (1% del PIB al año y un parque público permanente), el empleo y los salarios, una sanidad y una educación públicas reforzadas, la transición ecológica y la regulación de la tecnología y la inteligencia artificial. Se financia con mayor tributación a grandes patrimonios, rentas del capital y grandes tecnológicas, dentro de las reglas fiscales europeas.",
+  "topics": {
+    "vivienda": {
+      "summary": "Combina construir vivienda pública permanente con regular el mercado y gravar la acumulación especulativa, con la vivienda como prioridad de la legislatura.",
+      "points": [
+        { "text": "Reformar la Constitución para que la vivienda sea un derecho fundamental que la ciudadanía pueda exigir a los poderes públicos, y movilizar cada año el 1% del PIB para vivienda asequible.", "source": { "doc": "psoe", "page": 27 } },
+        { "text": "Crear un parque público estatal de 100.000 viviendas a través de CASA 47, sumadas a las de comunidades y ayuntamientos, con suelo público y un banco estatal de suelo.", "source": { "doc": "psoe", "page": 28 } },
+        { "text": "Plan Estatal de Vivienda 2026-2030 para que al menos una cuarta parte de las viviendas nuevas sean públicas o protegidas con carácter permanente.", "source": { "doc": "psoe", "page": 27 } },
+        { "text": "Congelar temporalmente las rentas que superen los índices de referencia en zonas tensionadas y ampliar la duración de los contratos de alquiler.", "source": { "doc": "psoe", "page": 30 } },
+        { "text": "Mantener el programa TUCASA: préstamos de hasta 50.000 euros sin intereses para comprar la primera vivienda, con 10.000 millones de dotación ampliables.", "source": { "doc": "psoe", "page": 31 } },
+        { "text": "Impuesto progresivo sobre viviendas de grandes propietarios y fondos que estén vacías, en uso turístico o con alquiler abusivo, y un impuesto sobre solares residenciales ociosos.", "source": { "doc": "psoe", "page": 31 } },
+        { "text": "Permitir que los ayuntamientos cobren un recargo a las pernoctaciones en viviendas turísticas y crear registros de precios de alquiler y de fondos de inversión y SOCIMI.", "source": { "doc": "psoe", "page": 32 } },
+        { "text": "Mantener la protección frente a desahucios de familias vulnerables sin alternativa de vivienda, de modo que el coste lo asuman las administraciones y no el pequeño propietario.", "source": { "doc": "psoe", "page": 33 } }
+      ]
+    },
+    "empleo": {
+      "summary": "Propone seguir subiendo salarios y reducir la jornada, y reforzar los derechos laborales, el despido y la protección de becarios y autónomos.",
+      "points": [
+        { "text": "Blindar por ley que el SMI esté siempre por encima del 60% del salario medio y se actualice periódicamente, sin que se absorba con complementos.", "source": { "doc": "psoe", "page": 37 } },
+        { "text": "Completar la reducción de la jornada a 37,5 horas e incentivar en los convenios llegar a las 35 horas, con periodos transitorios para pymes y sin bajar el sueldo.", "source": { "doc": "psoe", "page": 41 } },
+        { "text": "Implantar un registro horario digital fiable y reforzar la Inspección de Trabajo para acabar con las horas extra ilegales y no pagadas.", "source": { "doc": "psoe", "page": 41 } },
+        { "text": "Reformar el despido improcedente para que la indemnización sea disuasoria y recuperar los salarios de tramitación en los casos que fije la ley.", "source": { "doc": "psoe", "page": 41 } },
+        { "text": "Aprobar un Estatuto del Becario, dar a los becarios protección por desempleo y crear un plan de inserción y emprendimiento juvenil.", "source": { "doc": "psoe", "page": 42 } },
+        { "text": "Si un contrato a tiempo parcial supera el 80% de la jornada ordinaria (con horas complementarias), se considerará a jornada completa; y se aprobará una Ley de Negociación Colectiva.", "source": { "doc": "psoe", "page": 43 } },
+        { "text": "Fomentar que las empresas repartan beneficios y mejoras de productividad con las plantillas, con un sello de Empresa con Productividad Compartida.", "source": { "doc": "psoe", "page": 38 } },
+        { "text": "Plan Nuevo Rumbo con incentivos para contratar a mayores de 45 años y garantizar la cuota de reserva del 2% de empleo para personas con discapacidad.", "source": { "doc": "psoe", "page": 43 } }
+      ]
+    },
+    "economia": {
+      "summary": "Apuesta por inversión pública y política industrial para ganar autonomía estratégica, y por una fiscalidad que grave más a grandes patrimonios, capital y grandes tecnológicas.",
+      "points": [
+        { "text": "Crear el Fondo España Crece para movilizar 120.000 millones de euros de inversión productiva cuando acaben los fondos europeos Next Generation.", "source": { "doc": "psoe", "page": 13 } },
+        { "text": "Aprobar una nueva Ley de Industria y Autonomía Estratégica para apoyar la industria limpia, el hidrógeno renovable, el almacenamiento y la economía circular.", "source": { "doc": "psoe", "page": 14 } },
+        { "text": "Presentar en la primavera de 2027 un nuevo Plan Fiscal y Estructural a medio plazo y mantener una senda decreciente de déficit y deuda.", "source": { "doc": "psoe", "page": 47 } },
+        { "text": "Subir la tributación de las rentas del capital a partir de 50.000 euros, con un tipo máximo del 35% para las superiores a 300.000 euros.", "source": { "doc": "psoe", "page": 48 } },
+        { "text": "Aprobar una Ley de Salarios Justos: pagarán más impuesto de sociedades las cotizadas donde el sueldo del primer ejecutivo supere 100 veces el salario mediano, con otro tramo desde 200 veces.", "source": { "doc": "psoe", "page": 48 } },
+        { "text": "Crear nuevos impuestos a grandes tecnológicas y a la IA, y una tasa a los viajes de lujo (megayates, jets privados y billetes business).", "source": { "doc": "psoe", "page": 48 } },
+        { "text": "Subir la tasa Tobin del 0,2% al 0,4% y convertir el mínimo por descendiente del IRPF en un crédito fiscal reembolsable que alcance a 2 millones de hogares.", "source": { "doc": "psoe", "page": 49 } },
+        { "text": "Crear la Autoridad de Defensa del Cliente Financiero, con reclamaciones gratuitas en 90 días y resoluciones vinculantes por debajo de 20.000 euros.", "source": { "doc": "psoe", "page": 39 } }
+      ]
+    },
+    "pensiones": {
+      "summary": "Quiere blindar las pensiones públicas y su revalorización con el IPC y ampliar la protección social con una prestación por crianza y un sistema de cuidados.",
+      "points": [
+        { "text": "Blindar en la Constitución el sistema público de pensiones y su revalorización con el IPC.", "source": { "doc": "psoe", "page": 40 } },
+        { "text": "Acelerar la cuota de solidaridad y buscar nuevas fuentes de financiación de la Seguridad Social, de modo que la productividad por automatización también aporte.", "source": { "doc": "psoe", "page": 39 } },
+        { "text": "Reducir la brecha de género en pensiones: reforzar el complemento por hijos y reconocer un año extra de cotización por cada hijo o hija.", "source": { "doc": "psoe", "page": 40 } },
+        { "text": "Crear una incapacidad temporal especial para personas con cáncer, con el 75% de la base reguladora desde el primer día.", "source": { "doc": "psoe", "page": 40 } },
+        { "text": "Crear una prestación estatal por crianza para todos los hogares con menores, más protección para los de renta baja, financiada con la tributación de grandes patrimonios y capital.", "source": { "doc": "psoe", "page": 56 } },
+        { "text": "Asignar al nacer una Cuenta de Futuro pública de 1.000 euros por niño o niña, disponible a los 18 años para estudios o proyectos propios.", "source": { "doc": "psoe", "page": 56 } },
+        { "text": "Aprobar la primera Ley de Servicios Sociales y aplicar la reforma de dependencia y discapacidad (Ley 4/2026) para reducir las listas de espera.", "source": { "doc": "psoe", "page": 57 } },
+        { "text": "Plan A Tu Lado: ayudas para ascensores y quitar barreras, y desde los 80 años una visita periódica a domicilio de enfermería o trabajo social.", "source": { "doc": "psoe", "page": 58 } }
+      ]
+    },
+    "sanidad": {
+      "summary": "Defiende una sanidad pública y universal con más financiación, menos listas de espera, límites a la privatización y nuevas prestaciones como la salud bucodental y la psicológica.",
+      "points": [
+        { "text": "Acabar con las listas de espera consolidando una financiación pública de la sanidad en torno al 7% del PIB.", "source": { "doc": "psoe", "page": 49 } },
+        { "text": "Plan Sonríe: incluir en la sanidad pública los tratamientos dentales básicos de adultos y dar mientras tanto una ayuda de hasta 200 euros al año por persona a rentas medias y bajas.", "source": { "doc": "psoe", "page": 49 } },
+        { "text": "Limitar la privatización haciendo de la gestión directa la modalidad preferente y aprobar una Ley de Buen Gobierno del Sistema Nacional de Salud.", "source": { "doc": "psoe", "page": 49 } },
+        { "text": "Garantizar atención psicológica gratuita en la sanidad pública, con una primera consulta en un máximo de 30 días.", "source": { "doc": "psoe", "page": 50 } },
+        { "text": "Reforzar la atención primaria y aprobar una Ley de Salud Digital con receta electrónica común y movilidad sanitaria entre comunidades.", "source": { "doc": "psoe", "page": 50 } },
+        { "text": "Garantizar la muerte digna y el ejercicio efectivo de la eutanasia según la ley vigente.", "source": { "doc": "psoe", "page": 50 } },
+        { "text": "Regular vapeadores y bolsas de nicotina: información de componentes, dosis máxima de nicotina y prohibición de sabores agradables.", "source": { "doc": "psoe", "page": 51 } }
+      ]
+    },
+    "educacion": {
+      "summary": "Apuesta por una educación pública gratuita de 0 a 18 años, más becas, un Estatuto del Docente y universidades públicas mejor financiadas.",
+      "points": [
+        { "text": "Universalizar la educación de 0 a 3 años con más escuelas infantiles públicas y menos alumnos por aula.", "source": { "doc": "psoe", "page": 51 } },
+        { "text": "Ampliar las becas, actualizar los umbrales de renta y contar doble al alumnado con necesidades educativas especiales para reducir la carga del profesorado.", "source": { "doc": "psoe", "page": 52 } },
+        { "text": "Aprobar el Estatuto del Docente, bajar el abandono escolar temprano del 10% antes de 2030 y llegar a un orientador por cada 250 estudiantes.", "source": { "doc": "psoe", "page": 52 } },
+        { "text": "Garantizar comedor escolar gratuito a todo el alumnado en situación de pobreza o exclusión social.", "source": { "doc": "psoe", "page": 53 } },
+        { "text": "Ampliar las plazas públicas de FP Media y Superior y crear titulaciones en IA, ciberseguridad y transición energética.", "source": { "doc": "psoe", "page": 53 } },
+        { "text": "Becas Erasmus de entre 1.000 y 1.500 euros al mes según ingresos e impulsar la gratuidad de la matrícula del primer curso de grado en universidades públicas.", "source": { "doc": "psoe", "page": 54 } },
+        { "text": "Aprobar una Ley de Equidad en el Acceso a la Universidad Pública con financiación plurianual vinculante y reforzar los requisitos de calidad de las universidades privadas.", "source": { "doc": "psoe", "page": 54 } }
+      ]
+    },
+    "igualdad": {
+      "summary": "Propone más derechos de igualdad y libertades, con foco en la violencia machista y digital, los derechos reproductivos, los derechos LGTBI y la lucha contra el odio.",
+      "points": [
+        { "text": "Reformar el artículo 43 de la Constitución para blindar el derecho a la interrupción voluntaria del embarazo en todo el territorio.", "source": { "doc": "psoe", "page": 81 } },
+        { "text": "Reforzar la prohibición de la gestación por sustitución y perseguir a quien intermedie o la promocione.", "source": { "doc": "psoe", "page": 81 } },
+        { "text": "Aprobar leyes orgánicas contra la violencia vicaria y contra la trata, y una Ley Orgánica Abolicionista del Sistema Prostitucional que prohíba el proxenetismo en todas sus formas.", "source": { "doc": "psoe", "page": 83 } },
+        { "text": "Tipificar como delito específico los deepfakes sexuales y obligar a las plataformas a retirar de inmediato las imágenes íntimas difundidas sin consentimiento.", "source": { "doc": "psoe", "page": 84 } },
+        { "text": "Aprobar una Ley de Usos del Tiempo de Trabajo (horarios racionales, desconexión digital) y retribuir los permisos parentales y por cuidados.", "source": { "doc": "psoe", "page": 80 } },
+        { "text": "Hacer obligatorias la coeducación y la educación afectivo-sexual en todas las etapas y ampliar las ayudas a huérfanos de la violencia de género hasta los 26 años.", "source": { "doc": "psoe", "page": 83 } },
+        { "text": "Desarrollar la Ley Zerolo con la Autoridad Independiente para la Igualdad de Trato y promover un Pacto de Estado contra los discursos y delitos de odio.", "source": { "doc": "psoe", "page": 93 } },
+        { "text": "Culminar la reforma del Código Penal para penalizar las llamadas terapias de conversión y garantizar la continuidad de los tratamientos hormonales de personas trans.", "source": { "doc": "psoe", "page": 97 } }
+      ]
+    },
+    "inmigracion": {
+      "summary": "Defiende una migración ordenada, legal y segura con vías de entrada simplificadas, integración con derechos y deberes y acogida humanitaria.",
+      "points": [
+        { "text": "Simplificar trámites, impulsar la contratación en origen y agilizar la homologación de títulos para facilitar el acceso al empleo de las personas migrantes.", "source": { "doc": "psoe", "page": 92 } },
+        { "text": "Desplegar el Plan de Integración y Ciudadanía 2026-2030 con una dotación inicial de 500 millones de euros.", "source": { "doc": "psoe", "page": 92 } },
+        { "text": "Ampliar las vías legales de protección internacional con reasentamiento y visados humanitarios, y reforzar el sistema público de acogida y asilo.", "source": { "doc": "psoe", "page": 92 } },
+        { "text": "Reforzar la acogida y protección de los menores que llegan solos, con el interés superior del menor como criterio, y una Unidad de Apoyo a la Infancia Migrante.", "source": { "doc": "psoe", "page": 93 } },
+        { "text": "En la Unión Europea, defender una política migratoria ordenada y solidaria que combine la lucha contra las mafias con asilo, fronteras y vías legales y seguras.", "source": { "doc": "psoe", "page": 110 } }
+      ]
+    },
+    "medioambiente": {
+      "summary": "Plantea una transición ecológica justa basada en renovables, electrificación y adaptación al clima, con medidas sobre agua, residuos y biodiversidad.",
+      "points": [
+        { "text": "Alcanzar el 81% de generación eléctrica renovable en 2030, priorizando las Zonas de Aceleración Renovable, y aprobar una hoja de ruta para abandonar progresivamente los combustibles fósiles.", "source": { "doc": "psoe", "page": 65 } },
+        { "text": "Mantener el calendario de cierre de las centrales nucleares hasta 2035, con proyectos de transición justa en las comarcas afectadas.", "source": { "doc": "psoe", "page": 66 } },
+        { "text": "Reducir el vertido de residuos por debajo del 30% en 2030 y reconocer el derecho a la reparación con un Fondo de Reparación pagado por los productores.", "source": { "doc": "psoe", "page": 66 } },
+        { "text": "Crear la Agencia Estatal de Protección Civil y Emergencias, un Centro Estatal de Predicción de Fenómenos Extremos y aprobar una Ley de Adaptación al Cambio Climático.", "source": { "doc": "psoe", "page": 67 } },
+        { "text": "Garantizar el acceso universal al agua potable con un mínimo vital para hogares vulnerables, blindado en la Constitución, y crear bancos públicos de agua en las confederaciones.", "source": { "doc": "psoe", "page": 68 } },
+        { "text": "Proteger al menos el 30% de los ecosistemas y hasta el 10% de las áreas marinas con protección estricta, y culminar la restauración de Doñana, el Mar Menor y otros espacios.", "source": { "doc": "psoe", "page": 72 } },
+        { "text": "Tolerancia cero al maltrato animal, retirando financiación pública a prácticas que lo amparen, y una estrategia de abandono cero.", "source": { "doc": "psoe", "page": 73 } },
+        { "text": "Impulsar las Zonas de Bajas Emisiones y la descarbonización del transporte con puntos de recarga e incentivos al vehículo de cero emisiones.", "source": { "doc": "psoe", "page": 71 } }
+      ]
+    },
+    "rural": {
+      "summary": "Propone una PAC fuerte, una ley para la agricultura familiar y medidas para garantizar servicios y oportunidades en el mundo rural.",
+      "points": [
+        { "text": "Defender una PAC fuerte orientada a explotaciones profesionales, familiares y pequeñas, y exigir en la UE reciprocidad en estándares ambientales, sanitarios y laborales a las importaciones.", "source": { "doc": "psoe", "page": 69 } },
+        { "text": "Aprobar una Ley de Agricultura Familiar y Profesional que evite que los fondos de inversión concentren las tierras fértiles, con apoyo a jóvenes y mujeres y seguros agrarios.", "source": { "doc": "psoe", "page": 69 } },
+        { "text": "Crear una política nacional de bancos de tierras para que jóvenes y nuevos agricultores accedan a explotaciones viables.", "source": { "doc": "psoe", "page": 69 } },
+        { "text": "Recompensar la ganadería extensiva y la agricultura regenerativa con certificación y compensaciones, y poner en marcha un Plan de Transición Justa para la pesca.", "source": { "doc": "psoe", "page": 70 } },
+        { "text": "Avanzar hacia el País de los 30 minutos para garantizar servicios básicos y movilidad en todo el territorio, con un Plan de Empleo Verde Rural.", "source": { "doc": "psoe", "page": 70 } },
+        { "text": "Facilitar vivienda asequible en el medio rural con alquiler para nuevos residentes y rehabilitación de viviendas vacías, y proteger la escuela rural.", "source": { "doc": "psoe", "page": 71 } }
+      ]
+    },
+    "territorio": {
+      "summary": "Defiende el Estado autonómico con más cooperación entre administraciones y una nueva financiación autonómica, sin recentralizar ni fragmentar.",
+      "points": [
+        { "text": "Impulsar el nuevo sistema de financiación autonómica ya aprobado en el Consejo de Política Fiscal y Financiera, que aporta 21.000 millones de euros adicionales.", "source": { "doc": "psoe", "page": 60 } },
+        { "text": "Avanzar en la asunción parcial por el Estado de 83.000 millones de euros de deuda autonómica.", "source": { "doc": "psoe", "page": 61 } },
+        { "text": "Reformar el Senado para que sea una auténtica cámara territorial, con circunscripciones que coincidan con las comunidades autónomas.", "source": { "doc": "psoe", "page": 91 } },
+        { "text": "Institucionalizar la Conferencia de Presidentes con reuniones periódicas y aprobar una ley de cooperación interadministrativa.", "source": { "doc": "psoe", "page": 91 } },
+        { "text": "Consolidar el uso de las lenguas cooficiales en las Cortes Generales y extenderlo a la atención de la Administración del Estado en los territorios donde son oficiales.", "source": { "doc": "psoe", "page": 91 } },
+        { "text": "Desarrollar el Régimen Económico y Fiscal de Canarias y aprobar un plan integral para Ceuta y Melilla.", "source": { "doc": "psoe", "page": 92 } }
+      ]
+    },
+    "instituciones": {
+      "summary": "Propone reformas constitucionales y democráticas, más transparencia anticorrupción, una justicia más ágil y una seguridad ciudadana con garantías.",
+      "points": [
+        { "text": "Reformar la Constitución para blindar pensiones, salud y vivienda como derechos, reconocer la seguridad climática y el agua potable, y proteger matrimonio igualitario, aborto y eutanasia.", "source": { "doc": "psoe", "page": 89 } },
+        { "text": "Crear un escaño ciudadano sin voto en el Congreso y el Senado, rebajar la edad de voto a 16 años y suprimir los aforamientos por delitos ajenos al cargo.", "source": { "doc": "psoe", "page": 90 } },
+        { "text": "Aprobar una Ley Orgánica de Integridad Pública con una Agencia Independiente de Integridad y una ley de grupos de interés (lobbies) con registro obligatorio.", "source": { "doc": "psoe", "page": 102 } },
+        { "text": "Dar a la Fiscalía General un mandato de cinco años, prohibir instrucciones del Gobierno en casos concretos y aprobar una nueva Ley de Enjuiciamiento Criminal que dé la investigación a la Fiscalía.", "source": { "doc": "psoe", "page": 100 } },
+        { "text": "Lograr juicios por despido y desahucio en un máximo de tres meses y desalojo de viviendas ocupadas en 48 horas, y seguir persiguiendo a las mafias de la ocupación.", "source": { "doc": "psoe", "page": 100 } },
+        { "text": "Nueva Ley de Seguridad Ciudadana que sustituya a la de 2015, con cámaras corporales en Policía Nacional y Guardia Civil.", "source": { "doc": "psoe", "page": 99 } },
+        { "text": "Crear un servicio estatal para víctimas de ciberestafas y ampliar la responsabilidad de bancos y operadoras en su prevención y reembolso.", "source": { "doc": "psoe", "page": 99 } },
+        { "text": "Atender a cualquier persona sin cita previa en oficinas del Estado y garantizar que ninguna administración pida un documento que ya tiene.", "source": { "doc": "psoe", "page": 101 } }
+      ]
+    },
+    "exterior": {
+      "summary": "Apuesta por el multilateralismo, una Unión Europea más integrada y con defensa común, la cooperación al desarrollo y una defensa moderna sin elevar el gasto militar al 5% del PIB.",
+      "points": [
+        { "text": "Reformar la ONU y su Consejo de Seguridad limitando el veto, y promover la solución de dos Estados en Israel y Palestina con sanciones de la UE a quien la obstaculice.", "source": { "doc": "psoe", "page": 107 } },
+        { "text": "Impulsar un impuesto mínimo global a las grandes fortunas y debatir internacionalmente un gravamen sobre los tokens usados por los modelos de IA.", "source": { "doc": "psoe", "page": 107 } },
+        { "text": "Alcanzar el 0,7% de la renta nacional bruta en Ayuda Oficial al Desarrollo.", "source": { "doc": "psoe", "page": 107 } },
+        { "text": "Hacer de la UE una unión política y fiscal, superar la unanimidad en sus decisiones, ampliarla a los Balcanes Occidentales y crear un Mecanismo Soberano Europeo de deuda.", "source": { "doc": "psoe", "page": 109 } },
+        { "text": "Impulsar la Unión Europea de la defensa y una mayor participación española en proyectos y compras conjuntas europeas, y rechazar elevar el gasto militar al 5% del PIB.", "source": { "doc": "psoe", "page": 110 } },
+        { "text": "Promover la participación de España como Estado observador en el Tratado de Prohibición de las Armas Nucleares.", "source": { "doc": "psoe", "page": 108 } },
+        { "text": "Simplificar el voto exterior, reformar la red consular y estudiar una circunscripción exterior propia para elegir representantes de españoles residentes fuera.", "source": { "doc": "psoe", "page": 112 } }
+      ]
+    },
+    "cultura": {
+      "summary": "Combina inversión en ciencia y cultura con una regulación estricta de internet y la inteligencia artificial, con foco en menores y derechos digitales.",
+      "points": [
+        { "text": "Aumentar la inversión pública en I+D hasta el 1,25% del PIB y llegar al 1,5% en 2035, y aprobar el Estatuto del Personal Investigador.", "source": { "doc": "psoe", "page": 16 } },
+        { "text": "Aprobar la primera Ley de Actividades Espaciales y un marco pionero de protección de los neuroderechos.", "source": { "doc": "psoe", "page": 16 } },
+        { "text": "Establecer los 16 años como edad mínima para usar redes sociales, con verificación obligatoria de edad, restricción de algoritmos adictivos y responsabilidad de directivos por delitos que toleren.", "source": { "doc": "psoe", "page": 95 } },
+        { "text": "Aprobar una ley de gobernanza de la IA con supervisión humana, etiquetado de contenidos generados con IA y sanciones de hasta 35 millones de euros.", "source": { "doc": "psoe", "page": 96 } },
+        { "text": "Dar rango de ley a la Carta de Derechos Digitales y aprobar una Ley de Transparencia Algorítmica con auditorías independientes.", "source": { "doc": "psoe", "page": 95 } },
+        { "text": "Plan de ayudas a la banda ancha, hoja de ruta del 6G y ventanilla digital única para trámites de la ciudadanía y las empresas.", "source": { "doc": "psoe", "page": 18 } },
+        { "text": "Aprobar una Ley General de Cultura, culminar el Estatuto del Artista y garantizar que los creadores cobren por el uso de sus obras en el entrenamiento de IA.", "source": { "doc": "psoe", "page": 103 } },
+        { "text": "Crear un abono de cine de 15 euros al mes para menores de 25 años y reforzar el Bono Cultural Joven.", "source": { "doc": "psoe", "page": 103 } }
+      ]
+    },
+    "otros": {
+      "summary": "Incluye medidas de juventud, deporte y memoria democrática, además de la visión general del programa.",
+      "points": [
+        { "text": "Crear el Defensor de las Generaciones Futuras, vinculado al Consejo de la Juventud de España, y regular por ley los consejos de juventud.", "source": { "doc": "psoe", "page": 90 } },
+        { "text": "Aprobar el Estatuto del Becario y garantizar acceso a vivienda asequible, becas, salud mental y cultura para facilitar la emancipación juvenil.", "source": { "doc": "psoe", "page": 91 } },
+        { "text": "Desplegar el Estatuto del Deportista y una Estrategia contra el Sedentarismo con receta deportiva desde la atención primaria.", "source": { "doc": "psoe", "page": 55 } },
+        { "text": "Impulsar la profesionalización del fútbol femenino y asegurar que el Mundial 2030 deje un legado social de instalaciones abiertas a la ciudadanía.", "source": { "doc": "psoe", "page": 56 } },
+        { "text": "Completar el Plan de Exhumaciones y el Censo de Víctimas de la Guerra y la Dictadura, y culminar la resignificación del Valle de Cuelgamuros.", "source": { "doc": "psoe", "page": 98 } }
+      ]
+    }
+  },
+  "distinctive": [
+    { "topic": "vivienda", "text": "Impuesto progresivo sobre las viviendas de grandes propietarios y fondos que estén vacías, en uso turístico o con alquiler abusivo.", "why": "Es una medida fiscal específica contra la acumulación de vivienda por grandes tenedores, que va más allá de los incentivos a la oferta que priman en otros programas.", "source": { "doc": "psoe", "page": 31 } },
+    { "topic": "vivienda", "text": "Reformar la Constitución para que la vivienda sea un derecho fundamental exigible ante los poderes públicos.", "why": "Rompe con el modelo actual, donde el artículo 47 la reconoce solo como principio rector sin garantía directa.", "source": { "doc": "psoe", "page": 27 } },
+    { "topic": "empleo", "text": "Completar la reducción de la jornada legal a 37,5 horas semanales y empujar hacia las 35 horas por convenio.", "why": "Es de los pocos programas que fija una reducción de jornada por ley con calendario y transición para pymes.", "source": { "doc": "psoe", "page": 41 } },
+    { "topic": "economia", "text": "Ley de Salarios Justos: más impuesto de sociedades a las cotizadas con una ratio superior a 100 a 1 entre el sueldo del primer ejecutivo y el de la plantilla mediana.", "why": "Vincula la fiscalidad de las empresas a la desigualdad salarial interna, algo novedoso frente al modelo fiscal actual.", "source": { "doc": "psoe", "page": 48 } },
+    { "topic": "pensiones", "text": "Cuenta de Futuro: 1.000 euros públicos por cada niño o niña al nacer, invertidos en fondos públicos y disponibles a los 18 años.", "why": "Crea un patrimonio inicial universal para la juventud, una figura nueva en el sistema de protección español.", "source": { "doc": "psoe", "page": 56 } },
+    { "topic": "igualdad", "text": "Ley Orgánica Abolicionista del Sistema Prostitucional que prohíba el proxenetismo en todas sus formas y trate a las personas prostituidas como víctimas.", "why": "Plantea cambiar el modelo actual, en el que la prostitución no está regulada, hacia uno abolicionista.", "source": { "doc": "psoe", "page": 83 } },
+    { "topic": "cultura", "text": "Edad mínima de 16 años para redes sociales con verificación de edad y responsabilidad penal de los directivos de plataformas que toleren delitos o contenidos ilegales.", "why": "Combina un límite de edad con responsabilidad directa de los directivos, una regulación más estricta que la actual.", "source": { "doc": "psoe", "page": 95 } },
+    { "topic": "instituciones", "text": "Crear la figura de la unión de amistad en el Código Civil para amparar compromisos de cuidados entre personas unidas por amistad o compañerismo.", "why": "Reconoce una forma de convivencia nueva que hoy no existe en el ordenamiento español.", "source": { "doc": "psoe", "page": 89 } }
+  ],
+  "glossary": [
+    { "term": "SMI", "definition": "Salario Mínimo Interprofesional: el sueldo más bajo que se puede pagar por ley a jornada completa." },
+    { "term": "IMV", "definition": "Ingreso Mínimo Vital: prestación estatal para hogares con ingresos muy bajos." },
+    { "term": "CAPI", "definition": "Complemento de Ayuda para la Infancia: ayuda añadida al IMV para hogares con niños y niñas." },
+    { "term": "PERTE", "definition": "Proyecto Estratégico para la Recuperación y Transformación Económica: grandes proyectos públicos y privados en sectores clave, financiados en parte con fondos europeos." },
+    { "term": "Zona tensionada", "definition": "Zona de mercado residencial tensionado: área declarada por una comunidad autónoma donde el alquiler es muy caro y se pueden aplicar medidas como limitar subidas de rentas." },
+    { "term": "SOCIMI", "definition": "Sociedad anónima que invierte en inmuebles para alquilarlos y que paga menos impuestos si cumple ciertos requisitos." },
+    { "term": "ICO", "definition": "Instituto de Crédito Oficial: banco público que ofrece préstamos y avales para financiar proyectos." },
+    { "term": "CASA 47", "definition": "Entidad Estatal de Vivienda: organismo público que gestionará el parque estatal de vivienda asequible; su nombre alude al artículo 47 de la Constitución." },
+    { "term": "AIReF", "definition": "Autoridad Independiente de Responsabilidad Fiscal: organismo que vigila las cuentas públicas y avala las previsiones del Gobierno." },
+    { "term": "CNMC", "definition": "Comisión Nacional de los Mercados y la Competencia: organismo que vigila la competencia y los mercados, como la energía o las telecomunicaciones." },
+    { "term": "RETA", "definition": "Régimen Especial de Trabajadores Autónomos: el régimen de la Seguridad Social en el que cotizan las personas autónomas." },
+    { "term": "Tasa Tobin", "definition": "Impuesto sobre las transacciones financieras: un pequeño porcentaje que se paga al comprar acciones de grandes empresas cotizadas." },
+    { "term": "Pacto de Toledo", "definition": "Comisión parlamentaria donde los partidos acuerdan reformas del sistema de pensiones." },
+    { "term": "ERTMS", "definition": "Sistema europeo de gestión del tráfico ferroviario que controla la velocidad de los trenes y mejora la seguridad." },
+    { "term": "Next Generation EU", "definition": "Fondos europeos creados tras la pandemia para financiar la recuperación económica y la modernización de los países miembros." }
+  ]
+}

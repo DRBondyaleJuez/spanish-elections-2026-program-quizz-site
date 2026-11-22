@@ -1,0 +1,224 @@
+{
+  "party": "cc",
+  "overview": "Coalición Canaria y Municipalistas Primero Canarias se presentan unidas con el lema \"Defiende Canarias\" y un programa de diez causas y cien acciones. Su idea central es que Canarias tenga más peso y capacidad de decisión en las Cortes Generales: cumplir el Estatuto de Autonomía, proteger el REF y conseguir que el Estado financie lo que las islas necesitan por su lejanía e insularidad. Las prioridades son vivienda, servicios públicos, empleo, energía y agua, migración y transporte.",
+  "topics": {
+    "vivienda": {
+      "summary": "Más vivienda pública y asequible con financiación estatal estable, límites a la compra por extranjeros y control del uso turístico.",
+      "points": [
+        { "text": "Un fondo estatal de ocho años para cofinanciar vivienda pública y asequible: construir, comprar y rehabilitar, además de adquirir suelo y edificios. También piden ceder a Canarias los suelos y edificios del Estado que sirvan para vivienda.", "source": { "doc": "cc", "page": 10 } },
+        { "text": "Limitar la compra de vivienda en Canarias por extranjeros mediante reformas en las Cortes y un régimen específico defendido ante la UE, y hacer viable una Ley Canaria de Residencia para ordenar el crecimiento de la población.", "source": { "doc": "cc", "page": 11 } },
+        { "text": "Dar cobertura legal para que Canarias y los municipios limiten la vivienda vacacional donde haya presión sobre la vivienda residencial, distinguiendo el uso ocasional de la explotación intensiva.", "source": { "doc": "cc", "page": 11 } },
+        { "text": "Incentivos fiscales para pequeños propietarios que alquilen de forma asequible, con garantías públicas de cobro, y una regulación estatal estable del alquiler de larga duración que proteja a inquilinos y propietarios.", "source": { "doc": "cc", "page": 11 } },
+        { "text": "Línea estatal de vivienda joven, alquiler asequible y cooperativas, con fórmulas para estudiantes, alumnado de FP, jóvenes investigadores y trabajadores, y un plan de regeneración de barrios.", "source": { "doc": "cc", "page": 11 } },
+        { "text": "Acortar los trámites y informes de la vivienda protegida manteniendo las garantías ambientales, y apoyar la construcción industrializada y las deducciones por primera vivienda para jóvenes y familias de rentas medias y bajas.", "source": { "doc": "cc", "page": 11 } }
+      ]
+    },
+    "empleo": {
+      "summary": "Planes de empleo específicos para Canarias, apoyo a autónomos y mejoras salariales mediante incentivos fiscales y a las cotizaciones.",
+      "points": [
+        { "text": "Financiación estatal del Plan Integral de Empleo de Canarias y de los programas del REF mientras el empleo canario siga en desventaja respecto a la media estatal, priorizando a quien tiene más dificultades.", "source": { "doc": "cc", "page": 12 } },
+        { "text": "Incentivos fiscales y bonificaciones en las cotizaciones a la Seguridad Social ligados a subidas salariales pactadas y a la productividad, y medidas para las retribuciones públicas más bajas.", "source": { "doc": "cc", "page": 12 } },
+        { "text": "Reforzar las ayudas estatales a quienes empiezan como autónomos y a los autónomos con menores ingresos, adaptadas a las condiciones de las islas.", "source": { "doc": "cc", "page": 12 } },
+        { "text": "Reclamar la aportación estatal a un plan de empleo de cuatro años para menores de 35 años, acordado con instituciones canarias, agentes sociales y juventud.", "source": { "doc": "cc", "page": 14 } },
+        { "text": "Financiar la formación profesional y dual y las primeras experiencias laborales de calidad, orientándolas a energías renovables, economía azul, industria, digitalización, audiovisual, rehabilitación y cuidados.", "source": { "doc": "cc", "page": 14 } }
+      ]
+    },
+    "economia": {
+      "summary": "Impulsar la pequeña empresa, orientar el REF a la producción y compensar los sobrecostes de la insularidad, sin proponer bajadas generales de impuestos.",
+      "points": [
+        { "text": "Adaptar los programas estatales de digitalización, innovación y financiación a las microempresas canarias y a sus costes logísticos, para comercio, industria, pequeñas empresas y cooperativas.", "source": { "doc": "cc", "page": 12 } },
+        { "text": "Orientar el REF a atraer inversión productiva e innovadora que cree empleo estable, sobre todo industria, tecnología y sector creativo, y mantener el diferencial fiscal canario para el audiovisual.", "source": { "doc": "cc", "page": 12 } },
+        { "text": "Acuerdo con el Estado y la UE para eliminar barreras y costes abusivos en el comercio electrónico, y corregir el cobro indebido de IVA cuando corresponde aplicar el IGIC.", "source": { "doc": "cc", "page": 12 } },
+        { "text": "Actualizar las compensaciones estatales por los sobrecostes de la insularidad y evaluar si bajan los precios finales de los productos básicos.", "source": { "doc": "cc", "page": 11 } },
+        { "text": "Una fiscalidad propia para La Palma, La Gomera y El Hierro: mantener la deducción del 60 % en el IRPF en La Palma y extenderla a las otras dos, más una bonificación del 50 % en cuotas empresariales.", "source": { "doc": "cc", "page": 13 } },
+        { "text": "Que los remanentes de tesorería (ahorro público) del Gobierno de Canarias, cabildos y ayuntamientos puedan usarse en vivienda, sanidad, educación y bienestar social.", "source": { "doc": "cc", "page": 20 } }
+      ]
+    },
+    "pensiones": {
+      "summary": "Proteger los ingresos de las personas con menos recursos, con foco en las pensiones no contributivas, el ingreso mínimo vital y la dependencia.",
+      "points": [
+        { "text": "Que los complementos de renta que fije Canarias sean compatibles con las pensiones no contributivas, estén exentos de tributar y no reduzcan ni retiren la prestación.", "source": { "doc": "cc", "page": 10 } },
+        { "text": "Un sistema de cooperación con el Estado para que Canarias tramite el ingreso mínimo vital, con cabildos y ayuntamientos, y evitar que aceptar un empleo haga perder bruscamente la protección.", "source": { "doc": "cc", "page": 10 } },
+        { "text": "Exigir una aportación estatal suficiente y estable al sistema de dependencia y una estrategia de envejecimiento y cuidados de larga duración.", "source": { "doc": "cc", "page": 9 } },
+        { "text": "Programas estatales específicos contra la pobreza infantil mientras Canarias esté por encima de la media, y un debate para una política común de protección de la infancia con ayudas a la crianza.", "source": { "doc": "cc", "page": 9 } }
+      ]
+    },
+    "sanidad": {
+      "summary": "Financiación sanitaria que reconozca el coste de atender a ocho islas y servicios más cercanos a los pacientes.",
+      "points": [
+        { "text": "Una financiación sanitaria que reconozca el coste de atender a ocho islas y una compensación estatal específica y actualizada por los sobrecostes de la insularidad y la lejanía.", "source": { "doc": "cc", "page": 9 } },
+        { "text": "Que la formación sanitaria especializada (residentes) responda a las necesidades de Canarias para contar con los especialistas que hacen falta.", "source": { "doc": "cc", "page": 9 } },
+        { "text": "Apoyo estatal a que los especialistas se desplacen a las islas cuando sea más eficiente mover al profesional que al paciente, y estudiar una cobertura reforzada de los desplazamientos interinsulares.", "source": { "doc": "cc", "page": 9 } },
+        { "text": "Más fondos en los Presupuestos Generales del Estado para salud mental en Canarias, con mejoras en atención primaria y servicios especializados, y evaluación de los resultados.", "source": { "doc": "cc", "page": 9 } },
+        { "text": "Adaptar hospitales y centros de salud al calor sin perder continuidad asistencial, y dotar de energía de respaldo limpia a hospitales y centros de salud.", "source": { "doc": "cc", "page": 17 } }
+      ]
+    },
+    "educacion": {
+      "summary": "Más inversión en centros y plazas, becas que tengan en cuenta la insularidad y refuerzo de universidades e investigación.",
+      "points": [
+        { "text": "Reforzar la financiación estatal para una oferta suficiente de plazas públicas, gratuitas y de calidad en educación infantil de cero a tres años.", "source": { "doc": "cc", "page": 9 } },
+        { "text": "Recuperar programas estatales de inversión para corregir los déficits de las infraestructuras educativas y adaptar los centros a nuevas necesidades.", "source": { "doc": "cc", "page": 10 } },
+        { "text": "Cumplir y reforzar lo previsto en el REF sobre becas para quien debe desplazarse a estudiar porque su carrera o FP no se ofrece en su isla.", "source": { "doc": "cc", "page": 14 } },
+        { "text": "Financiación plurianual del Estado para modernizar las universidades públicas canarias y reforzar astrofísica, ciencias marinas y biotecnología.", "source": { "doc": "cc", "page": 14 } },
+        { "text": "Dotar a los centros educativos de sombra, patios verdes, aislamiento, ventilación y climatización eficiente para afrontar el calor.", "source": { "doc": "cc", "page": 17 } }
+      ]
+    },
+    "igualdad": {
+      "summary": "Compromiso con la igualdad entre mujeres y hombres, centrado en financiar la lucha contra la violencia de género y la accesibilidad.",
+      "points": [
+        { "text": "Financiación estatal suficiente para aplicar el Pacto de Estado contra la violencia de género en todas las islas, reforzando la prevención y la protección de víctimas e hijos, teniendo en cuenta la dispersión territorial.", "source": { "doc": "cc", "page": 10 } },
+        { "text": "Que los programas estatales y europeos de vivienda, transporte, empleo y servicios para Canarias incorporen las necesidades de las personas con discapacidad (accesibilidad universal).", "source": { "doc": "cc", "page": 10 } },
+        { "text": "La educación infantil gratuita de 0 a 3 años se plantea también para que las responsabilidades familiares se compartan en condiciones de igualdad.", "source": { "doc": "cc", "page": 9 } }
+      ]
+    },
+    "inmigracion": {
+      "summary": "Piden que el Estado y la UE asuman los costes de la ruta atlántica, con solidaridad obligatoria entre territorios, cooperación con países de origen e integración.",
+      "points": [
+        { "text": "Que el Estado y la UE asuman los costes extraordinarios del salvamento, la acogida y la atención humanitaria en la frontera atlántica, con respeto a los derechos humanos.", "source": { "doc": "cc", "page": 18 } },
+        { "text": "Solidaridad obligatoria y automática: si un territorio de primera acogida supera ciertos umbrales, se activan traslados a otras comunidades sin negociar caso a caso, con los cambios legales necesarios.", "source": { "doc": "cc", "page": 19 } },
+        { "text": "Financiación suficiente y previsible para los menores extranjeros no acompañados, guiando traslados y atención por su interés superior.", "source": { "doc": "cc", "page": 19 } },
+        { "text": "Cooperación estable con Mauritania, Senegal, Marruecos, Cabo Verde y otros países, lucha contra las redes que se lucran con las personas y voz de Canarias en las políticas migratorias.", "source": { "doc": "cc", "page": 19 } },
+        { "text": "Financiar programas de integración y convivencia intercultural, y combatir los discursos racistas y el uso del miedo para dividir a la sociedad.", "source": { "doc": "cc", "page": 19 } },
+        { "text": "Incluir en las competencias canarias las autorizaciones de trabajo para personas extranjeras que prevé el Estatuto de Autonomía.", "source": { "doc": "cc", "page": 8 } }
+      ]
+    },
+    "medioambiente": {
+      "summary": "Transición energética con seguridad de suministro (renovables, almacenamiento y redes), agua depurada y adaptación al cambio climático.",
+      "points": [
+        { "text": "Sustituir progresivamente las centrales térmicas obsoletas por soluciones más eficientes y renovables, reduciendo los combustibles fósiles a medida que avancen renovables y almacenamiento, sin poner en riesgo el suministro.", "source": { "doc": "cc", "page": 15 } },
+        { "text": "Impulsar la eólica marina en Gran Canaria con planificación y subastas adaptadas, exigiendo consenso social, político e institucional y compatibilidad ambiental para cualquier proyecto.", "source": { "doc": "cc", "page": 15 } },
+        { "text": "Ayudas para baterías y almacenamiento de distintos tamaños, incluido el bombeo de agua de mar, y un marco favorable al autoconsumo colectivo y a las comunidades energéticas.", "source": { "doc": "cc", "page": 15 } },
+        { "text": "Programa estatal plurianual de saneamiento y depuración, reutilización del agua depurada y compensaciones por el sobrecoste del agua desalada y regenerada.", "source": { "doc": "cc", "page": 16 } },
+        { "text": "Fondo estatal para adaptar pueblos y ciudades al calor (arbolado, sombra, refugios climáticos) y financiación para restaurar la naturaleza y proteger costas de la erosión y las inundaciones.", "source": { "doc": "cc", "page": 17 } },
+        { "text": "Ayudas a la recarga eléctrica, a taxis y flotas de alquiler eléctricos, puertos con electricidad en muelle y producción local de combustibles sostenibles como el SAF (para aviones).", "source": { "doc": "cc", "page": 16 } }
+      ]
+    },
+    "rural": {
+      "summary": "Defender los fondos europeos y estatales del sector primario y compensar los sobrecostes de producir alimentos en las islas.",
+      "points": [
+        { "text": "Que España defienda íntegramente el POSEI y su dotación en el nuevo presupuesto europeo, y reclamar cada año el 100 % de la aportación estatal a las ayudas adicionales autorizadas por la UE.", "source": { "doc": "cc", "page": 13 } },
+        { "text": "Actualizar las medidas estatales frente a sobrecostes de energía, alimentación animal, fertilizantes y transporte, y apoyar seguros agrarios y la lucha contra las plagas.", "source": { "doc": "cc", "page": 13 } },
+        { "text": "Financiación estatal y europea para incorporar jóvenes a la agricultura, la ganadería y la pesca y mantener el suelo agrícola en uso, reforzando la soberanía alimentaria.", "source": { "doc": "cc", "page": 13 } },
+        { "text": "Evaluar el impacto de los acuerdos comerciales internacionales en las producciones sensibles, y reglas adaptadas a la flota artesanal con cuotas suficientes de atún rojo y patudo.", "source": { "doc": "cc", "page": 13 } }
+      ]
+    },
+    "territorio": {
+      "summary": "Máximo autogobierno: cumplir el Estatuto, proteger el REF y lograr una financiación autonómica que reconozca el coste de ser un archipiélago.",
+      "points": [
+        { "text": "Un calendario verificable para completar los traspasos pendientes del Estatuto de Autonomía, con medios suficientes, y oposición a la recentralización.", "source": { "doc": "cc", "page": 8 } },
+        { "text": "Que una posible reforma de la Constitución recoja la singularidad canaria (lejanía, insularidad y ultraperiferia) para que las garantías no dependan del Gobierno de turno.", "source": { "doc": "cc", "page": 8 } },
+        { "text": "Un sistema de financiación autonómica suficiente y estable que tenga en cuenta la población efectiva, la fragmentación territorial, la pobreza y el envejecimiento.", "source": { "doc": "cc", "page": 8 } },
+        { "text": "Impedir que los recursos del REF cuenten como financiación ordinaria de sanidad, educación, dependencia o servicios sociales.", "source": { "doc": "cc", "page": 8 } },
+        { "text": "Papel efectivo del Gobierno canario y los cabildos en la planificación y gestión de puertos y aeropuertos, y traspasos de gestión del litoral.", "source": { "doc": "cc", "page": 8 } },
+        { "text": "Más recursos y competencias claras para municipios y cabildos, y estabilidad en su participación en los tributos del Estado.", "source": { "doc": "cc", "page": 20 } }
+      ]
+    },
+    "instituciones": {
+      "summary": "Rendición de cuentas sobre lo que el Estado debe a Canarias y financiación de una policía propia; sin medidas generales de justicia o corrupción.",
+      "points": [
+        { "text": "Reclamar al Estado financiar las 1.400 plazas del Cuerpo General de la Policía Canaria previstas en la propuesta de Decreto Canarias, con despliegue progresivo y coordinado con las fuerzas del Estado.", "source": { "doc": "cc", "page": 10 } },
+        { "text": "Un informe público anual sobre las obligaciones del Estado con Canarias que distinga lo presupuestado, lo transferido y lo realmente ejecutado.", "source": { "doc": "cc", "page": 21 } },
+        { "text": "Exigir el cumplimiento íntegro de la Agenda Canaria y del Decreto Canarias, con financiación, plazos y responsables, aunque cambie el Gobierno del Estado.", "source": { "doc": "cc", "page": 21 } },
+        { "text": "Que el Instituto Canario de Estadística acceda a datos tributarios, con garantías de confidencialidad, para evaluar el REF y las políticas de ultraperiferia.", "source": { "doc": "cc", "page": 21 } },
+        { "text": "Que se puedan pedir a la Unidad Militar de Emergencias activaciones tempranas en incendios de nivel 1 y protocolos para desplazar medios estatales ante fenómenos extremos.", "source": { "doc": "cc", "page": 17 } }
+      ]
+    },
+    "exterior": {
+      "summary": "Que Canarias participe en la política exterior que le afecta y que España defienda a las regiones ultraperiféricas en la UE.",
+      "points": [
+        { "text": "Que España defienda en el próximo presupuesto europeo plurianual los fondos específicos de las regiones ultraperiféricas (RUP) y aplique de forma efectiva el artículo 349 del tratado de la UE.", "source": { "doc": "cc", "page": 19 } },
+        { "text": "Defender la continuidad de INTERREG y el acceso de universidades y empresas canarias a Horizon y otros programas europeos de investigación.", "source": { "doc": "cc", "page": 20 } },
+        { "text": "Promover el reconocimiento estratégico europeo de la Macaronesia (Canarias, Madeira y Azores), más cooperación con África occidental y nuevos cables submarinos de telecomunicaciones.", "source": { "doc": "cc", "page": 20 } },
+        { "text": "Participación de instituciones canarias en las relaciones con Marruecos, incluida la delimitación de espacios marítimos, y apoyo a una solución para el Sáhara Occidental según resoluciones de la ONU.", "source": { "doc": "cc", "page": 20 } },
+        { "text": "Recuperar para uso civil terrenos militares en Canarias, como el campo de tiro de Pájara, en Fuerteventura.", "source": { "doc": "cc", "page": 9 } }
+      ]
+    },
+    "cultura": {
+      "summary": "Apoyo a la cultura y la ciencia canarias, a los canarios en el exterior y a la investigación en el Atlántico.",
+      "points": [
+        { "text": "Mantener ayudas estatales para los desplazamientos de artistas y compañías canarias a circuitos estatales e internacionales y eliminar obstáculos administrativos y fiscales a la circulación de sus obras.", "source": { "doc": "cc", "page": 19 } },
+        { "text": "Reforzar PLOCAN (Plataforma Oceánica de Canarias) como infraestructura científica y tecnológica española y europea.", "source": { "doc": "cc", "page": 14 } },
+        { "text": "Programas estatales de economía azul (energías marinas, biotecnología azul, robótica submarina, acuicultura sostenible) y financiación para ensayar soluciones en energía, agua y clima en las islas.", "source": { "doc": "cc", "page": 14 } },
+        { "text": "Crear y financiar el Centro Nacional de Vulcanología, con sede principal en La Palma, con el 50 % del coste de mantenimiento aportado por el Estado.", "source": { "doc": "cc", "page": 16 } },
+        { "text": "Atención social y sanitaria a los canarios del exterior, apoyo al retorno y vínculos culturales con las nuevas generaciones de emigrantes.", "source": { "doc": "cc", "page": 19 } }
+      ]
+    },
+    "otros": {
+      "summary": "Transporte entre islas y con el exterior, descuentos para residentes, deporte y reconstrucción de La Palma como asuntos propios de la insularidad.",
+      "points": [
+        { "text": "Proteger la bonificación del 75 % en el transporte aéreo y marítimo de residentes y vigilar subidas artificiales de tarifas que absorban la ayuda.", "source": { "doc": "cc", "page": 17 } },
+        { "text": "Mantener la gratuidad de guaguas y tranvías con financiación estatal estable, y financiar el 50 % de proyectos de transporte por carretera en Lanzarote y Fuerteventura.", "source": { "doc": "cc", "page": 18 } },
+        { "text": "Un convenio estatal de diez años para ejecutar el Tren de Gran Canaria y un tratamiento equivalente para los proyectos ferroviarios de Tenerife.", "source": { "doc": "cc", "page": 18 } },
+        { "text": "Actualizar las compensaciones para cubrir el 100 % del coste real del transporte de mercancías, incluyendo el trayecto hasta la isla de destino final.", "source": { "doc": "cc", "page": 18 } },
+        { "text": "Financiación sostenida para la recuperación de La Palma tras la erupción, continuidad del plan especial de empleo y devolución de lo adelantado por Canarias.", "source": { "doc": "cc", "page": 18 } },
+        { "text": "Financiación estatal para los desplazamientos de deportistas y clubes canarios a competiciones oficiales.", "source": { "doc": "cc", "page": 19 } }
+      ]
+    }
+  },
+  "distinctive": [
+    {
+      "topic": "vivienda",
+      "text": "Impulsar reformas para limitar la compra de vivienda en Canarias por extranjeros y una Ley Canaria de Residencia para ordenar el crecimiento de la población.",
+      "why": "Es de los pocos programas que plantea limitar la compra por no residentes y una norma de residencia propia para un territorio, algo que exigiría cambios estatales y encaje con el derecho europeo.",
+      "source": { "doc": "cc", "page": 11 }
+    },
+    {
+      "topic": "territorio",
+      "text": "Impedir que el dinero del REF cuente como financiación ordinaria de sanidad, educación, dependencia y servicios sociales.",
+      "why": "Es una reivindicación propia de Canarias: separa la compensación por la insularidad de lo que le corresponde por el sistema de financiación común.",
+      "source": { "doc": "cc", "page": 8 }
+    },
+    {
+      "topic": "otros",
+      "text": "Proteger el descuento del 75 % para residentes en transporte aéreo y marítimo, la gratuidad de guaguas y tranvías y financiar el Tren de Gran Canaria.",
+      "why": "Son medidas pensadas para un archipiélago: dependen de la doble insularidad, y pocos partidos estatales las proponen como prioridad.",
+      "source": { "doc": "cc", "page": 17 }
+    },
+    {
+      "topic": "instituciones",
+      "text": "Que el Estado financie las 1.400 plazas de un Cuerpo General de la Policía Canaria.",
+      "why": "Propone una policía propia de la comunidad autónoma, financiada por el Estado y coordinada con sus cuerpos de seguridad, algo que no suele aparecer en los programas de partidos de ámbito estatal.",
+      "source": { "doc": "cc", "page": 10 }
+    },
+    {
+      "topic": "medioambiente",
+      "text": "Retribuir el sistema eléctrico de las islas por almacenar y gestionar energía, y apoyar el bombeo de agua de mar como forma de almacenamiento.",
+      "why": "Se centra en los sistemas eléctricos aislados de las islas, con medidas técnicas como el bombeo de agua de mar y los combustibles sostenibles para barcos y aviones.",
+      "source": { "doc": "cc", "page": 15 }
+    },
+    {
+      "topic": "exterior",
+      "text": "Participación de las instituciones canarias en las negociaciones con Marruecos sobre fronteras marítimas, recursos naturales y migración.",
+      "why": "Plantea que una comunidad autónoma participe en la formación de la posición exterior de España, cuando la política exterior es competencia estatal.",
+      "source": { "doc": "cc", "page": 20 }
+    },
+    {
+      "topic": "inmigracion",
+      "text": "Un reparto obligatorio y automático de menores y personas migrantes entre comunidades cuando un territorio de primera acogida supere unos umbrales.",
+      "why": "Pide que los traslados se activen por indicadores previos, sin depender de negociaciones caso a caso, lo que requeriría cambios legales.",
+      "source": { "doc": "cc", "page": 19 }
+    },
+    {
+      "topic": "cultura",
+      "text": "Crear un Centro Nacional de Vulcanología con sede en La Palma.",
+      "why": "Es una propuesta vinculada a la erupción de La Palma de 2021 y a la ubicación de las islas, difícil de encontrar en programas de otros territorios.",
+      "source": { "doc": "cc", "page": 16 }
+    }
+  ],
+  "glossary": [
+    { "term": "REF", "definition": "Régimen Económico y Fiscal de Canarias: conjunto de ventajas fiscales y económicas (como impuestos propios más bajos) que compensan la lejanía y la insularidad." },
+    { "term": "Estatuto de Autonomía", "definition": "La ley que regula el autogobierno de Canarias y las competencias que puede ejercer la comunidad autónoma." },
+    { "term": "Decreto Canarias", "definition": "Propuesta que el Gobierno canario ha trasladado al Estado con medidas, inversiones y financiación para hacer efectivos los derechos de las islas." },
+    { "term": "Agenda Canaria", "definition": "Conjunto de compromisos y acuerdos entre Canarias y el Estado que CC quiere que se cumplan íntegramente." },
+    { "term": "RUP", "definition": "Regiones Ultraperiféricas de la UE: territorios europeos muy alejados del continente, como Canarias, que reciben un trato específico en la normativa europea." },
+    { "term": "Artículo 349", "definition": "Artículo del tratado de funcionamiento de la UE que permite adaptar las normas y políticas europeas a las regiones ultraperiféricas." },
+    { "term": "POSEI", "definition": "Programa europeo de apoyo al sector agrario y pesquero de las regiones ultraperiféricas." },
+    { "term": "Doble insularidad", "definition": "La situación de las islas menores que dependen de otra isla para llegar al continente, como La Gomera o El Hierro." },
+    { "term": "IGIC", "definition": "Impuesto General Indirecto Canario: el impuesto sobre el consumo que se aplica en Canarias en lugar del IVA." },
+    { "term": "Cabildos", "definition": "Gobiernos de cada isla en Canarias, que funcionan como instituciones insulares junto a los ayuntamientos." },
+    { "term": "INTERREG", "definition": "Programas europeos de cooperación entre territorios vecinos; en este caso, entre Canarias, Madeira, Azores y África occidental." },
+    { "term": "Macaronesia", "definition": "Región atlántica formada por Canarias, Madeira, las Azores y otros archipiélagos próximos." },
+    { "term": "SAF", "definition": "Combustible sostenible de aviación: un combustible alternativo al queroseno fósil, con menos emisiones." },
+    { "term": "Ingreso mínimo vital", "definition": "Prestación estatal que garantiza un nivel mínimo de renta a hogares en situación de vulnerabilidad económica." }
+  ]
+}

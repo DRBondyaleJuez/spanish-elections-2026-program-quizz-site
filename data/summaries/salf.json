@@ -1,0 +1,713 @@
+{
+ "party": "salf",
+ "overview": "El programa de SALF es un contrato de 119 medidas centrado en bajar mucho los impuestos, reducir el tamaño del Estado y endurecer la política penal y migratoria. Combina grandes rebajas fiscales con recortes de gasto, reformas institucionales contra la corrupción y una política exterior de 'España primero'.",
+ "topics": {
+  "vivienda": {
+   "summary": "Quiere abaratar la primera vivienda por ley, eliminar impuestos a la vivienda, agilizar licencias y suelo, y desalojar okupas en 48 horas.",
+   "points": [
+    {
+     "text": "Garantiza por ley que quien compre su primera vivienda pague al menos un 35 % menos: ITP y AJD al 0 %, IVA del 4 % devuelto en la renta, licencia en plazo y suelo público sin coste.",
+     "source": {
+      "doc": "salf",
+      "page": 5
+     }
+    },
+    {
+     "text": "Con denuncia y título de propiedad, la Policía desaloja a un okupa en 48 horas; si un inquilino deja de pagar, juicio verbal y lanzamiento en 30 días.",
+     "source": {
+      "doc": "salf",
+      "page": 5
+     }
+    },
+    {
+     "text": "Todo el suelo de la Sareb y del Estado se ofrecería a concurso en 12 meses para construir vivienda protegida en propiedad a precio tasado.",
+     "source": {
+      "doc": "salf",
+      "page": 6
+     }
+    },
+    {
+     "text": "Licencia en un mes (obra menor), dos (obra mayor) o tres (grandes desarrollos); pasado el plazo se concede por silencio positivo y el ayuntamiento paga el retraso.",
+     "source": {
+      "doc": "salf",
+      "page": 6
+     }
+    },
+    {
+     "text": "Aval público del 20 % de la entrada para menores de 40 en su primera vivienda y seguro público de impago que garantiza 12 meses de renta al propietario.",
+     "source": {
+      "doc": "salf",
+      "page": 6
+     }
+    },
+    {
+     "text": "Elimina por completo el IBI para todos, sin compensar a los ayuntamientos (unos 13.400 M€ al año menos de ingresos municipales).",
+     "source": {
+      "doc": "salf",
+      "page": 7
+     }
+    }
+   ]
+  },
+  "empleo": {
+   "summary": "Busca que trabajar compense más: rebaja de la cuña fiscal, contrato único, cuota cero para autónomos y más control del absentismo.",
+   "points": [
+    {
+     "text": "Reduce la cuña fiscal (diferencia entre lo que cuesta un trabajador y lo que cobra) del 41 % al 29 %, con mínimo exento y sin cotización del trabajador en el salario mínimo.",
+     "source": {
+      "doc": "salf",
+      "page": 30
+     }
+    },
+    {
+     "text": "Un único contrato indefinido con indemnización creciente de 12 a 33 días, más una mochila del 1,53 % del salario que el trabajador se lleva al cambiar de empleo.",
+     "source": {
+      "doc": "salf",
+      "page": 30
+     }
+    },
+    {
+     "text": "Cuota de autónomos cero y licencia de actividad en 24 horas por declaración responsable.",
+     "source": {
+      "doc": "salf",
+      "page": 30
+     }
+    },
+    {
+     "text": "Las mutuas darían el alta en contingencias comunes a los 15 días, con revisión del INSS en 72 horas; la Seguridad Social pagaría las bajas desde el primer día.",
+     "source": {
+      "doc": "salf",
+      "page": 31
+     }
+    },
+    {
+     "text": "FP dual con contrato y salario del 50 % del convenio, y cotización cero durante dos años al contratar a menores de 30 y mayores de 50.",
+     "source": {
+      "doc": "salf",
+      "page": 31
+     }
+    },
+    {
+     "text": "Quien rechace dos ofertas adecuadas pierde la prestación; el Ingreso Mínimo bajaría solo 50 céntimos por cada euro ganado.",
+     "source": {
+      "doc": "salf",
+      "page": 32
+     }
+    }
+   ]
+  },
+  "economia": {
+   "summary": "Plantea una gran bajada de impuestos financiada con recortes de gasto, con regla de oro de ahorro certificado y límites constitucionales a impuestos y deuda.",
+   "points": [
+    {
+     "text": "Mínimo exento de IRPF de 35.000 euros (hoy 5.550), de forma gradual hasta 2030, con reducción progresiva hasta 50.000; más 5.000 euros por hijo para cada progenitor.",
+     "source": {
+      "doc": "salf",
+      "page": 12
+     }
+    },
+    {
+     "text": "Sociedades baja del 25 al 20 % en dos años, 15 % para el beneficio reinvertido y 10 % los tres primeros años de empresas nuevas.",
+     "source": {
+      "doc": "salf",
+      "page": 13
+     }
+    },
+    {
+     "text": "Suprime los impuestos de Sucesiones, Donaciones y Patrimonio, y baja el IVA de la luz (del 21 al 4 %) y del agua (del 10 al 4 %).",
+     "source": {
+      "doc": "salf",
+      "page": 13
+     }
+    },
+    {
+     "text": "Regla de oro: ninguna bajada de impuestos entra en vigor sin ahorro estructural certificado por la AIReF; déficit cero en 2030 y toda subida de impuestos exigiría tres quintos del Congreso.",
+     "source": {
+      "doc": "salf",
+      "page": 13
+     }
+    },
+    {
+     "text": "Derecho a pagar y cobrar en efectivo sin límite: deroga el tope de 1.000 euros y el euro digital no podrá sustituir al efectivo.",
+     "source": {
+      "doc": "salf",
+      "page": 15
+     }
+    },
+    {
+     "text": "Ley de Devolución del Rescate: CaixaBank, BBVA, Sabadell, Unicaja y Abanca pagarían 4.700 M€ al año durante 15 años por las ayudas a las cajas rescatadas.",
+     "source": {
+      "doc": "salf",
+      "page": 15
+     }
+    }
+   ]
+  },
+  "pensiones": {
+   "summary": "Blinda las pensiones actuales en la Constitución y crea un sistema mixto con cuenta individual para los menores de 45 años.",
+   "points": [
+    {
+     "text": "Revalorización con el IPC y prohibición de recortes con rango constitucional para las pensiones actuales.",
+     "source": {
+      "doc": "salf",
+      "page": 20
+     }
+    },
+    {
+     "text": "Menores de 45: el 2 % del salario iría a una cuenta individual obligatoria, heredable y con comisión máxima del 0,3 %.",
+     "source": {
+      "doc": "salf",
+      "page": 20
+     }
+    },
+    {
+     "text": "Mochila austriaca: la empresa aporta el 1,53 % del salario a una cuenta del trabajador, que se la lleva al cambiar de empleo y la cobra al jubilarse.",
+     "source": {
+      "doc": "salf",
+      "page": 20
+     }
+    },
+    {
+     "text": "Jubilación activa total (100 % de pensión trabajando) y jubilación libre sin penalización con 40 años cotizados.",
+     "source": {
+      "doc": "salf",
+      "page": 20
+     }
+    },
+    {
+     "text": "Pensión mínima de 1.000 euros en 14 pagas con 35 años cotizados, y fin de las pensiones y privilegios vitalicios de políticos.",
+     "source": {
+      "doc": "salf",
+      "page": 21
+     }
+    },
+    {
+     "text": "El Fondo de Reserva pasaría a un fondo soberano de gestión independiente; los autónomos elegirían su base de cotización.",
+     "source": {
+      "doc": "salf",
+      "page": 21
+     }
+    }
+   ]
+  },
+  "sanidad": {
+   "summary": "Propone una central de compras única, plazos máximos de espera, mejores sueldos sanitarios y más camas.",
+   "points": [
+    {
+     "text": "Una central de compras obligatoria única en lugar de diecisiete, con ahorro estimado del 15 % destinado íntegramente a sueldos y plazas.",
+     "source": {
+      "doc": "salf",
+      "page": 22
+     }
+    },
+    {
+     "text": "Plazos máximos: 60 días para cirugía, 30 para especialista y 7 para pruebas prioritarias; superados, el paciente elige centro público o privado y paga la sanidad pública.",
+     "source": {
+      "doc": "salf",
+      "page": 22
+     }
+    },
+    {
+     "text": "Sube un 20 % el sueldo de los médicos y un 10 % el del resto de profesionales en cuatro años, con 30.000 euros de complemento en plazas rurales.",
+     "source": {
+      "doc": "salf",
+      "page": 22
+     }
+    },
+    {
+     "text": "10.000 camas y 1.500 UCI más en cuatro años, y una única tarjeta sanitaria, historia clínica y receta válidas en toda España.",
+     "source": {
+      "doc": "salf",
+      "page": 23
+     }
+    },
+    {
+     "text": "Cita con el médico de familia en 48 horas; si no, consulta privada pagada por el sistema. Tarjeta sanitaria para españoles y residentes legales con cotización; urgencias para todos.",
+     "source": {
+      "doc": "salf",
+      "page": 23
+     }
+    },
+    {
+     "text": "Copago cero en farmacia para menores de 3 años y para pensiones mínimas y enfermos crónicos; psicólogo clínico en centros de salud con atención en 15 días.",
+     "source": {
+      "doc": "salf",
+      "page": 24
+     }
+    }
+   ]
+  },
+  "educacion": {
+   "summary": "Busca un pacto educativo estable de 20 años, castellano garantizado, cheque escolar y más autoridad y sueldo para el profesorado.",
+   "points": [
+    {
+     "text": "Una ley educativa aprobada por dos tercios y blindada, con contenidos mínimos comunes, evaluaciones externas por etapa y selectividad única en castellano.",
+     "source": {
+      "doc": "salf",
+      "page": 33
+     }
+    },
+    {
+     "text": "Derecho exigible a estudiar en castellano en toda España, con Alta Inspección estatal que sanciona.",
+     "source": {
+      "doc": "salf",
+      "page": 33
+     }
+    },
+    {
+     "text": "MIR docente: dos años de prácticas remuneradas con tutor y examen nacional; el profesor sería autoridad pública con un 10 % más de sueldo.",
+     "source": {
+      "doc": "salf",
+      "page": 33
+     }
+    },
+    {
+     "text": "Cheque escolar con el mismo importe por alumno, válido en centros públicos, concertados y privados.",
+     "source": {
+      "doc": "salf",
+      "page": 34
+     }
+    },
+    {
+     "text": "Consejo Académico independiente fija los contenidos, con neutralidad ideológica obligatoria y prohibición de propaganda de partidos y sindicatos en horario lectivo.",
+     "source": {
+      "doc": "salf",
+      "page": 34
+     }
+    },
+    {
+     "text": "Beca-salario de 2.000 euros al año para FP superior en sectores con déficit, y certificación B2 de inglés pagada por el Estado al acabar Bachillerato.",
+     "source": {
+      "doc": "salf",
+      "page": 34
+     }
+    }
+   ]
+  },
+  "igualdad": {
+   "notMentioned": true,
+   "points": []
+  },
+  "inmigracion": {
+   "summary": "Plantea inmigración solo legal, con expulsiones rápidas, moratoria a países que no colaboran y más requisitos para ayudas y nacionalidad.",
+   "points": [
+    {
+     "text": "Identificación, orden y salida en 48 horas, con el 100 % de las órdenes de expulsión ejecutadas en 90 días (hoy, según el programa, el 10 %), con internamiento hasta la expulsión.",
+     "source": {
+      "doc": "salf",
+      "page": 17
+     }
+    },
+    {
+     "text": "Deroga la regularización de 2026, revisa las concedidas y prohíbe por ley orgánica cualquier regularización masiva.",
+     "source": {
+      "doc": "salf",
+      "page": 17
+     }
+    },
+    {
+     "text": "Ni dinero, ni visados, ni preferencias comerciales a países que no readmitan a sus nacionales en 72 horas.",
+     "source": {
+      "doc": "salf",
+      "page": 17
+     }
+    },
+    {
+     "text": "Moratoria durante toda la legislatura a la inmigración de países que no colaboran contra las mafias; para el resto, visados con contrato previo y cupo anual votado en el Congreso.",
+     "source": {
+      "doc": "salf",
+      "page": 18
+     }
+    },
+    {
+     "text": "Nacionalidad a los diez años de residencia legal con examen, con cupos preferentes para Hispanoamérica; pérdida de residencia con condena de más de un año.",
+     "source": {
+      "doc": "salf",
+      "page": 18
+     }
+    },
+    {
+     "text": "Prohíbe el velo integral en el espacio público, la financiación extranjera del culto y exige cinco años de residencia y cotización para ayudas no contributivas y vivienda pública.",
+     "source": {
+      "doc": "salf",
+      "page": 19
+     }
+    }
+   ]
+  },
+  "medioambiente": {
+   "summary": "No tiene una sección propia; fusiona Energía y Medio Ambiente en un ministerio de infraestructuras y se opone al Pacto Verde europeo.",
+   "points": [
+    {
+     "text": "El Ministerio de Transición Ecológica desaparece como tal: Energía y Medio Ambiente se integran en un nuevo ministerio de Infraestructuras, Energía e Industria.",
+     "source": {
+      "doc": "salf",
+      "page": 3
+     }
+    },
+    {
+     "text": "Veta en el Consejo de la UE el Pacto Verde y la Ley de Restauración, que según el programa deja improductivo hasta el 40 % de la Red Natura.",
+     "source": {
+      "doc": "salf",
+      "page": 35
+     }
+    },
+    {
+     "text": "Baja el IVA de la luz del 21 al 4 % y suprime el impuesto a la producción eléctrica que repercute en la factura.",
+     "source": {
+      "doc": "salf",
+      "page": 13
+     }
+    }
+   ]
+  },
+  "rural": {
+   "summary": "Defiende al campo frente a Bruselas y mantiene un ministerio propio de agricultura, pesca y alimentación.",
+   "points": [
+    {
+     "text": "Mantiene un ministerio de Agricultura, Pesca y Alimentación que absorbe las competencias de campo, mar y mundo rural.",
+     "source": {
+      "doc": "salf",
+      "page": 3
+     }
+    },
+    {
+     "text": "Veta el acuerdo con Mercosur y el recorte de la PAC (que según el programa quita 877 M€ al año al campo español): lo que se come en España se produce en España.",
+     "source": {
+      "doc": "salf",
+      "page": 35
+     }
+    },
+    {
+     "text": "Complemento de 30.000 euros para médicos en plazas rurales.",
+     "source": {
+      "doc": "salf",
+      "page": 22
+     }
+    }
+   ]
+  },
+  "territorio": {
+   "summary": "Pide financiación autonómica con criterios objetivos, recorta duplicidades autonómicas y locales y da un trato fiscal especial a Ceuta, Melilla y Canarias.",
+   "points": [
+    {
+     "text": "Financiación autonómica con criterios objetivos e iguales para todas las comunidades, sin condonaciones de deuda entre administraciones salvo catástrofe.",
+     "source": {
+      "doc": "salf",
+      "page": 14
+     }
+    },
+    {
+     "text": "Calcula un ahorro de 57.000 M€ al año eliminando el sobrecoste autonómico (cada comunidad comparada con las tres más eficientes).",
+     "source": {
+      "doc": "salf",
+      "page": 16
+     }
+    },
+    {
+     "text": "Suprime las diputaciones provinciales (1.500 M€) y obliga a la gestión mancomunada en municipios de menos de 5.000 habitantes (3.000 M€).",
+     "source": {
+      "doc": "salf",
+      "page": 16
+     }
+    },
+    {
+     "text": "Ceuta y Melilla como plaza franca: 0 % de IRPF, Sociedades y cotizaciones empresariales para siempre.",
+     "source": {
+      "doc": "salf",
+      "page": 36
+     }
+    },
+    {
+     "text": "Canarias: deducción de 1.000 euros en el IRPF por residir, Zona Especial Canaria al 0 % de Sociedades y pago al 75 % de residente en avión y barco.",
+     "source": {
+      "doc": "salf",
+      "page": 36
+     }
+    },
+    {
+     "text": "El ministerio de Política Territorial desaparece y se integra en Presidencia y Administraciones Públicas.",
+     "source": {
+      "doc": "salf",
+      "page": 3
+     }
+    }
+   ]
+  },
+  "instituciones": {
+   "summary": "Combina mano dura penal con una reforma institucional profunda: corrupción imprescriptible, fin de aforamientos y de 12 ministerios.",
+   "points": [
+    {
+     "text": "Macrocárcel de máxima seguridad sin permisos ni tercer grado para asesinos, violadores, narcos y corruptos; cumplimiento íntegro de las penas.",
+     "source": {
+      "doc": "salf",
+      "page": 8
+     }
+    },
+    {
+     "text": "Corrupción de cargos públicos imprescriptible, sin indulto ni tercer grado; devolver el triple de lo robado y el denunciante cobra el 15 % de lo recuperado.",
+     "source": {
+      "doc": "salf",
+      "page": 25
+     }
+    },
+    {
+     "text": "2.000 jueces y 1.500 fiscales más, juicios en 72 horas para multirreincidentes y triplicar la UCO, UDEF y UDYCO (3.000 investigadores más).",
+     "source": {
+      "doc": "salf",
+      "page": 10
+     }
+    },
+    {
+     "text": "Presunción legal de legítima defensa en vivienda o negocio, incluido el uso de armas legalmente tenidas.",
+     "source": {
+      "doc": "salf",
+      "page": 10
+     }
+    },
+    {
+     "text": "Reforma constitucional: suprime el Tribunal Constitucional, despolitiza el CGPJ, prohíbe amnistías, elimina los 17.621 aforamientos y blinda la acción popular.",
+     "source": {
+      "doc": "salf",
+      "page": 27
+     }
+    },
+    {
+     "text": "Reduce de 22 a 10 los ministerios y de 823 a 450 los altos cargos; suprime el Senado y el Consejo de Estado, y limita a 15 años los cargos públicos remunerados.",
+     "source": {
+      "doc": "salf",
+      "page": 29
+     }
+    }
+   ]
+  },
+  "exterior": {
+   "summary": "Antepone el interés nacional: referéndum de renegociación con la UE, línea dura con Marruecos y más inversión en Defensa y militares.",
+   "points": [
+    {
+     "text": "Referéndum para renegociar la relación con la UE y, si Bruselas se niega, un segundo referéndum sobre la salida.",
+     "source": {
+      "doc": "salf",
+      "page": 35
+     }
+    },
+    {
+     "text": "Bloqueo comercial a Marruecos si bloquea un puerto español, reclama territorio español o usa la inmigración como ataque híbrido.",
+     "source": {
+      "doc": "salf",
+      "page": 36
+     }
+    },
+    {
+     "text": "5.000 militares y 1.000 guardias civiles más en Ceuta y Melilla, y baterías antiaéreas y antidrón en esas ciudades y en cada isla canaria.",
+     "source": {
+      "doc": "salf",
+      "page": 37
+     }
+    },
+    {
+     "text": "Mantiene el gasto de Defensa en el 2 % del PIB con prioridad a la industria nacional, equipara sueldos de militares a la Guardia Civil y crea una mili voluntaria remunerada con 1.600 euros al mes.",
+     "source": {
+      "doc": "salf",
+      "page": 38
+     }
+    },
+    {
+     "text": "Ley de agentes extranjeros y prohibición de financiación extranjera de partidos, medios y ONG políticas; ayuda al desarrollo condicionada (ahorro de unos 4.500 M€).",
+     "source": {
+      "doc": "salf",
+      "page": 39
+     }
+    },
+    {
+     "text": "Pone la soberanía sobre la mesa con Gibraltar y vuelve a la posición de la ONU sobre el Sáhara, con tratado de amistad con Argelia.",
+     "source": {
+      "doc": "salf",
+      "page": 38
+     }
+    }
+   ]
+  },
+  "cultura": {
+   "summary": "No tiene sección propia; solo fusiona Cultura y Ciencia con Educación en un único ministerio.",
+   "points": [
+    {
+     "text": "Un solo Ministerio de Educación, Ciencia y Cultura absorbe Educación y FP, Universidades y Ciencia, Cultura y Deportes, y Juventud.",
+     "source": {
+      "doc": "salf",
+      "page": 3
+     }
+    },
+    {
+     "text": "Suprime la publicidad institucional, que hoy sostiene a medios de comunicación, y prohíbe la financiación extranjera de medios que hagan política.",
+     "source": {
+      "doc": "salf",
+      "page": 29
+     }
+    }
+   ]
+  },
+  "otros": {
+   "summary": "Incluye una cláusula de penalización para su líder y un plan para pagar las rebajas con ahorro.",
+   "points": [
+    {
+     "text": "Cláusula de penalización: el sueldo público de Alvise Pérez se bloquea en el Banco de España y, si en 2030 no cumple el 100 % de las 119 medidas, el dinero se queda para España.",
+     "source": {
+      "doc": "salf",
+      "page": 4
+     }
+    },
+    {
+     "text": "Aun sin entrar en el Gobierno, la multa se aplicaría según su actividad de voto en el Congreso, e invita a otros partidos a firmar la misma cláusula.",
+     "source": {
+      "doc": "salf",
+      "page": 4
+     }
+    },
+    {
+     "text": "Plan para reducir deuda: 88.500 M€ de ahorro e ingresos frente a 81.700 M€ de rebajas y gasto, y la diferencia (6.800 M€) iría a rebajar deuda.",
+     "source": {
+      "doc": "salf",
+      "page": 16
+     }
+    }
+   ]
+  }
+ },
+ "distinctive": [
+  {
+   "topic": "vivienda",
+   "text": "Elimina por completo el IBI para todos y sin compensación a los ayuntamientos.",
+   "why": "Rompe con el modelo actual de financiación local; es de los pocos programas que suprimen del todo un impuesto municipal clave.",
+   "source": {
+    "doc": "salf",
+    "page": 7
+   }
+  },
+  {
+   "topic": "economia",
+   "text": "Mínimo exento de 35.000 euros en el IRPF, frente a los 5.550 actuales, aplicado gradualmente hasta 2030.",
+   "why": "Es una rebaja mucho mayor que las habituales en otros programas y se financia con recortes de gasto.",
+   "source": {
+    "doc": "salf",
+    "page": 12
+   }
+  },
+  {
+   "topic": "economia",
+   "text": "Ley de Devolución del Rescate: cinco bancos pagarían 4.700 M€ al año durante 15 años.",
+   "why": "Es de los pocos programas que pide a la banca devolver el coste del rescate de las cajas.",
+   "source": {
+    "doc": "salf",
+    "page": 15
+   }
+  },
+  {
+   "topic": "pensiones",
+   "text": "Sistema mixto: el 2 % del salario de los menores de 45 años iría a una cuenta individual heredable.",
+   "why": "Introduce capitalización individual junto al sistema público de reparto, lo que rompe con el modelo actual.",
+   "source": {
+    "doc": "salf",
+    "page": 20
+   }
+  },
+  {
+   "topic": "instituciones",
+   "text": "Suprimir el Tribunal Constitucional y pasar sus funciones a una sala del Tribunal Supremo elegida por jueces.",
+   "why": "Propone eliminar una institución central del sistema vigente mediante reforma constitucional.",
+   "source": {
+    "doc": "salf",
+    "page": 27
+   }
+  },
+  {
+   "topic": "instituciones",
+   "text": "Reducir de 22 a 10 los ministerios y suprimir Senado, Consejo de Estado y diputaciones provinciales.",
+   "why": "Plantea un recorte de la estructura del Estado mucho mayor que el de la mayoría de programas.",
+   "source": {
+    "doc": "salf",
+    "page": 3
+   }
+  },
+  {
+   "topic": "exterior",
+   "text": "Dos referéndums: renegociar la relación con la UE y, si Bruselas se niega, decidir la salida.",
+   "why": "Es de los pocos partidos que contemplan una votación sobre salir de la UE.",
+   "source": {
+    "doc": "salf",
+    "page": 35
+   }
+  },
+  {
+   "topic": "instituciones",
+   "text": "Presunción legal de legítima defensa en el hogar y licencia de arma para defensa del domicilio sin trabas.",
+   "why": "Amplía mucho el uso de armas de fuego legales para defensa, algo poco habitual en el debate político español.",
+   "source": {
+    "doc": "salf",
+    "page": 10
+   }
+  }
+ ],
+ "glossary": [
+  {
+   "term": "SMI",
+   "definition": "Salario Mínimo Interprofesional: el sueldo más bajo que se puede pagar por ley a jornada completa."
+  },
+  {
+   "term": "IRPF",
+   "definition": "Impuesto sobre la Renta de las Personas Físicas: el impuesto que se paga por los ingresos del trabajo y otras rentas."
+  },
+  {
+   "term": "Mínimo exento",
+   "definition": "Parte de los ingresos sobre la que no se paga IRPF."
+  },
+  {
+   "term": "Cuña fiscal",
+   "definition": "Diferencia entre lo que cuesta un trabajador a la empresa y lo que cobra neto, por impuestos y cotizaciones."
+  },
+  {
+   "term": "ITP y AJD",
+   "definition": "Impuesto de Transmisiones Patrimoniales y de Actos Jurídicos Documentados: se pagan al comprar una vivienda de segunda mano o firmar la hipoteca."
+  },
+  {
+   "term": "IBI",
+   "definition": "Impuesto sobre Bienes Inmuebles: el impuesto municipal anual que pagan los propietarios de viviendas y locales."
+  },
+  {
+   "term": "Sareb",
+   "definition": "Sociedad creada para gestionar los activos inmobiliarios de los bancos rescatados en la crisis de 2008."
+  },
+  {
+   "term": "SOCIMI",
+   "definition": "Sociedades que invierten en inmuebles para alquilarlos y que tienen ventajas fiscales."
+  },
+  {
+   "term": "AIReF",
+   "definition": "Autoridad Independiente de Responsabilidad Fiscal: organismo que vigila las cuentas públicas."
+  },
+  {
+   "term": "Mochila austriaca",
+   "definition": "Cuenta individual del trabajador que se llena con aportaciones de la empresa y que se lleva al cambiar de empleo."
+  },
+  {
+   "term": "Tercer grado",
+   "definition": "Régimen penitenciario de semilibertad que permite pasar gran parte del tiempo fuera de la cárcel."
+  },
+  {
+   "term": "Aforamiento",
+   "definition": "Privilegio por el que ciertos cargos solo pueden ser juzgados por tribunales superiores."
+  },
+  {
+   "term": "PAC",
+   "definition": "Política Agraria Común: ayudas de la UE al campo."
+  },
+  {
+   "term": "UCO, UDEF y UDYCO",
+   "definition": "Unidades de la Guardia Civil y la Policía que investigan corrupción, delitos económicos y drogas."
+  },
+  {
+   "term": "Tribunal Constitucional",
+   "definition": "Tribunal que decide si las leyes respetan la Constitución."
+  }
+ ]
+}

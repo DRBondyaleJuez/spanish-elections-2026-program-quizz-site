@@ -19,7 +19,8 @@ Web estática en **español** para preparar las Elecciones Generales del **29/11
 - Comprobar siempre con `extracted/<id>/pNNN.txt`. Si no se encuentra en el programa: **no se inventa** → `"no lo menciona"` / `null`.
 - Neutralidad: explicar lo que propone cada partido con sus propias ideas. Sin adjetivos que valoren ("absurdo", "valiente"). "Radical/novedoso" significa *muy distinto de los demás o nuevo*, no es un juicio.
 - Programas en catalán/valenciano: resumir en castellano.
-- Cuando aparezca un término técnico, añadirlo a `data/glossary.json` en vez de explicarlo cada vez en el texto.
+- Cuando aparezca un término técnico, añadirlo al `glossary` del resumen (o a `data/glossary_extra.json`) y ejecutar `python tools/build_glossary.py`, que genera `data/glossary.json`. La web subraya esos términos automáticamente.
+- Validar siempre con `python tools/validate.py [id]`.
 
 ## 4. Lista común de temas (`data/topics.json`)
 Usar estos ids en todo el proyecto. Si un tema no encaja, ponerlo en `otros`. No crear temas nuevos sin actualizar este archivo.
@@ -55,8 +56,11 @@ Usar estos ids en todo el proyecto. Si un tema no encaja, ponerlo en `otros`. No
 **`data/summaries/<id>.json`**
 ```json
 { "party": "psoe",
-  "topics": { "vivienda": { "points": [ { "text": "…", "source": { "doc": "psoe", "page": 12 } } ] } },
-  "distinctive": [ { "topic": "vivienda", "text": "…", "why": "Ningún otro partido propone…", "source": { "doc": "psoe", "page": 12 } } ] }
+  "overview": "2-3 frases sobre el programa",
+  "topics": { "vivienda": { "summary": "1 frase", "points": [ { "text": "…", "source": { "doc": "psoe", "page": 12 } } ] },
+              "cultura": { "notMentioned": true, "points": [] } },
+  "distinctive": [ { "topic": "vivienda", "text": "…", "why": "Es de los pocos que…", "source": { "doc": "psoe", "page": 12 } } ],
+  "glossary": [ { "term": "SMI", "definition": "…" } ] }
 ```
 
 **`data/positions.json`** — `[{ "id", "topic", "statement", "stances": { "<party>": { "v": -2..2 | null, "page": N, "note": "…" } } }]`

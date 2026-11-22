@@ -1,0 +1,482 @@
+[
+ {
+  "id": "viv-1",
+  "topic": "vivienda",
+  "statement": "Limitar (topar) por ley el precio del alquiler en zonas con precios muy altos (zonas tensionadas).",
+  "stances": {}
+ },
+ {
+  "id": "viv-2",
+  "topic": "vivienda",
+  "statement": "Derogar o cambiar a fondo la Ley de Vivienda de 2023.",
+  "stances": {}
+ },
+ {
+  "id": "viv-3",
+  "topic": "vivienda",
+  "statement": "Crear un gran parque público de vivienda en alquiler asequible gestionado por el Estado.",
+  "stances": {}
+ },
+ {
+  "id": "viv-4",
+  "topic": "vivienda",
+  "statement": "Endurecer las medidas contra la okupación (desalojos rápidos y más penas).",
+  "stances": {}
+ },
+ {
+  "id": "viv-5",
+  "topic": "vivienda",
+  "statement": "Limitar o gravar más la compra de viviendas por fondos de inversión, grandes propietarios o extranjeros no residentes.",
+  "stances": {}
+ },
+ {
+  "id": "viv-6",
+  "topic": "vivienda",
+  "statement": "Bajar los impuestos a la compra de vivienda o dar avales públicos para la primera vivienda.",
+  "stances": {}
+ },
+ {
+  "id": "viv-7",
+  "topic": "vivienda",
+  "statement": "Restringir más los pisos turísticos.",
+  "stances": {}
+ },
+ {
+  "id": "emp-1",
+  "topic": "empleo",
+  "statement": "Subir el salario mínimo (SMI) de forma importante (al 60 % del salario medio o más).",
+  "stances": {}
+ },
+ {
+  "id": "emp-2",
+  "topic": "empleo",
+  "statement": "Reducir la jornada laboral máxima (37,5 horas o menos) sin bajar el sueldo.",
+  "stances": {}
+ },
+ {
+  "id": "emp-3",
+  "topic": "empleo",
+  "statement": "Encarecer el despido (más indemnización o más protección frente al despido injustificado).",
+  "stances": {}
+ },
+ {
+  "id": "emp-4",
+  "topic": "empleo",
+  "statement": "Rebajar las cotizaciones sociales o las cuotas de los autónomos.",
+  "stances": {}
+ },
+ {
+  "id": "emp-5",
+  "topic": "empleo",
+  "statement": "Que las comunidades autónomas puedan tener su propio salario mínimo o marco laboral.",
+  "stances": {}
+ },
+ {
+  "id": "eco-1",
+  "topic": "economia",
+  "statement": "Bajar el IRPF de forma general.",
+  "stances": {}
+ },
+ {
+  "id": "eco-2",
+  "topic": "economia",
+  "statement": "Subir los impuestos a las grandes fortunas y patrimonios.",
+  "stances": {}
+ },
+ {
+  "id": "eco-3",
+  "topic": "economia",
+  "statement": "Que las grandes empresas, bancos o energéticas paguen más impuestos.",
+  "stances": {}
+ },
+ {
+  "id": "eco-4",
+  "topic": "economia",
+  "statement": "Reducir el gasto público y el tamaño de la administración.",
+  "stances": {}
+ },
+ {
+  "id": "eco-5",
+  "topic": "economia",
+  "statement": "Crear banca pública o empresas públicas en sectores estratégicos.",
+  "stances": {}
+ },
+ {
+  "id": "eco-6",
+  "topic": "economia",
+  "statement": "Eliminar o rebajar mucho el impuesto de sucesiones y donaciones.",
+  "stances": {}
+ },
+ {
+  "id": "pen-1",
+  "topic": "pensiones",
+  "statement": "Garantizar por ley que las pensiones suban con el IPC.",
+  "stances": {}
+ },
+ {
+  "id": "pen-2",
+  "topic": "pensiones",
+  "statement": "Subir de forma importante las pensiones mínimas y no contributivas.",
+  "stances": {}
+ },
+ {
+  "id": "pen-3",
+  "topic": "pensiones",
+  "statement": "Facilitar la jubilación anticipada sin penalización para carreras largas o trabajos duros.",
+  "stances": {}
+ },
+ {
+  "id": "pen-4",
+  "topic": "pensiones",
+  "statement": "Ampliar el Ingreso Mínimo Vital o crear ayudas universales (por ejemplo, por crianza).",
+  "stances": {}
+ },
+ {
+  "id": "pen-5",
+  "topic": "pensiones",
+  "statement": "Impulsar los planes de pensiones privados o de empresa como complemento.",
+  "stances": {}
+ },
+ {
+  "id": "san-1",
+  "topic": "sanidad",
+  "statement": "Revertir privatizaciones y reducir los conciertos con la sanidad privada.",
+  "stances": {}
+ },
+ {
+  "id": "san-2",
+  "topic": "sanidad",
+  "statement": "Incluir el dentista (salud bucodental) en la sanidad pública.",
+  "stances": {}
+ },
+ {
+  "id": "san-3",
+  "topic": "sanidad",
+  "statement": "Usar la sanidad privada concertada para reducir las listas de espera.",
+  "stances": {}
+ },
+ {
+  "id": "san-4",
+  "topic": "sanidad",
+  "statement": "Limitar la atención sanitaria gratuita a inmigrantes en situación irregular.",
+  "stances": {}
+ },
+ {
+  "id": "san-5",
+  "topic": "sanidad",
+  "statement": "Reforzar mucho la salud mental en la sanidad pública (más psicólogos y psiquiatras).",
+  "stances": {}
+ },
+ {
+  "id": "edu-1",
+  "topic": "educacion",
+  "statement": "Proteger la educación concertada y la libertad de los padres para elegir colegio.",
+  "stances": {}
+ },
+ {
+  "id": "edu-2",
+  "topic": "educacion",
+  "statement": "Sacar la asignatura de religión del horario escolar.",
+  "stances": {}
+ },
+ {
+  "id": "edu-3",
+  "topic": "educacion",
+  "statement": "Educación infantil de 0 a 3 años gratuita y universal.",
+  "stances": {}
+ },
+ {
+  "id": "edu-4",
+  "topic": "educacion",
+  "statement": "Garantizar que se pueda estudiar en castellano en toda España (frente a la inmersión lingüística).",
+  "stances": {}
+ },
+ {
+  "id": "edu-5",
+  "topic": "educacion",
+  "statement": "Bajar o eliminar las tasas de la universidad pública.",
+  "stances": {}
+ },
+ {
+  "id": "edu-6",
+  "topic": "educacion",
+  "statement": "Que los padres puedan vetar contenidos de educación afectivo-sexual (\"pin parental\").",
+  "stances": {}
+ },
+ {
+  "id": "igu-1",
+  "topic": "igualdad",
+  "statement": "Mantener o ampliar las leyes específicas contra la violencia de género (machista).",
+  "stances": {}
+ },
+ {
+  "id": "igu-2",
+  "topic": "igualdad",
+  "statement": "Garantizar el aborto en la sanidad pública.",
+  "stances": {}
+ },
+ {
+  "id": "igu-3",
+  "topic": "igualdad",
+  "statement": "Mantener o ampliar la Ley Trans y la libre determinación del género.",
+  "stances": {}
+ },
+ {
+  "id": "igu-4",
+  "topic": "igualdad",
+  "statement": "Ampliar los permisos por nacimiento y cuidado de hijos.",
+  "stances": {}
+ },
+ {
+  "id": "igu-5",
+  "topic": "igualdad",
+  "statement": "Abolir la prostitución (castigar el proxenetismo y la compra de sexo).",
+  "stances": {}
+ },
+ {
+  "id": "inm-1",
+  "topic": "inmigracion",
+  "statement": "Regularizar a los inmigrantes en situación irregular (regularización extraordinaria o permanente).",
+  "stances": {}
+ },
+ {
+  "id": "inm-2",
+  "topic": "inmigracion",
+  "statement": "Expulsar a los inmigrantes en situación irregular y endurecer el control de fronteras.",
+  "stances": {}
+ },
+ {
+  "id": "inm-3",
+  "topic": "inmigracion",
+  "statement": "Cerrar los Centros de Internamiento de Extranjeros (CIE).",
+  "stances": {}
+ },
+ {
+  "id": "inm-4",
+  "topic": "inmigracion",
+  "statement": "Repartir de forma obligatoria entre comunidades a los menores migrantes no acompañados.",
+  "stances": {}
+ },
+ {
+  "id": "inm-5",
+  "topic": "inmigracion",
+  "statement": "Dar prioridad a los españoles en ayudas, vivienda y servicios públicos (\"prioridad nacional\").",
+  "stances": {}
+ },
+ {
+  "id": "inm-6",
+  "topic": "inmigracion",
+  "statement": "Endurecer los requisitos para conseguir la nacionalidad española.",
+  "stances": {}
+ },
+ {
+  "id": "med-1",
+  "topic": "medioambiente",
+  "statement": "Alargar la vida de las centrales nucleares.",
+  "stances": {}
+ },
+ {
+  "id": "med-2",
+  "topic": "medioambiente",
+  "statement": "Acelerar las energías renovables y los objetivos contra el cambio climático.",
+  "stances": {}
+ },
+ {
+  "id": "med-3",
+  "topic": "medioambiente",
+  "statement": "Rechazar o revisar a fondo la Agenda 2030 o el Pacto Verde Europeo.",
+  "stances": {}
+ },
+ {
+  "id": "med-4",
+  "topic": "medioambiente",
+  "statement": "Prohibir los vuelos cortos cuando haya alternativa en tren.",
+  "stances": {}
+ },
+ {
+  "id": "med-5",
+  "topic": "medioambiente",
+  "statement": "Crear una empresa pública de energía.",
+  "stances": {}
+ },
+ {
+  "id": "med-6",
+  "topic": "medioambiente",
+  "statement": "Prohibir las corridas de toros o retirarles las ayudas públicas.",
+  "stances": {}
+ },
+ {
+  "id": "rur-1",
+  "topic": "rural",
+  "statement": "Defender la caza y las tradiciones del mundo rural.",
+  "stances": {}
+ },
+ {
+  "id": "rur-2",
+  "topic": "rural",
+  "statement": "Exigir a los alimentos importados las mismas normas que a los españoles (o rechazar acuerdos como Mercosur).",
+  "stances": {}
+ },
+ {
+  "id": "rur-3",
+  "topic": "rural",
+  "statement": "Reformar la PAC para que las ayudas lleguen sobre todo a pequeños agricultores profesionales.",
+  "stances": {}
+ },
+ {
+  "id": "rur-4",
+  "topic": "rural",
+  "statement": "Hacer nuevos trasvases o un Plan Hidrológico Nacional.",
+  "stances": {}
+ },
+ {
+  "id": "ter-1",
+  "topic": "territorio",
+  "statement": "Reconocer el derecho de autodeterminación (referéndum de independencia).",
+  "stances": {}
+ },
+ {
+  "id": "ter-2",
+  "topic": "territorio",
+  "statement": "Devolver al Estado competencias de las comunidades autónomas (recentralizar).",
+  "stances": {}
+ },
+ {
+  "id": "ter-3",
+  "topic": "territorio",
+  "statement": "Avanzar hacia un Estado federal o plurinacional.",
+  "stances": {}
+ },
+ {
+  "id": "ter-4",
+  "topic": "territorio",
+  "statement": "Dar a su territorio una financiación singular o más soberanía fiscal (tipo concierto económico).",
+  "stances": {}
+ },
+ {
+  "id": "ter-5",
+  "topic": "territorio",
+  "statement": "Perdonar (condonar) parte de la deuda de las comunidades autónomas.",
+  "stances": {}
+ },
+ {
+  "id": "ter-6",
+  "topic": "territorio",
+  "statement": "Traspasar más competencias a las comunidades autónomas.",
+  "stances": {}
+ },
+ {
+  "id": "ins-1",
+  "topic": "instituciones",
+  "statement": "Que los jueces elijan a la mayoría del Consejo General del Poder Judicial (CGPJ).",
+  "stances": {}
+ },
+ {
+  "id": "ins-2",
+  "topic": "instituciones",
+  "statement": "Hacer un referéndum sobre monarquía o república.",
+  "stances": {}
+ },
+ {
+  "id": "ins-3",
+  "topic": "instituciones",
+  "statement": "Derogar o reformar a fondo la \"ley mordaza\" (Ley de Seguridad Ciudadana).",
+  "stances": {}
+ },
+ {
+  "id": "ins-4",
+  "topic": "instituciones",
+  "statement": "Endurecer el Código Penal (más penas, multirreincidencia, prisión permanente revisable).",
+  "stances": {}
+ },
+ {
+  "id": "ins-5",
+  "topic": "instituciones",
+  "statement": "Mantener o ampliar la Ley de Memoria Democrática.",
+  "stances": {}
+ },
+ {
+  "id": "ins-6",
+  "topic": "instituciones",
+  "statement": "Reducir el número de ministerios, altos cargos o entes públicos.",
+  "stances": {}
+ },
+ {
+  "id": "ins-7",
+  "topic": "instituciones",
+  "statement": "Eliminar o reducir los aforamientos de los políticos.",
+  "stances": {}
+ },
+ {
+  "id": "ext-1",
+  "topic": "exterior",
+  "statement": "Aumentar el gasto en defensa (objetivo de la OTAN o más).",
+  "stances": {}
+ },
+ {
+  "id": "ext-2",
+  "topic": "exterior",
+  "statement": "Salir de la OTAN.",
+  "stances": {}
+ },
+ {
+  "id": "ext-3",
+  "topic": "exterior",
+  "statement": "Romper relaciones o prohibir la venta de armas a Israel.",
+  "stances": {}
+ },
+ {
+  "id": "ext-4",
+  "topic": "exterior",
+  "statement": "Más integración europea (una UE más federal o con más poder).",
+  "stances": {}
+ },
+ {
+  "id": "ext-5",
+  "topic": "exterior",
+  "statement": "Apoyar el derecho de autodeterminación del Sáhara Occidental.",
+  "stances": {}
+ },
+ {
+  "id": "ext-6",
+  "topic": "exterior",
+  "statement": "Seguir apoyando militarmente a Ucrania.",
+  "stances": {}
+ },
+ {
+  "id": "cul-1",
+  "topic": "cultura",
+  "statement": "Bajar el IVA de la cultura.",
+  "stances": {}
+ },
+ {
+  "id": "cul-2",
+  "topic": "cultura",
+  "statement": "Regular más las grandes plataformas digitales y la inteligencia artificial.",
+  "stances": {}
+ },
+ {
+  "id": "cul-3",
+  "topic": "cultura",
+  "statement": "Prohibir las redes sociales a los menores (14-16 años).",
+  "stances": {}
+ },
+ {
+  "id": "cul-4",
+  "topic": "cultura",
+  "statement": "Aumentar mucho la inversión pública en ciencia e I+D.",
+  "stances": {}
+ },
+ {
+  "id": "cul-5",
+  "topic": "cultura",
+  "statement": "Reducir o privatizar la televisión pública (RTVE).",
+  "stances": {}
+ },
+ {
+  "id": "cul-6",
+  "topic": "cultura",
+  "statement": "Promover las lenguas cooficiales (catalán, euskera, gallego) en las instituciones del Estado y la UE.",
+  "stances": {}
+ }
+]

@@ -1,0 +1,220 @@
+{
+  "party": "podemos",
+  "overview": "Podemos plantea su programa bajo el lema «Paz, casa y trabajo»: quiere que el dinero público y los beneficios de las grandes empresas se redirijan hacia vivienda asequible, servicios públicos y mejores salarios. Propone intervenir mercados (alquileres, energía, alimentación), subir impuestos a grandes fortunas y empresas, reducir la jornada laboral, salir de la OTAN y frenar el gasto militar. También defiende una reforma profunda del Estado con horizonte republicano.",
+  "topics": {
+    "vivienda": {
+      "summary": "Trata la vivienda como un derecho y no como un negocio: baja los alquileres por ley, limita la compra de pisos como inversión y amplía mucho el parque público.",
+      "points": [
+        { "text": "Bajar por ley un 40% los alquileres, también en contratos vigentes, sin que el precio quede por debajo del 60% del precio medio de la zona.", "source": { "doc": "podemos", "page": 8 } },
+        { "text": "Convertir por defecto todos los contratos de alquiler de vivienda habitual en contratos de duración indefinida, para que nadie tenga que irse solo porque el contrato vence.", "source": { "doc": "podemos", "page": 8 } },
+        { "text": "Prohibir comprar y acumular viviendas que no sean para residencia habitual o segunda residencia propia: deberán usarse así durante cuatro años y no podrán estar vacías ni alquilarse.", "source": { "doc": "podemos", "page": 8 } },
+        { "text": "Impulsar la expropiación de uso de las viviendas que superen diez en manos de grandes tenedores, fondos y bancos (unas 626.000), para destinarlas al alquiler social.", "source": { "doc": "podemos", "page": 8 } },
+        { "text": "Prohibir los desahucios de personas vulnerables sin alternativa de vivienda digna, con suspensión indefinida, y prohibir los desalojos extrajudiciales e ilegalizar las empresas de desokupación.", "source": { "doc": "podemos", "page": 9 } },
+        { "text": "Eliminar progresivamente los pisos turísticos mientras dure la emergencia habitacional, prohibir nuevas licencias y crear un Cuerpo Público de Inspectores de Vivienda.", "source": { "doc": "podemos", "page": 9 } },
+        { "text": "Crear una inmobiliaria pública que gestione los alquileres de propietarios que se adhieran, a cambio de una renta máxima del 30% de la renta media del municipio.", "source": { "doc": "podemos", "page": 10 } },
+        { "text": "Limitar los intereses de hipotecas variables de hogares con ingresos bajos al euríbor más 0,1% mientras el euríbor supere el 2%, con coste a cargo de los bancos.", "source": { "doc": "podemos", "page": 13 } }
+      ]
+    },
+    "empleo": {
+      "summary": "Propone trabajar menos y cobrar más: SMI mucho más alto, jornada de 30 horas y una reversión de las reformas laborales de 2010 y 2012.",
+      "points": [
+        { "text": "Subir el SMI hasta 1.800 euros mensuales en una legislatura y fijar por ley que nunca sea inferior al 75% del salario mediano.", "source": { "doc": "podemos", "page": 41 } },
+        { "text": "Subir los salarios automáticamente según el coste de la vida cuando el convenio colectivo no pacte mejoras.", "source": { "doc": "podemos", "page": 41 } },
+        { "text": "Reducir la jornada a 30 horas semanales durante la legislatura, empezando por 35, con posibilidad de semana de cuatro días y teletrabajo dos días a la semana donde sea posible, sin bajar sueldos.", "source": { "doc": "podemos", "page": 41 } },
+        { "text": "Aprobar un nuevo Estatuto de los Trabajadores y Trabajadoras que derogue los efectos de las reformas laborales de 2010 y 2012.", "source": { "doc": "podemos", "page": 42 } },
+        { "text": "Restablecer la indemnización de 45 días por año en despidos ilegales, con derecho a elegir entre indemnización o readmisión, y recuperar la autorización administrativa previa en los ERE.", "source": { "doc": "podemos", "page": 42 } },
+        { "text": "Prohibir las horas extra sin compensación en descanso y castigar penalmente a las empresas que obliguen a hacerlas sin pagarlas.", "source": { "doc": "podemos", "page": 42 } },
+        { "text": "Aprobar la «Ley Kellys»: las empresas subcontratadas tendrían las mismas condiciones de trabajo que la empresa principal.", "source": { "doc": "podemos", "page": 43 } },
+        { "text": "Cambiar el acceso al paro para que cada 2 meses cotizados den derecho a 1 mes de prestación.", "source": { "doc": "podemos", "page": 43 } }
+      ]
+    },
+    "economia": {
+      "summary": "Quiere más impuestos a grandes fortunas, banca y grandes empresas, más sector público (banca, supermercados) y control de precios.",
+      "points": [
+        { "text": "Convertir el impuesto a las grandes fortunas en un impuesto estatal permanente, con las mismas características que el Impuesto del Patrimonio, para que las comunidades autónomas no puedan eliminarlo.", "source": { "doc": "podemos", "page": 17 } },
+        { "text": "Establecer un impuesto permanente a los beneficios extraordinarios de la banca para que al menos el 50% revierta en las arcas públicas, y pedirle que devuelva el rescate.", "source": { "doc": "podemos", "page": 17 } },
+        { "text": "Crear una Banca Pública que integre el ICO, el CDTI y ENISA y con la que operen en exclusiva las administraciones públicas.", "source": { "doc": "podemos", "page": 17 } },
+        { "text": "Crear una red pública de supermercados que no aplique margen de beneficio y priorice la compra de proximidad, y poner límites a los márgenes de las grandes cadenas.", "source": { "doc": "podemos", "page": 17 } },
+        { "text": "Subir el tipo mínimo efectivo del Impuesto de Sociedades del 15% al 19% y fijar un 29% mínimo efectivo (35% nominal) para empresas en régimen de oligopolio.", "source": { "doc": "podemos", "page": 21 } },
+        { "text": "Reformar el IRPF: bajar el tipo mínimo del 9,5% al 9%, subir los tramos desde 60.000 euros hasta el 28,5% a partir de 500.000 y equiparar en una legislatura las rentas del capital con las del trabajo.", "source": { "doc": "podemos", "page": 21 } },
+        { "text": "Derogar la reforma constitucional del artículo 135 para que el pago de la deuda deje de tener preferencia sobre la inversión social.", "source": { "doc": "podemos", "page": 23 } },
+        { "text": "Cotización de autónomos como porcentaje progresivo del beneficio, con cuota cero si hay pérdidas, y reserva de un porcentaje de contratación pública para autónomos y pymes.", "source": { "doc": "podemos", "page": 23 } }
+      ]
+    },
+    "pensiones": {
+      "summary": "Defiende un sistema público reforzado: más ingresos (sin tope de cotización), pensiones mínimas equiparadas al SMI y jubilación más temprana.",
+      "points": [
+        { "text": "Adelantar la edad ordinaria de jubilación a los 63 años, garantizando la sostenibilidad del sistema.", "source": { "doc": "podemos", "page": 41 } },
+        { "text": "Eliminar, también con efecto retroactivo, las penalizaciones por jubilación anticipada para quien acredite 40 años cotizados.", "source": { "doc": "podemos", "page": 41 } },
+        { "text": "Suprimir el tope máximo de las bases de cotización y crear cotizaciones progresivas según la renta y los beneficios de las empresas.", "source": { "doc": "podemos", "page": 44 } },
+        { "text": "Equiparar la pensión mínima contributiva al SMI y fijar la pensión no contributiva en el 80% del SMI.", "source": { "doc": "podemos", "page": 44 } },
+        { "text": "Eliminar las desgravaciones del IRPF por planes de pensiones privados, incluidos los planes de empleo.", "source": { "doc": "podemos", "page": 21 } },
+        { "text": "Integrar en la Seguridad Social las mutualidades alternativas al RETA y sustituir a las mutuas colaboradoras en accidentes de trabajo y enfermedades profesionales.", "source": { "doc": "podemos", "page": 45 } },
+        { "text": "Potenciar el Ingreso Mínimo Vital hasta convertirlo en una renta universal incondicionada para toda la ciudadanía.", "source": { "doc": "podemos", "page": 45 } },
+        { "text": "Reconocer una prestación a quien cuida a una persona dependiente: 100% del SMI en grado III, 70% en grado II y 40% en grado I.", "source": { "doc": "podemos", "page": 46 } }
+      ]
+    },
+    "sanidad": {
+      "summary": "Propone blindar una sanidad de gestión pública directa, revertir las privatizaciones y ampliar la cartera de servicios (salud mental, dentista).",
+      "points": [
+        { "text": "Derogar las leyes privatizadoras, prohibir externalizar centros y servicios sanitarios y recuperar los privatizados cuando venzan los contratos, sin prórrogas.", "source": { "doc": "podemos", "page": 88 } },
+        { "text": "Crear una industria sanitaria y farmacéutica pública que fabrique y almacene material como mascarillas o respiradores.", "source": { "doc": "podemos", "page": 88 } },
+        { "text": "Subir la financiación sanitaria hasta 2.900 euros por habitante y año (hoy 2.247), cerca del 8% del PIB, con un fondo estatal solo para gestión pública directa.", "source": { "doc": "podemos", "page": 89 } },
+        { "text": "Reducir las listas de espera contando el tiempo desde la primera indicación clínica y cumpliendo los plazos máximos acordados.", "source": { "doc": "podemos", "page": 90 } },
+        { "text": "Aprobar una Ley General de Salud Mental con ratios mínimas de profesionales, atención psicológica pública gratuita y fin de la contención mecánica.", "source": { "doc": "podemos", "page": 91 } },
+        { "text": "Incluir en la sanidad pública el dentista (empastes, ortodoncias, prótesis) y hacer el copago farmacéutico proporcional a la renta.", "source": { "doc": "podemos", "page": 92 } },
+        { "text": "Reforzar recursos y trámites para garantizar el derecho a una muerte digna, evitando que la objeción de conciencia lo bloquee.", "source": { "doc": "podemos", "page": 94 } }
+      ]
+    },
+    "educacion": {
+      "summary": "Apuesta por una única red educativa de gestión pública, con menos alumnos por aula, más salario docente y gratuidad de materiales y comedor.",
+      "points": [
+        { "text": "Avanzar hacia una única red educativa pública con moratoria indefinida de nuevos conciertos y centros privados, y reabsorción voluntaria de los concertados.", "source": { "doc": "podemos", "page": 79 } },
+        { "text": "Reducir las ratios máximas a 15 alumnos en Primaria, 20 en Secundaria y 23 en Bachillerato, y a 13 por profesional en Infantil de 3 a 6 años.", "source": { "doc": "podemos", "page": 79 } },
+        { "text": "Subir un 30% los salarios del personal de centros públicos y cubrir las vacantes en un máximo de siete días.", "source": { "doc": "podemos", "page": 81 } },
+        { "text": "Garantizar libros de texto, material escolar y recursos gratuitos para todo el alumnado mediante un Plan Estatal de Gratuidad y Reutilización.", "source": { "doc": "podemos", "page": 82 } },
+        { "text": "Suprimir la enseñanza de cualquier religión en los colegios.", "source": { "doc": "podemos", "page": 83 } },
+        { "text": "Crear una asignatura obligatoria de Educación Sexual y en Igualdad en todas las etapas educativas.", "source": { "doc": "podemos", "page": 83 } },
+        { "text": "Lograr progresivamente la gratuidad universal de los comedores escolares, con alimentos ecológicos y de proximidad.", "source": { "doc": "podemos", "page": 85 } },
+        { "text": "Moratoria indefinida a la creación de nuevas universidades privadas y revisión de las licencias ya concedidas.", "source": { "doc": "podemos", "page": 86 } }
+      ]
+    },
+    "igualdad": {
+      "summary": "Combina medidas contra la violencia machista y por los derechos LGTBI con un gran sistema público de cuidados y conciliación.",
+      "points": [
+        { "text": "Crear un fondo de contingencia de mil millones de euros para financiar de forma estable las políticas contra todas las violencias machistas.", "source": { "doc": "podemos", "page": 51 } },
+        { "text": "Blindar el derecho al aborto: sacarlo del Código Penal e incorporarlo expresamente a la Constitución, en el artículo 15.", "source": { "doc": "podemos", "page": 51 } },
+        { "text": "Paquete LGTBIQA+: opción de género no binario en documentos oficiales y cupo laboral trans en el empleo público, entre otras medidas.", "source": { "doc": "podemos", "page": 52 } },
+        { "text": "Prestación para mujeres que salen de la violencia machista equivalente al SMI durante 6 meses prorrogables, más alternativa de vivienda inmediata.", "source": { "doc": "podemos", "page": 53 } },
+        { "text": "Hacer gratuitos todos los anticonceptivos, incluidos los de urgencia, y extender la reproducción asistida pública a todas las mujeres, también lesbianas, bisexuales y personas trans.", "source": { "doc": "podemos", "page": 57 } },
+        { "text": "Ampliar los permisos por nacimiento a 26 semanas por progenitor, intransferibles y remunerados, y duplicarlos en familias monomarentales.", "source": { "doc": "podemos", "page": 60 } },
+        { "text": "Crear una prestación universal por crianza: el 15% del SMI mensual por cada hijo o hija desde el nacimiento hasta los 21 años.", "source": { "doc": "podemos", "page": 60 } },
+        { "text": "Crear un Sistema Estatal de Cuidados y Conciliación como cuarto pilar del Estado del Bienestar, cubierto con recursos públicos para quien lo necesite.", "source": { "doc": "podemos", "page": 62 } }
+      ]
+    },
+    "inmigracion": {
+      "summary": "Propone cambiar por completo el modelo migratorio: derogar la Ley de Extranjería, abrir vías legales, facilitar la nacionalidad y cerrar los CIE.",
+      "points": [
+        { "text": "Derogar la Ley de Extranjería (LO 4/2000) y aprobar una ley integral que acabe con las devoluciones en caliente y atienda a menores no acompañados.", "source": { "doc": "podemos", "page": 65 } },
+        { "text": "Cerrar todos los Centros de Internamiento de Extranjeros (CIE) y sustituirlos por alternativas comunitarias.", "source": { "doc": "podemos", "page": 65 } },
+        { "text": "Reducir a un año el plazo para pedir la nacionalidad a quien acredite arraigo, y eliminar las tasas de los procedimientos de regularización y nacionalidad.", "source": { "doc": "podemos", "page": 66 } },
+        { "text": "Ampliar el ius soli: serían españoles de origen los nacidos en España de padres extranjeros si alguno de ellos llevaba al menos un año de estancia legal en España antes del nacimiento.", "source": { "doc": "podemos", "page": 66 } },
+        { "text": "Crear un procedimiento permanente de regularización que reconozca el arraigo social, familiar y comunitario sin exigir solo un contrato de trabajo.", "source": { "doc": "podemos", "page": 67 } },
+        { "text": "Derogar el Pacto Europeo de Migración y Asilo y proponer un reparto vinculante de responsabilidades entre los países de la UE.", "source": { "doc": "podemos", "page": 32 } },
+        { "text": "Crear vías legales y seguras de entrada, con más reagrupación familiar y un visado de búsqueda de empleo.", "source": { "doc": "podemos", "page": 32 } },
+        { "text": "Acabar con los acuerdos de cooperación migratoria que externalizan fronteras (Marruecos, Mauritania, Senegal) y rechazar centros de detención en terceros países.", "source": { "doc": "podemos", "page": 33 } }
+      ]
+    },
+    "medioambiente": {
+      "summary": "Combina control público de la energía, transición a renovables y transporte público (incluso gratuito) con impuestos a quien más contamina.",
+      "points": [
+        { "text": "Crear una Empresa Pública de Energía con las concesiones hidroeléctricas que reviertan y que adquiera la mayoría absoluta de Repsol.", "source": { "doc": "podemos", "page": 18 } },
+        { "text": "Hacer gratuito todo el transporte público de viajeros, con una tarjeta única válida en todo el Estado, financiado con fiscalidad verde y tasas a vuelos privados.", "source": { "doc": "podemos", "page": 19 } },
+        { "text": "Gravar con entre un 7% y un 15% los beneficios de las grandes empresas más contaminantes y prohibirles subvenciones y contratos públicos.", "source": { "doc": "podemos", "page": 19 } },
+        { "text": "Reducir a la mitad la energía primaria fósil en 2030, llegar al 95% de electricidad renovable en 2035 y a un sistema descarbonizado en 2040.", "source": { "doc": "podemos", "page": 98 } },
+        { "text": "Reconocer personalidad jurídica a Doñana, cerrar regadíos ilegales a su alrededor y cumplir la ley del Mar Menor.", "source": { "doc": "podemos", "page": 98 } },
+        { "text": "Cumplir el calendario de cierre nuclear con una transición justa para los territorios afectados.", "source": { "doc": "podemos", "page": 103 } },
+        { "text": "Prohibir vuelos cortos cuando exista alternativa en tren de menos de tres horas, y avanzar hacia la prohibición de los jets privados de uso no esencial.", "source": { "doc": "podemos", "page": 104 } },
+        { "text": "Renacionalizar el ferrocarril con un único operador público (Renfe y Adif juntos) y revocar las licencias de Ouigo e Iryo.", "source": { "doc": "podemos", "page": 105 } }
+      ]
+    },
+    "rural": {
+      "summary": "Defiende a las explotaciones familiares frente a los grandes fondos y macroexplotaciones, con una PAC más redistributiva y precios justos.",
+      "points": [
+        { "text": "Dar prioridad a quien trabaja la tierra frente a los fondos de inversión, con derechos públicos de adquisición preferente y ayudas centradas en explotaciones familiares.", "source": { "doc": "podemos", "page": 110 } },
+        { "text": "Reformar la PAC: eliminar los derechos históricos, limitar la concentración de ayudas y apoyar más a explotaciones familiares y profesionales.", "source": { "doc": "podemos", "page": 111 } },
+        { "text": "Moratoria indefinida a nuevas macroexplotaciones y a la compra de tierras fértiles por fondos y grandes corporaciones.", "source": { "doc": "podemos", "page": 111 } },
+        { "text": "Obligar a todas las administraciones públicas a comprar alimentos de proximidad en circuito corto.", "source": { "doc": "podemos", "page": 112 } },
+        { "text": "Aprobar la Ley Jornalera: eliminar el requisito de peonadas para el subsidio agrario y condonar cuotas de periodos de inactividad en Andalucía y Extremadura.", "source": { "doc": "podemos", "page": 46 } },
+        { "text": "Exigir que los productos importados cumplan los mismos estándares de producción que los europeos.", "source": { "doc": "podemos", "page": 115 } },
+        { "text": "Apoyo público decidido a la agricultura y ganadería ecológicas.", "source": { "doc": "podemos", "page": 116 } }
+      ]
+    },
+    "territorio": {
+      "summary": "No dedica un bloque a la financiación autonómica; plantea un proceso constituyente que reconozca la plurinacionalidad de España y un Senado territorial.",
+      "points": [
+        { "text": "Abrir un proceso constituyente hacia una república que reconozca la plurinacionalidad, con un referéndum separado sobre monarquía o república.", "source": { "doc": "podemos", "page": 128 } },
+        { "text": "Reformar el Senado para que sea una verdadera cámara territorial, con la misma representación para todas las comunidades autónomas.", "source": { "doc": "podemos", "page": 129 } },
+        { "text": "Reformar el régimen fiscal de Canarias para que autónomos y pymes paguen menos y las grandes empresas paguen más.", "source": { "doc": "podemos", "page": 23 } },
+        { "text": "Garantizar la enseñanza de las lenguas cooficiales y propias de los pueblos del Estado, con oferta suficiente en todas las etapas educativas.", "source": { "doc": "podemos", "page": 85 } }
+      ]
+    },
+    "instituciones": {
+      "summary": "Propone democratizar el Estado: horizonte republicano, reforma electoral y judicial, lucha contra la corrupción y derogación de la Ley Mordaza.",
+      "points": [
+        { "text": "Eliminar la inviolabilidad del Rey, someter la Casa Real a las mismas obligaciones de transparencia y abrir una comisión de investigación sobre los negocios de la monarquía.", "source": { "doc": "podemos", "page": 128 } },
+        { "text": "Suprimir los aforamientos y reducir el peso político del Tribunal Supremo.", "source": { "doc": "podemos", "page": 128 } },
+        { "text": "Cambiar el sistema electoral: circunscripción autonómica, método Sainte-Laguë en vez de D'Hondt y sin barreras mínimas de entrada.", "source": { "doc": "podemos", "page": 129 } },
+        { "text": "Reconocer el derecho al voto a partir de los 16 años.", "source": { "doc": "podemos", "page": 129 } },
+        { "text": "Suprimir la Audiencia Nacional y repartir sus competencias entre los órganos de la jurisdicción ordinaria.", "source": { "doc": "podemos", "page": 131 } },
+        { "text": "Nueva Ley de Secretos Oficiales: documentos públicos por defecto, desclasificación automática a los 20 años como máximo y fin del secreto para violaciones de derechos humanos.", "source": { "doc": "podemos", "page": 133 } },
+        { "text": "Derogar la Ley Mordaza y aprobar una regulación que proteja la libertad de expresión, reunión y manifestación.", "source": { "doc": "podemos", "page": 133 } },
+        { "text": "Prohibir la infiltración de agentes policiales en movimientos sociales pacíficos y crear un delito por usar estructuras de seguridad del Estado para delinquir.", "source": { "doc": "podemos", "page": 132 } }
+      ]
+    },
+    "exterior": {
+      "summary": "Defiende una política exterior de paz y neutralidad: salir de la OTAN, frenar el rearme y romper relaciones con Israel.",
+      "points": [
+        { "text": "Impulsar la salida de España de la OTAN y cerrar las bases militares estadounidenses de Rota y Morón.", "source": { "doc": "podemos", "page": 28 } },
+        { "text": "Revertir el aumento del gasto militar, congelarlo durante la legislatura y rechazar el objetivo de la OTAN del 5% del PIB en 2035.", "source": { "doc": "podemos", "page": 28 } },
+        { "text": "Reforma constitucional de «No a la guerra» y un Estatuto de Neutralidad que impida la participación en guerras de agresión.", "source": { "doc": "podemos", "page": 28 } },
+        { "text": "Reformar la ONU y su Consejo de Seguridad, eliminando el derecho de veto de los miembros permanentes.", "source": { "doc": "podemos", "page": 30 } },
+        { "text": "Romper relaciones diplomáticas, culturales y comerciales con Israel hasta el fin de la ocupación, y promover un embargo de armas sin excepciones.", "source": { "doc": "podemos", "page": 34 } },
+        { "text": "Promover el referéndum de autodeterminación en el Sáhara Occidental y el reconocimiento diplomático de la República Árabe Saharaui Democrática.", "source": { "doc": "podemos", "page": 36 } },
+        { "text": "Rechazar tratados de libre comercio como el acuerdo UE-Mercosur y revisar otros como el CETA.", "source": { "doc": "podemos", "page": 37 } }
+      ]
+    },
+    "cultura": {
+      "summary": "Plantea apoyar a artistas y creadores con derechos laborales, ayudas y cuotas, y regular medios y redes bajo control público y democrático.",
+      "points": [
+        { "text": "Desarrollar por completo el Estatuto del Artista y del Trabajador de la Cultura, con renta compensatoria y protección por desempleo para quienes trabajan de forma intermitente.", "source": { "doc": "podemos", "page": 47 } },
+        { "text": "Bajar al 5% el IVA de las entradas a teatro, danza, circo, conciertos y espectáculos culturales en vivo.", "source": { "doc": "podemos", "page": 20 } },
+        { "text": "Fomentar la gratuidad o precios reducidos en museos, monumentos y cultura en vivo.", "source": { "doc": "podemos", "page": 73 } },
+        { "text": "Fijar cuotas de edad (menores de 35 años) y género en la selección de directores y creadores en instalaciones públicas.", "source": { "doc": "podemos", "page": 74 } },
+        { "text": "Crear una imprenta pública para que editoriales independientes no dependan del precio del papel.", "source": { "doc": "podemos", "page": 74 } },
+        { "text": "Aprobar una ley orgánica contra la desinformación que limite la concentración de medios y obligue a publicar quién es su propietario.", "source": { "doc": "podemos", "page": 138 } },
+        { "text": "Crear una red social pública bajo control democrático, al servicio del interés general.", "source": { "doc": "podemos", "page": 139 } },
+        { "text": "Subir la inversión pública en ciencia e innovación hasta el 2% del PIB.", "source": { "doc": "podemos", "page": 87 } }
+      ]
+    },
+    "otros": {
+      "summary": "Incluye derechos de los animales, despenalización del cannabis, laicidad del Estado y memoria democrática.",
+      "points": [
+        { "text": "Derogar la ley que declara la tauromaquia patrimonio cultural, eliminar ayudas públicas a espectáculos con maltrato animal y prohibir la presencia de menores en espectáculos taurinos.", "source": { "doc": "podemos", "page": 124 } },
+        { "text": "Aplicar la legislación de protección animal a todos los animales, incluidos los perros de caza.", "source": { "doc": "podemos", "page": 121 } },
+        { "text": "Acabar con las formas más crueles de explotación de los animales de granja.", "source": { "doc": "podemos", "page": 122 } },
+        { "text": "Despenalizar el cannabis y legalizar su uso medicinal y recreativo, regulando los clubes sociales de cannabis.", "source": { "doc": "podemos", "page": 133 } },
+        { "text": "Denunciar el Concordato con la Santa Sede y aprobar una Ley de Libertad de Conciencia para un Estado plenamente laico.", "source": { "doc": "podemos", "page": 134 } },
+        { "text": "Recuperar el patrimonio público inmatriculado indebidamente por la Iglesia católica.", "source": { "doc": "podemos", "page": 134 } },
+        { "text": "Cumplir la Ley de Memoria Democrática: transformar el Valle de Cuelgamuros y retirar símbolos de exaltación franquista.", "source": { "doc": "podemos", "page": 138 } }
+      ]
+    }
+  },
+  "distinctive": [
+    { "topic": "vivienda", "text": "Reducir por ley un 40% los alquileres, incluidos los contratos que ya están en vigor.", "why": "Va más allá de los topes a las subidas o de las zonas tensionadas: recorta por ley los precios vigentes. Es de las propuestas más intervencionistas sobre el alquiler.", "source": { "doc": "podemos", "page": 8 } },
+    { "topic": "economia", "text": "Nacionalizar Repsol comprando la mayoría de su accionariado a través de una Empresa Pública de Energía.", "why": "Supone que el Estado pase a controlar una gran petrolera privada, algo que rompe con el modelo actual.", "source": { "doc": "podemos", "page": 18 } },
+    { "topic": "exterior", "text": "Salir de la OTAN y cerrar las bases estadounidenses de Rota y Morón.", "why": "Es de los pocos programas que plantea abandonar la alianza militar, en lugar de reformar la participación de España.", "source": { "doc": "podemos", "page": 28 } },
+    { "topic": "empleo", "text": "Jornada de 30 horas semanales durante la legislatura y SMI de 1.800 euros, sin bajar sueldos.", "why": "Las cifras están muy por encima de las actuales y suponen un cambio profundo del modelo laboral.", "source": { "doc": "podemos", "page": 41 } },
+    { "topic": "pensiones", "text": "Adelantar la edad ordinaria de jubilación a los 63 años.", "why": "Va en sentido contrario al retraso progresivo de la edad de jubilación que se aplica hoy.", "source": { "doc": "podemos", "page": 41 } },
+    { "topic": "medioambiente", "text": "Gratuidad universal de todo el transporte público, urbano e interurbano, con una tarjeta única estatal.", "why": "Es una medida de gran alcance, que cubre desde el autobús urbano hasta el tren de larga distancia.", "source": { "doc": "podemos", "page": 19 } },
+    { "topic": "educacion", "text": "Avanzar hacia una única red educativa pública, con moratoria de nuevos conciertos y reabsorción de centros concertados.", "why": "Plantea que dejen de existir en la práctica los centros privados financiados con dinero público.", "source": { "doc": "podemos", "page": 79 } },
+    { "topic": "instituciones", "text": "Proceso constituyente y referéndum para elegir entre monarquía y república.", "why": "Propone abrir un cambio de modelo de Estado con una consulta separada, en lugar de mantener la monarquía parlamentaria.", "source": { "doc": "podemos", "page": 128 } }
+  ],
+  "glossary": [
+    { "term": "SMI", "definition": "Salario Mínimo Interprofesional: el sueldo más bajo que se puede pagar por ley a jornada completa." },
+    { "term": "SAREB", "definition": "Sociedad creada tras la crisis de 2008 para gestionar los pisos y suelos que recibió de bancos rescatados (el llamado 'banco malo')." },
+    { "term": "OTAN", "definition": "Organización del Tratado del Atlántico Norte: alianza militar de la que España forma parte desde 1982." },
+    { "term": "IRPF", "definition": "Impuesto sobre la Renta de las Personas Físicas: el impuesto que se paga por los ingresos personales, con tipos más altos cuanto más se gana." },
+    { "term": "CIE", "definition": "Centro de Internamiento de Extranjeros: lugar donde se retiene a personas migrantes en situación irregular mientras se tramita su expulsión." },
+    { "term": "PAC", "definition": "Política Agraria Común: ayudas y normas de la Unión Europea para la agricultura y la ganadería." },
+    { "term": "Ius soli", "definition": "Principio por el que se obtiene la nacionalidad por nacer en un país, aunque los padres sean extranjeros." },
+    { "term": "Expropiación de uso", "definition": "La administración utiliza una vivienda durante un tiempo por interés social, sin quitarle la propiedad a su dueño." },
+    { "term": "Aforamiento", "definition": "Privilegio por el que ciertos cargos públicos solo pueden ser juzgados por tribunales superiores y no por los jueces ordinarios." },
+    { "term": "Sainte-Laguë", "definition": "Fórmula para repartir escaños según los votos, que favorece menos a los partidos grandes que la fórmula D'Hondt, usada hoy en España." },
+    { "term": "Concordato", "definition": "Acuerdos entre el Estado español y la Santa Sede (Vaticano) que regulan asuntos como la financiación y la enseñanza de la religión." },
+    { "term": "Ley Kellys", "definition": "Nombre de la propuesta para que las plantillas subcontratadas (como camareras de piso) tengan las condiciones de la empresa principal." },
+    { "term": "Euríbor", "definition": "Índice de referencia de los tipos de interés al que se vinculan muchas hipotecas variables." },
+    { "term": "CETA", "definition": "Acuerdo comercial entre la Unión Europea y Canadá." },
+    { "term": "Impuesto de Sociedades", "definition": "Impuesto que pagan las empresas por sus beneficios." }
+  ]
+}

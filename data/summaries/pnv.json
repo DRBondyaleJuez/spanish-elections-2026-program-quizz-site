@@ -1,0 +1,232 @@
+{
+  "party": "pnv",
+  "overview": "El programa del PNV para las Elecciones Generales de 2026 gira en torno a defender los intereses de Euskadi en Madrid con la fórmula «Defender, acordar, exigir»: negociar con cualquier gobierno, pero exigir que se cumpla lo pactado. Sus prioridades son la vivienda y el empleo para poder emanciparse, una industria con energía competitiva, las infraestructuras pendientes y las pensiones, y sobre todo más autogobierno: cumplir el Estatuto de Gernika, defender el Concierto Económico y avanzar hacia un «Concierto Político» con reconocimiento nacional. Afirma que nunca facilitará un gobierno que dependa de Vox.",
+  "topics": {
+    "vivienda": {
+      "summary": "Quiere más oferta de vivienda y reglas claras en el alquiler, con atención especial a la primera vivienda de las personas jóvenes.",
+      "points": [
+        { "text": "Agilizar los trámites urbanísticos para construir más viviendas, con plazos razonables y garantías legales.", "source": { "doc": "pnv", "page": 7 } },
+        { "text": "Movilizar las viviendas vacías y rehabilitar edificios para aumentar la oferta residencial.", "source": { "doc": "pnv", "page": 7 } },
+        { "text": "Evitar que los contratos de temporada se usen de forma fraudulenta para esquivar las garantías del alquiler de vivienda habitual, y regular los alquileres turísticos y de temporada.", "source": { "doc": "pnv", "page": 8 } },
+        { "text": "Dar seguridad jurídica a inquilinos y pequeños propietarios, y ofrecer alternativas a familias vulnerables sin cargar toda la responsabilidad sobre los pequeños propietarios.", "source": { "doc": "pnv", "page": 8 } },
+        { "text": "Facilitar a la gente joven el acceso a su primera vivienda en alquiler o en propiedad, evitando que el alquiler protegido sea la única opción.", "source": { "doc": "pnv", "page": 8 } }
+      ]
+    },
+    "empleo": {
+      "summary": "Propone salarios ajustados al coste de vida, más control de los abusos laborales y mayor protección ante el desempleo.",
+      "points": [
+        { "text": "Reclamar la competencia para fijar un salario mínimo propio en Euskadi, siempre por encima del estatal, definido mediante diálogo social con sindicatos y empresas.", "source": { "doc": "pnv", "page": 9 } },
+        { "text": "Proteger la prevalencia de los convenios colectivos vascos cuando den condiciones más favorables que otros.", "source": { "doc": "pnv", "page": 9 } },
+        { "text": "Reforzar la Inspección de Trabajo contra el fraude, la contratación irregular, las falsas personas autónomas y la economía sumergida.", "source": { "doc": "pnv", "page": 9 } },
+        { "text": "Ampliar la prestación por desempleo hasta un máximo de 36 meses, ligada a procesos de mejora de la empleabilidad.", "source": { "doc": "pnv", "page": 9 } },
+        { "text": "Analizar con administraciones, sindicatos y empresas la productividad y el absentismo, y proponer medidas de prevención y control.", "source": { "doc": "pnv", "page": 10 } },
+        { "text": "Regular las prácticas formativas para garantizar los derechos del alumnado sin perjudicar a la Formación Profesional Dual.", "source": { "doc": "pnv", "page": 9 } }
+      ]
+    },
+    "economia": {
+      "summary": "Defiende una industria vasca fuerte, apoyo a pymes y autónomos y una fiscalidad que proteja el poder adquisitivo y deje más margen de inversión a las instituciones vascas.",
+      "points": [
+        { "text": "Reforma integral del IVA de bienes esenciales: estudiar tipos cero o superreducidos para alimentos básicos (pescado, carne), productos para celíacos, suministros esenciales y transporte público, dentro del marco europeo.", "source": { "doc": "pnv", "page": 21 } },
+        { "text": "Ampliar la capacidad normativa de las Haciendas Forales en el IVA y los Impuestos Especiales mediante la actualización del Concierto Económico.", "source": { "doc": "pnv", "page": 21 } },
+        { "text": "Flexibilizar la normativa de estabilidad presupuestaria y permitir que ayuntamientos, diputaciones y Gobierno Vasco usen sus superávits para inversiones prioritarias.", "source": { "doc": "pnv", "page": 21 } },
+        { "text": "Mantener centros de decisión en Euskadi y cumplir los compromisos del Estado con empresas vascas con participación pública; proteger comarcas en reconversión como Aiaraldea.", "source": { "doc": "pnv", "page": 14 } },
+        { "text": "Reducir la burocracia para crear empresas y mejorar la financiación de pymes y autónomos con las líneas del Instituto de Crédito Oficial (ICO).", "source": { "doc": "pnv", "page": 14 } },
+        { "text": "Facilitar que las plantillas se hagan cargo de empresas viables como cooperativas o sociedades laborales, capitalizando la prestación por desempleo.", "source": { "doc": "pnv", "page": 15 } }
+      ]
+    },
+    "pensiones": {
+      "summary": "Defiende pensiones públicas que no pierdan poder adquisitivo y corregir las penalizaciones a las carreras largas y a las personas cuidadoras, además de proteger a colectivos como las víctimas del amianto y la infancia.",
+      "points": [
+        { "text": "Revalorizar las pensiones cada año según el IPC y mejorar progresivamente las mínimas y las no contributivas.", "source": { "doc": "pnv", "page": 31 } },
+        { "text": "Eliminar las penalizaciones de la jubilación anticipada para quienes han cotizado más de 40 años, incluidas las personas que ya están jubiladas.", "source": { "doc": "pnv", "page": 31 } },
+        { "text": "Reducir la brecha de género en las pensiones y reconocer en la Seguridad Social los periodos dedicados a cuidados familiares.", "source": { "doc": "pnv", "page": 31 } },
+        { "text": "Culminar la transferencia a Euskadi de la gestión del régimen económico de la Seguridad Social, respetando el carácter unitario del sistema.", "source": { "doc": "pnv", "page": 31 } },
+        { "text": "Prestación económica digna para cuidadores no profesionales que dejan o reducen su empleo, tomando como referencia el salario mínimo, y un Fondo Personal para Cuidados en la Comunidad.", "source": { "doc": "pnv", "page": 33 } },
+        { "text": "Reformar el Real Decreto 483/2025 para que el fondo de compensación del amianto llegue a todos los colectivos y declarar exentas de IRPF esas indemnizaciones.", "source": { "doc": "pnv", "page": 34 } }
+      ]
+    },
+    "sanidad": {
+      "summary": "Quiere más profesionales sanitarios formados donde hacen falta y que se culminen las transferencias sanitarias pendientes a Euskadi.",
+      "points": [
+        { "text": "Adaptar el sistema MIR para ajustar las plazas de formación de especialistas a las necesidades reales, evitar vacantes y agilizar la acreditación de nuevas unidades docentes.", "source": { "doc": "pnv", "page": 32 } },
+        { "text": "Permitir valorar el conocimiento de las lenguas oficiales en el acceso a la formación sanitaria especializada.", "source": { "doc": "pnv", "page": 32 } },
+        { "text": "Culminar las transferencias sanitarias pendientes: formación especializada, acreditación de plazas, control sanitario de incapacidades laborales y sanidad exterior.", "source": { "doc": "pnv", "page": 32 } },
+        { "text": "Participación permanente de los Gobiernos Vasco y Navarro en los órganos estatales que autorizan y fijan el precio de los medicamentos.", "source": { "doc": "pnv", "page": 32 } },
+        { "text": "Regular el uso medicinal del cannabis y favorecer la investigación en enfermedades raras y neurodegenerativas como el Alzheimer.", "source": { "doc": "pnv", "page": 32 } },
+        { "text": "Cumplir íntegramente y financiar la Ley ELA, y aprobar un Real Decreto de Electrodependencia que proteja de cortes de luz a quienes usan aparatos médicos eléctricos vitales.", "source": { "doc": "pnv", "page": 33 } }
+      ]
+    },
+    "educacion": {
+      "summary": "Prioriza preservar las competencias educativas vascas, reforzar la Formación Profesional Dual y la colaboración entre universidad y empresa.",
+      "points": [
+        { "text": "Preservar las competencias educativas de Euskadi frente a interferencias estatales y mantener su modelo propio.", "source": { "doc": "pnv", "page": 10 } },
+        { "text": "Impulsar una educación inclusiva, plurilingüe e intercultural y reforzar la coeducación y la educación afectivo-sexual.", "source": { "doc": "pnv", "page": 10 } },
+        { "text": "Defender la capacidad normativa del Sistema Vasco de Becas para mantener una política propia de apoyo al estudio.", "source": { "doc": "pnv", "page": 10 } },
+        { "text": "Fortalecer la Formación Profesional Dual, con más colaboración entre centros y empresas.", "source": { "doc": "pnv", "page": 10 } },
+        { "text": "Defender que Euskadi decida sobre la gobernanza de sus universidades y participe en proyectos universitarios europeos.", "source": { "doc": "pnv", "page": 10 } }
+      ]
+    },
+    "igualdad": {
+      "summary": "Apuesta por aplicar con recursos las leyes de igualdad, reforzar la protección judicial frente a la violencia machista y proteger los derechos LGTBIQ+.",
+      "points": [
+        { "text": "Modificar la Ley de Seguridad Ciudadana para fijar perímetros de protección de al menos 150 metros alrededor de los centros donde se practica el aborto.", "source": { "doc": "pnv", "page": 26 } },
+        { "text": "Cumplir íntegramente el Pacto de Estado contra la Violencia de Género renovado en 2025 y favorecer una regulación que defina la violencia vicaria.", "source": { "doc": "pnv", "page": 26 } },
+        { "text": "Reforzar la formación obligatoria en perspectiva de género de jueces y fiscales y crear órganos judiciales especializados en Vitoria-Gasteiz y Barakaldo.", "source": { "doc": "pnv", "page": 26 } },
+        { "text": "Asegurar la aplicación de la normativa europea de transparencia retributiva para detectar y corregir la desigualdad salarial entre mujeres y hombres.", "source": { "doc": "pnv", "page": 9 } },
+        { "text": "Favorecer la tipificación penal de las llamadas terapias de conversión y reforzar la persecución de los delitos de odio contra personas LGTBIQ+.", "source": { "doc": "pnv", "page": 27 } },
+        { "text": "Reparar las vulneraciones de derechos de las mujeres durante el franquismo, en especial las víctimas del Patronato de Protección a la Mujer.", "source": { "doc": "pnv", "page": 26 } }
+      ]
+    },
+    "inmigracion": {
+      "summary": "Quiere gestionar la migración desde Euskadi, con más competencias propias, vías legales y de integración, y responsabilidades compartidas.",
+      "points": [
+        { "text": "Promover más competencias para Euskadi en migración y extranjería (llegada, acogida, residencia, trabajo e integración) y que la Ertzaintza asuma competencias de extranjería.", "source": { "doc": "pnv", "page": 24 } },
+        { "text": "Reclamar un acuerdo con el Estado para una acogida descentralizada y rechazar grandes centros como el previsto en Arana, en Vitoria-Gasteiz.", "source": { "doc": "pnv", "page": 25 } },
+        { "text": "Favorecer la contratación en origen, las vías legales y seguras de migración y los procesos de regularización previstos en la ley.", "source": { "doc": "pnv", "page": 25 } },
+        { "text": "Agilizar la homologación de titulaciones extranjeras y los trámites de residencia y trabajo.", "source": { "doc": "pnv", "page": 25 } },
+        { "text": "Impulsar una política europea común de asilo con reparto equilibrado de solicitantes y menores no acompañados, y alternativas a la privación de libertad en los CIE.", "source": { "doc": "pnv", "page": 25 } },
+        { "text": "Fomentar la integración social y laboral, con el aprendizaje del euskera como herramienta de convivencia.", "source": { "doc": "pnv", "page": 25 } }
+      ]
+    },
+    "medioambiente": {
+      "summary": "Plantea una transición ecológica compatible con la industria, con energía competitiva, redes eléctricas, renovables y adaptación al cambio climático.",
+      "points": [
+        { "text": "Reducir de forma permanente el Impuesto Especial sobre la Electricidad al 0,5 %, dentro de lo que permite la normativa europea.", "source": { "doc": "pnv", "page": 16 } },
+        { "text": "Acelerar las inversiones en redes eléctricas y agilizar el acceso y conexión, priorizando proyectos industriales viables y evitando la especulación con la capacidad.", "source": { "doc": "pnv", "page": 15 } },
+        { "text": "Favorecer el almacenamiento energético, el biometano y el hidrógeno renovable, y mantener un apoyo transitorio a la cogeneración industrial.", "source": { "doc": "pnv", "page": 16 } },
+        { "text": "Facilitar el autoconsumo compartido y las comunidades energéticas, y rehabilitar edificios actualizando el Código Técnico de la Edificación.", "source": { "doc": "pnv", "page": 16 } },
+        { "text": "Reformar la Ley de Costas y fomentar un plan de protección de la costa vasca frente a la erosión, los temporales y la subida del mar.", "source": { "doc": "pnv", "page": 17 } },
+        { "text": "Mantener los bonos sociales eléctrico y térmico y restablecer la Comisión Nacional de la Energía como regulador independiente.", "source": { "doc": "pnv", "page": 16 } }
+      ]
+    },
+    "rural": {
+      "summary": "Defiende un primer sector rentable con relevo generacional, un plan propio para Euskadi en la política agraria europea y una flota pesquera viable.",
+      "points": [
+        { "text": "Lograr que la Política Agraria Común 2028-2034 reconozca un Plan Estratégico propio para Euskadi, gestionado desde las instituciones vascas y con financiación diferenciada.", "source": { "doc": "pnv", "page": 17 } },
+        { "text": "Facilitar el relevo generacional en el campo con cotizaciones reducidas para jóvenes que se incorporen, apoyo al acceso a la tierra y a la transmisión de explotaciones.", "source": { "doc": "pnv", "page": 17 } },
+        { "text": "Reforzar la Ley de la Cadena Alimentaria para que los precios cubran los costes de producción y exigir a las importaciones condiciones equivalentes.", "source": { "doc": "pnv", "page": 18 } },
+        { "text": "Revisar la Política Pesquera Común, las restricciones a la pesca de fondo en 87 zonas del Atlántico nororiental y el reparto de cuotas según las capturas históricas.", "source": { "doc": "pnv", "page": 18 } },
+        { "text": "Reconocer coeficientes reductores de jubilación para autónomos de la pesca y la comercialización, y ayudas ante subidas de costes energéticos y vedas.", "source": { "doc": "pnv", "page": 18 } },
+        { "text": "Proteger el futuro de Rioja Alavesa con medidas de rentabilidad, comercialización y mejor identificación del origen de sus vinos.", "source": { "doc": "pnv", "page": 18 } }
+      ]
+    },
+    "territorio": {
+      "summary": "Es el eje del programa: exige cumplir el Estatuto de Gernika, defender el Concierto Económico y construir una nueva relación bilateral con el Estado basada en el reconocimiento nacional.",
+      "points": [
+        { "text": "Cumplir íntegramente el Estatuto de Gernika, culminar todas las transferencias pendientes y rechazar cualquier recentralización de competencias vascas.", "source": { "doc": "pnv", "page": 38 } },
+        { "text": "Establecer mecanismos bilaterales de negociación y seguimiento de los acuerdos entre Euskadi y el Estado, y proteger los Derechos Históricos y el reconocimiento nacional de Euskadi.", "source": { "doc": "pnv", "page": 38 } },
+        { "text": "Avanzar hacia un «Concierto Político» que lleve los principios de pacto y bilateralidad al ámbito institucional, con mecanismos imparciales de resolución de conflictos.", "source": { "doc": "pnv", "page": 39 } },
+        { "text": "Modificar la Ley del Concierto Económico y el Convenio Económico para aumentar las capacidades financiero-fiscales vascas y asegurar que las reformas estatales lo respeten.", "source": { "doc": "pnv", "page": 39 } },
+        { "text": "Apoyar el derecho de la ciudadanía de Trebiño y Villaverde Turtzioz a decidir sobre su futuro, incluida una posible incorporación a Euskadi.", "source": { "doc": "pnv", "page": 38 } },
+        { "text": "Defender, junto a Geroa Bai, el Amejoramiento del Fuero, el Convenio Económico y las instituciones propias de Navarra.", "source": { "doc": "pnv", "page": 38 } }
+      ]
+    },
+    "instituciones": {
+      "summary": "Propone una justicia con más capacidad de decisión desde Euskadi, una Ertzaintza con más competencias, más transparencia y verdad sobre hechos pendientes de esclarecer.",
+      "points": [
+        { "text": "Reformar la organización judicial para que el Tribunal Superior de Justicia del País Vasco agote las instancias (también casación), salvo la jurisdicción reservada al Tribunal Supremo, y crear un Consejo Vasco de Justicia.", "source": { "doc": "pnv", "page": 39 } },
+        { "text": "Reconocer a la Ertzaintza como policía integral y como Policía judicial en Euskadi, con acceso pleno a las bases de datos policiales europeas.", "source": { "doc": "pnv", "page": 24 } },
+        { "text": "Impulsar reformas legales para dar una respuesta judicial ágil a la multirreincidencia, con pleno respeto a las garantías judiciales.", "source": { "doc": "pnv", "page": 24 } },
+        { "text": "Aprobar una nueva Ley de Secretos Oficiales con criterios objetivos de clasificación y plazos de desclasificación automática.", "source": { "doc": "pnv", "page": 40 } },
+        { "text": "Reformar la «ley mordaza», rechazar la prisión permanente revisable y reformar el Código Penal en los delitos de expresión sobre la Corona e instituciones.", "source": { "doc": "pnv", "page": 27 } },
+        { "text": "Promover la desclasificación de documentos sobre el 3 de marzo de 1976 en Vitoria-Gasteiz, el caso de Mikel Zabalza, el atentado del bar Aldana y los Sanfermines de 1978.", "source": { "doc": "pnv", "page": 40 } }
+      ]
+    },
+    "exterior": {
+      "summary": "Quiere que Euskadi tenga voz propia en la Unión Europea y gestione fondos europeos, y defiende una política exterior basada en los derechos humanos.",
+      "points": [
+        { "text": "Impulsar que Euskadi tenga presencia con voz propia en formaciones del Consejo de la UE, en particular ECOFIN y Justicia y Asuntos de Interior, cuando se traten materias de sus competencias.", "source": { "doc": "pnv", "page": 41 } },
+        { "text": "Promover la oficialidad del euskera, el catalán y el gallego en la Unión Europea.", "source": { "doc": "pnv", "page": 41 } },
+        { "text": "Favorecer una Macrorregión Atlántica Europea para cooperar en ferrocarril, energía, industria, pesca y relaciones con el Reino Unido.", "source": { "doc": "pnv", "page": 41 } },
+        { "text": "Participar en el Marco Financiero Plurianual europeo 2028-2034 e impulsar la gestión descentralizada de los fondos europeos, evitando que el Estado los recentralice.", "source": { "doc": "pnv", "page": 41 } },
+        { "text": "Mantener una política exterior comprometida con los derechos humanos, reforzar la cooperación al desarrollo y la abolición internacional de la pena de muerte.", "source": { "doc": "pnv", "page": 28 } }
+      ]
+    },
+    "cultura": {
+      "summary": "Trata la cultura y lo digital de forma puntual: IVA cultural, protección de la infancia en las plataformas y apoyo a la modernización tecnológica de las pymes.",
+      "points": [
+        { "text": "Revisar el IVA cultural para favorecer la actividad de artistas y galerías, aprovechando lo que permita la normativa europea.", "source": { "doc": "pnv", "page": 21 } },
+        { "text": "Reforzar las obligaciones de las plataformas digitales para proteger a la infancia frente al ciberacoso y la violencia sexual digital, con verificación de edad proporcionada.", "source": { "doc": "pnv", "page": 35 } },
+        { "text": "Apoyar la incorporación de soluciones digitales e inteligencia artificial en las pymes.", "source": { "doc": "pnv", "page": 14 } },
+        { "text": "Exigir a las plataformas digitales que cumplan el Reglamento europeo de Servicios Digitales frente a contenidos de odio.", "source": { "doc": "pnv", "page": 27 } }
+      ]
+    },
+    "otros": {
+      "summary": "Incluye compromisos transversales: no depender de Vox, infraestructuras de transporte con plazos públicos y participación juvenil.",
+      "points": [
+        { "text": "Compromiso de no facilitar nunca un gobierno que dependa de Vox y de no dar cheques en blanco a ningún partido estatal.", "source": { "doc": "pnv", "page": 3 } },
+        { "text": "Terminar la Y vasca (alta velocidad) con un calendario verificable y culminar la transferencia de las infraestructuras ferroviarias de cercanías que discurren íntegramente por Euskadi.", "source": { "doc": "pnv", "page": 19 } },
+        { "text": "Avanzar hacia la gestión integral desde Euskadi de los puertos de Bilbao y Pasaia, y hacia un modelo aeroportuario vasco con más capacidad de decisión.", "source": { "doc": "pnv", "page": 20 } },
+        { "text": "Mantener ayudas estables a vehículos electrificados, acelerar los puntos de recarga y modificar la Ley 15/2009 para repercutir los peajes a los clientes del transporte.", "source": { "doc": "pnv", "page": 20 } },
+        { "text": "Reforzar la participación de la juventud en el diseño y evaluación de las políticas públicas e incorporar la perspectiva juvenil en las leyes estatales.", "source": { "doc": "pnv", "page": 11 } }
+      ]
+    }
+  },
+  "distinctive": [
+    {
+      "topic": "territorio",
+      "text": "Avanzar hacia un «Concierto Político» entre Euskadi y el Estado, con reconocimiento nacional, bilateralidad y mecanismos imparciales para evitar incumplimientos unilaterales de lo pactado.",
+      "why": "Traslada al terreno político la lógica del Concierto Económico; es una propuesta de relación institucional propia de este partido y de pocos más.",
+      "source": { "doc": "pnv", "page": 39 }
+    },
+    {
+      "topic": "empleo",
+      "text": "Reclamar la competencia para fijar un salario mínimo propio en Euskadi, siempre por encima del estatal.",
+      "why": "Rompe con el modelo actual, en el que el SMI se fija para todo el Estado, y exige una transferencia de competencias laborales.",
+      "source": { "doc": "pnv", "page": 9 }
+    },
+    {
+      "topic": "instituciones",
+      "text": "Que el Tribunal Superior de Justicia del País Vasco agote todas las instancias judiciales, salvo las reservadas al Supremo, y crear un Consejo Vasco de Justicia.",
+      "why": "Supone una organización judicial propia de Euskadi, distinta de la actual, en la que el Consejo General del Poder Judicial gobierna a los jueces de todo el Estado.",
+      "source": { "doc": "pnv", "page": 39 }
+    },
+    {
+      "topic": "inmigracion",
+      "text": "Que Euskadi asuma competencias integrales de migración y extranjería, incluida la Ertzaintza, y rechazar grandes centros de acogida como el previsto en Arana (Vitoria-Gasteiz).",
+      "why": "Plantea gestionar la migración desde una comunidad autónoma, algo que hoy corresponde al Estado; es de los pocos partidos que lo propone con este alcance.",
+      "source": { "doc": "pnv", "page": 24 }
+    },
+    {
+      "topic": "exterior",
+      "text": "Que Euskadi tenga voz propia en formaciones del Consejo de la UE como ECOFIN y Justicia y Asuntos de Interior, y crear una Macrorregión Atlántica Europea.",
+      "why": "Plantea una presencia directa de una región en el Consejo de la UE, donde hoy solo hablan los Estados.",
+      "source": { "doc": "pnv", "page": 41 }
+    },
+    {
+      "topic": "economia",
+      "text": "Ampliar la capacidad de las Haciendas Forales para regular el IVA y los Impuestos Especiales, dentro de los límites de la Unión Europea.",
+      "why": "Es de los pocos programas que pide cambiar el Concierto Económico para dar a las diputaciones vascas margen en estos impuestos.",
+      "source": { "doc": "pnv", "page": 21 }
+    },
+    {
+      "topic": "pensiones",
+      "text": "Culminar la transferencia a Euskadi de la gestión del régimen económico de la Seguridad Social y reconocer coeficientes reductores de jubilación a cuidadores no profesionales.",
+      "why": "Combina una transferencia de competencias poco habitual en otros programas con una medida concreta para quienes cuidan a familiares dependientes.",
+      "source": { "doc": "pnv", "page": 31 }
+    },
+    {
+      "topic": "instituciones",
+      "text": "Aprobar una nueva Ley de Secretos Oficiales con desclasificación automática y desclasificar documentos sobre hechos concretos como el 3 de marzo de 1976 o el caso Zabalza.",
+      "why": "Nombra casos históricos concretos vinculados a Euskadi, algo poco habitual en programas de ámbito estatal.",
+      "source": { "doc": "pnv", "page": 40 }
+    }
+  ],
+  "glossary": [
+    { "term": "Estatuto de Gernika", "definition": "Ley que regula el autogobierno del País Vasco desde 1979. El PNV pide que se cumpla entero, incluidas las competencias que aún no se han transferido." },
+    { "term": "Concierto Económico", "definition": "Sistema por el que las diputaciones forales vascas recaudan casi todos los impuestos y pagan al Estado una cantidad (el cupo) por los servicios estatales. Navarra tiene uno parecido, el Convenio Económico." },
+    { "term": "Concierto Político", "definition": "Propuesta del PNV de llevar al terreno político las ideas del Concierto Económico: pacto, bilateralidad y garantías de que ninguna parte cambie lo acordado por su cuenta." },
+    { "term": "Haciendas Forales", "definition": "Las administraciones tributarias de las tres diputaciones forales (Álava, Bizkaia y Gipuzkoa), que gestionan los impuestos en sus territorios." },
+    { "term": "Ertzaintza", "definition": "La policía autonómica del País Vasco." },
+    { "term": "Osakidetza", "definition": "El servicio vasco de salud, la sanidad pública de Euskadi." },
+    { "term": "Y vasca", "definition": "Línea ferroviaria de alta velocidad en construcción que unirá Bilbao, Vitoria-Gasteiz y San Sebastián, con forma de Y." },
+    { "term": "Derechos Históricos", "definition": "Referencia a los fueros y derechos propios de los territorios vascos anteriores a la Constitución, en los que el PNV basa su idea de autogobierno." },
+    { "term": "Emakunde", "definition": "El Instituto Vasco de la Mujer, organismo público de igualdad del Gobierno Vasco." },
+    { "term": "Ley mordaza", "definition": "Nombre popular de la Ley de Seguridad Ciudadana de 2015, que regula sanciones administrativas por manifestaciones o desobediencia a la autoridad." },
+    { "term": "Sistema MIR", "definition": "Médico Interno Residente: sistema por el que los licenciados en Medicina se forman como especialistas en hospitales." },
+    { "term": "Ley ELA", "definition": "Ley que reconoce prestaciones y apoyos a las personas con esclerosis lateral amiotrófica y otras enfermedades graves e irreversibles." },
+    { "term": "Política Agraria Común (PAC)", "definition": "Conjunto de ayudas y normas de la Unión Europea para agricultura y ganadería." },
+    { "term": "Coeficientes reductores", "definition": "Reducción de la edad de jubilación para ciertos trabajos por su dureza, de modo que se puede cobrar la pensión antes." },
+    { "term": "Arrantzales", "definition": "Palabra en euskera para las personas que se dedican a la pesca." }
+  ]
+}

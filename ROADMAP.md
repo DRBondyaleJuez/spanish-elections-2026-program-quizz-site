@@ -34,10 +34,10 @@ Se publica con **GitHub Pages**. No hay paso de compilación: HTML + CSS + JS no
 - [x] Revisar los temas que faltan (buscando en todo el texto). Sin sección encontrada: **SALF** → medio ambiente, rural, territorio, cultura. Confirmarlo en la fase 2 y marcarlo como "no lo menciona".
 
 ## Fase 2 — Resúmenes por partido y tema
-- [ ] `data/summaries/<id>.json`: para cada tema, 3–6 puntos clave en lenguaje sencillo, cada uno con su página.
-- [ ] `distinctive`: propuestas que **solo** tiene este partido o que son radicales o nuevas.
-- [ ] `data/glossary.json`: términos técnicos (p. ej. "IRPF", "cupo vasco", "SMI", "concierto económico") con una explicación de una línea; la web los subraya y los explica al tocarlos.
-- [ ] Página **Resúmenes**: elegir uno o varios partidos y temas; tarjetas que se pueden plegar; botón "ver en el PDF" que abre la página exacta en otra pestaña.
+- [x] `data/summaries/<id>.json`: para cada tema, 3–6 puntos clave en lenguaje sencillo, cada uno con su página.
+- [x] `distinctive`: propuestas que **solo** tiene este partido o que son radicales o nuevas.
+- [x] `data/glossary.json`: términos técnicos (p. ej. "IRPF", "cupo vasco", "SMI", "concierto económico") con una explicación de una línea; la web los subraya y los explica al tocarlos.
+- [x] Página **Resúmenes**: elegir uno o varios partidos y temas; tarjetas que se pueden plegar; botón "ver en el PDF" que abre la página exacta en otra pestaña.
 
 ## Fase 3 — Comparador y nivel de acuerdo
 - [ ] `data/positions.json`: para cada tema, 4–8 **afirmaciones** concretas (p. ej. "Topar el precio del alquiler en zonas tensionadas"). Cada partido tiene una postura: `+2` muy a favor, `+1`, `0` neutral, `-1`, `-2` muy en contra, o `null` (no lo menciona), siempre con la página como fuente.

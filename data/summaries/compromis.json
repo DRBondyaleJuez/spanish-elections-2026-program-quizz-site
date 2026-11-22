@@ -1,0 +1,207 @@
+{
+  "party": "compromis",
+  "overview": "Compromís-Front Valencià presenta un programa de izquierda valencianista con siete prioridades: vivienda, salarios y pensiones; servicios públicos; democratización de la economía; territorio resiliente tras la DANA; más derechos y libertades; financiación e inversiones justas para el País Valenciano; y paz y derechos humanos. Propone intervenir con fuerza en vivienda, energía y fiscalidad, reforzar lo público y avanzar hacia un Estado plurinacional con más autogobierno.",
+  "topics": {
+    "vivienda": {
+      "summary": "Quiere frenar la especulación con prohibiciones y nuevos impuestos a los grandes propietarios, y ampliar mucho el parque público de vivienda.",
+      "points": [
+        { "text": "Prohibir que sociedades especulativas y fondos buitre compren viviendas, y cerrar la puerta a que lo eludan con sociedades interpuestas.", "source": { "doc": "compromis", "page": 5 } },
+        { "text": "Aprobar una ley para expropiar viviendas a grandes fondos y sociedades tenedoras, empezando por los que tengan más de 1.000 viviendas y bajando hasta los de 50, para ampliar el parque público.", "source": { "doc": "compromis", "page": 5 } },
+        { "text": "Destinar cada año el 1% del PIB a comprar viviendas o construir vivienda protegida, pública o con cooperativas y entidades sin ánimo especulativo.", "source": { "doc": "compromis", "page": 5 } },
+        { "text": "Prohibir temporalmente la compraventa de viviendas a personas no residentes en las zonas tensionadas y vetar los algoritmos que fijan precios de alquiler, con multas de hasta el 10% de los beneficios mundiales.", "source": { "doc": "compromis", "page": 5 } },
+        { "text": "Crear un gravamen del 10% sobre el valor catastral de las viviendas a partir de la tercera propiedad, y subir el IBI de forma progresiva desde la tercera vivienda.", "source": { "doc": "compromis", "page": 6 } },
+        { "text": "Prohibir por ley los desahucios sin alternativa habitacional, sobre todo los promovidos por grandes tenedores, y crear un Registro Estatal de Arrendamientos Urbanos obligatorio.", "source": { "doc": "compromis", "page": 6 } },
+        { "text": "Exención del Impuesto de Transmisiones Patrimoniales para la primera vivienda de menos de 350.000 euros, y un fondo de inversión estatal que capte 18.000 millones para vivienda asequible.", "source": { "doc": "compromis", "page": 6 } }
+      ]
+    },
+    "empleo": {
+      "summary": "Propone trabajar menos horas, subir el salario mínimo y reforzar los derechos laborales y la inspección.",
+      "points": [
+        { "text": "Reducir la jornada laboral a cuatro días (32 horas semanales) sin bajar el sueldo.", "source": { "doc": "compromis", "page": 7 } },
+        { "text": "Garantizar por ley que el SMI llegue al 60% del salario medio, sin que la subida pueda absorber los complementos del sueldo.", "source": { "doc": "compromis", "page": 7 } },
+        { "text": "Recuperar la indemnización de 45 días por año trabajado y los salarios de tramitación en los despidos improcedentes.", "source": { "doc": "compromis", "page": 7 } },
+        { "text": "Reducir un 50% los domingos y festivos laborables y restringir las Zonas de Gran Afluencia Turística, reformando la ley de horarios comerciales.", "source": { "doc": "compromis", "page": 7 } },
+        { "text": "Condicionar ayudas, bonificaciones y contratos públicos al cumplimiento de la normativa laboral y al mantenimiento del empleo; reforzar la Inspección de Trabajo contra el fraude y las horas extra no declaradas.", "source": { "doc": "compromis", "page": 7 } },
+        { "text": "Mejorar la protección de autónomos: acceder al cese de actividad con solo un año de pérdidas y bonificar toda la cuota desde el primer día de baja por enfermedad grave.", "source": { "doc": "compromis", "page": 8 } }
+      ]
+    },
+    "economia": {
+      "summary": "Plantea una fiscalidad más progresiva sobre grandes patrimonios, empresas y rentas del capital, y más presencia pública en la economía.",
+      "points": [
+        { "text": "Mantener y ampliar el Impuesto a las Grandes Fortunas acercándolo a propuestas como la tasa Zucman, y crear un impuesto sobre los beneficios de las empresas oligopolísticas.", "source": { "doc": "compromis", "page": 17 } },
+        { "text": "Deflactar el IRPF para rentas inferiores a 30.000 euros y hacer que las rentas financieras tributen igual de progresivamente que las del trabajo.", "source": { "doc": "compromis", "page": 17 } },
+        { "text": "Eliminar los privilegios fiscales de la aviación (combustible, IVA) y dedicar los 6.000 millones anuales recaudados a reforzar el ferrocarril.", "source": { "doc": "compromis", "page": 17 } },
+        { "text": "Crear un impuesto o tasa a las empresas por el uso de robots que sustituyen mano de obra, para reforzar las pensiones; bajar el IVA de productos básicos, culturales y de higiene femenina y subirlo a los de lujo y contaminantes.", "source": { "doc": "compromis", "page": 18 } },
+        { "text": "Crear una banca pública de inversión y crédito para pymes, cooperativas y familias, y aumentar la presencia del Estado en sectores estratégicos comprando participaciones o creando empresas públicas.", "source": { "doc": "compromis", "page": 19 } },
+        { "text": "Incluir representantes de las personas trabajadoras en los consejos de administración de las grandes empresas, también las públicas.", "source": { "doc": "compromis", "page": 19 } },
+        { "text": "Oponerse a nuevas concentraciones bancarias y potenciar las cooperativas y la economía social.", "source": { "doc": "compromis", "page": 20 } }
+      ]
+    },
+    "pensiones": {
+      "summary": "Defiende un sistema público reforzado: jubilación a los 65, más cotización de las nóminas altas y menos incentivos a los planes privados.",
+      "points": [
+        { "text": "Devolver la edad de jubilación a los 65 años y eliminar los coeficientes reductores que penalizan la jubilación anticipada voluntaria tras 40 años cotizados.", "source": { "doc": "compromis", "page": 8 } },
+        { "text": "Acabar con el tope de la base máxima de cotización para que las nóminas más altas coticen íntegramente.", "source": { "doc": "compromis", "page": 8 } },
+        { "text": "Garantizar en la Constitución que las pensiones se revaloricen según el coste de la vida.", "source": { "doc": "compromis", "page": 8 } },
+        { "text": "Suprimir toda desgravación fiscal a los planes de pensiones privados y las ventajas fiscales de PIAS y SIALP.", "source": { "doc": "compromis", "page": 9 } },
+        { "text": "Subir las pensiones no contributivas hasta 800 euros.", "source": { "doc": "compromis", "page": 9 } },
+        { "text": "Crear una prestación universal por crianza de 200 euros mensuales por hijo o hija, mayor en familias monoparentales o con hijos con discapacidad superior al 60%.", "source": { "doc": "compromis", "page": 41 } }
+      ]
+    },
+    "sanidad": {
+      "summary": "Quiere blindar la sanidad pública frente a la privatización y ampliar lo que cubre, incluida la salud mental y bucodental.",
+      "points": [
+        { "text": "Impedir la privatización de la gestión sanitaria derogando la Ley 15/1997 y garantizar el acceso universal sin discriminar por situación administrativa.", "source": { "doc": "compromis", "page": 9 } },
+        { "text": "Reforzar la atención primaria fijando por ley una financiación mínima, ratios de población y listas de espera máximas.", "source": { "doc": "compromis", "page": 9 } },
+        { "text": "Aprobar un Pacto estatal por la salud mental con más plantillas, atención psicológica y prevención del suicidio.", "source": { "doc": "compromis", "page": 9 } },
+        { "text": "Suprimir el copago farmacéutico de pensionistas y hacer más progresivo el del resto; incluir oftalmología, podología, nutrición y odontología en la cartera pública.", "source": { "doc": "compromis", "page": 9 } },
+        { "text": "Crear una industria farmacéutica pública para producir medicamentos esenciales, genéricos y para enfermedades raras y reducir la dependencia de las multinacionales.", "source": { "doc": "compromis", "page": 10 } },
+        { "text": "Prohibir fumar en terrazas y playas y vender bebidas energéticas a menores de 16 años.", "source": { "doc": "compromis", "page": 10 } }
+      ]
+    },
+    "educacion": {
+      "summary": "Apuesta por reforzar la escuela pública y limitar la concertada y la privada, con más inversión y más becas.",
+      "points": [
+        { "text": "Aumentar la inversión educativa hasta el equivalente al 7% del PIB estatal.", "source": { "doc": "compromis", "page": 10 } },
+        { "text": "Prohibir ceder suelo público para centros educativos privados y cambiar los conciertos para que la red concertada sea realmente subsidiaria de la pública.", "source": { "doc": "compromis", "page": 10 } },
+        { "text": "Ampliar la red pública de 0 a 3 años hacia la gratuidad y reconocer el comedor escolar como servicio gratuito y universal.", "source": { "doc": "compromis", "page": 10 } },
+        { "text": "Ampliar plazas de FP pública y aprobar una nueva ley de Formación Profesional adaptada al modelo productivo.", "source": { "doc": "compromis", "page": 11 } },
+        { "text": "Crear un nuevo sistema de tasas universitarias para que quien menos recursos tiene pague menos, y becas que se resuelvan y paguen a principio de curso.", "source": { "doc": "compromis", "page": 16 } },
+        { "text": "Limitar la proliferación de universidades privadas y evitar que se desvíen recursos públicos a ellas.", "source": { "doc": "compromis", "page": 17 } }
+      ]
+    },
+    "igualdad": {
+      "summary": "Propone un enfoque feminista y de derechos LGTBIQ+ con medidas sanitarias, educativas y penales, y un rechazo frontal a la gestación subrogada y a la prostitución.",
+      "points": [
+        { "text": "Garantizar el aborto gratuito, seguro y accesible en la red pública y regular la objeción de conciencia para que no se convierta en una objeción institucional encubierta.", "source": { "doc": "compromis", "page": 46 } },
+        { "text": "Reforzar la prohibición de la gestación subrogada y sancionar la publicidad y la intermediación lucrativa de agencias que la ofrecen.", "source": { "doc": "compromis", "page": 47 } },
+        { "text": "Crear un plan estatal contra la explotación sexual y la trata, con vivienda, ingresos y atención para las víctimas, sin sancionar a las personas prostituidas.", "source": { "doc": "compromis", "page": 48 } },
+        { "text": "Crear un plan estatal de investigación en salud de las mujeres (endometriosis, menopausia, diferencias por sexo en enfermedades) y observatorios de sesgos de género en la atención sanitaria.", "source": { "doc": "compromis", "page": 45 } },
+        { "text": "Reconocer los periodos de cuidados en las pensiones y reforzar el complemento que reduce la brecha de género.", "source": { "doc": "compromis", "page": 46 } },
+        { "text": "Tipificar como delito las terapias de conversión y blindar la ley trans, la ley LGTBI y el matrimonio igualitario.", "source": { "doc": "compromis", "page": 49 } },
+        { "text": "Repartir gratis productos menstruales en centros educativos, sanitarios y penitenciarios.", "source": { "doc": "compromis", "page": 44 } }
+      ]
+    },
+    "inmigracion": {
+      "summary": "Defiende regularizar a quienes ya viven aquí, cerrar los CIE y ampliar derechos de las personas migrantes, con críticas al Pacto Europeo de Migración y Asilo.",
+      "points": [
+        { "text": "Abrir vías de regularización y facilitar la documentación y el permiso de trabajo, con acogida digna, protección de menores y cumplimiento del derecho de asilo.", "source": { "doc": "compromis", "page": 56 } },
+        { "text": "Exigir la eliminación de los CIE (centros de internamiento de extranjeros).", "source": { "doc": "compromis", "page": 56 } },
+        { "text": "Prohibir las devoluciones ilegales encubiertas como retornos voluntarios y asegurar información veraz en un idioma comprensible.", "source": { "doc": "compromis", "page": 56 } },
+        { "text": "Hacer obligatorio que los ayuntamientos empadronen a todas las personas, sea cual sea su situación administrativa.", "source": { "doc": "compromis", "page": 56 } },
+        { "text": "Ampliar el derecho de voto activo a las personas migrantes.", "source": { "doc": "compromis", "page": 45 } },
+        { "text": "Pedir que el Gobierno lleve al Tribunal de Justicia de la UE los reglamentos y directivas del Pacto Europeo de Migración y Asilo.", "source": { "doc": "compromis", "page": 56 } },
+        { "text": "Prohibir las identificaciones policiales por perfil étnico y exigir formularios de parada con el motivo y la identificación del agente.", "source": { "doc": "compromis", "page": 45 } }
+      ]
+    },
+    "medioambiente": {
+      "summary": "Combina una transición energética con fuerte papel público, protección de la biodiversidad y el litoral, y adaptación al cambio climático tras la DANA.",
+      "points": [
+        { "text": "Crear una empresa pública de energía, recuperar progresivamente la titularidad pública de las grandes eléctricas y alcanzar el 100% público en Red Eléctrica.", "source": { "doc": "compromis", "page": 26 } },
+        { "text": "Reducir el peso del mercado marginalista con contratos a largo plazo a precio fijo para renovables, y sacar de la factura el impuesto eléctrico y los cargos para pagarlos con los Presupuestos.", "source": { "doc": "compromis", "page": 26 } },
+        { "text": "Mantener el calendario de cierre de las centrales nucleares sin nuevas prórrogas y prohibir los cortes de suministro.", "source": { "doc": "compromis", "page": 27 } },
+        { "text": "Electrificar el sistema al 100% en 2030 y abandonar los combustibles fósiles con horizonte 2040, revisando la Ley de Cambio Climático.", "source": { "doc": "compromis", "page": 27 } },
+        { "text": "Prohibir por ley el patrocinio y la publicidad de empresas de combustibles fósiles y garantizar que el 100% de los costes de restauración ambiental recaigan en quien contamina.", "source": { "doc": "compromis", "page": 26 } },
+        { "text": "Revertir la reforma de la Ley de Costas de 2013 y exigir evaluación de la subida del mar a 2045 y 2100 para cualquier gran obra en el litoral.", "source": { "doc": "compromis", "page": 29 } },
+        { "text": "Reconocer por ley el confort climático como derecho social, con una red de refugios climáticos y el objetivo de un 30% de arbolado en los núcleos urbanos en 2040.", "source": { "doc": "compromis", "page": 29 } },
+        { "text": "Reforzar Protección Civil, la UME y AEMET, mejorar el sistema ES-Alert y crear un fondo estatal de reconstrucción tras catástrofes.", "source": { "doc": "compromis", "page": 31 } }
+      ]
+    },
+    "rural": {
+      "summary": "Busca precios justos para quien produce, una PAC adaptada al Mediterráneo y más control sobre la gran distribución.",
+      "points": [
+        { "text": "Aprobar un Estatuto de las Personas Agricultoras y Ganaderas Profesionales que coordine fiscalidad, protección social, relevo generacional y financiación.", "source": { "doc": "compromis", "page": 21 } },
+        { "text": "Reforzar la Ley de la cadena alimentaria para que los precios cubran los costes de producción y crear un etiquetado que indique qué parte del precio llega a quien produce.", "source": { "doc": "compromis", "page": 22 } },
+        { "text": "Reivindicar una PAC adaptada a la agricultura mediterránea, con régimen simplificado hasta 5.000 euros y prioridad a quien asume el riesgo empresarial.", "source": { "doc": "compromis", "page": 21 } },
+        { "text": "Exigir que los trasvases sean una medida excepcional, con acuerdo entre cuencas y respeto a los caudales ecológicos; dar al riego agrario prioridad tras el abastecimiento humano.", "source": { "doc": "compromis", "page": 22 } },
+        { "text": "Pedir calendarios de reducción de pesticidas y fertilizantes de síntesis modificando la Ley de Sanidad Vegetal, y reforzar los controles a las importaciones de fuera de la UE.", "source": { "doc": "compromis", "page": 22 } },
+        { "text": "Defender compensaciones al sector pesquero por la subida del combustible y apoyar la reconversión hacia una pesca más sostenible.", "source": { "doc": "compromis", "page": 23 } }
+      ]
+    },
+    "territorio": {
+      "summary": "Reclama acabar con la infrafinanciación valenciana, más autogobierno y un Estado plurinacional con otra organización territorial.",
+      "points": [
+        { "text": "Reformar la financiación autonómica por criterios de población y servicios, apostar por un concierto económico responsable o que la Generalitat recaude la mayor parte de los tributos.", "source": { "doc": "compromis", "page": 50 } },
+        { "text": "Exigir la condonación de la deuda histórica de la Generalitat (el 78% de su deuda total) y crear un fondo transitorio de nivelación hasta que se reforme el sistema.", "source": { "doc": "compromis", "page": 50 } },
+        { "text": "Ejecutar un plan de modernización de Cercanías en el País Valenciano con 1.500 millones de euros y 58 trenes nuevos, con calendario verificable.", "source": { "doc": "compromis", "page": 50 } },
+        { "text": "Traspasar a la Generalitat competencias como costas, puertos, aeropuertos, Cercanías, Ingreso Mínimo Vital e inspección de trabajo.", "source": { "doc": "compromis", "page": 52 } },
+        { "text": "Avanzar hacia un Estado plurinacional, reformar el Senado y recuperar el derecho civil valenciano mediante reforma constitucional.", "source": { "doc": "compromis", "page": 52 } },
+        { "text": "Superar la estructura provincial y avanzar en la supresión de las diputaciones provinciales, reconociendo jurídicamente las comarcas.", "source": { "doc": "compromis", "page": 53 } }
+      ]
+    },
+    "instituciones": {
+      "summary": "Propone más transparencia, medidas anticorrupción y una reforma profunda de la justicia, la seguridad y la memoria democrática.",
+      "points": [
+        { "text": "Eliminar los aforamientos parlamentario y judicial y publicar las declaraciones de bienes completas de los altos cargos.", "source": { "doc": "compromis", "page": 35 } },
+        { "text": "Crear una oficina antifraude, proteger por ley a quien denuncie corrupción y prohibir a la Administración relacionarse con paraísos fiscales.", "source": { "doc": "compromis", "page": 36 } },
+        { "text": "Derogar la llamada ley mordaza, abolir las balas de goma y reconocer el derecho de sindicación de las fuerzas de seguridad.", "source": { "doc": "compromis", "page": 38 } },
+        { "text": "Derogar la Ley de Amnistía de 1977 y exigir la retirada de símbolos franquistas, incluso con retirada de subvenciones.", "source": { "doc": "compromis", "page": 38 } },
+        { "text": "Garantizar un CGPJ independiente con menos presidencialismo, ratificar al Fiscal General en el Congreso y suprimir la Sala Penal de la Audiencia Nacional.", "source": { "doc": "compromis", "page": 37 } },
+        { "text": "Bajar a 16 años la edad de voto, impulsar los referéndums y reformar el artículo 135 de la Constitución para quitar la prioridad absoluta al pago de la deuda.", "source": { "doc": "compromis", "page": 35 } },
+        { "text": "Poner fin a los privilegios de la Iglesia católica y de otras confesiones (financiación, exenciones como el IBI) y avanzar de la aconfesionalidad al laicismo del Estado.", "source": { "doc": "compromis", "page": 39 } }
+      ]
+    },
+    "exterior": {
+      "summary": "Defiende una política exterior pacifista y multilateral, con auditoría del gasto militar, una defensa europea y una UE más social.",
+      "points": [
+        { "text": "Trabajar por una Unión Europea de la Defensa que pueda sustituir el marco de la OTAN y reducir duplicidades y gasto militar.", "source": { "doc": "compromis", "page": 54 } },
+        { "text": "Auditar todo el gasto en Defensa, publicar los resultados e impedir que sus aumentos se hagan a costa de servicios públicos o protección social.", "source": { "doc": "compromis", "page": 55 } },
+        { "text": "Prohibir estrictamente la venta de armas a países que vulneran derechos humanos y romper relaciones diplomáticas y comerciales con Israel.", "source": { "doc": "compromis", "page": 55 } },
+        { "text": "Aumentar el apoyo al pueblo palestino, mantener el apoyo a Ucrania y apoyar un referéndum de autodeterminación en el Sáhara Occidental.", "source": { "doc": "compromis", "page": 54 } },
+        { "text": "Pedir la supresión del Pacto de Estabilidad y Crecimiento y un presupuesto europeo de al menos el 2% de la renta nacional bruta.", "source": { "doc": "compromis", "page": 56 } },
+        { "text": "Blindar por ley que el 0,7% de la renta se destine a cooperación al desarrollo.", "source": { "doc": "compromis", "page": 56 } },
+        { "text": "Crear en Alicante un Centro Internacional de Resolución de Disputas para mediar en conflictos.", "source": { "doc": "compromis", "page": 54 } }
+      ]
+    },
+    "cultura": {
+      "summary": "Plantea más financiación y mejores condiciones laborales para la cultura, protección del valenciano en medios y una regulación estricta de la IA y las plataformas.",
+      "points": [
+        { "text": "Desplegar íntegramente el Estatuto del Artista y ampliar el Bono Cultural Joven a la población de 16 a 30 años.", "source": { "doc": "compromis", "page": 13 } },
+        { "text": "Reforzar la financiación estatal de instituciones culturales valencianas (Palau de les Arts, IVAM, museos, sociedades musicales) y recuperar el patrimonio histórico valenciano.", "source": { "doc": "compromis", "page": 13 } },
+        { "text": "Reivindicar el retorno permanente de la Dama de Elche a Elche y del Llibre dels Repartiments a Orihuela para exhibirlos.", "source": { "doc": "compromis", "page": 14 } },
+        { "text": "Avanzar hacia programación completa en valenciano en el Centro Territorial de RTVE y emisión de las televisiones autonómicas en todo el Estado.", "source": { "doc": "compromis", "page": 15 } },
+        { "text": "Regular estrictamente la inteligencia artificial, proteger frente a los deep fakes, exigir responsabilidades a directivos tecnológicos y prohibir asistentes digitales que creen dependencia emocional.", "source": { "doc": "compromis", "page": 16 } },
+        { "text": "Reforzar la ciencia: superar el 3% del PIB en inversión, crear una cláusula de no retroceso y una carrera investigadora estable que acabe con los contratos precarios encadenados.", "source": { "doc": "compromis", "page": 20 } },
+        { "text": "Poner en marcha el Consejo Estatal de Medios Audiovisuales (CEMA) y un Estatuto de la Información con sanciones graves a quien desinforme.", "source": { "doc": "compromis", "page": 16 } }
+      ]
+    },
+    "otros": {
+      "summary": "Incluye medidas de infancia, familias, juventud, consumo, turismo, movilidad y derechos animales que no encajan en los demás temas.",
+      "points": [
+        { "text": "Suprimir los espectáculos taurinos con muerte y sufrimiento del animal, retirar subvenciones y derogar la ley que los declara patrimonio cultural.", "source": { "doc": "compromis", "page": 40 } },
+        { "text": "Aprobar una moratoria inmediata de nuevas macrogranjas, limitar estrictamente su tamaño e impulsar su cierre; prohibir la caza con perros.", "source": { "doc": "compromis", "page": 40 } },
+        { "text": "Limitar los vuelos nacionales cuando exista una alternativa ferroviaria competitiva de menos de 2 horas y media.", "source": { "doc": "compromis", "page": 13 } },
+        { "text": "Impulsar un Pacto de Estado por un Turismo Justo y Sostenible: regular los apartamentos turísticos, los cruceros y mejorar las condiciones de las camareras de piso.", "source": { "doc": "compromis", "page": 24 } },
+        { "text": "Aprobar una ley estatal de familias monoparentales, pagar progresivamente las ocho semanas de permiso de crianza y ampliar los permisos de las familias monoparentales.", "source": { "doc": "compromis", "page": 41 } },
+        { "text": "Medidas para la juventud: deducción en el IRPF por alquiler para jóvenes con rentas de hasta 33.000 euros y reserva de viviendas de alquiler por debajo del precio de mercado.", "source": { "doc": "compromis", "page": 43 } },
+        { "text": "Reformar la ley del juego para tratar las apuestas como actividad adictiva, con más restricciones a su publicidad y a la concentración de locales en entornos educativos y sanitarios.", "source": { "doc": "compromis", "page": 44 } }
+      ]
+    }
+  },
+  "distinctive": [
+    { "topic": "vivienda", "text": "Ley de expropiación de viviendas a grandes fondos y sociedades tenedoras, desde los que tienen más de 1.000 inmuebles hasta los de 50.", "why": "Es de los pocos programas que plantea expropiar viviendas a grandes tenedores y fijar un umbral concreto de inmuebles.", "source": { "doc": "compromis", "page": 5 } },
+    { "topic": "empleo", "text": "Jornada de cuatro días (32 horas semanales) sin reducción de sueldo.", "why": "Va más allá de la reducción a 37,5 horas debatida en España: propone una semana laboral de cuatro días.", "source": { "doc": "compromis", "page": 7 } },
+    { "topic": "medioambiente", "text": "Recuperar progresivamente la titularidad pública de las grandes eléctricas y llegar al 100% público en Red Eléctrica.", "why": "Rompe con el modelo actual de mercado eléctrico privado y plantea un control público de generación, comercialización y red.", "source": { "doc": "compromis", "page": 26 } },
+    { "topic": "economia", "text": "Impuesto o tasa a las empresas por el uso de robots que sustituyen mano de obra, para reforzar las pensiones.", "why": "Es una propuesta fiscal novedosa que grava la automatización y destina lo recaudado a la Seguridad Social.", "source": { "doc": "compromis", "page": 18 } },
+    { "topic": "territorio", "text": "Condonar el 78% de la deuda de la Generalitat atribuido a la infrafinanciación, y avanzar hacia la supresión de las diputaciones provinciales.", "why": "Combina una reclamación específica valenciana con un cambio del modelo territorial que reduce las provincias como nivel administrativo.", "source": { "doc": "compromis", "page": 50 } },
+    { "topic": "instituciones", "text": "Derogar la Ley de Amnistía de 1977 y suprimir la Sala Penal de la Audiencia Nacional.", "why": "Rompe con consensos de la Transición y es de los pocos programas que propone derogar la ley de 1977.", "source": { "doc": "compromis", "page": 38 } },
+    { "topic": "exterior", "text": "Construir una Unión Europea de la Defensa que pueda sustituir el marco de la OTAN y romper relaciones diplomáticas y comerciales con Israel.", "why": "Plantea una alternativa a la pertenencia actual a la OTAN y una ruptura de relaciones que pocos partidos defienden.", "source": { "doc": "compromis", "page": 53 } },
+    { "topic": "otros", "text": "Prohibir espectáculos taurinos con muerte del animal, la caza con perros, y moratoria inmediata de las macrogranjas.", "why": "Combina varias prohibiciones de actividades tradicionales en un mismo bloque de derechos animales, algo poco habitual entre los programas estatales.", "source": { "doc": "compromis", "page": 40 } }
+  ],
+  "glossary": [
+    { "term": "SMI", "definition": "Salario Mínimo Interprofesional: el sueldo más bajo que se puede pagar por ley a jornada completa." },
+    { "term": "Zona tensionada", "definition": "Zona donde el alquiler o la vivienda es muy cara o difícil de conseguir y se pueden aplicar medidas especiales como topes de precio." },
+    { "term": "SOCIMI", "definition": "Sociedad que invierte en inmuebles para alquilarlos y que paga muy pocos impuestos si cumple ciertas condiciones." },
+    { "term": "Tanteo y retracto", "definition": "Derecho de la Administración a comprar un bien por el mismo precio que ofrece un tercero, antes o después de la venta." },
+    { "term": "Infrafinanciación", "definition": "Situación en la que una comunidad recibe menos dinero del que le corresponde por su población y los servicios que presta." },
+    { "term": "Mercado marginalista", "definition": "Sistema por el que toda la electricidad se paga al precio de la fuente más cara que haya entrado en ese momento." },
+    { "term": "Corredor Mediterráneo", "definition": "Línea ferroviaria de mercancías y viajeros que conecta la costa mediterránea española con Europa." },
+    { "term": "Tasa Zucman", "definition": "Propuesta de impuesto mínimo anual sobre el patrimonio de los muy ricos, que lleva el nombre del economista Gabriel Zucman." },
+    { "term": "PAC", "definition": "Política Agraria Común: las ayudas y normas de la Unión Europea para la agricultura y la ganadería." },
+    { "term": "CIE", "definition": "Centro de Internamiento de Extranjeros: lugar donde se retiene a personas migrantes en situación irregular mientras se tramita su expulsión." },
+    { "term": "Aforamiento", "definition": "Privilegio por el que ciertos cargos solo pueden ser juzgados por tribunales superiores y no por los jueces ordinarios." },
+    { "term": "Gestación subrogada", "definition": "Acuerdo por el que una mujer gesta un bebé para entregarlo a otras personas; también llamada vientre de alquiler." },
+    { "term": "DANA", "definition": "Depresión Aislada en Niveles Altos: fenómeno meteorológico que puede causar lluvias torrenciales e inundaciones." },
+    { "term": "Estado plurinacional", "definition": "Modelo de Estado que reconoce que en su interior hay varias naciones con identidad cultural y lingüística propia." }
+  ]
+}
