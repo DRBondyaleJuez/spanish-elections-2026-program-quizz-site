@@ -205,3 +205,14 @@ nav .dd { flex:none; }
 .home-sec { margin:18px 0 8px; }
 .home-sec.mesa { color:var(--mesa); }
 .tile-mesa { border-color:color-mix(in srgb, var(--mesa) 45%, var(--border)); }
+
+/* Buscar por concepto */
+.combo { position:relative; }
+.combo-list { position:absolute; left:0; right:0; top:calc(100% - 6px); z-index:20; max-height:50vh; overflow:auto; background:var(--card); border:1px solid var(--border); border-radius:10px; box-shadow:0 8px 24px var(--shadow); padding:4px; }
+.combo-list button { display:flex; justify-content:space-between; gap:8px; width:100%; text-align:left; font:inherit; min-height:44px; padding:8px 10px; border:0; border-radius:8px; background:transparent; color:var(--fg); cursor:pointer; }
+.combo-list button:hover, .combo-list button:focus { background:color-mix(in srgb, var(--accent) 14%, transparent); outline:none; }
+.combo-list small { color:var(--muted); white-space:nowrap; }
+.pages { display:flex; flex-wrap:wrap; gap:4px; align-items:center; font-size:.85rem; margin:4px 0 8px; }
+blockquote.snip { margin:6px 0; padding:6px 10px; border-left:3px solid var(--accent); background:var(--bg); border-radius:0 8px 8px 0; font-size:.9rem; }
+blockquote.snip mark { background:color-mix(in srgb, var(--warn) 45%, transparent); color:inherit; padding:0 2px; border-radius:3px; }
+.chip.sug { min-height:36px; margin:2px; }

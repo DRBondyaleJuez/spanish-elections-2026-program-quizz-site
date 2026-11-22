@@ -131,6 +131,24 @@ def check_coalitions():
             err("coalitions", f"falta la ficha de {p}")
 
 
+def check_concepts():
+    f = D / "concepts" / "index.json"
+    if not f.exists():
+        return
+    for c in json.loads(f.read_text(encoding="utf-8")):
+        t = D / "concepts" / "t" / f"{c['id']}.json"
+        if not t.exists():
+            err(f"concepts[{c['id']}]", "falta el detalle (ejecuta tools/build_concepts.py)")
+            continue
+        for pid, x in json.loads(t.read_text(encoding="utf-8"))["parties"].items():
+            if pid not in parties:
+                err(f"concepts[{c['id']}]", f"partido desconocido {pid}")
+                continue
+            for pg, _ in x["pages"]:
+                if not 1 <= pg <= pages[pid]:
+                    err(f"concepts[{c['id']}]/{pid}", f"página fuera de rango {pg}")
+
+
 TYPES = {"tf", "single", "multi", "which_party", "which_not", "match"}
 
 
@@ -177,5 +195,6 @@ if __name__ == "__main__":
         check_questions("mesa")
         check_positions()
         check_coalitions()
+        check_concepts()
     print("\n".join(errors) if errors else "OK")
     sys.exit(1 if errors else 0)

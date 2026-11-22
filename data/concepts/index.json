@@ -1,0 +1,2058 @@
+[
+{
+"id": "alquiler",
+"label": "Alquiler",
+"topic": "vivienda",
+"counts": {
+"psoe": 37,
+"pp": 7,
+"vox": 5,
+"podemos": 45,
+"frenteamplio": 73,
+"salf": 5,
+"erc": 12,
+"compromis": 14,
+"pnv": 13,
+"cc": 8,
+"d21": 29,
+"ehbildu": 10,
+"drago": 13,
+"upc": 19
+}
+},
+{
+"id": "vivienda-publica",
+"label": "Vivienda pública / social",
+"topic": "vivienda",
+"counts": {
+"psoe": 15,
+"pp": 2,
+"vox": 4,
+"podemos": 14,
+"frenteamplio": 19,
+"salf": 2,
+"erc": 2,
+"compromis": 3,
+"cc": 3,
+"d21": 3,
+"drago": 6,
+"upc": 2
+}
+},
+{
+"id": "desahucio",
+"label": "Desahucios",
+"topic": "vivienda",
+"counts": {
+"psoe": 4,
+"podemos": 3,
+"frenteamplio": 12,
+"salf": 1,
+"erc": 1,
+"compromis": 2,
+"ehbildu": 3,
+"upc": 2
+}
+},
+{
+"id": "okupacion",
+"label": "Okupación",
+"topic": "vivienda",
+"counts": {
+"psoe": 2,
+"pp": 1,
+"vox": 1,
+"frenteamplio": 2,
+"salf": 6,
+"erc": 1,
+"d21": 2,
+"drago": 1
+}
+},
+{
+"id": "pisos-turisticos",
+"label": "Pisos turísticos",
+"topic": "vivienda",
+"counts": {
+"psoe": 2,
+"vox": 1,
+"podemos": 5,
+"frenteamplio": 6,
+"cc": 1,
+"d21": 1,
+"drago": 5,
+"upc": 1
+}
+},
+{
+"id": "vivienda-vacia",
+"label": "Viviendas vacías",
+"topic": "vivienda",
+"counts": {
+"psoe": 4,
+"pp": 1,
+"podemos": 6,
+"frenteamplio": 3,
+"erc": 1,
+"compromis": 3,
+"pnv": 2,
+"cc": 2,
+"d21": 1,
+"upc": 4
+}
+},
+{
+"id": "fondos-buitre",
+"label": "Fondos de inversión / grandes tenedores",
+"topic": "vivienda",
+"counts": {
+"psoe": 7,
+"podemos": 21,
+"frenteamplio": 16,
+"erc": 3,
+"compromis": 3,
+"ehbildu": 2,
+"upc": 2
+}
+},
+{
+"id": "hipoteca",
+"label": "Hipotecas",
+"topic": "vivienda",
+"counts": {
+"psoe": 4,
+"pp": 4,
+"podemos": 21,
+"frenteamplio": 17,
+"salf": 4,
+"pnv": 1,
+"d21": 1,
+"ehbildu": 1,
+"upc": 3
+}
+},
+{
+"id": "sareb",
+"label": "Sareb",
+"topic": "vivienda",
+"counts": {
+"psoe": 1,
+"podemos": 2,
+"frenteamplio": 4,
+"salf": 3,
+"erc": 3,
+"drago": 4,
+"upc": 1
+}
+},
+{
+"id": "smi",
+"label": "Salario mínimo (SMI)",
+"topic": "empleo",
+"counts": {
+"psoe": 8,
+"pp": 4,
+"vox": 1,
+"podemos": 19,
+"frenteamplio": 13,
+"salf": 2,
+"erc": 6,
+"compromis": 2,
+"pnv": 2,
+"d21": 3,
+"ehbildu": 5,
+"drago": 7,
+"upc": 4
+}
+},
+{
+"id": "jornada",
+"label": "Jornada laboral / reducción de jornada",
+"topic": "empleo",
+"counts": {
+"psoe": 3,
+"podemos": 7,
+"frenteamplio": 11,
+"erc": 1,
+"compromis": 4,
+"d21": 1,
+"ehbildu": 3,
+"upc": 3
+}
+},
+{
+"id": "despido",
+"label": "Despido",
+"topic": "empleo",
+"counts": {
+"psoe": 5,
+"podemos": 10,
+"frenteamplio": 7,
+"erc": 8,
+"compromis": 2,
+"d21": 2,
+"ehbildu": 2
+}
+},
+{
+"id": "reforma-laboral",
+"label": "Reforma laboral",
+"topic": "empleo",
+"counts": {
+"psoe": 4,
+"podemos": 1,
+"frenteamplio": 5,
+"erc": 2,
+"compromis": 1,
+"ehbildu": 3,
+"drago": 2
+}
+},
+{
+"id": "autonomos",
+"label": "Autónomos",
+"topic": "empleo",
+"counts": {
+"psoe": 14,
+"pp": 5,
+"vox": 3,
+"podemos": 17,
+"frenteamplio": 25,
+"salf": 6,
+"erc": 19,
+"compromis": 2,
+"pnv": 1,
+"cc": 4,
+"d21": 18,
+"ehbildu": 1,
+"drago": 5,
+"upc": 7
+}
+},
+{
+"id": "teletrabajo",
+"label": "Teletrabajo",
+"topic": "empleo",
+"counts": {
+"pp": 2,
+"podemos": 1,
+"frenteamplio": 4,
+"erc": 1,
+"compromis": 1,
+"d21": 1,
+"upc": 1
+}
+},
+{
+"id": "paro",
+"label": "Paro / desempleo",
+"topic": "empleo",
+"counts": {
+"psoe": 6,
+"pp": 4,
+"vox": 1,
+"podemos": 7,
+"frenteamplio": 10,
+"salf": 3,
+"erc": 3,
+"pnv": 7,
+"d21": 2,
+"ehbildu": 4,
+"drago": 1
+}
+},
+{
+"id": "sindicatos",
+"label": "Sindicatos",
+"topic": "empleo",
+"counts": {
+"psoe": 4,
+"pp": 1,
+"vox": 3,
+"podemos": 13,
+"frenteamplio": 28,
+"salf": 4,
+"compromis": 4,
+"pnv": 6,
+"d21": 2,
+"ehbildu": 1,
+"drago": 13,
+"upc": 2
+}
+},
+{
+"id": "irpf",
+"label": "IRPF",
+"topic": "economia",
+"counts": {
+"psoe": 5,
+"pp": 16,
+"vox": 4,
+"podemos": 7,
+"frenteamplio": 15,
+"salf": 23,
+"erc": 8,
+"compromis": 4,
+"pnv": 1,
+"cc": 1,
+"d21": 9,
+"drago": 1,
+"upc": 4
+}
+},
+{
+"id": "iva",
+"label": "IVA",
+"topic": "economia",
+"counts": {
+"psoe": 2,
+"pp": 5,
+"vox": 2,
+"podemos": 16,
+"frenteamplio": 18,
+"salf": 4,
+"erc": 8,
+"compromis": 5,
+"pnv": 3,
+"cc": 1,
+"d21": 20,
+"ehbildu": 3
+}
+},
+{
+"id": "sociedades",
+"label": "Impuesto de sociedades",
+"topic": "economia",
+"counts": {
+"pp": 1,
+"vox": 1,
+"podemos": 3,
+"frenteamplio": 5,
+"erc": 1,
+"d21": 3,
+"drago": 3
+}
+},
+{
+"id": "patrimonio",
+"label": "Grandes fortunas / patrimonio",
+"topic": "economia",
+"counts": {
+"psoe": 2,
+"podemos": 9,
+"frenteamplio": 6,
+"salf": 1,
+"erc": 1,
+"compromis": 1,
+"ehbildu": 2,
+"upc": 3
+}
+},
+{
+"id": "sucesiones",
+"label": "Impuesto de sucesiones",
+"topic": "economia",
+"counts": {
+"psoe": 1,
+"frenteamplio": 4,
+"salf": 1,
+"upc": 1
+}
+},
+{
+"id": "fraude-fiscal",
+"label": "Fraude fiscal",
+"topic": "economia",
+"counts": {
+"psoe": 1,
+"pp": 1,
+"podemos": 4,
+"frenteamplio": 3,
+"compromis": 2
+}
+},
+{
+"id": "banca",
+"label": "Banca / impuesto a la banca",
+"topic": "economia",
+"counts": {
+"psoe": 1,
+"podemos": 6,
+"frenteamplio": 12,
+"erc": 3,
+"compromis": 1,
+"ehbildu": 2,
+"upc": 1
+}
+},
+{
+"id": "deuda",
+"label": "Deuda y déficit",
+"topic": "economia",
+"counts": {
+"psoe": 4,
+"pp": 1,
+"vox": 2,
+"podemos": 1,
+"frenteamplio": 6,
+"salf": 2,
+"erc": 9,
+"compromis": 3,
+"d21": 4,
+"drago": 1
+}
+},
+{
+"id": "pymes",
+"label": "Pymes",
+"topic": "economia",
+"counts": {
+"psoe": 9,
+"pp": 5,
+"vox": 2,
+"podemos": 14,
+"frenteamplio": 27,
+"erc": 13,
+"compromis": 4,
+"pnv": 5,
+"d21": 34,
+"ehbildu": 3,
+"upc": 3
+}
+},
+{
+"id": "industria",
+"label": "Industria / reindustrialización",
+"topic": "economia",
+"counts": {
+"psoe": 64,
+"pp": 21,
+"vox": 14,
+"podemos": 21,
+"frenteamplio": 73,
+"salf": 7,
+"erc": 28,
+"compromis": 16,
+"pnv": 41,
+"cc": 8,
+"d21": 34,
+"ehbildu": 14,
+"upc": 3
+}
+},
+{
+"id": "inflacion",
+"label": "Inflación / precios",
+"topic": "economia",
+"counts": {
+"psoe": 11,
+"pp": 9,
+"podemos": 15,
+"frenteamplio": 9,
+"salf": 2,
+"erc": 13,
+"compromis": 2,
+"pnv": 1,
+"cc": 2,
+"d21": 6,
+"ehbildu": 8,
+"drago": 2,
+"upc": 9
+}
+},
+{
+"id": "turismo",
+"label": "Turismo",
+"topic": "economia",
+"counts": {
+"psoe": 11,
+"pp": 7,
+"vox": 4,
+"podemos": 14,
+"frenteamplio": 34,
+"salf": 3,
+"erc": 8,
+"compromis": 12,
+"pnv": 1,
+"cc": 6,
+"d21": 4,
+"ehbildu": 3,
+"drago": 17,
+"upc": 16
+}
+},
+{
+"id": "burocracia",
+"label": "Burocracia / simplificación administrativa",
+"topic": "economia",
+"counts": {
+"psoe": 2,
+"pp": 4,
+"vox": 4,
+"podemos": 5,
+"frenteamplio": 2,
+"salf": 1,
+"erc": 1,
+"compromis": 1,
+"pnv": 1,
+"d21": 6,
+"upc": 1
+}
+},
+{
+"id": "pensiones",
+"label": "Pensiones",
+"topic": "pensiones",
+"counts": {
+"psoe": 56,
+"pp": 14,
+"vox": 4,
+"podemos": 46,
+"frenteamplio": 42,
+"salf": 28,
+"erc": 25,
+"compromis": 27,
+"pnv": 46,
+"cc": 4,
+"d21": 32,
+"ehbildu": 32,
+"drago": 18,
+"upc": 12
+}
+},
+{
+"id": "jubilacion",
+"label": "Jubilación / edad de jubilación",
+"topic": "pensiones",
+"counts": {
+"psoe": 17,
+"pp": 4,
+"vox": 2,
+"podemos": 27,
+"frenteamplio": 19,
+"salf": 12,
+"erc": 5,
+"compromis": 3,
+"pnv": 13,
+"d21": 14,
+"ehbildu": 3,
+"drago": 4
+}
+},
+{
+"id": "imv",
+"label": "Ingreso Mínimo Vital",
+"topic": "pensiones",
+"counts": {
+"psoe": 6,
+"vox": 2,
+"podemos": 2,
+"frenteamplio": 12,
+"cc": 1,
+"d21": 2,
+"ehbildu": 2,
+"drago": 1
+}
+},
+{
+"id": "dependencia",
+"label": "Dependencia / cuidados",
+"topic": "pensiones",
+"counts": {
+"psoe": 44,
+"pp": 12,
+"vox": 1,
+"podemos": 27,
+"frenteamplio": 43,
+"erc": 2,
+"compromis": 10,
+"pnv": 9,
+"cc": 7,
+"d21": 5,
+"ehbildu": 12,
+"drago": 5,
+"upc": 8
+}
+},
+{
+"id": "natalidad",
+"label": "Natalidad / crianza",
+"topic": "pensiones",
+"counts": {
+"psoe": 5,
+"vox": 3,
+"podemos": 5,
+"frenteamplio": 10,
+"salf": 1,
+"erc": 4,
+"compromis": 2,
+"cc": 1,
+"d21": 8,
+"ehbildu": 3
+}
+},
+{
+"id": "discapacidad",
+"label": "Discapacidad",
+"topic": "pensiones",
+"counts": {
+"psoe": 21,
+"pp": 5,
+"vox": 2,
+"podemos": 20,
+"frenteamplio": 5,
+"cc": 2,
+"d21": 5,
+"ehbildu": 2,
+"upc": 2
+}
+},
+{
+"id": "listas-espera",
+"label": "Listas de espera",
+"topic": "sanidad",
+"counts": {
+"psoe": 3,
+"pp": 3,
+"vox": 2,
+"podemos": 4,
+"frenteamplio": 3,
+"salf": 1,
+"d21": 6,
+"upc": 1
+}
+},
+{
+"id": "atencion-primaria",
+"label": "Atención primaria",
+"topic": "sanidad",
+"counts": {
+"psoe": 6,
+"pp": 3,
+"vox": 2,
+"podemos": 10,
+"frenteamplio": 8,
+"salf": 1,
+"erc": 2,
+"compromis": 1,
+"cc": 3,
+"d21": 10,
+"ehbildu": 1,
+"upc": 3
+}
+},
+{
+"id": "salud-mental",
+"label": "Salud mental",
+"topic": "sanidad",
+"counts": {
+"psoe": 21,
+"pp": 8,
+"vox": 2,
+"podemos": 27,
+"frenteamplio": 15,
+"salf": 2,
+"erc": 8,
+"compromis": 5,
+"cc": 3,
+"d21": 8,
+"ehbildu": 4,
+"upc": 1
+}
+},
+{
+"id": "dental",
+"label": "Salud bucodental / dentista",
+"topic": "sanidad",
+"counts": {
+"psoe": 3,
+"podemos": 3,
+"frenteamplio": 3,
+"salf": 1,
+"erc": 2,
+"ehbildu": 1,
+"upc": 1
+}
+},
+{
+"id": "privatizacion-sanidad",
+"label": "Sanidad privada / conciertos",
+"topic": "sanidad",
+"counts": {
+"psoe": 2,
+"vox": 2,
+"podemos": 7,
+"frenteamplio": 2,
+"erc": 3,
+"compromis": 3,
+"d21": 2,
+"ehbildu": 3,
+"drago": 2,
+"upc": 4
+}
+},
+{
+"id": "medicamentos",
+"label": "Medicamentos / farmacia",
+"topic": "sanidad",
+"counts": {
+"psoe": 3,
+"pp": 16,
+"vox": 1,
+"podemos": 23,
+"frenteamplio": 20,
+"salf": 6,
+"compromis": 7,
+"pnv": 6,
+"d21": 9,
+"ehbildu": 11,
+"upc": 3
+}
+},
+{
+"id": "eutanasia",
+"label": "Eutanasia",
+"topic": "sanidad",
+"counts": {
+"psoe": 3,
+"pp": 1,
+"podemos": 3,
+"frenteamplio": 1,
+"ehbildu": 1
+}
+},
+{
+"id": "aborto",
+"label": "Aborto / interrupción del embarazo",
+"topic": "igualdad",
+"counts": {
+"psoe": 5,
+"podemos": 5,
+"frenteamplio": 7,
+"compromis": 1,
+"pnv": 1,
+"d21": 2,
+"ehbildu": 3,
+"upc": 1
+}
+},
+{
+"id": "violencia-genero",
+"label": "Violencia de género / machista",
+"topic": "igualdad",
+"counts": {
+"psoe": 21,
+"pp": 2,
+"podemos": 16,
+"frenteamplio": 9,
+"erc": 3,
+"compromis": 2,
+"pnv": 7,
+"cc": 2,
+"d21": 5,
+"ehbildu": 2,
+"drago": 6,
+"upc": 1
+}
+},
+{
+"id": "lgtbi",
+"label": "Derechos LGTBI / ley trans",
+"topic": "igualdad",
+"counts": {
+"psoe": 3,
+"pp": 1,
+"podemos": 6,
+"frenteamplio": 6,
+"erc": 2,
+"compromis": 2,
+"ehbildu": 2,
+"upc": 1
+}
+},
+{
+"id": "brecha-salarial",
+"label": "Brecha salarial",
+"topic": "igualdad",
+"counts": {
+"psoe": 1,
+"frenteamplio": 3,
+"compromis": 1,
+"d21": 1,
+"upc": 2
+}
+},
+{
+"id": "prostitucion",
+"label": "Prostitución",
+"topic": "igualdad",
+"counts": {
+"psoe": 8,
+"podemos": 8,
+"frenteamplio": 2,
+"compromis": 3
+}
+},
+{
+"id": "paridad",
+"label": "Paridad",
+"topic": "igualdad",
+"counts": {
+"psoe": 3,
+"podemos": 4,
+"frenteamplio": 4,
+"erc": 1,
+"d21": 1
+}
+},
+{
+"id": "permisos",
+"label": "Permisos de nacimiento / conciliación",
+"topic": "igualdad",
+"counts": {
+"psoe": 21,
+"pp": 6,
+"vox": 10,
+"podemos": 16,
+"frenteamplio": 14,
+"compromis": 2,
+"d21": 4,
+"ehbildu": 4,
+"drago": 2,
+"upc": 4
+}
+},
+{
+"id": "regularizacion",
+"label": "Regularización de inmigrantes",
+"topic": "inmigracion",
+"counts": {
+"psoe": 1,
+"pp": 6,
+"vox": 2,
+"podemos": 12,
+"frenteamplio": 8,
+"salf": 5,
+"erc": 1,
+"compromis": 1,
+"pnv": 3,
+"d21": 1,
+"ehbildu": 3,
+"drago": 1
+}
+},
+{
+"id": "expulsion",
+"label": "Expulsión / deportación",
+"topic": "inmigracion",
+"counts": {
+"pp": 16,
+"vox": 4,
+"podemos": 15,
+"frenteamplio": 13,
+"salf": 19,
+"erc": 1,
+"compromis": 4,
+"d21": 12,
+"ehbildu": 1,
+"drago": 2
+}
+},
+{
+"id": "cie",
+"label": "CIE (centros de internamiento)",
+"topic": "inmigracion",
+"counts": {
+"pp": 1,
+"podemos": 3,
+"frenteamplio": 3,
+"pnv": 1,
+"ehbildu": 1,
+"drago": 4
+}
+},
+{
+"id": "menores-migrantes",
+"label": "Menores migrantes no acompañados",
+"topic": "inmigracion",
+"counts": {
+"podemos": 4,
+"pnv": 1,
+"cc": 3,
+"drago": 2
+}
+},
+{
+"id": "fronteras",
+"label": "Fronteras / Frontex",
+"topic": "inmigracion",
+"counts": {
+"psoe": 6,
+"pp": 23,
+"vox": 6,
+"podemos": 10,
+"frenteamplio": 8,
+"salf": 2,
+"erc": 1,
+"pnv": 3,
+"cc": 1,
+"d21": 4,
+"ehbildu": 1,
+"drago": 8,
+"upc": 3
+}
+},
+{
+"id": "asilo",
+"label": "Asilo y refugio",
+"topic": "inmigracion",
+"counts": {
+"psoe": 3,
+"pp": 4,
+"podemos": 16,
+"frenteamplio": 11,
+"erc": 5,
+"compromis": 2,
+"pnv": 4,
+"d21": 2,
+"ehbildu": 2,
+"drago": 11
+}
+},
+{
+"id": "nacionalidad",
+"label": "Nacionalidad española",
+"topic": "inmigracion",
+"counts": {
+"pp": 2,
+"vox": 3,
+"podemos": 4,
+"frenteamplio": 2,
+"compromis": 1,
+"drago": 1
+}
+},
+{
+"id": "prioridad-nacional",
+"label": "Prioridad nacional",
+"topic": "inmigracion",
+"counts": {
+"psoe": 1,
+"vox": 5
+}
+},
+{
+"id": "racismo",
+"label": "Racismo / antirracismo",
+"topic": "inmigracion",
+"counts": {
+"psoe": 8,
+"podemos": 11,
+"frenteamplio": 13,
+"erc": 9,
+"compromis": 2,
+"d21": 4,
+"ehbildu": 2,
+"upc": 4
+}
+},
+{
+"id": "nuclear",
+"label": "Energía nuclear",
+"topic": "medioambiente",
+"counts": {
+"psoe": 2,
+"pp": 4,
+"vox": 2,
+"podemos": 10,
+"frenteamplio": 8,
+"erc": 3,
+"compromis": 2,
+"ehbildu": 6
+}
+},
+{
+"id": "renovables",
+"label": "Energías renovables",
+"topic": "medioambiente",
+"counts": {
+"psoe": 33,
+"pp": 3,
+"vox": 1,
+"podemos": 32,
+"frenteamplio": 52,
+"erc": 22,
+"compromis": 7,
+"pnv": 6,
+"cc": 16,
+"d21": 6,
+"ehbildu": 8,
+"drago": 6,
+"upc": 5
+}
+},
+{
+"id": "cambio-climatico",
+"label": "Cambio climático",
+"topic": "medioambiente",
+"counts": {
+"psoe": 31,
+"pp": 2,
+"podemos": 25,
+"frenteamplio": 29,
+"erc": 11,
+"compromis": 8,
+"pnv": 2,
+"cc": 5,
+"d21": 1,
+"ehbildu": 2,
+"upc": 2
+}
+},
+{
+"id": "agenda-2030",
+"label": "Agenda 2030 / Pacto Verde",
+"topic": "medioambiente",
+"counts": {
+"psoe": 2,
+"vox": 4,
+"frenteamplio": 3,
+"salf": 2,
+"erc": 1,
+"compromis": 2
+}
+},
+{
+"id": "agua",
+"label": "Agua / sequía",
+"topic": "medioambiente",
+"counts": {
+"psoe": 22,
+"pp": 14,
+"vox": 4,
+"podemos": 47,
+"frenteamplio": 47,
+"salf": 3,
+"erc": 7,
+"compromis": 13,
+"pnv": 2,
+"cc": 15,
+"d21": 15,
+"ehbildu": 2,
+"drago": 21,
+"upc": 5
+}
+},
+{
+"id": "precio-luz",
+"label": "Precio de la luz / electricidad",
+"topic": "medioambiente",
+"counts": {
+"psoe": 3,
+"pp": 5,
+"podemos": 9,
+"frenteamplio": 10,
+"erc": 4,
+"compromis": 1,
+"pnv": 2,
+"cc": 1,
+"d21": 2,
+"ehbildu": 7,
+"drago": 3,
+"upc": 1
+}
+},
+{
+"id": "empresa-energia",
+"label": "Empresa pública de energía",
+"topic": "medioambiente",
+"counts": {
+"podemos": 6,
+"upc": 1
+}
+},
+{
+"id": "coche-electrico",
+"label": "Coche eléctrico / movilidad",
+"topic": "medioambiente",
+"counts": {
+"psoe": 10,
+"podemos": 9,
+"frenteamplio": 9,
+"salf": 1,
+"erc": 1,
+"compromis": 6
+}
+},
+{
+"id": "tren",
+"label": "Tren / ferrocarril / Cercanías",
+"topic": "medioambiente",
+"counts": {
+"psoe": 18,
+"pp": 11,
+"vox": 4,
+"podemos": 28,
+"frenteamplio": 42,
+"erc": 56,
+"compromis": 25,
+"pnv": 17,
+"cc": 4,
+"d21": 10,
+"ehbildu": 8
+}
+},
+{
+"id": "vuelos",
+"label": "Vuelos / aviación",
+"topic": "medioambiente",
+"counts": {
+"psoe": 3,
+"pp": 6,
+"podemos": 9,
+"frenteamplio": 10,
+"erc": 28,
+"compromis": 8,
+"pnv": 5,
+"cc": 9,
+"d21": 4,
+"ehbildu": 5,
+"drago": 1,
+"upc": 2
+}
+},
+{
+"id": "incendios",
+"label": "Incendios forestales",
+"topic": "medioambiente",
+"counts": {
+"psoe": 16,
+"pp": 2,
+"vox": 7,
+"podemos": 20,
+"frenteamplio": 24,
+"erc": 2,
+"pnv": 2,
+"cc": 2,
+"d21": 10,
+"upc": 4
+}
+},
+{
+"id": "animales",
+"label": "Bienestar animal / protección animal",
+"topic": "medioambiente",
+"counts": {
+"psoe": 5,
+"podemos": 12,
+"frenteamplio": 12,
+"erc": 5,
+"compromis": 4,
+"d21": 12
+}
+},
+{
+"id": "toros",
+"label": "Tauromaquia / toros",
+"topic": "cultura",
+"counts": {
+"pp": 1,
+"vox": 2,
+"podemos": 5,
+"frenteamplio": 8,
+"compromis": 2
+}
+},
+{
+"id": "caza",
+"label": "Caza",
+"topic": "rural",
+"counts": {
+"pp": 2,
+"vox": 1,
+"podemos": 2,
+"frenteamplio": 2,
+"compromis": 2
+}
+},
+{
+"id": "pac",
+"label": "PAC (Política Agraria Común)",
+"topic": "rural",
+"counts": {
+"psoe": 2,
+"pp": 4,
+"vox": 2,
+"podemos": 4,
+"frenteamplio": 5,
+"salf": 3,
+"erc": 1,
+"compromis": 2,
+"pnv": 1,
+"d21": 3,
+"ehbildu": 2,
+"upc": 3
+}
+},
+{
+"id": "agricultura",
+"label": "Agricultura y ganadería",
+"topic": "rural",
+"counts": {
+"psoe": 17,
+"pp": 16,
+"vox": 3,
+"podemos": 46,
+"frenteamplio": 37,
+"salf": 2,
+"erc": 11,
+"compromis": 13,
+"pnv": 8,
+"cc": 6,
+"d21": 5,
+"ehbildu": 3,
+"drago": 3,
+"upc": 4
+}
+},
+{
+"id": "pesca",
+"label": "Pesca",
+"topic": "rural",
+"counts": {
+"psoe": 11,
+"pp": 9,
+"vox": 6,
+"podemos": 2,
+"frenteamplio": 24,
+"salf": 2,
+"erc": 14,
+"compromis": 5,
+"pnv": 18,
+"cc": 4,
+"d21": 5,
+"ehbildu": 7,
+"drago": 3,
+"upc": 13
+}
+},
+{
+"id": "despoblacion",
+"label": "Despoblación / España vaciada",
+"topic": "rural",
+"counts": {
+"psoe": 12,
+"pp": 3,
+"vox": 4,
+"podemos": 5,
+"frenteamplio": 12,
+"salf": 2,
+"erc": 4,
+"compromis": 2,
+"d21": 2
+}
+},
+{
+"id": "mercosur",
+"label": "Mercosur / acuerdos comerciales",
+"topic": "rural",
+"counts": {
+"psoe": 1,
+"pp": 1,
+"vox": 2,
+"podemos": 6,
+"frenteamplio": 7,
+"salf": 2,
+"erc": 1,
+"cc": 1
+}
+},
+{
+"id": "cadena-alimentaria",
+"label": "Cadena alimentaria / precios justos",
+"topic": "rural",
+"counts": {
+"pp": 2,
+"podemos": 4,
+"frenteamplio": 6,
+"erc": 2,
+"compromis": 1,
+"pnv": 3,
+"ehbildu": 7
+}
+},
+{
+"id": "autodeterminacion",
+"label": "Autodeterminación / referéndum",
+"topic": "territorio",
+"counts": {
+"pp": 3,
+"podemos": 14,
+"frenteamplio": 16,
+"salf": 4,
+"erc": 10,
+"compromis": 2,
+"cc": 1,
+"d21": 1,
+"ehbildu": 8,
+"drago": 6,
+"upc": 9
+}
+},
+{
+"id": "financiacion-autonomica",
+"label": "Financiación autonómica",
+"topic": "territorio",
+"counts": {
+"psoe": 4,
+"pp": 6,
+"podemos": 1,
+"frenteamplio": 18,
+"salf": 2,
+"erc": 5,
+"compromis": 7,
+"drago": 3,
+"upc": 5
+}
+},
+{
+"id": "concierto",
+"label": "Concierto / Convenio económico",
+"topic": "territorio",
+"counts": {
+"pp": 3,
+"podemos": 1,
+"salf": 3,
+"pnv": 10,
+"d21": 2,
+"ehbildu": 9,
+"drago": 1
+}
+},
+{
+"id": "federalismo",
+"label": "Federalismo / Estado plurinacional",
+"topic": "territorio",
+"counts": {
+"podemos": 3,
+"frenteamplio": 9,
+"compromis": 1,
+"cc": 1,
+"ehbildu": 4
+}
+},
+{
+"id": "competencias",
+"label": "Traspaso de competencias",
+"topic": "territorio",
+"counts": {
+"psoe": 8,
+"pp": 18,
+"podemos": 11,
+"frenteamplio": 32,
+"erc": 105,
+"compromis": 9,
+"pnv": 31,
+"cc": 9,
+"d21": 8,
+"ehbildu": 15,
+"drago": 22,
+"upc": 3
+}
+},
+{
+"id": "condonacion-deuda",
+"label": "Condonación de deuda autonómica / FLA",
+"topic": "territorio",
+"counts": {
+"frenteamplio": 10,
+"salf": 6,
+"erc": 4,
+"compromis": 2
+}
+},
+{
+"id": "lenguas",
+"label": "Lenguas cooficiales",
+"topic": "territorio",
+"counts": {
+"psoe": 4,
+"pp": 6,
+"podemos": 1,
+"frenteamplio": 4,
+"erc": 35,
+"compromis": 4,
+"pnv": 4,
+"ehbildu": 12
+}
+},
+{
+"id": "ref",
+"label": "REF (Régimen Económico y Fiscal de Canarias)",
+"topic": "territorio",
+"counts": {
+"psoe": 1,
+"podemos": 2,
+"cc": 14,
+"drago": 9,
+"upc": 10
+}
+},
+{
+"id": "insularidad",
+"label": "Insularidad / islas",
+"topic": "territorio",
+"counts": {
+"psoe": 6,
+"pp": 6,
+"vox": 3,
+"podemos": 3,
+"frenteamplio": 17,
+"compromis": 1,
+"cc": 29,
+"d21": 3,
+"drago": 35,
+"upc": 24
+}
+},
+{
+"id": "monarquia",
+"label": "Monarquía / república",
+"topic": "instituciones",
+"counts": {
+"pp": 1,
+"vox": 1,
+"podemos": 14,
+"frenteamplio": 6,
+"erc": 92,
+"pnv": 1,
+"ehbildu": 2
+}
+},
+{
+"id": "corrupcion",
+"label": "Corrupción",
+"topic": "instituciones",
+"counts": {
+"psoe": 4,
+"pp": 9,
+"vox": 19,
+"podemos": 8,
+"frenteamplio": 16,
+"salf": 24,
+"erc": 2,
+"compromis": 3,
+"d21": 46,
+"ehbildu": 2,
+"upc": 6
+}
+},
+{
+"id": "cgpj",
+"label": "CGPJ / independencia judicial",
+"topic": "instituciones",
+"counts": {
+"psoe": 2,
+"pp": 2,
+"podemos": 5,
+"frenteamplio": 1,
+"salf": 4,
+"erc": 1,
+"compromis": 4,
+"d21": 5
+}
+},
+{
+"id": "ley-mordaza",
+"label": "Ley mordaza / seguridad ciudadana",
+"topic": "instituciones",
+"counts": {
+"psoe": 4,
+"pp": 1,
+"podemos": 3,
+"frenteamplio": 1,
+"erc": 6,
+"compromis": 4,
+"pnv": 2,
+"ehbildu": 4
+}
+},
+{
+"id": "aforamientos",
+"label": "Aforamientos",
+"topic": "instituciones",
+"counts": {
+"psoe": 1,
+"pp": 2,
+"podemos": 2,
+"salf": 4,
+"compromis": 1,
+"d21": 4
+}
+},
+{
+"id": "memoria-democratica",
+"label": "Memoria democrática",
+"topic": "instituciones",
+"counts": {
+"psoe": 13,
+"pp": 2,
+"podemos": 10,
+"frenteamplio": 14,
+"erc": 3,
+"compromis": 3,
+"pnv": 3,
+"ehbildu": 4,
+"drago": 3
+}
+},
+{
+"id": "ley-electoral",
+"label": "Ley electoral / listas",
+"topic": "instituciones",
+"counts": {
+"podemos": 2,
+"frenteamplio": 1,
+"erc": 1,
+"d21": 4,
+"drago": 1
+}
+},
+{
+"id": "senado",
+"label": "Senado",
+"topic": "instituciones",
+"counts": {
+"psoe": 2,
+"pp": 6,
+"podemos": 3,
+"frenteamplio": 3,
+"salf": 2,
+"compromis": 1,
+"cc": 9,
+"d21": 4,
+"ehbildu": 2
+}
+},
+{
+"id": "policia",
+"label": "Policía / Guardia Civil",
+"topic": "instituciones",
+"counts": {
+"psoe": 16,
+"pp": 21,
+"vox": 13,
+"podemos": 18,
+"frenteamplio": 24,
+"salf": 11,
+"erc": 23,
+"compromis": 5,
+"pnv": 22,
+"cc": 3,
+"d21": 19,
+"ehbildu": 8,
+"upc": 1
+}
+},
+{
+"id": "codigo-penal",
+"label": "Código Penal / penas",
+"topic": "instituciones",
+"counts": {
+"psoe": 3,
+"pp": 7,
+"vox": 1,
+"podemos": 3,
+"frenteamplio": 5,
+"salf": 3,
+"erc": 2,
+"compromis": 2,
+"pnv": 3,
+"d21": 3,
+"drago": 1
+}
+},
+{
+"id": "transparencia",
+"label": "Transparencia",
+"topic": "instituciones",
+"counts": {
+"psoe": 22,
+"pp": 8,
+"vox": 1,
+"podemos": 25,
+"frenteamplio": 34,
+"erc": 7,
+"compromis": 17,
+"pnv": 2,
+"cc": 2,
+"d21": 5,
+"ehbildu": 7,
+"upc": 1
+}
+},
+{
+"id": "puertas-giratorias",
+"label": "Puertas giratorias",
+"topic": "instituciones",
+"counts": {
+"frenteamplio": 1,
+"salf": 1,
+"d21": 1
+}
+},
+{
+"id": "otan",
+"label": "OTAN",
+"topic": "exterior",
+"counts": {
+"pp": 2,
+"podemos": 6,
+"frenteamplio": 3,
+"erc": 1,
+"compromis": 1,
+"d21": 1,
+"ehbildu": 5
+}
+},
+{
+"id": "gasto-defensa",
+"label": "Gasto en defensa / ejército",
+"topic": "exterior",
+"counts": {
+"psoe": 6,
+"pp": 7,
+"vox": 5,
+"podemos": 13,
+"frenteamplio": 3,
+"salf": 2,
+"compromis": 1,
+"d21": 4,
+"ehbildu": 2
+}
+},
+{
+"id": "israel-palestina",
+"label": "Israel / Palestina",
+"topic": "exterior",
+"counts": {
+"psoe": 13,
+"pp": 2,
+"podemos": 13,
+"frenteamplio": 13,
+"erc": 8,
+"compromis": 1,
+"ehbildu": 8,
+"upc": 1
+}
+},
+{
+"id": "ucrania",
+"label": "Ucrania / Rusia",
+"topic": "exterior",
+"counts": {
+"psoe": 7,
+"pp": 7,
+"podemos": 7,
+"frenteamplio": 3,
+"erc": 4,
+"compromis": 1
+}
+},
+{
+"id": "sahara",
+"label": "Sáhara Occidental / Marruecos",
+"topic": "exterior",
+"counts": {
+"pp": 4,
+"vox": 1,
+"podemos": 30,
+"frenteamplio": 17,
+"salf": 7,
+"erc": 6,
+"compromis": 1,
+"cc": 5,
+"ehbildu": 9,
+"drago": 31,
+"upc": 3
+}
+},
+{
+"id": "union-europea",
+"label": "Unión Europea",
+"topic": "exterior",
+"counts": {
+"psoe": 21,
+"pp": 9,
+"vox": 4,
+"podemos": 8,
+"frenteamplio": 14,
+"salf": 8,
+"erc": 21,
+"compromis": 3,
+"pnv": 4,
+"cc": 12,
+"d21": 10,
+"ehbildu": 1,
+"drago": 16,
+"upc": 4
+}
+},
+{
+"id": "cooperacion",
+"label": "Cooperación al desarrollo (0,7 %)",
+"topic": "exterior",
+"counts": {
+"psoe": 8,
+"pp": 3,
+"vox": 1,
+"podemos": 4,
+"frenteamplio": 7,
+"erc": 5,
+"compromis": 3,
+"pnv": 2,
+"cc": 1,
+"d21": 1,
+"upc": 1
+}
+},
+{
+"id": "gibraltar",
+"label": "Gibraltar",
+"topic": "exterior",
+"counts": {
+"psoe": 3,
+"pp": 2,
+"vox": 2,
+"podemos": 2,
+"frenteamplio": 1,
+"salf": 1
+}
+},
+{
+"id": "ceuta-melilla",
+"label": "Ceuta y Melilla",
+"topic": "exterior",
+"counts": {
+"psoe": 6,
+"pp": 28,
+"vox": 13,
+"podemos": 4,
+"frenteamplio": 4,
+"salf": 29,
+"d21": 4
+}
+},
+{
+"id": "educacion-publica",
+"label": "Educación pública",
+"topic": "educacion",
+"counts": {
+"psoe": 6,
+"podemos": 6,
+"frenteamplio": 10,
+"erc": 3,
+"compromis": 2,
+"upc": 3
+}
+},
+{
+"id": "concertada",
+"label": "Escuela concertada / libertad de elección",
+"topic": "educacion",
+"counts": {
+"pp": 3,
+"podemos": 2,
+"frenteamplio": 1,
+"salf": 1,
+"compromis": 1
+}
+},
+{
+"id": "religion",
+"label": "Religión en la escuela / laicidad",
+"topic": "educacion",
+"counts": {
+"pp": 3,
+"vox": 1,
+"podemos": 15,
+"frenteamplio": 11,
+"erc": 5,
+"compromis": 10,
+"ehbildu": 4
+}
+},
+{
+"id": "0-3",
+"label": "Educación infantil 0-3 años",
+"topic": "educacion",
+"counts": {
+"psoe": 4,
+"vox": 1,
+"podemos": 6,
+"frenteamplio": 5,
+"erc": 2,
+"compromis": 1,
+"d21": 5,
+"upc": 1
+}
+},
+{
+"id": "universidad",
+"label": "Universidad / tasas y becas",
+"topic": "educacion",
+"counts": {
+"psoe": 39,
+"pp": 10,
+"vox": 5,
+"podemos": 23,
+"frenteamplio": 22,
+"salf": 5,
+"erc": 16,
+"compromis": 17,
+"pnv": 5,
+"cc": 6,
+"d21": 22,
+"drago": 8,
+"upc": 4
+}
+},
+{
+"id": "fp",
+"label": "Formación Profesional (FP)",
+"topic": "educacion",
+"counts": {
+"psoe": 11,
+"pp": 6,
+"vox": 1,
+"podemos": 7,
+"frenteamplio": 6,
+"salf": 7,
+"compromis": 3,
+"pnv": 3,
+"d21": 10,
+"drago": 2
+}
+},
+{
+"id": "pin-parental",
+"label": "Pin parental / educación sexual",
+"topic": "educacion",
+"counts": {
+"psoe": 2,
+"podemos": 3,
+"frenteamplio": 1,
+"compromis": 2,
+"pnv": 1
+}
+},
+{
+"id": "inmersion",
+"label": "Inmersión lingüística / lengua vehicular",
+"topic": "educacion",
+"counts": {
+"frenteamplio": 2,
+"erc": 8,
+"d21": 1
+}
+},
+{
+"id": "profesorado",
+"label": "Profesorado / docentes",
+"topic": "educacion",
+"counts": {
+"psoe": 17,
+"pp": 8,
+"podemos": 24,
+"frenteamplio": 12,
+"salf": 2,
+"erc": 12,
+"compromis": 3,
+"pnv": 2,
+"d21": 37,
+"drago": 1,
+"upc": 3
+}
+},
+{
+"id": "ia",
+"label": "Inteligencia artificial",
+"topic": "cultura",
+"counts": {
+"psoe": 55,
+"pp": 9,
+"vox": 2,
+"podemos": 5,
+"frenteamplio": 29,
+"erc": 11,
+"compromis": 2,
+"pnv": 1,
+"d21": 31,
+"ehbildu": 21,
+"upc": 2
+}
+},
+{
+"id": "redes-sociales",
+"label": "Redes sociales / menores en internet",
+"topic": "cultura",
+"counts": {
+"psoe": 12,
+"pp": 3,
+"podemos": 9,
+"frenteamplio": 9,
+"erc": 3,
+"pnv": 2,
+"d21": 2,
+"ehbildu": 4
+}
+},
+{
+"id": "rtve",
+"label": "RTVE / medios públicos",
+"topic": "cultura",
+"counts": {
+"pp": 3,
+"vox": 2,
+"podemos": 6,
+"frenteamplio": 1,
+"salf": 1,
+"erc": 1,
+"compromis": 2,
+"d21": 3
+}
+},
+{
+"id": "ciencia",
+"label": "Ciencia / I+D",
+"topic": "cultura",
+"counts": {
+"psoe": 59,
+"pp": 20,
+"vox": 7,
+"podemos": 63,
+"frenteamplio": 36,
+"salf": 5,
+"erc": 25,
+"compromis": 12,
+"pnv": 10,
+"cc": 16,
+"d21": 52,
+"ehbildu": 4,
+"drago": 3,
+"upc": 7
+}
+},
+{
+"id": "cultura",
+"label": "Cultura / IVA cultural",
+"topic": "cultura",
+"counts": {
+"psoe": 42,
+"pp": 35,
+"vox": 10,
+"podemos": 67,
+"frenteamplio": 139,
+"salf": 4,
+"erc": 41,
+"compromis": 48,
+"pnv": 2,
+"cc": 7,
+"d21": 33,
+"ehbildu": 8,
+"drago": 2,
+"upc": 13
+}
+},
+{
+"id": "deporte",
+"label": "Deporte",
+"topic": "otros",
+"counts": {
+"psoe": 22,
+"pp": 5,
+"vox": 7,
+"podemos": 16,
+"frenteamplio": 7,
+"salf": 2,
+"erc": 6,
+"compromis": 8,
+"cc": 1,
+"d21": 23,
+"ehbildu": 1,
+"drago": 7
+}
+},
+{
+"id": "juventud",
+"label": "Juventud",
+"topic": "otros",
+"counts": {
+"psoe": 37,
+"pp": 18,
+"vox": 3,
+"podemos": 12,
+"frenteamplio": 28,
+"salf": 3,
+"erc": 4,
+"compromis": 18,
+"pnv": 23,
+"cc": 13,
+"d21": 24,
+"ehbildu": 4,
+"upc": 17
+}
+},
+{
+"id": "mayores",
+"label": "Personas mayores / soledad no deseada",
+"topic": "otros",
+"counts": {
+"psoe": 15,
+"pp": 4,
+"vox": 2,
+"podemos": 11,
+"frenteamplio": 5,
+"compromis": 5,
+"pnv": 2,
+"cc": 6,
+"d21": 7,
+"upc": 4
+}
+},
+{
+"id": "transporte-publico",
+"label": "Transporte público / abono",
+"topic": "otros",
+"counts": {
+"psoe": 5,
+"podemos": 12,
+"frenteamplio": 17,
+"erc": 4,
+"compromis": 8,
+"pnv": 1,
+"cc": 2,
+"d21": 1,
+"ehbildu": 2,
+"upc": 1
+}
+},
+{
+"id": "internet",
+"label": "Conectividad / internet / banda ancha",
+"topic": "otros",
+"counts": {
+"psoe": 11,
+"pp": 2,
+"podemos": 1,
+"frenteamplio": 2,
+"erc": 2,
+"compromis": 1,
+"pnv": 2,
+"cc": 4,
+"d21": 3,
+"drago": 4,
+"upc": 2
+}
+}
+]

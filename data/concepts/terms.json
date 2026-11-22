@@ -1,0 +1,1409 @@
+[
+ {
+  "id": "alquiler",
+  "label": "Alquiler",
+  "topic": "vivienda",
+  "v": [
+   "alquiler",
+   "arrendamiento",
+   "arrendatari",
+   "inquilin",
+   "lloguer",
+   "llogater"
+  ]
+ },
+ {
+  "id": "vivienda-publica",
+  "label": "Vivienda pública / social",
+  "topic": "vivienda",
+  "v": [
+   "vivienda publica",
+   "vivienda social",
+   "vivienda protegida",
+   "parque publico",
+   "habitatge public",
+   "habitatge social",
+   "habitatge protegit"
+  ]
+ },
+ {
+  "id": "desahucio",
+  "label": "Desahucios",
+  "topic": "vivienda",
+  "v": [
+   "desahucio",
+   "desnonament",
+   "lanzamiento"
+  ]
+ },
+ {
+  "id": "okupacion",
+  "label": "Okupación",
+  "topic": "vivienda",
+  "v": [
+   "okupa",
+   "ocupacion ilegal",
+   "inquiokupa",
+   "ocupacio il"
+  ]
+ },
+ {
+  "id": "pisos-turisticos",
+  "label": "Pisos turísticos",
+  "topic": "vivienda",
+  "v": [
+   "pisos turisticos",
+   "viviendas turisticas",
+   "vivienda turistica",
+   "vivienda vacacional",
+   "alquiler vacacional",
+   "pisos turistics",
+   "habitatges turistics",
+   "habitatge turistic"
+  ]
+ },
+ {
+  "id": "vivienda-vacia",
+  "label": "Viviendas vacías",
+  "topic": "vivienda",
+  "v": [
+   "vivienda vacia",
+   "viviendas vacias",
+   "pisos vacios",
+   "habitatge buit",
+   "habitatges buits"
+  ]
+ },
+ {
+  "id": "fondos-buitre",
+  "label": "Fondos de inversión / grandes tenedores",
+  "topic": "vivienda",
+  "v": [
+   "fondos buitre",
+   "fondos de inversion",
+   "grandes tenedores",
+   "gran tenedor",
+   "fons voltor",
+   "grans tenidors"
+  ]
+ },
+ {
+  "id": "hipoteca",
+  "label": "Hipotecas",
+  "topic": "vivienda",
+  "v": [
+   "hipoteca",
+   "hipotecari"
+  ]
+ },
+ {
+  "id": "sareb",
+  "label": "Sareb",
+  "topic": "vivienda",
+  "v": [
+   "SAREB",
+   "Sareb"
+  ]
+ },
+ {
+  "id": "smi",
+  "label": "Salario mínimo (SMI)",
+  "topic": "empleo",
+  "v": [
+   "salario minimo",
+   "SMI",
+   "salari minim"
+  ]
+ },
+ {
+  "id": "jornada",
+  "label": "Jornada laboral / reducción de jornada",
+  "topic": "empleo",
+  "v": [
+   "jornada laboral",
+   "reduccion de jornada",
+   "37,5 horas",
+   "32 horas",
+   "semana de cuatro dias",
+   "jornada de treball",
+   "reduccio de jornada"
+  ]
+ },
+ {
+  "id": "despido",
+  "label": "Despido",
+  "topic": "empleo",
+  "v": [
+   "despido",
+   "acomiadament"
+  ]
+ },
+ {
+  "id": "reforma-laboral",
+  "label": "Reforma laboral",
+  "topic": "empleo",
+  "v": [
+   "reforma laboral",
+   "estatuto de los trabajadores",
+   "estatut dels treballadors"
+  ]
+ },
+ {
+  "id": "autonomos",
+  "label": "Autónomos",
+  "topic": "empleo",
+  "v": [
+   "autonomos",
+   "trabajadores autonomos",
+   "trabajo autonomo",
+   "cuota de autonomos",
+   "RETA",
+   "treballadors autonoms",
+   "autonoms"
+  ]
+ },
+ {
+  "id": "teletrabajo",
+  "label": "Teletrabajo",
+  "topic": "empleo",
+  "v": [
+   "teletrabajo",
+   "teletreball"
+  ]
+ },
+ {
+  "id": "paro",
+  "label": "Paro / desempleo",
+  "topic": "empleo",
+  "v": [
+   "desempleo",
+   "paro",
+   "atur",
+   "prestacion por desempleo"
+  ]
+ },
+ {
+  "id": "sindicatos",
+  "label": "Sindicatos",
+  "topic": "empleo",
+  "v": [
+   "sindicato",
+   "sindical",
+   "sindicat"
+  ]
+ },
+ {
+  "id": "irpf",
+  "label": "IRPF",
+  "topic": "economia",
+  "v": [
+   "IRPF"
+  ]
+ },
+ {
+  "id": "iva",
+  "label": "IVA",
+  "topic": "economia",
+  "v": [
+   "IVA"
+  ]
+ },
+ {
+  "id": "sociedades",
+  "label": "Impuesto de sociedades",
+  "topic": "economia",
+  "v": [
+   "impuesto de sociedades",
+   "impuesto sobre sociedades",
+   "impost de societats",
+   "impost sobre societats"
+  ]
+ },
+ {
+  "id": "patrimonio",
+  "label": "Grandes fortunas / patrimonio",
+  "topic": "economia",
+  "v": [
+   "grandes fortunas",
+   "impuesto de patrimonio",
+   "impuesto sobre el patrimonio",
+   "grans fortunes",
+   "impost de patrimoni"
+  ]
+ },
+ {
+  "id": "sucesiones",
+  "label": "Impuesto de sucesiones",
+  "topic": "economia",
+  "v": [
+   "sucesiones",
+   "successions"
+  ]
+ },
+ {
+  "id": "fraude-fiscal",
+  "label": "Fraude fiscal",
+  "topic": "economia",
+  "v": [
+   "fraude fiscal",
+   "evasion fiscal",
+   "paraisos fiscales",
+   "frau fiscal",
+   "paradisos fiscals"
+  ]
+ },
+ {
+  "id": "banca",
+  "label": "Banca / impuesto a la banca",
+  "topic": "economia",
+  "v": [
+   "banca publica",
+   "impuesto a la banca",
+   "sector bancario",
+   "entidades financieras",
+   "bancs"
+  ]
+ },
+ {
+  "id": "deuda",
+  "label": "Deuda y déficit",
+  "topic": "economia",
+  "v": [
+   "deuda publica",
+   "deficit",
+   "deute public"
+  ]
+ },
+ {
+  "id": "pymes",
+  "label": "Pymes",
+  "topic": "economia",
+  "v": [
+   "pyme",
+   "pimes",
+   "pequenas y medianas empresas",
+   "petites i mitjanes empreses"
+  ]
+ },
+ {
+  "id": "industria",
+  "label": "Industria / reindustrialización",
+  "topic": "economia",
+  "v": [
+   "reindustrializ",
+   "politica industrial",
+   "industria"
+  ]
+ },
+ {
+  "id": "inflacion",
+  "label": "Inflación / precios",
+  "topic": "economia",
+  "v": [
+   "inflacion",
+   "coste de la vida",
+   "carestia",
+   "inflacio",
+   "cost de la vida"
+  ]
+ },
+ {
+  "id": "turismo",
+  "label": "Turismo",
+  "topic": "economia",
+  "v": [
+   "turismo",
+   "turistic",
+   "turisme",
+   "ecotasa",
+   "tasa turistica",
+   "taxa turistica"
+  ]
+ },
+ {
+  "id": "burocracia",
+  "label": "Burocracia / simplificación administrativa",
+  "topic": "economia",
+  "v": [
+   "burocracia",
+   "simplificacion administrativa",
+   "desregulacion"
+  ]
+ },
+ {
+  "id": "pensiones",
+  "label": "Pensiones",
+  "topic": "pensiones",
+  "v": [
+   "pension",
+   "pensio"
+  ]
+ },
+ {
+  "id": "jubilacion",
+  "label": "Jubilación / edad de jubilación",
+  "topic": "pensiones",
+  "v": [
+   "jubilacion",
+   "edad de jubilacion",
+   "jubilacio"
+  ]
+ },
+ {
+  "id": "imv",
+  "label": "Ingreso Mínimo Vital",
+  "topic": "pensiones",
+  "v": [
+   "ingreso minimo vital",
+   "IMV",
+   "renda garantida",
+   "renta basica",
+   "renda basica"
+  ]
+ },
+ {
+  "id": "dependencia",
+  "label": "Dependencia / cuidados",
+  "topic": "pensiones",
+  "v": [
+   "atencion a la dependencia",
+   "ley de dependencia",
+   "sistema de dependencia",
+   "grado de dependencia",
+   "cuidados",
+   "cures"
+  ]
+ },
+ {
+  "id": "natalidad",
+  "label": "Natalidad / crianza",
+  "topic": "pensiones",
+  "v": [
+   "natalidad",
+   "crianza",
+   "prestacion por hijo",
+   "natalitat",
+   "criança"
+  ]
+ },
+ {
+  "id": "discapacidad",
+  "label": "Discapacidad",
+  "topic": "pensiones",
+  "v": [
+   "discapacidad",
+   "diversidad funcional",
+   "discapacitat"
+  ]
+ },
+ {
+  "id": "listas-espera",
+  "label": "Listas de espera",
+  "topic": "sanidad",
+  "v": [
+   "listas de espera",
+   "llistes d'espera",
+   "llistes d espera"
+  ]
+ },
+ {
+  "id": "atencion-primaria",
+  "label": "Atención primaria",
+  "topic": "sanidad",
+  "v": [
+   "atencion primaria",
+   "atencio primaria",
+   "centros de salud"
+  ]
+ },
+ {
+  "id": "salud-mental",
+  "label": "Salud mental",
+  "topic": "sanidad",
+  "v": [
+   "salud mental",
+   "salut mental",
+   "psicolog"
+  ]
+ },
+ {
+  "id": "dental",
+  "label": "Salud bucodental / dentista",
+  "topic": "sanidad",
+  "v": [
+   "bucodental",
+   "dental",
+   "dentista"
+  ]
+ },
+ {
+  "id": "privatizacion-sanidad",
+  "label": "Sanidad privada / conciertos",
+  "topic": "sanidad",
+  "v": [
+   "sanidad privada",
+   "privatizacion",
+   "conciertos sanitarios",
+   "colaboracion publico-privada",
+   "privatitzacio",
+   "sanitat privada"
+  ]
+ },
+ {
+  "id": "medicamentos",
+  "label": "Medicamentos / farmacia",
+  "topic": "sanidad",
+  "v": [
+   "medicamento",
+   "farmac",
+   "medicament"
+  ]
+ },
+ {
+  "id": "eutanasia",
+  "label": "Eutanasia",
+  "topic": "sanidad",
+  "v": [
+   "eutanasia",
+   "muerte digna"
+  ]
+ },
+ {
+  "id": "aborto",
+  "label": "Aborto / interrupción del embarazo",
+  "topic": "igualdad",
+  "v": [
+   "aborto",
+   "interrupcion voluntaria del embarazo",
+   "avortament",
+   "interrupcio voluntaria"
+  ]
+ },
+ {
+  "id": "violencia-genero",
+  "label": "Violencia de género / machista",
+  "topic": "igualdad",
+  "v": [
+   "violencia de genero",
+   "violencia machista",
+   "violencia intrafamiliar",
+   "violencia masclista",
+   "violencia de genere"
+  ]
+ },
+ {
+  "id": "lgtbi",
+  "label": "Derechos LGTBI / ley trans",
+  "topic": "igualdad",
+  "v": [
+   "LGTB",
+   "LGBT",
+   "ley trans",
+   "persones trans",
+   "personas trans"
+  ]
+ },
+ {
+  "id": "brecha-salarial",
+  "label": "Brecha salarial",
+  "topic": "igualdad",
+  "v": [
+   "brecha salarial",
+   "bretxa salarial"
+  ]
+ },
+ {
+  "id": "prostitucion",
+  "label": "Prostitución",
+  "topic": "igualdad",
+  "v": [
+   "prostitucion",
+   "proxenetismo",
+   "prostitucio"
+  ]
+ },
+ {
+  "id": "paridad",
+  "label": "Paridad",
+  "topic": "igualdad",
+  "v": [
+   "paridad",
+   "paritari",
+   "paritat"
+  ]
+ },
+ {
+  "id": "permisos",
+  "label": "Permisos de nacimiento / conciliación",
+  "topic": "igualdad",
+  "v": [
+   "permiso de nacimiento",
+   "permisos de nacimiento",
+   "conciliacion",
+   "conciliacio",
+   "permis de naixement"
+  ]
+ },
+ {
+  "id": "regularizacion",
+  "label": "Regularización de inmigrantes",
+  "topic": "inmigracion",
+  "v": [
+   "regularizacion",
+   "regularitzacio",
+   "arraigo"
+  ]
+ },
+ {
+  "id": "expulsion",
+  "label": "Expulsión / deportación",
+  "topic": "inmigracion",
+  "v": [
+   "expulsion",
+   "deportacion",
+   "expulsio",
+   "devolucion"
+  ]
+ },
+ {
+  "id": "cie",
+  "label": "CIE (centros de internamiento)",
+  "topic": "inmigracion",
+  "v": [
+   "CIE",
+   "centros de internamiento",
+   "centres d'internament"
+  ]
+ },
+ {
+  "id": "menores-migrantes",
+  "label": "Menores migrantes no acompañados",
+  "topic": "inmigracion",
+  "v": [
+   "menores no acompanados",
+   "menores migrantes",
+   "menors migrants",
+   "menors no acompanyats",
+   "MENA"
+  ]
+ },
+ {
+  "id": "fronteras",
+  "label": "Fronteras / Frontex",
+  "topic": "inmigracion",
+  "v": [
+   "frontera",
+   "Frontex",
+   "fronteres"
+  ]
+ },
+ {
+  "id": "asilo",
+  "label": "Asilo y refugio",
+  "topic": "inmigracion",
+  "v": [
+   "asilo",
+   "refugiad",
+   "asil",
+   "refugiat"
+  ]
+ },
+ {
+  "id": "nacionalidad",
+  "label": "Nacionalidad española",
+  "topic": "inmigracion",
+  "v": [
+   "nacionalidad espanola",
+   "acceso a la nacionalidad",
+   "nacionalitat"
+  ]
+ },
+ {
+  "id": "prioridad-nacional",
+  "label": "Prioridad nacional",
+  "topic": "inmigracion",
+  "v": [
+   "prioridad nacional"
+  ]
+ },
+ {
+  "id": "racismo",
+  "label": "Racismo / antirracismo",
+  "topic": "inmigracion",
+  "v": [
+   "racismo",
+   "antirracis",
+   "racisme",
+   "xenofob"
+  ]
+ },
+ {
+  "id": "nuclear",
+  "label": "Energía nuclear",
+  "topic": "medioambiente",
+  "v": [
+   "nuclear",
+   "Almaraz"
+  ]
+ },
+ {
+  "id": "renovables",
+  "label": "Energías renovables",
+  "topic": "medioambiente",
+  "v": [
+   "renovable",
+   "fotovoltaic",
+   "eolic",
+   "energia solar",
+   "placas solares",
+   "plaques solars",
+   "autoconsumo",
+   "autoconsum"
+  ]
+ },
+ {
+  "id": "cambio-climatico",
+  "label": "Cambio climático",
+  "topic": "medioambiente",
+  "v": [
+   "cambio climatico",
+   "emergencia climatica",
+   "crisis climatica",
+   "canvi climatic"
+  ]
+ },
+ {
+  "id": "agenda-2030",
+  "label": "Agenda 2030 / Pacto Verde",
+  "topic": "medioambiente",
+  "v": [
+   "Agenda 2030",
+   "Pacto Verde",
+   "Green Deal",
+   "Pacte Verd"
+  ]
+ },
+ {
+  "id": "agua",
+  "label": "Agua / sequía",
+  "topic": "medioambiente",
+  "v": [
+   "agua",
+   "sequia",
+   "aigua",
+   "sequera",
+   "desalad",
+   "dessalinitz"
+  ]
+ },
+ {
+  "id": "precio-luz",
+  "label": "Precio de la luz / electricidad",
+  "topic": "medioambiente",
+  "v": [
+   "precio de la luz",
+   "factura electrica",
+   "mercado electrico",
+   "electricidad",
+   "electricitat",
+   "factura de la llum"
+  ]
+ },
+ {
+  "id": "empresa-energia",
+  "label": "Empresa pública de energía",
+  "topic": "medioambiente",
+  "v": [
+   "empresa publica de energia",
+   "energetica publica",
+   "empresa publica d'energia"
+  ]
+ },
+ {
+  "id": "coche-electrico",
+  "label": "Coche eléctrico / movilidad",
+  "topic": "medioambiente",
+  "v": [
+   "coche electrico",
+   "vehiculo electrico",
+   "movilidad sostenible",
+   "zonas de bajas emisiones",
+   "vehicle electric",
+   "mobilitat sostenible"
+  ]
+ },
+ {
+  "id": "tren",
+  "label": "Tren / ferrocarril / Cercanías",
+  "topic": "medioambiente",
+  "v": [
+   "ferrocarril",
+   "tren",
+   "Cercanias",
+   "Rodalies",
+   "ferroviari",
+   "corredor mediterraneo",
+   "corredor mediterrani"
+  ]
+ },
+ {
+  "id": "vuelos",
+  "label": "Vuelos / aviación",
+  "topic": "medioambiente",
+  "v": [
+   "vuelos",
+   "aviacion",
+   "aeropuerto",
+   "vols",
+   "aeroport"
+  ]
+ },
+ {
+  "id": "incendios",
+  "label": "Incendios forestales",
+  "topic": "medioambiente",
+  "v": [
+   "incendio",
+   "incendi"
+  ]
+ },
+ {
+  "id": "animales",
+  "label": "Bienestar animal / protección animal",
+  "topic": "medioambiente",
+  "v": [
+   "bienestar animal",
+   "proteccion animal",
+   "maltrato animal",
+   "benestar animal",
+   "proteccio animal",
+   "mascota"
+  ]
+ },
+ {
+  "id": "toros",
+  "label": "Tauromaquia / toros",
+  "topic": "cultura",
+  "v": [
+   "tauromaquia",
+   "toros",
+   "corridas",
+   "taurin",
+   "bous"
+  ]
+ },
+ {
+  "id": "caza",
+  "label": "Caza",
+  "topic": "rural",
+  "v": [
+   "caza",
+   "cazador",
+   "cinegetic",
+   "cacera"
+  ]
+ },
+ {
+  "id": "pac",
+  "label": "PAC (Política Agraria Común)",
+  "topic": "rural",
+  "v": [
+   "PAC",
+   "Politica Agraria Comun",
+   "Politica Agricola Comun"
+  ]
+ },
+ {
+  "id": "agricultura",
+  "label": "Agricultura y ganadería",
+  "topic": "rural",
+  "v": [
+   "agricultor",
+   "agricultura",
+   "ganader",
+   "pages",
+   "ramader"
+  ]
+ },
+ {
+  "id": "pesca",
+  "label": "Pesca",
+  "topic": "rural",
+  "v": [
+   "pesca",
+   "pescador",
+   "pesquer"
+  ]
+ },
+ {
+  "id": "despoblacion",
+  "label": "Despoblación / España vaciada",
+  "topic": "rural",
+  "v": [
+   "despoblacion",
+   "Espana vaciada",
+   "reto demografico",
+   "despoblament",
+   "mundo rural",
+   "mon rural"
+  ]
+ },
+ {
+  "id": "mercosur",
+  "label": "Mercosur / acuerdos comerciales",
+  "topic": "rural",
+  "v": [
+   "Mercosur",
+   "clausulas espejo",
+   "tratados de libre comercio",
+   "acuerdos comerciales"
+  ]
+ },
+ {
+  "id": "cadena-alimentaria",
+  "label": "Cadena alimentaria / precios justos",
+  "topic": "rural",
+  "v": [
+   "cadena alimentaria",
+   "ley de la cadena",
+   "precios justos"
+  ]
+ },
+ {
+  "id": "autodeterminacion",
+  "label": "Autodeterminación / referéndum",
+  "topic": "territorio",
+  "v": [
+   "autodeterminacion",
+   "derecho a decidir",
+   "referendum",
+   "autodeterminacio",
+   "dret a decidir"
+  ]
+ },
+ {
+  "id": "financiacion-autonomica",
+  "label": "Financiación autonómica",
+  "topic": "territorio",
+  "v": [
+   "financiacion autonomica",
+   "sistema de financiacion",
+   "financament autonomic",
+   "infrafinanciacion",
+   "infrafinancament"
+  ]
+ },
+ {
+  "id": "concierto",
+  "label": "Concierto / Convenio económico",
+  "topic": "territorio",
+  "v": [
+   "Concierto Economico",
+   "Convenio Economico",
+   "cupo"
+  ]
+ },
+ {
+  "id": "federalismo",
+  "label": "Federalismo / Estado plurinacional",
+  "topic": "territorio",
+  "v": [
+   "estado federal",
+   "republica federal",
+   "federalismo",
+   "federalisme",
+   "plurinacional",
+   "plurinacionalitat"
+  ]
+ },
+ {
+  "id": "competencias",
+  "label": "Traspaso de competencias",
+  "topic": "territorio",
+  "v": [
+   "traspaso",
+   "transferencia de competencias",
+   "competencias",
+   "traspas",
+   "competencies"
+  ]
+ },
+ {
+  "id": "condonacion-deuda",
+  "label": "Condonación de deuda autonómica / FLA",
+  "topic": "territorio",
+  "v": [
+   "condonacion",
+   "FLA",
+   "Fondo de Liquidez Autonomica",
+   "condonacio"
+  ]
+ },
+ {
+  "id": "lenguas",
+  "label": "Lenguas cooficiales",
+  "topic": "territorio",
+  "v": [
+   "lenguas cooficiales",
+   "lengua propia",
+   "euskera",
+   "llengua",
+   "oficialidad",
+   "oficialitat"
+  ]
+ },
+ {
+  "id": "ref",
+  "label": "REF (Régimen Económico y Fiscal de Canarias)",
+  "topic": "territorio",
+  "v": [
+   "REF",
+   "Regimen Economico y Fiscal"
+  ]
+ },
+ {
+  "id": "insularidad",
+  "label": "Insularidad / islas",
+  "topic": "territorio",
+  "v": [
+   "insularidad",
+   "insular",
+   "archipielago",
+   "RUP",
+   "region ultraperiferica"
+  ]
+ },
+ {
+  "id": "monarquia",
+  "label": "Monarquía / república",
+  "topic": "instituciones",
+  "v": [
+   "monarquia",
+   "republica",
+   "Corona"
+  ]
+ },
+ {
+  "id": "corrupcion",
+  "label": "Corrupción",
+  "topic": "instituciones",
+  "v": [
+   "corrupcion",
+   "corrupcio",
+   "corrupto"
+  ]
+ },
+ {
+  "id": "cgpj",
+  "label": "CGPJ / independencia judicial",
+  "topic": "instituciones",
+  "v": [
+   "CGPJ",
+   "Consejo General del Poder Judicial",
+   "independencia judicial",
+   "Consell General del Poder Judicial"
+  ]
+ },
+ {
+  "id": "ley-mordaza",
+  "label": "Ley mordaza / seguridad ciudadana",
+  "topic": "instituciones",
+  "v": [
+   "ley mordaza",
+   "seguridad ciudadana",
+   "llei mordassa",
+   "seguretat ciutadana"
+  ]
+ },
+ {
+  "id": "aforamientos",
+  "label": "Aforamientos",
+  "topic": "instituciones",
+  "v": [
+   "aforamiento",
+   "aforados",
+   "aforament"
+  ]
+ },
+ {
+  "id": "memoria-democratica",
+  "label": "Memoria democrática",
+  "topic": "instituciones",
+  "v": [
+   "memoria democratica",
+   "memoria historica",
+   "Cuelgamuros",
+   "Valle de los Caidos"
+  ]
+ },
+ {
+  "id": "ley-electoral",
+  "label": "Ley electoral / listas",
+  "topic": "instituciones",
+  "v": [
+   "ley electoral",
+   "listas abiertas",
+   "listas desbloqueadas",
+   "sistema electoral",
+   "llei electoral",
+   "llistes obertes"
+  ]
+ },
+ {
+  "id": "senado",
+  "label": "Senado",
+  "topic": "instituciones",
+  "v": [
+   "Senado",
+   "Senat"
+  ]
+ },
+ {
+  "id": "policia",
+  "label": "Policía / Guardia Civil",
+  "topic": "instituciones",
+  "v": [
+   "policia",
+   "Guardia Civil",
+   "Mossos",
+   "Ertzaintza",
+   "cuerpos de seguridad"
+  ]
+ },
+ {
+  "id": "codigo-penal",
+  "label": "Código Penal / penas",
+  "topic": "instituciones",
+  "v": [
+   "Codigo Penal",
+   "prision permanente",
+   "multirreincid",
+   "Codi Penal"
+  ]
+ },
+ {
+  "id": "transparencia",
+  "label": "Transparencia",
+  "topic": "instituciones",
+  "v": [
+   "transparencia"
+  ]
+ },
+ {
+  "id": "puertas-giratorias",
+  "label": "Puertas giratorias",
+  "topic": "instituciones",
+  "v": [
+   "puertas giratorias",
+   "portes giratories"
+  ]
+ },
+ {
+  "id": "otan",
+  "label": "OTAN",
+  "topic": "exterior",
+  "v": [
+   "OTAN",
+   "NATO"
+  ]
+ },
+ {
+  "id": "gasto-defensa",
+  "label": "Gasto en defensa / ejército",
+  "topic": "exterior",
+  "v": [
+   "gasto en defensa",
+   "gasto militar",
+   "Fuerzas Armadas",
+   "ejercito",
+   "despesa militar",
+   "exercit"
+  ]
+ },
+ {
+  "id": "israel-palestina",
+  "label": "Israel / Palestina",
+  "topic": "exterior",
+  "v": [
+   "Israel",
+   "Palestina",
+   "Gaza"
+  ]
+ },
+ {
+  "id": "ucrania",
+  "label": "Ucrania / Rusia",
+  "topic": "exterior",
+  "v": [
+   "Ucrania",
+   "Rusia",
+   "Ucraina",
+   "Russia"
+  ]
+ },
+ {
+  "id": "sahara",
+  "label": "Sáhara Occidental / Marruecos",
+  "topic": "exterior",
+  "v": [
+   "Sahara",
+   "Marruecos",
+   "Marroc",
+   "saharaui"
+  ]
+ },
+ {
+  "id": "union-europea",
+  "label": "Unión Europea",
+  "topic": "exterior",
+  "v": [
+   "Union Europea",
+   "Unio Europea",
+   "Bruselas",
+   "Comision Europea"
+  ]
+ },
+ {
+  "id": "cooperacion",
+  "label": "Cooperación al desarrollo (0,7 %)",
+  "topic": "exterior",
+  "v": [
+   "cooperacion al desarrollo",
+   "cooperacion internacional",
+   "0,7",
+   "cooperacio al desenvolupament"
+  ]
+ },
+ {
+  "id": "gibraltar",
+  "label": "Gibraltar",
+  "topic": "exterior",
+  "v": [
+   "Gibraltar"
+  ]
+ },
+ {
+  "id": "ceuta-melilla",
+  "label": "Ceuta y Melilla",
+  "topic": "exterior",
+  "v": [
+   "Ceuta",
+   "Melilla"
+  ]
+ },
+ {
+  "id": "educacion-publica",
+  "label": "Educación pública",
+  "topic": "educacion",
+  "v": [
+   "educacion publica",
+   "escuela publica",
+   "educacio publica",
+   "escola publica"
+  ]
+ },
+ {
+  "id": "concertada",
+  "label": "Escuela concertada / libertad de elección",
+  "topic": "educacion",
+  "v": [
+   "concertada",
+   "concierto educativo",
+   "libertad de eleccion"
+  ]
+ },
+ {
+  "id": "religion",
+  "label": "Religión en la escuela / laicidad",
+  "topic": "educacion",
+  "v": [
+   "religion",
+   "laicidad",
+   "laicismo",
+   "laic",
+   "religio"
+  ]
+ },
+ {
+  "id": "0-3",
+  "label": "Educación infantil 0-3 años",
+  "topic": "educacion",
+  "v": [
+   "0 a 3",
+   "0-3",
+   "escuelas infantiles",
+   "primer ciclo de infantil",
+   "escoles bressol",
+   "educacio infantil"
+  ]
+ },
+ {
+  "id": "universidad",
+  "label": "Universidad / tasas y becas",
+  "topic": "educacion",
+  "v": [
+   "universidad",
+   "universitat",
+   "becas",
+   "beques",
+   "tasas universitarias",
+   "matricula"
+  ]
+ },
+ {
+  "id": "fp",
+  "label": "Formación Profesional (FP)",
+  "topic": "educacion",
+  "v": [
+   "Formacion Profesional",
+   "FP",
+   "Formacio Professional"
+  ]
+ },
+ {
+  "id": "pin-parental",
+  "label": "Pin parental / educación sexual",
+  "topic": "educacion",
+  "v": [
+   "pin parental",
+   "educacion afectivo-sexual",
+   "educacion sexual",
+   "educacio afectivosexual"
+  ]
+ },
+ {
+  "id": "inmersion",
+  "label": "Inmersión lingüística / lengua vehicular",
+  "topic": "educacion",
+  "v": [
+   "inmersion",
+   "lengua vehicular",
+   "immersio",
+   "llengua vehicular"
+  ]
+ },
+ {
+  "id": "profesorado",
+  "label": "Profesorado / docentes",
+  "topic": "educacion",
+  "v": [
+   "profesorado",
+   "docente",
+   "professorat",
+   "docent",
+   "MIR educativo"
+  ]
+ },
+ {
+  "id": "ia",
+  "label": "Inteligencia artificial",
+  "topic": "cultura",
+  "v": [
+   "inteligencia artificial",
+   "intel·ligencia artificial",
+   "intelligencia artificial",
+   "IA"
+  ]
+ },
+ {
+  "id": "redes-sociales",
+  "label": "Redes sociales / menores en internet",
+  "topic": "cultura",
+  "v": [
+   "redes sociales",
+   "xarxes socials",
+   "plataformas digitales"
+  ]
+ },
+ {
+  "id": "rtve",
+  "label": "RTVE / medios públicos",
+  "topic": "cultura",
+  "v": [
+   "RTVE",
+   "television publica",
+   "medios publicos",
+   "radiotelevision"
+  ]
+ },
+ {
+  "id": "ciencia",
+  "label": "Ciencia / I+D",
+  "topic": "cultura",
+  "v": [
+   "I+D",
+   "investigacion",
+   "ciencia",
+   "recerca",
+   "cientific"
+  ]
+ },
+ {
+  "id": "cultura",
+  "label": "Cultura / IVA cultural",
+  "topic": "cultura",
+  "v": [
+   "cultura",
+   "cultural",
+   "bono cultural"
+  ]
+ },
+ {
+  "id": "deporte",
+  "label": "Deporte",
+  "topic": "otros",
+  "v": [
+   "deporte",
+   "esport",
+   "deportiv"
+  ]
+ },
+ {
+  "id": "juventud",
+  "label": "Juventud",
+  "topic": "otros",
+  "v": [
+   "juventud",
+   "jovenes",
+   "joventut",
+   "joves",
+   "emancipacion",
+   "emancipacio"
+  ]
+ },
+ {
+  "id": "mayores",
+  "label": "Personas mayores / soledad no deseada",
+  "topic": "otros",
+  "v": [
+   "personas mayores",
+   "soledad no deseada",
+   "gent gran",
+   "persones majors",
+   "envejecimiento"
+  ]
+ },
+ {
+  "id": "transporte-publico",
+  "label": "Transporte público / abono",
+  "topic": "otros",
+  "v": [
+   "transporte publico",
+   "abono unico",
+   "abono de transporte",
+   "transport public"
+  ]
+ },
+ {
+  "id": "internet",
+  "label": "Conectividad / internet / banda ancha",
+  "topic": "otros",
+  "v": [
+   "banda ancha",
+   "conectividad",
+   "fibra optica",
+   "cobertura movil",
+   "connectivitat"
+  ]
+ }
+]

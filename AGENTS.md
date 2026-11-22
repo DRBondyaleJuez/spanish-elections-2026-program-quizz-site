@@ -22,6 +22,7 @@ Web estática en **español** para preparar las Elecciones Generales del **29/11
 - Programas en catalán/valenciano: resumir en castellano.
 - Cuando aparezca un término técnico, añadirlo al `glossary` del resumen (o a `data/glossary_extra.json`) y ejecutar `python tools/build_glossary.py`, que genera `data/glossary.json`. La web subraya esos términos automáticamente.
 - Validar siempre con `python tools/validate.py [id]`.
+- Buscar por concepto (`#/conceptos`): la lista está en `data/concepts/terms.json` (añadir variantes en catalán/valenciano). Tras cambiar términos, resúmenes, posturas o añadir un programa, ejecutar `python tools/build_concepts.py`.
 - Tras añadir contenido, ejecutar `python tools/check_pages.py [id]`: marca citas cuya página no encaja con el texto (heurística; en programas en catalán/valenciano da falsos positivos, revisar a mano).
 
 - **Temas claro/oscuro**: nunca escribir colores fijos en `style.css` ni en el JS; usar las variables de `:root` (`--bg --fg --card --border --accent --on-accent --warn --shadow --s2…`). Cada variable nueva se define en los tres bloques (claro, `[data-theme="dark"]` y `@media (prefers-color-scheme: dark)`). El botón 🌙/☀️ de la cabecera guarda la elección en `localStorage('theme')`; sin elección se sigue el tema del sistema.
@@ -130,5 +131,5 @@ En Claude Code Desktop: `preview_start` con el nombre `site` (`.claude/launch.js
 2. Añadir la entrada en `data/parties.json` (`id` corto, `name`, `short`, `color` distinto de los demás, `file`, `pages`, `lang`) con un `topicMap` orientativo según el índice; completar con grep los temas que falten.
 3. `python tools/extract_text.py <id>` → `extracted/<id>/`. Si el PDF pesa > 50 MB, comprimirlo antes (ver ROADMAP, riesgos).
 4. Lanzar **dos subagentes Sonnet (esfuerzo medio) en paralelo**: uno escribe `data/summaries/<id>.json` y `data/stances/<id>.json`; otro escribe `data/questions/<id>.json` (100 preguntas; mínimo 60-70 si el programa es corto). Cada uno usa su propia subcarpeta del scratchpad y **no** ejecuta `merge_stances.py` ni `build_glossary.py`.
-5. Ejecutar tú: `python tools/merge_stances.py`, `python tools/build_glossary.py`, `python tools/validate.py` y `python tools/check_pages.py <id>`; revisar a mano lo que marque.
+5. Ejecutar tú: `python tools/merge_stances.py`, `python tools/build_glossary.py`, `python tools/build_concepts.py`, `python tools/validate.py` y `python tools/check_pages.py <id>`; revisar a mano lo que marque.
 6. Probar en el navegador (Resúmenes, Comparar, Anexo, Test), actualizar la tabla de fuentes del ROADMAP y hacer commit + push.

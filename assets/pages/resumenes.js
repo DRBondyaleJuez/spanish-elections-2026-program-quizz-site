@@ -54,6 +54,7 @@ export async function render(app) {
     <h2>Resúmenes de los programas</h2>
     <p class="muted">Elige uno o varios partidos y, si quieres, los temas. Toca las palabras <span class="term demo">subrayadas</span> para ver qué significan y 📄 para abrir el programa en esa página.</p>
     ${reviewNote()}
+    <p class="small">¿Buscas algo concreto (alquiler, OTAN, nuclear…)? Prueba <a href="#/conceptos">Buscar por concepto</a>.</p>
     <div class="filters">
       <div class="flabel">Partidos <button class="link" data-all="p">todos</button></div>
       ${chips('p', B.parties.map(p => ({ id: p.id, label: p.short, color: p.color })), sel)}

@@ -7,6 +7,7 @@ const pages = {
   inicio: () => ({ render: renderInicio }),
   partidos: () => import('./pages/partidos.js'),
   resumenes: () => import('./pages/resumenes.js'),
+  conceptos: () => import('./pages/conceptos.js'),
   comparar: () => import('./pages/comparar.js'),
   anexo: () => import('./pages/anexo.js'),
   test: () => import('./pages/test.js'),
