@@ -170,3 +170,19 @@ a.btn { display:inline-block; text-decoration:none; text-align:center; line-heig
 .sigla-big { font-size:1.4rem; font-weight:800; padding:2px 12px; border-radius:10px; background:var(--c, var(--accent)); color:#fff; text-shadow:0 0 2px rgba(0,0,0,.5); }
 .members { list-style:none; padding:0; margin:6px 0; display:flex; flex-wrap:wrap; gap:6px; }
 .members li { margin:0; padding:3px 10px; border-radius:999px; border:1px solid var(--border); font-size:.88rem; }
+
+/* Test de afinidad */
+.progress { height:8px; border-radius:99px; background:var(--border); overflow:hidden; margin:8px 0; }
+.progress i { display:block; height:100%; background:var(--accent); }
+.aff-top { display:flex; justify-content:space-between; align-items:center; }
+.aff-opts { display:flex; flex-direction:column; gap:8px; }
+.aff-opt { font:inherit; text-align:left; background:var(--card); color:var(--fg); cursor:pointer; }
+.aff-opt.on { border-color:var(--accent); background:color-mix(in srgb, var(--accent) 12%, transparent); }
+.aff-opt.skip { color:var(--muted); font-size:.9rem; }
+.aff-imp { display:flex; gap:8px; align-items:center; margin-top:12px; font-size:.92rem; min-height:44px; }
+.aff-imp input { transform:scale(1.25); }
+details.aff-res > summary { display:flex; flex-wrap:wrap; align-items:center; gap:4px 8px; }
+.aff-bar { flex:1 1 80px; height:10px; border-radius:99px; background:var(--bg); overflow:hidden; min-width:60px; }
+.aff-bar i { display:block; height:100%; }
+details.aff-res .pct { font-size:1.05rem; }
+.aff-body { margin-top:10px; }

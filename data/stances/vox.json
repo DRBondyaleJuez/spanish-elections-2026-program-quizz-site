@@ -1,402 +1,502 @@
 {
- "viv-1": {
-  "v": -1,
-  "page": 23,
-  "note": "Propone derogar la Ley de Vivienda y recuperar una oferta de alquiler abundante; no plantea topar precios."
- },
- "viv-2": {
-  "v": 2,
-  "page": 23,
-  "note": "Propone la derogación de la Ley de Vivienda y una reforma de la Ley del Suelo."
- },
- "viv-3": {
-  "v": 1,
-  "page": 23,
-  "note": "Propone más inversión pública en vivienda protegida con colaboración público-privada, con prioridad para españoles; no un parque estatal de alquiler."
- },
- "viv-4": {
-  "v": 2,
-  "page": 24,
-  "note": "Desalojo de la vivienda okupada en menos de 24 horas y endurecimiento del Código Penal, con la inquiocupación como estafa."
- },
- "viv-5": {
-  "v": 2,
-  "page": 25,
-  "note": "Fiscalidad agravada y disuasoria para compradores no comunitarios y operaciones especulativas de fondos o sociedades."
- },
- "viv-6": {
-  "v": 2,
-  "page": 24,
-  "note": "IVA del 0 % en la primera vivienda nueva y 100 % de bonificación del ITP en la de segunda mano."
- },
- "viv-7": {
-  "v": 1,
-  "page": 24,
-  "note": "Propone regular la proliferación masiva de viviendas de uso turístico y reforzar la inspección de las ilegales."
- },
- "emp-1": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "emp-2": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "emp-3": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "emp-4": {
-  "v": 2,
-  "page": 9,
-  "note": "Cuota de autónomos de cero euros si no se llega al SMI y, por encima, cuota progresiva desde 50 euros."
- },
- "emp-5": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "eco-1": {
-  "v": 2,
-  "page": 9,
-  "note": "Simplificación y bajada del IRPF, con un tipo menor según el número de hijos."
- },
- "eco-2": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "eco-3": {
-  "v": -1,
-  "page": 9,
-  "note": "Propone reducir el tipo del Impuesto de Sociedades; no plantea gravar más a grandes empresas."
- },
- "eco-4": {
-  "v": 2,
-  "page": 29,
-  "note": "Auditoría de las administraciones y reducir al mínimo el tamaño de la Administración Pública y sus gastos."
- },
- "eco-5": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "eco-6": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "pen-1": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "pen-2": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "pen-3": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "pen-4": {
-  "v": 1,
-  "page": 51,
-  "note": "Plan de natalidad con ayudas desde el primer hijo y cotización pagada por el Estado; el IMV solo para españoles."
- },
- "pen-5": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "san-1": {
-  "v": -1,
-  "page": 37,
-  "note": "Fomenta la colaboración público-privada cuando ayude a reducir demoras; no plantea revertir conciertos."
- },
- "san-2": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "san-3": {
-  "v": 1,
-  "page": 37,
-  "note": "Plan de listas de espera con colaboración público-privada cuando ayude efectivamente a reducir demoras."
- },
- "san-4": {
-  "v": 2,
-  "page": 19,
-  "note": "Excluir de la sanidad a extranjeros en situación ilegal salvo urgencia grave y auditar el coste."
- },
- "san-5": {
-  "v": 1,
-  "page": 38,
-  "note": "Refuerzo de la Estrategia Nacional de Salud Mental; no detalla más psicólogos o psiquiatras."
- },
- "edu-1": {
-  "v": 2,
-  "page": 41,
-  "note": "Garantizar la libre elección de centro en todos los niveles, con distrito único."
- },
- "edu-2": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "edu-3": {
-  "v": 2,
-  "page": 51,
-  "note": "Incluye la gratuidad real de la educación infantil de 0 a 3 años dentro del plan de natalidad."
- },
- "edu-4": {
-  "v": 2,
-  "page": 41,
-  "note": "Se garantizará la educación en español en todo el territorio nacional, con currículo e inspección unificados."
- },
- "edu-5": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "edu-6": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "igu-1": {
-  "v": -2,
-  "page": 30,
-  "note": "Propone derogar las leyes de género y aprobar normas de protección de las víctimas de violencia."
- },
- "igu-2": {
-  "v": -2,
-  "page": 52,
-  "note": "Defiende el derecho a la vida desde la concepción, objeción de conciencia sanitaria y más cuidados paliativos."
- },
- "igu-3": {
-  "v": -1,
-  "page": 43,
-  "note": "Solo menciona que el deporte femenino se rija por criterios biológicos y deportivos objetivos."
- },
- "igu-4": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "igu-5": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "inm-1": {
-  "v": -2,
-  "page": 15,
-  "note": "Prohíbe las regularizaciones masivas; quien entre de forma ilegal no podrá regularizar su situación."
- },
- "inm-2": {
-  "v": 2,
-  "page": 15,
-  "note": "Repatriación de quienes estén en situación ilegal, deportaciones y protección permanente de fronteras con las Fuerzas Armadas."
- },
- "inm-3": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "inm-4": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "inm-5": {
-  "v": 2,
-  "page": 19,
-  "note": "Acceso preferente de los españoles a vivienda pública, guardería, becas, ayudas y servicios sociales."
- },
- "inm-6": {
-  "v": 2,
-  "page": 15,
-  "note": "Endurecer los requisitos de nacionalidad, suprimir el arraigo y revocar las pasarelas rápidas."
- },
- "med-1": {
-  "v": 2,
-  "page": 12,
-  "note": "Derogar el calendario de cierre de las nucleares actuales y estudiar nuevas centrales."
- },
- "med-2": {
-  "v": -1,
-  "page": 29,
-  "note": "Propone acabar con las imposiciones climáticas y frenar las macroplantas solares y eólicas sobre suelo agrícola."
- },
- "med-3": {
-  "v": 2,
-  "page": 12,
-  "note": "Revertir normas inspiradas en el Pacto Verde Europeo y la Agenda 2030."
- },
- "med-4": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "med-5": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "med-6": {
-  "v": -2,
-  "page": 43,
-  "note": "Propone defender y promocionar la tauromaquia."
- },
- "rur-1": {
-  "v": 2,
-  "page": 35,
-  "note": "Defensa de la caza como actividad esencial y de las tradiciones rurales."
- },
- "rur-2": {
-  "v": 2,
-  "page": 33,
-  "note": "Rechazo explícito al acuerdo UE-Mercosur, cláusulas espejo y más controles en frontera."
- },
- "rur-3": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "rur-4": {
-  "v": 2,
-  "page": 61,
-  "note": "Plan Nacional del Agua con interconexión de todas las cuencas."
- },
- "ter-1": {
-  "v": -2,
-  "page": 56,
-  "note": "Propone ilegalizar partidos que atenten contra la unidad e integridad territorial y recuperar la sedición."
- },
- "ter-2": {
-  "v": 1,
-  "page": 41,
-  "note": "Plantea currículo, evaluaciones e inspección unificados a nivel nacional; no habla de recentralizar competencias en general."
- },
- "ter-3": {
-  "v": -1,
-  "page": 56,
-  "note": "Defiende la unidad e integridad territorial de España; no propone un modelo federal o plurinacional."
- },
- "ter-4": {
-  "v": -1,
-  "page": 20,
-  "note": "Defiende igualdad de derechos y servicios con independencia del lugar de residencia y una sola Nación."
- },
- "ter-5": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "ter-6": {
-  "v": -1,
-  "page": 20,
-  "note": "Propone unificar currículo e inspección y garantizar igualdad entre territorios; no plantea traspasar competencias."
- },
- "ins-1": {
-  "v": 2,
-  "page": 55,
-  "note": "Los doce vocales judiciales del CGPJ elegidos por los propios jueces y magistrados con voto directo."
- },
- "ins-2": {
-  "v": -1,
-  "page": 56,
-  "note": "Propone máxima protección jurídica a la Corona; no plantea referéndum."
- },
- "ins-3": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "ins-4": {
-  "v": 2,
-  "page": 45,
-  "note": "Ampliar la prisión permanente revisable y bajar la edad de responsabilidad penal del menor."
- },
- "ins-5": {
-  "v": -2,
-  "page": 30,
-  "note": "Propone la superación de la Ley de Memoria Democrática por considerarla divisiva."
- },
- "ins-6": {
-  "v": 1,
-  "page": 29,
-  "note": "Reducir al mínimo el tamaño de la Administración y las subvenciones a organismos; no cita ministerios ni altos cargos."
- },
- "ins-7": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "ext-1": {
-  "v": 2,
-  "page": 47,
-  "note": "Aumento de la inversión en Defensa y mejora de sueldos y ayudas del personal militar."
- },
- "ext-2": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "ext-3": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "ext-4": {
-  "v": -1,
-  "page": 33,
-  "note": "Rechaza las imposiciones de Bruselas y propone suspender acuerdos internacionales que frenen el desarrollo productivo."
- },
- "ext-5": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "ext-6": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "cul-1": {
-  "v": 1,
-  "page": 43,
-  "note": "Reducción de impuestos para el arte y los espectáculos en vivo y nueva Ley de Mecenazgo; no cita el IVA."
- },
- "cul-2": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "cul-3": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "cul-4": {
-  "v": 1,
-  "page": 10,
-  "note": "Reforzar la inversión en I+D+i e incentivos fiscales a la innovación empresarial."
- },
- "cul-5": {
-  "v": 0,
-  "page": 58,
-  "note": "Propone una reforma integral de RTVE y acabar con el despilfarro; no plantea privatizarla."
- },
- "cul-6": {
-  "v": -1,
-  "page": 37,
-  "note": "Plantea que el desconocimiento de lenguas regionales no impida el acceso a plazas sanitarias; prioriza el español."
- }
+  "viv-1": {
+    "v": -1,
+    "page": 23,
+    "note": "Propone derogar la Ley de Vivienda y recuperar una oferta de alquiler abundante; no plantea topar precios."
+  },
+  "viv-2": {
+    "v": 2,
+    "page": 23,
+    "note": "Propone la derogación de la Ley de Vivienda y una reforma de la Ley del Suelo."
+  },
+  "viv-3": {
+    "v": 1,
+    "page": 23,
+    "note": "Propone más inversión pública en vivienda protegida con colaboración público-privada, con prioridad para españoles; no un parque estatal de alquiler."
+  },
+  "viv-4": {
+    "v": 2,
+    "page": 24,
+    "note": "Desalojo de la vivienda okupada en menos de 24 horas y endurecimiento del Código Penal, con la inquiocupación como estafa."
+  },
+  "viv-5": {
+    "v": 2,
+    "page": 25,
+    "note": "Fiscalidad agravada y disuasoria para compradores no comunitarios y operaciones especulativas de fondos o sociedades."
+  },
+  "viv-6": {
+    "v": 2,
+    "page": 24,
+    "note": "IVA del 0 % en la primera vivienda nueva y 100 % de bonificación del ITP en la de segunda mano."
+  },
+  "viv-7": {
+    "v": 1,
+    "page": 24,
+    "note": "Propone regular la proliferación masiva de viviendas de uso turístico y reforzar la inspección de las ilegales."
+  },
+  "emp-1": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "emp-2": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "emp-3": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "emp-4": {
+    "v": 2,
+    "page": 9,
+    "note": "Cuota de autónomos de cero euros si no se llega al SMI y, por encima, cuota progresiva desde 50 euros."
+  },
+  "emp-5": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "eco-1": {
+    "v": 2,
+    "page": 9,
+    "note": "Simplificación y bajada del IRPF, con un tipo menor según el número de hijos."
+  },
+  "eco-2": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "eco-3": {
+    "v": -1,
+    "page": 9,
+    "note": "Propone reducir el tipo del Impuesto de Sociedades; no plantea gravar más a grandes empresas."
+  },
+  "eco-4": {
+    "v": 2,
+    "page": 29,
+    "note": "Auditoría de las administraciones y reducir al mínimo el tamaño de la Administración Pública y sus gastos."
+  },
+  "eco-5": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "eco-6": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "pen-1": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "pen-2": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "pen-3": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "pen-4": {
+    "v": 1,
+    "page": 51,
+    "note": "Plan de natalidad con ayudas desde el primer hijo y cotización pagada por el Estado; el IMV solo para españoles."
+  },
+  "pen-5": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "san-1": {
+    "v": -1,
+    "page": 37,
+    "note": "Fomenta la colaboración público-privada cuando ayude a reducir demoras; no plantea revertir conciertos."
+  },
+  "san-2": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "san-3": {
+    "v": 1,
+    "page": 37,
+    "note": "Plan de listas de espera con colaboración público-privada cuando ayude efectivamente a reducir demoras."
+  },
+  "san-4": {
+    "v": 2,
+    "page": 19,
+    "note": "Excluir de la sanidad a extranjeros en situación ilegal salvo urgencia grave y auditar el coste."
+  },
+  "san-5": {
+    "v": 1,
+    "page": 38,
+    "note": "Refuerzo de la Estrategia Nacional de Salud Mental; no detalla más psicólogos o psiquiatras."
+  },
+  "edu-1": {
+    "v": 2,
+    "page": 41,
+    "note": "Garantizar la libre elección de centro en todos los niveles, con distrito único."
+  },
+  "edu-2": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "edu-3": {
+    "v": 2,
+    "page": 51,
+    "note": "Incluye la gratuidad real de la educación infantil de 0 a 3 años dentro del plan de natalidad."
+  },
+  "edu-4": {
+    "v": 2,
+    "page": 41,
+    "note": "Se garantizará la educación en español en todo el territorio nacional, con currículo e inspección unificados."
+  },
+  "edu-5": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "edu-6": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "igu-1": {
+    "v": -2,
+    "page": 30,
+    "note": "Propone derogar las leyes de género y aprobar normas de protección de las víctimas de violencia."
+  },
+  "igu-2": {
+    "v": -2,
+    "page": 52,
+    "note": "Defiende el derecho a la vida desde la concepción, objeción de conciencia sanitaria y más cuidados paliativos."
+  },
+  "igu-3": {
+    "v": -1,
+    "page": 43,
+    "note": "Solo menciona que el deporte femenino se rija por criterios biológicos y deportivos objetivos."
+  },
+  "igu-4": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "igu-5": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "inm-1": {
+    "v": -2,
+    "page": 15,
+    "note": "Prohíbe las regularizaciones masivas; quien entre de forma ilegal no podrá regularizar su situación."
+  },
+  "inm-2": {
+    "v": 2,
+    "page": 15,
+    "note": "Repatriación de quienes estén en situación ilegal, deportaciones y protección permanente de fronteras con las Fuerzas Armadas."
+  },
+  "inm-3": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "inm-4": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "inm-5": {
+    "v": 2,
+    "page": 19,
+    "note": "Acceso preferente de los españoles a vivienda pública, guardería, becas, ayudas y servicios sociales."
+  },
+  "inm-6": {
+    "v": 2,
+    "page": 15,
+    "note": "Endurecer los requisitos de nacionalidad, suprimir el arraigo y revocar las pasarelas rápidas."
+  },
+  "med-1": {
+    "v": 2,
+    "page": 12,
+    "note": "Derogar el calendario de cierre de las nucleares actuales y estudiar nuevas centrales."
+  },
+  "med-2": {
+    "v": -1,
+    "page": 29,
+    "note": "Propone acabar con las imposiciones climáticas y frenar las macroplantas solares y eólicas sobre suelo agrícola."
+  },
+  "med-3": {
+    "v": 2,
+    "page": 12,
+    "note": "Revertir normas inspiradas en el Pacto Verde Europeo y la Agenda 2030."
+  },
+  "med-4": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "med-5": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "med-6": {
+    "v": -2,
+    "page": 43,
+    "note": "Propone defender y promocionar la tauromaquia."
+  },
+  "rur-1": {
+    "v": 2,
+    "page": 35,
+    "note": "Defensa de la caza como actividad esencial y de las tradiciones rurales."
+  },
+  "rur-2": {
+    "v": 2,
+    "page": 33,
+    "note": "Rechazo explícito al acuerdo UE-Mercosur, cláusulas espejo y más controles en frontera."
+  },
+  "rur-3": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "rur-4": {
+    "v": 2,
+    "page": 61,
+    "note": "Plan Nacional del Agua con interconexión de todas las cuencas."
+  },
+  "ter-1": {
+    "v": -2,
+    "page": 56,
+    "note": "Propone ilegalizar partidos que atenten contra la unidad e integridad territorial y recuperar la sedición."
+  },
+  "ter-2": {
+    "v": 1,
+    "page": 41,
+    "note": "Plantea currículo, evaluaciones e inspección unificados a nivel nacional; no habla de recentralizar competencias en general."
+  },
+  "ter-3": {
+    "v": -1,
+    "page": 56,
+    "note": "Defiende la unidad e integridad territorial de España; no propone un modelo federal o plurinacional."
+  },
+  "ter-4": {
+    "v": -1,
+    "page": 20,
+    "note": "Defiende igualdad de derechos y servicios con independencia del lugar de residencia y una sola Nación."
+  },
+  "ter-5": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ter-6": {
+    "v": -1,
+    "page": 20,
+    "note": "Propone unificar currículo e inspección y garantizar igualdad entre territorios; no plantea traspasar competencias."
+  },
+  "ins-1": {
+    "v": 2,
+    "page": 55,
+    "note": "Los doce vocales judiciales del CGPJ elegidos por los propios jueces y magistrados con voto directo."
+  },
+  "ins-2": {
+    "v": -1,
+    "page": 56,
+    "note": "Propone máxima protección jurídica a la Corona; no plantea referéndum."
+  },
+  "ins-3": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ins-4": {
+    "v": 2,
+    "page": 45,
+    "note": "Ampliar la prisión permanente revisable y bajar la edad de responsabilidad penal del menor."
+  },
+  "ins-5": {
+    "v": -2,
+    "page": 30,
+    "note": "Propone la superación de la Ley de Memoria Democrática por considerarla divisiva."
+  },
+  "ins-6": {
+    "v": 1,
+    "page": 29,
+    "note": "Reducir al mínimo el tamaño de la Administración y las subvenciones a organismos; no cita ministerios ni altos cargos."
+  },
+  "ins-7": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ext-1": {
+    "v": 2,
+    "page": 47,
+    "note": "Aumento de la inversión en Defensa y mejora de sueldos y ayudas del personal militar."
+  },
+  "ext-2": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ext-3": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ext-4": {
+    "v": -1,
+    "page": 33,
+    "note": "Rechaza las imposiciones de Bruselas y propone suspender acuerdos internacionales que frenen el desarrollo productivo."
+  },
+  "ext-5": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ext-6": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "cul-1": {
+    "v": 1,
+    "page": 43,
+    "note": "Reducción de impuestos para el arte y los espectáculos en vivo y nueva Ley de Mecenazgo; no cita el IVA."
+  },
+  "cul-2": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "cul-3": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "cul-4": {
+    "v": 1,
+    "page": 10,
+    "note": "Reforzar la inversión en I+D+i e incentivos fiscales a la innovación empresarial."
+  },
+  "cul-5": {
+    "v": 0,
+    "page": 58,
+    "note": "Propone una reforma integral de RTVE y acabar con el despilfarro; no plantea privatizarla."
+  },
+  "cul-6": {
+    "v": -1,
+    "page": 37,
+    "note": "Plantea que el desconocimiento de lenguas regionales no impida el acceso a plazas sanitarias; prioriza el español."
+  },
+  "viv-8": {
+    "v": -1,
+    "page": 24,
+    "note": "Propone incentivos fiscales al alquiler y derogar la Ley de Vivienda; no plantea cesión obligatoria de viviendas vacías."
+  },
+  "emp-6": {
+    "v": 1,
+    "page": 13,
+    "note": "Propone derogar la legislación laboral de Sánchez para favorecer la contratación; no detalla el abaratamiento del despido."
+  },
+  "eco-7": {
+    "v": 2,
+    "page": 9,
+    "note": "Propone reducir el tipo del Impuesto de Sociedades para dinamizar la economía y el empleo."
+  },
+  "eco-8": {
+    "v": 2,
+    "page": 10,
+    "note": "Control del déficit y eliminación del gasto superfluo para reducir la deuda pública."
+  },
+  "pen-6": {
+    "v": 2,
+    "page": 51,
+    "note": "Ayudas y bonificaciones crecientes en función del número de hijos, desde el primer hijo."
+  },
+  "san-6": {
+    "v": null,
+    "page": null,
+    "note": "El programa no fija una inversión mínima por ley en sanidad pública."
+  },
+  "edu-7": {
+    "v": 2,
+    "page": 41,
+    "note": "Refuerzo de la autoridad del profesor y respeto en las aulas."
+  },
+  "igu-6": {
+    "v": null,
+    "page": null,
+    "note": "No menciona listas ni consejos paritarios por ley."
+  },
+  "inm-7": {
+    "v": -2,
+    "page": 15,
+    "note": "Ni uno más: propone que España no puede acoger a más inmigrantes."
+  },
+  "inm-8": {
+    "v": null,
+    "page": null,
+    "note": "No menciona el reparto obligatorio de migrantes entre países de la UE."
+  },
+  "med-7": {
+    "v": 1,
+    "page": 24,
+    "note": "Propone regular la proliferación de viviendas turísticas e inspeccionar pisos ilegales; no fija topes generales al turismo."
+  },
+  "rur-5": {
+    "v": 2,
+    "page": 33,
+    "note": "Propone derogar normas que impongan cargas o sobrecostes a agricultores, ganaderos y pescadores."
+  },
+  "rur-6": {
+    "v": null,
+    "page": null,
+    "note": "No menciona el producto local en compras o comedores públicos."
+  },
+  "ter-7": {
+    "v": -2,
+    "page": 28,
+    "note": "Define a España como una sola Nación y no reconoce naciones dentro de su territorio."
+  },
+  "ter-8": {
+    "v": 0,
+    "page": 10,
+    "note": "Pide unidad de mercado y currículo común, pero rebajas fiscales especiales para Baleares, Canarias y zonas despobladas."
+  },
+  "ins-8": {
+    "v": null,
+    "page": null,
+    "note": "No menciona límite de mandatos."
+  },
+  "ins-9": {
+    "v": null,
+    "page": null,
+    "note": "No menciona listas abiertas o desbloqueadas."
+  },
+  "ins-10": {
+    "v": null,
+    "page": null,
+    "note": "No menciona referendos ni iniciativas ciudadanas vinculantes."
+  },
+  "ext-7": {
+    "v": -1,
+    "page": 16,
+    "note": "Propone retirar ayudas de cooperación a países que no colaboren en migración; no fija un porcentaje."
+  },
+  "cul-7": {
+    "v": null,
+    "page": null,
+    "note": "No menciona subvenciones ni publicidad institucional a medios de comunicación."
+  }
 }

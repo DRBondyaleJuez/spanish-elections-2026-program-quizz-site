@@ -398,5 +398,105 @@
   "v": 1,
   "page": 85,
   "note": "Garantizar la enseñanza de las lenguas cooficiales con oferta suficiente; no menciona instituciones del Estado ni la UE."
+ },
+ "viv-8": {
+  "v": 2,
+  "page": 8,
+  "note": "Propone expropiar el uso de viviendas vacías o no residenciales de grandes tenedores, fondos y bancos para alquiler social."
+ },
+ "emp-6": {
+  "v": -2,
+  "page": 42,
+  "note": "Propone derogar las reformas laborales de 2010 y 2012, restablecer la indemnización de 45 días y la autorización previa en los ERE."
+ },
+ "eco-7": {
+  "v": -2,
+  "page": 21,
+  "note": "Propone subir el tipo mínimo efectivo del Impuesto de Sociedades al 19% y al 29% para empresas en oligopolio."
+ },
+ "eco-8": {
+  "v": -2,
+  "page": 23,
+  "note": "Propone derogar la reforma del artículo 135 para que el pago de la deuda no tenga preferencia sobre la inversión social."
+ },
+ "pen-6": {
+  "v": 2,
+  "page": 60,
+  "note": "Propone una prestación universal por crianza del 15% del SMI al mes por cada hijo hasta los 21 años, para favorecer la natalidad."
+ },
+ "san-6": {
+  "v": 1,
+  "page": 89,
+  "note": "Plantea un gasto sanitario en torno al 8% del PIB mediante un fondo estatal; no fija un mínimo legal explícito."
+ },
+ "edu-7": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona en el programa."
+ },
+ "igu-6": {
+  "v": 1,
+  "page": 58,
+  "note": "Propone que las mujeres ocupen la mitad de los puestos en todos los niveles del Estado; no menciona listas ni consejos."
+ },
+ "inm-7": {
+  "v": 2,
+  "page": 32,
+  "note": "Propone vías legales y seguras con nuevos visados, incluido el de búsqueda de empleo, para venir a trabajar."
+ },
+ "inm-8": {
+  "v": 2,
+  "page": 32,
+  "note": "Propone un reparto vinculante de responsabilidades de acogida entre los países de la UE."
+ },
+ "med-7": {
+  "v": 2,
+  "page": 9,
+  "note": "Propone una moratoria indefinida a nuevas plazas hoteleras en zonas de turismo masificado y eliminar pisos turísticos."
+ },
+ "rur-5": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona en el programa."
+ },
+ "rur-6": {
+  "v": 2,
+  "page": 112,
+  "note": "Propone obligar a las administraciones a comprar alimentos de proximidad en circuito corto."
+ },
+ "ter-7": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona en el programa."
+ },
+ "ter-8": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona en el programa."
+ },
+ "ins-8": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona en el programa."
+ },
+ "ins-9": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona en el programa."
+ },
+ "ins-10": {
+  "v": 1,
+  "page": 128,
+  "note": "Propone un referéndum separado sobre monarquía o república dentro de un proceso constituyente; no habla de otros referendos."
+ },
+ "ext-7": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona en el programa."
+ },
+ "cul-7": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona en el programa."
  }
 }

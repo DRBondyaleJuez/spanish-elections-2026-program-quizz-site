@@ -10,6 +10,7 @@ const pages = {
   comparar: () => import('./pages/comparar.js'),
   anexo: () => import('./pages/anexo.js'),
   test: () => import('./pages/test.js'),
+  afinidad: () => import('./pages/afinidad.js'),
   mesa: () => import('./pages/mesa.js'),
   'test-mesa': () => import('./pages/test-mesa.js'),
 };
@@ -35,7 +36,8 @@ async function renderInicio(el) {
     <div class="grid">
       <a class="card tile" href="#/resumenes">📚<b>Resúmenes</b><span>Qué propone cada partido, tema por tema.</span></a>
       <a class="card tile" href="#/comparar">⚖️<b>Comparar</b><span>% de acuerdo y qué les separa.</span></a>
-      <a class="card tile" href="#/test">✅<b>Test</b><span>20 preguntas por partido y tema.</span></a>
+      <a class="card tile" href="#/test">✅<b>Test de conocimiento</b><span>¿Cuánto sabes de los programas? 20 preguntas.</span></a>
+      <a class="card tile" href="#/afinidad">🧭<b>¿Con quién coincido?</b><span>Di qué opinas y mira qué partidos piensan parecido.</span></a>
       <a class="card tile" href="#/mesa">🗳️<b>Mesa electoral</b><span>Qué hacer si te toca estar en una mesa.</span></a>
     </div>
     <p class="muted small">Resúmenes hechos a partir de los programas oficiales de cada partido, que puedes consultar en la carpeta de fuentes de la web.</p>`;

@@ -10,7 +10,7 @@ Web estática en **español** para preparar las Elecciones Generales del **29/11
 - **Primero el móvil**: a partir de 360 px de ancho, botones fáciles de pulsar (≥44 px), que nunca haya scroll horizontal.
 - El **contenido** va en `data/*.json` y nunca escrito dentro del HTML/JS. La interfaz solo muestra los datos.
 - Rutas **relativas** siempre (GitHub Pages lo sirve desde `/<repo>/`).
-- Navegación por hash: `#/partidos`, `#/resumenes`, `#/comparar`, `#/test`, `#/mesa`, `#/test-mesa`. Los filtros van en la query del hash (`#/resumenes?p=psoe,pp&t=vivienda`) para poder compartir el enlace.
+- Navegación por hash: `#/partidos`, `#/afinidad`, `#/resumenes`, `#/comparar`, `#/test`, `#/mesa`, `#/test-mesa`. Los filtros van en la query del hash (`#/resumenes?p=psoe,pp&t=vivienda`) para poder compartir el enlace.
 - Selección de **uno o varios partidos** en todas las páginas que muestran información de partidos.
 
 ## 3. Precisión y fuentes (lo más importante)
@@ -70,6 +70,7 @@ Usar estos ids en todo el proyecto. Si un tema no encaja, ponerlo en `otros`. No
 ```
 
 **`data/positions.json`** — `[{ "id", "topic", "statement", "stances": { "<party>": { "v": -2..2 | null, "page": N, "note": "…" } } }]`
+- `positions.json` alimenta **dos** cosas: el comparador y el test de afinidad "¿Con quién coincido?" (`#/afinidad`, respuestas en `localStorage('affinity-answers-v1')`). Campo opcional `userText`: redacción para el usuario cuando `statement` habla de "su territorio". Tras cambiar posturas, ejecutar `python tools/affinity_report.py` (los perfiles ficticios deben salir con su propio partido primero).
 - No editar `stances` a mano en positions.json: editar `data/stances/<partido>.json` y ejecutar `python tools/merge_stances.py`. `v: null` = no lo menciona (no se deduce por ideología).
 
 **`data/questions/<id>.json`** (también `mesa.json`)

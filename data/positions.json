@@ -2690,7 +2690,8 @@
     "page": 8,
     "note": "Defiende financiación autonómica que respete el REF y compense la insularidad."
    }
-  }
+  },
+  "userText": "Dar a tu comunidad una financiación singular o más soberanía fiscal (tipo concierto económico)."
  },
  {
   "id": "ter-5",
@@ -3556,6 +3557,912 @@
     "v": 2,
     "page": 25,
     "note": "Oficialidad de euskera, catalán y gallego en la UE y atención en euskera en la administración estatal."
+   }
+  }
+ },
+ {
+  "id": "viv-8",
+  "topic": "vivienda",
+  "statement": "Obligar a sacar al mercado las viviendas vacías de grandes propietarios (con sanciones o cesión obligatoria de uso).",
+  "stances": {
+   "psoe": {
+    "v": 1,
+    "page": 32,
+    "note": "Propone un impuesto progresivo a grandes tenedores sobre viviendas vacías o no destinadas al alquiler asequible, sin obligar a su puesta en el mercado."
+   },
+   "vox": {
+    "v": -1,
+    "page": 24,
+    "note": "Propone incentivos fiscales al alquiler y derogar la Ley de Vivienda; no plantea cesión obligatoria de viviendas vacías."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 8,
+    "note": "Propone expropiar el uso de viviendas vacías o no residenciales de grandes tenedores, fondos y bancos para alquiler social."
+   },
+   "frenteamplio": {
+    "v": 1,
+    "page": 18,
+    "note": "Penaliza con el IBI las viviendas vacías sin justificar y propone movilizarlas; no detalla sanciones ni cesión obligatoria."
+   },
+   "erc": {
+    "v": 1,
+    "page": 19,
+    "note": "Propone subir IVA e ITP a viviendas de uso turístico, vacías o segundas residencias, y bajarlos para la primera. No menciona sanciones ni cesión obligatoria."
+   },
+   "compromis": {
+    "v": 1,
+    "page": 6,
+    "note": "Propone recargos del IBI a viviendas vacías, un censo de vacías y movilizarlas a través de Casa 47. No menciona sanciones ni cesión obligatoria."
+   },
+   "pnv": {
+    "v": 1,
+    "page": 7,
+    "note": "Propone movilizar pisos vacíos ofreciendo seguridad a los propietarios; no plantea obligarles ni sancionarles."
+   },
+   "cc": {
+    "v": -1,
+    "page": 11,
+    "note": "Propone incentivos fiscales voluntarios para pequeños propietarios que alquilen vacías; no plantea obligar ni sancionar."
+   },
+   "d21": {
+    "v": 0,
+    "page": 21,
+    "note": "Propone movilizar viviendas antiguas o vacías mediante acuerdos de usufructo temporal, sin obligar a los grandes propietarios."
+   },
+   "drago": {
+    "v": 1,
+    "page": 8,
+    "note": "Pide pasar a alquiler público los pisos de la Sareb en uso y suelo de Defensa; no plantea sanciones ni cesión forzosa general."
+   },
+   "upc": {
+    "v": 2,
+    "page": 3,
+    "note": "Propone la cesión obligatoria de las viviendas vacías de grandes tenedores para crear un parque de alquiler público."
+   }
+  }
+ },
+ {
+  "id": "emp-6",
+  "topic": "empleo",
+  "statement": "Flexibilizar la contratación y abaratar el despido para facilitar que se cree empleo.",
+  "stances": {
+   "psoe": {
+    "v": -1,
+    "page": 41,
+    "note": "Propone reformar el despido improcedente para garantizar una reparación efectiva, en sentido contrario a abaratarlo."
+   },
+   "vox": {
+    "v": 1,
+    "page": 13,
+    "note": "Propone derogar la legislación laboral de Sánchez para favorecer la contratación; no detalla el abaratamiento del despido."
+   },
+   "podemos": {
+    "v": -2,
+    "page": 42,
+    "note": "Propone derogar las reformas laborales de 2010 y 2012, restablecer la indemnización de 45 días y la autorización previa en los ERE."
+   },
+   "frenteamplio": {
+    "v": -2,
+    "page": 53,
+    "note": "Propone un despido disuasorio y recuperar la autorización administrativa previa en los despidos colectivos."
+   },
+   "salf": {
+    "v": 1,
+    "page": 30,
+    "note": "Contrato único con indemnización creciente de 12 a 33 días y mochila; cotización cero por contratar jóvenes."
+   },
+   "erc": {
+    "v": -2,
+    "page": 26,
+    "note": "Propone derogar las reformas laborales de 2010 y 2012, recuperar la indemnización por despido y eliminar el tope de indemnización. Rechaza abaratar el despido."
+   },
+   "compromis": {
+    "v": -2,
+    "page": 7,
+    "note": "Propone recuperar la indemnización de 45 días por año y los salarios de tramitación en despidos improcedentes. Va en sentido contrario."
+   },
+   "pnv": {
+    "v": -1,
+    "page": 9,
+    "note": "Propone reforzar la Inspección de Trabajo, sancionar abusos y proteger los convenios colectivos; sentido contrario a flexibilizar el despido."
+   },
+   "d21": {
+    "v": 1,
+    "page": 50,
+    "note": "Pide que las micropymes no asuman el coste de nuevos permisos laborales y un test pyme; no propone abaratar el despido."
+   },
+   "ehbildu": {
+    "v": -2,
+    "page": 6,
+    "note": "Propone indemnización mínima de 45 días por despido improcedente y recuperar la autorización previa en los ERE."
+   },
+   "upc": {
+    "v": -1,
+    "page": 7,
+    "note": "Propone combatir los abusos en la contratación y la temporalidad injustificada; no plantea abaratar el despido."
+   }
+  }
+ },
+ {
+  "id": "eco-7",
+  "topic": "economia",
+  "statement": "Bajar el impuesto de sociedades a las empresas.",
+  "stances": {
+   "vox": {
+    "v": 2,
+    "page": 9,
+    "note": "Propone reducir el tipo del Impuesto de Sociedades para dinamizar la economía y el empleo."
+   },
+   "podemos": {
+    "v": -2,
+    "page": 21,
+    "note": "Propone subir el tipo mínimo efectivo del Impuesto de Sociedades al 19% y al 29% para empresas en oligopolio."
+   },
+   "frenteamplio": {
+    "v": -2,
+    "page": 44,
+    "note": "Propone un tipo mínimo efectivo del 20% en Sociedades para grandes empresas y grupos, sin subir la carga a las pymes."
+   },
+   "salf": {
+    "v": 2,
+    "page": 13,
+    "note": "Reduce el Impuesto de Sociedades del 25 % al 20 % (15 % si se reinvierte)."
+   },
+   "erc": {
+    "v": -2,
+    "page": 27,
+    "note": "Propone reforzar la progresividad del impuesto sobre sociedades según el tamaño y la capacidad económica de la empresa."
+   },
+   "compromis": {
+    "v": -1,
+    "page": 17,
+    "note": "Propone un impuesto sobre beneficios de empresas oligopolísticas y eliminar ventajas fiscales de grandes empresas frente a pymes."
+   },
+   "cc": {
+    "v": 1,
+    "page": 12,
+    "note": "Propone incentivos fiscales a empresas condicionados a subidas salariales y productividad; no menciona bajar el impuesto de sociedades."
+   },
+   "d21": {
+    "v": 1,
+    "page": 50,
+    "note": "Propone un impuesto de sociedades del 5 % solo para beneficios reinvertidos en pymes, no una bajada general."
+   },
+   "ehbildu": {
+    "v": -1,
+    "page": 14,
+    "note": "Propone nuevos impuestos a la banca, las grandes fortunas y los beneficios de grandes distribuidoras."
+   },
+   "drago": {
+    "v": 1,
+    "page": 28,
+    "note": "Mantiene el 4 % en el Impuesto de Sociedades de la ZEC si las empresas crean empleo de calidad; condicionado y limitado."
+   },
+   "upc": {
+    "v": -2,
+    "page": 11,
+    "note": "Propone que contribuyan más las grandes empresas en la reforma fiscal; no plantea bajar el impuesto de sociedades."
+   }
+  }
+ },
+ {
+  "id": "eco-8",
+  "topic": "economia",
+  "statement": "Reducir la deuda y el déficit públicos aunque haya que contener el gasto.",
+  "stances": {
+   "psoe": {
+    "v": 1,
+    "page": 47,
+    "note": "Propone reducir el déficit y la deuda con una senda decreciente, dentro de las reglas fiscales europeas."
+   },
+   "pp": {
+    "v": 2,
+    "page": 34,
+    "note": "Propone reducir el déficit estructural y la deuda, con una auditoría del gasto público."
+   },
+   "vox": {
+    "v": 2,
+    "page": 10,
+    "note": "Control del déficit y eliminación del gasto superfluo para reducir la deuda pública."
+   },
+   "podemos": {
+    "v": -2,
+    "page": 23,
+    "note": "Propone derogar la reforma del artículo 135 para que el pago de la deuda no tenga preferencia sobre la inversión social."
+   },
+   "frenteamplio": {
+    "v": -2,
+    "page": 136,
+    "note": "Propone superar el Pacto de Estabilidad y Crecimiento y eliminar las políticas de recortes como ajuste."
+   },
+   "salf": {
+    "v": 2,
+    "page": 13,
+    "note": "Propone déficit cero en 2030 y techo de gasto real, con reducción de la deuda."
+   },
+   "compromis": {
+    "v": -1,
+    "page": 35,
+    "note": "Propone suprimir la prioridad absoluta del pago de la deuda pública en la Constitución (artículo 135)."
+   },
+   "pnv": {
+    "v": -1,
+    "page": 21,
+    "note": "Pide reglas de gasto presupuestario más flexibles y uso de superávits para inversión, sin priorizar la reducción de deuda."
+   },
+   "ehbildu": {
+    "v": -2,
+    "page": 14,
+    "note": "Propone derogar la prioridad del pago de deuda sobre la inversión social y rechazar las políticas de austeridad."
+   }
+  }
+ },
+ {
+  "id": "pen-6",
+  "topic": "pensiones",
+  "statement": "Dar grandes ayudas directas por cada hijo para fomentar la natalidad.",
+  "stances": {
+   "pp": {
+    "v": 1,
+    "page": 43,
+    "note": "Propone refundir las deducciones familiares en una prestación reembolsable con abono mensual a todas las familias."
+   },
+   "vox": {
+    "v": 2,
+    "page": 51,
+    "note": "Ayudas y bonificaciones crecientes en función del número de hijos, desde el primer hijo."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 60,
+    "note": "Propone una prestación universal por crianza del 15% del SMI al mes por cada hijo hasta los 21 años, para favorecer la natalidad."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 21,
+    "note": "Propone una Prestación Universal por Crianza de 200 euros al mes por cada menor, automática y en tres fases."
+   },
+   "salf": {
+    "v": 1,
+    "page": 12,
+    "note": "Mínimo exento de IRPF de 5.000 euros más por cada hijo; es una rebaja fiscal, no una ayuda directa."
+   },
+   "erc": {
+    "v": 1,
+    "page": 21,
+    "note": "Propone una prestación universal por crianza desde 200 euros por familia, más alta donde el coste de vida es mayor. No es por hijo."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 41,
+    "note": "Propone una prestación universal por crianza de 200 euros mensuales por hijo, mayor en familias monoparentales."
+   },
+   "cc": {
+    "v": 1,
+    "page": 10,
+    "note": "Propone ayudas a la crianza dentro de una política infantil común, aún abierta al debate; no habla de ayudas grandes por hijo."
+   },
+   "d21": {
+    "v": 2,
+    "page": 73,
+    "note": "Propone convertir las ayudas por hijo en una cantidad mensual por cada hijo."
+   },
+   "ehbildu": {
+    "v": 1,
+    "page": 13,
+    "note": "Propone prestaciones autonómicas de apoyo a la crianza según el gasto en crianza de cada territorio."
+   }
+  }
+ },
+ {
+  "id": "san-6",
+  "topic": "sanidad",
+  "statement": "Fijar por ley una inversión mínima en sanidad pública (un porcentaje del PIB).",
+  "stances": {
+   "psoe": {
+    "v": 1,
+    "page": 49,
+    "note": "Propone una financiación pública de la sanidad en torno al 7 % del PIB, sin fijarlo por ley."
+   },
+   "podemos": {
+    "v": 1,
+    "page": 89,
+    "note": "Plantea un gasto sanitario en torno al 8% del PIB mediante un fondo estatal; no fija un mínimo legal explícito."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 26,
+    "note": "Propone fijar un gasto sanitario público de al menos el 8% del PIB."
+   },
+   "erc": {
+    "v": 1,
+    "page": 41,
+    "note": "Propone aumentar de forma estructural la financiación estatal de la sanidad pública. No fija por ley un porcentaje del PIB."
+   },
+   "compromis": {
+    "v": 1,
+    "page": 9,
+    "note": "Propone fijar por ley una financiación mínima para la atención primaria. No fija un porcentaje del PIB para la sanidad."
+   },
+   "cc": {
+    "v": 1,
+    "page": 9,
+    "note": "Pide financiación sanitaria suficiente y compensación por insularidad; no fija por ley un porcentaje del PIB."
+   }
+  }
+ },
+ {
+  "id": "edu-7",
+  "topic": "educacion",
+  "statement": "Reforzar la autoridad del profesorado y la disciplina en las aulas.",
+  "stances": {
+   "pp": {
+    "v": 2,
+    "page": 51,
+    "note": "Propone que ser profesor tenga autoridad en el aula y prestigio, con un marco educativo acordado."
+   },
+   "vox": {
+    "v": 2,
+    "page": 41,
+    "note": "Refuerzo de la autoridad del profesor y respeto en las aulas."
+   },
+   "salf": {
+    "v": 2,
+    "page": 33,
+    "note": "El profesor es autoridad pública; neutralidad ideológica y disciplina en las aulas."
+   },
+   "d21": {
+    "v": 1,
+    "page": 42,
+    "note": "Propone un programa de respeto y convivencia escolar con compromisos entre profesorado, alumnado y familias."
+   }
+  }
+ },
+ {
+  "id": "igu-6",
+  "topic": "igualdad",
+  "statement": "Exigir listas electorales y consejos de administración paritarios (50 % mujeres) por ley.",
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 76,
+    "note": "Recuerda la Ley de Representación Paritaria en órganos de decisión empresariales y propone reforzar la Ley de Paridad."
+   },
+   "podemos": {
+    "v": 1,
+    "page": 58,
+    "note": "Propone que las mujeres ocupen la mitad de los puestos en todos los niveles del Estado; no menciona listas ni consejos."
+   },
+   "frenteamplio": {
+    "v": 1,
+    "page": 37,
+    "note": "Propone una normativa electoral para paridad real con listas en formato cremallera; no menciona consejos de administración."
+   },
+   "d21": {
+    "v": 1,
+    "page": 108,
+    "note": "Propone un objetivo del 40 % de mujeres en juntas directivas y presidencias federativas, no el 50 %."
+   },
+   "drago": {
+    "v": 1,
+    "page": 23,
+    "note": "Propone que más empresas tengan plan de igualdad y auditoría salarial; no menciona listas ni consejos paritarios."
+   },
+   "upc": {
+    "v": 1,
+    "page": 17,
+    "note": "Defiende la igualdad efectiva en la participación política, sin concretar listas ni consejos paritarios por ley."
+   }
+  }
+ },
+ {
+  "id": "inm-7",
+  "topic": "inmigracion",
+  "statement": "Abrir más vías legales y seguras para venir a trabajar (visados de trabajo, contratación en origen).",
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 92,
+    "note": "Propone una migración ordenada y legal, ampliar vías legales y fomentar la contratación en origen."
+   },
+   "pp": {
+    "v": 2,
+    "page": 19,
+    "note": "Propone que solo funcionará la vía legal, con contrato en origen o visado temporal según cupos anuales."
+   },
+   "vox": {
+    "v": -2,
+    "page": 15,
+    "note": "Ni uno más: propone que España no puede acoger a más inmigrantes."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 32,
+    "note": "Propone vías legales y seguras con nuevos visados, incluido el de búsqueda de empleo, para venir a trabajar."
+   },
+   "frenteamplio": {
+    "v": 1,
+    "page": 127,
+    "note": "Propone vías legales y seguras de entrada, sin detallar visados ni contratación para trabajar."
+   },
+   "salf": {
+    "v": 1,
+    "page": 18,
+    "note": "Solo visados de trabajo con contrato previo y cupo anual votado; moratoria para algunos países."
+   },
+   "erc": {
+    "v": 1,
+    "page": 17,
+    "note": "Propone abrir y ampliar vías legales y seguras de migración, sin detallar visados de trabajo ni contratación en origen."
+   },
+   "pnv": {
+    "v": 2,
+    "page": 25,
+    "note": "Propone vías legales, seguras y ordenadas de migración y favorecer la contratación en origen."
+   },
+   "cc": {
+    "v": 1,
+    "page": 19,
+    "note": "Propone cooperar con países de origen para una movilidad ordenada; no menciona visados ni contratación en origen."
+   },
+   "d21": {
+    "v": 2,
+    "page": 56,
+    "note": "Propone un visado de búsqueda de empleo y visados de trabajo tras formación en origen."
+   },
+   "ehbildu": {
+    "v": 1,
+    "page": 20,
+    "note": "Propone garantizar regularización efectiva y facilitar autorizaciones de residencia y trabajo."
+   },
+   "drago": {
+    "v": 2,
+    "page": 20,
+    "note": "Propone vías legales y seguras para migrar, realmente accesibles; no especifica visados de trabajo."
+   },
+   "upc": {
+    "v": 1,
+    "page": 16,
+    "note": "Defiende una política migratoria con vías legales y seguras, sin concretar visados de trabajo."
+   }
+  }
+ },
+ {
+  "id": "inm-8",
+  "topic": "inmigracion",
+  "statement": "Que la UE reparta de forma obligatoria la acogida de las personas migrantes que llegan a las fronteras del sur (Canarias, Ceuta, Melilla…).",
+  "stances": {
+   "psoe": {
+    "v": 1,
+    "page": 110,
+    "note": "Defiende una política migratoria europea basada en la solidaridad, sin concretar un reparto obligatorio."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 32,
+    "note": "Propone un reparto vinculante de responsabilidades de acogida entre los países de la UE."
+   },
+   "pnv": {
+    "v": 1,
+    "page": 25,
+    "note": "Propone una política europea común de asilo con distribución equilibrada de solicitantes, basada en solidaridad."
+   },
+   "cc": {
+    "v": 1,
+    "page": 19,
+    "note": "Pide traslados obligatorios y automáticos entre comunidades cuando se superan umbrales; no menciona reparto europeo."
+   },
+   "drago": {
+    "v": 0,
+    "page": 24,
+    "note": "Pide derogar el Pacto Europeo de Migración; en el Estado exige cumplir el reparto obligatorio de menores."
+   },
+   "upc": {
+    "v": 1,
+    "page": 16,
+    "note": "Pide una distribución solidaria de la acogida y que el Estado plantee a la UE la situación de Canarias."
+   }
+  }
+ },
+ {
+  "id": "med-7",
+  "topic": "medioambiente",
+  "statement": "Poner límites al crecimiento turístico (moratorias, topes de plazas o de visitantes en zonas saturadas).",
+  "stances": {
+   "psoe": {
+    "v": 1,
+    "page": 26,
+    "note": "Propone que los vecinos puedan prohibir los pisos turísticos en su comunidad."
+   },
+   "vox": {
+    "v": 1,
+    "page": 24,
+    "note": "Propone regular la proliferación de viviendas turísticas e inspeccionar pisos ilegales; no fija topes generales al turismo."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 9,
+    "note": "Propone una moratoria indefinida a nuevas plazas hoteleras en zonas de turismo masificado y eliminar pisos turísticos."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 72,
+    "note": "Propone limitar plazas turísticas en zonas tensionadas y controlar las viviendas turísticas."
+   },
+   "salf": {
+    "v": -1,
+    "page": 7,
+    "note": "Registro único de alquiler turístico 'sin prohibiciones'; no plantea topes al turismo."
+   },
+   "compromis": {
+    "v": 1,
+    "page": 24,
+    "note": "Propone regular los apartamentos turísticos para frenar la subida de precios y regular la llegada masiva de cruceros. No fija topes de visitantes."
+   },
+   "cc": {
+    "v": 1,
+    "page": 4,
+    "note": "Pide que el turismo respete los límites de las islas y contribuya más al bienestar; no concreta topes ni moratorias."
+   },
+   "ehbildu": {
+    "v": 1,
+    "page": 5,
+    "note": "Propone regular los alojamientos turísticos y prohibir su compra con fines turísticos; no fija topes de visitantes."
+   },
+   "drago": {
+    "v": 2,
+    "page": 7,
+    "note": "Propone un convenio de decrecimiento turístico con reducción de la presión y capacidad de carga por isla."
+   },
+   "upc": {
+    "v": 2,
+    "page": 13,
+    "note": "Propone una moratoria de nuevas camas e instalaciones turísticas y una tasa turística para no residentes."
+   }
+  }
+ },
+ {
+  "id": "rur-5",
+  "topic": "rural",
+  "statement": "Bajar impuestos o costes (gasóleo, energía) a agricultores, ganaderos y pescadores.",
+  "stances": {
+   "pp": {
+    "v": 1,
+    "page": 51,
+    "note": "Propone fiscalidad adaptada y régimen competitivo para la flota pesquera, sin rebaja fiscal concreta."
+   },
+   "vox": {
+    "v": 2,
+    "page": 33,
+    "note": "Propone derogar normas que impongan cargas o sobrecostes a agricultores, ganaderos y pescadores."
+   },
+   "frenteamplio": {
+    "v": -1,
+    "page": 47,
+    "note": "Propone equiparar la fiscalidad del diésel a la de otros combustibles fósiles, sin medidas para agricultores."
+   },
+   "erc": {
+    "v": 1,
+    "page": 33,
+    "note": "Propone abaratar los seguros agrarios y actualizar los costes de producción agraria. No menciona rebajar impuestos al gasóleo."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 22,
+    "note": "Propone un IVA reducido para bienes y servicios necesarios para la producción agraria, incluida la maquinaria."
+   },
+   "cc": {
+    "v": 2,
+    "page": 13,
+    "note": "Propone actualizar medidas estatales frente a sobrecostes de energía y fertilizantes para agricultores, ganaderos y pescadores."
+   },
+   "ehbildu": {
+    "v": -1,
+    "page": 18,
+    "note": "Propone eliminar incentivos fiscales a los combustibles fósiles y reforzar la tributación de hidrocarburos."
+   },
+   "drago": {
+    "v": 1,
+    "page": 18,
+    "note": "Propone cotización bonificada para mujeres en explotaciones familiares; no plantea bajar gasóleo ni energía."
+   },
+   "upc": {
+    "v": 1,
+    "page": 10,
+    "note": "Pide compensar sobrecostes de la pesca y bonificar el transporte de mercancías agrícolas; no menciona el gasóleo."
+   }
+  }
+ },
+ {
+  "id": "rur-6",
+  "topic": "rural",
+  "statement": "Dar prioridad al producto local y de proximidad en comedores y compras públicas.",
+  "stances": {
+   "podemos": {
+    "v": 2,
+    "page": 112,
+    "note": "Propone obligar a las administraciones a comprar alimentos de proximidad en circuito corto."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 22,
+    "note": "Propone que los menús escolares de la red pública se elaboren con productos frescos de proximidad y temporada."
+   },
+   "cc": {
+    "v": 1,
+    "page": 13,
+    "note": "Propone apoyo a la producción local; no menciona prioridad en comedores ni compras públicas."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 17,
+    "note": "Propone objetivos de compra pública de alimentos de proximidad en comedores escolares, hospitales y residencias."
+   },
+   "drago": {
+    "v": 2,
+    "page": 19,
+    "note": "Propone que hospitales, residencias y comedores públicos compren alimentos frescos y de circuito corto."
+   }
+  }
+ },
+ {
+  "id": "ter-7",
+  "topic": "territorio",
+  "statement": "Reconocer a su comunidad o territorio como nación o «realidad nacional».",
+  "stances": {
+   "pp": {
+    "v": -2,
+    "page": 8,
+    "note": "Defiende una Nación española común y critica que la igualdad se haya podido negociar."
+   },
+   "vox": {
+    "v": -2,
+    "page": 28,
+    "note": "Define a España como una sola Nación y no reconoce naciones dentro de su territorio."
+   },
+   "salf": {
+    "v": -1,
+    "page": 14,
+    "note": "Pide criterios iguales para todas las comunidades y rechaza ceder a socios separatistas; no menciona naciones."
+   },
+   "pnv": {
+    "v": 2,
+    "page": 39,
+    "note": "Propone una nueva relación con el Estado basada en el reconocimiento de la realidad nacional vasca."
+   },
+   "cc": {
+    "v": 2,
+    "page": 3,
+    "note": "Defiende a Canarias como nación archipelágica con identidad propia, dentro de un Estado plurinacional."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 23,
+    "note": "Propone el respeto y reconocimiento de Euskal Herria como nación."
+   },
+   "drago": {
+    "v": 2,
+    "page": 29,
+    "note": "Propone reformar la Constitución para reconocer la realidad nacional canaria."
+   },
+   "upc": {
+    "v": 1,
+    "page": 16,
+    "note": "Defiende la identidad nacional canaria y Canarias como sujeto político, sin hablar de reconocer una nación."
+   }
+  },
+  "userText": "Reconocer a tu comunidad o territorio como nación o «realidad nacional»."
+ },
+ {
+  "id": "ter-8",
+  "topic": "territorio",
+  "statement": "Que todas las comunidades autónomas tengan las mismas competencias y ninguna tenga un trato fiscal especial.",
+  "stances": {
+   "pp": {
+    "v": 1,
+    "page": 33,
+    "note": "Propone las mismas reglas para todas las comunidades y ningún privilegio a cambio de apoyo político."
+   },
+   "vox": {
+    "v": 0,
+    "page": 10,
+    "note": "Pide unidad de mercado y currículo común, pero rebajas fiscales especiales para Baleares, Canarias y zonas despobladas."
+   },
+   "salf": {
+    "v": 0,
+    "page": 14,
+    "note": "Pide criterios iguales para todas las comunidades, pero rebajas fiscales específicas para Canarias, Ceuta y Melilla."
+   },
+   "erc": {
+    "v": -2,
+    "page": 14,
+    "note": "Propone que la Agencia Tributaria de Catalunya recaude todos los impuestos generados en Catalunya, con un trato singular para Catalunya."
+   },
+   "compromis": {
+    "v": -2,
+    "page": 50,
+    "note": "Propone un concierto económico o un sistema en que la Generalitat Valenciana recaude directamente la mayor parte de los tributos."
+   },
+   "pnv": {
+    "v": -2,
+    "page": 38,
+    "note": "Defiende el Concierto Económico y pide más capacidad fiscal para Euskadi, un régimen fiscal propio."
+   },
+   "cc": {
+    "v": -2,
+    "page": 8,
+    "note": "Defiende la integridad del REF y su fuero histórico, y rechaza cambios unilaterales que afecten a su régimen especial."
+   },
+   "ehbildu": {
+    "v": -2,
+    "page": 24,
+    "note": "Defiende el Concierto Económico y propone ensancharlo y cambiar el cálculo del cupo, un régimen fiscal propio."
+   },
+   "drago": {
+    "v": -1,
+    "page": 28,
+    "note": "Defiende que el régimen fiscal especial de Canarias (ZEC, REF) siga, aunque con condiciones nuevas."
+   },
+   "upc": {
+    "v": -2,
+    "page": 10,
+    "note": "Defiende un REF que reconozca el diferencial fiscal de Canarias, frente a un trato fiscal común."
+   }
+  }
+ },
+ {
+  "id": "ins-8",
+  "topic": "instituciones",
+  "statement": "Limitar a dos mandatos el tiempo que se puede ocupar la presidencia del Gobierno u otros cargos.",
+  "stances": {
+   "salf": {
+    "v": 1,
+    "page": 29,
+    "note": "Límite de 15 años en cargos públicos remunerados; no fija dos mandatos."
+   },
+   "d21": {
+    "v": 2,
+    "page": 13,
+    "note": "Propone que ningún cargo público se ejerza más de dos mandatos completos u ocho años."
+   }
+  }
+ },
+ {
+  "id": "ins-9",
+  "topic": "instituciones",
+  "statement": "Listas electorales abiertas o desbloqueadas para poder elegir a los candidatos.",
+  "stances": {
+   "d21": {
+    "v": 2,
+    "page": 14,
+    "note": "Propone introducir listas desbloqueadas y abiertas, reduciendo el peso de las listas cerradas."
+   }
+  }
+ },
+ {
+  "id": "ins-10",
+  "topic": "instituciones",
+  "statement": "Más democracia directa: referendos o iniciativas ciudadanas vinculantes.",
+  "stances": {
+   "psoe": {
+    "v": 1,
+    "page": 90,
+    "note": "Propone rebajar las firmas necesarias para la iniciativa legislativa popular, sin referéndum vinculante."
+   },
+   "podemos": {
+    "v": 1,
+    "page": 128,
+    "note": "Propone un referéndum separado sobre monarquía o república dentro de un proceso constituyente; no habla de otros referendos."
+   },
+   "frenteamplio": {
+    "v": 1,
+    "page": 141,
+    "note": "Propone rebajar a 250.000 las firmas de la iniciativa legislativa popular y permitir pedir una consulta popular al respecto."
+   },
+   "salf": {
+    "v": 1,
+    "page": 35,
+    "note": "Referéndums sobre la UE (renegociación y salida); no un mecanismo general de democracia directa."
+   },
+   "compromis": {
+    "v": 1,
+    "page": 35,
+    "note": "Propone impulsar el uso de referéndums y reformar la ley de iniciativa legislativa popular. No especifica que sean vinculantes."
+   },
+   "d21": {
+    "v": 1,
+    "page": 11,
+    "note": "Propone asambleas ciudadanas por sorteo y un referéndum consultivo, no vinculante."
+   },
+   "ehbildu": {
+    "v": 1,
+    "page": 24,
+    "note": "Reconoce el derecho a decidir del pueblo vasco como mecanismo democrático, refrendado por la ciudadanía."
+   },
+   "drago": {
+    "v": 1,
+    "page": 17,
+    "note": "Propone referéndum vinculante en casos concretos (minería crítica, parque marítimo de El Hierro); no es general."
+   },
+   "upc": {
+    "v": 2,
+    "page": 18,
+    "note": "Propone reforzar referéndums, presupuestos participativos y asambleas ciudadanas vinculantes."
+   }
+  }
+ },
+ {
+  "id": "ext-7",
+  "topic": "exterior",
+  "statement": "Destinar el 0,7 % de la renta nacional a cooperación al desarrollo.",
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 106,
+    "note": "Propone destinar el 0,7 % de la renta nacional bruta a la Ayuda Oficial al Desarrollo."
+   },
+   "vox": {
+    "v": -1,
+    "page": 16,
+    "note": "Propone retirar ayudas de cooperación a países que no colaboren en migración; no fija un porcentaje."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 133,
+    "note": "Propone subir la ayuda oficial al desarrollo al 0,7% de la renta nacional bruta."
+   },
+   "salf": {
+    "v": -2,
+    "page": 39,
+    "note": "Corta la ayuda oficial al desarrollo salvo emergencias humanitarias y la condiciona a readmisiones."
+   },
+   "erc": {
+    "v": 2,
+    "page": 16,
+    "note": "Propone cumplir el 0,7 % de Ayuda Oficial al Desarrollo, con un porcentaje vinculante para la cooperación descentralizada."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 56,
+    "note": "Propone garantizar por ley el 0,7 % para cooperación al desarrollo."
+   },
+   "pnv": {
+    "v": 1,
+    "page": 28,
+    "note": "Propone reforzar la cooperación internacional para el desarrollo con recursos suficientes, sin fijar un porcentaje."
+   },
+   "cc": {
+    "v": 1,
+    "page": 19,
+    "note": "Propone reforzar la cooperación estable en desarrollo con países africanos; no fija el 0,7 % de la renta."
+   },
+   "upc": {
+    "v": 2,
+    "page": 19,
+    "note": "Propone consignar como mínimo el 0,7 % de los Presupuestos del Estado a cooperación internacional."
+   }
+  }
+ },
+ {
+  "id": "cul-7",
+  "topic": "cultura",
+  "statement": "Reducir la publicidad institucional y las subvenciones públicas a los medios de comunicación.",
+  "stances": {
+   "frenteamplio": {
+    "v": 0,
+    "page": 146,
+    "note": "Propone reformar el reparto de la publicidad institucional para hacerlo más justo y evitar financiar pseudomedios."
+   },
+   "salf": {
+    "v": 1,
+    "page": 29,
+    "note": "Elimina la publicidad institucional y subvenciones a sindicatos y patronal; no menciona medios."
+   },
+   "d21": {
+    "v": 0,
+    "page": 102,
+    "note": "Propone repartir la publicidad institucional con criterios objetivos y prohibir la autopromoción, sin reducir su volumen."
    }
   }
  }

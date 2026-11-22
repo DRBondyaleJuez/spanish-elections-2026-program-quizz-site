@@ -398,5 +398,105 @@
   "v": 2,
   "page": 141,
   "note": "Aprueba una ley del plurilingüismo para relacionarse con las instituciones del Estado en lenguas cooficiales."
+ },
+ "viv-8": {
+  "v": 1,
+  "page": 18,
+  "note": "Penaliza con el IBI las viviendas vacías sin justificar y propone movilizarlas; no detalla sanciones ni cesión obligatoria."
+ },
+ "emp-6": {
+  "v": -2,
+  "page": 53,
+  "note": "Propone un despido disuasorio y recuperar la autorización administrativa previa en los despidos colectivos."
+ },
+ "eco-7": {
+  "v": -2,
+  "page": 44,
+  "note": "Propone un tipo mínimo efectivo del 20% en Sociedades para grandes empresas y grupos, sin subir la carga a las pymes."
+ },
+ "eco-8": {
+  "v": -2,
+  "page": 136,
+  "note": "Propone superar el Pacto de Estabilidad y Crecimiento y eliminar las políticas de recortes como ajuste."
+ },
+ "pen-6": {
+  "v": 2,
+  "page": 21,
+  "note": "Propone una Prestación Universal por Crianza de 200 euros al mes por cada menor, automática y en tres fases."
+ },
+ "san-6": {
+  "v": 2,
+  "page": 26,
+  "note": "Propone fijar un gasto sanitario público de al menos el 8% del PIB."
+ },
+ "edu-7": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona en el programa."
+ },
+ "igu-6": {
+  "v": 1,
+  "page": 37,
+  "note": "Propone una normativa electoral para paridad real con listas en formato cremallera; no menciona consejos de administración."
+ },
+ "inm-7": {
+  "v": 1,
+  "page": 127,
+  "note": "Propone vías legales y seguras de entrada, sin detallar visados ni contratación para trabajar."
+ },
+ "inm-8": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona en el programa."
+ },
+ "med-7": {
+  "v": 2,
+  "page": 72,
+  "note": "Propone limitar plazas turísticas en zonas tensionadas y controlar las viviendas turísticas."
+ },
+ "rur-5": {
+  "v": -1,
+  "page": 47,
+  "note": "Propone equiparar la fiscalidad del diésel a la de otros combustibles fósiles, sin medidas para agricultores."
+ },
+ "rur-6": {
+  "v": 2,
+  "page": 22,
+  "note": "Propone que los menús escolares de la red pública se elaboren con productos frescos de proximidad y temporada."
+ },
+ "ter-7": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona en el programa."
+ },
+ "ter-8": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona en el programa."
+ },
+ "ins-8": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona en el programa."
+ },
+ "ins-9": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona en el programa."
+ },
+ "ins-10": {
+  "v": 1,
+  "page": 141,
+  "note": "Propone rebajar a 250.000 las firmas de la iniciativa legislativa popular y permitir pedir una consulta popular al respecto."
+ },
+ "ext-7": {
+  "v": 2,
+  "page": 133,
+  "note": "Propone subir la ayuda oficial al desarrollo al 0,7% de la renta nacional bruta."
+ },
+ "cul-7": {
+  "v": 0,
+  "page": 146,
+  "note": "Propone reformar el reparto de la publicidad institucional para hacerlo más justo y evitar financiar pseudomedios."
  }
 }

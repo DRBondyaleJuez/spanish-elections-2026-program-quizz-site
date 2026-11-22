@@ -1,402 +1,502 @@
 {
- "viv-1": {
-  "v": 1,
-  "page": 5,
-  "note": "Da competencias a ayuntamientos para declarar zonas tensionadas y propone control efectivo de precios de alquiler con registro estatal de arrendamientos."
- },
- "viv-2": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "viv-3": {
-  "v": 2,
-  "page": 5,
-  "note": "Destina el 1% del PIB anual a comprar o promover vivienda protegida pública o cooperativa, y a expropiar a grandes fondos para ampliar el parque público."
- },
- "viv-4": {
-  "v": -1,
-  "page": 6,
-  "note": "Propone prohibir por ley los desahucios sin alternativa habitacional, sobre todo de grandes tenedores; no menciona endurecer medidas contra la okupación."
- },
- "viv-5": {
-  "v": 2,
-  "page": 5,
-  "note": "Prohíbe la compra a fondos buitre y a no residentes en zonas tensionadas, limita la acumulación especulativa y grava la tercera vivienda."
- },
- "viv-6": {
-  "v": 1,
-  "page": 6,
-  "note": "Exime del ITP la primera vivienda de menos de 350.000 euros; no habla de avales públicos."
- },
- "viv-7": {
-  "v": 1,
-  "page": 24,
-  "note": "Propone regular los apartamentos turísticos dentro de un Pacto de Estado por un turismo justo y sostenible."
- },
- "emp-1": {
-  "v": 2,
-  "page": 7,
-  "note": "Garantiza por ley que el SMI llegue al 60% del salario medio."
- },
- "emp-2": {
-  "v": 2,
-  "page": 7,
-  "note": "Propone reducir la jornada a cuatro días (32 horas semanales) sin bajar el sueldo."
- },
- "emp-3": {
-  "v": 2,
-  "page": 7,
-  "note": "Recupera la indemnización de 45 días por año y los salarios de tramitación en el despido improcedente."
- },
- "emp-4": {
-  "v": 1,
-  "page": 8,
-  "note": "Propone bonificar toda la cuota de autónomos desde el primer día de baja por enfermedad grave; no plantea rebajas generales de cotizaciones."
- },
- "emp-5": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "eco-1": {
-  "v": 0,
-  "page": 17,
-  "note": "Propone deflactar el IRPF solo para rentas inferiores a 30.000 euros y que las rentas financieras tributen como las del trabajo."
- },
- "eco-2": {
-  "v": 2,
-  "page": 17,
-  "note": "Mantiene y amplía el Impuesto a las Grandes Fortunas, acercándolo a la tasa Zucman."
- },
- "eco-3": {
-  "v": 2,
-  "page": 17,
-  "note": "Crea un impuesto sobre beneficios de empresas oligopolísticas y elimina privilegios fiscales de la aviación."
- },
- "eco-4": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "eco-5": {
-  "v": 2,
-  "page": 19,
-  "note": "Crea una banca pública de inversión y aumenta la presencia estatal en sectores estratégicos con participaciones o empresas públicas."
- },
- "eco-6": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "pen-1": {
-  "v": 2,
-  "page": 8,
-  "note": "Propone garantizar en la Constitución que las pensiones se revaloricen según el coste de la vida."
- },
- "pen-2": {
-  "v": 2,
-  "page": 9,
-  "note": "Sube las pensiones no contributivas hasta 800 euros."
- },
- "pen-3": {
-  "v": 2,
-  "page": 8,
-  "note": "Elimina los coeficientes reductores que penalizan la jubilación anticipada tras 40 años cotizados y vuelve a los 65 años."
- },
- "pen-4": {
-  "v": 2,
-  "page": 41,
-  "note": "Crea una prestación universal por crianza de 200 euros mensuales por hijo y reforma el Ingreso Mínimo Vital."
- },
- "pen-5": {
-  "v": -2,
-  "page": 9,
-  "note": "Suprime toda desgravación fiscal a los planes de pensiones privados y las ventajas de PIAS y SIALP."
- },
- "san-1": {
-  "v": 2,
-  "page": 9,
-  "note": "Deroga la Ley 15/1997 para impedir la privatización de la gestión sanitaria."
- },
- "san-2": {
-  "v": 2,
-  "page": 9,
-  "note": "Incluye odontología, oftalmología, podología y nutrición en la cartera pública."
- },
- "san-3": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "san-4": {
-  "v": -2,
-  "page": 9,
-  "note": "Garantiza el acceso universal a la sanidad sin discriminar por situación administrativa."
- },
- "san-5": {
-  "v": 2,
-  "page": 9,
-  "note": "Propone un Pacto estatal por la salud mental con más plantillas y atención psicológica."
- },
- "edu-1": {
-  "v": -2,
-  "page": 10,
-  "note": "Quiere que la red concertada sea subsidiaria de la pública y prohibir ceder suelo público a centros privados."
- },
- "edu-2": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "edu-3": {
-  "v": 2,
-  "page": 10,
-  "note": "Amplía la red pública de 0 a 3 años hacia la gratuidad."
- },
- "edu-4": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "edu-5": {
-  "v": 1,
-  "page": 16,
-  "note": "Crea un nuevo sistema de tasas universitarias para que quien tiene menos recursos pague menos."
- },
- "edu-6": {
-  "v": -1,
-  "page": 47,
-  "note": "Propone una educación afectivosexual integral, científica y feminista; no prevé vetos de los padres."
- },
- "igu-1": {
-  "v": 2,
-  "page": 37,
-  "note": "Incrementa la lucha contra la violencia de género con más coordinación y recursos."
- },
- "igu-2": {
-  "v": 2,
-  "page": 46,
-  "note": "Garantiza el aborto gratuito, seguro y accesible en la red pública y regula la objeción de conciencia."
- },
- "igu-3": {
-  "v": 2,
-  "page": 49,
-  "note": "Blinda la ley trans, la ley LGTBI y el matrimonio igualitario, y tipifica como delito las terapias de conversión."
- },
- "igu-4": {
-  "v": 2,
-  "page": 41,
-  "note": "Paga progresivamente las ocho semanas de permiso de crianza y amplía los permisos de familias monoparentales."
- },
- "igu-5": {
-  "v": 1,
-  "page": 48,
-  "note": "Plan contra la explotación sexual y la trata con más sanciones a la explotación, sin sancionar a las personas prostituidas."
- },
- "inm-1": {
-  "v": 2,
-  "page": 56,
-  "note": "Abre vías de regularización y facilita documentación y permiso de trabajo."
- },
- "inm-2": {
-  "v": -1,
-  "page": 56,
-  "note": "Propone prohibir las devoluciones encubiertas y acogida digna; va en sentido contrario a las expulsiones."
- },
- "inm-3": {
-  "v": 2,
-  "page": 56,
-  "note": "Exige la eliminación de los CIE."
- },
- "inm-4": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "inm-5": {
-  "v": -1,
-  "page": 56,
-  "note": "Propone derechos y empadronamiento para todas las personas sea cual sea su situación administrativa."
- },
- "inm-6": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "med-1": {
-  "v": -2,
-  "page": 27,
-  "note": "Mantiene el calendario de cierre de las nucleares sin nuevas prórrogas."
- },
- "med-2": {
-  "v": 2,
-  "page": 27,
-  "note": "Electrificación del 100% en 2030 y abandono de los combustibles fósiles en 2040."
- },
- "med-3": {
-  "v": -2,
-  "page": 56,
-  "note": "Pide planificación coherente con la Agenda 2030 y cumplimiento del Pacto Verde."
- },
- "med-4": {
-  "v": 2,
-  "page": 13,
-  "note": "Limita de manera efectiva los vuelos nacionales con alternativa ferroviaria competitiva."
- },
- "med-5": {
-  "v": 2,
-  "page": 26,
-  "note": "Crea una empresa pública de energía y recupera la titularidad pública de grandes eléctricas."
- },
- "med-6": {
-  "v": 2,
-  "page": 40,
-  "note": "Suprime los espectáculos taurinos con muerte, retira subvenciones y deroga la ley 18/2013."
- },
- "rur-1": {
-  "v": -1,
-  "page": 40,
-  "note": "Prohíbe la caza con perros; no defiende expresamente la caza como tradición."
- },
- "rur-2": {
-  "v": 2,
-  "page": 22,
-  "note": "Pide reforzar los controles a las importaciones de fuera de la UE."
- },
- "rur-3": {
-  "v": 1,
-  "page": 21,
-  "note": "Reivindica una PAC mediterránea con régimen simplificado y prioridad a quien asume el riesgo empresarial."
- },
- "rur-4": {
-  "v": -1,
-  "page": 22,
-  "note": "Exige que los trasvases sean excepcionales, con acuerdo entre cuencas y respeto a caudales ecológicos."
- },
- "ter-1": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "ter-2": {
-  "v": -2,
-  "page": 52,
-  "note": "Propone traspasar competencias a la Generalitat, en sentido contrario a recentralizar."
- },
- "ter-3": {
-  "v": 2,
-  "page": 52,
-  "note": "Propone avanzar hacia un Estado plurinacional y reformar el Senado."
- },
- "ter-4": {
-  "v": 2,
-  "page": 50,
-  "note": "Apuesta por un concierto económico responsable o que la Generalitat recaude la mayor parte de los tributos."
- },
- "ter-5": {
-  "v": 2,
-  "page": 50,
-  "note": "Exige condonar la deuda histórica de la Generalitat (78% de su deuda)."
- },
- "ter-6": {
-  "v": 2,
-  "page": 52,
-  "note": "Traspasar costas, puertos, aeropuertos, Cercanías, IMV e inspección de trabajo a la Generalitat."
- },
- "ins-1": {
-  "v": 0,
-  "page": 37,
-  "note": "Quiere un CGPJ independiente elegido por mérito y capacidad con menos presidencialismo; no dice que los jueces elijan a la mayoría."
- },
- "ins-2": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "ins-3": {
-  "v": 2,
-  "page": 38,
-  "note": "Deroga la Ley de Protección de la Seguridad Ciudadana (ley mordaza)."
- },
- "ins-4": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "ins-5": {
-  "v": 2,
-  "page": 38,
-  "note": "Exige el cumplimiento efectivo de la ley de memoria y la retirada de símbolos franquistas."
- },
- "ins-6": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "ins-7": {
-  "v": 2,
-  "page": 35,
-  "note": "Elimina los aforamientos parlamentario y judicial."
- },
- "ext-1": {
-  "v": -2,
-  "page": 54,
-  "note": "Plantea una UE de la Defensa que reduzca gasto militar y exige que aumentos no recorten servicios públicos."
- },
- "ext-2": {
-  "v": 1,
-  "page": 54,
-  "note": "Propone una Unión Europea de la Defensa que pueda sustituir el marco de la OTAN; no pide salir expresamente."
- },
- "ext-3": {
-  "v": 2,
-  "page": 55,
-  "note": "Rompe relaciones diplomáticas y comerciales con Israel y prohíbe vender armas a países que vulneran derechos humanos."
- },
- "ext-4": {
-  "v": 1,
-  "page": 56,
-  "note": "Pide suprimir el Pacto de Estabilidad y un presupuesto europeo de al menos el 2% de la renta nacional bruta."
- },
- "ext-5": {
-  "v": 2,
-  "page": 54,
-  "note": "Apoya un referéndum de autodeterminación en el Sáhara Occidental."
- },
- "ext-6": {
-  "v": 2,
-  "page": 54,
-  "note": "Continúa dando apoyo al pueblo ucraniano y facilita una salida dialogada; no detalla apoyo militar."
- },
- "cul-1": {
-  "v": 2,
-  "page": 18,
-  "note": "Baja el IVA de productos culturales."
- },
- "cul-2": {
-  "v": 2,
-  "page": 16,
-  "note": "Regula estrictamente la inteligencia artificial y protege frente a deep fakes."
- },
- "cul-3": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "cul-4": {
-  "v": 2,
-  "page": 20,
-  "note": "Supera el 3% del PIB en inversión en ciencia y crea carrera investigadora estable."
- },
- "cul-5": {
-  "v": -1,
-  "page": 15,
-  "note": "Plantea ampliar la programación en valenciano en RTVE y emitir las autonómicas en todo el Estado."
- },
- "cul-6": {
-  "v": 2,
-  "page": 39,
-  "note": "Trabaja por la oficialidad del valenciano en las instituciones de la UE y el uso de lenguas cooficiales en la Justicia."
- }
+  "viv-1": {
+    "v": 1,
+    "page": 5,
+    "note": "Da competencias a ayuntamientos para declarar zonas tensionadas y propone control efectivo de precios de alquiler con registro estatal de arrendamientos."
+  },
+  "viv-2": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "viv-3": {
+    "v": 2,
+    "page": 5,
+    "note": "Destina el 1% del PIB anual a comprar o promover vivienda protegida pública o cooperativa, y a expropiar a grandes fondos para ampliar el parque público."
+  },
+  "viv-4": {
+    "v": -1,
+    "page": 6,
+    "note": "Propone prohibir por ley los desahucios sin alternativa habitacional, sobre todo de grandes tenedores; no menciona endurecer medidas contra la okupación."
+  },
+  "viv-5": {
+    "v": 2,
+    "page": 5,
+    "note": "Prohíbe la compra a fondos buitre y a no residentes en zonas tensionadas, limita la acumulación especulativa y grava la tercera vivienda."
+  },
+  "viv-6": {
+    "v": 1,
+    "page": 6,
+    "note": "Exime del ITP la primera vivienda de menos de 350.000 euros; no habla de avales públicos."
+  },
+  "viv-7": {
+    "v": 1,
+    "page": 24,
+    "note": "Propone regular los apartamentos turísticos dentro de un Pacto de Estado por un turismo justo y sostenible."
+  },
+  "emp-1": {
+    "v": 2,
+    "page": 7,
+    "note": "Garantiza por ley que el SMI llegue al 60% del salario medio."
+  },
+  "emp-2": {
+    "v": 2,
+    "page": 7,
+    "note": "Propone reducir la jornada a cuatro días (32 horas semanales) sin bajar el sueldo."
+  },
+  "emp-3": {
+    "v": 2,
+    "page": 7,
+    "note": "Recupera la indemnización de 45 días por año y los salarios de tramitación en el despido improcedente."
+  },
+  "emp-4": {
+    "v": 1,
+    "page": 8,
+    "note": "Propone bonificar toda la cuota de autónomos desde el primer día de baja por enfermedad grave; no plantea rebajas generales de cotizaciones."
+  },
+  "emp-5": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "eco-1": {
+    "v": 0,
+    "page": 17,
+    "note": "Propone deflactar el IRPF solo para rentas inferiores a 30.000 euros y que las rentas financieras tributen como las del trabajo."
+  },
+  "eco-2": {
+    "v": 2,
+    "page": 17,
+    "note": "Mantiene y amplía el Impuesto a las Grandes Fortunas, acercándolo a la tasa Zucman."
+  },
+  "eco-3": {
+    "v": 2,
+    "page": 17,
+    "note": "Crea un impuesto sobre beneficios de empresas oligopolísticas y elimina privilegios fiscales de la aviación."
+  },
+  "eco-4": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "eco-5": {
+    "v": 2,
+    "page": 19,
+    "note": "Crea una banca pública de inversión y aumenta la presencia estatal en sectores estratégicos con participaciones o empresas públicas."
+  },
+  "eco-6": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "pen-1": {
+    "v": 2,
+    "page": 8,
+    "note": "Propone garantizar en la Constitución que las pensiones se revaloricen según el coste de la vida."
+  },
+  "pen-2": {
+    "v": 2,
+    "page": 9,
+    "note": "Sube las pensiones no contributivas hasta 800 euros."
+  },
+  "pen-3": {
+    "v": 2,
+    "page": 8,
+    "note": "Elimina los coeficientes reductores que penalizan la jubilación anticipada tras 40 años cotizados y vuelve a los 65 años."
+  },
+  "pen-4": {
+    "v": 2,
+    "page": 41,
+    "note": "Crea una prestación universal por crianza de 200 euros mensuales por hijo y reforma el Ingreso Mínimo Vital."
+  },
+  "pen-5": {
+    "v": -2,
+    "page": 9,
+    "note": "Suprime toda desgravación fiscal a los planes de pensiones privados y las ventajas de PIAS y SIALP."
+  },
+  "san-1": {
+    "v": 2,
+    "page": 9,
+    "note": "Deroga la Ley 15/1997 para impedir la privatización de la gestión sanitaria."
+  },
+  "san-2": {
+    "v": 2,
+    "page": 9,
+    "note": "Incluye odontología, oftalmología, podología y nutrición en la cartera pública."
+  },
+  "san-3": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "san-4": {
+    "v": -2,
+    "page": 9,
+    "note": "Garantiza el acceso universal a la sanidad sin discriminar por situación administrativa."
+  },
+  "san-5": {
+    "v": 2,
+    "page": 9,
+    "note": "Propone un Pacto estatal por la salud mental con más plantillas y atención psicológica."
+  },
+  "edu-1": {
+    "v": -2,
+    "page": 10,
+    "note": "Quiere que la red concertada sea subsidiaria de la pública y prohibir ceder suelo público a centros privados."
+  },
+  "edu-2": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "edu-3": {
+    "v": 2,
+    "page": 10,
+    "note": "Amplía la red pública de 0 a 3 años hacia la gratuidad."
+  },
+  "edu-4": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "edu-5": {
+    "v": 1,
+    "page": 16,
+    "note": "Crea un nuevo sistema de tasas universitarias para que quien tiene menos recursos pague menos."
+  },
+  "edu-6": {
+    "v": -1,
+    "page": 47,
+    "note": "Propone una educación afectivosexual integral, científica y feminista; no prevé vetos de los padres."
+  },
+  "igu-1": {
+    "v": 2,
+    "page": 37,
+    "note": "Incrementa la lucha contra la violencia de género con más coordinación y recursos."
+  },
+  "igu-2": {
+    "v": 2,
+    "page": 46,
+    "note": "Garantiza el aborto gratuito, seguro y accesible en la red pública y regula la objeción de conciencia."
+  },
+  "igu-3": {
+    "v": 2,
+    "page": 49,
+    "note": "Blinda la ley trans, la ley LGTBI y el matrimonio igualitario, y tipifica como delito las terapias de conversión."
+  },
+  "igu-4": {
+    "v": 2,
+    "page": 41,
+    "note": "Paga progresivamente las ocho semanas de permiso de crianza y amplía los permisos de familias monoparentales."
+  },
+  "igu-5": {
+    "v": 1,
+    "page": 48,
+    "note": "Plan contra la explotación sexual y la trata con más sanciones a la explotación, sin sancionar a las personas prostituidas."
+  },
+  "inm-1": {
+    "v": 2,
+    "page": 56,
+    "note": "Abre vías de regularización y facilita documentación y permiso de trabajo."
+  },
+  "inm-2": {
+    "v": -1,
+    "page": 56,
+    "note": "Propone prohibir las devoluciones encubiertas y acogida digna; va en sentido contrario a las expulsiones."
+  },
+  "inm-3": {
+    "v": 2,
+    "page": 56,
+    "note": "Exige la eliminación de los CIE."
+  },
+  "inm-4": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "inm-5": {
+    "v": -1,
+    "page": 56,
+    "note": "Propone derechos y empadronamiento para todas las personas sea cual sea su situación administrativa."
+  },
+  "inm-6": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "med-1": {
+    "v": -2,
+    "page": 27,
+    "note": "Mantiene el calendario de cierre de las nucleares sin nuevas prórrogas."
+  },
+  "med-2": {
+    "v": 2,
+    "page": 27,
+    "note": "Electrificación del 100% en 2030 y abandono de los combustibles fósiles en 2040."
+  },
+  "med-3": {
+    "v": -2,
+    "page": 56,
+    "note": "Pide planificación coherente con la Agenda 2030 y cumplimiento del Pacto Verde."
+  },
+  "med-4": {
+    "v": 2,
+    "page": 13,
+    "note": "Limita de manera efectiva los vuelos nacionales con alternativa ferroviaria competitiva."
+  },
+  "med-5": {
+    "v": 2,
+    "page": 26,
+    "note": "Crea una empresa pública de energía y recupera la titularidad pública de grandes eléctricas."
+  },
+  "med-6": {
+    "v": 2,
+    "page": 40,
+    "note": "Suprime los espectáculos taurinos con muerte, retira subvenciones y deroga la ley 18/2013."
+  },
+  "rur-1": {
+    "v": -1,
+    "page": 40,
+    "note": "Prohíbe la caza con perros; no defiende expresamente la caza como tradición."
+  },
+  "rur-2": {
+    "v": 2,
+    "page": 22,
+    "note": "Pide reforzar los controles a las importaciones de fuera de la UE."
+  },
+  "rur-3": {
+    "v": 1,
+    "page": 21,
+    "note": "Reivindica una PAC mediterránea con régimen simplificado y prioridad a quien asume el riesgo empresarial."
+  },
+  "rur-4": {
+    "v": -1,
+    "page": 22,
+    "note": "Exige que los trasvases sean excepcionales, con acuerdo entre cuencas y respeto a caudales ecológicos."
+  },
+  "ter-1": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ter-2": {
+    "v": -2,
+    "page": 52,
+    "note": "Propone traspasar competencias a la Generalitat, en sentido contrario a recentralizar."
+  },
+  "ter-3": {
+    "v": 2,
+    "page": 52,
+    "note": "Propone avanzar hacia un Estado plurinacional y reformar el Senado."
+  },
+  "ter-4": {
+    "v": 2,
+    "page": 50,
+    "note": "Apuesta por un concierto económico responsable o que la Generalitat recaude la mayor parte de los tributos."
+  },
+  "ter-5": {
+    "v": 2,
+    "page": 50,
+    "note": "Exige condonar la deuda histórica de la Generalitat (78% de su deuda)."
+  },
+  "ter-6": {
+    "v": 2,
+    "page": 52,
+    "note": "Traspasar costas, puertos, aeropuertos, Cercanías, IMV e inspección de trabajo a la Generalitat."
+  },
+  "ins-1": {
+    "v": 0,
+    "page": 37,
+    "note": "Quiere un CGPJ independiente elegido por mérito y capacidad con menos presidencialismo; no dice que los jueces elijan a la mayoría."
+  },
+  "ins-2": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ins-3": {
+    "v": 2,
+    "page": 38,
+    "note": "Deroga la Ley de Protección de la Seguridad Ciudadana (ley mordaza)."
+  },
+  "ins-4": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ins-5": {
+    "v": 2,
+    "page": 38,
+    "note": "Exige el cumplimiento efectivo de la ley de memoria y la retirada de símbolos franquistas."
+  },
+  "ins-6": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ins-7": {
+    "v": 2,
+    "page": 35,
+    "note": "Elimina los aforamientos parlamentario y judicial."
+  },
+  "ext-1": {
+    "v": -2,
+    "page": 54,
+    "note": "Plantea una UE de la Defensa que reduzca gasto militar y exige que aumentos no recorten servicios públicos."
+  },
+  "ext-2": {
+    "v": 1,
+    "page": 54,
+    "note": "Propone una Unión Europea de la Defensa que pueda sustituir el marco de la OTAN; no pide salir expresamente."
+  },
+  "ext-3": {
+    "v": 2,
+    "page": 55,
+    "note": "Rompe relaciones diplomáticas y comerciales con Israel y prohíbe vender armas a países que vulneran derechos humanos."
+  },
+  "ext-4": {
+    "v": 1,
+    "page": 56,
+    "note": "Pide suprimir el Pacto de Estabilidad y un presupuesto europeo de al menos el 2% de la renta nacional bruta."
+  },
+  "ext-5": {
+    "v": 2,
+    "page": 54,
+    "note": "Apoya un referéndum de autodeterminación en el Sáhara Occidental."
+  },
+  "ext-6": {
+    "v": 2,
+    "page": 54,
+    "note": "Continúa dando apoyo al pueblo ucraniano y facilita una salida dialogada; no detalla apoyo militar."
+  },
+  "cul-1": {
+    "v": 2,
+    "page": 18,
+    "note": "Baja el IVA de productos culturales."
+  },
+  "cul-2": {
+    "v": 2,
+    "page": 16,
+    "note": "Regula estrictamente la inteligencia artificial y protege frente a deep fakes."
+  },
+  "cul-3": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "cul-4": {
+    "v": 2,
+    "page": 20,
+    "note": "Supera el 3% del PIB en inversión en ciencia y crea carrera investigadora estable."
+  },
+  "cul-5": {
+    "v": -1,
+    "page": 15,
+    "note": "Plantea ampliar la programación en valenciano en RTVE y emitir las autonómicas en todo el Estado."
+  },
+  "cul-6": {
+    "v": 2,
+    "page": 39,
+    "note": "Trabaja por la oficialidad del valenciano en las instituciones de la UE y el uso de lenguas cooficiales en la Justicia."
+  },
+  "viv-8": {
+    "v": 1,
+    "page": 6,
+    "note": "Propone recargos del IBI a viviendas vacías, un censo de vacías y movilizarlas a través de Casa 47. No menciona sanciones ni cesión obligatoria."
+  },
+  "emp-6": {
+    "v": -2,
+    "page": 7,
+    "note": "Propone recuperar la indemnización de 45 días por año y los salarios de tramitación en despidos improcedentes. Va en sentido contrario."
+  },
+  "eco-7": {
+    "v": -1,
+    "page": 17,
+    "note": "Propone un impuesto sobre beneficios de empresas oligopolísticas y eliminar ventajas fiscales de grandes empresas frente a pymes."
+  },
+  "eco-8": {
+    "v": -1,
+    "page": 35,
+    "note": "Propone suprimir la prioridad absoluta del pago de la deuda pública en la Constitución (artículo 135)."
+  },
+  "pen-6": {
+    "v": 2,
+    "page": 41,
+    "note": "Propone una prestación universal por crianza de 200 euros mensuales por hijo, mayor en familias monoparentales."
+  },
+  "san-6": {
+    "v": 1,
+    "page": 9,
+    "note": "Propone fijar por ley una financiación mínima para la atención primaria. No fija un porcentaje del PIB para la sanidad."
+  },
+  "edu-7": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "igu-6": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "inm-7": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "inm-8": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "med-7": {
+    "v": 1,
+    "page": 24,
+    "note": "Propone regular los apartamentos turísticos para frenar la subida de precios y regular la llegada masiva de cruceros. No fija topes de visitantes."
+  },
+  "rur-5": {
+    "v": 2,
+    "page": 22,
+    "note": "Propone un IVA reducido para bienes y servicios necesarios para la producción agraria, incluida la maquinaria."
+  },
+  "rur-6": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ter-7": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ter-8": {
+    "v": -2,
+    "page": 50,
+    "note": "Propone un concierto económico o un sistema en que la Generalitat Valenciana recaude directamente la mayor parte de los tributos."
+  },
+  "ins-8": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ins-9": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ins-10": {
+    "v": 1,
+    "page": 35,
+    "note": "Propone impulsar el uso de referéndums y reformar la ley de iniciativa legislativa popular. No especifica que sean vinculantes."
+  },
+  "ext-7": {
+    "v": 2,
+    "page": 56,
+    "note": "Propone garantizar por ley el 0,7 % para cooperación al desarrollo."
+  },
+  "cul-7": {
+    "v": null,
+    "page": null,
+    "note": ""
+  }
 }

@@ -398,5 +398,105 @@
   "v": 2,
   "page": 25,
   "note": "Oficialidad de euskera, catalán y gallego en la UE y atención en euskera en la administración estatal."
+ },
+ "viv-8": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona el programa."
+ },
+ "emp-6": {
+  "v": -2,
+  "page": 6,
+  "note": "Propone indemnización mínima de 45 días por despido improcedente y recuperar la autorización previa en los ERE."
+ },
+ "eco-7": {
+  "v": -1,
+  "page": 14,
+  "note": "Propone nuevos impuestos a la banca, las grandes fortunas y los beneficios de grandes distribuidoras."
+ },
+ "eco-8": {
+  "v": -2,
+  "page": 14,
+  "note": "Propone derogar la prioridad del pago de deuda sobre la inversión social y rechazar las políticas de austeridad."
+ },
+ "pen-6": {
+  "v": 1,
+  "page": 13,
+  "note": "Propone prestaciones autonómicas de apoyo a la crianza según el gasto en crianza de cada territorio."
+ },
+ "san-6": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona el programa."
+ },
+ "edu-7": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona el programa."
+ },
+ "igu-6": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona el programa."
+ },
+ "inm-7": {
+  "v": 1,
+  "page": 20,
+  "note": "Propone garantizar regularización efectiva y facilitar autorizaciones de residencia y trabajo."
+ },
+ "inm-8": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona el programa."
+ },
+ "med-7": {
+  "v": 1,
+  "page": 5,
+  "note": "Propone regular los alojamientos turísticos y prohibir su compra con fines turísticos; no fija topes de visitantes."
+ },
+ "rur-5": {
+  "v": -1,
+  "page": 18,
+  "note": "Propone eliminar incentivos fiscales a los combustibles fósiles y reforzar la tributación de hidrocarburos."
+ },
+ "rur-6": {
+  "v": 2,
+  "page": 17,
+  "note": "Propone objetivos de compra pública de alimentos de proximidad en comedores escolares, hospitales y residencias."
+ },
+ "ter-7": {
+  "v": 2,
+  "page": 23,
+  "note": "Propone el respeto y reconocimiento de Euskal Herria como nación."
+ },
+ "ter-8": {
+  "v": -2,
+  "page": 24,
+  "note": "Defiende el Concierto Económico y propone ensancharlo y cambiar el cálculo del cupo, un régimen fiscal propio."
+ },
+ "ins-8": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona el programa."
+ },
+ "ins-9": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona el programa."
+ },
+ "ins-10": {
+  "v": 1,
+  "page": 24,
+  "note": "Reconoce el derecho a decidir del pueblo vasco como mecanismo democrático, refrendado por la ciudadanía."
+ },
+ "ext-7": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona el programa."
+ },
+ "cul-7": {
+  "v": null,
+  "page": null,
+  "note": "No lo menciona el programa."
  }
 }

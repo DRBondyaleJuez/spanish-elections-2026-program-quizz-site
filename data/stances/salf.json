@@ -1,402 +1,502 @@
 {
- "viv-1": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "viv-2": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "viv-3": {
-  "v": -1,
-  "page": 6,
-  "note": "Propone vivienda protegida en propiedad a precio tasado sobre suelo público, no un parque estatal de alquiler."
- },
- "viv-4": {
-  "v": 2,
-  "page": 5,
-  "note": "Desalojo de okupas en 48 horas con denuncia y título; juicio verbal y lanzamiento en 30 días si el inquilino no paga."
- },
- "viv-5": {
-  "v": 1,
-  "page": 6,
-  "note": "Las SOCIMI con más de 100 viviendas en alquiler tributarían al 25 % y el Estado dejaría de contratar con los fondos."
- },
- "viv-6": {
-  "v": 2,
-  "page": 5,
-  "note": "ITP y AJD al 0 %, IVA del 4 % devuelto en la renta y aval público del 20 % de la entrada para menores de 40."
- },
- "viv-7": {
-  "v": -1,
-  "page": 7,
-  "note": "Propone un registro único de alquiler turístico con cumplimiento fiscal, 'sin prohibiciones'."
- },
- "emp-1": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "emp-2": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "emp-3": {
-  "v": -1,
-  "page": 30,
-  "note": "Contrato indefinido único con indemnización creciente de 12 a 33 días y mochila, buscando no encarecer la contratación."
- },
- "emp-4": {
-  "v": 2,
-  "page": 30,
-  "note": "Cuota de autónomos cero y reducción de la cuña fiscal del 41 % al 29 %, sin cotización del trabajador en el SMI."
- },
- "emp-5": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "eco-1": {
-  "v": 2,
-  "page": 12,
-  "note": "Mínimo exento de IRPF de 35.000 euros (hoy 5.550), gradual hasta 2030, y 5.000 euros más por hijo."
- },
- "eco-2": {
-  "v": -2,
-  "page": 13,
-  "note": "Suprime los impuestos de Sucesiones, Donaciones y Patrimonio (grandes fortunas)."
- },
- "eco-3": {
-  "v": 0,
-  "page": 15,
-  "note": "Baja Sociedades al 20 %, pero exige a cinco bancos 4.700 M€ al año por el rescate y grava SOCIMI al 25 %."
- },
- "eco-4": {
-  "v": 2,
-  "page": 16,
-  "note": "Recorta sobrecoste autonómico, diputaciones, entes públicos y ministerios para financiar la rebaja de impuestos."
- },
- "eco-5": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "eco-6": {
-  "v": 2,
-  "page": 13,
-  "note": "Suprime los impuestos de Sucesiones y Donaciones."
- },
- "pen-1": {
-  "v": 2,
-  "page": 20,
-  "note": "Revalorización con el IPC y prohibición de recortes con rango constitucional para las pensiones actuales."
- },
- "pen-2": {
-  "v": 1,
-  "page": 21,
-  "note": "Pensión mínima de 1.000 euros en 14 pagas para quien haya cotizado 35 años; no habla de las no contributivas."
- },
- "pen-3": {
-  "v": 2,
-  "page": 20,
-  "note": "Jubilación libre sin penalización con 40 años cotizados; coeficientes reductores a los 60 para vigilantes de seguridad."
- },
- "pen-4": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "pen-5": {
-  "v": 1,
-  "page": 20,
-  "note": "Cuenta individual obligatoria del 2 % del salario para menores de 45 y mochila austriaca del 1,53 % a cargo de la empresa."
- },
- "san-1": {
-  "v": -1,
-  "page": 22,
-  "note": "Si se superan los plazos máximos, el paciente elige centro privado y lo paga la sanidad pública."
- },
- "san-2": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "san-3": {
-  "v": 2,
-  "page": 22,
-  "note": "Superados los plazos (60 días cirugía, 30 especialista), el paciente elige centro público o privado, pagado por el sistema."
- },
- "san-4": {
-  "v": 2,
-  "page": 23,
-  "note": "Tarjeta sanitaria para españoles y residentes legales con cotización; urgencias para todos y facturación a terceros países."
- },
- "san-5": {
-  "v": 1,
-  "page": 24,
-  "note": "Un psicólogo clínico por cada 10.000 habitantes en centros de salud y atención en 15 días máximo."
- },
- "edu-1": {
-  "v": 2,
-  "page": 34,
-  "note": "Cheque escolar con el mismo importe por alumno, válido en centros públicos, concertados y privados."
- },
- "edu-2": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "edu-3": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "edu-4": {
-  "v": 2,
-  "page": 33,
-  "note": "Derecho exigible a estudiar en castellano en toda España, con Alta Inspección estatal que sanciona."
- },
- "edu-5": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "edu-6": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "igu-1": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "igu-2": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "igu-3": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "igu-4": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "igu-5": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "inm-1": {
-  "v": -2,
-  "page": 17,
-  "note": "Deroga la regularización de 2026, revisa las concesiones y prohíbe por ley orgánica cualquier regularización masiva."
- },
- "inm-2": {
-  "v": 2,
-  "page": 17,
-  "note": "Expulsión en 48 horas, 100 % de órdenes ejecutadas en 90 días, internamiento hasta la expulsión y moratoria migratoria."
- },
- "inm-3": {
-  "v": -2,
-  "page": 17,
-  "note": "Prevé internamiento de los extranjeros hasta que se ejecute su expulsión."
- },
- "inm-4": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "inm-5": {
-  "v": 1,
-  "page": 19,
-  "note": "Exige cinco años de residencia legal y cotización para prestaciones no contributivas, ayudas al alquiler y vivienda pública."
- },
- "inm-6": {
-  "v": 1,
-  "page": 18,
-  "note": "Diez años de residencia legal con examen, sin antecedentes ni depender de ayudas; revisa las obtenidas con fraude."
- },
- "med-1": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "med-2": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "med-3": {
-  "v": 2,
-  "page": 35,
-  "note": "Veta en el Consejo de la UE el Pacto Verde y la Ley de Restauración; no cita la Agenda 2030."
- },
- "med-4": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "med-5": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "med-6": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "rur-1": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "rur-2": {
-  "v": 2,
-  "page": 35,
-  "note": "Veta el acuerdo con Mercosur: 'lo que se come en España se produce en España'."
- },
- "rur-3": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "rur-4": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "ter-1": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "ter-2": {
-  "v": 1,
-  "page": 33,
-  "note": "Alta Inspección estatal en educación, selectividad y temario de Historia únicos y central de compras sanitaria única."
- },
- "ter-3": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "ter-4": {
-  "v": -1,
-  "page": 14,
-  "note": "Defiende financiación autonómica con criterios objetivos e iguales para todas las comunidades, frente a modelos pactados."
- },
- "ter-5": {
-  "v": -2,
-  "page": 14,
-  "note": "Se opone a las condonaciones de deuda entre administraciones, salvo catástrofe."
- },
- "ter-6": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "ins-1": {
-  "v": 2,
-  "page": 28,
-  "note": "El CGPJ se compondría por elección de jueces y magistrados, antigüedad y/o sorteo, sin influencia política."
- },
- "ins-2": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "ins-3": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "ins-4": {
-  "v": 2,
-  "page": 8,
-  "note": "Cumplimiento íntegro, prisión permanente revisable en ciertos casos, macrocárcel y prisión tras tres condenas."
- },
- "ins-5": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "ins-6": {
-  "v": 2,
-  "page": 29,
-  "note": "Reduce de 22 a 10 ministerios y de 823 a 450 altos cargos; suprime Senado y Consejo de Estado."
- },
- "ins-7": {
-  "v": 2,
-  "page": 28,
-  "note": "Reforma constitucional el primer día para acabar con los 17.621 aforamientos."
- },
- "ext-1": {
-  "v": 0,
-  "page": 38,
-  "note": "Mantiene el gasto de Defensa en el 2 % del PIB, con más retribuciones a militares dentro de ese porcentaje."
- },
- "ext-2": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "ext-3": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "ext-4": {
-  "v": -2,
-  "page": 35,
-  "note": "Propone un referéndum de renegociación con la UE y, si Bruselas se niega, un segundo referéndum sobre la salida."
- },
- "ext-5": {
-  "v": 1,
-  "page": 38,
-  "note": "Retira el giro de 2022 a favor de Marruecos y vuelve a la posición de la ONU sobre el Sáhara."
- },
- "ext-6": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "cul-1": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "cul-2": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "cul-3": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "cul-4": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "cul-5": {
-  "v": null,
-  "page": null,
-  "note": ""
- },
- "cul-6": {
-  "v": null,
-  "page": null,
-  "note": ""
- }
+  "viv-1": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "viv-2": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "viv-3": {
+    "v": -1,
+    "page": 6,
+    "note": "Propone vivienda protegida en propiedad a precio tasado sobre suelo público, no un parque estatal de alquiler."
+  },
+  "viv-4": {
+    "v": 2,
+    "page": 5,
+    "note": "Desalojo de okupas en 48 horas con denuncia y título; juicio verbal y lanzamiento en 30 días si el inquilino no paga."
+  },
+  "viv-5": {
+    "v": 1,
+    "page": 6,
+    "note": "Las SOCIMI con más de 100 viviendas en alquiler tributarían al 25 % y el Estado dejaría de contratar con los fondos."
+  },
+  "viv-6": {
+    "v": 2,
+    "page": 5,
+    "note": "ITP y AJD al 0 %, IVA del 4 % devuelto en la renta y aval público del 20 % de la entrada para menores de 40."
+  },
+  "viv-7": {
+    "v": -1,
+    "page": 7,
+    "note": "Propone un registro único de alquiler turístico con cumplimiento fiscal, 'sin prohibiciones'."
+  },
+  "emp-1": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "emp-2": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "emp-3": {
+    "v": -1,
+    "page": 30,
+    "note": "Contrato indefinido único con indemnización creciente de 12 a 33 días y mochila, buscando no encarecer la contratación."
+  },
+  "emp-4": {
+    "v": 2,
+    "page": 30,
+    "note": "Cuota de autónomos cero y reducción de la cuña fiscal del 41 % al 29 %, sin cotización del trabajador en el SMI."
+  },
+  "emp-5": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "eco-1": {
+    "v": 2,
+    "page": 12,
+    "note": "Mínimo exento de IRPF de 35.000 euros (hoy 5.550), gradual hasta 2030, y 5.000 euros más por hijo."
+  },
+  "eco-2": {
+    "v": -2,
+    "page": 13,
+    "note": "Suprime los impuestos de Sucesiones, Donaciones y Patrimonio (grandes fortunas)."
+  },
+  "eco-3": {
+    "v": 0,
+    "page": 15,
+    "note": "Baja Sociedades al 20 %, pero exige a cinco bancos 4.700 M€ al año por el rescate y grava SOCIMI al 25 %."
+  },
+  "eco-4": {
+    "v": 2,
+    "page": 16,
+    "note": "Recorta sobrecoste autonómico, diputaciones, entes públicos y ministerios para financiar la rebaja de impuestos."
+  },
+  "eco-5": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "eco-6": {
+    "v": 2,
+    "page": 13,
+    "note": "Suprime los impuestos de Sucesiones y Donaciones."
+  },
+  "pen-1": {
+    "v": 2,
+    "page": 20,
+    "note": "Revalorización con el IPC y prohibición de recortes con rango constitucional para las pensiones actuales."
+  },
+  "pen-2": {
+    "v": 1,
+    "page": 21,
+    "note": "Pensión mínima de 1.000 euros en 14 pagas para quien haya cotizado 35 años; no habla de las no contributivas."
+  },
+  "pen-3": {
+    "v": 2,
+    "page": 20,
+    "note": "Jubilación libre sin penalización con 40 años cotizados; coeficientes reductores a los 60 para vigilantes de seguridad."
+  },
+  "pen-4": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "pen-5": {
+    "v": 1,
+    "page": 20,
+    "note": "Cuenta individual obligatoria del 2 % del salario para menores de 45 y mochila austriaca del 1,53 % a cargo de la empresa."
+  },
+  "san-1": {
+    "v": -1,
+    "page": 22,
+    "note": "Si se superan los plazos máximos, el paciente elige centro privado y lo paga la sanidad pública."
+  },
+  "san-2": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "san-3": {
+    "v": 2,
+    "page": 22,
+    "note": "Superados los plazos (60 días cirugía, 30 especialista), el paciente elige centro público o privado, pagado por el sistema."
+  },
+  "san-4": {
+    "v": 2,
+    "page": 23,
+    "note": "Tarjeta sanitaria para españoles y residentes legales con cotización; urgencias para todos y facturación a terceros países."
+  },
+  "san-5": {
+    "v": 1,
+    "page": 24,
+    "note": "Un psicólogo clínico por cada 10.000 habitantes en centros de salud y atención en 15 días máximo."
+  },
+  "edu-1": {
+    "v": 2,
+    "page": 34,
+    "note": "Cheque escolar con el mismo importe por alumno, válido en centros públicos, concertados y privados."
+  },
+  "edu-2": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "edu-3": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "edu-4": {
+    "v": 2,
+    "page": 33,
+    "note": "Derecho exigible a estudiar en castellano en toda España, con Alta Inspección estatal que sanciona."
+  },
+  "edu-5": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "edu-6": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "igu-1": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "igu-2": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "igu-3": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "igu-4": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "igu-5": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "inm-1": {
+    "v": -2,
+    "page": 17,
+    "note": "Deroga la regularización de 2026, revisa las concesiones y prohíbe por ley orgánica cualquier regularización masiva."
+  },
+  "inm-2": {
+    "v": 2,
+    "page": 17,
+    "note": "Expulsión en 48 horas, 100 % de órdenes ejecutadas en 90 días, internamiento hasta la expulsión y moratoria migratoria."
+  },
+  "inm-3": {
+    "v": -2,
+    "page": 17,
+    "note": "Prevé internamiento de los extranjeros hasta que se ejecute su expulsión."
+  },
+  "inm-4": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "inm-5": {
+    "v": 1,
+    "page": 19,
+    "note": "Exige cinco años de residencia legal y cotización para prestaciones no contributivas, ayudas al alquiler y vivienda pública."
+  },
+  "inm-6": {
+    "v": 1,
+    "page": 18,
+    "note": "Diez años de residencia legal con examen, sin antecedentes ni depender de ayudas; revisa las obtenidas con fraude."
+  },
+  "med-1": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "med-2": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "med-3": {
+    "v": 2,
+    "page": 35,
+    "note": "Veta en el Consejo de la UE el Pacto Verde y la Ley de Restauración; no cita la Agenda 2030."
+  },
+  "med-4": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "med-5": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "med-6": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "rur-1": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "rur-2": {
+    "v": 2,
+    "page": 35,
+    "note": "Veta el acuerdo con Mercosur: 'lo que se come en España se produce en España'."
+  },
+  "rur-3": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "rur-4": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ter-1": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ter-2": {
+    "v": 1,
+    "page": 33,
+    "note": "Alta Inspección estatal en educación, selectividad y temario de Historia únicos y central de compras sanitaria única."
+  },
+  "ter-3": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ter-4": {
+    "v": -1,
+    "page": 14,
+    "note": "Defiende financiación autonómica con criterios objetivos e iguales para todas las comunidades, frente a modelos pactados."
+  },
+  "ter-5": {
+    "v": -2,
+    "page": 14,
+    "note": "Se opone a las condonaciones de deuda entre administraciones, salvo catástrofe."
+  },
+  "ter-6": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ins-1": {
+    "v": 2,
+    "page": 28,
+    "note": "El CGPJ se compondría por elección de jueces y magistrados, antigüedad y/o sorteo, sin influencia política."
+  },
+  "ins-2": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ins-3": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ins-4": {
+    "v": 2,
+    "page": 8,
+    "note": "Cumplimiento íntegro, prisión permanente revisable en ciertos casos, macrocárcel y prisión tras tres condenas."
+  },
+  "ins-5": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ins-6": {
+    "v": 2,
+    "page": 29,
+    "note": "Reduce de 22 a 10 ministerios y de 823 a 450 altos cargos; suprime Senado y Consejo de Estado."
+  },
+  "ins-7": {
+    "v": 2,
+    "page": 28,
+    "note": "Reforma constitucional el primer día para acabar con los 17.621 aforamientos."
+  },
+  "ext-1": {
+    "v": 0,
+    "page": 38,
+    "note": "Mantiene el gasto de Defensa en el 2 % del PIB, con más retribuciones a militares dentro de ese porcentaje."
+  },
+  "ext-2": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ext-3": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "ext-4": {
+    "v": -2,
+    "page": 35,
+    "note": "Propone un referéndum de renegociación con la UE y, si Bruselas se niega, un segundo referéndum sobre la salida."
+  },
+  "ext-5": {
+    "v": 1,
+    "page": 38,
+    "note": "Retira el giro de 2022 a favor de Marruecos y vuelve a la posición de la ONU sobre el Sáhara."
+  },
+  "ext-6": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "cul-1": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "cul-2": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "cul-3": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "cul-4": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "cul-5": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "cul-6": {
+    "v": null,
+    "page": null,
+    "note": ""
+  },
+  "viv-8": {
+    "v": null,
+    "page": null,
+    "note": "No menciona viviendas vacías ni cesión obligatoria de uso."
+  },
+  "emp-6": {
+    "v": 1,
+    "page": 30,
+    "note": "Contrato único con indemnización creciente de 12 a 33 días y mochila; cotización cero por contratar jóvenes."
+  },
+  "eco-7": {
+    "v": 2,
+    "page": 13,
+    "note": "Reduce el Impuesto de Sociedades del 25 % al 20 % (15 % si se reinvierte)."
+  },
+  "eco-8": {
+    "v": 2,
+    "page": 13,
+    "note": "Propone déficit cero en 2030 y techo de gasto real, con reducción de la deuda."
+  },
+  "pen-6": {
+    "v": 1,
+    "page": 12,
+    "note": "Mínimo exento de IRPF de 5.000 euros más por cada hijo; es una rebaja fiscal, no una ayuda directa."
+  },
+  "san-6": {
+    "v": null,
+    "page": null,
+    "note": "No fija por ley una inversión mínima en sanidad pública."
+  },
+  "edu-7": {
+    "v": 2,
+    "page": 33,
+    "note": "El profesor es autoridad pública; neutralidad ideológica y disciplina en las aulas."
+  },
+  "igu-6": {
+    "v": null,
+    "page": null,
+    "note": "No menciona listas ni consejos paritarios por ley."
+  },
+  "inm-7": {
+    "v": 1,
+    "page": 18,
+    "note": "Solo visados de trabajo con contrato previo y cupo anual votado; moratoria para algunos países."
+  },
+  "inm-8": {
+    "v": null,
+    "page": null,
+    "note": "No menciona el reparto obligatorio de migrantes en la UE."
+  },
+  "med-7": {
+    "v": -1,
+    "page": 7,
+    "note": "Registro único de alquiler turístico 'sin prohibiciones'; no plantea topes al turismo."
+  },
+  "rur-5": {
+    "v": null,
+    "page": null,
+    "note": "Rebajas fiscales generales, sin medidas específicas para agricultores, ganaderos o pescadores."
+  },
+  "rur-6": {
+    "v": null,
+    "page": null,
+    "note": "No menciona el producto local en compras o comedores públicos."
+  },
+  "ter-7": {
+    "v": -1,
+    "page": 14,
+    "note": "Pide criterios iguales para todas las comunidades y rechaza ceder a socios separatistas; no menciona naciones."
+  },
+  "ter-8": {
+    "v": 0,
+    "page": 14,
+    "note": "Pide criterios iguales para todas las comunidades, pero rebajas fiscales específicas para Canarias, Ceuta y Melilla."
+  },
+  "ins-8": {
+    "v": 1,
+    "page": 29,
+    "note": "Límite de 15 años en cargos públicos remunerados; no fija dos mandatos."
+  },
+  "ins-9": {
+    "v": null,
+    "page": null,
+    "note": "No menciona listas abiertas o desbloqueadas."
+  },
+  "ins-10": {
+    "v": 1,
+    "page": 35,
+    "note": "Referéndums sobre la UE (renegociación y salida); no un mecanismo general de democracia directa."
+  },
+  "ext-7": {
+    "v": -2,
+    "page": 39,
+    "note": "Corta la ayuda oficial al desarrollo salvo emergencias humanitarias y la condiciona a readmisiones."
+  },
+  "cul-7": {
+    "v": 1,
+    "page": 29,
+    "note": "Elimina la publicidad institucional y subvenciones a sindicatos y patronal; no menciona medios."
+  }
 }

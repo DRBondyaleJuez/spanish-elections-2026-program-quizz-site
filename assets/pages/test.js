@@ -18,8 +18,8 @@ export async function render(app) {
     (!onlyFailed || failed.has(q.id)));
 
   app.innerHTML = `
-    <h2>Test de los programas</h2>
-    <p class="muted">Elige partidos y temas, responde y al corregir verás la explicación y la página del programa donde comprobarlo.</p>
+    <h2>Test de conocimiento</h2>
+    <p class="muted">¿Cuánto sabes de lo que proponen? (Si lo que quieres es ver con qué partido coincides, prueba <a href="#/afinidad">¿Con quién coincido?</a>.) Elige partidos y temas, responde y al corregir verás la explicación y la página del programa donde comprobarlo.</p>
     <div class="filters">
       <div class="flabel">Partidos <button class="link" data-all="p">todos</button></div>
       ${chips('p', B.parties.map(p => ({ id: p.id, label: p.short, color: p.color })), sel)}
