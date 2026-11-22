@@ -11,6 +11,7 @@ Web estática en **español** para preparar las Elecciones Generales del **29/11
 - El **contenido** va en `data/*.json` y nunca escrito dentro del HTML/JS. La interfaz solo muestra los datos.
 - Rutas **relativas** siempre (GitHub Pages lo sirve desde `/<repo>/`).
 - Navegación por hash: `#/partidos`, `#/afinidad`, `#/resumenes`, `#/comparar`, `#/test`, `#/mesa`, `#/test-mesa`. Los filtros van en la query del hash (`#/resumenes?p=psoe,pp&t=vivienda`) para poder compartir el enlace.
+- Menú de la cabecera (`index.html`): enlaces sueltos y grupos desplegables `.dd` con `data-routes` (rutas que marcan el grupo como activo). Para añadir una página: ruta en `assets/app.js` + enlace dentro del grupo que toque. La sección de la mesa (`#/mesa`, `#/test-mesa`) va aparte, con su color `--mesa` y su propio glosario.
 - Selección de **uno o varios partidos** en todas las páginas que muestran información de partidos.
 
 ## 3. Precisión y fuentes (lo más importante)

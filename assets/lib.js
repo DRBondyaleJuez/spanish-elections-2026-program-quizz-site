@@ -94,12 +94,22 @@ export function bindChips(root, name, current, onChange) {
 // ---- Glosario: subraya términos y muestra su explicación al tocarlos ----
 let termRe = null;
 let termMap = {};
+let glossScope = 'programas';
+// El glosario de la mesa solo se aplica en las páginas de la mesa, y viceversa.
+export function setGlossaryScope(scope) {
+  if (scope !== glossScope) { glossScope = scope; termRe = null; }
+}
 export function glossaryText(text) {
   const html = esc(text);
   if (!base?.glossary?.length) return html;
   if (!termRe) {
-    termMap = Object.fromEntries(base.glossary.map(g => [g.term.toLowerCase(), g]));
-    const terms = base.glossary.map(g => g.term).sort((a, b) => b.length - a.length)
+    const list = base.glossary.filter(g => {
+      const from = g.from || [];
+      return glossScope === 'mesa' ? from.includes('mesa') : from.some(f => f !== 'mesa');
+    });
+    termMap = Object.fromEntries(list.map(g => [g.term.toLowerCase(), g]));
+    if (!list.length) return html;
+    const terms = list.map(g => g.term).sort((a, b) => b.length - a.length)
       .map(t => esc(t).replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
     termRe = new RegExp(`(^|[^\\p{L}\\p{N}])(${terms.join('|')})(?![\\p{L}\\p{N}])`, 'giu');
   }
@@ -128,7 +138,7 @@ export function initGlossaryPopover() {
 // Aviso para invitar siempre a consultar la fuente original.
 export function reviewNote(extra = '') {
   return `<div class="review">🔎 <b>Comprueba siempre el documento original.</b> Esto es un resumen hecho para estudiar y puede simplificar o contener errores.
-    Cada dato lleva un enlace 📄 a la página exacta del programa oficial.${extra ? ' ' + extra : ''}</div>`;
+    Cada dato lleva un enlace 📄 a la página exacta del documento oficial.${extra ? ' ' + extra : ''}</div>`;
 }
 
 export const STANCE = {

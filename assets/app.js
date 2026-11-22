@@ -1,5 +1,5 @@
 // Router por hash. Cada página es un módulo en assets/pages/ con export render(app).
-import { parseHash, initGlossaryPopover, esc, loadBase, openLegend } from './lib.js';
+import { parseHash, initGlossaryPopover, esc, loadBase, openLegend, setGlossaryScope } from './lib.js';
 
 const app = document.getElementById('app');
 
@@ -33,12 +33,18 @@ async function renderInicio(el) {
         <li><b>Comprueba siempre el documento original:</b> cada dato lleva un enlace 📄 a su página en el programa. Si ves un error, usa 👎 en las preguntas del test.</li>
       </ul>
     </aside>
+    <h3 class="home-sec">📚 Programas de los partidos</h3>
     <div class="grid">
+      <a class="card tile" href="#/partidos">🏛️<b>Partidos</b><span>Quién es quién: siglas, coaliciones y lo esencial.</span></a>
       <a class="card tile" href="#/resumenes">📚<b>Resúmenes</b><span>Qué propone cada partido, tema por tema.</span></a>
       <a class="card tile" href="#/comparar">⚖️<b>Comparar</b><span>% de acuerdo y qué les separa.</span></a>
       <a class="card tile" href="#/test">✅<b>Test de conocimiento</b><span>¿Cuánto sabes de los programas? 20 preguntas.</span></a>
       <a class="card tile" href="#/afinidad">🧭<b>¿Con quién coincido?</b><span>Di qué opinas y mira qué partidos piensan parecido.</span></a>
-      <a class="card tile" href="#/mesa">🗳️<b>Mesa electoral</b><span>Qué hacer si te toca estar en una mesa.</span></a>
+    </div>
+    <h3 class="home-sec mesa">🗳️ Si te toca estar en una mesa</h3>
+    <div class="grid">
+      <a class="card tile tile-mesa" href="#/mesa">📋<b>Resumen de la mesa</b><span>Qué hacer en cada momento del día.</span></a>
+      <a class="card tile tile-mesa" href="#/test-mesa">📝<b>Test de la mesa</b><span>100 preguntas prácticas del manual.</span></a>
     </div>
     <p class="muted small">Resúmenes hechos a partir de los programas oficiales de cada partido, que puedes consultar en la carpeta de fuentes de la web.</p>`;
 }
@@ -46,6 +52,12 @@ async function renderInicio(el) {
 async function render() {
   const { route } = parseHash();
   document.querySelectorAll('#nav a').forEach(a => a.classList.toggle('active', a.getAttribute('href') === `#/${route}`));
+  document.querySelectorAll('#nav .dd').forEach(d => d.classList.toggle('active', d.dataset.routes.split(' ').includes(route)));
+  const mesa = route === 'mesa' || route === 'test-mesa';
+  document.body.classList.toggle('mesa-mode', mesa);
+  document.getElementById('section-tag').hidden = !mesa;
+  setGlossaryScope(mesa ? 'mesa' : 'programas');
+  closeMenus();
   const loader = pages[route] === undefined ? pages.inicio : pages[route];
   if (!loader) {
     app.innerHTML = `<div class="card"><h2>${esc(titles[route])}</h2><p class="muted">En construcción.</p></div>`;
@@ -68,6 +80,50 @@ window.addEventListener('hashchange', () => {
   render().then(() => scrollTo(0, y));
 });
 initGlossaryPopover();
+
+// ---- Menús desplegables de la cabecera (se abren como panel fijo para no quedar recortados) ----
+function closeMenus(except) {
+  document.querySelectorAll('#nav .dd-btn').forEach(b => {
+    if (b === except) return;
+    b.setAttribute('aria-expanded', 'false');
+    document.getElementById(b.getAttribute('aria-controls')).hidden = true;
+  });
+}
+function openMenu(btn) {
+  const menu = document.getElementById(btn.getAttribute('aria-controls'));
+  closeMenus(btn);
+  menu.hidden = false;
+  btn.setAttribute('aria-expanded', 'true');
+  const r = btn.getBoundingClientRect(), w = menu.offsetWidth;
+  menu.style.top = `${Math.round(r.bottom + 6)}px`;
+  menu.style.left = `${Math.round(Math.max(8, Math.min(r.left, innerWidth - w - 8)))}px`;
+  return menu;
+}
+document.querySelectorAll('#nav .dd-btn').forEach(btn => {
+  btn.addEventListener('click', e => {
+    e.stopPropagation();
+    if (btn.getAttribute('aria-expanded') === 'true') closeMenus(); else openMenu(btn);
+  });
+  btn.addEventListener('keydown', e => {
+    if (e.key === 'ArrowDown') { e.preventDefault(); openMenu(btn).querySelector('a')?.focus(); }
+  });
+});
+document.querySelectorAll('#nav .dd-menu').forEach(menu => {
+  menu.addEventListener('keydown', e => {
+    const items = [...menu.querySelectorAll('a')], i = items.indexOf(document.activeElement);
+    if (e.key === 'ArrowDown') { e.preventDefault(); items[(i + 1) % items.length].focus(); }
+    if (e.key === 'ArrowUp') { e.preventDefault(); items[(i - 1 + items.length) % items.length].focus(); }
+  });
+  menu.addEventListener('click', () => closeMenus());
+});
+document.addEventListener('click', e => { if (!e.target.closest('.dd-menu')) closeMenus(); });
+document.addEventListener('keydown', e => {
+  if (e.key !== 'Escape') return;
+  const open = document.querySelector('#nav .dd-btn[aria-expanded="true"]');
+  if (open) { closeMenus(); open.focus(); }
+});
+addEventListener('resize', () => closeMenus());
+document.getElementById('nav').addEventListener('scroll', () => closeMenus());
 document.getElementById('legend-btn').addEventListener('click', async () => { await loadBase(); openLegend(); });
 
 // ---- Tema claro / oscuro ----

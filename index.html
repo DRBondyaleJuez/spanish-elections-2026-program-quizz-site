@@ -20,15 +20,32 @@
         <button type="button" id="theme-toggle" aria-label="Cambiar entre modo claro y oscuro" title="Cambiar tema"></button>
       </div>
     </div>
-    <nav id="nav">
-      <a href="#/partidos">Partidos</a>
-      <a href="#/resumenes">Resúmenes</a>
-      <a href="#/comparar">Comparar</a>
-      <a href="#/test">Test de conocimiento</a>
-      <a href="#/afinidad">¿Con quién coincido?</a>
-      <a href="#/mesa">Mesa electoral</a>
-      <a href="#/test-mesa">Test mesa</a>
+    <nav id="nav" aria-label="Menú principal">
+      <a href="#/partidos" data-routes="partidos">Partidos</a>
+      <div class="dd" data-routes="resumenes comparar anexo">
+        <button type="button" class="dd-btn" aria-expanded="false" aria-haspopup="true" aria-controls="dd-prog">📚 Programas ▾</button>
+        <div class="dd-menu" id="dd-prog" role="menu" hidden>
+          <a role="menuitem" href="#/resumenes">Resúmenes por tema</a>
+          <a role="menuitem" href="#/comparar">Comparar partidos</a>
+          <a role="menuitem" href="#/anexo">Anexo: cómo se calcula el %</a>
+        </div>
+      </div>
+      <div class="dd" data-routes="test afinidad">
+        <button type="button" class="dd-btn" aria-expanded="false" aria-haspopup="true" aria-controls="dd-tests">✅ Tests ▾</button>
+        <div class="dd-menu" id="dd-tests" role="menu" hidden>
+          <a role="menuitem" href="#/test">Test de conocimiento <small>(¿cuánto sabes?)</small></a>
+          <a role="menuitem" href="#/afinidad">¿Con quién coincido? <small>(afinidad)</small></a>
+        </div>
+      </div>
+      <div class="dd dd-mesa" data-routes="mesa test-mesa">
+        <button type="button" class="dd-btn" aria-expanded="false" aria-haspopup="true" aria-controls="dd-mesa">🗳️ Mesa electoral ▾</button>
+        <div class="dd-menu" id="dd-mesa" role="menu" hidden>
+          <a role="menuitem" href="#/mesa">Resumen de la mesa</a>
+          <a role="menuitem" href="#/test-mesa">Test de conceptos de la mesa</a>
+        </div>
+      </div>
     </nav>
+    <div id="section-tag" class="section-tag" hidden>🗳️ Sección <b>Mesa electoral</b>: guía para quien forma parte de una mesa (no trata los programas)</div>
   </header>
   <main id="app"></main>
   <script type="module" src="assets/app.js"></script>
