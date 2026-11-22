@@ -1,0 +1,1050 @@
+{
+ "party": "bng",
+ "overview": "El programa 'Xerais 2026' del BNG se presenta bajo el lema de dar más fuerza a Galicia en Madrid para que actúe como sujeto político propio. Combina medidas sociales (vivienda, pensiones, jornada de 35 horas, servicios públicos) con el traspaso de competencias a Galicia, el rechazo a proyectos extractivos como eólica marina y minería, el impulso del gallego y la soberanía digital, y una política exterior de salida de la OTAN. El texto no indica qué otras formaciones integran la candidatura.",
+ "topics": {
+  "vivienda": {
+   "summary": "Plantea topar por ley los alquileres, ampliar mucho el parque público de alquiler y penalizar fiscalmente la especulación y las viviendas vacías.",
+   "points": [
+    {
+     "text": "Topar por ley los precios del alquiler, prohibir los desahucios de personas vulnerables y suspender de forma automática e indefinida los lanzamientos sin alternativa habitacional.",
+     "source": {
+      "doc": "bng",
+      "page": 12
+     }
+    },
+    {
+     "text": "Blindar por ley los contratos de alquiler indefinidos con renovación automática y perseguir el acoso y el abuso inmobiliario.",
+     "source": {
+      "doc": "bng",
+      "page": 12
+     }
+    },
+    {
+     "text": "Destinar el 3% de los Presupuestos Generales del Estado, a través del Plan estatal de vivienda, a crear un parque público de alquiler permanente, y garantizar que la vivienda financiada con dinero público siga siendo pública.",
+     "source": {
+      "doc": "bng",
+      "page": 12
+     }
+    },
+    {
+     "text": "Facilitar la expropiación forzosa de viviendas de promoción pública compradas por fondos de inversión y frenar la fuga de vivienda habitual hacia el alquiler de temporada, por habitaciones y turístico.",
+     "source": {
+      "doc": "bng",
+      "page": 12
+     }
+    },
+    {
+     "text": "Quitar las deducciones del IRPF a propietarios que alquilen por encima del precio de referencia y aplicar recargos en el Impuesto de Sociedades a fondos y SOCIMI que incumplan la función social de la vivienda.",
+     "source": {
+      "doc": "bng",
+      "page": 13
+     }
+    },
+    {
+     "text": "Transferir gratuitamente los suelos y viviendas de la Sareb al Instituto Galego da Vivenda e Solo (IGVS) para el parque público de alquiler.",
+     "source": {
+      "doc": "bng",
+      "page": 13
+     }
+    },
+    {
+     "text": "Facilitar que las comunidades apliquen alquiler forzoso, expropiación temporal o un canon a la vivienda vacía desde hace 5 o más años en manos de grandes propietarios (al menos 10 euros por metro cuadrado, con subida anual del 10% hasta el triple).",
+     "source": {
+      "doc": "bng",
+      "page": 14
+     }
+    },
+    {
+     "text": "Permitir impuestos o tasas municipales sobre viviendas vacías y facilitar el paso de hipotecas variables a tipo fijo.",
+     "source": {
+      "doc": "bng",
+      "page": 14
+     }
+    }
+   ]
+  },
+  "empleo": {
+   "summary": "Propone derogar íntegramente las reformas laborales, reducir la jornada a 35 horas, subir el SMI y crear un marco laboral propio de Galicia.",
+   "points": [
+    {
+     "text": "Derogar íntegramente las reformas laborales (incluida la consolidada en 2021) y reformar el Estatuto de los Trabajadores para recuperar el despido de 45 días por año con un máximo de 42 mensualidades, la autorización administrativa en los despidos colectivos y los salarios de tramitación.",
+     "source": {
+      "doc": "bng",
+      "page": 15
+     }
+    },
+    {
+     "text": "Implantar la jornada de 35 horas semanales sin reducción salarial y avanzar hacia 32 horas en cuatro jornadas.",
+     "source": {
+      "doc": "bng",
+      "page": 15
+     }
+    },
+    {
+     "text": "Subir el SMI hasta el 60% del salario medio, prohibir que se compense o absorba con complementos y descentralizarlo para que Galicia pueda mejorarlo.",
+     "source": {
+      "doc": "bng",
+      "page": 15
+     }
+    },
+    {
+     "text": "Desarrollar un Marco Galego de Relacións Laborais con convenios de ámbito gallego y dar prevalencia a los convenios sectoriales sobre los de empresa y a los gallegos sobre los estatales.",
+     "source": {
+      "doc": "bng",
+      "page": 16
+     }
+    },
+    {
+     "text": "Eliminar las empresas de trabajo temporal (ETT), las agencias privadas de colocación, la subcontratación en cadena y los falsos autónomos.",
+     "source": {
+      "doc": "bng",
+      "page": 16
+     }
+    },
+    {
+     "text": "Limitar los periodos de prueba a 15 días, exigir una jornada mínima de 20 horas semanales en los contratos a tiempo parcial y restringir el fijo-discontinuo.",
+     "source": {
+      "doc": "bng",
+      "page": 17
+     }
+    },
+    {
+     "text": "Subir la prestación contributiva por desempleo al 75% de la base reguladora los primeros 180 días (65% después) y garantizar un subsidio no inferior al SMI.",
+     "source": {
+      "doc": "bng",
+      "page": 17
+     }
+    },
+    {
+     "text": "Suprimir por ley la tasa de reposición en el empleo público, fijar una interinidad máxima del 5% y restringir las privatizaciones de servicios públicos.",
+     "source": {
+      "doc": "bng",
+      "page": 18
+     }
+    }
+   ]
+  },
+  "economia": {
+   "summary": "Busca un sistema fiscal más progresivo que grave más el capital y las rentas altas, rebajas permanentes del IVA en bienes básicos y una política industrial con más control público.",
+   "points": [
+    {
+     "text": "Hacer más progresivo el IRPF, con tipos distintos según la naturaleza de la renta: menos tributación por el trabajo y más por el capital.",
+     "source": {
+      "doc": "bng",
+      "page": 43
+     }
+    },
+    {
+     "text": "Hacer tributar en Galicia a las empresas que operan allí aunque tengan su domicilio social en otra parte del Estado, y graduar el Impuesto de Sociedades según el tamaño de la empresa.",
+     "source": {
+      "doc": "bng",
+      "page": 43
+     }
+    },
+    {
+     "text": "Subir del 10% al 25% la reducción por reserva de capitalización para las pymes.",
+     "source": {
+      "doc": "bng",
+      "page": 44
+     }
+    },
+    {
+     "text": "Rebaja permanente del IVA en alimentación básica, productos del mar, higiene personal y femenina y transporte público, IVA del 5% en electricidad, gas y biomasa, e Impuesto Especial sobre la Electricidad del 0,5%.",
+     "source": {
+      "doc": "bng",
+      "page": 44
+     }
+    },
+    {
+     "text": "Blindar la permanencia de los impuestos específicos a los beneficios de la banca, las grandes energéticas y las grandes fortunas, reducir sus umbrales de exención y traspasar su gestión a Galicia.",
+     "source": {
+      "doc": "bng",
+      "page": 44
+     }
+    },
+    {
+     "text": "Prohibir la contratación y las ayudas públicas a empresas con sociedades en paraísos fiscales sin actividad económica real y crear una fiscalidad ambiental orientada a cambiar conductas.",
+     "source": {
+      "doc": "bng",
+      "page": 45
+     }
+    },
+    {
+     "text": "Establecer con urgencia un precio máximo legal para la gasolina y el diésel, tomando como referencia el precio medio del 24 de febrero de 2022, y regular los precios de los alimentos básicos.",
+     "source": {
+      "doc": "bng",
+      "page": 21
+     }
+    },
+    {
+     "text": "Crear una Corporación Industrial Pública Galega con las participaciones del Estado en empresas radicadas en Galicia, diversificar Navantia-Ferrol hacia la construcción naval civil e incluso intervenir públicamente la factoría de Alcoa en San Cibrao.",
+     "source": {
+      "doc": "bng",
+      "page": 46
+     }
+    }
+   ]
+  },
+  "pensiones": {
+   "summary": "Defiende derogar las reformas de pensiones de 2011 a 2023, subir las mínimas al nivel del SMI y que el Estado financie el 50% de la dependencia.",
+   "points": [
+    {
+     "text": "Derogar las reformas de pensiones aprobadas en 2011, 2013, 2021 y 2023.",
+     "source": {
+      "doc": "bng",
+      "page": 18
+     }
+    },
+    {
+     "text": "Subir las pensiones mínimas hasta, como mínimo, la cuantía del SMI y revalorizar las pensiones cada año conforme al IPC real.",
+     "source": {
+      "doc": "bng",
+      "page": 18
+     }
+    },
+    {
+     "text": "Recuperar la jubilación ordinaria a los 65 años y la parcial a los 61, sin penalización por jubilación anticipada.",
+     "source": {
+      "doc": "bng",
+      "page": 19
+     }
+    },
+    {
+     "text": "Eliminar el Mecanismo de Equidad Intergeneracional (MEI) y cualquier factor de sostenibilidad, así como las competencias de la AIReF sobre las pensiones.",
+     "source": {
+      "doc": "bng",
+      "page": 19
+     }
+    },
+    {
+     "text": "Financiar el sistema con cargo a los presupuestos y a los impuestos sobre la riqueza, eliminar el tope máximo de las bases de cotización y reducir las bonificaciones a las cuotas empresariales.",
+     "source": {
+      "doc": "bng",
+      "page": 19
+     }
+    },
+    {
+     "text": "Elevar las pensiones no contributivas al 75% del umbral de pobreza de un hogar unipersonal sin esperar a 2027.",
+     "source": {
+      "doc": "bng",
+      "page": 19
+     }
+    },
+    {
+     "text": "Exigir que el Estado financie el 50% del Sistema de Autonomía y Atención a la Dependencia (SAAD) y reclamar la deuda con Galicia, que según el programa supera los 3.000 millones de euros.",
+     "source": {
+      "doc": "bng",
+      "page": 40
+     }
+    },
+    {
+     "text": "Reclamar la transferencia del Ingreso Mínimo Vital para crear una Renda Galega de Inclusión Social e Laboral no inferior al SMI.",
+     "source": {
+      "doc": "bng",
+      "page": 21
+     }
+    }
+   ]
+  },
+  "sanidad": {
+   "summary": "Defiende una sanidad exclusivamente pública, con más financiación, fin de los copagos farmacéuticos y mejores condiciones para el personal.",
+   "points": [
+    {
+     "text": "Aumentar la financiación de la sanidad pública hasta, como mínimo, la media de inversión por habitante de la UE, con más peso para la dispersión y el envejecimiento de la población.",
+     "source": {
+      "doc": "bng",
+      "page": 37
+     }
+    },
+    {
+     "text": "Reformar la Ley 15/97 para que la titularidad, la financiación, la gestión y la provisión de los servicios sanitarios sean exclusivamente públicas.",
+     "source": {
+      "doc": "bng",
+      "page": 37
+     }
+    },
+    {
+     "text": "Aprobar una nueva ley de universalización de la asistencia sanitaria, sin resquicios que permitan excluir a nadie.",
+     "source": {
+      "doc": "bng",
+      "page": 37
+     }
+    },
+    {
+     "text": "Ampliar la cartera de servicios comunes con financiación 100% pública (ortoprótesis, rehabilitación, odontología, podología, óptica-optometría, terapia ocupacional, logopedia, nutrición).",
+     "source": {
+      "doc": "bng",
+      "page": 37
+     }
+    },
+    {
+     "text": "Acabar con el modelo de copagos y repagos farmacéuticos, que define como un impuesto a la enfermedad.",
+     "source": {
+      "doc": "bng",
+      "page": 38
+     }
+    },
+    {
+     "text": "Eliminar la tasa de reposición de personal y transferir a Galicia las competencias de formación MIR, EIR y PIR, con más plazas.",
+     "source": {
+      "doc": "bng",
+      "page": 38
+     }
+    },
+    {
+     "text": "Crear un nuevo Estatuto Marco para los profesionales de la sanidad pública sin recentralizar competencias y recuperar las pagas extraordinarias íntegras del personal estatutario.",
+     "source": {
+      "doc": "bng",
+      "page": 39
+     }
+    },
+    {
+     "text": "Impulsar la investigación de las enfermedades raras y la salud de la mujer (endometriosis, fibromialgia), con representación equitativa de mujeres y hombres en los ensayos clínicos.",
+     "source": {
+      "doc": "bng",
+      "page": 39
+     }
+    }
+   ]
+  },
+  "educacion": {
+   "summary": "Propone una única red educativa pública, laica y gratuita de 0 a 18 años, más inversión y competencias plenas para Galicia, incluida una ley gallega de educación.",
+   "points": [
+    {
+     "text": "Garantizar una educación universal de 0 a 18 años y obligatoria de 3 a 18, con una única red pública y libros, material y actividades extraescolares gratuitos.",
+     "source": {
+      "doc": "bng",
+      "page": 34
+     }
+    },
+    {
+     "text": "Aprobar una Ley galega de educación hasta Bachillerato, una de formación profesional, una de enseñanzas artísticas superiores y una del Sistema Universitario Galego.",
+     "source": {
+      "doc": "bng",
+      "page": 34
+     }
+    },
+    {
+     "text": "Sacar la asignatura de Religión del currículo escolar y denunciar y renegociar el concordato con la Santa Sede.",
+     "source": {
+      "doc": "bng",
+      "page": 35
+     }
+    },
+    {
+     "text": "Avanzar hacia la supresión de los conciertos educativos, eliminarlos en la enseñanza no obligatoria y vigilar que no reciban fondos los centros que segregan por sexo.",
+     "source": {
+      "doc": "bng",
+      "page": 35
+     }
+    },
+    {
+     "text": "Subir el gasto educativo hasta al menos el 7% del PIB y financiar las universidades públicas tomando como referencia el 1,5% del PIB.",
+     "source": {
+      "doc": "bng",
+      "page": 35
+     }
+    },
+    {
+     "text": "Reformar la LOSU para evitar la privatización del Sistema Universitario Galego y permitir regular los planes de estudio.",
+     "source": {
+      "doc": "bng",
+      "page": 35
+     }
+    },
+    {
+     "text": "Transferir a Galicia la UNED, la UIMP, los centros del CSIC y la gestión de las becas universitarias, y suprimir la tasa de reposición del profesorado.",
+     "source": {
+      "doc": "bng",
+      "page": 36
+     }
+    },
+    {
+     "text": "Crear programas de financiación de vivienda y de transporte para el alumnado universitario, con residencias universitarias públicas.",
+     "source": {
+      "doc": "bng",
+      "page": 36
+     }
+    }
+   ]
+  },
+  "igualdad": {
+   "summary": "Presenta un programa feminista centrado en la violencia machista, con posturas abolicionistas sobre la prostitución y los vientres de alquiler, y medidas LGBT y de diversidad.",
+   "points": [
+    {
+     "text": "Cumplir el Convenio de Estambul con una reforma legislativa integral que cubra todas las violencias contra las mujeres y dé rango de ley a la violencia vicaria.",
+     "source": {
+      "doc": "bng",
+      "page": 24
+     }
+    },
+    {
+     "text": "Introducir el término feminicidio en la legislación española y crear un Estatuto de Víctima de Feminicidio.",
+     "source": {
+      "doc": "bng",
+      "page": 25
+     }
+    },
+    {
+     "text": "Garantizar por ley que los nuevos recursos del Pacto de Estado y de la Ley de libertad sexual sean públicos y de gestión directa, e integrar los centros de crisis privatizados en el sistema público.",
+     "source": {
+      "doc": "bng",
+      "page": 25
+     }
+    },
+    {
+     "text": "Modificar la Ley de paridad (LO 2/2024) para permitir más mujeres en las listas electorales.",
+     "source": {
+      "doc": "bng",
+      "page": 25
+     }
+    },
+    {
+     "text": "Oponerse a cualquier legalización de los vientres de alquiler e impedir esta práctica a través de terceros países.",
+     "source": {
+      "doc": "bng",
+      "page": 26
+     }
+    },
+    {
+     "text": "Impulsar la abolición de la prostitución castigando al proxeneta y al prostituidor y sin criminalizar a las mujeres prostituidas, con una red de salida y centros de media estancia.",
+     "source": {
+      "doc": "bng",
+      "page": 26
+     }
+    },
+    {
+     "text": "Reconocer legalmente las familias monoparentales de origen por decisión propia y aportar dinero estatal a la gratuidad de las escuelas infantiles gallegas.",
+     "source": {
+      "doc": "bng",
+      "page": 27
+     }
+    },
+    {
+     "text": "Medidas LGBT: reconocer a las personas no binarias, proteger a las personas trans menores de 12 años respetando su autodeterminación de género y retirar subvenciones a organizaciones que nieguen los derechos LGBT.",
+     "source": {
+      "doc": "bng",
+      "page": 29
+     }
+    }
+   ]
+  },
+  "inmigracion": {
+   "summary": "Defiende una Galicia inclusiva con regularización administrativa, derechos laborales y cierre de los CIE, y vincula las migraciones a sus causas internacionales.",
+   "points": [
+    {
+     "text": "Promover la regularización administrativa para eliminar la irregularidad como herramienta de explotación y reforzar la inspección laboral.",
+     "source": {
+      "doc": "bng",
+      "page": 22
+     }
+    },
+    {
+     "text": "Agilizar la homologación de titulaciones obtenidas en el extranjero y crear sistemas de acreditación de competencias, también para la población emigrante retornada.",
+     "source": {
+      "doc": "bng",
+      "page": 22
+     }
+    },
+    {
+     "text": "Garantizar el acceso a la lengua gallega como parte de la acogida desde el primer momento.",
+     "source": {
+      "doc": "bng",
+      "page": 22
+     }
+    },
+    {
+     "text": "Admitir un conocimiento acreditado de la lengua y la cultura gallegas como criterio para acceder a la nacionalidad española, con independencia del conocimiento del español.",
+     "source": {
+      "doc": "bng",
+      "page": 23
+     }
+    },
+    {
+     "text": "Reclamar el cierre de los Centros de Internamiento para Extranjeros (CIE) y el fin de las devoluciones en caliente.",
+     "source": {
+      "doc": "bng",
+      "page": 23
+     }
+    },
+    {
+     "text": "Garantizar el cumplimiento del derecho internacional de protección de la población refugiada y solicitante de asilo y dotar de más recursos a las oficinas de extranjería.",
+     "source": {
+      "doc": "bng",
+      "page": 23
+     }
+    },
+    {
+     "text": "Defender en la UE una política migratoria respetuosa con el derecho de asilo y renegociar los acuerdos de Schengen, combatiendo las causas de las migraciones (guerras, políticas neocoloniales, saqueo de recursos).",
+     "source": {
+      "doc": "bng",
+      "page": 91
+     }
+    }
+   ]
+  },
+  "medioambiente": {
+   "summary": "Combina competencias plenas de Galicia en medio ambiente y energía con rechazo a la eólica marina, control público de la energía y una minería muy condicionada.",
+   "points": [
+    {
+     "text": "Traspasar a Galicia todas las competencias en medio ambiente, entre ellas costas, salvamento marítimo, meteorología, puertos de interés general y cuencas hidrográficas.",
+     "source": {
+      "doc": "bng",
+      "page": 66
+     }
+    },
+    {
+     "text": "Retirar los POEM y declarar el litoral gallego no apto para parques eólicos marinos, y revertir el RDL 20/2022 para recuperar la declaración de impacto ambiental y la participación ciudadana en los proyectos eólicos.",
+     "source": {
+      "doc": "bng",
+      "page": 54
+     }
+    },
+    {
+     "text": "Transferir las competencias energéticas, crear una tarifa eléctrica gallega, recuperar para lo público las concesiones de los embalses y crear una empresa pública gallega de energía.",
+     "source": {
+      "doc": "bng",
+      "page": 54
+     }
+    },
+    {
+     "text": "Mantener la prohibición del fracking y regular las plantas de biogás.",
+     "source": {
+      "doc": "bng",
+      "page": 56
+     }
+    },
+    {
+     "text": "Reformar la ley básica de minería: reservas mineras permanentes, participación pública mínima obligatoria del 20% en proyectos de minerales estratégicos, restricción de las explotaciones a cielo abierto y prohibición de tecnologías con cianuro.",
+     "source": {
+      "doc": "bng",
+      "page": 58
+     }
+    },
+    {
+     "text": "Considerar las variedades de eucalipto como especie exótica invasora y limitar su cultivo.",
+     "source": {
+      "doc": "bng",
+      "page": 69
+     }
+    },
+    {
+     "text": "Reconocer jurídicamente la propiedad comunal del monte mediante una reforma del Código Civil.",
+     "source": {
+      "doc": "bng",
+      "page": 68
+     }
+    },
+    {
+     "text": "Implantar el sistema de depósito, devolución y retorno (SDDR) de envases y priorizar el compostaje de biorresiduos.",
+     "source": {
+      "doc": "bng",
+      "page": 69
+     }
+    }
+   ]
+  },
+  "rural": {
+   "summary": "Pide más poder de decisión para Galicia en pesca y agricultura, rechazo del acuerdo UE-Mercosur y protección de precios y rentas de los productores.",
+   "points": [
+    {
+     "text": "Reformar la Ley de la cadena alimentaria para que no haya ventas por debajo de los costes de producción y apoyar los circuitos cortos de transformación y comercialización.",
+     "source": {
+      "doc": "bng",
+      "page": 47
+     }
+    },
+    {
+     "text": "Rechazar los acuerdos comerciales perjudiciales para el sector agrario gallego, en particular el UE-Mercosur.",
+     "source": {
+      "doc": "bng",
+      "page": 48
+     }
+    },
+    {
+     "text": "Oponerse al recorte de la PAC (-22%), los Fondos de Cohesión (-34%) y el FEMPA (-67%) en el Marco Financiero Plurianual 2028-2034 y exigir gestión descentralizada.",
+     "source": {
+      "doc": "bng",
+      "page": 48
+     }
+    },
+    {
+     "text": "Reclamar que Galicia negocie directamente los tratados pesqueros con terceros países, en especial con Portugal para la cuota de sardina, y eliminar el principio de estabilidad relativa vigente desde 1986.",
+     "source": {
+      "doc": "bng",
+      "page": 49
+     }
+    },
+    {
+     "text": "Exigir que la pesca artesanal quede exenta de TAC y cuotas y reducir el IVA de los productos pesqueros.",
+     "source": {
+      "doc": "bng",
+      "page": 49
+     }
+    },
+    {
+     "text": "Pedir que Galicia quede libre de eólica marina y de minería submarina, y reclamar el reconocimiento de Galicia como zona altamente dependiente de la pesca.",
+     "source": {
+      "doc": "bng",
+      "page": 49
+     }
+    },
+    {
+     "text": "Concentrar la inspección pesquera en el cuerpo de Guardacostas de Galicia, en vez de los cuatro cuerpos actuales, y recuperar las casas del mar.",
+     "source": {
+      "doc": "bng",
+      "page": 50
+     }
+    },
+    {
+     "text": "Crear ayudas directas para la incorporación de la juventud al sector primario y facilitar el relevo en las explotaciones.",
+     "source": {
+      "doc": "bng",
+      "page": 84
+     }
+    }
+   ]
+  },
+  "territorio": {
+   "summary": "Reclama un concierto económico y una Hacienda propia para Galicia, el traspaso de numerosas competencias y la posibilidad de referendos vinculantes, incluido el de autodeterminación.",
+   "points": [
+    {
+     "text": "Un nuevo modelo de financiación basado en el concierto económico y la bilateralidad con el Estado, de modo que Galicia recaude todos los impuestos y decida cómo invertirlos.",
+     "source": {
+      "doc": "bng",
+      "page": 8
+     }
+    },
+    {
+     "text": "Poner en marcha una Facenda Galega y una política fiscal propia.",
+     "source": {
+      "doc": "bng",
+      "page": 9
+     }
+    },
+    {
+     "text": "Revisar de inmediato la financiación local reformando la Participación en los Ingresos del Estado para que no discrimine a los concellos gallegos.",
+     "source": {
+      "doc": "bng",
+      "page": 8
+     }
+    },
+    {
+     "text": "Transferir las competencias de relaciones laborales, Seguridad Social y pensiones, seguridad pública (con una Policía Galega), costas, puertos, aeropuertos y carreteras y ferrocarriles de interés general.",
+     "source": {
+      "doc": "bng",
+      "page": 9
+     }
+    },
+    {
+     "text": "Traspasar las autopistas AP-9 y AP-53 y nacionalizarlas.",
+     "source": {
+      "doc": "bng",
+      "page": 10
+     }
+    },
+    {
+     "text": "Afirmar que el Estado español es irreformable en su esencia y que hay que sumar fuerzas a favor de la ruptura democrática.",
+     "source": {
+      "doc": "bng",
+      "page": 8
+     }
+    },
+    {
+     "text": "Apoyar los cambios legales que permitan convocar referendos vinculantes, incluido el derecho de autodeterminación.",
+     "source": {
+      "doc": "bng",
+      "page": 32
+     }
+    },
+    {
+     "text": "Suprimir las diputaciones provinciales traspasando sus funciones a Galicia y a los concellos, y suprimir la administración periférica del Estado.",
+     "source": {
+      "doc": "bng",
+      "page": 42
+     }
+    }
+   ]
+  },
+  "instituciones": {
+   "summary": "Propone derogar la Ley Mordaza y la prisión permanente revisable, revisar la memoria democrática y reformar el sistema electoral y la lucha contra la corrupción.",
+   "points": [
+    {
+     "text": "Derogar íntegramente la Ley Mordaza y prohibir las pelotas de goma y las devoluciones en caliente.",
+     "source": {
+      "doc": "bng",
+      "page": 30
+     }
+    },
+    {
+     "text": "Derogar la prisión permanente revisable y los delitos que atentan contra la libertad de expresión (injurias a la Corona, ofensas a símbolos nacionales).",
+     "source": {
+      "doc": "bng",
+      "page": 30
+     }
+    },
+    {
+     "text": "Transferir a Galicia las competencias en instituciones penitenciarias.",
+     "source": {
+      "doc": "bng",
+      "page": 31
+     }
+    },
+    {
+     "text": "Derogar la Ley de Amnistía de 1977 para permitir el amparo judicial de las víctimas del franquismo y reconocer el Pazo de Meirás como Lugar de Memoria.",
+     "source": {
+      "doc": "bng",
+      "page": 31
+     }
+    },
+    {
+     "text": "Derogar la Ley de Secretos Oficiales y la Ley de Seguridad Nacional.",
+     "source": {
+      "doc": "bng",
+      "page": 32
+     }
+    },
+    {
+     "text": "Denunciar y revocar el Concordato con la Iglesia católica y los acuerdos vigentes con la Santa Sede para avanzar hacia un Estado laico.",
+     "source": {
+      "doc": "bng",
+      "page": 32
+     }
+    },
+    {
+     "text": "Reformar la ley electoral con reparto proporcional directo (cuota Hare), Galicia como circunscripción electoral y eliminación del umbral del 5%.",
+     "source": {
+      "doc": "bng",
+      "page": 32
+     }
+    },
+    {
+     "text": "Inhabilitar a los cargos públicos que cometan fraude fiscal o usen paraísos fiscales y regular estrictamente las puertas giratorias.",
+     "source": {
+      "doc": "bng",
+      "page": 41
+     }
+    }
+   ]
+  },
+  "exterior": {
+   "summary": "Defiende una neutralidad activa con salida de la OTAN, rechazo del aumento del gasto militar y posiciones antiimperialistas en conflictos internacionales.",
+   "points": [
+    {
+     "text": "Neutralidad activa del Estado español, con salida de la OTAN y defensa de su disolución.",
+     "source": {
+      "doc": "bng",
+      "page": 89
+     }
+    },
+    {
+     "text": "Retirada inmediata de las tropas españolas de misiones de la OTAN y de EE. UU. y fin del envío de armamento a Ucrania, apoyando una salida negociada y reforzando la ayuda humanitaria.",
+     "source": {
+      "doc": "bng",
+      "page": 89
+     }
+    },
+    {
+     "text": "Cancelar los acuerdos bilaterales España-EE. UU. e instar a la retirada de sus efectivos militares.",
+     "source": {
+      "doc": "bng",
+      "page": 90
+     }
+    },
+    {
+     "text": "Rechazar el aumento del gasto militar y las directrices de la OTAN y reducirlo progresivamente.",
+     "source": {
+      "doc": "bng",
+      "page": 90
+     }
+    },
+    {
+     "text": "Excluir de los planes mineros las materias primas definidas como críticas para uso militar por la OTAN y la UE y avanzar en la desmilitarización de Galicia.",
+     "source": {
+      "doc": "bng",
+      "page": 90
+     }
+    },
+    {
+     "text": "Anular el cambio de posición del Gobierno sobre el Sáhara, condenar a Israel por la ocupación y reconocer de forma efectiva al Estado palestino.",
+     "source": {
+      "doc": "bng",
+      "page": 90
+     }
+    },
+    {
+     "text": "Abolir definitivamente el servicio militar obligatorio, hoy solo suspendido desde 2001, y oponerse a tratados comerciales que vulneren la soberanía de los pueblos.",
+     "source": {
+      "doc": "bng",
+      "page": 91
+     }
+    },
+    {
+     "text": "Que Galicia ingrese como miembro asociado en la UNESCO y la OMT y que el gallego sea oficial en la Unión Europea.",
+     "source": {
+      "doc": "bng",
+      "page": 73
+     }
+    }
+   ]
+  },
+  "cultura": {
+   "summary": "Combina la normalización del gallego y la soberanía digital (IA propia, nube pública, control de algoritmos) con más inversión en ciencia.",
+   "points": [
+    {
+     "text": "Plan estatal de apoyo a los medios en lenguas minorizadas, más desconexiones en gallego en TVE, recuperar Radio 4 de RNE en gallego y avanzar hacia un canal de TV en gallego.",
+     "source": {
+      "doc": "bng",
+      "page": 71
+     }
+    },
+    {
+     "text": "Garantizar el gallego en toda la Administración General del Estado, incluidos trámites telemáticos, consulados y Administración de Justicia, y oficializar la toponimia marítima gallega.",
+     "source": {
+      "doc": "bng",
+      "page": 72
+     }
+    },
+    {
+     "text": "Reforzar la cooperación con el mundo lusófono y la presencia de Galicia en la CPLP.",
+     "source": {
+      "doc": "bng",
+      "page": 73
+     }
+    },
+    {
+     "text": "Subir la inversión estatal en I+D+i hasta el 3% del PIB en 2030 y aprobar un Estatuto del Personal de Investigación.",
+     "source": {
+      "doc": "bng",
+      "page": 52
+     }
+    },
+    {
+     "text": "Reclamar competencias y fondos para un ecosistema público gallego de inteligencia artificial y una nube pública gallega.",
+     "source": {
+      "doc": "bng",
+      "page": 75
+     }
+    },
+    {
+     "text": "Ley de transparencia algorítmica con derecho de veto algorítmico, límites a la vigilancia biométrica y prohibición de decisiones letales automatizadas.",
+     "source": {
+      "doc": "bng",
+      "page": 76
+     }
+    },
+    {
+     "text": "Imponer la interoperabilidad de redes sociales y limitar los algoritmos diseñados para maximizar el tiempo de uso.",
+     "source": {
+      "doc": "bng",
+      "page": 80
+     }
+    },
+    {
+     "text": "Tasar el negocio basado en la extracción masiva de datos y poner límites a los macrocentros de datos privados, con examen del proyecto de Curtis vinculado a Microsoft.",
+     "source": {
+      "doc": "bng",
+      "page": 81
+     }
+    }
+   ]
+  },
+  "otros": {
+   "summary": "Reclama inversiones y traspasos en ferrocarril, carreteras, puertos y aeropuertos, y un paquete de políticas de juventud y deporte.",
+   "points": [
+    {
+     "text": "Implantar un servicio ferroviario de proximidad en las principales ciudades gallegas y transferir las líneas interiores a una empresa pública gallega (GALTRÉN).",
+     "source": {
+      "doc": "bng",
+      "page": 61
+     }
+    },
+    {
+     "text": "Completar el Corredor Atlántico de Mercancías y acabar las obras pendientes del AVE, incluida la variante exterior de Ourense.",
+     "source": {
+      "doc": "bng",
+      "page": 61
+     }
+    },
+    {
+     "text": "Hacer la AP-9 gallega, pública y libre de peajes, y liberalizar también la AP-53.",
+     "source": {
+      "doc": "bng",
+      "page": 62
+     }
+    },
+    {
+     "text": "Terminar la A-54 (Arzúa-Melide), licitar la A-74 en A Mariña y ejecutar los tramos pendientes de la A-76.",
+     "source": {
+      "doc": "bng",
+      "page": 62
+     }
+    },
+    {
+     "text": "Transferir a Galicia los aeropuertos y los puertos de interés general (Vigo, Marín, Vilagarcía, A Coruña y Ferrol-San Cibrao).",
+     "source": {
+      "doc": "bng",
+      "page": 63
+     }
+    },
+    {
+     "text": "Reconocer el derecho de los jóvenes de 16 y 17 años a votar en todas las elecciones.",
+     "source": {
+      "doc": "bng",
+      "page": 86
+     }
+    },
+    {
+     "text": "Destinar el 1% de los Presupuestos Generales del Estado a políticas de juventud, transfiriendo los fondos a las comunidades autónomas.",
+     "source": {
+      "doc": "bng",
+      "page": 86
+     }
+    },
+    {
+     "text": "Garantizar la participación de las selecciones gallegas con pleno derecho en las competiciones deportivas internacionales oficiales.",
+     "source": {
+      "doc": "bng",
+      "page": 88
+     }
+    }
+   ]
+  }
+ },
+ "distinctive": [
+  {
+   "topic": "territorio",
+   "text": "Concierto económico y bilateralidad con el Estado para que Galicia recaude todos los impuestos, con una Facenda Galega.",
+   "why": "Es de los pocos programas que reclaman que una comunidad gallega recaude todos los impuestos; otros partidos nacionalistas (PNV, EH Bildu) también defienden fórmulas de concierto o convenio para sus territorios.",
+   "source": {
+    "doc": "bng",
+    "page": 8
+   }
+  },
+  {
+   "topic": "territorio",
+   "text": "Traspasar la seguridad pública, la policía judicial y la guardia de tráfico, desplegando un cuerpo de Policía Galega.",
+   "why": "Es una propuesta muy poco habitual en los programas estatales; entre los resúmenes revisados solo CC menciona una policía propia, para Canarias.",
+   "source": {
+    "doc": "bng",
+    "page": 9
+   }
+  },
+  {
+   "topic": "medioambiente",
+   "text": "Retirar los POEM y declarar el litoral gallego no apto para parques eólicos marinos, con su rechazo también a la minería submarina.",
+   "why": "Va en contra de la expansión de la eólica marina; en los demás resúmenes revisados no aparece una prohibición equivalente.",
+   "source": {
+    "doc": "bng",
+    "page": 54
+   }
+  },
+  {
+   "topic": "medioambiente",
+   "text": "Considerar el eucalipto como especie exótica invasora e incluirlo en el catálogo para limitar su cultivo.",
+   "why": "Es una medida muy concreta del modelo forestal gallego que no aparece en los demás resúmenes revisados.",
+   "source": {
+    "doc": "bng",
+    "page": 69
+   }
+  },
+  {
+   "topic": "medioambiente",
+   "text": "Participación pública mínima obligatoria del 20% en los proyectos de investigación y explotación de minerales estratégicos y reservas mineras permanentes.",
+   "why": "Plantea un control público de la minería más profundo que el de otros programas revisados; surge del rechazo a proyectos mineros en Galicia.",
+   "source": {
+    "doc": "bng",
+    "page": 58
+   }
+  },
+  {
+   "topic": "inmigracion",
+   "text": "Admitir el conocimiento acreditado de gallego y de cultura gallega como criterio para acceder a la nacionalidad española, sin exigir el español.",
+   "why": "Liga la nacionalidad a una lengua cooficial; no aparece en los otros programas revisados.",
+   "source": {
+    "doc": "bng",
+    "page": 23
+   }
+  },
+  {
+   "topic": "exterior",
+   "text": "Salida de la OTAN y defensa de su disolución, con cancelación de los acuerdos bilaterales con EE. UU.",
+   "why": "Rompe con la política exterior de los grandes partidos; entre los resúmenes revisados, Podemos también propone salir de la OTAN.",
+   "source": {
+    "doc": "bng",
+    "page": 89
+   }
+  },
+  {
+   "topic": "cultura",
+   "text": "Soberanía digital con un ecosistema público gallego de IA, nube pública gallega y derecho de veto algorítmico.",
+   "why": "Dedica un capítulo entero a la soberanía digital con propuestas muy detalladas, algo poco habitual; EH Bildu también menciona soberanía digital y gobernanza pública de la IA.",
+   "source": {
+    "doc": "bng",
+    "page": 75
+   }
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Concierto económico",
+   "definition": "Sistema de financiación en el que un territorio recauda la mayoría de los impuestos y paga una cuota al Estado por los servicios que este presta. Hoy lo tienen el País Vasco y Navarra."
+  },
+  {
+   "term": "Bilateralidad",
+   "definition": "Relación de igual a igual entre dos partes. Aquí, que Galicia y el Estado negocien en pie de igualdad, en lugar de que el Estado decida."
+  },
+  {
+   "term": "SAAD",
+   "definition": "Sistema para la Autonomía y Atención a la Dependencia: el sistema público de ayudas y servicios para personas mayores o dependientes."
+  },
+  {
+   "term": "MEI",
+   "definition": "Mecanismo de Equidad Intergeneracional: cotización extra que se aplica a las nóminas para reforzar la Seguridad Social cuando se jubilen las generaciones más numerosas."
+  },
+  {
+   "term": "Sareb",
+   "definition": "Sociedad creada para gestionar los inmuebles que los bancos rescatados traspasaron al Estado tras la crisis de 2008."
+  },
+  {
+   "term": "Taxa de reposición",
+   "definition": "Límite que fija cuántas plazas de empleo público se pueden convocar al año para sustituir a quienes se jubilan."
+  },
+  {
+   "term": "Fijo-discontinuo",
+   "definition": "Contrato indefinido en el que la persona solo trabaja en ciertos periodos del año, cuando la empresa la llama."
+  },
+  {
+   "term": "POEM",
+   "definition": "Planes de Ordenación del Espacio Marítimo: documentos que reparten los usos del mar (pesca, energía, tráfico, protección)."
+  },
+  {
+   "term": "Eólica marina offshore",
+   "definition": "Parques de aerogeneradores instalados en el mar, lejos de la costa."
+  },
+  {
+   "term": "SDDR",
+   "definition": "Sistema de depósito, devolución y retorno: se paga un pequeño depósito por cada envase y se recupera al devolverlo."
+  },
+  {
+   "term": "Estabilidad relativa",
+   "definition": "Principio de la política pesquera europea que reparte las cuotas de pesca entre países según su pesca histórica, vigente desde 1986."
+  },
+  {
+   "term": "Cuota Hare",
+   "definition": "Fórmula de reparto de escaños proporcional que divide los votos por el número de escaños; favorece más a los partidos pequeños que la ley D'Hondt."
+  },
+  {
+   "term": "Ley Mordaza",
+   "definition": "Nombre popular de la Ley de Protección de la Seguridad Ciudadana (2015), que establece sanciones administrativas por conductas en manifestaciones y en la calle."
+  },
+  {
+   "term": "Montes vecinales en mano común",
+   "definition": "Montes que pertenecen colectivamente a los vecinos de una parroquia o aldea y no son ni públicos ni privados; son muy característicos de Galicia."
+  },
+  {
+   "term": "CPLP",
+   "definition": "Comunidad de Países de Lengua Portuguesa, organización internacional de los países lusófonos."
+  }
+ ]
+}

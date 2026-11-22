@@ -1,0 +1,933 @@
+{
+ "party": "frenteobrero",
+ "overview": "El Frente Obrero se define como un movimiento 'patriota y revolucionario' y presenta un programa político, no electoral, que busca un proceso constituyente y la transformación de la sociedad. Combina medidas económicas de intervención estatal (nacionalizaciones, subida de salarios, impuestos progresivos) con salida de la UE y la OTAN, control estricto de la inmigración y oposición al feminismo y al modelo autonómico. Las propuestas se organizan en 21 capítulos con listas numeradas de medidas.",
+ "topics": {
+  "vivienda": {
+   "summary": "Propone construir vivienda pública, actuar contra la especulación y el turismo masivo, paralizar desahucios, perseguir la ocupación y reservar la vivienda pública a españoles autóctonos.",
+   "points": [
+    {
+     "text": "Construir vivienda pública de calidad y asequible para aumentar el número de inmuebles disponibles para los trabajadores.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 45
+     }
+    },
+    {
+     "text": "Luchar contra la especulación de bancos, fondos buitre y grandes rentistas, y frenar la gentrificación y el auge de los pisos turísticos.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 46
+     }
+    },
+    {
+     "text": "Paralizar de inmediato los desahucios de familias trabajadoras vulnerables hasta encontrar una alternativa habitacional, dar segundas oportunidades en deudas hipotecarias y garantizar la dación en pago en todos los casos.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 46
+     }
+    },
+    {
+     "text": "Acabar con las mafias de la ocupación y los 'narcopisos', actuar contra la ocupación de viviendas de particulares (que 'no debe ser permitida en ningún caso') y contra los 'inquiokupas'.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 46
+     }
+    },
+    {
+     "text": "Enfocar el acceso a la vivienda pública hacia los españoles autóctonos y cambiar también las ayudas, que a su juicio priorizan al extranjero.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 46
+     }
+    },
+    {
+     "text": "Crear parques de vivienda juveniles y ayudas económicas para jóvenes estudiantes y trabajadores que se emancipen.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 29
+     }
+    }
+   ]
+  },
+  "empleo": {
+   "summary": "Plantea subir los salarios, derogar las reformas laborales, prohibir las empresas de trabajo temporal y reforzar la representación de los trabajadores y la protección de los autónomos.",
+   "points": [
+    {
+     "text": "Aumento general de los salarios en relación con el coste de la vida.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 9
+     }
+    },
+    {
+     "text": "Sistema obligatorio de representación de los trabajadores en todas las empresas con diez trabajadores o más, sin excepciones.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 9
+     }
+    },
+    {
+     "text": "Restringir los contratos temporales y fijos-discontinuos, y prohibir las empresas de trabajo temporal (ETT).",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 9
+     }
+    },
+    {
+     "text": "Derogar las sucesivas reformas laborales y la primacía del convenio de empresa sobre los sectoriales cuando perjudica al trabajador.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 9
+     }
+    },
+    {
+     "text": "Derogar el Real Decreto 17/1977 sobre relaciones de trabajo, que a su juicio limita el derecho de huelga, sobre todo en sectores estratégicos.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 9
+     }
+    },
+    {
+     "text": "Eliminar la cuota de los autónomos que no llegan al SMI, bonificación total por baja, cuotas más reducidas y jubilación garantizada; acabar con los falsos autónomos.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 9
+     }
+    },
+    {
+     "text": "Endurecer las penas por contratar a extranjeros no regulados, especialmente en el campo, y reforzar el control del registro de horas extra y de la prevención de riesgos.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 9
+     }
+    },
+    {
+     "text": "Ampliar las bajas de paternidad y maternidad y obligar a las empresas a ser parcialmente flexibles en teletrabajo, jornada y horarios para conciliar.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 35
+     }
+    }
+   ]
+  },
+  "economia": {
+   "summary": "Defiende reindustrializar el país con nacionalización de sectores estratégicos, un sistema fiscal más progresivo y una estrategia industrial independiente de la UE.",
+   "points": [
+    {
+     "text": "Reindustrializar el país priorizando industrias estratégicas que aprovechen los recursos de España y desarrollar una estrategia industrial independiente de Bruselas.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 13
+     }
+    },
+    {
+     "text": "Nacionalizar los sectores estratégicos de la economía, con una 'fuerte intervención' del Estado.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 13
+     }
+    },
+    {
+     "text": "Cambiar el modelo turístico, que califica de 'ocio destructivo', hacia un turismo de alta calidad y rural.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 13
+     }
+    },
+    {
+     "text": "Bajar el IRPF a los trabajadores con menos recursos y subirlo a las rentas altas ampliando tramos y tipos.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 18
+     }
+    },
+    {
+     "text": "Disminuir el IVA e incluir progresivamente todas las mercancías de primera necesidad en el tipo superreducido.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 18
+     }
+    },
+    {
+     "text": "Multas y, si es necesario, expropiación a las empresas que defrauden o tributen fuera de España; subir sociedades y patrimonio a las grandes empresas.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 19
+     }
+    },
+    {
+     "text": "Centralizar los impuestos de sucesiones y patrimonio, suprimir sus bonificaciones y eliminar sucesiones para rentas bajas; combatir la usura en el cobro de deudas.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 19
+     }
+    },
+    {
+     "text": "Suprimir las subvenciones 'de carácter ideológico' y las entidades públicas o asociaciones que considera ineficaces.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 18
+     }
+    }
+   ]
+  },
+  "pensiones": {
+   "summary": "Propone revertir la edad de jubilación, subir las pensiones mínimas y no contributivas y calcular la pensión con los mejores años cotizados, apoyándose en reindustrialización y natalidad.",
+   "points": [
+    {
+     "text": "Revertir el aumento de la edad de jubilación y fijar una edad de retiro adecuada al puesto de trabajo.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 48
+     }
+    },
+    {
+     "text": "Incrementar las pensiones no contributivas y las mínimas para asegurar la suficiencia de todos los pensionistas.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 49
+     }
+    },
+    {
+     "text": "Calcular la pensión con la media de los mejores años cotizados.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 49
+     }
+    },
+    {
+     "text": "Subir las tasas de actividad y empleo mediante conciliación, incorporación de los jóvenes y lucha contra la economía sumergida.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 49
+     }
+    },
+    {
+     "text": "Sostiene que la solución de fondo pasa por la reindustrialización, más productividad y más natalidad, y rechaza que la inmigración sea la salida.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 48
+     }
+    }
+   ]
+  },
+  "sanidad": {
+   "summary": "Plantea un sistema sanitario centralizado, gratuito y sin externalizaciones, con más inversión en atención primaria, salud mental, prevención y servicios bucodentales, fisioterapéuticos y oftalmológicos gratuitos.",
+   "points": [
+    {
+     "text": "Centralizar, unificar y homogeneizar el Sistema Nacional de Salud.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 42
+     }
+    },
+    {
+     "text": "Acabar con la externalización y privatización de la sanidad y controlar más a las mutuas.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 42
+     }
+    },
+    {
+     "text": "Más centros de atención primaria, sobre todo en zonas rurales y barrios obreros, y recursos para reducir las listas de espera.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 42
+     }
+    },
+    {
+     "text": "Asegurar cuidado bucodental, fisioterapéutico y oftalmológico gratuito.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 42
+     }
+    },
+    {
+     "text": "Más personal y recursos en salud mental y programas de prevención como eje del sistema.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 43
+     }
+    },
+    {
+     "text": "Abaratar los medicamentos con receta (tendiendo a la gratuidad en casos de especial necesidad) y desarrollar una industria farmacéutica nacional.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 43
+     }
+    },
+    {
+     "text": "Mejorar las condiciones del personal sanitario, en especial el afectado por externalizaciones, y asegurar plazas públicas en residencias de mayores.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 43
+     }
+    },
+    {
+     "text": "Integrar los centros de desintoxicación en la sanidad pública y reforzar la detección de consumos en escuelas y universidades.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 29
+     }
+    }
+   ]
+  },
+  "educacion": {
+   "summary": "Defiende una educación pública y gratuita con becas, comedor escolar gratuito y prácticas remuneradas, frena la digitalización de la enseñanza y retira las subvenciones a la escuela privada.",
+   "points": [
+    {
+     "text": "Educación gratuita en todos los niveles (incluidos los superiores para las rentas más bajas) y sistema de becas para compaginar estudio y trabajo.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 22
+     }
+    },
+    {
+     "text": "Comedor escolar gratuito.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 22
+     }
+    },
+    {
+     "text": "Frenar la educación digital y limitar el acceso a determinadas tecnologías a menores de dieciséis años; regular y controlar el uso de la inteligencia artificial.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 21
+     }
+    },
+    {
+     "text": "Eliminar las subvenciones a la escuela privada y expulsar a las empresas privadas de la universidad y la FP, reestructurando el Consejo Social.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 22
+     }
+    },
+    {
+     "text": "Prácticas de FP y universidad remuneradas según el trabajo desarrollado, sin excepciones.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 22
+     }
+    },
+    {
+     "text": "Garantizar el derecho a estudiar en castellano o en las lenguas cooficiales y acabar con el 'uso político' de las lenguas.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 22
+     }
+    },
+    {
+     "text": "Dejar el islam y las 'teorías anticientíficas' (cita la teoría queer) fuera de los centros públicos.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 22
+     }
+    },
+    {
+     "text": "Mejorar las condiciones de los empleados de la educación pública afectados por externalizaciones y evitar la 'fuga de cerebros'.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 22
+     }
+    }
+   ]
+  },
+  "igualdad": {
+   "summary": "Se declara contrario al feminismo 'en todas sus formas', niega la existencia de la violencia de género como fenómeno estructural y propone suprimir el Ministerio de Igualdad y derogar la Ley Trans.",
+   "points": [
+    {
+     "text": "Derogar parcial o totalmente las leyes basadas en la discriminación positiva y suprimir los cupos.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 32
+     }
+    },
+    {
+     "text": "Derogar la Ley Trans, para 'proteger a los niños y adolescentes del adoctrinamiento queer'.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 32
+     }
+    },
+    {
+     "text": "Suprimir el Ministerio de Igualdad y destinar todo su presupuesto a cuestiones sociales.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 32
+     }
+    },
+    {
+     "text": "Planes de apoyo económico a la natalidad para que la maternidad no perjudique la carrera ni los estudios de las mujeres.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 32
+     }
+    },
+    {
+     "text": "Planes contra la trata y la explotación sexual, y prohibir y perseguir los vientres de alquiler, también los realizados fuera de España.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 32
+     }
+    },
+    {
+     "text": "Afirma que 'la violencia de género no existe' como violencia estructural contra las mujeres, y que la violencia es multifactorial y se da en ambas direcciones.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 31
+     }
+    },
+    {
+     "text": "Sostiene que el feminismo es una ideología liberal que divide a los trabajadores y se define a favor de la 'igualdad real'.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 31
+     }
+    }
+   ]
+  },
+  "inmigracion": {
+   "summary": "Considera que España ha superado su capacidad de acogida y plantea control total de fronteras, expulsiones, endurecer la nacionalidad (ius sanguinis) y retorno de quienes no cumplan.",
+   "points": [
+    {
+     "text": "Control absoluto de las fronteras terrestres y marítimas y lucha contra las mafias de tráfico de inmigrantes con altas penas.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 53
+     }
+    },
+    {
+     "text": "Expulsión inmediata de quienes delinquen de forma reiterada o están en situación irregular, sin posibilidad de regularizarse si intentaron entrar ilegalmente.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 53
+     }
+    },
+    {
+     "text": "Cese de la concesión de nacionalidades hasta revisar las de los últimos veinte años y prioridad real al ius sanguinis; retirada de la nacionalidad a nacionalizados que cometan un delito grave.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 53
+     }
+    },
+    {
+     "text": "Expulsar a los 'radicales islámicos' y sus estructuras religiosas, sacar el islam de las escuelas públicas, no subvencionar actividades islámicas y prohibir el hijab en lugares y puestos de trabajo públicos.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 53
+     }
+    },
+    {
+     "text": "Restringir el asilo político, eliminar la libertad de movimiento desde la solicitud y expulsar a quienes vean denegada su petición.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 54
+     }
+    },
+    {
+     "text": "Operatividad de los CIE (o un centro más efectivo) y acuerdos con países cercanos para clasificar y deportar desde suelo extranjero.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 54
+     }
+    },
+    {
+     "text": "Eliminar las 'pagas' a personas en edad de trabajar, y fomentar el retorno de los españoles que emigraron.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 52
+     }
+    },
+    {
+     "text": "Atribuye el modelo migratorio al sistema capitalista, que busca abaratar salarios, y pide supervisar a las empresas que contratan inmigrantes.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 52
+     }
+    }
+   ]
+  },
+  "medioambiente": {
+   "summary": "Rechaza la 'transición ecológica' y apuesta por la independencia energética con energía nuclear ampliada y renovables como complemento, además de regular la luz y los combustibles.",
+   "points": [
+    {
+     "text": "Poner fin a la llamada 'transición ecológica', que según el programa desmantela la capacidad productiva y somete al país a las políticas de la UE.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 15
+     }
+    },
+    {
+     "text": "Regular de inmediato la factura de la luz y de los combustibles y poner fin a los abusos de los oligopolios y a las puertas giratorias.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 16
+     }
+    },
+    {
+     "text": "Frenar el cierre paulatino de las centrales energéticas que están en plena capacidad productiva.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 16
+     }
+    },
+    {
+     "text": "Apostar por la energía nuclear: más inversión, ampliación del parque nuclear y explotación del uranio nacional.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 16
+     }
+    },
+    {
+     "text": "Apoyar las renovables como complemento de la nuclear e invertir en su I+D.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 16
+     }
+    },
+    {
+     "text": "Planes de recuperación de la biodiversidad y el patrimonio natural, protección de especies en peligro y control de las especies invasoras.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 38
+     }
+    }
+   ]
+  },
+  "rural": {
+   "summary": "Plantea romper con la PAC, expropiar tierras sin usar de grandes terratenientes, fomentar cooperativas y defender la caza, la pesca sostenible y una política hidráulica propia.",
+   "points": [
+    {
+     "text": "Romper con las políticas agrarias de la UE (PAC) y los tratados internacionales que, a su juicio, reducen la capacidad productiva.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 38
+     }
+    },
+    {
+     "text": "Expropiar las tierras sin usar de grandes terratenientes y repartirlas entre agricultores y cooperativas; prohibir los parques solares en tierras cultivables.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 38
+     }
+    },
+    {
+     "text": "Fomentar las cooperativas agrarias y la concentración parcelaria.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 38
+     }
+    },
+    {
+     "text": "Perseguir a los explotadores del sector primario y controlar la normativa laboral y de prevención de riesgos.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 38
+     }
+    },
+    {
+     "text": "Invertir en planes hidrográficos, limpiar ríos y embalses y poner fin al derribo de presas.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 38
+     }
+    },
+    {
+     "text": "Pesca sostenible y piscifactorías; reivindicar el derecho a explotar las aguas españolas.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 38
+     }
+    },
+    {
+     "text": "Caza y control de fauna como competencia del Estado, con cuerpos rurales apoyados en cazadores locales.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 38
+     }
+    }
+   ]
+  },
+  "territorio": {
+   "summary": "Propone comunidades autónomas simétricas, con las mismas competencias y régimen fiscal, centralizar sanidad y educación, suprimir policías autonómicas y fusionar ayuntamientos.",
+   "points": [
+    {
+     "text": "Que todas las comunidades autónomas tengan las mismas competencias y el mismo régimen fiscal.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 56
+     }
+    },
+    {
+     "text": "Reforzar el gobierno central y centralizar competencias como sanidad, educación y servicios de emergencia.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 56
+     }
+    },
+    {
+     "text": "Oponerse a todos los procesos de independencia, por considerarlos contrarios a los intereses de los trabajadores.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 56
+     }
+    },
+    {
+     "text": "Eliminar puestos y cargos inoperantes o duplicados y promover la fusión de ayuntamientos.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 56
+     }
+    },
+    {
+     "text": "Suprimir las policías autonómicas e integrarlas en la Policía Nacional.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 61
+     }
+    }
+   ]
+  },
+  "instituciones": {
+   "summary": "Plantea más independencia judicial, penas más duras por corrupción (también a los partidos), prohibir el indulto en corrupción y democratizar los cuerpos de seguridad.",
+   "points": [
+    {
+     "text": "Garantizar la independencia judicial: prioridad a la carrera judicial en los órganos superiores y fin de la elección gubernamental de miembros de órganos judiciales.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 58
+     }
+    },
+    {
+     "text": "Mejorar la justicia gratuita para que sea rápida y de calidad.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 58
+     }
+    },
+    {
+     "text": "Aumentar las penas por corrupción, también para los partidos como personas jurídicas, y garantizar la devolución íntegra de los fondos públicos.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 59
+     }
+    },
+    {
+     "text": "Prohibir el indulto en casos de corrupción política y delitos relacionados.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 59
+     }
+    },
+    {
+     "text": "Depurar mandos policiales corruptos, permitir la sindicación en la Guardia Civil y equiparar sueldos entre cuerpos policiales.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 61
+     }
+    },
+    {
+     "text": "Derogar la normativa que, a su juicio, supone persecución ideológica y garantizar la neutralidad de los medios públicos.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 40
+     }
+    },
+    {
+     "text": "Control del Estado sobre las grandes plataformas digitales para que no privilegien unos discursos sobre otros.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 40
+     }
+    }
+   ]
+  },
+  "exterior": {
+   "summary": "Propone salir de la UE y de la OTAN, expulsar bases extranjeras, recuperar Gibraltar y democratizar y reforzar el ejército.",
+   "points": [
+    {
+     "text": "Salida de la Unión Europea para recuperar la soberanía nacional.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 11
+     }
+    },
+    {
+     "text": "Salida inmediata de la OTAN y reforzamiento del ejército.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 11
+     }
+    },
+    {
+     "text": "Expulsar toda base militar extranjera, empezando por la presencia militar británica en Gibraltar, cuyo control quiere recuperar.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 11
+     }
+    },
+    {
+     "text": "Defender el derecho a la autodeterminación del pueblo saharaui, asumiendo la 'deuda histórica' de España, y delimitar las aguas archipelágicas.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 11
+     }
+    },
+    {
+     "text": "Democratizar el ejército, depurar sus mandos y permitir a los militares la libertad de reunión, sindicación y afiliación política.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 63
+     }
+    },
+    {
+     "text": "Acabar con el cese de contrato a los 45 años sin alternativas laborales y con las misiones en el extranjero que, según el programa, defienden intereses ajenos.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 63
+     }
+    }
+   ]
+  },
+  "cultura": {
+   "summary": "Defiende proteger la cultura española con producción propia, acceso gratuito a museos y bibliotecas, menos impuestos a libros y deporte de base, y regular la tecnología y los medios.",
+   "points": [
+    {
+     "text": "Defender y proteger la cultura española de los intentos de 'sustitución cultural' e impulsar una producción cultural propia.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 25
+     }
+    },
+    {
+     "text": "Acceso libre y gratuito de los españoles a museos, patrimonio arquitectónico y cultural, bibliotecas públicas y filmotecas.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 25
+     }
+    },
+    {
+     "text": "Construir y rehabilitar espacios culturales, priorizando barrios de trabajadores y zonas rurales.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 25
+     }
+    },
+    {
+     "text": "Reducir los impuestos sobre productos culturales como libros o material artístico.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 26
+     }
+    },
+    {
+     "text": "Tender a acabar con la publicidad de apuestas, bebidas alcohólicas y pornografía o prostitución.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 26
+     }
+    },
+    {
+     "text": "Crear clubes deportivos y promover el deporte, construyendo instalaciones y habilitando parques y espacios naturales.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 26
+     }
+    },
+    {
+     "text": "Garantizar objetividad y neutralidad en los medios públicos y blindar el derecho a informar sin censura.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 40
+     }
+    },
+    {
+     "text": "Promover asociaciones juveniles y ceder locales abandonados rehabilitados a organizaciones juveniles.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 29
+     }
+    }
+   ]
+  },
+  "otros": {
+   "summary": "Se define como movimiento 'patriota y revolucionario' que busca un proceso constituyente y, con la natalidad como prioridad, propone planes de apoyo a las familias numerosas.",
+   "points": [
+    {
+     "text": "El documento se presenta como programa político de un movimiento revolucionario y no como programa electoral; las elecciones se ven como altavoz para 'acumular fuerzas'.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 6
+     }
+    },
+    {
+     "text": "Apuesta por un proceso constituyente para acabar con el 'régimen actual'.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 6
+     }
+    },
+    {
+     "text": "Se declara contrario a la monarquía y partidario de una República 'encaminada al socialismo'.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 56
+     }
+    },
+    {
+     "text": "Planes estatales de natalidad con ventajas fiscales y ayudas a familias numerosas, con el objetivo de superar los dos hijos por mujer.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 34
+     }
+    },
+    {
+     "text": "Guarderías públicas y gratuitas y estructuras de protección de la familia con psicólogos, terapeutas y trabajadores sociales.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 34
+     }
+    },
+    {
+     "text": "Prohibir en organismos públicos la propaganda contraria a la familia y la natalidad.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 35
+     }
+    },
+    {
+     "text": "Luchar contra el narcotráfico con altas penas de cárcel y reducir el paro juvenil combinando estudios y prácticas.",
+     "source": {
+      "doc": "frenteobrero",
+      "page": 29
+     }
+    }
+   ]
+  }
+ },
+ "distinctive": [
+  {
+   "topic": "exterior",
+   "text": "Salida de la Unión Europea y de la OTAN, y expulsión de toda base militar extranjera.",
+   "why": "Entre los programas revisados, pocos plantean salir tanto de la UE como de la OTAN (el PCTE también lo recoge).",
+   "source": {
+    "doc": "frenteobrero",
+    "page": 11
+   }
+  },
+  {
+   "topic": "economia",
+   "text": "Nacionalizar los sectores estratégicos de la economía y reindustrializar el país con una estrategia independiente de Bruselas.",
+   "why": "La nacionalización de sectores estratégicos aparece en pocos programas, que además no la combinan con salir de la UE.",
+   "source": {
+    "doc": "frenteobrero",
+    "page": 13
+   }
+  },
+  {
+   "topic": "medioambiente",
+   "text": "Poner fin a la 'transición ecológica' y ampliar el parque nuclear usando uranio nacional, con renovables solo como complemento.",
+   "why": "Se parece al PP y VOX en defender la nuclear, pero va más lejos al rechazar la 'transición ecológica' como tal.",
+   "source": {
+    "doc": "frenteobrero",
+    "page": 16
+   }
+  },
+  {
+   "topic": "igualdad",
+   "text": "Suprimir el Ministerio de Igualdad, derogar la Ley Trans y afirmar que 'la violencia de género no existe' como violencia estructural.",
+   "why": "Es una posición muy distinta de la mayoría de programas, que mantienen o refuerzan las políticas de igualdad.",
+   "source": {
+    "doc": "frenteobrero",
+    "page": 32
+   }
+  },
+  {
+   "topic": "inmigracion",
+   "text": "Expulsión de la inmigración irregular, revisión de las nacionalidades concedidas en veinte años y prioridad real al ius sanguinis, con el objetivo de que muchos extranjeros retornen.",
+   "why": "Coincide en parte con VOX (remigración), pero también critica la inmigración legal y la atribuye al interés de la patronal.",
+   "source": {
+    "doc": "frenteobrero",
+    "page": 53
+   }
+  },
+  {
+   "topic": "rural",
+   "text": "Expropiar las tierras sin usar de los grandes terratenientes y repartirlas entre agricultores y cooperativas, y romper con la PAC.",
+   "why": "Pocos programas proponen romper con la PAC y expropiar tierras ociosas a la vez.",
+   "source": {
+    "doc": "frenteobrero",
+    "page": 38
+   }
+  },
+  {
+   "topic": "territorio",
+   "text": "Comunidades autónomas simétricas con las mismas competencias y régimen fiscal, centralizando sanidad y educación y suprimiendo las policías autonómicas.",
+   "why": "Es una propuesta de recentralización más amplia que la de la mayoría de programas.",
+   "source": {
+    "doc": "frenteobrero",
+    "page": 56
+   }
+  },
+  {
+   "topic": "educacion",
+   "text": "Eliminar las subvenciones a la escuela privada, frenar la educación digital y expulsar a las empresas privadas de la universidad y la FP.",
+   "why": "Une medidas de gasto público en educación con una limitación de la digitalización que casi no aparece en otros programas.",
+   "source": {
+    "doc": "frenteobrero",
+    "page": 22
+   }
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Proceso constituyente",
+   "definition": "Proceso para redactar una nueva Constitución. El Frente Obrero lo propone para sustituir el régimen actual."
+  },
+  {
+   "term": "Partitocracia",
+   "definition": "Término que usa el programa para describir un sistema en el que los grandes partidos se turnan en el poder defendiendo, según el texto, los mismos intereses."
+  },
+  {
+   "term": "ETT",
+   "definition": "Empresas de trabajo temporal: contratan trabajadores para cederlos a otras empresas por un tiempo. El programa propone prohibirlas."
+  },
+  {
+   "term": "Falsos autónomos",
+   "definition": "Personas que figuran como autónomas pero trabajan de hecho como asalariadas de una sola empresa."
+  },
+  {
+   "term": "Dación en pago",
+   "definition": "Entregar la vivienda al banco para saldar la hipoteca y quedar sin deuda pendiente."
+  },
+  {
+   "term": "Ius sanguinis",
+   "definition": "Criterio de nacionalidad por filiación: se es de un país si lo son los padres, a diferencia del criterio por lugar de nacimiento."
+  },
+  {
+   "term": "CIE",
+   "definition": "Centros de Internamiento de Extranjeros, donde se retiene a personas extranjeras pendientes de expulsión."
+  },
+  {
+   "term": "PAC",
+   "definition": "Política Agrícola Común, el sistema de ayudas y normas agrarias de la Unión Europea."
+  },
+  {
+   "term": "Discriminación positiva",
+   "definition": "Medidas que dan trato preferente a un grupo desfavorecido, como los cupos, para corregir una desigualdad."
+  },
+  {
+   "term": "Vientres de alquiler",
+   "definition": "Gestación subrogada: una mujer gesta un hijo para otras personas que serán sus madres o padres legales."
+  },
+  {
+   "term": "Ley Trans",
+   "definition": "Ley de 2023 sobre la igualdad real y efectiva de las personas trans y los derechos LGTBI, que el programa propone derogar."
+  },
+  {
+   "term": "Concentración parcelaria",
+   "definition": "Agrupar pequeñas parcelas dispersas de un agricultor en fincas mayores para trabajarlas mejor."
+  }
+ ]
+}

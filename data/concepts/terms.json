@@ -9,7 +9,9 @@
    "arrendatari",
    "inquilin",
    "lloguer",
-   "llogater"
+   "llogater",
+   "aluguer",
+   "alugueiro"
   ]
  },
  {
@@ -23,7 +25,10 @@
    "parque publico",
    "habitatge public",
    "habitatge social",
-   "habitatge protegit"
+   "habitatge protegit",
+   "vivenda publica",
+   "vivenda social",
+   "vivenda protexida"
   ]
  },
  {
@@ -33,7 +38,8 @@
   "v": [
    "desahucio",
    "desnonament",
-   "lanzamiento"
+   "lanzamiento",
+   "desafiuzamento"
   ]
  },
  {
@@ -126,7 +132,9 @@
    "32 horas",
    "semana de cuatro dias",
    "jornada de treball",
-   "reduccio de jornada"
+   "reduccio de jornada",
+   "xornada laboral",
+   "reducion da xornada"
   ]
  },
  {
@@ -135,7 +143,8 @@
   "topic": "empleo",
   "v": [
    "despido",
-   "acomiadament"
+   "acomiadament",
+   "despedimento"
   ]
  },
  {
@@ -179,7 +188,8 @@
    "desempleo",
    "paro",
    "atur",
-   "prestacion por desempleo"
+   "prestacion por desempleo",
+   "desemprego"
   ]
  },
  {
@@ -346,7 +356,8 @@
   "v": [
    "jubilacion",
    "edad de jubilacion",
-   "jubilacio"
+   "jubilacio",
+   "xubilacion"
   ]
  },
  {
@@ -693,7 +704,8 @@
    "aigua",
    "sequera",
    "desalad",
-   "dessalinitz"
+   "dessalinitz",
+   "auga"
   ]
  },
  {
@@ -764,7 +776,8 @@
   "topic": "medioambiente",
   "v": [
    "incendio",
-   "incendi"
+   "incendi",
+   "lume"
   ]
  },
  {
@@ -822,7 +835,9 @@
    "agricultura",
    "ganader",
    "pages",
-   "ramader"
+   "ramader",
+   "labregos",
+   "gandeir"
   ]
  },
  {
@@ -878,7 +893,8 @@
    "derecho a decidir",
    "referendum",
    "autodeterminacio",
-   "dret a decidir"
+   "dret a decidir",
+   "dereito a decidir"
   ]
  },
  {
@@ -890,7 +906,8 @@
    "sistema de financiacion",
    "financament autonomic",
    "infrafinanciacion",
-   "infrafinancament"
+   "infrafinancament",
+   "financiamento"
   ]
  },
  {
@@ -949,7 +966,9 @@
    "euskera",
    "llengua",
    "oficialidad",
-   "oficialitat"
+   "oficialitat",
+   "lingua galega",
+   "galego"
   ]
  },
  {
@@ -1199,7 +1218,8 @@
    "educacion publica",
    "escuela publica",
    "educacio publica",
-   "escola publica"
+   "escola publica",
+   "ensino publico"
   ]
  },
  {
@@ -1247,7 +1267,9 @@
    "becas",
    "beques",
    "tasas universitarias",
-   "matricula"
+   "matricula",
+   "universidade",
+   "bolsas"
   ]
  },
  {
@@ -1368,7 +1390,9 @@
    "joventut",
    "joves",
    "emancipacion",
-   "emancipacio"
+   "emancipacio",
+   "mocidade",
+   "xuventude"
   ]
  },
  {

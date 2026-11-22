@@ -1,0 +1,802 @@
+{
+ "viv-1": {
+  "v": 2,
+  "page": 11,
+  "note": "Bajada inmediata de los alquileres del 50 % y precios máximos ligados a los salarios medios de la zona."
+ },
+ "viv-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-3": {
+  "v": 1,
+  "page": 12,
+  "note": "Gran parque público de alquiler hasta el 10 % de las viviendas; no dice quién lo gestiona."
+ },
+ "viv-4": {
+  "v": -1,
+  "page": 11,
+  "note": "Prohíbe desahucios de hogares trabajadores sea cual sea la situación de quien habita; no menciona la okupación."
+ },
+ "viv-5": {
+  "v": 2,
+  "page": 12,
+  "note": "Expropiación sin indemnización de viviendas vacías de bancos, fondos y grandes tenedores."
+ },
+ "viv-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-7": {
+  "v": 2,
+  "page": 11,
+  "note": "Limitar la vivienda turística al 0,5 % de las viviendas de cada localidad."
+ },
+ "emp-1": {
+  "v": 1,
+  "page": 7,
+  "note": "No fija un SMI concreto; propone salarios por encima de los precios y subidas lineales iguales para todos."
+ },
+ "emp-2": {
+  "v": 2,
+  "page": 7,
+  "note": "Jornada de 35 horas ya, sin reducción salarial, con horizonte de 30 horas."
+ },
+ "emp-3": {
+  "v": 2,
+  "page": 8,
+  "note": "Prohíbe despidos colectivos en empresas con beneficios; indemnizaciones que disuadan de despedir y readmisión obligatoria."
+ },
+ "emp-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-4": {
+  "v": -1,
+  "page": 13,
+  "note": "Propone plantillas públicas suficientes y reducir el gasto militar; no propone recortar el gasto público."
+ },
+ "eco-5": {
+  "v": 2,
+  "page": 10,
+  "note": "Propiedad estatal bajo control obrero de energía, transporte y telecomunicaciones."
+ },
+ "eco-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-1": {
+  "v": 2,
+  "page": 14,
+  "note": "Revalorización automática de las pensiones con el IPC real."
+ },
+ "pen-2": {
+  "v": 2,
+  "page": 14,
+  "note": "Ninguna pensión por debajo del salario mínimo."
+ },
+ "pen-3": {
+  "v": 2,
+  "page": 7,
+  "note": "Jubilación ordinaria a los 60 años sin penalización y a los 55 en trabajos penosos."
+ },
+ "pen-4": {
+  "v": 1,
+  "page": 14,
+  "note": "No menciona el IMV; propone que la prestación por desempleo nunca sea inferior al salario mínimo."
+ },
+ "pen-5": {
+  "v": -2,
+  "page": 14,
+  "note": "Propone acabar con los incentivos fiscales a los planes privados y de empleo."
+ },
+ "san-1": {
+  "v": 2,
+  "page": 13,
+  "note": "Recuperación de servicios privatizados y prohibición de nuevos conciertos en sanidad."
+ },
+ "san-2": {
+  "v": 2,
+  "page": 13,
+  "note": "Refuerzo de la sanidad pública que incluye la salud bucodental."
+ },
+ "san-3": {
+  "v": -2,
+  "page": 13,
+  "note": "Prohíbe nuevos conciertos y propone gestión pública directa en sanidad."
+ },
+ "san-4": {
+  "v": -1,
+  "page": 20,
+  "note": "Propone regularización permanente de personas sin papeles; no menciona la atención sanitaria."
+ },
+ "san-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-1": {
+  "v": -2,
+  "page": 13,
+  "note": "Integración de los centros concertados en una red pública única."
+ },
+ "edu-2": {
+  "v": 1,
+  "page": 13,
+  "note": "Sistema educativo exclusivamente público y laico; no menciona la asignatura de religión por su nombre."
+ },
+ "edu-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-5": {
+  "v": 2,
+  "page": 13,
+  "note": "Educación pública y gratuita en todas sus etapas."
+ },
+ "edu-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-1": {
+  "v": 1,
+  "page": 17,
+  "note": "Garantiza vivienda, ingresos y atención a mujeres que sufren violencia; no menciona leyes concretas."
+ },
+ "igu-2": {
+  "v": 2,
+  "page": 17,
+  "note": "Todas las interrupciones del embarazo garantizadas en hospitales públicos."
+ },
+ "igu-3": {
+  "v": 1,
+  "page": 20,
+  "note": "Protege a las personas LGTB frente al despido, el acoso y la discriminación; no menciona la ley trans."
+ },
+ "igu-4": {
+  "v": 2,
+  "page": 17,
+  "note": "Permiso por nacimiento de 52 semanas, intransferible y retribuido al 100 %."
+ },
+ "igu-5": {
+  "v": 2,
+  "page": 17,
+  "note": "Prohibición de la prostitución y del proxenetismo."
+ },
+ "inm-1": {
+  "v": 2,
+  "page": 20,
+  "note": "Mecanismo permanente de regularización para las personas trabajadoras sin papeles."
+ },
+ "inm-2": {
+  "v": -2,
+  "page": 20,
+  "note": "Cierre de los CIE y fin de las devoluciones en caliente."
+ },
+ "inm-3": {
+  "v": 2,
+  "page": 20,
+  "note": "Cierre de los Centros de Internamiento de Extranjeros."
+ },
+ "inm-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-5": {
+  "v": -2,
+  "page": 21,
+  "note": "Mismos derechos para trabajadores migrantes y rechazo de dividir a la clase trabajadora por origen."
+ },
+ "inm-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-5": {
+  "v": 2,
+  "page": 10,
+  "note": "Propiedad estatal bajo control obrero del sector energético."
+ },
+ "med-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-3": {
+  "v": 1,
+  "page": 15,
+  "note": "Apoyo a pequeños productores y acceso colectivo a financiación; no menciona la PAC."
+ },
+ "rur-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-3": {
+  "v": 2,
+  "page": 20,
+  "note": "Derogación de la Ley Mordaza (Ley de Seguridad Ciudadana)."
+ },
+ "ins-4": {
+  "v": -1,
+  "page": 20,
+  "note": "Propone derogar los delitos de opinión; no menciona endurecer el Código Penal."
+ },
+ "ins-5": {
+  "v": 2,
+  "page": 20,
+  "note": "Ilegalización de organizaciones franquistas y disolución de fundaciones que enaltecen la dictadura."
+ },
+ "ins-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-1": {
+  "v": -2,
+  "page": 19,
+  "note": "Rechaza el incremento del gasto militar y el rearme."
+ },
+ "ext-2": {
+  "v": 2,
+  "page": 19,
+  "note": "Salida de España de la OTAN y de la Unión Europea."
+ },
+ "ext-3": {
+  "v": 2,
+  "page": 19,
+  "note": "Embargo militar total a Israel y ruptura de relaciones diplomáticas, militares y comerciales."
+ },
+ "ext-4": {
+  "v": -2,
+  "page": 19,
+  "note": "Propone la salida de España de la Unión Europea."
+ },
+ "ext-5": {
+  "v": 2,
+  "page": 19,
+  "note": "Reconocimiento de la República Árabe Saharaui Democrática y referéndum de autodeterminación."
+ },
+ "ext-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-1": {
+  "v": 1,
+  "page": 18,
+  "note": "Gratuidad de museos y precio máximo en la actividad cultural subvencionada; no menciona el IVA."
+ },
+ "cul-2": {
+  "v": 1,
+  "page": 9,
+  "note": "Derecho de información y veto ante sistemas algorítmicos en el trabajo; no regula las plataformas."
+ },
+ "cul-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-4": {
+  "v": 1,
+  "page": 18,
+  "note": "Fondos de I+D militar reorientados a salud, energía, alimentación y medio ambiente."
+ },
+ "cul-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-8": {
+  "v": 2,
+  "page": 12,
+  "note": "Expropiación sin indemnización de viviendas vacías de uso especulativo de bancos, fondos y grandes tenedores."
+ },
+ "emp-6": {
+  "v": -2,
+  "page": 7,
+  "note": "Rechaza la flexibilización de la contratación y el abaratamiento del despido; prohíbe las ETT."
+ },
+ "eco-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-6": {
+  "v": 1,
+  "page": 13,
+  "note": "Fija el 25 % del gasto sanitario para atención primaria; no fija un porcentaje del PIB."
+ },
+ "edu-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-7": {
+  "v": 1,
+  "page": 20,
+  "note": "Propone la regularización como vía de acceso al empleo; no menciona visados de trabajo."
+ },
+ "inm-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-7": {
+  "v": 1,
+  "page": 11,
+  "note": "Limita la vivienda turística al 0,5 %; no trata de limitar el turismo en general."
+ },
+ "rur-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-6": {
+  "v": 1,
+  "page": 15,
+  "note": "Compra pública de alimentos bajo control democrático; no prioriza expresamente el producto local."
+ },
+ "ter-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-9": {
+  "v": -2,
+  "page": 16,
+  "note": "Rechaza las ayudas que acaban en manos de los caseros y propone vivienda pública para jóvenes con alquiler según ingresos."
+ },
+ "viv-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-11": {
+  "v": 2,
+  "page": 11,
+  "note": "Prohibición efectiva de desahucios de hogares trabajadores y alternativa digna en el mismo barrio."
+ },
+ "viv-12": {
+  "v": 2,
+  "page": 12,
+  "note": "Prohíbe vender o descalificar cualquier vivienda pública o protegida."
+ },
+ "emp-7": {
+  "v": 1,
+  "page": 7,
+  "note": "Acaba con falsos autónomos y prácticas no laborales; no menciona más inspectores."
+ },
+ "emp-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-9": {
+  "v": 2,
+  "page": 7,
+  "note": "Contrato fijo a partir de seis meses de contratos encadenados; el empleo permanente como norma."
+ },
+ "emp-10": {
+  "v": 2,
+  "page": 9,
+  "note": "Control obrero de la plantilla con derecho de información previa y veto sobre decisiones de la empresa."
+ },
+ "eco-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-13": {
+  "v": -2,
+  "page": 13,
+  "note": "Rechaza cualquier privatización más y propone gestión pública directa de servicios."
+ },
+ "pen-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-9": {
+  "v": 2,
+  "page": 14,
+  "note": "Red pública universal de cuidados: escuelas infantiles, dependencia y residencias."
+ },
+ "pen-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-8": {
+  "v": 2,
+  "page": 13,
+  "note": "Desarrollo de capacidades públicas en medicamentos, productos sanitarios e investigación farmacéutica."
+ },
+ "san-9": {
+  "v": -2,
+  "page": 13,
+  "note": "Prohíbe nuevos conciertos y propone gestión pública directa en sanidad."
+ },
+ "san-10": {
+  "v": 1,
+  "page": 13,
+  "note": "Plantillas suficientes y estables en sanidad; no menciona MIR ni condiciones concretas."
+ },
+ "edu-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-9": {
+  "v": 2,
+  "page": 13,
+  "note": "Descenso de las ratios de alumnos por aula."
+ },
+ "edu-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-11": {
+  "v": 2,
+  "page": 14,
+  "note": "Gratuidad educativa que incluye materiales, transporte y comedor."
+ },
+ "igu-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-8": {
+  "v": 2,
+  "page": 17,
+  "note": "Rechazo de la gestación subrogada y persecución de las agencias que la intermedian."
+ },
+ "igu-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-10": {
+  "v": -1,
+  "page": 17,
+  "note": "Defiende derechos específicos para mujeres trabajadoras, como jornada completa y permisos."
+ },
+ "inm-9": {
+  "v": -1,
+  "page": 20,
+  "note": "Propone regularización permanente; no menciona un límite anual de entradas."
+ },
+ "inm-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-11": {
+  "v": 1,
+  "page": 21,
+  "note": "Mismos derechos para trabajadores migrantes; no menciona el empadronamiento."
+ },
+ "inm-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-8": {
+  "v": 2,
+  "page": 15,
+  "note": "Servicios públicos, transporte y conectividad en el medio rural con los mismos derechos que en las ciudades."
+ },
+ "rur-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-12": {
+  "v": -1,
+  "page": 20,
+  "note": "Propone derogar los delitos de opinión; no menciona el artículo 155 ni la sedición."
+ },
+ "ins-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-13": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-14": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-15": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-11": {
+  "v": 1,
+  "page": 15,
+  "note": "Conectividad en el medio rural como condición para vivir con los mismos derechos que en las ciudades."
+ },
+ "cul-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ }
+}

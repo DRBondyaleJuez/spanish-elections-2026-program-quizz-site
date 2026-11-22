@@ -78,15 +78,15 @@ Se publica con **GitHub Pages**. No hay paso de compilación: HTML + CSS + JS no
 ## Fase 7b — Programas añadidos después de la primera versión
 - [x] Democracia 21 (`d21`), EH Bildu (`ehbildu`, archivo `PROGRAMA-CAS.pdf`), Drago Canarias (`drago`) y Unidad del Pueblo Canario (`upc`): texto extraído, `topicMap`, resumen, posturas y 100 preguntas cada uno (mínimo 60-70 si el programa es corto). Procedimiento reutilizable en AGENTS.md §10.
 
-## Fase 7c — Cinco programas nuevos (EN CURSO · se puede retomar en otra sesión)
+## Fase 7c — Cinco programas nuevos ✅
 Si se corta la sesión, seguir esta lista: cada casilla se puede hacer por separado. Procedimiento en AGENTS.md §10.
 Registro y texto extraído: ✅ BNG (`bng`, en gallego), PACMA (`pacma`), PCTE (`pcte`), Por un Mundo Más Justo (`mmj`, siglas M+J), Frente Obrero (`frenteobrero`, siglas F. Obr.). Fichas provisionales en `data/coalitions.json`.
-- [ ] `bng`: resumen + 100 preguntas (Sonnet) · [ ] 160 posturas (Haiku)
-- [ ] `pacma`: resumen + 100 preguntas (Sonnet) · [ ] 160 posturas (Haiku)
-- [ ] `pcte`: resumen + preguntas (Sonnet; programa corto, mínimo 60) · [ ] 160 posturas (Haiku)
-- [ ] `mmj`: resumen + 100 preguntas (Sonnet) · [ ] 160 posturas (Haiku)
-- [ ] `frenteobrero`: resumen + 100 preguntas (Sonnet) · [ ] 160 posturas (Haiku)
-- [ ] Integrar: `merge_stances.py`, `build_glossary.py`, `build_concepts.py` (añadir variantes en gallego a `data/concepts/terms.json`), `validate.py`, `check_pages.py`, `affinity_report.py`; revisar fichas de coalición; `topicMap` (opcional); probar en el navegador; commit + push.
+- [x] `bng`: resumen + 100 preguntas (Sonnet) · [x] 160 posturas (Haiku)
+- [x] `pacma`: resumen + 100 preguntas (Sonnet) · [x] 160 posturas (Haiku)
+- [x] `pcte`: resumen + preguntas (Sonnet; programa corto, mínimo 60) · [x] 160 posturas (Haiku)
+- [x] `mmj`: resumen + 100 preguntas (Sonnet) · [x] 160 posturas (Haiku)
+- [x] `frenteobrero`: resumen + 100 preguntas (Sonnet) · [x] 160 posturas (Haiku)
+- [x] Integrar: `merge_stances.py`, `build_glossary.py`, `build_concepts.py` (añadir variantes en gallego a `data/concepts/terms.json`), `validate.py`, `check_pages.py`, `affinity_report.py`; revisar fichas de coalición; `topicMap` (opcional); probar en el navegador; commit + push. → hecho (19/19 perfiles ficticios correctos; `topicMap` queda vacío, es opcional).
 
 > **Orden de trabajo sugerido** (quedan pocos días para el 29N): 8 → 12 (menú desplegable, porque aloja los enlaces nuevos) → 9 → 11 → 10 → 13. Cada fase deja la web funcionando y se publica sola con `git push`.
 

@@ -1,0 +1,2387 @@
+[
+ {
+  "id": "mmj-vivienda-001",
+  "doc": "mmj",
+  "topic": "vivienda",
+  "type": "tf",
+  "question": "Según M+J, el alquiler en el nuevo parque público de vivienda no superaría el 30% de la renta familiar.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es verdadero. Las personas inquilinas pagarían un alquiler en función de su renta, revisado cada año al alza o a la baja, y nunca superior al 30% de los ingresos de la familia.",
+  "tip": "Piensa en un tope relacionado con los ingresos del hogar.",
+  "source": {
+   "doc": "mmj",
+   "page": 5,
+   "section": "Eje 01 · Vivienda · medida 1"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-vivienda-002",
+  "doc": "mmj",
+  "topic": "vivienda",
+  "type": "tf",
+  "question": "M+J propone que las viviendas protegidas puedan venderse a precio de mercado pasado un tiempo.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Es falso. M+J quiere que la vivienda protegida mantenga esa calificación de forma permanente y que su precio máximo de venta se actualice solo con el IPC, sin seguir al mercado inmobiliario.",
+  "tip": "La palabra clave de la medida es 'permanente'.",
+  "source": {
+   "doc": "mmj",
+   "page": 7,
+   "section": "Eje 01 · Vivienda · medida 2"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-vivienda-003",
+  "doc": "mmj",
+  "topic": "vivienda",
+  "type": "tf",
+  "question": "M+J propone prohibir la venta de viviendas públicas en alquiler a empresas privadas, sea cual sea la fórmula jurídica.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es verdadero. El programa prohíbe vender, ceder o transferir viviendas públicas de alquiler a empresas privadas para que sigan en el patrimonio público y se destinen a alquiler social y asequible.",
+  "tip": "Se busca que lo público siga siendo público.",
+  "source": {
+   "doc": "mmj",
+   "page": 7,
+   "section": "Eje 01 · Vivienda · medida 2"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-vivienda-004",
+  "doc": "mmj",
+  "topic": "vivienda",
+  "type": "tf",
+  "question": "M+J afirma que el Plan Estatal de Vivienda 2026-2030 ya moviliza más de 10.000 millones de euros estatales cada año.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Es falso. Según el programa, el Plan actual moviliza 7.000 millones en cinco años, de los cuales 4.200 son estatales; M+J propone un esfuerzo estatal de 10.000 a 15.000 millones al año, unas 12-18 veces superior.",
+  "tip": "Compara la cifra anual de la propuesta con la de todo el plan en cinco años.",
+  "source": {
+   "doc": "mmj",
+   "page": 6,
+   "section": "Eje 01 · Vivienda · El esfuerzo en cifras"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-vivienda-005",
+  "doc": "mmj",
+  "topic": "vivienda",
+  "type": "single",
+  "question": "¿Qué porcentaje del parque de vivienda quiere alcanzar M+J en alquiler social y asequible permanente en 2030?",
+  "options": [
+   "20%",
+   "5%",
+   "2%",
+   "10%"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "El objetivo es pasar del 1,1% actual al 5% en 2030 (al menos 1,35 millones de viviendas), como primera etapa hacia un 10% en la década siguiente.",
+  "tip": "El 10% es la etapa siguiente, no la de 2030.",
+  "source": {
+   "doc": "mmj",
+   "page": 5,
+   "section": "Eje 01 · Vivienda · medida 1"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-vivienda-006",
+  "doc": "mmj",
+  "topic": "vivienda",
+  "type": "single",
+  "question": "¿Cómo serían los contratos de alquiler de vivienda habitual que propone M+J?",
+  "options": [
+   "Indefinidos, con fin solo por necesidad acreditada del propietario o incumplimiento del inquilino",
+   "De un año como máximo para evitar abusos",
+   "De duración libre pactada entre las partes",
+   "De cinco años de duración mínima, prorrogables"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Serían indefinidos. Solo terminarían por necesidad acreditada de la vivienda para el propietario o sus familiares directos, o por incumplimiento del inquilino. La venta no extingue el contrato y el inquilino tendría derecho preferente de compra.",
+  "tip": "El contrato no tendría fecha de fin automática.",
+  "source": {
+   "doc": "mmj",
+   "page": 8,
+   "section": "Eje 01 · Vivienda · medida 4"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-vivienda-007",
+  "doc": "mmj",
+  "topic": "vivienda",
+  "type": "single",
+  "question": "En los nuevos desarrollos urbanísticos, ¿qué ocurriría si la propiedad no desarrolla sus parcelas en el plazo fijado?",
+  "options": [
+   "Perderían la propiedad sin compensación",
+   "La Administración podría desarrollarlas para vivienda pública, adquiriéndolas por el valor del suelo según su derecho",
+   "El plazo se ampliaría automáticamente",
+   "Solo se les impondría una multa económica"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "M+J propone que la Administración pueda desarrollar esas parcelas y destinarlas a vivienda pública, comprándolas al valor del suelo según su derecho, con solo justificar el incumplimiento del plazo.",
+  "tip": "Hay compensación, pero a valor de suelo.",
+  "source": {
+   "doc": "mmj",
+   "page": 11,
+   "section": "Eje 01 · Vivienda · medida 10"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-vivienda-008",
+  "doc": "mmj",
+  "topic": "vivienda",
+  "type": "single",
+  "question": "¿Qué esfuerzo presupuestario estatal anual recomienda el programa para alcanzar el 5% de parque social en 2030?",
+  "options": [
+   "Más de 50.000 millones de euros",
+   "Entre 10.000 y 15.000 millones de euros",
+   "Entre 1.000 y 2.000 millones de euros",
+   "4.200 millones de euros en total"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "La tabla del programa recomienda 10.000-15.000 millones de euros al año de esfuerzo estatal para llegar al 5% en 2030, y 8.000-12.000 millones al año para el 10% en 2035.",
+  "tip": "Es varias veces mayor que lo que aporta hoy el Estado.",
+  "source": {
+   "doc": "mmj",
+   "page": 6,
+   "section": "Eje 01 · Vivienda · El esfuerzo en cifras"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-vivienda-009",
+  "doc": "mmj",
+  "topic": "vivienda",
+  "type": "multi",
+  "question": "Marca las medidas contra la especulación que propone M+J.",
+  "options": [
+   "Tributación extraordinaria a la acumulación de viviendas, sobre todo turísticas",
+   "Un régimen especial para personas extranjeras que compren o alquilen viviendas por encima de un precio límite",
+   "Un impuesto creciente según el número de viviendas compradas",
+   "IVA del 4% en la primera vivienda",
+   "Prohibir toda compra de vivienda a personas extranjeras"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "El programa propone un régimen impositivo exponencial al número de compras, fiscalidad extraordinaria a la acumulación y un régimen especial para extranjeros en viviendas de precio alto. No prohíbe toda compra ni propone un IVA reducido.",
+  "tip": "Son medidas fiscales, no prohibiciones totales.",
+  "source": {
+   "doc": "mmj",
+   "page": 10,
+   "section": "Eje 01 · Vivienda · medida 8"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-vivienda-010",
+  "doc": "mmj",
+  "topic": "vivienda",
+  "type": "multi",
+  "question": "Marca las garantías que M+J ofrece a quienes alquilan una o dos viviendas como personas físicas.",
+  "options": [
+   "Compensaciones públicas si dependen de la renta y se aplica una protección frente a desahucios",
+   "Incentivos y garantías públicas si ponen en alquiler viviendas vacías",
+   "Una deducción del 20% por ahorrar para comprar",
+   "Eliminar los impuestos sobre las rentas del alquiler",
+   "Un seguro público de alquiler que cubra impagos y desperfectos"
+  ],
+  "answer": [
+   0,
+   1,
+   4
+  ],
+  "explanation": "El seguro público cubre a propietarios que alquilen a un precio igual o inferior al de referencia, y se prevén compensaciones y garantías para pequeñas propietarias. No se propone eliminar impuestos ni una hucha de ahorro.",
+  "tip": "Todas las medidas protegen a la pequeña propietaria sin dejar de proteger al inquilino.",
+  "source": {
+   "doc": "mmj",
+   "page": 9,
+   "section": "Eje 01 · Vivienda · medida 5"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-vivienda-011",
+  "doc": "mmj",
+  "topic": "vivienda",
+  "type": "which_party",
+  "question": "¿Qué partido propone prohibir la venta de suelo público y la monetización de los aprovechamientos urbanísticos?",
+  "options": [
+   "pp",
+   "mmj",
+   "vox",
+   "cc"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "M+J propone prohibir vender suelo público, con financiación extraordinaria a los ayuntamientos para compensarlo. No lo plantean PP, Vox ni CC en sus programas.",
+  "tip": "La medida protege el patrimonio de suelo de las administraciones.",
+  "source": {
+   "doc": "mmj",
+   "page": 8,
+   "section": "Eje 01 · Vivienda · medida 3"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-vivienda-012",
+  "doc": "mmj",
+  "topic": "vivienda",
+  "type": "which_not",
+  "question": "¿Cuál de estas propuestas NO está en el programa de M+J?",
+  "options": [
+   "Crear una Oficina pública de defensa habitacional",
+   "Crear un censo de viviendas vacías",
+   "Eliminar el límite de precio y las zonas de alquiler regulado",
+   "Crear una Agencia Pública de Información y Protección de la persona inquilina"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "M+J propone al contrario: un alquiler de referencia con límite de precio. Sí propone el censo de vivienda vacía, la agencia pública para inquilinos y la oficina de defensa habitacional.",
+  "tip": "Una de las opciones va en contra de la regulación del alquiler.",
+  "source": {
+   "doc": "mmj",
+   "page": 8,
+   "section": "Eje 01 · Vivienda · medida 4"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-empleo-001",
+  "doc": "mmj",
+  "topic": "empleo",
+  "type": "tf",
+  "question": "M+J propone reducir progresivamente la jornada laboral a 35 horas semanales sin reducción salarial.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es verdadero. La reducción se adaptaría a las características de cada sector, con apoyos para las pequeñas empresas que lo necesiten; hoy el máximo legal es de 40 horas.",
+  "tip": "Es una reducción de horas, no de sueldo.",
+  "source": {
+   "doc": "mmj",
+   "page": 29,
+   "section": "Eje 08 · Trabajo digno · medida 2"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-empleo-002",
+  "doc": "mmj",
+  "topic": "empleo",
+  "type": "tf",
+  "question": "Según M+J, las ayudas a la contratación juvenil deben concederse con cualquier tipo de contrato.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Es falso. M+J propone conceder esas ayudas solo cuando el contrato sea estable y acabar con el encadenamiento de becas y contratos temporales.",
+  "tip": "Las ayudas se vinculan a la calidad del contrato.",
+  "source": {
+   "doc": "mmj",
+   "page": 22,
+   "section": "Eje 05 · Jóvenes · medida 2"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-empleo-003",
+  "doc": "mmj",
+  "topic": "empleo",
+  "type": "tf",
+  "question": "M+J propone ampliar los periodos que cuentan como cotizados para la jubilación por criar menores o atender a familiares dependientes.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es verdadero. Busca que los cuidados, asumidos mayoritariamente por mujeres, no se traduzcan en pensiones más bajas ni en pobreza en la vejez.",
+  "tip": "Reconoce el trabajo de cuidados en la pensión.",
+  "source": {
+   "doc": "mmj",
+   "page": 30,
+   "section": "Eje 08 · Trabajo digno · medida 7"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-empleo-004",
+  "doc": "mmj",
+  "topic": "empleo",
+  "type": "single",
+  "question": "¿Qué garantiza M+J a quien denuncie explotación laboral?",
+  "options": [
+   "Protección independientemente de su situación administrativa, y facilidades para recuperar salarios y derechos",
+   "Una indemnización fija de seis meses de salario",
+   "Protección solo si tiene permiso de trabajo",
+   "El anonimato absoluto sin posibilidad de juicio"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "El programa propone proteger a las personas trabajadoras que denuncien irregularidades, sea cual sea su situación administrativa, y facilitar la recuperación de los salarios y derechos vulnerados.",
+  "tip": "La situación administrativa no debe ser un obstáculo para denunciar.",
+  "source": {
+   "doc": "mmj",
+   "page": 30,
+   "section": "Eje 08 · Trabajo digno · medida 4"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-empleo-005",
+  "doc": "mmj",
+  "topic": "empleo",
+  "type": "single",
+  "question": "¿A partir de qué edad se dirige el Plan Estatal de Empleo Sénior que propone M+J?",
+  "options": [
+   "50 años",
+   "60 años",
+   "55 años",
+   "45 años"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "El plan prevé incentivos a la contratación estable de mayores de 50 años, formación y recualificación y medidas contra el edadismo laboral.",
+  "tip": "Es una edad redonda que no llega a la de jubilación anticipada.",
+  "source": {
+   "doc": "mmj",
+   "page": 16,
+   "section": "Eje 03 · Mayores · medida 2"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-empleo-006",
+  "doc": "mmj",
+  "topic": "empleo",
+  "type": "multi",
+  "question": "Marca las medidas que propone M+J para autónomos y pymes en materia de pagos y derechos.",
+  "options": [
+   "Un registro público de administraciones y grandes empresas que paguen tarde de forma reiterada",
+   "Subir la cuota de los tramos bajos de cotización",
+   "Intereses de demora automáticos si la Administración paga después de 30 días",
+   "Eliminar la prestación por cese de actividad",
+   "Cobrar la baja por enfermedad desde el primer día para quien sea autónomo de verdad"
+  ],
+  "answer": [
+   0,
+   2,
+   4
+  ],
+  "explanation": "El programa propone intereses automáticos, un registro público con sanciones y baja desde el primer día. Al contrario de las dos últimas opciones, quiere facilitar el cese de actividad y abaratar los tramos bajos.",
+  "tip": "Todas las medidas buscan que el autónomo cobre a tiempo y esté protegido.",
+  "source": {
+   "doc": "mmj",
+   "page": 33,
+   "section": "Eje 09 · Autónomos · medidas 3 y 4"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-empleo-007",
+  "doc": "mmj",
+  "topic": "empleo",
+  "type": "which_party",
+  "question": "¿Qué partido propone reducir la jornada laboral a 35 horas semanales sin reducción salarial?",
+  "options": [
+   "pp",
+   "vox",
+   "salf",
+   "mmj"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "Lo propone M+J. PP, Vox y SALF no plantean esta reducción en sus programas.",
+  "tip": "Es una medida de reparto del tiempo de trabajo.",
+  "source": {
+   "doc": "mmj",
+   "page": 29,
+   "section": "Eje 08 · Trabajo digno · medida 2"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-empleo-008",
+  "doc": "mmj",
+  "topic": "empleo",
+  "type": "which_not",
+  "question": "¿Cuál de estas propuestas NO figura en el programa de M+J?",
+  "options": [
+   "Presumir la relación laboral en las plataformas digitales al transponer la directiva europea",
+   "Prácticas siempre remuneradas y con tutoría real",
+   "Transmitir las subidas del SMI a las distintas categorías salariales en los convenios",
+   "Reducir el Salario Mínimo Interprofesional para facilitar la contratación juvenil"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "M+J no propone reducir el SMI; propone que sus subidas se trasladen a otras categorías mediante cláusulas de revisión en la negociación colectiva.",
+  "tip": "Una de las opciones empeoraría los salarios.",
+  "source": {
+   "doc": "mmj",
+   "page": 30,
+   "section": "Eje 08 · Trabajo digno · medida 6"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-economia-001",
+  "doc": "mmj",
+  "topic": "economia",
+  "type": "tf",
+  "question": "M+J propone una tributación efectiva mínima del 3% sobre el patrimonio neto superior a 50 millones de euros.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es verdadero. Se haría con un gravamen complementario en el Impuesto de Solidaridad sobre las Grandes Fortunas, inspirado en la propuesta de Gabriel Zucman, sin exenciones ni bonificaciones.",
+  "tip": "Solo afecta a patrimonios muy grandes.",
+  "source": {
+   "doc": "mmj",
+   "page": 27,
+   "section": "Eje 07 · Fiscalidad justa · medida 5"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-economia-002",
+  "doc": "mmj",
+  "topic": "economia",
+  "type": "tf",
+  "question": "M+J propone eliminar el Impuesto de Solidaridad sobre las Grandes Fortunas.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Es falso. M+J propone mantenerlo como garantía de equidad territorial frente a la competencia fiscal entre comunidades autónomas.",
+  "tip": "Se mantiene el impuesto, y además se complementa.",
+  "source": {
+   "doc": "mmj",
+   "page": 27,
+   "section": "Eje 07 · Fiscalidad justa · medida 4"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-economia-003",
+  "doc": "mmj",
+  "topic": "economia",
+  "type": "single",
+  "question": "¿Cuánto propone M+J aumentar los recursos de la Agencia Tributaria para la lucha contra el fraude?",
+  "options": [
+   "Un 20%",
+   "Un 100%",
+   "Al menos un 40%",
+   "Un 10%"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "El programa plantea aumentar al menos un 40% los recursos humanos y materiales destinados a inspección, investigación y control del fraude, con especial atención a grandes fortunas y empresas.",
+  "tip": "Es un aumento notable pero no un duplicado.",
+  "source": {
+   "doc": "mmj",
+   "page": 26,
+   "section": "Eje 07 · Fiscalidad justa · medida 2"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-economia-004",
+  "doc": "mmj",
+  "topic": "economia",
+  "type": "single",
+  "question": "¿Qué exige la Directiva europea de diligencia debida que M+J quiere aplicar de forma ambiciosa?",
+  "options": [
+   "Que las empresas cotizen más impuestos en el extranjero",
+   "Que las empresas financieras queden exentas de controles",
+   "Que las empresas identifiquen y respondan por los impactos de su actividad en derechos humanos y medio ambiente en toda su cadena de valor",
+   "Que las pymes publiquen sus cuentas cada mes"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "M+J pide exigir a las empresas, incluidas las financieras, que identifiquen, prevengan, mitiguen y respondan por los impactos negativos dentro y fuera de Europa.",
+  "tip": "Habla de derechos humanos y medio ambiente en la cadena de producción.",
+  "source": {
+   "doc": "mmj",
+   "page": 34,
+   "section": "Eje 10 · Industria · medida 2"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-economia-005",
+  "doc": "mmj",
+  "topic": "economia",
+  "type": "single",
+  "question": "¿Qué referencia propone M+J para medir 'lo suficiente' y orientar las políticas públicas?",
+  "options": [
+   "Un índice de precios de lo suficiente basado en una cesta de bienes necesarios para una vida digna",
+   "La renta media de cada comunidad autónoma",
+   "El índice de precios de los alimentos",
+   "El crecimiento del PIB trimestral"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Propone un índice de precios de lo suficiente, pudiendo usar como referencia el Presupuesto de Referencia para unas Condiciones de Vida Dignas (FOESSA y Cáritas). Es parte de una economía de la suficiencia.",
+  "tip": "Se aleja del PIB como única medida del éxito.",
+  "source": {
+   "doc": "mmj",
+   "page": 35,
+   "section": "Eje 10 · Industria · medida 7"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-economia-006",
+  "doc": "mmj",
+  "topic": "economia",
+  "type": "multi",
+  "question": "Marca las medidas fiscales que propone M+J para las grandes empresas.",
+  "options": [
+   "Generalizar la tributación de beneficios extraordinarios",
+   "Reforzar el control sobre SICAV y ETVE",
+   "Limitar al 90% la exención por doble imposición",
+   "Eliminar la Tasa Google",
+   "Bajar el Impuesto de Sociedades a las grandes empresas"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "El programa propone gravar los beneficios extraordinarios, limitar la exención por doble imposición al 90% y controlar SICAV y ETVE. También quiere mantener y ampliar la Tasa Google, no eliminarla.",
+  "tip": "Todas aumentan la contribución de las grandes empresas.",
+  "source": {
+   "doc": "mmj",
+   "page": 27,
+   "section": "Eje 07 · Fiscalidad justa · medidas 6 y 7"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-economia-007",
+  "doc": "mmj",
+  "topic": "economia",
+  "type": "which_party",
+  "question": "¿Qué partido propone una tributación mínima del 3% sobre patrimonios netos superiores a 50 millones de euros, inspirada en Gabriel Zucman?",
+  "options": [
+   "cc",
+   "mmj",
+   "pnv",
+   "pp"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Es una propuesta de M+J. CC, PNV y PP no la incluyen en sus programas.",
+  "tip": "Lleva el nombre de un economista que estudia la desigualdad.",
+  "source": {
+   "doc": "mmj",
+   "page": 27,
+   "section": "Eje 07 · Fiscalidad justa · medida 5"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-economia-008",
+  "doc": "mmj",
+  "topic": "economia",
+  "type": "which_not",
+  "question": "¿Cuál de estas propuestas NO está en el programa de M+J?",
+  "options": [
+   "Equiparar la tributación de las rentas del capital y las del trabajo",
+   "Aprobar la Ley 1/2026 de impulso de la economía social",
+   "Que el autónomo nunca pague, en proporción, más que una gran empresa",
+   "Crear un impuesto único del 15% para todas las rentas"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "M+J propone progresividad y equiparar capital y trabajo, no un tipo único. Sí plantea equiparar rentas del capital y del trabajo, que el autónomo no tribute más que una gran empresa y aplicar la Ley 1/2026 de economía social.",
+  "tip": "Una opción contradice la progresividad que defiende el programa.",
+  "source": {
+   "doc": "mmj",
+   "page": 26,
+   "section": "Eje 07 · Fiscalidad justa · medida 1"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-pensiones-001",
+  "doc": "mmj",
+  "topic": "pensiones",
+  "type": "tf",
+  "question": "M+J propone reformar la Constitución para reconocer las pensiones públicas como derecho fundamental y prohibir su privatización.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es verdadero. Además, M+J forma parte de la Mesa Estatal por el Blindaje de las Pensiones (MERP).",
+  "tip": "Se trata de blindar las pensiones por vía constitucional.",
+  "source": {
+   "doc": "mmj",
+   "page": 24,
+   "section": "Eje 06 · Pensiones · medida 1"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-pensiones-002",
+  "doc": "mmj",
+  "topic": "pensiones",
+  "type": "tf",
+  "question": "M+J propone eliminar también el límite de la pensión máxima junto al tope de cotización.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Es falso. Propone eliminar progresivamente el tope máximo de cotización, pero manteniendo un límite en la pensión máxima.",
+  "tip": "Se elimina un tope, pero no el otro.",
+  "source": {
+   "doc": "mmj",
+   "page": 25,
+   "section": "Eje 06 · Pensiones · medida 3"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-pensiones-003",
+  "doc": "mmj",
+  "topic": "pensiones",
+  "type": "single",
+  "question": "¿Para qué propone M+J garantizar por ley una aportación estable de los Presupuestos Generales del Estado?",
+  "options": [
+   "Para reducir las cotizaciones de las empresas",
+   "Para subir la pensión máxima",
+   "Para financiar planes de pensiones privados",
+   "Para financiar el suelo de suficiencia"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "El programa plantea una aportación estable de los Presupuestos Generales para financiar el suelo de suficiencia de las pensiones.",
+  "tip": "Es un suelo, no un techo.",
+  "source": {
+   "doc": "mmj",
+   "page": 25,
+   "section": "Eje 06 · Pensiones · medida 5"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-pensiones-004",
+  "doc": "mmj",
+  "topic": "pensiones",
+  "type": "multi",
+  "question": "Según M+J, ¿quiénes se beneficiarían sobre todo de subir las pensiones mínimas y no contributivas?",
+  "options": [
+   "Quienes se jubilan de forma anticipada voluntaria",
+   "Personas que trabajaron sin contrato o en el campo",
+   "Quienes cotizaron siempre por la base máxima",
+   "Quienes enfermaron antes de tiempo",
+   "Muchas mujeres que dedicaron años a cuidar"
+  ],
+  "answer": [
+   1,
+   3,
+   4
+  ],
+  "explanation": "El programa cita carreras cortas, precarias o interrumpidas: mujeres cuidadoras, quienes trabajaron sin contrato o en el campo y quienes enfermaron antes de tiempo.",
+  "tip": "Piensa en carreras laborales cortas o interrumpidas.",
+  "source": {
+   "doc": "mmj",
+   "page": 24,
+   "section": "Eje 06 · Pensiones · medida 2"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-pensiones-005",
+  "doc": "mmj",
+  "topic": "pensiones",
+  "type": "which_party",
+  "question": "¿Qué partido propone crear una contribución a la Seguridad Social para empresas que generan mucho valor con poco empleo gracias a la automatización?",
+  "options": [
+   "salf",
+   "pp",
+   "mmj",
+   "vox"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "Es una propuesta de M+J. SALF, PP y Vox no la plantean.",
+  "tip": "Busca que la riqueza de la tecnología también financie las pensiones.",
+  "source": {
+   "doc": "mmj",
+   "page": 25,
+   "section": "Eje 06 · Pensiones · medida 4"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-pensiones-006",
+  "doc": "mmj",
+  "topic": "pensiones",
+  "type": "which_not",
+  "question": "¿Cuál de estas propuestas NO está en el programa de M+J?",
+  "options": [
+   "Prohibir la privatización de las pensiones públicas",
+   "Eliminar progresivamente el tope máximo de cotización",
+   "Subir progresivamente las pensiones mínimas y no contributivas",
+   "Introducir un sistema de capitalización individual obligatorio"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "M+J defiende un sistema público y quiere blindarlo; no propone capitalización individual obligatoria.",
+  "tip": "Una opción es contraria al modelo público.",
+  "source": {
+   "doc": "mmj",
+   "page": 24,
+   "section": "Eje 06 · Pensiones · medidas 1-3"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-sanidad-001",
+  "doc": "mmj",
+  "topic": "sanidad",
+  "type": "tf",
+  "question": "M+J propone aumentar la financiación de la Atención Primaria hasta al menos el 25% del gasto sanitario público.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es verdadero. La meta del programa pasa del 13,9% actual al 20% en 2028 y al 25% en 2030.",
+  "tip": "Es la parte del gasto dedicada al primer nivel de atención.",
+  "source": {
+   "doc": "mmj",
+   "page": 38,
+   "section": "Eje 11 · Sanidad pública · medida 2"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-sanidad-002",
+  "doc": "mmj",
+  "topic": "sanidad",
+  "type": "tf",
+  "question": "M+J propone limitar la atención sanitaria pública a las personas en situación administrativa irregular.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Es falso. Propone eliminar las barreras administrativas que dificultan el acceso a la atención sanitaria, especialmente para personas en situación administrativa irregular.",
+  "tip": "El programa defiende la universalidad.",
+  "source": {
+   "doc": "mmj",
+   "page": 37,
+   "section": "Eje 11 · Sanidad pública · medida 1"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-sanidad-003",
+  "doc": "mmj",
+  "topic": "sanidad",
+  "type": "tf",
+  "question": "M+J propone prohibir la publicidad de alimentos y bebidas poco saludables dirigida al público infantil, según criterios nutricionales de la OMS.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es verdadero. Afecta a productos con alto contenido en sodio, azúcares, edulcorantes, grasas y ácidos grasos saturados.",
+  "tip": "Se aplica a la publicidad dirigida a menores.",
+  "source": {
+   "doc": "mmj",
+   "page": 21,
+   "section": "Eje 04 · Infancia · medida 10"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-sanidad-004",
+  "doc": "mmj",
+  "topic": "sanidad",
+  "type": "single",
+  "question": "¿Qué dotación de profesionales de salud mental por 100.000 habitantes propone alcanzar M+J, igualando la media europea?",
+  "options": [
+   "50",
+   "30",
+   "100",
+   "80"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "M+J propone avanzar hacia 50 profesionales por 100.000 habitantes, frente a los 30 que tiene hoy España.",
+  "tip": "España está en 30.",
+  "source": {
+   "doc": "mmj",
+   "page": 41,
+   "section": "Eje 12 · Salud mental · medida 1"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-sanidad-005",
+  "doc": "mmj",
+  "topic": "sanidad",
+  "type": "single",
+  "question": "¿Qué propone M+J para quien manifiesta un sufrimiento intenso o solicita la eutanasia?",
+  "options": [
+   "Eliminar el derecho a solicitarla",
+   "Acceso voluntario y urgente a una valoración integral de cuidados paliativos, salud mental y apoyos a la dependencia",
+   "Derivarle a una consulta privada",
+   "Retrasar la tramitación hasta pasados seis meses"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "El programa pide que pueda acceder con urgencia a esa valoración integral, sin retrasar ni condicionar sus derechos, con evaluación pública anual del acceso real a esos cuidados.",
+  "tip": "Se busca que nadie pida morir por falta de cuidados.",
+  "source": {
+   "doc": "mmj",
+   "page": 44,
+   "section": "Eje 13 · Cuidar al principio y al final de la vida · medida 4"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-sanidad-006",
+  "doc": "mmj",
+  "topic": "sanidad",
+  "type": "single",
+  "question": "¿Cómo debe nacer, según M+J, el Estatuto Marco del Personal Estatutario de los Servicios de Salud?",
+  "options": [
+   "Mediante un referéndum entre profesionales",
+   "Por decisión del Ministerio de Sanidad sin consulta",
+   "A partir de la propuesta de las aseguradoras privadas",
+   "Del diálogo y el acuerdo con todos los colectivos profesionales y las comunidades autónomas"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "M+J quiere que nazca del diálogo y el acuerdo con todos los colectivos y las comunidades autónomas, reconociendo las particularidades de cada profesión.",
+  "tip": "Pone el acento en el consenso.",
+  "source": {
+   "doc": "mmj",
+   "page": 38,
+   "section": "Eje 11 · Sanidad pública · medida 3"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-sanidad-007",
+  "doc": "mmj",
+  "topic": "sanidad",
+  "type": "multi",
+  "question": "Marca las medidas sobre cuidados paliativos que propone M+J.",
+  "options": [
+   "Equipos interdisciplinares, incluida la atención domiciliaria",
+   "Comunidades compasivas para acompañar a pacientes y familias",
+   "Una ley estatal que armonice derechos y garantías en todo el territorio",
+   "Limitar los paliativos a la atención hospitalaria",
+   "Copago en los cuidados paliativos hospitalarios"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "El programa propone una ley estatal, equipos interdisciplinares con atención domiciliaria y comunidades compasivas. Hoy solo accede alrededor del 40% de quienes los necesitan y M+J quiere acceso universal en 2030.",
+  "tip": "Buscan equidad en todo el territorio.",
+  "source": {
+   "doc": "mmj",
+   "page": 39,
+   "section": "Eje 11 · Sanidad pública · medida 6"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-sanidad-008",
+  "doc": "mmj",
+  "topic": "sanidad",
+  "type": "multi",
+  "question": "Marca las medidas sobre adicciones y salud mental infantojuvenil que propone M+J.",
+  "options": [
+   "Más recursos al Plan Nacional sobre Drogas, con prevención y educación en el ámbito escolar",
+   "Ingreso obligatorio de menores con consumo",
+   "Modelos de tratamiento personalizados, preferentemente ambulatorios",
+   "Psicólogos en los centros educativos y hospitales de día infantojuveniles",
+   "Eliminar la prevención en las escuelas"
+  ],
+  "answer": [
+   0,
+   2,
+   3
+  ],
+  "explanation": "M+J pide reforzar el Plan Nacional sobre Drogas y tratamientos ambulatorios personalizados, y psicología en los centros educativos y una red de hospitales de día infantojuveniles. No propone ingresos obligatorios.",
+  "tip": "Las medidas son preventivas y comunitarias.",
+  "source": {
+   "doc": "mmj",
+   "page": 38,
+   "section": "Eje 11 · Sanidad pública · medida 4"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-sanidad-009",
+  "doc": "mmj",
+  "topic": "sanidad",
+  "type": "which_not",
+  "question": "¿Cuál de estas propuestas NO figura en el programa de M+J?",
+  "options": [
+   "Un Estatuto Marco del Personal Estatutario",
+   "Una Estrategia Nacional de Fomento del Deporte contra el Sedentarismo",
+   "Consolidar la Agencia Estatal de Salud Pública",
+   "Introducir un copago sanitario universal"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "M+J defiende una sanidad universal y plantea frenar la privatización; no propone un copago universal.",
+  "tip": "Una de las opciones iría en contra del refuerzo de lo público.",
+  "source": {
+   "doc": "mmj",
+   "page": 39,
+   "section": "Eje 11 · Sanidad pública · medidas 3, 7 y 8"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-educacion-001",
+  "doc": "mmj",
+  "topic": "educacion",
+  "type": "tf",
+  "question": "M+J propone fijar por ley una jornada lectiva máxima de 23 horas semanales en Infantil, Primaria y Educación Especial.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es verdadero. En el resto de enseñanzas sería de 18 horas, para dejar tiempo a preparar clases, tutorías y coordinación docente.",
+  "tip": "Hay dos límites distintos según la etapa.",
+  "source": {
+   "doc": "mmj",
+   "page": 46,
+   "section": "Eje 14 · Educación · medida 2"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-educacion-002",
+  "doc": "mmj",
+  "topic": "educacion",
+  "type": "tf",
+  "question": "M+J propone suprimir la educación concertada.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Es falso. El programa apoya la coexistencia de la educación pública y la privada, concertada y no concertada, y reconoce la aportación social de la concertada en contextos de mayor precariedad.",
+  "tip": "El programa refuerza lo público sin cuestionar la coexistencia.",
+  "source": {
+   "doc": "mmj",
+   "page": 45,
+   "section": "Eje 14 · Educación · medida 1"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-educacion-003",
+  "doc": "mmj",
+  "topic": "educacion",
+  "type": "single",
+  "question": "¿Cuántas plazas computaría cada alumno con necesidades educativas especiales, según M+J?",
+  "options": [
+   "Tres plazas",
+   "Dos plazas",
+   "No computaría",
+   "Una plaza"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "M+J propone que el alumnado con necesidades educativas especiales compute como dos plazas, con reducciones adicionales en centros de especial complejidad.",
+  "tip": "Computa más que un alumno ordinario.",
+  "source": {
+   "doc": "mmj",
+   "page": 46,
+   "section": "Eje 14 · Educación · medida 3"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-educacion-004",
+  "doc": "mmj",
+  "topic": "educacion",
+  "type": "single",
+  "question": "¿Qué porcentaje del PIB propone M+J destinar a inversión pública en educación?",
+  "options": [
+   "5%",
+   "4%",
+   "Al menos el 6%",
+   "8%"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "El programa plantea llegar progresivamente al 6% del PIB (hoy 4,48%) mediante compromisos presupuestarios plurianuales.",
+  "tip": "El dato actual está en el 4,48%.",
+  "source": {
+   "doc": "mmj",
+   "page": 45,
+   "section": "Eje 14 · Educación · medida 1"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-educacion-005",
+  "doc": "mmj",
+  "topic": "educacion",
+  "type": "single",
+  "question": "¿Qué ajuste propone M+J en los requisitos de la beca única para estudiantes que viven de alquiler en una habitación?",
+  "options": [
+   "Darles una beca solo si trabajan",
+   "Adaptar los requisitos porque no siempre pueden empadronarse y eso no debe costarles la beca",
+   "Excluirlos de la beca",
+   "Exigir siempre el empadronamiento"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "El programa reconoce que quien vive de alquiler en una habitación no siempre puede empadronarse y propone adaptar los requisitos para que no pierda la beca.",
+  "tip": "Se trata de una realidad que dificulta algunos trámites.",
+  "source": {
+   "doc": "mmj",
+   "page": 23,
+   "section": "Eje 05 · Jóvenes · medida 3"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-educacion-006",
+  "doc": "mmj",
+  "topic": "educacion",
+  "type": "multi",
+  "question": "Marca las medidas económicas de acceso a la educación que propone M+J.",
+  "options": [
+   "Reforzar las ayudas de comedor, transporte y material escolar",
+   "Simplificar la tramitación de becas y ayudas",
+   "Avanzar hacia la gratuidad universal de la Educación Infantil de 0 a 3 años",
+   "Matrícula universitaria gratuita para todos",
+   "Un cheque escolar para elegir centro"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "El programa propone reforzar becas y ayudas de comedor, transporte y material, avanzar hacia la gratuidad de 0 a 3 años y simplificar los trámites. No propone matrícula universitaria gratuita ni cheque escolar.",
+  "tip": "Se centra en eliminar barreras económicas y administrativas.",
+  "source": {
+   "doc": "mmj",
+   "page": 46,
+   "section": "Eje 14 · Educación · medida 4"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-educacion-007",
+  "doc": "mmj",
+  "topic": "educacion",
+  "type": "which_party",
+  "question": "¿Qué partido propone reducir las ratios a 20 estudiantes por aula en Infantil y Primaria y 25 en ESO y Bachillerato?",
+  "options": [
+   "pp",
+   "mmj",
+   "vox",
+   "salf"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Es una propuesta de M+J. PP, Vox y SALF no recogen esos límites de ratios.",
+  "tip": "Se acompaña de un orientador por cada 250 estudiantes.",
+  "source": {
+   "doc": "mmj",
+   "page": 46,
+   "section": "Eje 14 · Educación · medida 3"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-educacion-008",
+  "doc": "mmj",
+  "topic": "educacion",
+  "type": "which_not",
+  "question": "¿Cuál de estas propuestas NO figura en el programa de M+J?",
+  "options": [
+   "Un cheque escolar para elegir centro con fondos públicos",
+   "Una beca única y sencilla para todo el Estado",
+   "Un Plan Estatal de Inclusión Educativa con financiación propia",
+   "Una Estrategia Estatal de Educación para la Ciudadanía y la Justicia Global"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "M+J no propone el cheque escolar: quiere reforzar los centros públicos y asegurar que todos los centros con fondos públicos cumplan gratuidad, equidad y no discriminación.",
+  "tip": "Una opción promueve la elección privada.",
+  "source": {
+   "doc": "mmj",
+   "page": 45,
+   "section": "Eje 14 · Educación · medida 1"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-igualdad-001",
+  "doc": "mmj",
+  "topic": "igualdad",
+  "type": "tf",
+  "question": "M+J propone una protección económica y social estable y prolongada para los huérfanos y huérfanas de la violencia de género.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es verdadero. Forma parte de las medidas para garantizar autonomía económica y protección social a las víctimas.",
+  "tip": "Es una medida de apoyo a los hijos de las víctimas.",
+  "source": {
+   "doc": "mmj",
+   "page": 79,
+   "section": "Eje 27 · Igualdad de género · medida 2"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-igualdad-002",
+  "doc": "mmj",
+  "topic": "igualdad",
+  "type": "tf",
+  "question": "M+J propone regular la prostitución como una actividad laboral más.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Es falso. Propone avanzar hacia la abolición de la prostitución, garantizando que quienes la ejercen no queden desprotegidas y facilitando alternativas de empleo digno.",
+  "tip": "El objetivo declarado es abolirla.",
+  "source": {
+   "doc": "mmj",
+   "page": 79,
+   "section": "Eje 27 · Igualdad de género · medida 6"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-igualdad-003",
+  "doc": "mmj",
+  "topic": "igualdad",
+  "type": "single",
+  "question": "¿Cuántas medidas tiene el Pacto de Estado contra la Violencia de Género cuya aplicación quiere asegurar M+J?",
+  "options": [
+   "213",
+   "700",
+   "100",
+   "461"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "El programa pide asegurar la aplicación de las 461 medidas del Pacto, con la meta de tenerlas 100% aplicadas y evaluadas en 2030.",
+  "tip": "Es una cifra de tres cifras que supera las 400.",
+  "source": {
+   "doc": "mmj",
+   "page": 78,
+   "section": "Eje 27 · Igualdad de género · medida 1"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-igualdad-004",
+  "doc": "mmj",
+  "topic": "igualdad",
+  "type": "single",
+  "question": "¿Qué es la aporofobia, que M+J quiere reconocer y combatir?",
+  "options": [
+   "Rechazo o miedo a las personas pobres",
+   "Rechazo a las personas mayores",
+   "Rechazo a las personas extranjeras",
+   "Miedo a las multitudes"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "El programa la define como rechazo o miedo a las personas pobres y propone un Pacto de Estado contra los discursos de odio que la reconozca como un mal a combatir.",
+  "tip": "Viene de la palabra griega para 'pobre'.",
+  "source": {
+   "doc": "mmj",
+   "page": 13,
+   "section": "Eje 02 · Convivencia · medida 1"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-igualdad-005",
+  "doc": "mmj",
+  "topic": "igualdad",
+  "type": "multi",
+  "question": "Marca las medidas de educación e igualdad que propone M+J.",
+  "options": [
+   "Hacer la educación en igualdad una asignatura optativa solo en Bachillerato",
+   "Incorporar al currículo común contenidos de coeducación y corresponsabilidad",
+   "Eliminar los protocolos contra el acoso escolar",
+   "Extender estas enseñanzas a la Formación Profesional y la universidad",
+   "Formación obligatoria en igualdad de género para profesionales que trabajan con personas"
+  ],
+  "answer": [
+   1,
+   3,
+   4
+  ],
+  "explanation": "M+J propone currículo común, extensión a FP y universidad y formación obligatoria para profesionales educativos, sanitarios, judiciales y de servicios sociales.",
+  "tip": "Se trata de ampliar, no de recortar.",
+  "source": {
+   "doc": "mmj",
+   "page": 79,
+   "section": "Eje 27 · Igualdad de género · medidas 4 y 5"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-igualdad-006",
+  "doc": "mmj",
+  "topic": "igualdad",
+  "type": "which_party",
+  "question": "¿Qué partido propone avanzar hacia la abolición de la prostitución?",
+  "options": [
+   "vox",
+   "pp",
+   "mmj",
+   "salf"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "M+J lo propone, con alternativas de empleo digno y acompañamiento social. Vox, PP y SALF no lo incluyen.",
+  "tip": "Se acompaña de protección para quien la ejerce.",
+  "source": {
+   "doc": "mmj",
+   "page": 79,
+   "section": "Eje 27 · Igualdad de género · medida 6"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-igualdad-007",
+  "doc": "mmj",
+  "topic": "igualdad",
+  "type": "which_not",
+  "question": "¿Cuál de estas propuestas NO figura en el programa de M+J?",
+  "options": [
+   "Abordar la pobreza menstrual",
+   "Mantener la prohibición de la gestación subrogada",
+   "Reforzar la Estrategia para la Inclusión Social de las Personas Trans",
+   "Legalizar la gestación subrogada con control público"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "M+J propone mantener la prohibición de la gestación subrogada como protección frente a la explotación reproductiva.",
+  "tip": "Una opción cambia la normativa actual.",
+  "source": {
+   "doc": "mmj",
+   "page": 79,
+   "section": "Eje 27 · Igualdad de género · medida 7"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-inmigracion-001",
+  "doc": "mmj",
+  "topic": "inmigracion",
+  "type": "tf",
+  "question": "M+J propone sustituir los Centros de Internamiento de Extranjeros (CIE) por alternativas abiertas y comunitarias.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es verdadero. Con acompañamiento social y jurídico y respetando la libertad y los derechos fundamentales.",
+  "tip": "Sustituir no es reformar.",
+  "source": {
+   "doc": "mmj",
+   "page": 51,
+   "section": "Eje 16 · Política migratoria · medida 5"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-inmigracion-002",
+  "doc": "mmj",
+  "topic": "inmigracion",
+  "type": "tf",
+  "question": "M+J propone que la regularización de migrantes sea una vía excepcional y limitada.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Es falso. Propone vías accesibles y permanentes de regularización, prevenir la irregularidad sobrevenida y reforzar las oficinas de extranjería.",
+  "tip": "El programa habla de vías permanentes.",
+  "source": {
+   "doc": "mmj",
+   "page": 52,
+   "section": "Eje 16 · Política migratoria · medida 6"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-inmigracion-003",
+  "doc": "mmj",
+  "topic": "inmigracion",
+  "type": "single",
+  "question": "¿Qué principio propone M+J para los procedimientos de determinación de la edad?",
+  "options": [
+   "Edad declarada por la policía",
+   "Presunción de minoría, con reconocimiento de la documentación válida del país de origen salvo prueba en contrario",
+   "Presunción de mayoría de edad",
+   "Pruebas médicas obligatorias en todos los casos"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Propone procedimientos con presunción de minoría, pleno derecho de defensa y reconocimiento de los documentos válidos del país de origen salvo prueba en contrario.",
+  "tip": "En caso de duda, la persona se considera menor.",
+  "source": {
+   "doc": "mmj",
+   "page": 52,
+   "section": "Eje 16 · Política migratoria · medida 5"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-inmigracion-004",
+  "doc": "mmj",
+  "topic": "inmigracion",
+  "type": "single",
+  "question": "¿Qué propuesta del Gobierno plantea M+J retirar de forma definitiva por restringir el acceso al asilo?",
+  "options": [
+   "La reforma del Código Penal",
+   "El proyecto de real decreto-ley sobre medidas extraordinarias para agilizar las solicitudes y recursos de protección internacional en Ceuta",
+   "La ley de memoria democrática",
+   "El Pacto Europeo de Migración y Asilo"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "M+J propone retirar el proyecto de real decreto-ley sobre Ceuta en los términos que restringen el acceso al asilo, el principio de no devolución y la tutela judicial.",
+  "tip": "Se refiere a una ciudad autónoma concreta.",
+  "source": {
+   "doc": "mmj",
+   "page": 51,
+   "section": "Eje 16 · Política migratoria · medida 4"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-inmigracion-005",
+  "doc": "mmj",
+  "topic": "inmigracion",
+  "type": "multi",
+  "question": "Marca las vías legales y seguras que propone M+J.",
+  "options": [
+   "Permisos de residencia y trabajo desde los países de origen",
+   "Visados solo para profesiones de alta cualificación",
+   "Mecanismos accesibles de reagrupación familiar",
+   "Un cupo máximo anual por nacionalidad",
+   "Corredores humanitarios y programas de reasentamiento"
+  ],
+  "answer": [
+   0,
+   2,
+   4
+  ],
+  "explanation": "El programa propone ampliar y agilizar permisos desde origen, corredores humanitarios, reasentamiento y reagrupación. No propone cupos por nacionalidad ni limitar los visados a perfiles muy cualificados.",
+  "tip": "Se amplían las vías, no se restringen.",
+  "source": {
+   "doc": "mmj",
+   "page": 51,
+   "section": "Eje 16 · Política migratoria · medida 2"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-inmigracion-006",
+  "doc": "mmj",
+  "topic": "inmigracion",
+  "type": "which_party",
+  "question": "¿Qué partido propone eliminar las devoluciones en caliente sin garantías y poner fin a la externalización de fronteras?",
+  "options": [
+   "pp",
+   "vox",
+   "cc",
+   "mmj"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "Es una propuesta de M+J. PP, Vox y CC no la plantean.",
+  "tip": "Propone una política común y digna con la UE.",
+  "source": {
+   "doc": "mmj",
+   "page": 51,
+   "section": "Eje 16 · Política migratoria · medidas 3 y 4"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-inmigracion-007",
+  "doc": "mmj",
+  "topic": "inmigracion",
+  "type": "which_not",
+  "question": "¿Cuál de estas propuestas NO figura en el programa de M+J?",
+  "options": [
+   "Reforzar Salvamento Marítimo",
+   "Reconocer participación política a las personas migrantes residentes",
+   "Acabar con la venta de citas de extranjería",
+   "Expulsar de forma inmediata a quien llegue irregularmente"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "M+J propone lo contrario: eliminar los rechazos fronterizos inmediatos y garantizar la identificación individual y el derecho de asilo.",
+  "tip": "Una opción contradice el principio de no devolución.",
+  "source": {
+   "doc": "mmj",
+   "page": 51,
+   "section": "Eje 16 · Política migratoria · medida 4"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-medioambiente-001",
+  "doc": "mmj",
+  "topic": "medioambiente",
+  "type": "tf",
+  "question": "M+J propone que todo barrio tenga un parque o zona verde a menos de 15 minutos a pie.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es verdadero. Además, cada municipio alcanzaría una cubierta arbórea urbana del 30%.",
+  "tip": "Es una medida de ciudad verde.",
+  "source": {
+   "doc": "mmj",
+   "page": 54,
+   "section": "Eje 17 · Emergencia climática · medida 4"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-medioambiente-002",
+  "doc": "mmj",
+  "topic": "medioambiente",
+  "type": "tf",
+  "question": "M+J propone aumentar los vuelos en las rutas que ya cuentan con alternativa ferroviaria.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Es falso. Propone reducir el transporte aéreo en rutas con alternativas ferroviarias y fomentar el tren entre países europeos.",
+  "tip": "El tren sustituye al avión.",
+  "source": {
+   "doc": "mmj",
+   "page": 59,
+   "section": "Eje 19 · Transición energética · medida 3"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-medioambiente-003",
+  "doc": "mmj",
+  "topic": "medioambiente",
+  "type": "single",
+  "question": "¿Qué reducción de emisiones para 2030 (respecto a 1990) respalda M+J?",
+  "options": [
+   "70%",
+   "55%",
+   "30%",
+   "45%"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Respalda el compromiso de la UE de reducir al menos un 55% las emisiones en 2030 y alcanzar la neutralidad de carbono en 2050.",
+  "tip": "Es el objetivo europeo.",
+  "source": {
+   "doc": "mmj",
+   "page": 53,
+   "section": "Eje 17 · Emergencia climática · medida 1"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-medioambiente-004",
+  "doc": "mmj",
+  "topic": "medioambiente",
+  "type": "single",
+  "question": "¿A qué destinaría M+J los rendimientos del Fondo Generacional de la Energía?",
+  "options": [
+   "A reducir la deuda pública exclusivamente",
+   "Solo a subvencionar a las eléctricas",
+   "A bajar el IVA de la luz",
+   "A financiar vivienda pública, rehabilitación energética y, a largo plazo, el sistema público de pensiones"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "El fondo público invertiría en generación renovable, almacenamiento e hidroeléctricas, y destinaría sus rendimientos a vivienda pública, rehabilitación energética y, a largo plazo, pensiones.",
+  "tip": "Combina energía, vivienda y pensiones.",
+  "source": {
+   "doc": "mmj",
+   "page": 59,
+   "section": "Eje 19 · Transición energética · medida 5"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-medioambiente-005",
+  "doc": "mmj",
+  "topic": "medioambiente",
+  "type": "single",
+  "question": "¿Qué propone M+J con el ecoetiquetado y la tasa sobre la huella ambiental de los productos?",
+  "options": [
+   "Prohibir los productos importados",
+   "Eliminar el IVA de los productos ecológicos",
+   "Subir el precio de todos los productos por igual",
+   "Informar del impacto ambiental e incluirlo en el precio, protegiendo a los hogares vulnerables frente a subidas en productos esenciales"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "Propone un ecoetiquetado, una tasa en función de la huella ambiental y medidas para proteger a los hogares vulnerables.",
+  "tip": "La medida incluye una protección social.",
+  "source": {
+   "doc": "mmj",
+   "page": 56,
+   "section": "Eje 18 · Cuidado del planeta · medida 4"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-medioambiente-006",
+  "doc": "mmj",
+  "topic": "medioambiente",
+  "type": "multi",
+  "question": "Marca las medidas sobre agua que propone M+J.",
+  "options": [
+   "Considerar el agua un bien público y no solo un producto comercial",
+   "Un Plan Nacional de Siembra de Agua y Restauración Hidrológica",
+   "Privatizar la gestión del agua urbana",
+   "Prevenir los cortes por incapacidad económica de hogares vulnerables",
+   "Construir trasvases entre todas las cuencas"
+  ],
+  "answer": [
+   0,
+   1,
+   3
+  ],
+  "explanation": "El programa defiende el agua como derecho humano y bien público, evitar cortes por impago a hogares vulnerables y un plan de siembra de agua. No propone privatizar ni trasvases.",
+  "tip": "El agua se plantea como derecho humano.",
+  "source": {
+   "doc": "mmj",
+   "page": 56,
+   "section": "Eje 18 · Cuidado del planeta · medida 5"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-medioambiente-007",
+  "doc": "mmj",
+  "topic": "medioambiente",
+  "type": "which_party",
+  "question": "¿Qué partido propone crear un Fondo Generacional de la Energía público?",
+  "options": [
+   "pp",
+   "vox",
+   "mmj",
+   "salf"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "Es una propuesta de M+J. PP, Vox y SALF no la incluyen.",
+  "tip": "Combina inversión en renovables y financiación de pensiones.",
+  "source": {
+   "doc": "mmj",
+   "page": 59,
+   "section": "Eje 19 · Transición energética · medida 5"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-medioambiente-008",
+  "doc": "mmj",
+  "topic": "medioambiente",
+  "type": "which_not",
+  "question": "¿Cuál de estas propuestas NO figura en el programa de M+J?",
+  "options": [
+   "Un ecoetiquetado ambiental de productos y servicios",
+   "Un Plan Estatal de Adaptación a la Emergencia Climática",
+   "Derogar la Ley de Restauración de la Naturaleza",
+   "Presupuestos de carbono anuales y un organismo independiente de verificación"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "M+J propone al contrario: desarrollar la Ley de Restauración de la Naturaleza, con una Red Estatal de Corredores Ecológicos.",
+  "tip": "Una opción va en contra de la restauración de ecosistemas.",
+  "source": {
+   "doc": "mmj",
+   "page": 55,
+   "section": "Eje 18 · Cuidado del planeta · medida 2"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-rural-001",
+  "doc": "mmj",
+  "topic": "rural",
+  "type": "tf",
+  "question": "M+J propone un plan de repoblación a cinco años de los territorios de la España Vaciada, en 23 provincias.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es verdadero. Incluye implantar empresas en las capitales de provincia y colaboración con ayuntamientos, diputaciones, cámaras de comercio, universidades y centros de FP.",
+  "tip": "El plan tiene un plazo de cinco años.",
+  "source": {
+   "doc": "mmj",
+   "page": 91,
+   "section": "Eje 32 · Repoblación rural · medida 1"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-rural-002",
+  "doc": "mmj",
+  "topic": "rural",
+  "type": "single",
+  "question": "¿Cuántos millones de hectáreas de agricultura ecológica propone M+J para 2030?",
+  "options": [
+   "3",
+   "4,5",
+   "10",
+   "6"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "El Plan Nacional de Agricultura Ecológica y Regenerativa quiere ampliar la superficie ecológica hasta 6 millones de hectáreas en 2030 (hoy 2,94 millones).",
+  "tip": "Es más del doble de la superficie actual.",
+  "source": {
+   "doc": "mmj",
+   "page": 55,
+   "section": "Eje 18 · Cuidado del planeta · medida 1"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-rural-003",
+  "doc": "mmj",
+  "topic": "rural",
+  "type": "single",
+  "question": "¿Qué herramienta propone M+J para reducir la vegetación combustible y recuperar pastizales?",
+  "options": [
+   "Abandonar la gestión del territorio",
+   "Sustituir el pastoreo por plantaciones intensivas",
+   "Quemas controladas masivas",
+   "Ganadería extensiva y grandes herbívoros y razas autóctonas"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "Propone impulsar la herbivoría de conservación y el pastoreo extensivo con seguimiento científico y compensaciones por servicios ambientales.",
+  "tip": "Se usan animales como gestores del territorio.",
+  "source": {
+   "doc": "mmj",
+   "page": 91,
+   "section": "Eje 32 · Repoblación rural · medida 2"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-rural-004",
+  "doc": "mmj",
+  "topic": "rural",
+  "type": "which_party",
+  "question": "¿Qué partido propone crear un Cuerpo Civil de Regeneración de la Naturaleza y Consejos Biorregionales?",
+  "options": [
+   "pp",
+   "vox",
+   "pnv",
+   "mmj"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "Es una propuesta de M+J: un programa de empleo verde para restauración de ecosistemas y prevención de incendios. PP, Vox y PNV no la incluyen.",
+  "tip": "Se trata de empleo verde juvenil y rural.",
+  "source": {
+   "doc": "mmj",
+   "page": 92,
+   "section": "Eje 32 · Repoblación rural · medida 3"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-instituciones-001",
+  "doc": "mmj",
+  "topic": "instituciones",
+  "type": "tf",
+  "question": "M+J propone mantener la elección parlamentaria de 8 vocales juristas del CGPJ y que los otros 12 los elijan directamente jueces y magistrados.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es verdadero. Los 8 vocales juristas serían elegidos 4 por el Congreso y 4 por el Senado; de los 12 de procedencia judicial, 6 entre candidaturas de asociaciones judiciales y 6 entre jueces no asociados.",
+  "tip": "Es un sistema mixto.",
+  "source": {
+   "doc": "mmj",
+   "page": 72,
+   "section": "Eje 24 · Buen gobierno · medida 1"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-instituciones-002",
+  "doc": "mmj",
+  "topic": "instituciones",
+  "type": "tf",
+  "question": "M+J propone mantener los aforamientos actuales.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Es falso. Propone reducirlos al mínimo imprescindible.",
+  "tip": "Se recortan privilegios procesales.",
+  "source": {
+   "doc": "mmj",
+   "page": 69,
+   "section": "Eje 23 · Calidad democrática · medida 2"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-instituciones-003",
+  "doc": "mmj",
+  "topic": "instituciones",
+  "type": "tf",
+  "question": "M+J propone que un alto cargo no pueda ser contratado por una empresa del sector de su responsabilidad durante al menos cinco años.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es verdadero. Es su medida contra las puertas giratorias; hoy la incompatibilidad es de dos años.",
+  "tip": "Se amplía de dos años a cinco.",
+  "source": {
+   "doc": "mmj",
+   "page": 73,
+   "section": "Eje 24 · Buen gobierno · medida 5"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-instituciones-004",
+  "doc": "mmj",
+  "topic": "instituciones",
+  "type": "single",
+  "question": "¿Cuándo propone M+J suspender del cargo a un representante por corrupción?",
+  "options": [
+   "Solo tras una condena firme",
+   "Cuando se acuerde la apertura de juicio oral, garantizando la presunción de inocencia",
+   "Cuando se abra cualquier investigación",
+   "Nunca, solo dimisión voluntaria"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Propone suspender del cargo cuando se acuerde la apertura de juicio oral, y la dimisión automática si hay condena firme.",
+  "tip": "Hay una etapa intermedia entre la investigación y la condena.",
+  "source": {
+   "doc": "mmj",
+   "page": 69,
+   "section": "Eje 23 · Calidad democrática · medida 2"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-instituciones-005",
+  "doc": "mmj",
+  "topic": "instituciones",
+  "type": "single",
+  "question": "¿Qué modelo de democracia directa cita M+J como inspiración al ampliar las consultas ciudadanas y referendos?",
+  "options": [
+   "El estadounidense",
+   "El de Suiza",
+   "El de Reino Unido",
+   "El de Francia"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "El programa propone facilitar las ILP y ampliar consultas y referendos sobre cuestiones de especial relevancia, inspirándose en la democracia suiza.",
+  "tip": "Es un país europeo muy asociado a las consultas.",
+  "source": {
+   "doc": "mmj",
+   "page": 70,
+   "section": "Eje 23 · Calidad democrática · medida 6"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-instituciones-006",
+  "doc": "mmj",
+  "topic": "instituciones",
+  "type": "multi",
+  "question": "Marca las medidas anticorrupción que propone M+J.",
+  "options": [
+   "Eliminar la Fiscalía Anticorrupción",
+   "Excluir de listas electorales y contratos públicos a condenados por corrupción",
+   "Reforzar el decomiso y la recuperación de activos de origen ilícito",
+   "Amnistiar a los condenados que devuelvan lo defraudado",
+   "Prohibir el indulto en los delitos de corrupción"
+  ],
+  "answer": [
+   1,
+   2,
+   4
+  ],
+  "explanation": "El programa propone prohibir el indulto, excluir de listas y contratos a los condenados y reforzar el decomiso, además de más medios para la Fiscalía Anticorrupción.",
+  "tip": "Todas las medidas endurecen el tratamiento de la corrupción.",
+  "source": {
+   "doc": "mmj",
+   "page": 69,
+   "section": "Eje 23 · Calidad democrática · medida 2"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-instituciones-007",
+  "doc": "mmj",
+  "topic": "instituciones",
+  "type": "which_party",
+  "question": "¿Qué partido propone eliminar los avales para que los partidos sin representación puedan presentar candidaturas al Congreso y al Senado?",
+  "options": [
+   "pp",
+   "vox",
+   "mmj",
+   "salf"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "M+J propone eliminar la obligación de avales introducida en 2011 para favorecer el pluralismo. PP, Vox y SALF no lo plantean en sus programas.",
+  "tip": "Se vuelve al sistema anterior a 2011.",
+  "source": {
+   "doc": "mmj",
+   "page": 69,
+   "section": "Eje 23 · Calidad democrática · medida 3"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-instituciones-008",
+  "doc": "mmj",
+  "topic": "instituciones",
+  "type": "which_party",
+  "question": "¿Qué partido propone crear una Comisión Nacional de Reconciliación Democrática, plural e independiente?",
+  "options": [
+   "vox",
+   "salf",
+   "mmj",
+   "cc"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "Es una propuesta de M+J, como espacio permanente de encuentro entre fuerzas políticas y sectores sociales.",
+  "tip": "Busca superar la polarización.",
+  "source": {
+   "doc": "mmj",
+   "page": 70,
+   "section": "Eje 23 · Calidad democrática · medida 7"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-instituciones-009",
+  "doc": "mmj",
+  "topic": "instituciones",
+  "type": "which_not",
+  "question": "¿Cuál de estas propuestas NO figura en el programa de M+J?",
+  "options": [
+   "Una nueva Ley de Secretos Oficiales",
+   "Reforzar la independencia de la Fiscalía General del Estado",
+   "Que todos los vocales del CGPJ los elija el Congreso",
+   "Una Ley de Integridad del Debate Público"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "M+J propone que 12 de los 20 vocales los elijan directamente jueces y magistrados; solo 8 los eligen las Cortes.",
+  "tip": "Una opción da más peso al Parlamento que la propuesta real.",
+  "source": {
+   "doc": "mmj",
+   "page": 72,
+   "section": "Eje 24 · Buen gobierno · medida 1"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-exterior-001",
+  "doc": "mmj",
+  "topic": "exterior",
+  "type": "tf",
+  "question": "M+J propone cumplir el 0,7% de la Renta Nacional Bruta como Ayuda Oficial al Desarrollo.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es verdadero. Hoy la ayuda es de alrededor del 0,27% de la RNB y el objetivo es el 0,7% en 2030.",
+  "tip": "Se trata de cumplir la ley de cooperación.",
+  "source": {
+   "doc": "mmj",
+   "page": 89,
+   "section": "Eje 31 · Cooperación internacional · medida 5"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-exterior-002",
+  "doc": "mmj",
+  "topic": "exterior",
+  "type": "tf",
+  "question": "M+J propone que el 20% de la ayuda oficial al desarrollo sea acción humanitaria.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Es falso. La acción humanitaria sería el 10% de la AOD; el 20% es la parte de ayuda que tendría la igualdad de género como objetivo principal.",
+  "tip": "Hay dos porcentajes distintos para dos objetivos distintos.",
+  "source": {
+   "doc": "mmj",
+   "page": 89,
+   "section": "Eje 31 · Cooperación internacional · medida 6"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-exterior-003",
+  "doc": "mmj",
+  "topic": "exterior",
+  "type": "single",
+  "question": "¿Qué ocurre, según el mecanismo del Consejo de Seguridad de la ONU que M+J quiere desarrollar, cada vez que se ejerce un veto?",
+  "options": [
+   "Se convoca una reunión de la OTAN",
+   "El veto se anula automáticamente",
+   "El Consejo repite la votación tras 24 horas",
+   "La Asamblea General debe reunirse y pronunciarse"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "Es el mecanismo aprobado en 2022 (Resolución 76/262): cada veto obliga a la Asamblea General a reunirse y pronunciarse.",
+  "tip": "Refuerza el peso del órgano con todos los países miembros.",
+  "source": {
+   "doc": "mmj",
+   "page": 66,
+   "section": "Eje 22 · Política exterior · medida 4"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-exterior-004",
+  "doc": "mmj",
+  "topic": "exterior",
+  "type": "single",
+  "question": "¿Cuánto dinero anual propone M+J destinar como mínimo a las ONGD a través de la AECID al terminar la legislatura?",
+  "options": [
+   "400 millones de euros",
+   "2.000 millones de euros",
+   "100 millones de euros",
+   "50 millones de euros"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "M+J propone destinar al menos 400 millones de euros anuales a las ONGD, por los instrumentos gestionados principalmente por la AECID.",
+  "tip": "Es una cifra de cuatro cientos millones.",
+  "source": {
+   "doc": "mmj",
+   "page": 89,
+   "section": "Eje 31 · Cooperación internacional · medida 3"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-exterior-005",
+  "doc": "mmj",
+  "topic": "exterior",
+  "type": "multi",
+  "question": "Marca las medidas sobre armas que propone M+J.",
+  "options": [
+   "Prohibir la exportación a países que vulneren sistemáticamente los derechos humanos",
+   "Subvencionar la industria armamentística nacional",
+   "Transparencia y control parlamentario previo de las autorizaciones de exportación",
+   "Aumentar el gasto militar al 3% del PIB",
+   "Prohibir la exportación de armas a países en guerra"
+  ],
+  "answer": [
+   0,
+   2,
+   4
+  ],
+  "explanation": "El programa propone aplicar el TCA y la normativa europea, prohibiendo exportar a países en guerra o que vulneren derechos y reforzando transparencia y control parlamentario previo.",
+  "tip": "Todas las medidas restringen el comercio de armas.",
+  "source": {
+   "doc": "mmj",
+   "page": 66,
+   "section": "Eje 22 · Política exterior · medida 3"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-exterior-006",
+  "doc": "mmj",
+  "topic": "exterior",
+  "type": "which_party",
+  "question": "¿Qué partido propone apoyar el 'Dividendo para la paz mundial', reduciendo un 2% el gasto militar en todos los países?",
+  "options": [
+   "pp",
+   "vox",
+   "pnv",
+   "mmj"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "Es una propuesta de M+J. PP, Vox y PNV no la incluyen.",
+  "tip": "Es una iniciativa internacional de reducción del gasto militar.",
+  "source": {
+   "doc": "mmj",
+   "page": 65,
+   "section": "Eje 22 · Política exterior · medida 2"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-exterior-007",
+  "doc": "mmj",
+  "topic": "exterior",
+  "type": "which_party",
+  "question": "¿Qué partido propone promover en la UE la suspensión del Acuerdo de Asociación con Israel?",
+  "options": [
+   "vox",
+   "salf",
+   "mmj",
+   "cc"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "Es una propuesta de M+J, por las graves violaciones de derechos humanos y del derecho internacional que atribuye a Israel, según el artículo 2 del Acuerdo.",
+  "tip": "Se apoya en el artículo 2 del Acuerdo.",
+  "source": {
+   "doc": "mmj",
+   "page": 66,
+   "section": "Eje 22 · Política exterior · medida 6"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-cultura-001",
+  "doc": "mmj",
+  "topic": "cultura",
+  "type": "tf",
+  "question": "M+J propone elevar la inversión en ciencia e innovación hasta el 3% del PIB.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es verdadero. Hoy es del 1,50% del PIB frente al 2,24% de la UE, según el programa.",
+  "tip": "Se compara con la media europea.",
+  "source": {
+   "doc": "mmj",
+   "page": 48,
+   "section": "Eje 15 · Ciencia · medida 2"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mmj-cultura-002",
+  "doc": "mmj",
+  "topic": "cultura",
+  "type": "multi",
+  "question": "Marca las medidas culturales que propone M+J.",
+  "options": [
+   "Una red de cultura rural con programación estable",
+   "Una tasa obligatoria sobre las entradas de cine",
+   "Un visado cultural ágil para artistas de países empobrecidos",
+   "Una parte fija del presupuesto cultural para proyectos con personas excluidas",
+   "Eliminar el Estatuto del Artista"
+  ],
+  "answer": [
+   0,
+   2,
+   3
+  ],
+  "explanation": "El programa propone destinar parte del presupuesto a proyectos con personas excluidas, un visado cultural y cultura rural estable. Además, quiere completar el Estatuto del Artista, no eliminarlo.",
+  "tip": "Todo busca ampliar el acceso a la cultura.",
+  "source": {
+   "doc": "mmj",
+   "page": 63,
+   "section": "Eje 21 · Cultura · medidas 2, 4 y 5"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-cultura-003",
+  "doc": "mmj",
+  "topic": "cultura",
+  "type": "which_party",
+  "question": "¿Qué partido propone una Ley del Derecho a la Cultura que desarrolle el artículo 27 de la Declaración Universal de Derechos Humanos?",
+  "options": [
+   "pp",
+   "vox",
+   "salf",
+   "mmj"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "Es una propuesta de M+J, que además completaría el Estatuto del Artista. PP, Vox y SALF no la incluyen.",
+  "tip": "La ley parte de considerar la cultura un derecho.",
+  "source": {
+   "doc": "mmj",
+   "page": 63,
+   "section": "Eje 21 · Cultura · medida 1"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-otros-001",
+  "doc": "mmj",
+  "topic": "otros",
+  "type": "which_party",
+  "question": "¿Qué partido propone ampliar los programas de vivienda sin condiciones previas para personas sin hogar, como Housing First?",
+  "options": [
+   "pp",
+   "vox",
+   "mmj",
+   "salf"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "M+J propone ampliar Housing First y Housing Led dentro del Plan Estatal de Vivienda. PP, Vox y SALF no lo incluyen.",
+  "tip": "Primero la vivienda, después el resto.",
+  "source": {
+   "doc": "mmj",
+   "page": 84,
+   "section": "Eje 29 · Sinhogarismo · medida 5"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-otros-002",
+  "doc": "mmj",
+  "topic": "otros",
+  "type": "tf",
+  "question": "M+J no propone cambios en la regulación de la caza deportiva ni de la tauromaquia.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es verdadero. El programa explica que en el partido conviven posiciones distintas y por eso no propone cambios en su regulación; sí propone revisar la exclusión de los perros de caza de la Ley 7/2023.",
+  "tip": "El programa reconoce posiciones distintas dentro del partido.",
+  "source": {
+   "doc": "mmj",
+   "page": 61,
+   "section": "Eje 20 · Protección animal · Introducción"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mmj-otros-003",
+  "doc": "mmj",
+  "topic": "otros",
+  "type": "single",
+  "question": "¿Qué modelo propone M+J implantar en todas las comunidades autónomas para atender a niñas, niños y adolescentes víctimas de violencia sexual?",
+  "options": [
+   "Los tribunales de honor",
+   "El modelo Barnahus",
+   "Las unidades policiales móviles",
+   "Los centros de menores tutelados"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "El programa propone implantar el modelo Barnahus en todas las comunidades para ofrecer una atención coordinada y evitar la revictimización y la repetición del relato.",
+  "tip": "Es un modelo de origen nórdico.",
+  "source": {
+   "doc": "mmj",
+   "page": 20,
+   "section": "Eje 04 · Infancia · medida 4"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mmj-otros-004",
+  "doc": "mmj",
+  "topic": "otros",
+  "type": "multi",
+  "question": "Marca las medidas sobre reinserción penitenciaria que propone M+J.",
+  "options": [
+   "Homologar el régimen de visitas y garantizar transporte público a los centros penitenciarios",
+   "Eliminar la formación profesional en prisión",
+   "Concentrar a los internos en un único centro nacional",
+   "Bonificar a las empresas que contraten a personas que han cumplido condena",
+   "Completar la transferencia de la sanidad penitenciaria a las comunidades autónomas"
+  ],
+  "answer": [
+   0,
+   3,
+   4
+  ],
+  "explanation": "El programa propone visitas homologadas, traspaso de la sanidad penitenciaria y bonificaciones a la contratación, además de ampliar la FP en prisión.",
+  "tip": "Las medidas refuerzan los vínculos y la reinserción.",
+  "source": {
+   "doc": "mmj",
+   "page": 87,
+   "section": "Eje 30 · Prisiones · medidas 2, 4 y 5"
+  },
+  "difficulty": 3
+ }
+]

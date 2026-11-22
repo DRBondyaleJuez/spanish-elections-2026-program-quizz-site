@@ -1,0 +1,802 @@
+{
+ "viv-1": {
+  "v": 1,
+  "page": 69,
+  "note": "Propone que el Estado pueda regular los precios del alquiler frente a las tensiones, sin fijar un tope concreto."
+ },
+ "viv-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "viv-3": {
+  "v": 2,
+  "page": 69,
+  "note": "Propone construir masivamente vivienda pública para compra y alquiler social."
+ },
+ "viv-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "viv-5": {
+  "v": 2,
+  "page": 70,
+  "note": "Propone recargos fiscales a la compra de vivienda por fondos de inversión y no residentes."
+ },
+ "viv-6": {
+  "v": 2,
+  "page": 70,
+  "note": "Propone reducir temporalmente ITP e IVA para la primera vivienda y avales o seguros públicos."
+ },
+ "viv-7": {
+  "v": 2,
+  "page": 70,
+  "note": "Propone restringir las licencias de pisos turísticos en cascos históricos y barrios tensionados."
+ },
+ "emp-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "emp-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "emp-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "emp-4": {
+  "v": 1,
+  "page": 68,
+  "note": "Propone créditos a interés cero y bonificaciones fiscales para autónomos y emprendedores, no rebajar cuotas."
+ },
+ "emp-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "eco-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "eco-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "eco-3": {
+  "v": 1,
+  "page": 72,
+  "note": "Propone combatir el fraude fiscal de grandes fortunas y empresas para aumentar ingresos."
+ },
+ "eco-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "eco-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "eco-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "pen-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "pen-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "pen-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "pen-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "pen-5": {
+  "v": -1,
+  "page": 80,
+  "note": "Propone blindar un sistema público de pensiones que no se privatice."
+ },
+ "san-1": {
+  "v": 1,
+  "page": 56,
+  "note": "Propone reintegrar al sistema público los servicios privatizados; no menciona reducir conciertos."
+ },
+ "san-2": {
+  "v": 2,
+  "page": 59,
+  "note": "Propone una atención bucodental gratuita y básica para todas las personas."
+ },
+ "san-3": {
+  "v": -1,
+  "page": 56,
+  "note": "Propone reintegrar servicios privatizados y planes propios para listas de espera, no usar la privada."
+ },
+ "san-4": {
+  "v": -2,
+  "page": 81,
+  "note": "Propone acceso unificado a la sanidad para todas las personas, sea cual sea su situación administrativa."
+ },
+ "san-5": {
+  "v": 2,
+  "page": 58,
+  "note": "Propone aumentar psiquiatras y psicólogos en la sanidad pública y reforzar la salud mental."
+ },
+ "edu-1": {
+  "v": -1,
+  "page": 61,
+  "note": "Propone revisar los conciertos para que respeten criterios de servicio público; no protege la concertada."
+ },
+ "edu-2": {
+  "v": 1,
+  "page": 60,
+  "note": "Propone una escuela pública realmente laica; no menciona la asignatura de religión."
+ },
+ "edu-3": {
+  "v": 1,
+  "page": 60,
+  "note": "Propone promover la educación universal de 0 a 3 años con plazas públicas suficientes."
+ },
+ "edu-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "edu-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "edu-6": {
+  "v": -1,
+  "page": 61,
+  "note": "Propone educación afectivo-sexual y planes sobre diversidad, sin mencionar vetos parentales."
+ },
+ "igu-1": {
+  "v": 2,
+  "page": 76,
+  "note": "Propone medidas específicas contra la violencia machista, incluidos recursos y protección judicial."
+ },
+ "igu-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "igu-3": {
+  "v": 1,
+  "page": 80,
+  "note": "Propone apoyar a las personas trans en su proceso de transición; no menciona la ley ni la autodeterminación."
+ },
+ "igu-4": {
+  "v": 1,
+  "page": 65,
+  "note": "Propone actualizar la ley de conciliación; no concreta permisos por nacimiento."
+ },
+ "igu-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "inm-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "inm-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "inm-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "inm-4": {
+  "v": 1,
+  "page": 81,
+  "note": "Propone más plazas de acogida para menores migrantes no acompañados; no menciona reparto obligatorio."
+ },
+ "inm-5": {
+  "v": -2,
+  "page": 81,
+  "note": "Propone acceso unificado a todos los derechos y servicios, sin distinguir por origen."
+ },
+ "inm-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "med-1": {
+  "v": -2,
+  "page": 34,
+  "note": "Critica el modelo basado en fósiles y nuclear y propone apostar por renovables."
+ },
+ "med-2": {
+  "v": 2,
+  "page": 34,
+  "note": "Propone acelerar un modelo energético renovable y objetivos de lucha contra el cambio climático."
+ },
+ "med-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "med-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "med-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "med-6": {
+  "v": 2,
+  "page": 12,
+  "note": "Propone prohibir la tauromaquia y exigir la prohibición de su retransmisión."
+ },
+ "rur-1": {
+  "v": -2,
+  "page": 13,
+  "note": "Propone abolir la caza y oponerse a su práctica."
+ },
+ "rur-2": {
+  "v": 1,
+  "page": 44,
+  "note": "Propone consumo de producto local y de proximidad; no menciona normas para importados."
+ },
+ "rur-3": {
+  "v": 2,
+  "page": 43,
+  "note": "Propone redistribuir las ayudas hacia explotaciones pequeñas y respetuosas con el medio."
+ },
+ "rur-4": {
+  "v": -1,
+  "page": 47,
+  "note": "Critica las construcciones hidráulicas y propone caudales ambientales; no menciona trasvases."
+ },
+ "ter-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ter-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ter-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ter-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ter-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ter-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ins-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ins-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ins-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ins-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ins-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ins-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ins-7": {
+  "v": 2,
+  "page": 72,
+  "note": "Propone eliminar los aforamientos de los políticos."
+ },
+ "ext-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ext-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ext-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ext-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ext-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ext-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "cul-1": {
+  "v": 1,
+  "page": 63,
+  "note": "Propone descuentos y precios reducidos para libros, entradas y cultura; no menciona el IVA."
+ },
+ "cul-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "cul-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "cul-4": {
+  "v": 2,
+  "page": 71,
+  "note": "Propone mayor inversión en I+D+i."
+ },
+ "cul-5": {
+  "v": -1,
+  "page": 75,
+  "note": "Propone financiación blindada y concursos de méritos para RTVE, no reducirla."
+ },
+ "cul-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "viv-8": {
+  "v": 1,
+  "page": 69,
+  "note": "Propone adquirir viviendas vacías y pactar con entidades financieras, sin obligar a sacarlas al mercado."
+ },
+ "emp-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "eco-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "eco-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "pen-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "san-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "edu-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "igu-6": {
+  "v": 0,
+  "page": 75,
+  "note": "Critica la paridad obligatoria y propone una composición equilibrada con al menos la mitad de mujeres."
+ },
+ "inm-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "inm-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "med-7": {
+  "v": 1,
+  "page": 70,
+  "note": "Propone restringir licencias de pisos turísticos en zonas saturadas, sin topes generales de visitantes."
+ },
+ "rur-5": {
+  "v": -1,
+  "page": 39,
+  "note": "Propone cese de subvenciones al sector ganadero; no menciona bajar impuestos al gasóleo."
+ },
+ "rur-6": {
+  "v": 2,
+  "page": 44,
+  "note": "Propone que comedores y dependencias públicas se abastezcan de productos locales."
+ },
+ "ter-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ter-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ins-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ins-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ins-10": {
+  "v": 1,
+  "page": 74,
+  "note": "Propone reformar la ILP para facilitar la iniciativa ciudadana; no menciona referéndums vinculantes."
+ },
+ "ext-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "cul-7": {
+  "v": 1,
+  "page": 75,
+  "note": "Propone criterios técnicos para la publicidad institucional en medios privados."
+ },
+ "viv-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "viv-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "viv-11": {
+  "v": -1,
+  "page": 69,
+  "note": "Critica la suspensión de desahucios y lanzamientos como parche que no reduce precios."
+ },
+ "viv-12": {
+  "v": -1,
+  "page": 69,
+  "note": "Propone vivienda pública para compra y alquiler, no solo alquiler."
+ },
+ "emp-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "emp-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "emp-9": {
+  "v": 1,
+  "page": 67,
+  "note": "Propone combatir la estacionalidad del empleo, sin reducir los temporales de forma general."
+ },
+ "emp-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "eco-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "eco-10": {
+  "v": 2,
+  "page": 69,
+  "note": "Propone eliminar trabas burocráticas y simplificar trámites para crear empresas."
+ },
+ "eco-11": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "eco-12": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "eco-13": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "pen-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "pen-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "pen-9": {
+  "v": 1,
+  "page": 79,
+  "note": "Propone mejorar la atención a mayores y dependencia, con más plazas públicas, sin crear un nuevo pilar."
+ },
+ "pen-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "san-7": {
+  "v": 2,
+  "page": 56,
+  "note": "Se opone al copago sanitario, también al farmacéutico."
+ },
+ "san-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "san-9": {
+  "v": -1,
+  "page": 56,
+  "note": "Se opone a la privatización de servicios sanitarios y propone reintegrarlos a lo público."
+ },
+ "san-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "edu-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "edu-9": {
+  "v": 2,
+  "page": 60,
+  "note": "Propone reducir la ratio de alumnos por profesor en todas las etapas."
+ },
+ "edu-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "edu-11": {
+  "v": 1,
+  "page": 60,
+  "note": "Propone libros de texto gratuitos y transporte y comedor gratuitos para familias vulnerables."
+ },
+ "igu-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "igu-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "igu-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "igu-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "inm-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "inm-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "inm-11": {
+  "v": 1,
+  "page": 81,
+  "note": "Propone acceso unificado a derechos como educación, sanidad y alojamiento para todas las personas."
+ },
+ "inm-12": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "med-8": {
+  "v": 1,
+  "page": 34,
+  "note": "Critica el modelo fósil y propone transición a energías limpias; no menciona el fracking."
+ },
+ "med-9": {
+  "v": 1,
+  "page": 35,
+  "note": "Propone reducir la contaminación del aire desde el transporte; no menciona expresamente zonas de bajas emisiones."
+ },
+ "med-10": {
+  "v": 1,
+  "page": 37,
+  "note": "Propone impuesto climático a productos de origen animal; no menciona fiscalidad sobre combustibles fósiles."
+ },
+ "med-11": {
+  "v": 1,
+  "page": 47,
+  "note": "Propone proteger espacios naturales y biodiversidad, con limitaciones a actividades que dañen el medio."
+ },
+ "med-12": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "rur-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "rur-8": {
+  "v": 2,
+  "page": 71,
+  "note": "Propone garantizar servicios públicos esenciales en el medio rural."
+ },
+ "rur-9": {
+  "v": -1,
+  "page": 47,
+  "note": "Propone mantener objetivos ambientales europeos y no ponerlos en riesgo."
+ },
+ "rur-10": {
+  "v": 2,
+  "page": 14,
+  "note": "Propone proteger al lobo y prohibir su caza; no menciona compensaciones."
+ },
+ "ter-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ter-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ter-11": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ter-12": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ins-11": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ins-12": {
+  "v": 1,
+  "page": 73,
+  "note": "Propone medidas de transparencia y control contra la corrupción; no menciona penas ni indultos."
+ },
+ "ins-13": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ins-14": {
+  "v": 1,
+  "page": 73,
+  "note": "Propone normas de conflicto de intereses y control de asesores; no menciona puertas giratorias."
+ },
+ "ins-15": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ext-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ext-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ext-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "ext-11": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "cul-8": {
+  "v": 2,
+  "page": 75,
+  "note": "Propone elegir dirección y consejos de RTVE por concurso de méritos y mandatos no coincidentes."
+ },
+ "cul-9": {
+  "v": -2,
+  "page": 12,
+  "note": "Critica la protección de la tauromaquia como patrimonio cultural y propone prohibirla."
+ },
+ "cul-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ },
+ "cul-11": {
+  "v": 1,
+  "page": 75,
+  "note": "Propone ampliar la conectividad y puntos de acceso a internet gratuito; no menciona servicio universal."
+ },
+ "cul-12": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona."
+ }
+}

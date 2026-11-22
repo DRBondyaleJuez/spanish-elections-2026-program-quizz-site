@@ -1,0 +1,2372 @@
+[
+  {
+    "id": "frenteobrero-empleo-001",
+    "doc": "frenteobrero",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "El Frente Obrero propone prohibir las empresas de trabajo temporal (ETT).",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Entre sus medidas contra la temporalidad figura la prohibición de las ETT, además de restringir los contratos temporales y fijos-discontinuos.",
+    "tip": "Piensa en las medidas contra la temporalidad.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 9,
+      "section": "Los trabajadores primero"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-empleo-002",
+    "doc": "frenteobrero",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "El sistema obligatorio de representación de los trabajadores se aplicaría solo a empresas de más de 250 trabajadores.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa lo plantea para todas las empresas con diez trabajadores o más, sin excepciones.",
+    "tip": "El umbral es mucho más bajo.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 9,
+      "section": "Los trabajadores primero"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-economia-001",
+    "doc": "frenteobrero",
+    "topic": "economia",
+    "type": "tf",
+    "question": "El Frente Obrero propone aumentar el impuesto de sociedades y el de patrimonio a las grandes empresas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo justifica porque, a su juicio, esas empresas no contribuyen lo suficiente a la riqueza nacional.",
+    "tip": "Va en la línea de gravar más a las grandes empresas.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 19,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-economia-002",
+    "doc": "frenteobrero",
+    "topic": "economia",
+    "type": "tf",
+    "question": "El programa plantea bajar el impuesto sobre la renta por igual a todos los tramos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone reducirlo a los trabajadores con menos recursos y subirlo a las rentas más altas, ampliando tramos y tipos.",
+    "tip": "Habla de progresividad, no de bajada general.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 18,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-pensiones-001",
+    "doc": "frenteobrero",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "El programa propone calcular la pensión con la media de los mejores años cotizados.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo plantea para que quienes fueron despedidos o cobraron menos al final de su carrera no vean reducida su pensión.",
+    "tip": "Evita que los últimos años penalicen la pensión.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 49,
+      "section": "Pensiones"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-pensiones-002",
+    "doc": "frenteobrero",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "El Frente Obrero propone elevar la edad de jubilación para sostener el sistema.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone lo contrario: revertir el aumento de la edad de jubilación y fijar un retiro adecuado al puesto desempeñado.",
+    "tip": "Mira en qué dirección quiere mover la edad de retiro.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 48,
+      "section": "Pensiones"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-sanidad-001",
+    "doc": "frenteobrero",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "El programa propone acabar con la externalización y privatización de la sanidad.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Considera que han sido una vía para recortar gasto y un negocio privado, y también pide más control sobre las mutuas.",
+    "tip": "Es la base de su modelo sanitario público.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 42,
+      "section": "Sanidad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-sanidad-002",
+    "doc": "frenteobrero",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "El Frente Obrero propone que cada comunidad autónoma gestione de forma independiente su sistema de salud.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Plantea centralizar, unificar y homogeneizar el Sistema Nacional de Salud.",
+    "tip": "Su modelo territorial va hacia la centralización.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 42,
+      "section": "Sanidad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-educacion-001",
+    "doc": "frenteobrero",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "El Frente Obrero propone un comedor escolar gratuito.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo presenta como medida para facilitar la conciliación familiar y fomentar hábitos alimenticios saludables.",
+    "tip": "Se justifica por conciliación y alimentación.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 22,
+      "section": "Educación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-educacion-002",
+    "doc": "frenteobrero",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "El programa defiende mantener las subvenciones a la escuela privada.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone eliminarlas para fortalecer el sistema público de educación.",
+    "tip": "Busca reforzar lo público.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 22,
+      "section": "Educación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-igualdad-001",
+    "doc": "frenteobrero",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "El programa propone prohibir y perseguir los vientres de alquiler, incluidos los realizados fuera de España.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Incluye perseguir la compra de gestaciones subrogadas en el extranjero cuando los niños se críen después en España.",
+    "tip": "La medida alcanza también a lo que ocurra fuera del país.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 32,
+      "section": "Mujer e igualdad real"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-igualdad-002",
+    "doc": "frenteobrero",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "El Frente Obrero propone aumentar el presupuesto del Ministerio de Igualdad.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone suprimir el ministerio y destinar su presupuesto en su totalidad a cuestiones sociales.",
+    "tip": "Su propuesta es sobre la existencia misma del ministerio.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 32,
+      "section": "Mujer e igualdad real"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-inmigracion-001",
+    "doc": "frenteobrero",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "El programa propone prohibir el hijab en lugares y puestos de trabajo públicos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo incluye junto a otras medidas sobre el islam, y ofrece ayudas a las mujeres que quieran dejar esa vestimenta y se vean amenazadas.",
+    "tip": "Forma parte de las medidas sobre el islam.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 53,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-inmigracion-002",
+    "doc": "frenteobrero",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "El Frente Obrero propone conceder la nacionalidad por el mero hecho de nacer en España.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Critica que se conceda a quien nace aquí aunque sus padres sean extranjeros y pide dar prioridad real al ius sanguinis.",
+    "tip": "Prioriza la filiación, no el lugar de nacimiento.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 53,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-medioambiente-001",
+    "doc": "frenteobrero",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "El programa propone explotar los recursos nacionales de uranio.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Va unido a la ampliación del parque nuclear y a más inversión en la puesta en marcha y modernización de las plantas.",
+    "tip": "Se vincula con su apuesta nuclear.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 16,
+      "section": "Soberanía energética"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-medioambiente-002",
+    "doc": "frenteobrero",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "El Frente Obrero propone cerrar progresivamente las centrales nucleares.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone frenar el cierre paulatino de centrales y ampliar el parque nuclear.",
+    "tip": "Apuesta por la energía nuclear.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 16,
+      "section": "Soberanía energética"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-rural-001",
+    "doc": "frenteobrero",
+    "topic": "rural",
+    "type": "tf",
+    "question": "El programa propone poner fin al derribo de presas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo plantea junto a planes hidrográficos y la limpieza de ríos, lagos y embalses.",
+    "tip": "Forma parte de su política del agua.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 38,
+      "section": "En defensa del campo español"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-rural-002",
+    "doc": "frenteobrero",
+    "topic": "rural",
+    "type": "tf",
+    "question": "El Frente Obrero defiende mantener y reforzar la PAC.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone romper con las políticas agrarias de la UE (PAC) y con los tratados internacionales que, según el programa, reducen la capacidad productiva.",
+    "tip": "Su posición sobre la UE es de ruptura.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 38,
+      "section": "En defensa del campo español"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-territorio-001",
+    "doc": "frenteobrero",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "El programa promueve la fusión de ayuntamientos para reducir el volumen de la administración.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo plantea para primar la operatividad, ya que considera que hay demasiadas administraciones locales.",
+    "tip": "Habla de reducir administraciones locales.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 56,
+      "section": "Estructura territorial y administración"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-territorio-002",
+    "doc": "frenteobrero",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "El Frente Obrero defiende que algunas regiones tengan derecho a decidir su independencia.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Se posiciona contra todos los procesos de independencia, que considera contrarios a los intereses de los trabajadores.",
+    "tip": "Defiende la unidad del país.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 56,
+      "section": "Estructura territorial y administración"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-instituciones-001",
+    "doc": "frenteobrero",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "El programa propone prohibir el indulto en casos de corrupción política.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo plantea junto a más penas por corrupción, también para los partidos como personas jurídicas.",
+    "tip": "Se enmarca en su capítulo de justicia.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 59,
+      "section": "Justicia"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-instituciones-002",
+    "doc": "frenteobrero",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "El Frente Obrero propone mantener la prohibición de que los guardias civiles se sindiquen.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone incluir la posibilidad de sindicarse en la Guardia Civil dentro de la democratización de los cuerpos de seguridad.",
+    "tip": "Habla de democratizar las estructuras.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 61,
+      "section": "Justicia"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-exterior-001",
+    "doc": "frenteobrero",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "El programa defiende el derecho a la autodeterminación del pueblo saharaui.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Afirma que España asumirá su deuda histórica y defenderá sin reservas ese derecho.",
+    "tip": "Menciona una 'deuda histórica'.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 11,
+      "section": "Soberanía nacional"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-exterior-002",
+    "doc": "frenteobrero",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "El Frente Obrero propone mantener las bases militares extranjeras mientras España siga en la OTAN.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone expulsar toda base militar extranjera y salir de inmediato de la OTAN.",
+    "tip": "Quiere ejércitos extranjeros fuera del territorio.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 11,
+      "section": "Soberanía nacional"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-cultura-001",
+    "doc": "frenteobrero",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "El programa propone reducir los impuestos sobre productos culturales como libros o material artístico.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Está entre las medidas del capítulo de cultura.",
+    "tip": "Es una medida fiscal sobre productos culturales.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 26,
+      "section": "Cultura"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-cultura-002",
+    "doc": "frenteobrero",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "El Frente Obrero propone que el acceso gratuito a los museos sea solo para jubilados.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone acceso libre y gratuito para todos los españoles a museos, patrimonio, bibliotecas públicas y filmotecas.",
+    "tip": "El acceso gratuito se plantea de forma general para españoles.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 25,
+      "section": "Cultura"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-vivienda-001",
+    "doc": "frenteobrero",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "El programa propone garantizar la dación en pago en todas las situaciones.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo plantea junto a segundas oportunidades para deudas hipotecarias y la paralización de desahucios de familias vulnerables.",
+    "tip": "Afecta a las deudas hipotecarias.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 46,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-vivienda-002",
+    "doc": "frenteobrero",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "El Frente Obrero propone repartir la vivienda pública sin distinguir la nacionalidad.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone enfocar el acceso a la vivienda pública hacia los españoles autóctonos.",
+    "tip": "Introduce un criterio de nacionalidad.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 46,
+      "section": "Vivienda"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-otros-001",
+    "doc": "frenteobrero",
+    "topic": "otros",
+    "type": "tf",
+    "question": "El programa fija como objetivo que la media de hijos por mujer supere los dos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo plantea en sus planes estatales de natalidad, con ventajas fiscales y ayudas a las familias numerosas.",
+    "tip": "Es el objetivo de sus planes de natalidad.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 34,
+      "section": "Natalidad y familia"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-otros-002",
+    "doc": "frenteobrero",
+    "topic": "otros",
+    "type": "tf",
+    "question": "El Frente Obrero se declara partidario de mantener la monarquía.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Se declara contrario a la monarquía y partidario de una República encaminada al socialismo.",
+    "tip": "Habla de República.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 56,
+      "section": "Estructura territorial y administración"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-empleo-003",
+    "doc": "frenteobrero",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué propone el Frente Obrero respecto a las empresas de trabajo temporal?",
+    "options": [
+      "Prohibirlas",
+      "Regularlas con más control",
+      "Limitarlas a seis meses",
+      "Mantenerlas solo en el campo"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Dentro de las medidas contra la temporalidad propone prohibir las ETT.",
+    "tip": "Piensa en la medida más drástica.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 9,
+      "section": "Los trabajadores primero"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-empleo-004",
+    "doc": "frenteobrero",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué propone para los autónomos que no llegan al SMI?",
+    "options": [
+      "Eliminar su cuota",
+      "Reducir su cuota a la mitad",
+      "Obligarles a pasar a asalariados",
+      "Aplazar su cuota un año"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone eliminar la cuota para los autónomos que no alcanzan el SMI, con bonificación total por baja y cuotas más reducidas.",
+    "tip": "La medida es radical y se refiere a la cuota.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 9,
+      "section": "Los trabajadores primero"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-empleo-005",
+    "doc": "frenteobrero",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué limita, según el programa, el Real Decreto 17/1977 que propone derogar?",
+    "options": [
+      "El derecho a huelga",
+      "La negociación de convenios",
+      "El derecho de manifestación",
+      "La libertad de asociación empresarial"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Considera que limita el ejercicio pleno del derecho de huelga, sobre todo en los sectores estratégicos.",
+    "tip": "Es una norma sobre relaciones de trabajo.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 9,
+      "section": "Los trabajadores primero"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteobrero-economia-003",
+    "doc": "frenteobrero",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué tipo de turismo propone fomentar?",
+    "options": [
+      "Turismo de alta calidad y rural",
+      "Turismo de masas en el litoral",
+      "Turismo exclusivamente nacional",
+      "Turismo de cruceros"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone cambiar el sector que califica de 'ocio destructivo' hacia un turismo de alta calidad y rural, respetuoso con el medio y la población local.",
+    "tip": "Busca un modelo respetuoso con el medio.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 13,
+      "section": "Recuperemos la industria española"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-economia-004",
+    "doc": "frenteobrero",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué propone hacer con el IVA?",
+    "options": [
+      "Disminuirlo y llevar los bienes de primera necesidad al tipo superreducido",
+      "Subirlo para financiar servicios públicos",
+      "Eliminarlo por completo",
+      "Unificarlo en un tipo único"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Plantea disminuir la carga del IVA e incorporar progresivamente todas las mercancías de primera necesidad al tipo superreducido.",
+    "tip": "Piensa en los productos básicos.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 18,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-economia-005",
+    "doc": "frenteobrero",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué propone sobre los impuestos de sucesiones y patrimonio?",
+    "options": [
+      "Centralizarlos y suprimir bonificaciones, eliminando sucesiones para rentas bajas",
+      "Cederlos totalmente a las comunidades",
+      "Eliminarlos para todos",
+      "Mantenerlos sin cambios"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Busca acabar con las bonificaciones que benefician sobre todo a los más ricos.",
+    "tip": "Las comunidades dejarían de decidir.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 19,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-economia-006",
+    "doc": "frenteobrero",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué sanción propone para empresas que defrauden o tributen fuera de España?",
+    "options": [
+      "Multas y, si es necesario, expropiación",
+      "Solo una multa moderada",
+      "Prohibición de contratar con el Estado",
+      "Un impuesto de salida"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Quiere perseguir con multas y, si es necesaria, la expropiación a las empresas que hagan uso del fraude fiscal.",
+    "tip": "Incluye la medida más extrema.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 18,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-pensiones-003",
+    "doc": "frenteobrero",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Cómo plantea fijar la edad de jubilación?",
+    "options": [
+      "Revertir su aumento y adecuarla al puesto laboral",
+      "Vincularla a la esperanza de vida",
+      "Fijarla en 70 años",
+      "Hacerla voluntaria a partir de los 55"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone revertir el aumento de la edad de jubilación y establecer una edad adecuada al puesto desempeñado.",
+    "tip": "El criterio es el puesto de trabajo.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 48,
+      "section": "Pensiones"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-sanidad-003",
+    "doc": "frenteobrero",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Dónde pide reforzar especialmente los centros de atención primaria?",
+    "options": [
+      "En zonas rurales y barrios obreros",
+      "En las capitales de provincia",
+      "En los polígonos industriales",
+      "En las zonas turísticas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone dotar al sistema de más centros de atención primaria, en especial en las zonas rurales y barrios obreros.",
+    "tip": "Los territorios con menos recursos.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 42,
+      "section": "Sanidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-sanidad-004",
+    "doc": "frenteobrero",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué propone junto con el abaratamiento de los medicamentos con receta?",
+    "options": [
+      "Desarrollar una industria farmacéutica nacional",
+      "Importar genéricos de la UE",
+      "Privatizar la distribución",
+      "Limitar las recetas anuales"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone abaratar el acceso a medicamentos, tender a la gratuidad en casos de especial necesidad y crear una industria farmacéutica nacional para romper la dependencia de grandes corporaciones.",
+    "tip": "Busca independencia de las grandes corporaciones.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 43,
+      "section": "Sanidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-educacion-003",
+    "doc": "frenteobrero",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿A qué edad propone limitar el acceso a determinadas tecnologías?",
+    "options": [
+      "Menores de dieciséis años",
+      "Menores de doce años",
+      "Menores de dieciocho años",
+      "Menores de diez años"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo plantea para garantizar la formación y evitar dependencias de las tecnologías.",
+    "tip": "Es una edad intermedia.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 21,
+      "section": "Educación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-educacion-004",
+    "doc": "frenteobrero",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Cómo deben ser las prácticas de FP y universidad según el programa?",
+    "options": [
+      "Remuneradas según el trabajo desarrollado, sin excepciones",
+      "Voluntarias y gratuitas",
+      "Obligatorias en el último curso",
+      "Solo en empresas públicas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone prácticas remuneradas en base al trabajo desarrollado.",
+    "tip": "Se paga el trabajo.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 22,
+      "section": "Educación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-educacion-005",
+    "doc": "frenteobrero",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Qué derecho lingüístico propone garantizar en la educación?",
+    "options": [
+      "Estudiar en castellano o en las lenguas cooficiales",
+      "Estudiar solo en castellano",
+      "Estudiar solo en la lengua de cada comunidad",
+      "Estudiar en inglés desde primaria"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Quiere acabar con el uso político de las lenguas por parte de nacionalistas de un bando u otro.",
+    "tip": "No excluye ninguna de las dos opciones.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 22,
+      "section": "Educación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-igualdad-003",
+    "doc": "frenteobrero",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Qué destino propone para el presupuesto del Ministerio de Igualdad?",
+    "options": [
+      "Destinarlo en su totalidad a cuestiones sociales",
+      "Repartirlo entre las comunidades",
+      "Reducirlo a la mitad",
+      "Ampliarlo para la natalidad"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone suprimir el ministerio y dedicar todo su presupuesto a cuestiones sociales.",
+    "tip": "Se desviaría a otros fines sociales.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 32,
+      "section": "Mujer e igualdad real"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-inmigracion-003",
+    "doc": "frenteobrero",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Qué propone sobre la libertad de movimiento de los solicitantes de asilo?",
+    "options": [
+      "Concederla solo cuando el asilo sea concedido",
+      "Concederla desde la solicitud",
+      "Concederla tras seis meses",
+      "Concederla solo a familias"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone acabar con la libertad de movimiento desde la solicitud y expulsar a quienes vean denegada su petición.",
+    "tip": "Se regularía solo al final del proceso.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 54,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-inmigracion-004",
+    "doc": "frenteobrero",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Qué plantea sobre las nacionalidades concedidas en los últimos veinte años?",
+    "options": [
+      "Suspender nuevas concesiones hasta revisarlas",
+      "Mantenerlas todas",
+      "Concederlas de forma automática a los residentes",
+      "Revisarlas solo en caso de delito"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone el cese de la entrega de nacionalidades hasta realizar una revisión exhaustiva y elevar las condiciones para obtenerla.",
+    "tip": "Hay un parón mientras se revisa.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 53,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-inmigracion-005",
+    "doc": "frenteobrero",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿De qué contextos considera el programa más lógico que vengan los inmigrantes necesarios para el país?",
+    "options": [
+      "Europeo o hispanoamericano",
+      "Africano o asiático",
+      "Cualquiera, sin criterio",
+      "Solo de la UE"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Señala que el mayor choque cultural se produce con los de contextos islámicos.",
+    "tip": "Son contextos afines culturalmente, según el texto.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 52,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-medioambiente-003",
+    "doc": "frenteobrero",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué propone sobre la factura de la luz y los combustibles?",
+    "options": [
+      "Su regulación inmediata",
+      "Liberalizar los precios",
+      "Subir los impuestos a los combustibles",
+      "Crear un bono social único"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Considera que los precios son abusivos y que los combustibles están inflados por impuestos costosos.",
+    "tip": "Es una intervención inmediata.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 16,
+      "section": "Soberanía energética"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-rural-003",
+    "doc": "frenteobrero",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué propone hacer con las tierras sin usar de grandes terratenientes?",
+    "options": [
+      "Expropiarlas y repartirlas entre agricultores y cooperativas",
+      "Subvencionar su cultivo",
+      "Venderlas en subasta",
+      "Dedicarlas a parques solares"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone repartirlas para el aprovechamiento colectivo.",
+    "tip": "El reparto sería colectivo.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 38,
+      "section": "En defensa del campo español"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-rural-004",
+    "doc": "frenteobrero",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Dónde propone prohibir los parques solares?",
+    "options": [
+      "En tierras aptas para el cultivo",
+      "En espacios protegidos",
+      "En todo el territorio",
+      "En zonas costeras"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo recoge junto a la expropiación de tierras sin usar.",
+    "tip": "Compite con la agricultura por el suelo.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 38,
+      "section": "En defensa del campo español"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-territorio-003",
+    "doc": "frenteobrero",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué plantea para las comunidades autónomas?",
+    "options": [
+      "Que tengan las mismas competencias y el mismo régimen fiscal",
+      "Un modelo federal asimétrico",
+      "Reconocer a algunas más autogobierno",
+      "Su supresión inmediata"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone que sean simétricas y que se acaben las desigualdades entre regiones.",
+    "tip": "La clave es la simetría.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 56,
+      "section": "Estructura territorial y administración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-instituciones-003",
+    "doc": "frenteobrero",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Cómo propone garantizar la independencia judicial?",
+    "options": [
+      "Priorizando la membresía por carrera judicial en los órganos superiores",
+      "Con elección popular de jueces",
+      "Con designación por el Gobierno",
+      "Con jurados en todos los casos"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Y suprimiendo la elección por parte del Gobierno de miembros de cualquier órgano judicial.",
+    "tip": "Se apoya en la carrera judicial.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 58,
+      "section": "Justicia"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-instituciones-004",
+    "doc": "frenteobrero",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿A quién extiende el aumento de penas por corrupción?",
+    "options": [
+      "A los partidos políticos como personas jurídicas",
+      "A los medios de comunicación",
+      "A las ONG",
+      "Solo a los cargos electos"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "También pide garantizar la devolución completa de los fondos públicos.",
+    "tip": "No solo a las personas.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 59,
+      "section": "Justicia"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-exterior-003",
+    "doc": "frenteobrero",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Qué presencia militar extranjera cita específicamente para empezar la expulsión de bases?",
+    "options": [
+      "La del ejército inglés en Gibraltar",
+      "La de Rota",
+      "La de Morón",
+      "La de Torrejón"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Quiere recuperar el control de Gibraltar y expulsar toda base militar extranjera.",
+    "tip": "Está en el sur y es británica.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 11,
+      "section": "Soberanía nacional"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-exterior-004",
+    "doc": "frenteobrero",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Qué plantea sobre los contratos de los soldados a los 45 años?",
+    "options": [
+      "Acabar con el cese sin alternativas laborales",
+      "Ampliarlo a 50 años",
+      "Mantenerlo igual",
+      "Sustituirlo por servicio obligatorio"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone que no se corte la carrera sin dar alternativas laborales para volver al mundo civil.",
+    "tip": "Se refiere a una salida laboral.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 63,
+      "section": "Soberanía nacional"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-cultura-003",
+    "doc": "frenteobrero",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿A qué publicidad propone tender a poner fin en el capítulo de cultura?",
+    "options": [
+      "Apuestas, bebidas alcohólicas y pornografía o prostitución",
+      "Tabaco y comida rápida",
+      "Juguetes y videojuegos",
+      "Política y religiosa"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es una de las medidas del capítulo, junto con el fomento del deporte.",
+    "tip": "Asocia estos productos a adicciones.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 26,
+      "section": "Cultura"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-vivienda-003",
+    "doc": "frenteobrero",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué propone con los desahucios de familias trabajadoras vulnerables?",
+    "options": [
+      "Paralizarlos hasta encontrar una alternativa habitacional",
+      "Retrasarlos tres meses",
+      "Permitirlos con indemnización",
+      "Derivarlos a los ayuntamientos"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Se paralizarían de inmediato mientras no exista alternativa.",
+    "tip": "La paralización es inmediata.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 46,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-otros-003",
+    "doc": "frenteobrero",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué propone sobre las guarderías?",
+    "options": [
+      "Construir guarderías y jardines de infancia públicos y gratuitos",
+      "Ayudas privadas por niño",
+      "Guarderías en las empresas",
+      "Reducir su número"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Para facilitar la compatibilidad del trabajo y la maternidad.",
+    "tip": "Se relaciona con conciliación.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 34,
+      "section": "Natalidad y familia"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-otros-004",
+    "doc": "frenteobrero",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué papel dan a las elecciones, según el programa?",
+    "options": [
+      "Un altavoz para agitar y acumular fuerzas",
+      "El medio principal para reformar el sistema",
+      "Un medio que desprecian y en el que no participan",
+      "Un instrumento para negociar con otros partidos"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El documento dice que las elecciones sirven para tener un altavoz, elevar conciencias y acumular fuerzas.",
+    "tip": "Habla de agitación.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 6,
+      "section": "La España que debemos ser"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteobrero-empleo-006",
+    "doc": "frenteobrero",
+    "topic": "empleo",
+    "type": "multi",
+    "question": "¿Cuáles de estas medidas aparecen en su capítulo de trabajadores? (varias correctas)",
+    "options": [
+      "Derogar las sucesivas reformas laborales",
+      "Prohibir las ETT",
+      "Reforzar el control sobre el registro de horas extra",
+      "Implantar la semana laboral de cuatro días"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Las tres primeras figuran en la lista de medidas. La semana de cuatro días no aparece.",
+    "tip": "Una de las opciones no se menciona.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 9,
+      "section": "Los trabajadores primero"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-economia-007",
+    "doc": "frenteobrero",
+    "topic": "economia",
+    "type": "multi",
+    "question": "¿Cuáles de estas propuestas fiscales recoge el programa? (varias correctas)",
+    "options": [
+      "Subir el IRPF a las rentas más altas",
+      "Bajar el IRPF a los trabajadores con menos recursos",
+      "Aumentar el impuesto de sociedades a las grandes empresas",
+      "Bajar el impuesto de sociedades"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Combina bajar impuestos a rentas bajas y subirlos a rentas altas y grandes empresas.",
+    "tip": "Es un enfoque progresivo.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 18,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-sanidad-005",
+    "doc": "frenteobrero",
+    "topic": "sanidad",
+    "type": "multi",
+    "question": "¿Qué servicios propone que sean gratuitos? (varias correctas)",
+    "options": [
+      "Bucodental",
+      "Fisioterapéutico",
+      "Oftalmológico",
+      "Cirugía estética"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Los tres primeros están en su lista; la cirugía estética no.",
+    "tip": "Son servicios que la sanidad suele cubrir poco.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 42,
+      "section": "Sanidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-educacion-006",
+    "doc": "frenteobrero",
+    "topic": "educacion",
+    "type": "multi",
+    "question": "¿Cuáles de estas medidas educativas propone? (varias correctas)",
+    "options": [
+      "Eliminar las subvenciones a la escuela privada",
+      "Sistema de becas para compaginar estudio y trabajo",
+      "Frenar el experimento de la educación digital",
+      "Aumentar los conciertos con centros privados"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El cuarto contradice su propuesta de reforzar lo público.",
+    "tip": "Fortalece lo público.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 22,
+      "section": "Educación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-igualdad-004",
+    "doc": "frenteobrero",
+    "topic": "igualdad",
+    "type": "multi",
+    "question": "¿Qué propone derogar o suprimir en materia de igualdad? (varias correctas)",
+    "options": [
+      "La Ley Trans",
+      "Los cupos y leyes de discriminación positiva",
+      "El Ministerio de Igualdad",
+      "La Ley de Dependencia"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "La Ley de Dependencia no se menciona.",
+    "tip": "Una opción no es de este capítulo.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 32,
+      "section": "Mujer e igualdad real"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-inmigracion-006",
+    "doc": "frenteobrero",
+    "topic": "inmigracion",
+    "type": "multi",
+    "question": "¿Qué medidas sobre el islam recoge el programa? (varias correctas)",
+    "options": [
+      "Expulsar a los radicales islámicos",
+      "No subvencionar actividades islámicas",
+      "Prohibir el hijab en lugares y puestos de trabajo públicos",
+      "Regular un calendario de festividades islámicas"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El cuarto no aparece.",
+    "tip": "Una de ellas no es restrictiva.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 53,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-inmigracion-007",
+    "doc": "frenteobrero",
+    "topic": "inmigracion",
+    "type": "multi",
+    "question": "¿Qué medidas incluye sobre asilo, expulsiones y centros? (varias correctas)",
+    "options": [
+      "Hacer operativos los CIE o sustituirlos por centros más efectivos",
+      "Acuerdos con países cercanos para clasificar y deportar desde suelo extranjero",
+      "Restringir el asilo político",
+      "Visados humanitarios masivos"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Los visados humanitarios masivos no figuran.",
+    "tip": "El tono es de mayor control.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 54,
+      "section": "Inmigración"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteobrero-medioambiente-004",
+    "doc": "frenteobrero",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "¿Qué propone sobre la energía? (varias correctas)",
+    "options": [
+      "Ampliar el parque nuclear",
+      "Frenar el cierre de centrales en plena capacidad",
+      "Renovables como complemento de la nuclear",
+      "Fijar un calendario de cierre nuclear"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El calendario de cierre contradice su posición.",
+    "tip": "Todo gira en torno a la nuclear.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 16,
+      "section": "Soberanía energética"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-rural-005",
+    "doc": "frenteobrero",
+    "topic": "rural",
+    "type": "multi",
+    "question": "¿Qué propone sobre agua y pesca? (varias correctas)",
+    "options": [
+      "Poner fin al derribo de presas",
+      "Crear piscifactorías",
+      "Planes hidrográficos para repartir el agua",
+      "Aceptar las cuotas pesqueras fijadas por Bruselas"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "La última contradice su política de romper con las imposiciones de la UE.",
+    "tip": "Tiene que ver con la soberanía de recursos.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 38,
+      "section": "En defensa del campo español"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-territorio-004",
+    "doc": "frenteobrero",
+    "topic": "territorio",
+    "type": "multi",
+    "question": "¿Qué medidas territoriales y administrativas recoge? (varias correctas)",
+    "options": [
+      "Eliminar cargos duplicados o inoperantes",
+      "Fusión de ayuntamientos",
+      "Centralizar los servicios de emergencia",
+      "Federalismo asimétrico"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Propone simetría y centralización, no federalismo asimétrico.",
+    "tip": "Va en sentido contrario al asimétrico.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 56,
+      "section": "Estructura territorial y administración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-instituciones-005",
+    "doc": "frenteobrero",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "¿Qué propone para los cuerpos de seguridad? (varias correctas)",
+    "options": [
+      "Depurar mandos corruptos",
+      "Sindicación en la Guardia Civil",
+      "Suprimir las policías autonómicas",
+      "Militarizar la Guardia Civil"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Habla de democratización, no de militarizar.",
+    "tip": "Democratización de las estructuras.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 61,
+      "section": "Justicia"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-exterior-005",
+    "doc": "frenteobrero",
+    "topic": "exterior",
+    "type": "multi",
+    "question": "¿Qué recoge el capítulo de soberanía nacional? (varias correctas)",
+    "options": [
+      "Salir de la UE",
+      "Salir inmediatamente de la OTAN",
+      "Delimitar las aguas archipelágicas",
+      "Convocar un referéndum sobre las bases"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El referéndum sobre bases no aparece.",
+    "tip": "Una opción es un mecanismo no mencionado.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 11,
+      "section": "Soberanía nacional"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-cultura-004",
+    "doc": "frenteobrero",
+    "topic": "cultura",
+    "type": "multi",
+    "question": "¿Qué medidas recoge sobre cultura y deporte? (varias correctas)",
+    "options": [
+      "Reducir impuestos de libros y material artístico",
+      "Tender a acabar con la publicidad de apuestas",
+      "Crear clubes deportivos",
+      "Imponer un canon digital"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El canon digital no figura.",
+    "tip": "Una opción es fiscal pero no de las suyas.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 26,
+      "section": "Cultura"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-otros-005",
+    "doc": "frenteobrero",
+    "topic": "otros",
+    "type": "multi",
+    "question": "¿Qué medidas de natalidad y familia incluye? (varias correctas)",
+    "options": [
+      "Guarderías públicas y gratuitas",
+      "Alargar las bajas por paternidad y maternidad",
+      "Ventajas fiscales para familias numerosas",
+      "Semana laboral de cuatro días"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "La semana de cuatro días no aparece; sí flexibilidad de jornada.",
+    "tip": "Los tres tienen que ver con conciliación.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 35,
+      "section": "Natalidad y familia"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-vivienda-004",
+    "doc": "frenteobrero",
+    "topic": "vivienda",
+    "type": "multi",
+    "question": "¿Qué propone en materia de vivienda? (varias correctas)",
+    "options": [
+      "Paralizar los desahucios de familias vulnerables",
+      "Garantizar la dación en pago",
+      "Actuar contra los inquiokupas",
+      "Topar el precio del alquiler"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "La medida de topar el alquiler no figura.",
+    "tip": "No hay medidas sobre precios del alquiler.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 46,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-exterior-006",
+    "doc": "frenteobrero",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone la salida de España de la Unión Europea?",
+    "options": [
+      "psoe",
+      "pp",
+      "frenteobrero",
+      "pnv"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El Frente Obrero plantea la salida de la UE para recuperar la soberanía nacional.",
+    "tip": "El partido que más critica a Bruselas.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 11,
+      "section": "Soberanía nacional"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-exterior-007",
+    "doc": "frenteobrero",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone la salida inmediata de la OTAN y reforzar el ejército?",
+    "options": [
+      "d21",
+      "cc",
+      "pp",
+      "frenteobrero"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El Frente Obrero plantea salir de la OTAN a la vez que reforzar el ejército.",
+    "tip": "Combina antimilitarismo exterior con fuerza propia.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 11,
+      "section": "Soberanía nacional"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-igualdad-005",
+    "doc": "frenteobrero",
+    "topic": "igualdad",
+    "type": "which_party",
+    "question": "¿Qué partido propone suprimir el Ministerio de Igualdad?",
+    "options": [
+      "psoe",
+      "frenteobrero",
+      "erc",
+      "podemos"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El Frente Obrero lo propone y destinaría su presupuesto a cuestiones sociales.",
+    "tip": "No es un partido que defienda ese ministerio.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 32,
+      "section": "Mujer e igualdad real"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-igualdad-006",
+    "doc": "frenteobrero",
+    "topic": "igualdad",
+    "type": "which_party",
+    "question": "¿Qué partido propone derogar la Ley Trans?",
+    "options": [
+      "erc",
+      "psoe",
+      "frenteobrero",
+      "compromis"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El Frente Obrero plantea derogarla para proteger, según el programa, a niños y adolescentes.",
+    "tip": "Propone revertir una ley de 2023.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 32,
+      "section": "Mujer e igualdad real"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-territorio-005",
+    "doc": "frenteobrero",
+    "topic": "territorio",
+    "type": "which_party",
+    "question": "¿Qué partido propone suprimir las policías autonómicas e integrarlas en la Policía Nacional?",
+    "options": [
+      "pnv",
+      "erc",
+      "ehbildu",
+      "frenteobrero"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El Frente Obrero propone integrarlas en la Policía Nacional.",
+    "tip": "Va a favor de la centralización.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 61,
+      "section": "Justicia"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-medioambiente-005",
+    "doc": "frenteobrero",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone ampliar el parque nuclear y explotar el uranio nacional?",
+    "options": [
+      "psoe",
+      "erc",
+      "frenteobrero",
+      "ehbildu"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El Frente Obrero apuesta por la energía nuclear y renovables como complemento.",
+    "tip": "Apuesta por la energía nuclear.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 16,
+      "section": "Soberanía energética"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-educacion-007",
+    "doc": "frenteobrero",
+    "topic": "educacion",
+    "type": "which_party",
+    "question": "¿Qué partido propone eliminar las subvenciones a la escuela privada?",
+    "options": [
+      "pp",
+      "psoe",
+      "pnv",
+      "frenteobrero"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El Frente Obrero lo propone para fortalecer el sistema público de educación.",
+    "tip": "Defiende lo público frente a lo privado.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 22,
+      "section": "Educación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-rural-006",
+    "doc": "frenteobrero",
+    "topic": "rural",
+    "type": "which_party",
+    "question": "¿Qué partido propone expropiar tierras sin usar de grandes terratenientes y repartirlas entre agricultores y cooperativas?",
+    "options": [
+      "pp",
+      "psoe",
+      "frenteobrero",
+      "d21"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El Frente Obrero propone repartirlas para el aprovechamiento colectivo.",
+    "tip": "Es una medida redistributiva sobre la tierra.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 38,
+      "section": "En defensa del campo español"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-empleo-007",
+    "doc": "frenteobrero",
+    "topic": "empleo",
+    "type": "which_party",
+    "question": "¿Qué partido propone prohibir las empresas de trabajo temporal?",
+    "options": [
+      "pp",
+      "psoe",
+      "cc",
+      "frenteobrero"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Aparece entre las medidas del Frente Obrero contra la temporalidad.",
+    "tip": "Una medida laboral muy radical.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 9,
+      "section": "Los trabajadores primero"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-inmigracion-008",
+    "doc": "frenteobrero",
+    "topic": "inmigracion",
+    "type": "which_party",
+    "question": "¿Qué partido propone dar prioridad real al ius sanguinis en la nacionalidad?",
+    "options": [
+      "psoe",
+      "pnv",
+      "frenteobrero",
+      "erc"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El Frente Obrero propone cesar la concesión de nacionalidades y elevar las condiciones para obtenerla.",
+    "tip": "Prioriza la filiación sobre el lugar de nacimiento.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 53,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-inmigracion-009",
+    "doc": "frenteobrero",
+    "topic": "inmigracion",
+    "type": "which_party",
+    "question": "¿Qué partido propone prohibir el hijab en lugares y puestos de trabajo públicos?",
+    "options": [
+      "podemos",
+      "erc",
+      "compromis",
+      "frenteobrero"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El Frente Obrero lo incluye entre sus medidas sobre el islam.",
+    "tip": "Es una medida restrictiva.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 53,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-exterior-008",
+    "doc": "frenteobrero",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido defiende el derecho a la autodeterminación del pueblo saharaui y habla de una 'deuda histórica'?",
+    "options": [
+      "pp",
+      "psoe",
+      "pnv",
+      "frenteobrero"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El Frente Obrero lo recoge en su capítulo de soberanía.",
+    "tip": "Menciona deuda histórica.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 11,
+      "section": "Soberanía nacional"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteobrero-economia-008",
+    "doc": "frenteobrero",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone nacionalizar los sectores estratégicos de la economía?",
+    "options": [
+      "pp",
+      "cc",
+      "upc",
+      "frenteobrero"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El Frente Obrero plantea una fuerte intervención del Estado para priorizar los intereses de los españoles.",
+    "tip": "Plantea una fuerte intervención del Estado.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 13,
+      "section": "Recuperemos la industria española"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-territorio-006",
+    "doc": "frenteobrero",
+    "topic": "territorio",
+    "type": "which_party",
+    "question": "¿Qué partido propone centralizar sanidad, educación y servicios de emergencia?",
+    "options": [
+      "erc",
+      "pnv",
+      "ehbildu",
+      "frenteobrero"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El Frente Obrero lo plantea dentro de su modelo de comunidades simétricas con gobierno central reforzado.",
+    "tip": "Su modelo es recentralizador.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 56,
+      "section": "Estructura territorial y administración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-exterior-009",
+    "doc": "frenteobrero",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido quiere recuperar el control de Gibraltar y expulsar a las bases militares extranjeras?",
+    "options": [
+      "erc",
+      "pnv",
+      "compromis",
+      "frenteobrero"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El Frente Obrero lo plantea empezando por la presencia militar británica en Gibraltar.",
+    "tip": "Habla de ejércitos extranjeros en territorio nacional.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 11,
+      "section": "Soberanía nacional"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-exterior-010",
+    "doc": "frenteobrero",
+    "topic": "exterior",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del Frente Obrero?",
+    "options": [
+      "Salir de la OTAN",
+      "Salir de la UE",
+      "Expulsar las bases militares extranjeras",
+      "Mantener la presencia militar británica en Gibraltar"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Propone recuperar el control de Gibraltar y expulsar a todos los ejércitos extranjeros.",
+    "tip": "Una opción contradice su idea de soberanía.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 11,
+      "section": "Soberanía nacional"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-economia-009",
+    "doc": "frenteobrero",
+    "topic": "economia",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del Frente Obrero?",
+    "options": [
+      "Subir el IRPF a las rentas más altas",
+      "Nacionalizar sectores estratégicos",
+      "Bajar el impuesto de sociedades a las grandes empresas",
+      "Incluir los bienes de primera necesidad en el IVA superreducido"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone aumentar el impuesto de sociedades a las grandes empresas.",
+    "tip": "Una medida beneficiaría a las grandes empresas.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 19,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-educacion-008",
+    "doc": "frenteobrero",
+    "topic": "educacion",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del Frente Obrero?",
+    "options": [
+      "Comedor escolar gratuito",
+      "Sistema de becas",
+      "Ampliar las subvenciones a la escuela concertada",
+      "Prácticas remuneradas"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone eliminar las subvenciones a la escuela privada.",
+    "tip": "Una opción refuerza a la escuela privada.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 22,
+      "section": "Educación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-igualdad-007",
+    "doc": "frenteobrero",
+    "topic": "igualdad",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del Frente Obrero?",
+    "options": [
+      "Suprimir el Ministerio de Igualdad",
+      "Derogar la Ley Trans",
+      "Suprimir los cupos",
+      "Crear cuotas de paridad en consejos de administración"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa se declara en contra de todo tipo de cupos.",
+    "tip": "Una medida es un cupo.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 32,
+      "section": "Mujer e igualdad real"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-inmigracion-010",
+    "doc": "frenteobrero",
+    "topic": "inmigracion",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del Frente Obrero?",
+    "options": [
+      "Control absoluto de las fronteras",
+      "Cese de la entrega de nacionalidades hasta revisarlas",
+      "Una regularización extraordinaria de inmigrantes",
+      "Prohibir el hijab en puestos públicos"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone la imposibilidad de regularizarse para quienes entraron ilegalmente.",
+    "tip": "Una opción facilita la regularización.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 53,
+      "section": "Inmigración"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-medioambiente-006",
+    "doc": "frenteobrero",
+    "topic": "medioambiente",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del Frente Obrero?",
+    "options": [
+      "Apostar por la energía nuclear",
+      "Regular la factura de la luz",
+      "Fijar un calendario de cierre de las centrales nucleares",
+      "Apoyar las renovables como complemento"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone frenar el cierre paulatino de centrales.",
+    "tip": "Una opción va contra su apuesta nuclear.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 16,
+      "section": "Soberanía energética"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-rural-007",
+    "doc": "frenteobrero",
+    "topic": "rural",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del Frente Obrero?",
+    "options": [
+      "Romper con la PAC",
+      "Expropiar las tierras sin usar de grandes terratenientes",
+      "Fomentar las cooperativas agrarias",
+      "Impulsar el derribo de presas"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Propone poner fin al derribo de presas.",
+    "tip": "Una opción contradice su política del agua.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 38,
+      "section": "En defensa del campo español"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-instituciones-006",
+    "doc": "frenteobrero",
+    "topic": "instituciones",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del Frente Obrero?",
+    "options": [
+      "Prohibir el indulto en casos de corrupción",
+      "Aumentar las penas por corrupción también a los partidos",
+      "Que el Gobierno elija a miembros de órganos judiciales",
+      "Mejorar la justicia gratuita"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone suprimir la elección por parte del Gobierno de miembros de cualquier órgano judicial.",
+    "tip": "Una opción contradice su independencia judicial.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 58,
+      "section": "Justicia"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-sanidad-006",
+    "doc": "frenteobrero",
+    "topic": "sanidad",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del Frente Obrero?",
+    "options": [
+      "Centralizar el Sistema Nacional de Salud",
+      "Acabar con la privatización de la sanidad",
+      "Ampliar los conciertos con la sanidad privada",
+      "Asegurar plazas públicas en residencias de mayores"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone acabar con la externalización y privatización de la sanidad.",
+    "tip": "Una opción es privatizadora.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 42,
+      "section": "Sanidad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteobrero-empleo-008",
+    "doc": "frenteobrero",
+    "topic": "empleo",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del Frente Obrero?",
+    "options": [
+      "Derogar las reformas laborales",
+      "Eliminar la cuota de los autónomos que no llegan al SMI",
+      "Prohibir las ETT",
+      "Priorizar el convenio de empresa sobre el sectorial"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Propone derogar las reformas que permiten la primacía del convenio de empresa sobre el sectorial.",
+    "tip": "Una opción es lo que critican.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 9,
+      "section": "Los trabajadores primero"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteobrero-pensiones-004",
+    "doc": "frenteobrero",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Qué propone hacer con las pensiones no contributivas y las mínimas?",
+    "options": [
+      "Incrementarlas para asegurar la suficiencia de todos los pensionistas",
+      "Congelarlas durante la legislatura",
+      "Sustituirlas por un plan privado",
+      "Vincularlas a la inflación del año anterior"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es una de las medidas para impedir el deterioro de la prestación en el corto plazo.",
+    "tip": "Busca suficiencia para todos.",
+    "source": {
+      "doc": "frenteobrero",
+      "page": 49,
+      "section": "Pensiones"
+    },
+    "difficulty": 2
+  }
+]

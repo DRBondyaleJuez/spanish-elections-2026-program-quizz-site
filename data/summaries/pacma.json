@@ -1,0 +1,925 @@
+{
+  "party": "pacma",
+  "overview": "PACMA organiza su programa en tres compromisos: con los animales, con el medio ambiente y con las personas. Su eje es una nueva ley de bienestar y protección animal sin exclusiones, con prohibiciones como la caza, los espectáculos con animales o la compraventa de mascotas, junto a una política ambiental basada en reducir la ganadería intensiva. También incluye propuestas sociales sobre vivienda pública, sanidad, educación y regeneración democrática.",
+  "topics": {
+    "vivienda": {
+      "summary": "Propone construir vivienda pública de forma masiva y comprar viviendas vacías, con incentivos fiscales a pequeños propietarios y medidas contra la especulación y los pisos turísticos.",
+      "points": [
+        {
+          "text": "Construcción masiva de vivienda pública y adquisición de viviendas vacías para destinarlas a compra y alquiler social; solo el 3,4% del parque residencial es vivienda social, frente a una media europea cercana al 9%.",
+          "source": {
+            "doc": "pacma",
+            "page": 69
+          }
+        },
+        {
+          "text": "Acuerdos con entidades financieras para destinar sus viviendas deshabitadas al alquiler a precios sociales.",
+          "source": {
+            "doc": "pacma",
+            "page": 70
+          }
+        },
+        {
+          "text": "Bonificación del 100% en el IRPF o exención del IBI para pequeños propietarios que alquilen un 10% o 15% por debajo del precio medio de la zona.",
+          "source": {
+            "doc": "pacma",
+            "page": 70
+          }
+        },
+        {
+          "text": "Reducir temporalmente el Impuesto de Transmisiones Patrimoniales en vivienda de segunda mano y el IVA en obra nueva para quien compre su primera vivienda habitual.",
+          "source": {
+            "doc": "pacma",
+            "page": 70
+          }
+        },
+        {
+          "text": "Recargos fiscales a la compra de viviendas por fondos de inversión y no residentes, y restricción de licencias de pisos turísticos en cascos históricos y barrios tensionados.",
+          "source": {
+            "doc": "pacma",
+            "page": 70
+          }
+        },
+        {
+          "text": "Registro obligatorio para el alquiler por habitaciones y de temporada, para evitar que se use para eludir la Ley de Vivienda.",
+          "source": {
+            "doc": "pacma",
+            "page": 70
+          }
+        },
+        {
+          "text": "Reforma de la Ley de Arrendamientos Urbanos para declarar nulas las cláusulas que prohíben tener animales de compañía en los contratos de alquiler (solo un 7% de los anuncios los admite).",
+          "source": {
+            "doc": "pacma",
+            "page": 70
+          }
+        },
+        {
+          "text": "Rehabilitación de inmuebles de los centros urbanos para ampliar la oferta de vivienda evitando la gentrificación.",
+          "source": {
+            "doc": "pacma",
+            "page": 68
+          }
+        }
+      ]
+    },
+    "empleo": {
+      "summary": "Combina medidas de igualdad, conciliación e inclusión laboral con una apuesta por sectores sostenibles, formación y menos estacionalidad.",
+      "points": [
+        {
+          "text": "Pacto de Estado por la Igualdad en el Empleo para combatir la discriminación laboral y salarial y promover la presencia de mujeres en puestos de responsabilidad.",
+          "source": {
+            "doc": "pacma",
+            "page": 64
+          }
+        },
+        {
+          "text": "Actualizar la ley de conciliación; fomentar guarderías en los centros de trabajo (también para animales de compañía) y permisos retribuidos por enfermedad o fallecimiento de familiares, incluidos los animales.",
+          "source": {
+            "doc": "pacma",
+            "page": 65
+          }
+        },
+        {
+          "text": "Plan nacional para la formación, el empleo y la accesibilidad universal de las personas con discapacidad, con asesoramiento a las empresas sobre su inserción laboral.",
+          "source": {
+            "doc": "pacma",
+            "page": 66
+          }
+        },
+        {
+          "text": "Formación profesional adaptada al mercado laboral y becas que desincentiven la entrada muy temprana al mercado de trabajo.",
+          "source": {
+            "doc": "pacma",
+            "page": 66
+          }
+        },
+        {
+          "text": "Crear una oferta turística alternativa (cultural, deportiva, rural, de interior) para reducir la estacionalidad del empleo.",
+          "source": {
+            "doc": "pacma",
+            "page": 67
+          }
+        },
+        {
+          "text": "Reactivar el tejido industrial con empresas respetuosas con el medio ambiente y con I+D+i.",
+          "source": {
+            "doc": "pacma",
+            "page": 67
+          }
+        },
+        {
+          "text": "Fomentar el empleo agrícola sostenible y ecológico con formación, asesoramiento, subvenciones y beneficios fiscales.",
+          "source": {
+            "doc": "pacma",
+            "page": 68
+          }
+        },
+        {
+          "text": "Incentivos fiscales y ayudas para el teletrabajo, con coworkings públicos en zonas que necesiten revitalizarse.",
+          "source": {
+            "doc": "pacma",
+            "page": 36
+          }
+        }
+      ]
+    },
+    "economia": {
+      "summary": "Plantea combatir el fraude fiscal, dar crédito a interés cero a autónomos y pymes con fines sociales y ambientales, y usar impuestos para desincentivar los productos de origen animal.",
+      "points": [
+        {
+          "text": "Controles fiscales más rigurosos, tecnología para detectar actividades sospechosas y cooperación internacional contra el fraude; cita un fraude en torno al 6% del PIB.",
+          "source": {
+            "doc": "pacma",
+            "page": 72
+          }
+        },
+        {
+          "text": "Sistema unificado para valorar la eficacia y eficiencia de las partidas de gasto del Estado, las comunidades y los ayuntamientos, con publicación de los resultados.",
+          "source": {
+            "doc": "pacma",
+            "page": 72
+          }
+        },
+        {
+          "text": "Fondo de financiación con créditos a interés cero para autónomos y pymes que creen empleo estable, incorporen tecnología sostenible o mejoren el bienestar animal.",
+          "source": {
+            "doc": "pacma",
+            "page": 68
+          }
+        },
+        {
+          "text": "Mayores bonificaciones fiscales y asesoramiento gratuito para emprendedores, startups y empresas innovadoras.",
+          "source": {
+            "doc": "pacma",
+            "page": 69
+          }
+        },
+        {
+          "text": "Impuesto climático sobre los productos de origen animal, calculado según las emisiones de cada alimento, cuya recaudación compense el daño climático.",
+          "source": {
+            "doc": "pacma",
+            "page": 37
+          }
+        },
+        {
+          "text": "Mayor IVA a lácteos de origen animal (hoy al 4%) y menor a sus equivalentes vegetales (hoy al 10%).",
+          "source": {
+            "doc": "pacma",
+            "page": 38
+          }
+        },
+        {
+          "text": "Impuesto climático a las explotaciones ganaderas y avícolas y cese de las subvenciones al sector.",
+          "source": {
+            "doc": "pacma",
+            "page": 39
+          }
+        },
+        {
+          "text": "Reducir el IVA de los servicios veterinarios del 21% al 4% o a la exención, y deducción en el IRPF de hasta el 10% de los gastos veterinarios (máximo 500 euros al año).",
+          "source": {
+            "doc": "pacma",
+            "page": 31
+          }
+        }
+      ]
+    },
+    "pensiones": {
+      "summary": "Su capítulo de protección social se centra en garantizar alimentación, agua y energía, la atención a mayores y blindar las pensiones en la Constitución.",
+      "points": [
+        {
+          "text": "Reformar la Constitución para blindar las pensiones, de modo que el sistema público no pueda recortarse ni privatizarse.",
+          "source": {
+            "doc": "pacma",
+            "page": 80
+          }
+        },
+        {
+          "text": "Estrategia Nacional de Seguridad Alimentaria y Nutrición con economatos sociales y acuerdos con comercios locales para precios bonificados según la renta.",
+          "source": {
+            "doc": "pacma",
+            "page": 54
+          }
+        },
+        {
+          "text": "Programas de huertos urbanos ecológicos para personas desempleadas o en riesgo de exclusión.",
+          "source": {
+            "doc": "pacma",
+            "page": 54
+          }
+        },
+        {
+          "text": "Garantizar un mínimo vital de agua a las personas vulnerables.",
+          "source": {
+            "doc": "pacma",
+            "page": 54
+          }
+        },
+        {
+          "text": "Facilitar el acceso al bono social eléctrico y fijar objetivos de reducción de la pobreza energética.",
+          "source": {
+            "doc": "pacma",
+            "page": 55
+          }
+        },
+        {
+          "text": "Impulsar comunidades energéticas, sobre todo rurales, mediante cooperativas locales.",
+          "source": {
+            "doc": "pacma",
+            "page": 55
+          }
+        },
+        {
+          "text": "Más centros de día, plazas en residencias públicas, sistemas de monitoreo y atención domiciliaria para personas mayores.",
+          "source": {
+            "doc": "pacma",
+            "page": 79
+          }
+        },
+        {
+          "text": "Programas de acompañamiento para paliar la soledad y la exclusión de las personas mayores.",
+          "source": {
+            "doc": "pacma",
+            "page": 79
+          }
+        }
+      ]
+    },
+    "sanidad": {
+      "summary": "Defiende una sanidad pública, universal y sin copago, con refuerzo de la atención primaria, salud mental y atención bucodental básica gratuita.",
+      "points": [
+        {
+          "text": "Reintegrar al sistema público los servicios sanitarios privatizados y reforzar la atención primaria.",
+          "source": {
+            "doc": "pacma",
+            "page": 56
+          }
+        },
+        {
+          "text": "Planes de mejora de las listas de espera y de atención sanitaria domiciliaria.",
+          "source": {
+            "doc": "pacma",
+            "page": 56
+          }
+        },
+        {
+          "text": "Oposición al copago, porque a la larga aumenta el gasto y disuade a los más desfavorecidos de usar los servicios.",
+          "source": {
+            "doc": "pacma",
+            "page": 56
+          }
+        },
+        {
+          "text": "Más dietistas-nutricionistas en la sanidad pública.",
+          "source": {
+            "doc": "pacma",
+            "page": 56
+          }
+        },
+        {
+          "text": "Plan de prevención del suicidio con detección precoz, continuidad asistencial y más especialistas en psiquiatría y psicología públicas.",
+          "source": {
+            "doc": "pacma",
+            "page": 58
+          }
+        },
+        {
+          "text": "Atención bucodental gratuita con asistencia dental básica para toda la población.",
+          "source": {
+            "doc": "pacma",
+            "page": 59
+          }
+        },
+        {
+          "text": "Promover salud laboral mediante negociación colectiva y más competencias a los delegados de prevención.",
+          "source": {
+            "doc": "pacma",
+            "page": 57
+          }
+        },
+        {
+          "text": "Permitir el acceso de animales de compañía a los hospitales mediante una sala de visitas.",
+          "source": {
+            "doc": "pacma",
+            "page": 19
+          }
+        }
+      ]
+    },
+    "educacion": {
+      "summary": "Pide un Pacto de Estado por la educación pública, con más becas, gratuidad, menor ratio y contenidos de respeto a los animales.",
+      "points": [
+        {
+          "text": "Pacto de Estado por la Educación pública y de calidad, estable en recursos.",
+          "source": {
+            "doc": "pacma",
+            "page": 59
+          }
+        },
+        {
+          "text": "Libros de texto gratuitos y libre acceso mediante un proyecto autonómico de libros con licencia copyleft.",
+          "source": {
+            "doc": "pacma",
+            "page": 60
+          }
+        },
+        {
+          "text": "Reducir la ratio de alumnos por profesor y ampliar plazas públicas de 0 a 3 años.",
+          "source": {
+            "doc": "pacma",
+            "page": 60
+          }
+        },
+        {
+          "text": "Escuela pública realmente laica y menú 100% vegetal disponible en todos los comedores de los centros.",
+          "source": {
+            "doc": "pacma",
+            "page": 60
+          }
+        },
+        {
+          "text": "Revisar los criterios de concertación con la enseñanza privada para evitar la segregación.",
+          "source": {
+            "doc": "pacma",
+            "page": 61
+          }
+        },
+        {
+          "text": "Incluir el respeto y la empatía hacia los animales como objetivo educativo transversal y formar al profesorado.",
+          "source": {
+            "doc": "pacma",
+            "page": 61
+          }
+        },
+        {
+          "text": "Sustituir las visitas a granjas escuela por visitas a refugios y santuarios, e invitar a protectoras a dar charlas.",
+          "source": {
+            "doc": "pacma",
+            "page": 24
+          }
+        },
+        {
+          "text": "Departamentos de orientación académica y profesional en Secundaria.",
+          "source": {
+            "doc": "pacma",
+            "page": 62
+          }
+        }
+      ]
+    },
+    "igualdad": {
+      "summary": "Incluye igualdad en el empleo, medidas contra la violencia machista (con reconocimiento de la violencia vicaria sobre animales) y las demandas del colectivo LGTBI+.",
+      "points": [
+        {
+          "text": "Pacto de Estado por la Igualdad en el Empleo y corresponsabilidad en las tareas domésticas.",
+          "source": {
+            "doc": "pacma",
+            "page": 64
+          }
+        },
+        {
+          "text": "Critica las listas cremallera de la Ley de Paridad y propone candidaturas equilibradas en las que las mujeres sean al menos la mitad.",
+          "source": {
+            "doc": "pacma",
+            "page": 64
+          }
+        },
+        {
+          "text": "Unidades policiales especializadas 24 horas y formación específica en violencia machista en toda la Justicia.",
+          "source": {
+            "doc": "pacma",
+            "page": 76
+          }
+        },
+        {
+          "text": "Protocolos de detección precoz en sanidad y programas educativos de prevención en todas las etapas.",
+          "source": {
+            "doc": "pacma",
+            "page": 76
+          }
+        },
+        {
+          "text": "Reconocimiento legal de la violencia vicaria ejercida sobre los animales.",
+          "source": {
+            "doc": "pacma",
+            "page": 77
+          }
+        },
+        {
+          "text": "Admitir a los animales de las mujeres víctimas en las casas de acogida y pisos tutelados.",
+          "source": {
+            "doc": "pacma",
+            "page": 77
+          }
+        },
+        {
+          "text": "Más inclusión de la diversidad sexual, de género y familiar en la educación y prevención del acoso LGTBIfóbico.",
+          "source": {
+            "doc": "pacma",
+            "page": 80
+          }
+        },
+        {
+          "text": "Inclusión y reconocimiento de las familias LGTBI+ en las políticas sobre familias.",
+          "source": {
+            "doc": "pacma",
+            "page": 80
+          }
+        }
+      ]
+    },
+    "inmigracion": {
+      "summary": "Plantea una atención humanitaria a personas migrantes y refugiadas, con acceso a derechos y programas de acogida.",
+      "points": [
+        {
+          "text": "Acceso unificado a derechos como educación, sanidad y alojamiento para una inclusión efectiva.",
+          "source": {
+            "doc": "pacma",
+            "page": 81
+          }
+        },
+        {
+          "text": "Programas de acogida dignos y más plazas, con atención especial a menores migrantes no acompañados.",
+          "source": {
+            "doc": "pacma",
+            "page": 81
+          }
+        },
+        {
+          "text": "Equipos multidisciplinares en los centros de acogida, coordinados con equipos de inclusión y jurídicos.",
+          "source": {
+            "doc": "pacma",
+            "page": 81
+          }
+        },
+        {
+          "text": "Asesoramiento sobre inmigración, refugio y retorno voluntario, con información sobre el protocolo para traer un animal desde otro país.",
+          "source": {
+            "doc": "pacma",
+            "page": 81
+          }
+        },
+        {
+          "text": "Campañas contra la xenofobia, el racismo y la exclusión social.",
+          "source": {
+            "doc": "pacma",
+            "page": 81
+          }
+        },
+        {
+          "text": "Mediadores interculturales en los centros educativos y agilizar la homologación de títulos extranjeros.",
+          "source": {
+            "doc": "pacma",
+            "page": 67
+          }
+        }
+      ]
+    },
+    "medioambiente": {
+      "summary": "Hace del cambio climático un eje transversal con renovables, menos consumo de alimentos de origen animal, protección de la fauna y espacios naturales, y prohibición de pirotecnia.",
+      "points": [
+        {
+          "text": "Modelo energético renovable y eficiente, con almacenamiento y herramientas de predicción tras el gran apagón.",
+          "source": {
+            "doc": "pacma",
+            "page": 34
+          }
+        },
+        {
+          "text": "Nuevo Plan Nacional de Mejora de Calidad del Aire que aborde combustibles fósiles, ganadería y agricultura intensivas, transporte y calefacción.",
+          "source": {
+            "doc": "pacma",
+            "page": 35
+          }
+        },
+        {
+          "text": "Prohibir el glifosato y otros herbicidas y plaguicidas peligrosos, y fomentar la producción orgánica.",
+          "source": {
+            "doc": "pacma",
+            "page": 43
+          }
+        },
+        {
+          "text": "Legislación contra la obsolescencia programada: más garantías, piezas sustituibles y reparación en cualquier taller.",
+          "source": {
+            "doc": "pacma",
+            "page": 45
+          }
+        },
+        {
+          "text": "Ampliar las zonas protegidas del 18% actual a al menos el 30% del territorio para 2030, con carácter vinculante.",
+          "source": {
+            "doc": "pacma",
+            "page": 47
+          }
+        },
+        {
+          "text": "Norma que obligue a adoptar medidas de protección de la fauna en balsas de riego, carreteras, tendidos eléctricos y otras infraestructuras.",
+          "source": {
+            "doc": "pacma",
+            "page": 48
+          }
+        },
+        {
+          "text": "Prohibir la caza deportiva y la caza durante 30 años en terrenos quemados por incendios ligados a intereses cinegéticos.",
+          "source": {
+            "doc": "pacma",
+            "page": 50
+          }
+        },
+        {
+          "text": "Prohibir los artificios pirotécnicos y regular la contaminación acústica y lumínica.",
+          "source": {
+            "doc": "pacma",
+            "page": 52
+          }
+        }
+      ]
+    },
+    "rural": {
+      "summary": "Se opone a las macrogranjas y la ganadería intensiva, pide trasladar subvenciones a la agricultura ecológica y propone un plan contra la despoblación.",
+      "points": [
+        {
+          "text": "Eliminar las jaulas en la ganadería y prohibir las exportaciones de animales vivos para engorde, sacrificio o reproducción.",
+          "source": {
+            "doc": "pacma",
+            "page": 29
+          }
+        },
+        {
+          "text": "Cesar las autorizaciones de nuevas macrogranjas o ampliaciones y revisar las concedidas con evaluación de impacto acumulado.",
+          "source": {
+            "doc": "pacma",
+            "page": 39
+          }
+        },
+        {
+          "text": "Norma estatal que limite el tamaño y número de animales de las explotaciones, regule los purines y cese sus subvenciones.",
+          "source": {
+            "doc": "pacma",
+            "page": 39
+          }
+        },
+        {
+          "text": "Reconversión de la industria pesquera y cese de las subvenciones a las piscifactorías.",
+          "source": {
+            "doc": "pacma",
+            "page": 40
+          }
+        },
+        {
+          "text": "Acabar con la comercialización de carne y aletas de tiburón.",
+          "source": {
+            "doc": "pacma",
+            "page": 41
+          }
+        },
+        {
+          "text": "Norma nacional que prohíba producir e importar pulpos criados en cautividad.",
+          "source": {
+            "doc": "pacma",
+            "page": 42
+          }
+        },
+        {
+          "text": "Subir las subvenciones a la agricultura a costa de la ganadería y redistribuir las ayudas hacia explotaciones pequeñas y ecológicas.",
+          "source": {
+            "doc": "pacma",
+            "page": 43
+          }
+        },
+        {
+          "text": "Plan de recuperación rural con asesoramiento para quienes quieran emprender en pueblos y refuerzo de servicios y conectividad.",
+          "source": {
+            "doc": "pacma",
+            "page": 70
+          }
+        }
+      ]
+    },
+    "territorio": {
+      "notMentioned": true,
+      "points": []
+    },
+    "instituciones": {
+      "summary": "Propone regeneración democrática: más transparencia, eliminar aforamientos, facilitar las ILP y una ley electoral de circunscripción única.",
+      "points": [
+        {
+          "text": "Eliminar los aforamientos.",
+          "source": {
+            "doc": "pacma",
+            "page": 72
+          }
+        },
+        {
+          "text": "Mayor transparencia y control en la contratación pública y publicación de la ejecución presupuestaria.",
+          "source": {
+            "doc": "pacma",
+            "page": 73
+          }
+        },
+        {
+          "text": "Limitar los cargos de libre designación y exigir mérito y capacidad en los nombramientos.",
+          "source": {
+            "doc": "pacma",
+            "page": 73
+          }
+        },
+        {
+          "text": "Reformar la Iniciativa Legislativa Popular: menos firmas, más plazo y toma en consideración obligatoria.",
+          "source": {
+            "doc": "pacma",
+            "page": 74
+          }
+        },
+        {
+          "text": "Sistema electoral de circunscripción única, sin barrera electoral y con reparto proporcional a los votos.",
+          "source": {
+            "doc": "pacma",
+            "page": 74
+          }
+        },
+        {
+          "text": "Suprimir las firmas para avalar candidaturas de partidos sin representación y repartir la subvención por votos.",
+          "source": {
+            "doc": "pacma",
+            "page": 74
+          }
+        },
+        {
+          "text": "Unidad especializada en protección animal en la Fiscalía y en los Cuerpos de Seguridad.",
+          "source": {
+            "doc": "pacma",
+            "page": 23
+          }
+        },
+        {
+          "text": "Despolitizar los medios públicos con directivos elegidos por concurso y financiación estable a largo plazo.",
+          "source": {
+            "doc": "pacma",
+            "page": 75
+          }
+        }
+      ]
+    },
+    "exterior": {
+      "notMentioned": true,
+      "points": []
+    },
+    "cultura": {
+      "summary": "Apoya el arte y la cultura accesible y la I+D+i, pero pide acabar con los espectáculos con animales y proteger a la infancia de la tauromaquia.",
+      "points": [
+        {
+          "text": "Prohibir el uso de animales en espectáculos, tradiciones y festejos; derogar la Ley 18/2013 que protege la tauromaquia como patrimonio cultural y retirar subvenciones.",
+          "source": {
+            "doc": "pacma",
+            "page": 12
+          }
+        },
+        {
+          "text": "Prohibir circos con animales y avanzar hacia el fin de los delfinarios, con un santuario para cetáceos en Europa.",
+          "source": {
+            "doc": "pacma",
+            "page": 11
+          }
+        },
+        {
+          "text": "Retirar la declaración de Fiesta de Interés Turístico a los eventos que usen animales mientras los usen.",
+          "source": {
+            "doc": "pacma",
+            "page": 52
+          }
+        },
+        {
+          "text": "Subvenciones, residencias artísticas y apoyo al cine y las artes escénicas.",
+          "source": {
+            "doc": "pacma",
+            "page": 62
+          }
+        },
+        {
+          "text": "Cultura accesible y asequible, y bibliotecas públicas como centros de difusión cultural.",
+          "source": {
+            "doc": "pacma",
+            "page": 63
+          }
+        },
+        {
+          "text": "Mayor inversión en I+D+i, libre acceso a los resultados de investigación pública y apoyo a jóvenes investigadores.",
+          "source": {
+            "doc": "pacma",
+            "page": 71
+          }
+        },
+        {
+          "text": "Despolitizar los medios, ampliar el acceso a internet y combatir la brecha digital.",
+          "source": {
+            "doc": "pacma",
+            "page": 75
+          }
+        },
+        {
+          "text": "Prohibir la asistencia y participación de menores en espectáculos taurinos y de caza.",
+          "source": {
+            "doc": "pacma",
+            "page": 78
+          }
+        }
+      ]
+    },
+    "otros": {
+      "summary": "Su núcleo es una Ley de Bienestar y Protección de los Animales sin exclusiones, con prohibición de la compraventa de mascotas, fin de zoos y caza, penas más duras y fin de la experimentación animal.",
+      "points": [
+        {
+          "text": "Una verdadera ley de bienestar y protección que proteja a todos los animales, sin exclusiones (incluidos los perros de caza y la fauna silvestre).",
+          "source": {
+            "doc": "pacma",
+            "page": 7
+          }
+        },
+        {
+          "text": "Prohibir la compraventa y exhibición comercial de animales de compañía, que solo puedan adoptarse, y hacer obligatoria la esterilización también de los perros.",
+          "source": {
+            "doc": "pacma",
+            "page": 8
+          }
+        },
+        {
+          "text": "Prohibir mantener animales cautivos para exhibición o entretenimiento y reconvertir zoos y acuarios en centros de rescate.",
+          "source": {
+            "doc": "pacma",
+            "page": 10
+          }
+        },
+        {
+          "text": "Abolir la caza, prohibir el plomo, y proteger al lobo y al zorro.",
+          "source": {
+            "doc": "pacma",
+            "page": 13
+          }
+        },
+        {
+          "text": "Prohibir la cría de animales para aprovechar sus pieles (granjas peleteras).",
+          "source": {
+            "doc": "pacma",
+            "page": 16
+          }
+        },
+        {
+          "text": "Dirección General de Bienestar y Protección de los Animales dependiente del ministerio de Medio Ambiente.",
+          "source": {
+            "doc": "pacma",
+            "page": 16
+          }
+        },
+        {
+          "text": "Suprimir la multa como alternativa a la prisión en el maltrato y elevar el tipo agravado por encima de cinco años.",
+          "source": {
+            "doc": "pacma",
+            "page": 23
+          }
+        },
+        {
+          "text": "Estrategia nacional para el fin de la experimentación animal y prohibir ingredientes de origen animal en cosméticos.",
+          "source": {
+            "doc": "pacma",
+            "page": 29
+          }
+        }
+      ]
+    }
+  },
+  "distinctive": [
+    {
+      "topic": "otros",
+      "text": "Prohibir la compraventa de animales de compañía para que solo puedan adoptarse.",
+      "why": "En los resúmenes de los demás programas revisados no aparece una prohibición general de la venta de mascotas; la Ley 7/2023 solo exige que perros, gatos y hurones se vendan directamente desde la persona criadora.",
+      "source": {
+        "doc": "pacma",
+        "page": 8
+      }
+    },
+    {
+      "topic": "otros",
+      "text": "Prohibir la caza deportiva y el uso de animales como instrumentos para cazar.",
+      "why": "Otros programas proponen limitar la caza con perros o incluir los perros de caza en la ley de bienestar, pero PACMA va más lejos al pedir abolir la caza.",
+      "source": {
+        "doc": "pacma",
+        "page": 13
+      }
+    },
+    {
+      "topic": "cultura",
+      "text": "Prohibir todo uso de animales en espectáculos, tradiciones y festejos, también zoos y acuarios con fines de exhibición.",
+      "why": "Algunos programas piden derogar la ley taurina o acabar con ciertos espectáculos; PACMA extiende la prohibición a todos los espectáculos y a la cautividad por entretenimiento.",
+      "source": {
+        "doc": "pacma",
+        "page": 12
+      }
+    },
+    {
+      "topic": "medioambiente",
+      "text": "Impuesto climático a los productos de origen animal y mayor IVA a los lácteos animales que a los vegetales.",
+      "why": "Usa los impuestos para desincentivar el consumo de productos animales, una medida que no aparece en los resúmenes de otros programas.",
+      "source": {
+        "doc": "pacma",
+        "page": 37
+      }
+    },
+    {
+      "topic": "rural",
+      "text": "Cesar las autorizaciones de macrogranjas, limitar su tamaño y prohibir la exportación de animales vivos.",
+      "why": "Otros programas hablan de moratorias o límites a macrogranjas; PACMA suma el cese de subvenciones y el veto a la exportación en vivo.",
+      "source": {
+        "doc": "pacma",
+        "page": 39
+      }
+    },
+    {
+      "topic": "rural",
+      "text": "Prohibir producir e importar pulpos criados en cautividad y proteger a los crustáceos del consumo.",
+      "why": "Es una medida muy específica de bienestar de invertebrados que no aparece en los resúmenes de otros programas.",
+      "source": {
+        "doc": "pacma",
+        "page": 42
+      }
+    },
+    {
+      "topic": "medioambiente",
+      "text": "Prohibir los artificios pirotécnicos y sus simulaciones.",
+      "why": "No aparece una propuesta equivalente en los resúmenes de los demás programas revisados.",
+      "source": {
+        "doc": "pacma",
+        "page": 52
+      }
+    },
+    {
+      "topic": "instituciones",
+      "text": "Sistema electoral de circunscripción única, sin barrera y con reparto proporcional.",
+      "why": "Propone cambiar la ley electoral para igualar el valor de los votos; no figura en los resúmenes de otros programas revisados.",
+      "source": {
+        "doc": "pacma",
+        "page": 74
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "CER",
+      "definition": "Captura-Esterilización-Retorno: método para controlar las colonias de gatos callejeros esterilizándolos y devolviéndolos a su lugar."
+    },
+    {
+      "term": "Sacrificio cero",
+      "definition": "Principio por el que no se mata a animales sanos de los centros de acogida; se distingue de la eutanasia, que evita un sufrimiento irremediable."
+    },
+    {
+      "term": "Macrogranja",
+      "definition": "Explotación ganadera industrial de gran tamaño con muchos animales concentrados."
+    },
+    {
+      "term": "Purines",
+      "definition": "Excrementos líquidos del ganado, ricos en nitrógeno, fósforo y potasio, que pueden contaminar el agua."
+    },
+    {
+      "term": "Impuesto climático",
+      "definition": "Impuesto cuyo importe depende de las emisiones asociadas a producir algo, para compensar el daño climático."
+    },
+    {
+      "term": "Obsolescencia programada",
+      "definition": "Diseño de un producto para que deje de funcionar tras un tiempo fijado por el fabricante."
+    },
+    {
+      "term": "Glifosato",
+      "definition": "Herbicida muy usado; la OMS lo ha calificado como probablemente cancerígeno."
+    },
+    {
+      "term": "Circunscripción única",
+      "definition": "Sistema en el que todo el país forma un solo distrito electoral y los escaños se reparten según el total de votos."
+    },
+    {
+      "term": "LOREG",
+      "definition": "Ley Orgánica del Régimen Electoral General, que regula las elecciones."
+    },
+    {
+      "term": "ILP",
+      "definition": "Iniciativa Legislativa Popular: mecanismo para que la ciudadanía proponga leyes al Congreso mediante firmas."
+    },
+    {
+      "term": "Violencia vicaria",
+      "definition": "Daño a personas o animales queridos de la víctima para hacerle sufrir a ella."
+    },
+    {
+      "term": "Especie alóctona",
+      "definition": "Especie que vive fuera de su área natural por intervención humana."
+    },
+    {
+      "term": "Etología",
+      "definition": "Ciencia que estudia el comportamiento de los animales."
+    },
+    {
+      "term": "Familias interespecie",
+      "definition": "Expresión que usa PACMA para las familias que conviven con animales de compañía."
+    }
+  ]
+}

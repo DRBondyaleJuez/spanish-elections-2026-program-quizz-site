@@ -1,0 +1,996 @@
+{
+ "party": "mmj",
+ "overview": "Por un Mundo Más Justo (M+J) presenta un programa de 32 ejes organizado en torno a la justicia social, los derechos humanos y la sostenibilidad. Cada eje incluye medidas y una tabla de compromisos medibles para 2026-2030 con el dato actual, la meta y el plazo. Prioriza la vivienda pública, la lucha contra la pobreza, la fiscalidad progresiva, la paz y la cooperación internacional.",
+ "topics": {
+  "vivienda": {
+   "summary": "Plantea un gran parque público de alquiler asequible (del 1,1% al 5% en 2030), vivienda protegida permanente, alquiler de referencia con límite de precio y suspensión de desahucios a familias vulnerables.",
+   "points": [
+    {
+     "text": "Crear un gran parque público de vivienda en alquiler: pasar del 1,1% actual al 5% del parque en 2030 (al menos 1,35 millones de viviendas), con alquiler según la renta y nunca superior al 30% de los ingresos familiares.",
+     "source": {
+      "doc": "mmj",
+      "page": 5
+     }
+    },
+    {
+     "text": "Mantener la vivienda protegida de forma permanente, con precio de venta actualizado según el IPC, derecho de tanteo y retracto de la Administración y prohibición de vender vivienda pública en alquiler a empresas privadas.",
+     "source": {
+      "doc": "mmj",
+      "page": 7
+     }
+    },
+    {
+     "text": "Prohibir la venta de suelo público y la monetización de aprovechamientos urbanísticos, con financiación extraordinaria a los ayuntamientos, e inventariar edificios públicos infrautilizados para destinarlos a vivienda social.",
+     "source": {
+      "doc": "mmj",
+      "page": 8
+     }
+    },
+    {
+     "text": "Fijar un alquiler de referencia y limitar el precio según las características y la localización; los contratos de vivienda habitual serían indefinidos, con fin solo por necesidad del propietario o incumplimiento del inquilino.",
+     "source": {
+      "doc": "mmj",
+      "page": 8
+     }
+    },
+    {
+     "text": "Dar garantías a quienes alquilan una o dos viviendas (seguro público de alquiler contra impagos y desperfectos) e incentivar y penalizar con medidas fiscales proporcionadas para sacar al mercado la vivienda vacía.",
+     "source": {
+      "doc": "mmj",
+      "page": 9
+     }
+    },
+    {
+     "text": "Facilitar la construcción simplificando trámites y flexibilizando el Código Técnico de la Edificación sin perder habitabilidad, con un registro de promotoras colaboradoras para vivienda pública.",
+     "source": {
+      "doc": "mmj",
+      "page": 9
+     }
+    },
+    {
+     "text": "Frenar la especulación con un impuesto creciente según el número de viviendas compradas, tributación extraordinaria a la acumulación (sobre todo turística) y un régimen especial para personas extranjeras en compras o alquileres por encima de un precio límite.",
+     "source": {
+      "doc": "mmj",
+      "page": 10
+     }
+    },
+    {
+     "text": "Suspender los desahucios de familias vulnerables hasta que haya una solución habitacional efectiva, con oficina pública de defensa habitacional, sistema de alerta temprana y fondo de emergencia.",
+     "source": {
+      "doc": "mmj",
+      "page": 11
+     }
+    }
+   ]
+  },
+  "empleo": {
+   "summary": "Propone reducir la jornada a 35 horas sin bajar el sueldo, avanzar hacia una renta básica, reforzar la lucha contra la explotación laboral y garantizar salarios dignos y reconocimiento de los cuidados.",
+   "points": [
+    {
+     "text": "Reducir progresivamente la jornada hasta 35 horas semanales sin recorte salarial, adaptándolo a cada sector y con apoyos a las pequeñas empresas.",
+     "source": {
+      "doc": "mmj",
+      "page": 29
+     }
+    },
+    {
+     "text": "Avanzar hacia una renta básica de justicia social ampliando cobertura, cuantías y accesibilidad del Ingreso Mínimo Vital, compatible con el empleo.",
+     "source": {
+      "doc": "mmj",
+      "page": 29
+     }
+    },
+    {
+     "text": "Reforzar la Inspección de Trabajo contra la explotación laboral y la economía sumergida, con protección a quien denuncie aunque esté en situación administrativa irregular.",
+     "source": {
+      "doc": "mmj",
+      "page": 30
+     }
+    },
+    {
+     "text": "Trasladar las subidas del SMI a las distintas categorías profesionales mediante cláusulas en los convenios, y reforzar la transparencia salarial y la lucha contra la pobreza laboral.",
+     "source": {
+      "doc": "mmj",
+      "page": 30
+     }
+    },
+    {
+     "text": "Ampliar los periodos de cuidados que computan como cotizados para la jubilación para que criar o cuidar de familiares no baje las pensiones.",
+     "source": {
+      "doc": "mmj",
+      "page": 30
+     }
+    },
+    {
+     "text": "Prácticas siempre remuneradas y con tutoría, ayudas a la contratación juvenil solo si el contrato es estable y fin del encadenamiento de becas y contratos temporales.",
+     "source": {
+      "doc": "mmj",
+      "page": 22
+     }
+    },
+    {
+     "text": "Perseguir a los falsos autónomos con más inspección en plataformas digitales y presumir la relación laboral al transponer la directiva europea de trabajo en plataformas.",
+     "source": {
+      "doc": "mmj",
+      "page": 33
+     }
+    },
+    {
+     "text": "Plan Estatal de Empleo Sénior con incentivos a la contratación estable de mayores de 50 años y criterios sociales en la contratación pública.",
+     "source": {
+      "doc": "mmj",
+      "page": 16
+     }
+    }
+   ]
+  },
+  "economia": {
+   "summary": "Busca un sistema fiscal más progresivo (igualar capital y trabajo, gravar grandes fortunas y grandes empresas), más inspección contra el fraude y apoyo a pequeñas empresas, autónomos y economía social.",
+   "points": [
+    {
+     "text": "Reforma fiscal que equipare la tributación de las rentas del capital y del trabajo con los mismos criterios de progresividad.",
+     "source": {
+      "doc": "mmj",
+      "page": 26
+     }
+    },
+    {
+     "text": "Aumentar al menos un 40% los recursos de la Agencia Tributaria para inspección y control del fraude, con atención a grandes fortunas y empresas.",
+     "source": {
+      "doc": "mmj",
+      "page": 26
+     }
+    },
+    {
+     "text": "Tributación efectiva mínima del 3% sobre patrimonios netos superiores a 50 millones de euros, mediante un gravamen complementario en el Impuesto de Solidaridad sobre las Grandes Fortunas (propuesta inspirada en Gabriel Zucman).",
+     "source": {
+      "doc": "mmj",
+      "page": 27
+     }
+    },
+    {
+     "text": "Revisar las exenciones del Impuesto sobre el Patrimonio (incluida la de la empresa familiar) y mantener el Impuesto de Solidaridad sobre las Grandes Fortunas.",
+     "source": {
+      "doc": "mmj",
+      "page": 27
+     }
+    },
+    {
+     "text": "Gravar los beneficios extraordinarios de las grandes empresas, limitar al 90% la exención por doble imposición, controlar SICAV y ETVE y mantener y ampliar la Tasa Google.",
+     "source": {
+      "doc": "mmj",
+      "page": 27
+     }
+    },
+    {
+     "text": "Que los autónomos coticen por ingresos reales con tramos bajos más baratos y que nunca paguen proporcionalmente más que una gran empresa.",
+     "source": {
+      "doc": "mmj",
+      "page": 32
+     }
+    },
+    {
+     "text": "Transponer de forma ambiciosa la Directiva europea de diligencia debida y adaptar la normativa a pequeñas empresas con criterios de proporcionalidad.",
+     "source": {
+      "doc": "mmj",
+      "page": 34
+     }
+    },
+    {
+     "text": "Aplicar la Ley 1/2026 de economía social e incorporar un índice de precios de lo suficiente, basado en una cesta de bienes para una vida digna.",
+     "source": {
+      "doc": "mmj",
+      "page": 35
+     }
+    }
+   ]
+  },
+  "pensiones": {
+   "summary": "Quiere blindar las pensiones públicas en la Constitución, subir mínimas y no contributivas, eliminar el tope de cotización y crear una aportación de empresas muy automatizadas, además de ampliar el Ingreso Mínimo Vital.",
+   "points": [
+    {
+     "text": "Reformar la Constitución para reconocer las pensiones públicas como derecho fundamental, prohibir su privatización y garantizar que no pierdan poder adquisitivo.",
+     "source": {
+      "doc": "mmj",
+      "page": 24
+     }
+    },
+    {
+     "text": "Elevar progresivamente las pensiones mínimas y no contributivas hasta una cuantía que permita una vida digna, tomando como referencia su coste real y no solo la trayectoria laboral.",
+     "source": {
+      "doc": "mmj",
+      "page": 24
+     }
+    },
+    {
+     "text": "Eliminar progresivamente el tope máximo de cotización (destope), manteniendo un límite en la pensión máxima.",
+     "source": {
+      "doc": "mmj",
+      "page": 24
+     }
+    },
+    {
+     "text": "Crear una contribución a la Seguridad Social para empresas que generan mucho valor con poco empleo gracias a la automatización.",
+     "source": {
+      "doc": "mmj",
+      "page": 25
+     }
+    },
+    {
+     "text": "Garantizar por ley una aportación estable de los Presupuestos Generales del Estado para financiar el suelo de suficiencia.",
+     "source": {
+      "doc": "mmj",
+      "page": 25
+     }
+    },
+    {
+     "text": "Reconocer los cuidados en las pensiones, ampliando los periodos computables por crianza y atención a familiares dependientes.",
+     "source": {
+      "doc": "mmj",
+      "page": 30
+     }
+    },
+    {
+     "text": "Ampliar el Ingreso Mínimo Vital con ayudas individuales, no condicionadas, compatibles con el empleo y sin trabas burocráticas.",
+     "source": {
+      "doc": "mmj",
+      "page": 76
+     }
+    },
+    {
+     "text": "Una única prestación universal y progresiva por hijo, que una el complemento de infancia y las ventajas fiscales por menor a cargo y varíe según la renta.",
+     "source": {
+      "doc": "mmj",
+      "page": 20
+     }
+    }
+   ]
+  },
+  "sanidad": {
+   "summary": "Defiende reforzar la sanidad pública y la atención primaria (al menos el 25% del gasto sanitario), frenar la privatización, ampliar la salud mental y garantizar cuidados paliativos universales.",
+   "points": [
+    {
+     "text": "Fortalecer el sistema sanitario público con más inversión y garantizar la atención universal, también a personas en situación administrativa irregular.",
+     "source": {
+      "doc": "mmj",
+      "page": 37
+     }
+    },
+    {
+     "text": "Aumentar la financiación de la Atención Primaria hasta al menos el 25% del gasto sanitario público, ampliar plantillas, frenar la privatización y recuperar servicios externalizados.",
+     "source": {
+      "doc": "mmj",
+      "page": 38
+     }
+    },
+    {
+     "text": "Promover un Estatuto Marco del Personal Estatutario pactado con los colectivos profesionales y las comunidades autónomas.",
+     "source": {
+      "doc": "mmj",
+      "page": 38
+     }
+    },
+    {
+     "text": "Aprobar una ley estatal de cuidados paliativos que armonice derechos en todo el territorio y crear comunidades compasivas.",
+     "source": {
+      "doc": "mmj",
+      "page": 39
+     }
+    },
+    {
+     "text": "Reforzar la salud mental: prevención del suicidio y llegar a 50 profesionales por 100.000 habitantes (30 en España).",
+     "source": {
+      "doc": "mmj",
+      "page": 41
+     }
+    },
+    {
+     "text": "Psicólogos en los centros educativos y una red pública de hospitales de día y recursos de salud mental infantojuvenil.",
+     "source": {
+      "doc": "mmj",
+      "page": 42
+     }
+    },
+    {
+     "text": "Atención psicológica gratuita y voluntaria antes y después de una interrupción voluntaria del embarazo y valoración de cuidados paliativos antes de tramitar una petición de eutanasia.",
+     "source": {
+      "doc": "mmj",
+      "page": 44
+     }
+    },
+    {
+     "text": "Prohibir la publicidad dirigida a menores de alimentos y bebidas con mucha sal, azúcar o grasas según criterios de la OMS.",
+     "source": {
+      "doc": "mmj",
+      "page": 21
+     }
+    }
+   ]
+  },
+  "educacion": {
+   "summary": "Propone elevar la inversión educativa al 6% del PIB, reducir ratios y horas lectivas, un plan de inclusión educativa, gratuidad de 0 a 3 años y reforzar la FP y la escuela pública sin cuestionar la concertada.",
+   "points": [
+    {
+     "text": "Subir progresivamente la inversión educativa hasta al menos el 6% del PIB, reforzando los centros públicos y apoyando la coexistencia de la educación pública y la privada concertada y no concertada.",
+     "source": {
+      "doc": "mmj",
+      "page": 45
+     }
+    },
+    {
+     "text": "Fijar por ley una jornada lectiva máxima de 23 horas semanales en Infantil, Primaria y Educación Especial y de 18 horas en el resto.",
+     "source": {
+      "doc": "mmj",
+      "page": 46
+     }
+    },
+    {
+     "text": "Reducir las ratios a 20 alumnos en Infantil y Primaria y 25 en ESO y Bachillerato, con un orientador por cada 250 estudiantes.",
+     "source": {
+      "doc": "mmj",
+      "page": 46
+     }
+    },
+    {
+     "text": "Plan Estatal de Inclusión Educativa con profesionales de apoyo y avanzar hacia la gratuidad universal de la Educación Infantil de 0 a 3 años.",
+     "source": {
+      "doc": "mmj",
+      "page": 46
+     }
+    },
+    {
+     "text": "Ampliar plazas, equipamientos y profesorado de la Formación Profesional pública.",
+     "source": {
+      "doc": "mmj",
+      "page": 46
+     }
+    },
+    {
+     "text": "Estrategia Estatal de Educación para la Ciudadanía y la Justicia Global, con coeducación y educación afectivo-sexual adaptada a cada etapa.",
+     "source": {
+      "doc": "mmj",
+      "page": 46
+     }
+    },
+    {
+     "text": "Una beca única para todo el Estado con los mismos criterios en todas las comunidades y un complemento para quien estudia y trabaja.",
+     "source": {
+      "doc": "mmj",
+      "page": 22
+     }
+    },
+    {
+     "text": "Más recursos para educación en derechos humanos, cultura de paz, mediación escolar y círculos restaurativos.",
+     "source": {
+      "doc": "mmj",
+      "page": 14
+     }
+    }
+   ]
+  },
+  "igualdad": {
+   "summary": "Plantea aplicar las 461 medidas del Pacto de Estado contra la Violencia de Género, combatir la brecha salarial, avanzar hacia la abolición de la prostitución, mantener la prohibición de la gestación subrogada y reforzar las estrategias LGTBI.",
+   "points": [
+    {
+     "text": "Aplicar las 461 medidas del Pacto de Estado contra la Violencia de Género y la directiva europea sobre violencia contra las mujeres.",
+     "source": {
+      "doc": "mmj",
+      "page": 78
+     }
+    },
+    {
+     "text": "Garantizar autonomía económica y protección social a las víctimas de violencia de género, con protección estable para los huérfanos y huérfanas.",
+     "source": {
+      "doc": "mmj",
+      "page": 78
+     }
+    },
+    {
+     "text": "Combatir la feminización de la pobreza: reducir la brecha salarial, mejorar las condiciones de las trabajadoras informales de cuidados y abordar la pobreza menstrual.",
+     "source": {
+      "doc": "mmj",
+      "page": 79
+     }
+    },
+    {
+     "text": "Coeducación y prevención de la violencia en todas las etapas educativas y formación obligatoria en igualdad para profesionales que trabajan con personas.",
+     "source": {
+      "doc": "mmj",
+      "page": 79
+     }
+    },
+    {
+     "text": "Combatir la trata y la explotación sexual y avanzar hacia la abolición de la prostitución, con alternativas de empleo digno para quienes la ejercen.",
+     "source": {
+      "doc": "mmj",
+      "page": 79
+     }
+    },
+    {
+     "text": "Mantener la prohibición de la gestación subrogada en España.",
+     "source": {
+      "doc": "mmj",
+      "page": 79
+     }
+    },
+    {
+     "text": "Reforzar y financiar las estrategias estatales de igualdad LGTBI y de inclusión de personas trans, y contenidos de diversidad sexual y de género en el currículo.",
+     "source": {
+      "doc": "mmj",
+      "page": 81
+     }
+    },
+    {
+     "text": "Pacto de Estado contra los discursos de odio y reconocimiento de la aporofobia (rechazo a las personas pobres), junto con un Plan Nacional contra el racismo, la islamofobia, el antisemitismo y el antigitanismo.",
+     "source": {
+      "doc": "mmj",
+      "page": 13
+     }
+    }
+   ]
+  },
+  "inmigracion": {
+   "summary": "Ve la migración como una oportunidad y propone vías legales y seguras, regularización permanente, fin de las devoluciones en caliente y de los CIE y mayor protección a menores y personas vulnerables.",
+   "points": [
+    {
+     "text": "Reforzar Salvamento Marítimo, impulsar un sistema europeo de rescate y garantizar el trabajo humanitario de las ONG sin criminalizarlas.",
+     "source": {
+      "doc": "mmj",
+      "page": 51
+     }
+    },
+    {
+     "text": "Facilitar vías legales y seguras: permisos de residencia y trabajo desde los países de origen, corredores humanitarios, reasentamiento y reagrupación familiar.",
+     "source": {
+      "doc": "mmj",
+      "page": 51
+     }
+    },
+    {
+     "text": "Eliminar las devoluciones en caliente sin garantías, acabar con la externalización de fronteras y retirar el proyecto de real decreto-ley sobre asilo en Ceuta.",
+     "source": {
+      "doc": "mmj",
+      "page": 51
+     }
+    },
+    {
+     "text": "Sustituir los Centros de Internamiento de Extranjeros (CIE) por alternativas abiertas y comunitarias.",
+     "source": {
+      "doc": "mmj",
+      "page": 51
+     }
+    },
+    {
+     "text": "Determinación de la edad con presunción de minoría y reconocimiento de la documentación válida del país de origen salvo prueba en contrario.",
+     "source": {
+      "doc": "mmj",
+      "page": 52
+     }
+    },
+    {
+     "text": "Vías accesibles y permanentes de regularización, más medios en las oficinas de extranjería y fin de las prácticas abusivas de venta de citas.",
+     "source": {
+      "doc": "mmj",
+      "page": 52
+     }
+    },
+    {
+     "text": "Reconocer derechos de participación política a las personas migrantes residentes.",
+     "source": {
+      "doc": "mmj",
+      "page": 13
+     }
+    },
+    {
+     "text": "Fondo Estatal plurianual para la convivencia entre menores migrantes y comunidades de acogida (mentoría, familias colaboradoras, proyectos interculturales).",
+     "source": {
+      "doc": "mmj",
+      "page": 14
+     }
+    }
+   ]
+  },
+  "medioambiente": {
+   "summary": "Respalda el objetivo europeo de reducir un 55% las emisiones en 2030, propone un plan de adaptación climática, eliminar los combustibles fósiles, un Fondo Generacional de la Energía y ciudades más verdes.",
+   "points": [
+    {
+     "text": "Respaldar la reducción del 55% de emisiones en 2030 respecto a 1990 y la neutralidad de carbono en 2050, con presupuestos de carbono anuales y un organismo independiente de verificación.",
+     "source": {
+      "doc": "mmj",
+      "page": 53
+     }
+    },
+    {
+     "text": "Plan Estatal de Adaptación a la Emergencia Climática, con brigadas forestales desplegadas de forma preventiva y prioridad a las personas más vulnerables.",
+     "source": {
+      "doc": "mmj",
+      "page": 53
+     }
+    },
+    {
+     "text": "Ciudades verdes: un parque a menos de 15 minutos a pie en cada barrio y un 30% de cubierta arbórea urbana en cada municipio.",
+     "source": {
+      "doc": "mmj",
+      "page": 54
+     }
+    },
+    {
+     "text": "Eliminar progresivamente el carbón, el petróleo y el gas, con apuesta por renovables bien evaluadas y autoconsumo.",
+     "source": {
+      "doc": "mmj",
+      "page": 58
+     }
+    },
+    {
+     "text": "Descarbonizar el transporte: transporte público y ferrocarril, y menos aviación en rutas con alternativa ferroviaria.",
+     "source": {
+      "doc": "mmj",
+      "page": 59
+     }
+    },
+    {
+     "text": "Crear un Fondo Generacional de la Energía público que invierta en renovables, almacenamiento e hidroeléctricas y destine sus rendimientos a vivienda pública, rehabilitación y, a largo plazo, pensiones.",
+     "source": {
+      "doc": "mmj",
+      "page": 59
+     }
+    },
+    {
+     "text": "Ecoetiquetado ambiental y una tasa sobre cada producto según su huella ambiental, protegiendo a los hogares vulnerables.",
+     "source": {
+      "doc": "mmj",
+      "page": 56
+     }
+    },
+    {
+     "text": "Considerar el agua un bien público, prevenir los cortes por impago a hogares vulnerables y aprobar un Plan Nacional de Siembra de Agua.",
+     "source": {
+      "doc": "mmj",
+      "page": 56
+     }
+    }
+   ]
+  },
+  "rural": {
+   "summary": "Propone un plan de repoblación a cinco años en 23 provincias, ampliar la agricultura ecológica a 6 millones de hectáreas y apoyar la ganadería extensiva y a los pequeños productores.",
+   "points": [
+    {
+     "text": "Plan de repoblación a 5 años de la España Vaciada (23 provincias), con implantación de empresas en las capitales de provincia.",
+     "source": {
+      "doc": "mmj",
+      "page": 91
+     }
+    },
+    {
+     "text": "Recuperar paisajes con ganadería extensiva y herbivoría de conservación, con experiencias piloto y compensaciones por servicios ambientales.",
+     "source": {
+      "doc": "mmj",
+      "page": 91
+     }
+    },
+    {
+     "text": "Crear un Cuerpo Civil de Regeneración de la Naturaleza y consejos biorregionales, con empleo verde juvenil y rural.",
+     "source": {
+      "doc": "mmj",
+      "page": 92
+     }
+    },
+    {
+     "text": "Plan Nacional de Agricultura Ecológica y Regenerativa: 6 millones de hectáreas ecológicas en 2030.",
+     "source": {
+      "doc": "mmj",
+      "page": 55
+     }
+    },
+    {
+     "text": "Transición ecológica justa en el sector primario: agroecología, cooperativas de pequeños productores, canales de proximidad y ayudas para el relevo generacional.",
+     "source": {
+      "doc": "mmj",
+      "page": 59
+     }
+    },
+    {
+     "text": "Avales y microcréditos con condiciones preferentes en municipios rurales y ampliar la tarifa plana para autónomos en pueblos en riesgo de despoblación.",
+     "source": {
+      "doc": "mmj",
+      "page": 33
+     }
+    },
+    {
+     "text": "Apoyar a los pequeños productores y a la ganadería extensiva y prohibir criar animales hacinados.",
+     "source": {
+      "doc": "mmj",
+      "page": 61
+     }
+    },
+    {
+     "text": "Red de cultura rural con programación estable y residencias para creadores en pueblos pequeños.",
+     "source": {
+      "doc": "mmj",
+      "page": 64
+     }
+    }
+   ]
+  },
+  "territorio": {
+   "notMentioned": true,
+   "points": []
+  },
+  "instituciones": {
+   "summary": "Propone una reforma de elección del CGPJ y de la Fiscalía General, medidas anticorrupción (suspensión del cargo, prohibición de indulto, menos aforamientos) y una mayor calidad democrática y participación.",
+   "points": [
+    {
+     "text": "Reformar la elección del CGPJ: mantener 8 vocales juristas elegidos por Congreso y Senado y que los otros 12, de procedencia judicial, los elijan directamente jueces y magistrados.",
+     "source": {
+      "doc": "mmj",
+      "page": 72
+     }
+    },
+    {
+     "text": "Reformar el nombramiento del Fiscal General del Estado con criterios de mérito, capacidad e independencia para reducir la influencia del Gobierno.",
+     "source": {
+      "doc": "mmj",
+      "page": 72
+     }
+    },
+    {
+     "text": "Tolerancia cero con la corrupción: responsabilidad patrimonial de los partidos, suspensión del cargo con juicio oral, prohibición del indulto en corrupción y reducir los aforamientos.",
+     "source": {
+      "doc": "mmj",
+      "page": 69
+     }
+    },
+    {
+     "text": "Eliminar los avales exigidos desde 2011 para presentar candidaturas al Congreso y al Senado y democratizar el funcionamiento interno de los partidos.",
+     "source": {
+      "doc": "mmj",
+      "page": 69
+     }
+    },
+    {
+     "text": "Ley de Integridad del Debate Público contra la difusión deliberada de información falsa por cargos públicos, respetando la libertad de expresión.",
+     "source": {
+      "doc": "mmj",
+      "page": 70
+     }
+    },
+    {
+     "text": "Facilitar las Iniciativas Legislativas Populares y ampliar las consultas ciudadanas, incluidos referendos, inspirándose en la democracia suiza.",
+     "source": {
+      "doc": "mmj",
+      "page": 70
+     }
+    },
+    {
+     "text": "Dificultar las puertas giratorias (cinco años de incompatibilidad para altos cargos) y aprobar una nueva Ley de Secretos Oficiales en la que las violaciones de derechos humanos nunca sean secretas.",
+     "source": {
+      "doc": "mmj",
+      "page": 73
+     }
+    },
+    {
+     "text": "Pacto de Estado por el Diálogo y la Convivencia Democrática contra la polarización y los discursos de odio.",
+     "source": {
+      "doc": "mmj",
+      "page": 68
+     }
+    }
+   ]
+  },
+  "exterior": {
+   "summary": "Defiende una política exterior de paz: no aumentar el gasto militar, controlar la exportación de armas, reformar la ONU, suspender el acuerdo UE-Israel y cumplir el 0,7% de ayuda al desarrollo.",
+   "points": [
+    {
+     "text": "No avanzar en la escalada armamentística, reorientar el gasto militar a necesidades básicas y apoyar el «Dividendo para la paz mundial» (reducir un 2% el gasto militar en todos los países).",
+     "source": {
+      "doc": "mmj",
+      "page": 65
+     }
+    },
+    {
+     "text": "Poner fin al comercio irresponsable de armas: prohibir exportarlas a países en guerra o que vulneren derechos humanos y dar control parlamentario previo.",
+     "source": {
+      "doc": "mmj",
+      "page": 66
+     }
+    },
+    {
+     "text": "Reforzar el multilateralismo y reformar democráticamente el Consejo de Seguridad de la ONU.",
+     "source": {
+      "doc": "mmj",
+      "page": 66
+     }
+    },
+    {
+     "text": "Promover en la UE la suspensión del Acuerdo de Asociación con Israel y el cumplimiento de las resoluciones de la CIJ y la CPI.",
+     "source": {
+      "doc": "mmj",
+      "page": 66
+     }
+    },
+    {
+     "text": "Cumplir el 0,7% de la Renta Nacional Bruta como Ayuda Oficial al Desarrollo y destinar al menos 400 millones anuales a ONGD a través de la AECID.",
+     "source": {
+      "doc": "mmj",
+      "page": 89
+     }
+    },
+    {
+     "text": "Dedicar el 10% de la ayuda oficial al desarrollo a acción humanitaria.",
+     "source": {
+      "doc": "mmj",
+      "page": 89
+     }
+    },
+    {
+     "text": "Política exterior y de cooperación feministas (20% de la ayuda con igualdad de género como objetivo principal) y promover la cancelación de la deuda externa.",
+     "source": {
+      "doc": "mmj",
+      "page": 90
+     }
+    },
+    {
+     "text": "Comercio internacional justo: revisar acuerdos comerciales que favorecen la explotación de recursos en países empobrecidos, empezando por los de África.",
+     "source": {
+      "doc": "mmj",
+      "page": 34
+     }
+    }
+   ]
+  },
+  "cultura": {
+   "summary": "Propone una Ley del Derecho a la Cultura, cultura para las personas más excluidas, un pacto de Estado por la ciencia con inversión del 3% del PIB, y protección de la infancia y de la ciudadanía en el entorno digital.",
+   "points": [
+    {
+     "text": "Aprobar una Ley del Derecho a la Cultura que proteja el patrimonio, garantice la libertad de creación y complete el Estatuto del Artista.",
+     "source": {
+      "doc": "mmj",
+      "page": 63
+     }
+    },
+    {
+     "text": "Destinar una parte fija del presupuesto cultural a proyectos artísticos con personas excluidas (cárceles, residencias, hospitales, personas sin hogar).",
+     "source": {
+      "doc": "mmj",
+      "page": 63
+     }
+    },
+    {
+     "text": "Crear una red estatal de espacios de memoria y reconciliación sobre la violencia política del último siglo.",
+     "source": {
+      "doc": "mmj",
+      "page": 64
+     }
+    },
+    {
+     "text": "Visado cultural ágil para artistas de países empobrecidos y residencias artísticas con creadores de África, América Latina y Asia.",
+     "source": {
+      "doc": "mmj",
+      "page": 64
+     }
+    },
+    {
+     "text": "Pacto de Estado por la ciencia y la innovación y subir la inversión en ciencia hasta el 3% del PIB.",
+     "source": {
+      "doc": "mmj",
+      "page": 48
+     }
+    },
+    {
+     "text": "Ley Orgánica de protección de las personas menores de edad en el entorno digital.",
+     "source": {
+      "doc": "mmj",
+      "page": 20
+     }
+    },
+    {
+     "text": "Programas de alfabetización mediática y digital para prevenir la desinformación.",
+     "source": {
+      "doc": "mmj",
+      "page": 70
+     }
+    },
+    {
+     "text": "Garantizar derechos digitales, atención presencial y acompañamiento en los trámites administrativos.",
+     "source": {
+      "doc": "mmj",
+      "page": 77
+     }
+    }
+   ]
+  },
+  "otros": {
+   "summary": "Incluye ejes propios sobre sinhogarismo (Housing First), reinserción penitenciaria, protección animal, Tercer Sector y derechos de las personas mayores.",
+   "points": [
+    {
+     "text": "Pacto de Estado para la Prevención de la Pobreza Extrema y el Sinhogarismo, para que nadie salga de una institución pública directamente a la calle.",
+     "source": {
+      "doc": "mmj",
+      "page": 83
+     }
+    },
+    {
+     "text": "Programa específico de erradicación del sinhogarismo en el Plan Estatal de Vivienda, ampliando Housing First y Housing Led y dando vivienda sin condiciones previas.",
+     "source": {
+      "doc": "mmj",
+      "page": 84
+     }
+    },
+    {
+     "text": "Modelo penitenciario basado en la justicia restaurativa y la reinserción, con normas homogéneas de visitas y transporte público a las cárceles.",
+     "source": {
+      "doc": "mmj",
+      "page": 86
+     }
+    },
+    {
+     "text": "Completar el traspaso de la sanidad penitenciaria a las comunidades autónomas y bonificar a las empresas que contraten a personas que han cumplido condena.",
+     "source": {
+      "doc": "mmj",
+      "page": 87
+     }
+    },
+    {
+     "text": "Reforzar la prohibición de experimentar con animales en cosmética y revisar la exclusión de los perros de caza de la Ley 7/2023, sin proponer cambios en la regulación de la caza ni de la tauromaquia.",
+     "source": {
+      "doc": "mmj",
+      "page": 61
+     }
+    },
+    {
+     "text": "Plan Integral contra el Abandono Animal, con colaboración financiada con las protectoras y fomento de la adopción.",
+     "source": {
+      "doc": "mmj",
+      "page": 62
+     }
+    },
+    {
+     "text": "Reconocer al Tercer Sector como agente de interés general y garantizarle financiación pública estable y plurianual.",
+     "source": {
+      "doc": "mmj",
+      "page": 74
+     }
+    },
+    {
+     "text": "Ley Marco Estatal de Derechos de las Personas Mayores, de carácter básico y exigible ante los tribunales.",
+     "source": {
+      "doc": "mmj",
+      "page": 16
+     }
+    }
+   ]
+  }
+ },
+ "distinctive": [
+  {
+   "topic": "vivienda",
+   "text": "Pasar del 1,1% al 5% de vivienda social y asequible permanente en 2030 (1,35 millones de viviendas), con un esfuerzo estatal recomendado de 10.000 a 15.000 millones de euros al año.",
+   "why": "Pone cifras muy concretas de parque público y presupuesto, y plantea que la vivienda protegida no pueda perder esa calificación nunca; no he encontrado una combinación igual en los resúmenes de otros partidos.",
+   "source": {
+    "doc": "mmj",
+    "page": 6
+   }
+  },
+  {
+   "topic": "vivienda",
+   "text": "Suspender cualquier desahucio de una familia vulnerable hasta que exista una solución habitacional efectiva avalada por la Administración o una entidad social.",
+   "why": "Condiciona la ejecución del desahucio a que haya alternativa, y a la vez compensa a pequeños propietarios que dependan de la renta; es una fórmula poco habitual.",
+   "source": {
+    "doc": "mmj",
+    "page": 11
+   }
+  },
+  {
+   "topic": "instituciones",
+   "text": "Crear una Comisión Nacional de Reconciliación Democrática, plural e independiente, para reducir la polarización entre fuerzas políticas.",
+   "why": "El foco en reconciliación y diálogo entre fuerzas políticas no aparece con este formato en los demás programas resumidos.",
+   "source": {
+    "doc": "mmj",
+    "page": 70
+   }
+  },
+  {
+   "topic": "instituciones",
+   "text": "Aprobar una Ley de Integridad del Debate Público con mecanismos de rectificación ante la difusión deliberada de información falsa por cargos públicos.",
+   "why": "Regula la veracidad del discurso de los cargos públicos, una medida que no he visto en otros programas.",
+   "source": {
+    "doc": "mmj",
+    "page": 70
+   }
+  },
+  {
+   "topic": "exterior",
+   "text": "Apoyar el «Dividendo para la paz mundial»: no subir el gasto militar y reducirlo un 2% anual en todos los países para destinar el ahorro a emergencias planetarias.",
+   "why": "Otros partidos de izquierda también critican el aumento del gasto militar, pero esta fórmula internacional concreta de reducción coordinada es propia de este programa.",
+   "source": {
+    "doc": "mmj",
+    "page": 65
+   }
+  },
+  {
+   "topic": "medioambiente",
+   "text": "Crear un Fondo Generacional de la Energía, un fondo público que invierta en renovables y destine sus beneficios a vivienda pública, rehabilitación y, a largo plazo, pensiones.",
+   "why": "Une transición energética, vivienda y pensiones en un solo instrumento financiero; es de los pocos programas que lo plantean.",
+   "source": {
+    "doc": "mmj",
+    "page": 59
+   }
+  },
+  {
+   "topic": "sanidad",
+   "text": "Ofrecer una valoración integral de cuidados paliativos, salud mental y apoyos a la dependencia a quien solicite la eutanasia, y acompañamiento a embarazos en situación de vulnerabilidad, reconociendo que en el partido conviven sensibilidades distintas.",
+   "why": "El programa declara abiertamente la diversidad interna sobre estos temas y se centra en prevenir y acompañar; lo mismo hace con la caza y la tauromaquia, donde no propone cambios.",
+   "source": {
+    "doc": "mmj",
+    "page": 43
+   }
+  },
+  {
+   "topic": "otros",
+   "text": "Garantizar vivienda sin condiciones previas a las personas sin hogar (Housing First y Housing Led) y que nadie salga de una institución pública directamente a la calle.",
+   "why": "Dedica un eje entero al sinhogarismo con compromisos medibles (reducir a la mitad el número de personas sin hogar en 2030), algo poco habitual en los programas generales.",
+   "source": {
+    "doc": "mmj",
+    "page": 84
+   }
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Tanteo y retracto",
+   "definition": "Derecho de la Administración a comprar un inmueble en una venta, antes o después de que se cierre, por el mismo precio pactado."
+  },
+  {
+   "term": "Alquiler de referencia",
+   "definition": "Precio de alquiler orientativo fijado por la Administración según las características y la zona de la vivienda."
+  },
+  {
+   "term": "Housing First",
+   "definition": "Modelo que ofrece primero una vivienda estable y sin condiciones previas a una persona sin hogar y le da después acompañamiento."
+  },
+  {
+   "term": "Housing Led",
+   "definition": "Modelo de soluciones de vivienda (alojamientos temporales, pisos compartidos o individuales) con acompañamiento para ganar autonomía."
+  },
+  {
+   "term": "Impuesto de Solidaridad de las Grandes Fortunas",
+   "definition": "Impuesto estatal que pagan los patrimonios más altos, creado para evitar que las comunidades autónomas lo eliminen."
+  },
+  {
+   "term": "Renta básica",
+   "definition": "Ingreso garantizado a toda persona para una vida digna; M+J propone avanzar hacia ella ampliando el Ingreso Mínimo Vital."
+  },
+  {
+   "term": "Diligencia debida",
+   "definition": "Obligación de las empresas de detectar y evitar que su actividad dañe los derechos humanos o el medio ambiente en toda su cadena de producción."
+  },
+  {
+   "term": "Aporofobia",
+   "definition": "Rechazo o miedo a las personas pobres."
+  },
+  {
+   "term": "Atención Temprana",
+   "definition": "Conjunto de apoyos para niños de 0 a 6 años con trastornos del desarrollo o riesgo de tenerlos."
+  },
+  {
+   "term": "Barnahus",
+   "definition": "Modelo de casa donde se atiende en un solo lugar a niños y adolescentes víctimas de violencia sexual para evitar que repitan su relato."
+  },
+  {
+   "term": "Falsos autónomos",
+   "definition": "Personas que trabajan como autónomas pero lo hacen en realidad bajo las órdenes de una empresa, como si fueran empleadas."
+  },
+  {
+   "term": "Economía social",
+   "definition": "Conjunto de empresas y entidades (cooperativas, mutualidades, asociaciones) que anteponen las personas al beneficio."
+  },
+  {
+   "term": "Cuidados paliativos",
+   "definition": "Atención para aliviar el sufrimiento y mejorar la calidad de vida de personas con enfermedad avanzada o al final de la vida."
+  },
+  {
+   "term": "Ingreso Mínimo Vital",
+   "definition": "Prestación estatal para hogares en situación de pobreza que garantiza un mínimo de ingresos."
+  }
+ ]
+}

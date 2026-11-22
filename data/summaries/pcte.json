@@ -1,0 +1,883 @@
+{
+ "party": "pcte",
+ "overview": "El PCTE presenta un 'Programa de lucha' dirigido a la clase obrera y los sectores populares, que declara expresamente no ser un programa electoral ni un conjunto de medidas para aplicar desde las instituciones. Reúne reivindicaciones en 11 bloques (salarios y jornada, control obrero, vivienda, servicios públicos, campo, juventud, mujeres, cultura, paz, libertades y derechos sindicales) y plantea como horizonte el socialismo-comunismo. No nombra a otras formaciones ni plantea una candidatura conjunta; solo critica en general a los 'partidos reformistas'.",
+ "topics": {
+  "vivienda": {
+   "summary": "Plantea que la vivienda no sea un negocio: prohibir desahucios, bajar los alquileres un 50 %, ampliar el parque público y expropiar viviendas vacías de bancos y fondos.",
+   "points": [
+    {
+     "text": "Prohibición efectiva de todo desahucio de hogares trabajadores de su vivienda habitual, sea cual sea la causa, el propietario (también la Administración) y la situación de quien la habita; si el propietario la necesita, la Administración garantiza antes una alternativa digna en el mismo barrio.",
+     "source": {
+      "doc": "pcte",
+      "page": 11
+     }
+    },
+    {
+     "text": "Bajada inmediata de los alquileres del 50 % a costa de la ganancia de los propietarios y no mediante ayudas públicas; después, precios máximos ligados a los salarios medios de la zona y contratos indefinidos por defecto.",
+     "source": {
+      "doc": "pcte",
+      "page": 11
+     }
+    },
+    {
+     "text": "Alquiler social obligatorio de no más del 15 % de los ingresos y con contrato indefinido si la vivienda es de un banco, fondo o gran tenedor; en los demás casos, realojo por la Administración en el parque público.",
+     "source": {
+      "doc": "pcte",
+      "page": 11
+     }
+    },
+    {
+     "text": "Prohibición de cortes de agua, electricidad o calefacción a hogares trabajadores.",
+     "source": {
+      "doc": "pcte",
+      "page": 11
+     }
+    },
+    {
+     "text": "Limitar la vivienda turística a un 0,5 % de las viviendas de la localidad; el alquiler de temporada y de habitaciones que sea vivienda habitual se rige por las mismas normas de protección, duración y precio.",
+     "source": {
+      "doc": "pcte",
+      "page": 11
+     }
+    },
+    {
+     "text": "Parque público permanente de alquiler de al menos el 10 % de las viviendas, protegido para siempre, mediante promoción directa, cooperativismo social, autoconstrucción, rehabilitación y suelo público.",
+     "source": {
+      "doc": "pcte",
+      "page": 12
+     }
+    },
+    {
+     "text": "Expropiación sin indemnización de las viviendas vacías y de uso especulativo de bancos, fondos y grandes tenedores para incorporarlas al parque público; alquileres públicos según ingresos y prohibición de vender o descalificar vivienda pública o protegida.",
+     "source": {
+      "doc": "pcte",
+      "page": 12
+     }
+    },
+    {
+     "text": "Ninguna ejecución hipotecaria de la vivienda habitual de hogares trabajadores: deuda reestructurada a cargo de la banca, dación en pago si el hogar lo elige con alquiler social, y cancelación de las deudas de quienes ya perdieron su casa.",
+     "source": {
+      "doc": "pcte",
+      "page": 12
+     }
+    }
+   ]
+  },
+  "empleo": {
+   "summary": "Reclama subir los salarios por encima de los precios, reducir la jornada a 35 horas sin recorte salarial y acabar con la temporalidad, las ETT y los falsos autónomos.",
+   "points": [
+    {
+     "text": "Cláusula de revisión salarial automática según el IPC real, sin topes y con efectos desde el 1 de enero, recuperación del poder adquisitivo perdido desde 2021 y subidas lineales (los mismos euros para todas las categorías).",
+     "source": {
+      "doc": "pcte",
+      "page": 7
+     }
+    },
+    {
+     "text": "Jornada de 35 horas semanales ya, sin reducción salarial, como paso hacia las 30; tope de 1.540 horas anuales, registro horario controlado por la representación de los trabajadores y prohibición de las bolsas de horas.",
+     "source": {
+      "doc": "pcte",
+      "page": 7
+     }
+    },
+    {
+     "text": "Cinco semanas (25 días laborables) de vacaciones retribuidas.",
+     "source": {
+      "doc": "pcte",
+      "page": 7
+     }
+    },
+    {
+     "text": "Contrato fijo a partir de 6 meses de contratos encadenados en un periodo de 12; acabar con los falsos autónomos y las prácticas no laborales que cubren puestos; prohibición de las ETT.",
+     "source": {
+      "doc": "pcte",
+      "page": 7
+     }
+    },
+    {
+     "text": "Subcontratación: mismo trabajo, mismo salario y mismos derechos, e integración de las actividades estructurales en la plantilla principal.",
+     "source": {
+      "doc": "pcte",
+      "page": 7
+     }
+    },
+    {
+     "text": "Readmisión obligatoria, a elección del trabajador, ante el despido injustificado; prohibición de despidos colectivos en empresas con beneficios o que repartan dividendos y autorización administrativa previa para los demás.",
+     "source": {
+      "doc": "pcte",
+      "page": 8
+     }
+    },
+    {
+     "text": "Las plantillas deben poder paralizar los trabajos ante riesgos graves y negarse a cumplir órdenes que pongan en riesgo la vida.",
+     "source": {
+      "doc": "pcte",
+      "page": 8
+     }
+    },
+    {
+     "text": "Fin de las dobles escalas salariales por edad y derechos (cotización incluida) desde el primer día también en las prácticas.",
+     "source": {
+      "doc": "pcte",
+      "page": 16
+     }
+    }
+   ]
+  },
+  "economia": {
+   "summary": "Propone control obrero sobre las empresas (cuentas abiertas, veto suspensivo) y propiedad estatal de los sectores estratégicos, con una política industrial planificada.",
+   "points": [
+    {
+     "text": "Cuentas abiertas: acceso efectivo de los representantes de los trabajadores a beneficios, dividendos, inversiones, deuda, ayudas públicas y operaciones dentro de los grupos empresariales.",
+     "source": {
+      "doc": "pcte",
+      "page": 9
+     }
+    },
+    {
+     "text": "Ningún cierre o deslocalización como decisión exclusivamente privada: apertura de cuentas, estudio obligatorio de alternativas y devolución de las ayudas públicas si se incumplen compromisos.",
+     "source": {
+      "doc": "pcte",
+      "page": 9
+     }
+    },
+    {
+     "text": "Derecho de información previa y veto suspensivo de la representación de los trabajadores ante externalizaciones, cambios de horarios, turnos y ritmos, reorganizaciones y sistemas algorítmicos.",
+     "source": {
+      "doc": "pcte",
+      "page": 9
+     }
+    },
+    {
+     "text": "Intervención y paso a propiedad estatal bajo control obrero de la empresa viable y necesaria que vaya a desaparecer solo por decisión de sus propietarios.",
+     "source": {
+      "doc": "pcte",
+      "page": 9
+     }
+    },
+    {
+     "text": "Propiedad estatal bajo mecanismos de control obrero de los sectores estratégicos, especialmente energía, transporte, telecomunicaciones y capacidades industriales esenciales.",
+     "source": {
+      "doc": "pcte",
+      "page": 10
+     }
+    },
+    {
+     "text": "Política industrial planificada orientada a las necesidades sociales, con empresas estatales, inversión estable, formación profesional y capacidad científica y tecnológica propia.",
+     "source": {
+      "doc": "pcte",
+      "page": 10
+     }
+    },
+    {
+     "text": "Las nuevas tecnologías se negocian con los trabajadores: si una máquina produce lo mismo en menos tiempo, el resultado debe ser menos jornada y no menos empleo.",
+     "source": {
+      "doc": "pcte",
+      "page": 10
+     }
+    },
+    {
+     "text": "Advierte de que una empresa pública no basta si no hay control sobre qué produce y quién lo controla.",
+     "source": {
+      "doc": "pcte",
+      "page": 9
+     }
+    }
+   ]
+  },
+  "pensiones": {
+   "summary": "Pide jubilación a los 60 años sin penalización, pensiones y paro nunca inferiores al salario mínimo y el fin de los incentivos fiscales a planes privados.",
+   "points": [
+    {
+     "text": "Jubilación ordinaria a los 60 años con pensión suficiente y sin penalización; a los 55 en trabajos especialmente penosos, peligrosos, tóxicos o insalubres.",
+     "source": {
+      "doc": "pcte",
+      "page": 7
+     }
+    },
+    {
+     "text": "Ninguna pensión por debajo del salario mínimo y revalorización automática con el IPC real, con recuperación de lo perdido cuando la inflación supere la revalorización.",
+     "source": {
+      "doc": "pcte",
+      "page": 14
+     }
+    },
+    {
+     "text": "Rechazo a la privatización de las pensiones: fin de los incentivos fiscales a los planes privados y a los fondos de pensiones de empleo.",
+     "source": {
+      "doc": "pcte",
+      "page": 14
+     }
+    },
+    {
+     "text": "Prestación por desempleo mientras dure el paro, nunca inferior al salario mínimo.",
+     "source": {
+      "doc": "pcte",
+      "page": 14
+     }
+    },
+    {
+     "text": "Incapacidad temporal (baja médica) pagada al 100 % del salario desde el primer día.",
+     "source": {
+      "doc": "pcte",
+      "page": 14
+     }
+    },
+    {
+     "text": "Red pública universal de cuidados: escuelas infantiles, ayuda a domicilio, centros de día, residencias, dependencia y discapacidad, con gestión pública directa.",
+     "source": {
+      "doc": "pcte",
+      "page": 14
+     }
+    }
+   ]
+  },
+  "sanidad": {
+   "summary": "Defiende reforzar la sanidad pública, derogar la Ley 15/1997 y prohibir nuevos conciertos y externalizaciones.",
+   "points": [
+    {
+     "text": "Derogación de la Ley 15/1997 y prohibición de nuevos conciertos, concesiones y externalizaciones en sanidad, educación y servicios sociales.",
+     "source": {
+      "doc": "pcte",
+      "page": 13
+     }
+    },
+    {
+     "text": "Refuerzo de la sanidad pública, especialmente atención primaria, atención especializada, salud mental, salud bucodental, prevención e investigación.",
+     "source": {
+      "doc": "pcte",
+      "page": 13
+     }
+    },
+    {
+     "text": "25 % del gasto sanitario destinado a atención primaria.",
+     "source": {
+      "doc": "pcte",
+      "page": 13
+     }
+    },
+    {
+     "text": "Recuperación de servicios externalizados mediante gestión pública directa bajo mecanismos democráticos de control obrero.",
+     "source": {
+      "doc": "pcte",
+      "page": 13
+     }
+    },
+    {
+     "text": "Desarrollo de capacidades públicas en medicamentos, productos sanitarios e investigación farmacéutica.",
+     "source": {
+      "doc": "pcte",
+      "page": 13
+     }
+    },
+    {
+     "text": "Plantillas públicas suficientes y estables: necesidad permanente, empleo permanente.",
+     "source": {
+      "doc": "pcte",
+      "page": 13
+     }
+    },
+    {
+     "text": "Derechos sexuales y reproductivos garantizados en la sanidad pública: todas las interrupciones del embarazo en hospitales públicos.",
+     "source": {
+      "doc": "pcte",
+      "page": 17
+     }
+    }
+   ]
+  },
+  "educacion": {
+   "summary": "Propone un sistema educativo exclusivamente público, gratuito y laico, con los centros concertados integrados en una red pública única.",
+   "points": [
+    {
+     "text": "Sistema educativo exclusivamente público, gratuito, laico e inclusivo en todas sus etapas, con centros y plantillas suficientes y descenso de las ratios.",
+     "source": {
+      "doc": "pcte",
+      "page": 13
+     }
+    },
+    {
+     "text": "Integración de los centros concertados en una red pública única.",
+     "source": {
+      "doc": "pcte",
+      "page": 13
+     }
+    },
+    {
+     "text": "La gratuidad cubre también materiales, transporte, comedor o residencia.",
+     "source": {
+      "doc": "pcte",
+      "page": 14
+     }
+    },
+    {
+     "text": "Beca-salario equivalente al salario mínimo para estudiantes de familias trabajadoras y plaza en residencia pública para quien estudie fuera de su localidad.",
+     "source": {
+      "doc": "pcte",
+      "page": 16
+     }
+    },
+    {
+     "text": "Solo prácticas curriculares que no cubran labores esenciales, con tutor, límite de horas y de becarios por plantilla, y compensación no inferior al salario mínimo en proporción; prohibición de las prácticas extracurriculares.",
+     "source": {
+      "doc": "pcte",
+      "page": 16
+     }
+    },
+    {
+     "text": "Derogación de la Ley de Convivencia Universitaria y ninguna sanción académica por organizar huelgas, piquetes o protestas en los centros de estudio.",
+     "source": {
+      "doc": "pcte",
+      "page": 20
+     }
+    },
+    {
+     "text": "Apertura de patios, polideportivos y bibliotecas escolares por las tardes y fines de semana, y un centro juvenil público en cada barrio.",
+     "source": {
+      "doc": "pcte",
+      "page": 16
+     }
+    }
+   ]
+  },
+  "igualdad": {
+   "summary": "Aborda la igualdad desde el empleo y los servicios públicos: igualdad salarial, permiso de nacimiento de 52 semanas, prohibición de la prostitución y rechazo de la gestación subrogada.",
+   "points": [
+    {
+     "text": "Igual salario por el mismo trabajo y por trabajos de igual valor; mejora de salarios y plantillas en cuidados, limpieza, comercio, sanidad, educación y servicios sociales.",
+     "source": {
+      "doc": "pcte",
+      "page": 17
+     }
+    },
+    {
+     "text": "Derecho a pasar a jornada completa para toda trabajadora a tiempo parcial que lo pida.",
+     "source": {
+      "doc": "pcte",
+      "page": 17
+     }
+    },
+    {
+     "text": "Nulidad y readmisión automática en todo despido hasta que el hijo o la hija cumpla 3 años.",
+     "source": {
+      "doc": "pcte",
+      "page": 17
+     }
+    },
+    {
+     "text": "Permiso por nacimiento de 52 semanas, igual, intransferible y retribuido al 100 %, que enlace con la plaza pública de 0 a 3 años; fin de la lista de espera de la dependencia.",
+     "source": {
+      "doc": "pcte",
+      "page": 17
+     }
+    },
+    {
+     "text": "Garantizar vivienda, ingresos, empleo y atención sanitaria, psicológica y jurídica a las mujeres que sufren violencia machista para que puedan romper la dependencia económica.",
+     "source": {
+      "doc": "pcte",
+      "page": 17
+     }
+    },
+    {
+     "text": "Prohibición de la prostitución y el proxenetismo, con alternativas materiales para las mujeres prostituidas.",
+     "source": {
+      "doc": "pcte",
+      "page": 17
+     }
+    },
+    {
+     "text": "Rechazo de la gestación subrogada y persecución de las agencias que la intermedian desde España.",
+     "source": {
+      "doc": "pcte",
+      "page": 17
+     }
+    },
+    {
+     "text": "Protección de las personas LGTB frente al despido, el acoso laboral, la discriminación en el acceso a la vivienda y las agresiones, también en empresas de menos de 50 trabajadores.",
+     "source": {
+      "doc": "pcte",
+      "page": 20
+     }
+    }
+   ]
+  },
+  "inmigracion": {
+   "summary": "Pide cerrar los CIE, acabar con las devoluciones en caliente y crear un mecanismo permanente de regularización, con mismos derechos laborales para migrantes.",
+   "points": [
+    {
+     "text": "Cierre de los CIE y fin de las identificaciones por perfil étnico y de las devoluciones en caliente.",
+     "source": {
+      "doc": "pcte",
+      "page": 20
+     }
+    },
+    {
+     "text": "Mecanismo permanente de regularización para todas las personas trabajadoras sin papeles.",
+     "source": {
+      "doc": "pcte",
+      "page": 20
+     }
+    },
+    {
+     "text": "Mismos derechos para trabajadores migrantes y nacionales en el campo: ninguna situación administrativa puede utilizarse para pagar menos.",
+     "source": {
+      "doc": "pcte",
+      "page": 15
+     }
+    },
+    {
+     "text": "Combate del racismo y la xenofobia desde la igualdad de derechos y la unidad de los trabajadores.",
+     "source": {
+      "doc": "pcte",
+      "page": 21
+     }
+    },
+    {
+     "text": "Prohibición del desahucio de hogares sin contrato o sin papeles.",
+     "source": {
+      "doc": "pcte",
+      "page": 11
+     }
+    }
+   ]
+  },
+  "medioambiente": {
+   "summary": "Apenas trata el clima como apartado propio: plantea propiedad estatal de la energía y destinar el dinero de I+D militar a energía y medio ambiente.",
+   "points": [
+    {
+     "text": "Propiedad estatal bajo control obrero de los sectores estratégicos, especialmente la energía.",
+     "source": {
+      "doc": "pcte",
+      "page": 10
+     }
+    },
+    {
+     "text": "Los fondos de I+D militar, a salud, energía, alimentación y medio ambiente.",
+     "source": {
+      "doc": "pcte",
+      "page": 18
+     }
+    },
+    {
+     "text": "Prohibición de cortes de electricidad, agua o calefacción a hogares trabajadores.",
+     "source": {
+      "doc": "pcte",
+      "page": 11
+     }
+    },
+    {
+     "text": "Presenta la devastación ambiental como una de las causas de la migración forzada y atribuye los problemas al capitalismo.",
+     "source": {
+      "doc": "pcte",
+      "page": 3
+     }
+    }
+   ]
+  },
+  "rural": {
+   "summary": "Distingue entre jornaleros, pequeños productores y agroindustria, y propone precios máximos en una cesta básica, bancos públicos de tierras y derechos laborales plenos.",
+   "points": [
+    {
+     "text": "Plenos derechos laborales y sindicales para trabajadores agrícolas, ganaderos, pesqueros y de la industria alimentaria, con mismos derechos para migrantes.",
+     "source": {
+      "doc": "pcte",
+      "page": 15
+     }
+    },
+    {
+     "text": "Cumplimiento efectivo de la prohibición de comprar por debajo del coste de producción, con inspección en la que participen organizaciones de pequeños productores y jornaleros, y publicación de las sanciones.",
+     "source": {
+      "doc": "pcte",
+      "page": 15
+     }
+    },
+    {
+     "text": "Precios máximos de venta para una cesta de productos básicos y márgenes máximos para la gran distribución; precio de origen visible junto al de venta.",
+     "source": {
+      "doc": "pcte",
+      "page": 15
+     }
+    },
+    {
+     "text": "Transparencia sobre costes, contratos y márgenes comerciales.",
+     "source": {
+      "doc": "pcte",
+      "page": 15
+     }
+    },
+    {
+     "text": "Capacidades públicas de almacenamiento, transformación, transporte, distribución y compra de alimentos bajo control democrático.",
+     "source": {
+      "doc": "pcte",
+      "page": 15
+     }
+    },
+    {
+     "text": "Bancos públicos de tierras y recuperación productiva de tierras abandonadas.",
+     "source": {
+      "doc": "pcte",
+      "page": 15
+     }
+    },
+    {
+     "text": "Acceso colectivo a maquinaria, tecnología, investigación, servicios veterinarios y financiación.",
+     "source": {
+      "doc": "pcte",
+      "page": 15
+     }
+    },
+    {
+     "text": "Servicios públicos, transporte, vivienda y conectividad para vivir en el medio rural con los mismos derechos que en las ciudades.",
+     "source": {
+      "doc": "pcte",
+      "page": 15
+     }
+    }
+   ]
+  },
+  "territorio": {
+   "notMentioned": true,
+   "points": []
+  },
+  "instituciones": {
+   "summary": "Propone derogar leyes que considera represivas (Ley Mordaza, delitos de opinión), limitar la actuación policial e ilegalizar las organizaciones fascistas y franquistas.",
+   "points": [
+    {
+     "text": "Derogación de la Ley de Seguridad Ciudadana (Ley Mordaza) y anulación de las sanciones impuestas por participar en huelgas y protestas.",
+     "source": {
+      "doc": "pcte",
+      "page": 20
+     }
+    },
+    {
+     "text": "Derogación de los delitos de opinión: injurias a la Corona y a las instituciones y ultrajes a símbolos.",
+     "source": {
+      "doc": "pcte",
+      "page": 20
+     }
+    },
+    {
+     "text": "Fin de la impunidad policial: prohibición de pelotas de goma y de vehículos blindados y material militar en el control de huelgas y manifestaciones, e investigación independiente de las actuaciones policiales.",
+     "source": {
+      "doc": "pcte",
+      "page": 20
+     }
+    },
+    {
+     "text": "Ilegalización de las organizaciones fascistas y franquistas y disolución de las fundaciones que enaltecen la dictadura; rechazo de cualquier ley que equipare fascismo y comunismo.",
+     "source": {
+      "doc": "pcte",
+      "page": 20
+     }
+    },
+    {
+     "text": "Ilegalización de las empresas de desocupación y persecución penal de las coacciones y desalojos ilegales.",
+     "source": {
+      "doc": "pcte",
+      "page": 20
+     }
+    },
+    {
+     "text": "Limitar de raíz los servicios mínimos abusivos y la ampliación de lo que se declara servicio esencial.",
+     "source": {
+      "doc": "pcte",
+      "page": 21
+     }
+    },
+    {
+     "text": "Afirma que no confía la defensa de las libertades a ningún gobierno y que este no es un programa electoral ni de medidas para aplicar desde las instituciones.",
+     "source": {
+      "doc": "pcte",
+      "page": 3
+     }
+    }
+   ]
+  },
+  "exterior": {
+   "summary": "Propone salir de la OTAN y de la UE, reducir el gasto militar, romper con Israel y reconocer la República Árabe Saharaui Democrática.",
+   "points": [
+    {
+     "text": "No al rearme: reducción del gasto militar real y anulación de los Programas Especiales de Modernización, con esos recursos para vivienda, servicios, empleo e industria civil.",
+     "source": {
+      "doc": "pcte",
+      "page": 19
+     }
+    },
+    {
+     "text": "Salida de España de la OTAN y de la Unión Europea.",
+     "source": {
+      "doc": "pcte",
+      "page": 19
+     }
+    },
+    {
+     "text": "Ruptura de los acuerdos que permiten el uso del territorio español por fuerzas militares extranjeras y recuperación de la soberanía sobre las bases.",
+     "source": {
+      "doc": "pcte",
+      "page": 19
+     }
+    },
+    {
+     "text": "Regreso de las tropas españolas desplegadas en el exterior.",
+     "source": {
+      "doc": "pcte",
+      "page": 19
+     }
+    },
+    {
+     "text": "Reconversión de la industria militar hacia producciones socialmente necesarias, garantizando el empleo de sus plantillas.",
+     "source": {
+      "doc": "pcte",
+      "page": 19
+     }
+    },
+    {
+     "text": "Embargo militar total al Estado de Israel y ruptura de sus relaciones diplomáticas, militares y comerciales con España.",
+     "source": {
+      "doc": "pcte",
+      "page": 19
+     }
+    },
+    {
+     "text": "Reconocimiento de la República Árabe Saharaui Democrática y referéndum de autodeterminación; retirar el apoyo al plan de autonomía marroquí.",
+     "source": {
+      "doc": "pcte",
+      "page": 19
+     }
+    },
+    {
+     "text": "Solidaridad con los pueblos que luchan contra la ocupación, el colonialismo y la agresión imperialista.",
+     "source": {
+      "doc": "pcte",
+      "page": 19
+     }
+    }
+   ]
+  },
+  "cultura": {
+   "summary": "Propone una biblioteca pública en cada barrio, gratuidad de museos y estabilidad para el personal investigador, y desviar la I+D militar a usos civiles.",
+   "points": [
+    {
+     "text": "Una biblioteca pública en cada barrio, abierta por las tardes y fines de semana, y extensión de centros culturales, escuelas artísticas e instalaciones deportivas a barrios obreros, pueblos y medio rural.",
+     "source": {
+      "doc": "pcte",
+      "page": 18
+     }
+    },
+    {
+     "text": "Convenio y cotización en todo trabajo cultural contratado por las administraciones, también el subcontratado, sin falsos autónomos.",
+     "source": {
+      "doc": "pcte",
+      "page": 18
+     }
+    },
+    {
+     "text": "Fin de los contratos por proyecto encadenados y plazas estables para el personal investigador.",
+     "source": {
+      "doc": "pcte",
+      "page": 18
+     }
+    },
+    {
+     "text": "Gratuidad de museos y equipamientos públicos, uso gratuito de instalaciones deportivas públicas para menores y desempleados, y precio máximo en toda actividad cultural subvencionada.",
+     "source": {
+      "doc": "pcte",
+      "page": 18
+     }
+    },
+    {
+     "text": "Ningún euro de investigación pública para fines militares.",
+     "source": {
+      "doc": "pcte",
+      "page": 18
+     }
+    }
+   ]
+  },
+  "otros": {
+   "summary": "Se presenta como programa de lucha, no electoral, que busca extender la organización obrera (asambleas, secciones sindicales, comités) con el socialismo-comunismo como perspectiva.",
+   "points": [
+    {
+     "text": "Dice que no es un programa electoral ni una serie de medidas para aplicar desde las instituciones, sino un conjunto de reivindicaciones para construir una oposición obrera.",
+     "source": {
+      "doc": "pcte",
+      "page": 3
+     }
+    },
+    {
+     "text": "Derecho de asamblea en horario de trabajo: al menos 10 horas retribuidas al año.",
+     "source": {
+      "doc": "pcte",
+      "page": 21
+     }
+    },
+    {
+     "text": "Derecho a elegir representante también en empresas de menos de seis trabajadores, mediante delegados territoriales o sectoriales.",
+     "source": {
+      "doc": "pcte",
+      "page": 21
+     }
+    },
+    {
+     "text": "Nulidad y readmisión obligatoria en todo despido o sanción por actividad sindical; asambleas y consultas vinculantes antes de firmar convenios o ERE.",
+     "source": {
+      "doc": "pcte",
+      "page": 21
+     }
+    },
+    {
+     "text": "Prohibición de las casas de apuestas, el juego en línea y su publicidad.",
+     "source": {
+      "doc": "pcte",
+      "page": 16
+     }
+    },
+    {
+     "text": "Fin de las dobles escalas salariales: mismo trabajo, mismo salario, tengas la edad que tengas.",
+     "source": {
+      "doc": "pcte",
+      "page": 16
+     }
+    },
+    {
+     "text": "Reserva de un tercio del parque público de alquiler para jóvenes trabajadores, con alquiler según ingresos.",
+     "source": {
+      "doc": "pcte",
+      "page": 16
+     }
+    },
+    {
+     "text": "Perspectiva estratégica: que la clase obrera dispute el poder a la burguesía, lo tome y construya el socialismo-comunismo, con medios de producción de propiedad social y planificación democrática.",
+     "source": {
+      "doc": "pcte",
+      "page": 23
+     }
+    }
+   ]
+  }
+ },
+ "distinctive": [
+  {
+   "topic": "vivienda",
+   "text": "Bajada inmediata de los alquileres del 50 % y expropiación sin indemnización de las viviendas vacías de bancos, fondos y grandes tenedores.",
+   "why": "Es una medida más drástica que las de otros programas de la comparación, que suelen plantear topes o ayudas; el propio programa rechaza las ayudas públicas al alquiler.",
+   "source": {
+    "doc": "pcte",
+    "page": 11
+   }
+  },
+  {
+   "topic": "pensiones",
+   "text": "Jubilación ordinaria a los 60 años sin penalización.",
+   "why": "No encaja con los programas revisados, que no plantean bajar la edad ordinaria de jubilación a los 60.",
+   "source": {
+    "doc": "pcte",
+    "page": 7
+   }
+  },
+  {
+   "topic": "exterior",
+   "text": "Salida de España de la OTAN y de la Unión Europea.",
+   "why": "Pedir la salida de la UE es poco habitual entre los programas analizados; otros piden salir de la OTAN, pero no de la UE.",
+   "source": {
+    "doc": "pcte",
+    "page": 19
+   }
+  },
+  {
+   "topic": "empleo",
+   "text": "Prohibición de las ETT y contrato fijo a partir de 6 meses de contratos encadenados en un periodo de 12.",
+   "why": "Prohibir las empresas de trabajo temporal por completo es una propuesta poco frecuente en el resto de programas.",
+   "source": {
+    "doc": "pcte",
+    "page": 7
+   }
+  },
+  {
+   "topic": "economia",
+   "text": "Propiedad estatal bajo control obrero de energía, transporte, telecomunicaciones y capacidades industriales esenciales, y cuentas abiertas con veto suspensivo.",
+   "why": "Combina nacionalización con control directo de las plantillas; el programa subraya que una empresa pública, por sí sola, no basta.",
+   "source": {
+    "doc": "pcte",
+    "page": 10
+   }
+  },
+  {
+   "topic": "otros",
+   "text": "Programa 'de lucha' que declara no ser un programa electoral ni de medidas para aplicar desde las instituciones.",
+   "why": "Los demás programas se presentan como propuestas de gobierno o legislativas; este se dirige a la organización de la clase trabajadora.",
+   "source": {
+    "doc": "pcte",
+    "page": 3
+   }
+  },
+  {
+   "topic": "igualdad",
+   "text": "Prohibición de la prostitución y de la gestación subrogada, junto con un permiso por nacimiento de 52 semanas.",
+   "why": "La duración del permiso es mayor que la de otras propuestas del conjunto; la prohibición de ambas prácticas se combina con medidas laborales.",
+   "source": {
+    "doc": "pcte",
+    "page": 17
+   }
+  },
+  {
+   "topic": "otros",
+   "text": "Prohibición de las casas de apuestas, el juego en línea y su publicidad.",
+   "why": "Pocos programas incluyen una prohibición total del juego de apuestas.",
+   "source": {
+    "doc": "pcte",
+    "page": 16
+   }
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Control obrero",
+   "definition": "Participación de los trabajadores en las decisiones de la empresa, por ejemplo con acceso a las cuentas y derecho de veto sobre cambios de horarios o externalizaciones."
+  },
+  {
+   "term": "ETT",
+   "definition": "Empresa de trabajo temporal: contrata personas para cederlas temporalmente a otras empresas."
+  },
+  {
+   "term": "Subcontratación",
+   "definition": "Cuando una empresa encarga parte de su actividad a otra empresa en lugar de hacerla con su propia plantilla."
+  },
+  {
+   "term": "Falso autónomo",
+   "definition": "Persona que figura como trabajadora autónoma pero en la práctica depende de una sola empresa, como si fuera un empleado."
+  },
+  {
+   "term": "ERE",
+   "definition": "Expediente de regulación de empleo: procedimiento por el que una empresa despide o suspende contratos de forma colectiva."
+  },
+  {
+   "term": "CIE",
+   "definition": "Centro de Internamiento de Extranjeros: lugar donde se retiene a personas extranjeras en situación irregular antes de una posible expulsión."
+  },
+  {
+   "term": "Dación en pago",
+   "definition": "Entregar la vivienda al banco para saldar la hipoteca y quedar sin deuda."
+  },
+  {
+   "term": "Gran tenedor",
+   "definition": "Propietario de muchas viviendas, como bancos, fondos o grandes empresas."
+  },
+  {
+   "term": "Ley Mordaza",
+   "definition": "Nombre popular de la Ley de Seguridad Ciudadana (2015), que regula sanciones administrativas en protestas y espacios públicos."
+  },
+  {
+   "term": "Gestación subrogada",
+   "definition": "Acuerdo por el que una mujer gesta un bebé para entregarlo después a otra persona o pareja."
+  },
+  {
+   "term": "República Árabe Saharaui Democrática",
+   "definition": "Estado proclamado por el Frente Polisario para el Sáhara Occidental, territorio que Marruecos controla en su mayor parte."
+  },
+  {
+   "term": "Programas Especiales de Modernización",
+   "definition": "Grandes programas de compra de armamento y material militar financiados por el Ministerio de Defensa."
+  }
+ ]
+}

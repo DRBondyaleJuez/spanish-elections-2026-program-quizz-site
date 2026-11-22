@@ -1,0 +1,802 @@
+{
+ "viv-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "viv-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "viv-3": {
+  "v": 1,
+  "page": 45,
+  "note": "Propone construir vivienda pública de calidad y asequible, sin detallar un parque estatal de alquiler."
+ },
+ "viv-4": {
+  "v": 1,
+  "page": 46,
+  "note": "Propone actuar contra la ocupación de viviendas, sin detallar desalojos rápidos ni penas."
+ },
+ "viv-5": {
+  "v": 1,
+  "page": 46,
+  "note": "Propone luchar contra la especulación de fondos buitre y grandes rentistas, sin limitar compras expresamente."
+ },
+ "viv-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "viv-7": {
+  "v": 2,
+  "page": 46,
+  "note": "Propone aplicar medidas que frenen el auge de los pisos turísticos."
+ },
+ "emp-1": {
+  "v": 1,
+  "page": 9,
+  "note": "Propone un aumento general de salarios ligado al coste de la vida, sin mencionar el SMI."
+ },
+ "emp-2": {
+  "v": 1,
+  "page": 35,
+  "note": "Solo menciona reducción de jornada para conciliar el cuidado de los hijos, no una jornada máxima general."
+ },
+ "emp-3": {
+  "v": 2,
+  "page": 9,
+  "note": "Propone derogar las reformas que facilitan el despido libre y barato."
+ },
+ "emp-4": {
+  "v": 2,
+  "page": 9,
+  "note": "Propone cuotas más reducidas para los autónomos y eliminar la cuota de quienes no llegan al SMI."
+ },
+ "emp-5": {
+  "v": -1,
+  "page": 56,
+  "note": "Propone las mismas competencias para todas las comunidades, lo que va contra marcos laborales propios."
+ },
+ "eco-1": {
+  "v": 0,
+  "page": 18,
+  "note": "Propone bajar el IRPF a los trabajadores con menos recursos y subirlo a las rentas altas."
+ },
+ "eco-2": {
+  "v": 2,
+  "page": 19,
+  "note": "Propone subir el impuesto de patrimonio y suprimir bonificaciones que benefician a los más ricos."
+ },
+ "eco-3": {
+  "v": 2,
+  "page": 19,
+  "note": "Propone aumentar el impuesto de sociedades a las grandes empresas y perseguir a las que tributan fuera."
+ },
+ "eco-4": {
+  "v": 2,
+  "page": 56,
+  "note": "Propone rebajar el número de cargos políticos y administrativos y eliminar puestos duplicados o improductivos."
+ },
+ "eco-5": {
+  "v": 2,
+  "page": 13,
+  "note": "Propone la nacionalización de los sectores estratégicos de la economía."
+ },
+ "eco-6": {
+  "v": 0,
+  "page": 19,
+  "note": "Propone eliminar el impuesto de sucesiones para rentas bajas, pero suprimir bonificaciones de los más ricos."
+ },
+ "pen-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "pen-2": {
+  "v": 2,
+  "page": 49,
+  "note": "Propone incrementar las pensiones no contributivas y mínimas."
+ },
+ "pen-3": {
+  "v": 2,
+  "page": 48,
+  "note": "Propone revertir el aumento de la edad de jubilación y fijar una edad de retiro adecuada a cada puesto."
+ },
+ "pen-4": {
+  "v": 1,
+  "page": 34,
+  "note": "Propone ayudas económicas a familias numerosas; no menciona el Ingreso Mínimo Vital."
+ },
+ "pen-5": {
+  "v": -1,
+  "page": 48,
+  "note": "Critica que los planes privados de pensiones aprovechen el ahorro de los trabajadores."
+ },
+ "san-1": {
+  "v": 2,
+  "page": 42,
+  "note": "Propone acabar con la externalización y privatización de la sanidad."
+ },
+ "san-2": {
+  "v": 2,
+  "page": 42,
+  "note": "Propone tratamiento bucodental gratuito dentro del sistema sanitario."
+ },
+ "san-3": {
+  "v": -2,
+  "page": 42,
+  "note": "Propone acabar con la externalización y privatización de la sanidad, frente al uso de la privada."
+ },
+ "san-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "san-5": {
+  "v": 2,
+  "page": 43,
+  "note": "Propone aumentar el personal y los recursos de salud mental."
+ },
+ "edu-1": {
+  "v": -2,
+  "page": 22,
+  "note": "Propone eliminar las subvenciones a la escuela privada para fortalecer la pública."
+ },
+ "edu-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "edu-3": {
+  "v": 2,
+  "page": 34,
+  "note": "Propone guarderías y jardines de infancia públicos y gratuitos."
+ },
+ "edu-4": {
+  "v": 0,
+  "page": 22,
+  "note": "Propone garantizar estudiar en castellano o en las lenguas cooficiales, sin priorizar solo el castellano."
+ },
+ "edu-5": {
+  "v": 2,
+  "page": 22,
+  "note": "Propone educación gratuita en todos los niveles, incluidos los superiores para las rentas más bajas."
+ },
+ "edu-6": {
+  "v": 1,
+  "page": 32,
+  "note": "Propone proteger a los niños del adoctrinamiento queer, sin mencionar un veto parental concreto."
+ },
+ "igu-1": {
+  "v": -2,
+  "page": 31,
+  "note": "Afirma que la violencia de género no existe y critica las leyes basadas en ella."
+ },
+ "igu-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "igu-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-4": {
+  "v": 2,
+  "page": 35,
+  "note": "Propone alargar las bajas por paternidad y maternidad."
+ },
+ "igu-5": {
+  "v": 1,
+  "page": 32,
+  "note": "Se posiciona contra la prostitución y propone planes contra la trata y la explotación sexual."
+ },
+ "inm-1": {
+  "v": -2,
+  "page": 53,
+  "note": "Propone que no pueda regularse quien entró de forma ilegal."
+ },
+ "inm-2": {
+  "v": 2,
+  "page": 53,
+  "note": "Propone la expulsión inmediata de quienes están irregularmente y control absoluto de fronteras."
+ },
+ "inm-3": {
+  "v": -2,
+  "page": 54,
+  "note": "Propone mantener y hacer operativos los CIE o sustituirlos por centros más efectivos."
+ },
+ "inm-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "inm-5": {
+  "v": 2,
+  "page": 46,
+  "note": "Propone enfocar el acceso a la vivienda pública y las ayudas hacia los españoles."
+ },
+ "inm-6": {
+  "v": 2,
+  "page": 53,
+  "note": "Propone elevar los requisitos para la nacionalidad y primar el ius sanguinis."
+ },
+ "med-1": {
+  "v": 2,
+  "page": 16,
+  "note": "Propone frenar el cierre de centrales nucleares y ampliar el parque nuclear."
+ },
+ "med-2": {
+  "v": 0,
+  "page": 15,
+  "note": "Propone apoyar las renovables como complemento a la nuclear, pero poner fin a la transición ecológica."
+ },
+ "med-3": {
+  "v": 2,
+  "page": 37,
+  "note": "Critica la Agenda 2030 y propone poner fin a la transición ecológica europea."
+ },
+ "med-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "med-5": {
+  "v": 1,
+  "page": 13,
+  "note": "Propone nacionalizar los sectores estratégicos, entre ellos el energético, sin mencionar una empresa pública concreta."
+ },
+ "med-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "rur-1": {
+  "v": 2,
+  "page": 37,
+  "note": "Propone defender la caza como actividad regulada y esencial."
+ },
+ "rur-2": {
+  "v": 2,
+  "page": 38,
+  "note": "Propone romper con los tratados internacionales que merman la producción; critica importaciones sin controles."
+ },
+ "rur-3": {
+  "v": 0,
+  "page": 38,
+  "note": "Propone romper con las políticas agrarias de la UE y apoyar a pequeños productores mediante cooperativas."
+ },
+ "rur-4": {
+  "v": 1,
+  "page": 38,
+  "note": "Propone invertir en planes hidrográficos para repartir el agua; no menciona trasvases."
+ },
+ "ter-1": {
+  "v": -2,
+  "page": 56,
+  "note": "Defiende la unidad del país y se posiciona contra todos los procesos de independencia."
+ },
+ "ter-2": {
+  "v": 2,
+  "page": 56,
+  "note": "Propone que el Estado central recupere algunas competencias de las comunidades."
+ },
+ "ter-3": {
+  "v": -1,
+  "page": 56,
+  "note": "Defiende la unidad del país y rechaza un modelo plurinacional, aunque propone igualar competencias."
+ },
+ "ter-4": {
+  "v": -2,
+  "page": 56,
+  "note": "Propone igualar competencias y regímenes fiscales de todas las autonomías."
+ },
+ "ter-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ter-6": {
+  "v": -2,
+  "page": 56,
+  "note": "Propone centralizar competencias como sanidad, educación y emergencias."
+ },
+ "ins-1": {
+  "v": 1,
+  "page": 58,
+  "note": "Propone que el Gobierno deje de elegir miembros de los órganos judiciales y priorizar la carrera judicial."
+ },
+ "ins-2": {
+  "v": 1,
+  "page": 56,
+  "note": "Se declara partidario de una república y de un proceso constituyente, sin mencionar un referéndum."
+ },
+ "ins-3": {
+  "v": 2,
+  "page": 40,
+  "note": "Propone derogar toda normativa que ataque las libertades por persecución ideológica."
+ },
+ "ins-4": {
+  "v": 1,
+  "page": 59,
+  "note": "Propone subir las penas por corrupción; no menciona el resto de endurecimientos del Código Penal."
+ },
+ "ins-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ins-6": {
+  "v": 2,
+  "page": 56,
+  "note": "Propone reducir cargos políticos, entidades ineficaces y puestos duplicados."
+ },
+ "ins-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ext-1": {
+  "v": 0,
+  "page": 11,
+  "note": "Propone salir de la OTAN, pero reforzar el ejército; no menciona un objetivo de gasto."
+ },
+ "ext-2": {
+  "v": 2,
+  "page": 11,
+  "note": "Propone la salida inmediata de la OTAN."
+ },
+ "ext-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ext-4": {
+  "v": -2,
+  "page": 11,
+  "note": "Propone la salida de la Unión Europea para recuperar la soberanía nacional."
+ },
+ "ext-5": {
+  "v": 2,
+  "page": 11,
+  "note": "Propone defender sin reservas el derecho del pueblo saharaui a la autodeterminación."
+ },
+ "ext-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "cul-1": {
+  "v": 2,
+  "page": 26,
+  "note": "Propone reducir los impuestos sobre productos culturales como libros o material artístico."
+ },
+ "cul-2": {
+  "v": 2,
+  "page": 21,
+  "note": "Propone regular y controlar el desarrollo y uso de la inteligencia artificial."
+ },
+ "cul-3": {
+  "v": 1,
+  "page": 21,
+  "note": "Propone limitar el acceso a determinadas tecnologías a menores de 16 años; no menciona redes sociales."
+ },
+ "cul-4": {
+  "v": 1,
+  "page": 22,
+  "note": "Critica la fuga de cerebros por carencias en I+D, sin cifrar una inversión mayor."
+ },
+ "cul-5": {
+  "v": -2,
+  "page": 40,
+  "note": "Propone que los medios públicos tengan independencia real del Gobierno, sin reducirlos ni privatizarlos."
+ },
+ "cul-6": {
+  "v": 1,
+  "page": 22,
+  "note": "Propone garantizar estudiar en las lenguas cooficiales; no menciona las instituciones del Estado ni la UE."
+ },
+ "viv-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "emp-6": {
+  "v": -2,
+  "page": 9,
+  "note": "Propone derogar el despido libre y barato y las reformas laborales que lo favorecen."
+ },
+ "eco-7": {
+  "v": -2,
+  "page": 19,
+  "note": "Propone aumentar el impuesto de sociedades a las grandes empresas."
+ },
+ "eco-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "pen-6": {
+  "v": 2,
+  "page": 34,
+  "note": "Propone planes estatales de ayudas económicas y ventajas fiscales a familias numerosas para aumentar la natalidad."
+ },
+ "san-6": {
+  "v": 1,
+  "page": 42,
+  "note": "Propone incrementar el gasto e inversión sanitaria; no fija un porcentaje mínimo por ley."
+ },
+ "edu-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "igu-6": {
+  "v": -2,
+  "page": 31,
+  "note": "Se opone a todo tipo de cupos y propone derogar la discriminación positiva."
+ },
+ "inm-7": {
+  "v": 1,
+  "page": 53,
+  "note": "Propone que los inmigrantes lleguen de forma legal y que los flujos sean ordenados."
+ },
+ "inm-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "med-7": {
+  "v": 1,
+  "page": 13,
+  "note": "Propone cambiar el modelo turístico hacia un turismo de alta calidad; no menciona topes de visitantes."
+ },
+ "rur-5": {
+  "v": 1,
+  "page": 16,
+  "note": "Propone revisar impuestos sobre combustibles y regular precios de la energía, sin referirse a agricultores."
+ },
+ "rur-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ter-7": {
+  "v": -1,
+  "page": 56,
+  "note": "Propone igualdad de todas las regiones y no menciona reconocer una nación o realidad nacional."
+ },
+ "ter-8": {
+  "v": 2,
+  "page": 56,
+  "note": "Propone que todas las comunidades tengan las mismas competencias y el mismo régimen fiscal."
+ },
+ "ins-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ins-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ins-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ext-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "cul-7": {
+  "v": 1,
+  "page": 18,
+  "note": "Propone suprimir subvenciones de carácter ideológico y entidades ineficaces; no menciona la publicidad institucional."
+ },
+ "viv-9": {
+  "v": 2,
+  "page": 29,
+  "note": "Propone ayudas económicas para jóvenes que quieren emanciparse y parques de vivienda juvenil."
+ },
+ "viv-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "viv-11": {
+  "v": 2,
+  "page": 46,
+  "note": "Propone paralizar los desahucios de familias vulnerables hasta encontrar una alternativa habitacional."
+ },
+ "viv-12": {
+  "v": 1,
+  "page": 45,
+  "note": "Critica la venta de vivienda social a fondos y compradores extranjeros; no menciona un régimen solo de alquiler."
+ },
+ "emp-7": {
+  "v": 2,
+  "page": 9,
+  "note": "Propone reforzar el control del cumplimiento de las condiciones de trabajo y de las horas extra."
+ },
+ "emp-8": {
+  "v": -2,
+  "page": 9,
+  "note": "Propone derogar la primacía del convenio de empresa sobre los convenios sectoriales."
+ },
+ "emp-9": {
+  "v": 2,
+  "page": 9,
+  "note": "Propone restringir las condiciones para los contratos temporales y fomentar la lucha contra la temporalidad."
+ },
+ "emp-10": {
+  "v": 1,
+  "page": 9,
+  "note": "Propone representación obligatoria de los trabajadores en empresas de diez o más; no menciona consejos."
+ },
+ "eco-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "eco-10": {
+  "v": 1,
+  "page": 56,
+  "note": "Critica la excesiva burocratización y propone eliminar cargos y duplicidades; no se refiere a crear empresas."
+ },
+ "eco-11": {
+  "v": 2,
+  "page": 18,
+  "note": "Propone disminuir el IVA y aplicar el tipo superreducido a los productos de primera necesidad."
+ },
+ "eco-12": {
+  "v": 1,
+  "page": 16,
+  "note": "Propone la regulación inmediata de los precios de la luz y los combustibles; no menciona alimentos."
+ },
+ "eco-13": {
+  "v": -2,
+  "page": 13,
+  "note": "Propone nacionalizar sectores estratégicos y se opone a la privatización de servicios."
+ },
+ "pen-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "pen-8": {
+  "v": 1,
+  "page": 48,
+  "note": "Propone dirigir recursos generados en España a financiar las pensiones; no menciona impuestos generales."
+ },
+ "pen-9": {
+  "v": 1,
+  "page": 34,
+  "note": "Propone guarderías y jardines de infancia públicos y gratuitos; no menciona un sistema de cuidados de dependencia."
+ },
+ "pen-10": {
+  "v": 1,
+  "page": 52,
+  "note": "Propone eliminar las pagas a inmigrantes que no trabajan; no menciona el fraude en ayudas a nacionales."
+ },
+ "san-7": {
+  "v": 2,
+  "page": 43,
+  "note": "Propone abaratar el acceso a medicamentos con receta y tender a su gratuidad en casos de especial necesidad."
+ },
+ "san-8": {
+  "v": 1,
+  "page": 43,
+  "note": "Propone desarrollar una industria farmacéutica nacional; no especifica que sea pública."
+ },
+ "san-9": {
+  "v": -2,
+  "page": 42,
+  "note": "Propone acabar con la privatización de la sanidad, en contra de financiar centros privados con fondos públicos."
+ },
+ "san-10": {
+  "v": 1,
+  "page": 43,
+  "note": "Propone mejorar las condiciones laborales y salariales del personal sanitario; no menciona plazas MIR."
+ },
+ "edu-8": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "edu-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "edu-10": {
+  "v": 2,
+  "page": 22,
+  "note": "Propone frenar el experimento de la educación digital y apostar por una educación integral."
+ },
+ "edu-11": {
+  "v": 2,
+  "page": 22,
+  "note": "Propone educación pública gratuita en todos los niveles y comedor escolar gratuito; no menciona los libros."
+ },
+ "igu-7": {
+  "v": -2,
+  "page": 32,
+  "note": "Critica la Ley Solo Sí Es Sí y las leyes que, según indica, perjudican a las mujeres."
+ },
+ "igu-8": {
+  "v": 2,
+  "page": 32,
+  "note": "Propone prohibir y perseguir los vientres de alquiler a nivel nacional e internacional."
+ },
+ "igu-9": {
+  "v": -2,
+  "page": 32,
+  "note": "Propone suprimir el Ministerio de Igualdad."
+ },
+ "igu-10": {
+  "v": 2,
+  "page": 32,
+  "note": "Propone derogar las leyes basadas en la discriminación positiva y suprimir los cupos."
+ },
+ "inm-9": {
+  "v": 1,
+  "page": 34,
+  "note": "Habla de una inmigración controlada en un número asumible; no fija un máximo anual."
+ },
+ "inm-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-11": {
+  "v": -2,
+  "page": 53,
+  "note": "Propone expulsar a quien está irregularmente en el país y no permitir su regularización."
+ },
+ "inm-12": {
+  "v": 2,
+  "page": 54,
+  "note": "Propone acuerdos con países cercanos para instalar centros de clasificación y deportación."
+ },
+ "med-8": {
+  "v": -1,
+  "page": 13,
+  "note": "Propone explotar los recursos con los que cuenta España; no menciona el fracking."
+ },
+ "med-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "med-10": {
+  "v": -2,
+  "page": 16,
+  "note": "Critica los impuestos que encarecen los combustibles; no propone subirlos."
+ },
+ "med-11": {
+  "v": 1,
+  "page": 38,
+  "note": "Propone proteger especies y planes de recuperación de la biodiversidad y del patrimonio natural."
+ },
+ "med-12": {
+  "v": -2,
+  "page": 15,
+  "note": "Propone poner fin a la llamada transición ecológica, que incluye los objetivos europeos de vehículos."
+ },
+ "rur-7": {
+  "v": 2,
+  "page": 38,
+  "note": "Propone prohibir la construcción de parques solares en tierras aptas para el cultivo."
+ },
+ "rur-8": {
+  "v": 1,
+  "page": 42,
+  "note": "Propone más centros de atención primaria en zonas rurales; no menciona escuelas ni transporte."
+ },
+ "rur-9": {
+  "v": 1,
+  "page": 37,
+  "note": "Critica el peso de las exigencias de la Agenda 2030 y de lobbys ecologistas sobre los ganaderos."
+ },
+ "rur-10": {
+  "v": -1,
+  "page": 38,
+  "note": "Propone que el Estado determine el control poblacional de la fauna, apoyándose en cazadores."
+ },
+ "ter-9": {
+  "v": 1,
+  "page": 56,
+  "note": "Critica la excesiva administración local y propone fusionar ayuntamientos; no menciona diputaciones."
+ },
+ "ter-10": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ter-11": {
+  "v": -2,
+  "page": 56,
+  "note": "Propone centralizar competencias como servicios de emergencia y otras; se opone a su traspaso."
+ },
+ "ter-12": {
+  "v": 1,
+  "page": 56,
+  "note": "Se posiciona contra todos los procesos de independencia; no menciona el artículo 155 ni la sedición."
+ },
+ "ins-11": {
+  "v": 2,
+  "page": 56,
+  "note": "Propone rebajar el número de cargos políticos y administrativos."
+ },
+ "ins-12": {
+  "v": 2,
+  "page": 59,
+  "note": "Propone subir las penas por corrupción y prohibir el indulto en casos de corrupción política."
+ },
+ "ins-13": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ins-14": {
+  "v": 1,
+  "page": 16,
+  "note": "Propone medidas contra las puertas giratorias en el sector energético; no lo extiende a otros sectores."
+ },
+ "ins-15": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ext-8": {
+  "v": -1,
+  "page": 11,
+  "note": "Propone salir de la UE y de la OTAN; no menciona un ejército europeo común."
+ },
+ "ext-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "ext-10": {
+  "v": 2,
+  "page": 11,
+  "note": "Propone recuperar el control de Gibraltar y expulsar bases militares extranjeras."
+ },
+ "ext-11": {
+  "v": -1,
+  "page": 11,
+  "note": "Propone salir de la Unión Europea; no menciona la entrada de nuevos países."
+ },
+ "cul-8": {
+  "v": 2,
+  "page": 40,
+  "note": "Propone que los medios públicos tengan independencia real respecto al gobierno de turno."
+ },
+ "cul-9": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "cul-10": {
+  "v": 1,
+  "page": 18,
+  "note": "Propone perseguir con multas a empresas que tributan fuera; no menciona una tasa digital."
+ },
+ "cul-11": {
+  "v": null,
+  "page": null,
+  "note": "El programa no lo menciona de forma que permita saberlo."
+ },
+ "cul-12": {
+  "v": 1,
+  "page": 21,
+  "note": "Propone regular y controlar el uso de la inteligencia artificial; no menciona la vigilancia masiva."
+ }
+}

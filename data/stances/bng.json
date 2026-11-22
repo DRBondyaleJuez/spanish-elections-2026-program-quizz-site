@@ -1,0 +1,802 @@
+{
+ "viv-1": {
+  "v": 2,
+  "page": 12,
+  "note": "Topar por lei os prezos dos alugueiros."
+ },
+ "viv-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-3": {
+  "v": 2,
+  "page": 12,
+  "note": "Destinar el 3 % de los Presupuestos del Estado a un parque público de alquiler permanente."
+ },
+ "viv-4": {
+  "v": -1,
+  "page": 12,
+  "note": "Suspensión de lanzamientos sin alternativa habitacional; no menciona la okupación."
+ },
+ "viv-5": {
+  "v": 2,
+  "page": 13,
+  "note": "Recargos en el Impuesto de Sociedades a fondos y SOCIMIs que incumplan la función social de la vivienda."
+ },
+ "viv-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-7": {
+  "v": 2,
+  "page": 12,
+  "note": "Mecanismos eficaces para frenar el uso turístico y de temporada de la vivienda habitual."
+ },
+ "emp-1": {
+  "v": 2,
+  "page": 15,
+  "note": "Salario Mínimo Interprofesional hasta el 60 % del salario medio."
+ },
+ "emp-2": {
+  "v": 2,
+  "page": 15,
+  "note": "Jornada de 35 horas semanales sin reducción salarial, con horizonte de 32 horas."
+ },
+ "emp-3": {
+  "v": 2,
+  "page": 15,
+  "note": "Restituir 45 días de indemnización, máximo de 42 mensualidades y autorización administrativa en despidos colectivos."
+ },
+ "emp-4": {
+  "v": -2,
+  "page": 19,
+  "note": "Propone revisar y reducir las bonificaciones y descuentos en las cotizaciones empresariales."
+ },
+ "emp-5": {
+  "v": 2,
+  "page": 16,
+  "note": "Marco galego de relaciones laborales y descentralización del SMI para Galicia."
+ },
+ "eco-1": {
+  "v": 0,
+  "page": 43,
+  "note": "Más progresividad en el IRPF: menos tributación del trabajo y más para rentas del capital y altas."
+ },
+ "eco-2": {
+  "v": 2,
+  "page": 44,
+  "note": "Blindar y aumentar los impuestos sobre grandes fortunas, reduciendo los límites de exención."
+ },
+ "eco-3": {
+  "v": 2,
+  "page": 44,
+  "note": "Blindar los impuestos específicos a la banca y a las grandes energéticas, con más progresividad."
+ },
+ "eco-4": {
+  "v": 0,
+  "page": 42,
+  "note": "Adelgazar la administración del Estado en Galicia, pero reforzar los servicios públicos y el gasto social."
+ },
+ "eco-5": {
+  "v": 2,
+  "page": 46,
+  "note": "Corporación Industrial Pública Galega y transferencia de participaciones estatales a la Xunta."
+ },
+ "eco-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-1": {
+  "v": 2,
+  "page": 18,
+  "note": "Revalorización anual de las pensiones conforme al IPC real."
+ },
+ "pen-2": {
+  "v": 2,
+  "page": 18,
+  "note": "Pensiones mínimas situadas como mínimo en el nivel del salario mínimo."
+ },
+ "pen-3": {
+  "v": 2,
+  "page": 19,
+  "note": "Jubilación voluntaria sin penalización a partir de 35 años cotizados."
+ },
+ "pen-4": {
+  "v": 2,
+  "page": 21,
+  "note": "Reclamar la transferencia del IMV y crear una Renda Galega no inferior al SMI."
+ },
+ "pen-5": {
+  "v": -2,
+  "page": 19,
+  "note": "Derogar las normas que fomentan los planes de pensiones privados de empleo."
+ },
+ "san-1": {
+  "v": 2,
+  "page": 37,
+  "note": "Garantizar el carácter público de la sanidad y reducir su privatización, modificando la Ley 15/1997."
+ },
+ "san-2": {
+  "v": 2,
+  "page": 37,
+  "note": "Ampliar la cartera pública con la asistencia odontológica."
+ },
+ "san-3": {
+  "v": -2,
+  "page": 37,
+  "note": "La titularidad, financiación, gestión y provisión sanitarias solo con entidades públicas."
+ },
+ "san-4": {
+  "v": -2,
+  "page": 37,
+  "note": "Asistencia sanitaria universal, sin excepciones que amparen la exclusión."
+ },
+ "san-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-1": {
+  "v": -2,
+  "page": 35,
+  "note": "Supresión de los conciertos educativos."
+ },
+ "edu-2": {
+  "v": 2,
+  "page": 35,
+  "note": "La asignatura de Religión no formará parte del currículo escolar; enseñanza laica."
+ },
+ "edu-3": {
+  "v": 2,
+  "page": 33,
+  "note": "Educación pública, universal y gratuita de 0 a 18 años."
+ },
+ "edu-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-5": {
+  "v": 1,
+  "page": 36,
+  "note": "Universidades públicas financiadas al 1,5 % del PIB y acceso universal; no fija la gratuidad."
+ },
+ "edu-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-1": {
+  "v": 2,
+  "page": 24,
+  "note": "Reforma legislativa integral que garantice la cobertura de todas las violencias contra las mujeres."
+ },
+ "igu-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-3": {
+  "v": 2,
+  "page": 29,
+  "note": "Protección de las personas trans menores de 12 años respetando su autodeterminación de género."
+ },
+ "igu-4": {
+  "v": 1,
+  "page": 27,
+  "note": "Medidas de conciliación y corresponsabilidad con compensación económica en reducciones de jornada y excedencias."
+ },
+ "igu-5": {
+  "v": 2,
+  "page": 26,
+  "note": "Impulsar medidas hacia la abolición de la prostitución, persiguiendo a proxenetas y prostituidores."
+ },
+ "inm-1": {
+  "v": 2,
+  "page": 22,
+  "note": "Promover la regularización administrativa como vía para eliminar la irregularidad."
+ },
+ "inm-2": {
+  "v": -2,
+  "page": 23,
+  "note": "Demandar el fin de las deportaciones en caliente y de los CIE."
+ },
+ "inm-3": {
+  "v": 2,
+  "page": 23,
+  "note": "Demandar el cierre de los Centros de Internamiento para Extranjeros."
+ },
+ "inm-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-5": {
+  "v": -2,
+  "page": 22,
+  "note": "Rechaza construir la nación sobre vínculos étnicos; defiende los derechos de la población inmigrante."
+ },
+ "inm-6": {
+  "v": -1,
+  "page": 23,
+  "note": "Propone admitir el gallego como criterio para la nacionalidad; no pide endurecer requisitos."
+ },
+ "med-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-2": {
+  "v": 2,
+  "page": 55,
+  "note": "Impulsar las renovables y reducir el consumo de combustibles fósiles en todos los sectores."
+ },
+ "med-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-5": {
+  "v": 2,
+  "page": 56,
+  "note": "Empresa pública gallega de energía."
+ },
+ "med-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-2": {
+  "v": 2,
+  "page": 48,
+  "note": "Rechazo de los acuerdos comerciales perjudiciales para el sector agrario, en particular el UE-Mercosur."
+ },
+ "rur-3": {
+  "v": 1,
+  "page": 48,
+  "note": "Cambios en el PEPAC para adaptarlo a las explotaciones gallegas y a los pequeños productores."
+ },
+ "rur-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-1": {
+  "v": 2,
+  "page": 32,
+  "note": "Referendos vinculantes en asuntos de interés, incluido el derecho de autodeterminación."
+ },
+ "ter-2": {
+  "v": -2,
+  "page": 9,
+  "note": "Transferir competencias a Galicia, en sentido contrario a devolverlas al Estado."
+ },
+ "ter-3": {
+  "v": 2,
+  "page": 34,
+  "note": "Configuración plurinacional y plurilingüe del Estado."
+ },
+ "ter-4": {
+  "v": 2,
+  "page": 8,
+  "note": "Nuevo modelo de financiamiento basado en el concierto económico y la bilateralidad con el Estado."
+ },
+ "ter-5": {
+  "v": 2,
+  "page": 5,
+  "note": "Condonación de 4.000 millones de euros de la deuda pública gallega."
+ },
+ "ter-6": {
+  "v": 2,
+  "page": 9,
+  "note": "Transferencia de competencias a Galicia."
+ },
+ "ins-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-3": {
+  "v": 2,
+  "page": 30,
+  "note": "Derogación íntegra de la Ley Mordaza."
+ },
+ "ins-4": {
+  "v": -2,
+  "page": 30,
+  "note": "Derogación de la prisión permanente revisable y de las medidas de libertad vigilada."
+ },
+ "ins-5": {
+  "v": 2,
+  "page": 31,
+  "note": "Modificar la Ley de Memoria para acabar con la impunidad del franquismo."
+ },
+ "ins-6": {
+  "v": 2,
+  "page": 42,
+  "note": "Supresión de la administración periférica y de los departamentos ministeriales con competencias transferidas."
+ },
+ "ins-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-1": {
+  "v": -2,
+  "page": 90,
+  "note": "Rechaza el incremento del gasto militar y el acatamiento de las directrices de la OTAN."
+ },
+ "ext-2": {
+  "v": 2,
+  "page": 89,
+  "note": "Salida de la OTAN y disolución de la alianza militar."
+ },
+ "ext-3": {
+  "v": 1,
+  "page": 90,
+  "note": "Eliminación de la venta de armamento a estados que agreden militarmente; condena a Israel."
+ },
+ "ext-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-5": {
+  "v": 2,
+  "page": 90,
+  "note": "Impulsar un referéndum de autodeterminación para el Sáhara Occidental."
+ },
+ "ext-6": {
+  "v": -2,
+  "page": 89,
+  "note": "Censar de inmediato el envío de armamento español a Ucrania."
+ },
+ "cul-1": {
+  "v": 2,
+  "page": 44,
+  "note": "Tributación de los bienes culturales en el tramo superreducido del IVA."
+ },
+ "cul-2": {
+  "v": 2,
+  "page": 76,
+  "note": "Ley de transparencia algorítmica y veto humano sobre las decisiones automatizadas."
+ },
+ "cul-3": {
+  "v": 1,
+  "page": 80,
+  "note": "Limitar los algoritmos adictivos de las redes sociales; no menciona una prohibición a menores."
+ },
+ "cul-4": {
+  "v": 2,
+  "page": 52,
+  "note": "Elevar la inversión estatal en I+D+i hasta el 3 % del PIB en 2030."
+ },
+ "cul-5": {
+  "v": -2,
+  "page": 71,
+  "note": "Ampliar la presencia del gallego en RTVE y las desconexiones territoriales."
+ },
+ "cul-6": {
+  "v": 2,
+  "page": 73,
+  "note": "Oficialidad plena del gallego en la Unión Europea y en la Administración del Estado."
+ },
+ "viv-8": {
+  "v": 2,
+  "page": 14,
+  "note": "Canon a la vivienda vacía de grandes propietarios desde hace 5 años o más y alquiler forzoso."
+ },
+ "emp-6": {
+  "v": -2,
+  "page": 15,
+  "note": "Derogar las contrarreformas laborales y restituir derechos de despido y convenios."
+ },
+ "eco-7": {
+  "v": 0,
+  "page": 44,
+  "note": "Amplía la reserva de capitalización para PEMES y propone subir el Impuesto de Sociedades a grandes empresas."
+ },
+ "eco-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-6": {
+  "v": 1,
+  "page": 37,
+  "note": "Financiación de la sanidad pública hasta la media de la UE por habitante; no es un porcentaje del PIB."
+ },
+ "edu-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-6": {
+  "v": 2,
+  "page": 25,
+  "note": "Reforzar la participación de las mujeres con la Lei de paridade para más mujeres en las listas electorales."
+ },
+ "inm-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-7": {
+  "v": 1,
+  "page": 12,
+  "note": "Frenar el uso turístico de la vivienda habitual; no trata de limitar el turismo en general."
+ },
+ "rur-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-6": {
+  "v": 2,
+  "page": 47,
+  "note": "Compra pública de proximidad y consumo de producto local."
+ },
+ "ter-7": {
+  "v": 2,
+  "page": 4,
+  "note": "Avanzar en el reconocimiento de los derechos nacionales de Galicia."
+ },
+ "ter-8": {
+  "v": -2,
+  "page": 8,
+  "note": "Propone un modelo de financiamiento y competencias propios para Galicia, con concierto económico."
+ },
+ "ins-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-10": {
+  "v": 2,
+  "page": 32,
+  "note": "Referendos vinculantes y consultas populares."
+ },
+ "ext-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-10": {
+  "v": 1,
+  "page": 12,
+  "note": "Aumentar reservas de solo para vivenda protexida; no menciona la Ley del Suelo."
+ },
+ "viv-11": {
+  "v": 2,
+  "page": 12,
+  "note": "Prohibir desahucios de personas vulnerables y suspender cualquier lanzamiento sin alternativa."
+ },
+ "viv-12": {
+  "v": 2,
+  "page": 12,
+  "note": "Garantizar legalmente el carácter público permanente de las viviendas financiadas con fondos públicos."
+ },
+ "emp-7": {
+  "v": 2,
+  "page": 16,
+  "note": "Control y fiscalización reforzados de las empresas y sectores con más accidentes y fraude."
+ },
+ "emp-8": {
+  "v": -2,
+  "page": 15,
+  "note": "Prevalencia de los convenios sectoriales sobre los de empresa."
+ },
+ "emp-9": {
+  "v": 2,
+  "page": 18,
+  "note": "Limita la contratación temporal y a tiempo parcial y favorece la indefinida a tiempo completo."
+ },
+ "emp-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-11": {
+  "v": 2,
+  "page": 44,
+  "note": "Rebaja permanente del IVA de los alimentos básicos."
+ },
+ "eco-12": {
+  "v": 2,
+  "page": 21,
+  "note": "Regular legalmente los precios de los productos básicos y un precio máximo para gasolina y diésel."
+ },
+ "eco-13": {
+  "v": -2,
+  "page": 18,
+  "note": "Restringir las privatizaciones e internalizar los servicios ya privatizados."
+ },
+ "pen-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-8": {
+  "v": 2,
+  "page": 19,
+  "note": "Financiación pública de las pensiones con cargo a los presupuestos y a los impuestos sobre la riqueza."
+ },
+ "pen-9": {
+  "v": 2,
+  "page": 40,
+  "note": "Red pública de cuidados y servicios públicos fuertes para personas mayores y dependientes."
+ },
+ "pen-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-7": {
+  "v": 2,
+  "page": 38,
+  "note": "Modificar el marco de copagos y repagos farmacéuticos para acabar con ese modelo."
+ },
+ "san-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-9": {
+  "v": -2,
+  "page": 37,
+  "note": "Sanidad pública con entidades exclusivamente públicas; contra la financiación de centros privados."
+ },
+ "san-10": {
+  "v": 2,
+  "page": 38,
+  "note": "Transferir las competencias MIR, EIR y PIR, aumentar plazas y garantizar condiciones laborales dignas."
+ },
+ "edu-8": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-11": {
+  "v": 2,
+  "page": 34,
+  "note": "Libros de texto, material escolar y actividades extraescolares gratuitos."
+ },
+ "igu-7": {
+  "v": 1,
+  "page": 25,
+  "note": "Garantizar los recursos de la Ley Orgánica 10/2022 de garantía integral de la libertad sexual."
+ },
+ "igu-8": {
+  "v": 2,
+  "page": 26,
+  "note": "Oposición firme a cualquier legalización o regulación de los vientres de alquiler."
+ },
+ "igu-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-10": {
+  "v": -2,
+  "page": 24,
+  "note": "Impulsa políticas feministas específicas para avanzar en los derechos de las mujeres."
+ },
+ "inm-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-10": {
+  "v": 1,
+  "page": 23,
+  "note": "Propone admitir el conocimiento acreditado de la lengua gallega como criterio para la nacionalidad."
+ },
+ "inm-11": {
+  "v": 1,
+  "page": 23,
+  "note": "Reformas para garantizar derechos (vivienda, trabajo, sanidad, educación) a la población inmigrante."
+ },
+ "inm-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-8": {
+  "v": 2,
+  "page": 56,
+  "note": "Mantenimiento de la prohibición del fracking."
+ },
+ "med-9": {
+  "v": -2,
+  "page": 70,
+  "note": "Rechaza restricciones de acceso por tipo y antigüedad de los vehículos."
+ },
+ "med-10": {
+  "v": 2,
+  "page": 45,
+  "note": "Fiscalidad ambiental en energía, transporte, contaminación y recursos naturales."
+ },
+ "med-11": {
+  "v": 2,
+  "page": 67,
+  "note": "Conservar al menos el 30 % de las zonas terrestres, marinas y costeras."
+ },
+ "med-12": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-7": {
+  "v": 1,
+  "page": 55,
+  "note": "Control público y participación ciudadana en los proyectos eólicos."
+ },
+ "rur-8": {
+  "v": 1,
+  "page": 85,
+  "note": "Servicios públicos, transporte y conectividad en el rural; no fija el coste como condición."
+ },
+ "rur-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-9": {
+  "v": 2,
+  "page": 42,
+  "note": "Supresión de las diputaciones provinciales."
+ },
+ "ter-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-11": {
+  "v": 2,
+  "page": 9,
+  "note": "Transferencia a Galicia de puertos, aeropuertos y estradas de interés estatal."
+ },
+ "ter-12": {
+  "v": -1,
+  "page": 30,
+  "note": "Propone derogar los delitos de opinión y de desórdenes públicos; no menciona el artículo 155 ni la sedición."
+ },
+ "ins-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-12": {
+  "v": 1,
+  "page": 41,
+  "note": "Inhabilitación de cargos que cometan fraude fiscal; no menciona los indultos."
+ },
+ "ins-13": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-14": {
+  "v": 2,
+  "page": 41,
+  "note": "Regulación estricta de las puertas giratorias."
+ },
+ "ins-15": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-8": {
+  "v": -2,
+  "page": 90,
+  "note": "Oposición a la militarización de la UE."
+ },
+ "ext-9": {
+  "v": 2,
+  "page": 90,
+  "note": "Reconocimiento real y efectivo del Estado palestino."
+ },
+ "ext-10": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-11": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-8": {
+  "v": 1,
+  "page": 32,
+  "note": "Pluralidad informativa en los medios de titularidad pública; no menciona la independencia de RTVE."
+ },
+ "cul-9": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-10": {
+  "v": 2,
+  "page": 81,
+  "note": "Tributación del capitalismo de vigilancia y de las plataformas en los territorios donde operan."
+ },
+ "cul-11": {
+  "v": 1,
+  "page": 85,
+  "note": "Conectividad en el rural; no menciona la alta velocidad como servicio universal."
+ },
+ "cul-12": {
+  "v": 2,
+  "page": 77,
+  "note": "Límites estrictos al reconocimiento facial y a la vigilancia biométrica masiva."
+ }
+}

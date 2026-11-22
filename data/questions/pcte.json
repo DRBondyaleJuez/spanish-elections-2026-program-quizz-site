@@ -1,0 +1,2366 @@
+[
+  {
+    "id": "pcte-empleo-001",
+    "doc": "pcte",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "El PCTE propone la jornada de 35 horas semanales sin reducción salarial, como paso hacia las 30.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El programa pide las 35 horas ya, sin recorte de sueldo, y las presenta como un paso hacia las 30 horas.",
+    "tip": "Habla de un paso intermedio.",
+    "source": {
+      "doc": "pcte",
+      "page": 7,
+      "section": "Jornada laboral"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-empleo-002",
+    "doc": "pcte",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "Según el programa, ante un despido injustificado la readmisión sería obligatoria, a elección del trabajador.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Propone readmisión obligatoria a elección de la persona trabajadora, en lugar de que la empresa decida entre readmitir o indemnizar.",
+    "tip": "La decisión corresponde a quien trabaja.",
+    "source": {
+      "doc": "pcte",
+      "page": 7,
+      "section": "Readmisión"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-empleo-003",
+    "doc": "pcte",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "El PCTE propone prohibir los despidos colectivos en empresas con beneficios o que repartan dividendos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Además pide autorización administrativa previa para cualquier despido colectivo, con informe vinculante de la representación de los trabajadores.",
+    "tip": "Se fija en si la empresa gana dinero.",
+    "source": {
+      "doc": "pcte",
+      "page": 8,
+      "section": "Despidos colectivos"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-vivienda-001",
+    "doc": "pcte",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "El PCTE propone que el precio de los alquileres públicos se fije según los ingresos de los hogares.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. También propone prohibir vender o descalificar cualquier vivienda pública o protegida.",
+    "tip": "El precio depende de lo que gana cada hogar.",
+    "source": {
+      "doc": "pcte",
+      "page": 12,
+      "section": "Precio del alquiler público"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-sanidad-001",
+    "doc": "pcte",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "El PCTE propone que la baja médica (incapacidad temporal) se pague al 100 % del salario desde el primer día.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. En la misma línea pide una prestación por desempleo mientras dure el paro y nunca inferior al salario mínimo.",
+    "tip": "No hay días de espera sin cobrar.",
+    "source": {
+      "doc": "pcte",
+      "page": 14,
+      "section": "Paro y baja médica"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-educacion-001",
+    "doc": "pcte",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "El programa del PCTE defiende un sistema educativo exclusivamente público, gratuito, laico e inclusivo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Para ello propone integrar los centros concertados en una red pública única.",
+    "tip": "Incluye el adjetivo 'laico'.",
+    "source": {
+      "doc": "pcte",
+      "page": 13,
+      "section": "Educación pública"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-otros-001",
+    "doc": "pcte",
+    "topic": "otros",
+    "type": "tf",
+    "question": "El PCTE propone prohibir las casas de apuestas, el juego en línea y su publicidad.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Aparece en el bloque dedicado a la juventud trabajadora.",
+    "tip": "Se incluye en el apartado de juventud.",
+    "source": {
+      "doc": "pcte",
+      "page": 16,
+      "section": "Apuestas y juego"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-exterior-001",
+    "doc": "pcte",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "El PCTE propone un embargo militar total y sin excepciones al Estado de Israel, además de romper sus relaciones diplomáticas, militares y comerciales con España.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El programa habla de embargo total y de ruptura de las tres clases de relaciones.",
+    "tip": "Pide medidas totales, no parciales.",
+    "source": {
+      "doc": "pcte",
+      "page": 19,
+      "section": "Israel"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-exterior-002",
+    "doc": "pcte",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "Según el programa, España debería retirar su apoyo al plan de autonomía marroquí para el Sáhara Occidental.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Propone reconocer la República Árabe Saharaui Democrática y un referéndum de autodeterminación libre y vinculante.",
+    "tip": "Habla de autodeterminación.",
+    "source": {
+      "doc": "pcte",
+      "page": 19,
+      "section": "Sáhara Occidental"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-inmigracion-001",
+    "doc": "pcte",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "El PCTE propone un mecanismo permanente de regularización para todas las personas trabajadoras sin papeles.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Lo combina con el cierre de los CIE y el fin de las devoluciones en caliente.",
+    "tip": "Es un mecanismo estable, no puntual.",
+    "source": {
+      "doc": "pcte",
+      "page": 20,
+      "section": "CIE y regularización"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-otros-002",
+    "doc": "pcte",
+    "topic": "otros",
+    "type": "tf",
+    "question": "El programa propone el derecho a elegir representante también en las empresas de menos de seis trabajadores.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Sería mediante delegados territoriales o sectoriales elegidos por sus plantillas.",
+    "tip": "Se refiere a empresas muy pequeñas.",
+    "source": {
+      "doc": "pcte",
+      "page": 21,
+      "section": "Representación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-otros-003",
+    "doc": "pcte",
+    "topic": "otros",
+    "type": "tf",
+    "question": "El texto de presentación del PCTE afirma que su documento no es un programa electoral.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Lo define como un 'programa de lucha' para la clase obrera y los sectores populares, no como medidas para aplicar desde las instituciones.",
+    "tip": "Fíjate en el título del documento.",
+    "source": {
+      "doc": "pcte",
+      "page": 3,
+      "section": "Presentación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-economia-001",
+    "doc": "pcte",
+    "topic": "economia",
+    "type": "tf",
+    "question": "El programa señala que el poder adquisitivo de los trabajadores es hoy un 4,6 % inferior al de 2008.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Es el dato con el que abre el texto de presentación.",
+    "tip": "Es una cifra de comparación con 2008.",
+    "source": {
+      "doc": "pcte",
+      "page": 3,
+      "section": "Presentación"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pcte-instituciones-001",
+    "doc": "pcte",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "El PCTE propone ilegalizar las empresas de desocupación y perseguir penalmente sus coacciones y desalojos ilegales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. También propone prohibir contratarlas.",
+    "tip": "Se centra en las empresas que desalojan viviendas ocupadas.",
+    "source": {
+      "doc": "pcte",
+      "page": 20,
+      "section": "Desocupación ilegal"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-cultura-001",
+    "doc": "pcte",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "El PCTE propone la gratuidad de los museos y equipamientos públicos y un precio máximo en toda actividad cultural subvencionada.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Pide además uso gratuito de instalaciones deportivas públicas para menores y personas desempleadas.",
+    "tip": "Combina gratuidad y precios máximos.",
+    "source": {
+      "doc": "pcte",
+      "page": 18,
+      "section": "Gratuidad cultural"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-pensiones-001",
+    "doc": "pcte",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "El PCTE propone fijar la jubilación ordinaria en los 65 años con pensión completa.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone la jubilación ordinaria a los 60 años, sin penalización, y a los 55 en trabajos penosos, peligrosos, tóxicos o insalubres.",
+    "tip": "La edad que propone es inferior a la actual.",
+    "source": {
+      "doc": "pcte",
+      "page": 7,
+      "section": "Jubilación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-igualdad-001",
+    "doc": "pcte",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "El PCTE propone un permiso por nacimiento de 16 semanas, transferible entre progenitores.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone 52 semanas, igual, intransferible y retribuido al 100 %.",
+    "tip": "Es bastante más largo y no se puede ceder.",
+    "source": {
+      "doc": "pcte",
+      "page": 17,
+      "section": "Permiso por nacimiento"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-educacion-002",
+    "doc": "pcte",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "El PCTE propone mantener los centros concertados con financiación pública junto a los públicos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone integrarlos en una red pública única y un sistema exclusivamente público.",
+    "tip": "Su modelo no admite dos redes.",
+    "source": {
+      "doc": "pcte",
+      "page": 13,
+      "section": "Educación pública"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-igualdad-002",
+    "doc": "pcte",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "El PCTE propone regular la prostitución como una profesión con derechos laborales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone prohibir la prostitución y el proxenetismo, con alternativas materiales para las mujeres prostituidas.",
+    "tip": "Su línea es la prohibición.",
+    "source": {
+      "doc": "pcte",
+      "page": 17,
+      "section": "Prostitución"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-igualdad-003",
+    "doc": "pcte",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "El PCTE propone regular la gestación subrogada con garantías para las gestantes.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Rechaza la gestación subrogada y propone perseguir a las agencias que la intermedian desde España.",
+    "tip": "Habla de rechazo y persecución.",
+    "source": {
+      "doc": "pcte",
+      "page": 17,
+      "section": "Gestación subrogada"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-vivienda-002",
+    "doc": "pcte",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "El PCTE propone reservar la mitad del parque público de alquiler para jóvenes trabajadores.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone reservar un tercio, con alquiler según ingresos, en lugar de ayudas que acaban en manos de los caseros.",
+    "tip": "La fracción es menor que la mitad.",
+    "source": {
+      "doc": "pcte",
+      "page": 16,
+      "section": "Vivienda joven"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-exterior-003",
+    "doc": "pcte",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "El PCTE propone un embargo parcial de armas a Israel, manteniendo las relaciones comerciales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Pide un embargo militar total y sin excepciones y romper sus relaciones diplomáticas, militares y comerciales.",
+    "tip": "El programa dice 'total y sin excepciones'.",
+    "source": {
+      "doc": "pcte",
+      "page": 19,
+      "section": "Israel"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-educacion-003",
+    "doc": "pcte",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "El PCTE permite las prácticas extracurriculares siempre que haya tutor.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Solo admite prácticas curriculares, con tutor, límite de horas y de becarios, y prohíbe las extracurriculares.",
+    "tip": "Admite una clase de prácticas y prohíbe la otra.",
+    "source": {
+      "doc": "pcte",
+      "page": 16,
+      "section": "Prácticas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-exterior-004",
+    "doc": "pcte",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "El PCTE propone permanecer en la Unión Europea para reformarla desde dentro.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone la salida de España de la OTAN y de la Unión Europea.",
+    "tip": "Pide salir de ambas.",
+    "source": {
+      "doc": "pcte",
+      "page": 19,
+      "section": "OTAN y UE"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-instituciones-002",
+    "doc": "pcte",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "El PCTE presenta su documento como un conjunto de medidas para aplicar desde las instituciones si gobierna.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El texto aclara que no es un programa electoral ni una serie de medidas para aplicar desde las instituciones.",
+    "tip": "Su texto lo niega expresamente.",
+    "source": {
+      "doc": "pcte",
+      "page": 3,
+      "section": "Presentación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-instituciones-003",
+    "doc": "pcte",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "El PCTE propone mantener la Ley de Seguridad Ciudadana pero reducir sus multas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone derogarla y anular las sanciones impuestas con ella por participar en huelgas y protestas.",
+    "tip": "Habla de derogar, no de reformar.",
+    "source": {
+      "doc": "pcte",
+      "page": 20,
+      "section": "Ley Mordaza"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-otros-004",
+    "doc": "pcte",
+    "topic": "otros",
+    "type": "tf",
+    "question": "El PCTE propone ampliar los servicios mínimos en las huelgas de los sectores esenciales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone limitar de raíz los servicios mínimos abusivos y la ampliación de lo que se declara servicio esencial.",
+    "tip": "Su postura es de limitar.",
+    "source": {
+      "doc": "pcte",
+      "page": 21,
+      "section": "Servicios mínimos"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-sanidad-002",
+    "doc": "pcte",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "El PCTE permite las subcontratas en el diseño y mantenimiento de infraestructuras del transporte.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone la prohibición completa de las subcontratas para esas labores.",
+    "tip": "Es una prohibición completa.",
+    "source": {
+      "doc": "pcte",
+      "page": 14,
+      "section": "Transporte"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-cultura-002",
+    "doc": "pcte",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "El PCTE propone mantener el gasto en I+D militar como parte de la inversión científica.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone que ningún euro de investigación pública vaya a fines militares y que esos fondos pasen a salud, energía, alimentación y medio ambiente.",
+    "tip": "No admite ningún euro militar.",
+    "source": {
+      "doc": "pcte",
+      "page": 18,
+      "section": "I+D militar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-rural-001",
+    "doc": "pcte",
+    "topic": "rural",
+    "type": "tf",
+    "question": "El PCTE propone dejar libres los precios de la cesta básica y vigilar solo los márgenes de los pequeños productores.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone precios máximos de venta para una cesta de productos básicos y márgenes máximos para la gran distribución.",
+    "tip": "Los topes se aplican a la venta y a la gran distribución.",
+    "source": {
+      "doc": "pcte",
+      "page": 15,
+      "section": "Cesta básica"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-vivienda-003",
+    "doc": "pcte",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿En qué porcentaje propone el PCTE bajar de forma inmediata los alquileres?",
+    "options": [
+      "Un 20 %",
+      "Un 50 %",
+      "Un 30 %",
+      "Un 10 %"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone una bajada inmediata del 50 % a costa de la ganancia de los propietarios, y después precios máximos ligados a los salarios medios de la zona.",
+    "tip": "Es la mitad.",
+    "source": {
+      "doc": "pcte",
+      "page": 11,
+      "section": "Bajada de alquileres"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-vivienda-004",
+    "doc": "pcte",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué máximo de los ingresos del hogar debería pagar un alquiler social obligatorio de un banco, fondo o gran tenedor según el PCTE?",
+    "options": [
+      "El 40 %",
+      "El 15 %",
+      "El 30 %",
+      "El 5 %"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone alquiler social obligatorio de no más del 15 % de los ingresos y con contrato indefinido.",
+    "tip": "Es una fracción baja.",
+    "source": {
+      "doc": "pcte",
+      "page": 11,
+      "section": "Alquiler social"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-vivienda-005",
+    "doc": "pcte",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿A qué proporción de las viviendas de una localidad propone el PCTE limitar la vivienda turística?",
+    "options": [
+      "Al 0,5 %",
+      "Al 5 %",
+      "Al 10 %",
+      "Al 15 %"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone limitarla a un 0,5 % del conjunto de viviendas de la localidad.",
+    "tip": "Es menos de uno por ciento.",
+    "source": {
+      "doc": "pcte",
+      "page": 11,
+      "section": "Vivienda turística"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-vivienda-006",
+    "doc": "pcte",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué objetivo mínimo plantea el PCTE para el parque público de vivienda en alquiler a corto plazo?",
+    "options": [
+      "El 50 % del total",
+      "Al menos el 10 % del total de viviendas",
+      "Al menos el 2 % del total",
+      "Al menos el 25 % del total"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone un gran parque público permanente de al menos el 10 % de las viviendas, protegido para siempre.",
+    "tip": "Es una de cada diez.",
+    "source": {
+      "doc": "pcte",
+      "page": 12,
+      "section": "Parque público"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-vivienda-007",
+    "doc": "pcte",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué propone el PCTE ante la ejecución hipotecaria de la vivienda habitual de hogares trabajadores?",
+    "options": [
+      "Que el Estado pague la deuda con ayudas",
+      "Permitirla si el hogar tiene otra vivienda",
+      "Aplazar la ejecución un año",
+      "Ninguna ejecución: deuda reestructurada a cargo de la banca y dación en pago si el hogar lo elige"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Propone no ejecutar, reestructurar la deuda a cargo de la banca, dación en pago con alquiler social si el hogar quiere y cancelar las deudas de quienes ya perdieron la casa.",
+    "tip": "Quien paga la reestructuración es la banca.",
+    "source": {
+      "doc": "pcte",
+      "page": 12,
+      "section": "Hipotecas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-vivienda-008",
+    "doc": "pcte",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué viviendas propone expropiar sin indemnización el PCTE?",
+    "options": [
+      "Las vacías y de uso especulativo de bancos, fondos y grandes tenedores",
+      "Todas las segundas residencias",
+      "Las de más de 150 metros cuadrados",
+      "Las de cualquier propietario que tenga más de dos"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Habla de viviendas vacías y de uso especulativo de bancos, fondos y grandes tenedores, para incorporarlas al parque público.",
+    "tip": "Se refiere a grandes propietarios.",
+    "source": {
+      "doc": "pcte",
+      "page": 12,
+      "section": "Expropiación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-empleo-004",
+    "doc": "pcte",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿A partir de cuánto tiempo de contratos encadenados propone el PCTE que el contrato sea fijo?",
+    "options": [
+      "12 meses en un periodo de 18",
+      "24 meses en un periodo de 36",
+      "3 meses en un periodo de 6",
+      "6 meses de contratos encadenados en un periodo de 12"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Propone contrato fijo a partir de 6 meses de contratos encadenados en un periodo de 12, en la misma empresa o grupo.",
+    "tip": "El plazo es corto.",
+    "source": {
+      "doc": "pcte",
+      "page": 7,
+      "section": "Contratación fija"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-empleo-005",
+    "doc": "pcte",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué tope de trabajo efectivo anual propone el PCTE?",
+    "options": [
+      "1.540 horas anuales",
+      "1.200 horas anuales",
+      "2.000 horas anuales",
+      "1.800 horas anuales"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone un tope de 1.540 horas anuales de trabajo efectivo, con las 35 horas semanales.",
+    "tip": "Es el resultado aproximado de 35 horas por unas 44 semanas.",
+    "source": {
+      "doc": "pcte",
+      "page": 7,
+      "section": "Jornada laboral"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pcte-empleo-006",
+    "doc": "pcte",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Cuántos días laborables de vacaciones retribuidas propone el PCTE?",
+    "options": [
+      "20 días laborables",
+      "30 días laborables",
+      "35 días laborables",
+      "25 días laborables (cinco semanas)"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Propone cinco semanas, es decir, 25 días laborables.",
+    "tip": "Son cinco semanas.",
+    "source": {
+      "doc": "pcte",
+      "page": 7,
+      "section": "Vacaciones"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-empleo-007",
+    "doc": "pcte",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué tipo de subidas salariales propone el PCTE?",
+    "options": [
+      "Porcentuales iguales para todos",
+      "Según la productividad de cada empresa",
+      "Lineales, con los mismos euros para todas las categorías",
+      "Solo para los salarios más altos"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone subidas lineales para no ensanchar la distancia entre los que más y los que menos cobran, junto con una cláusula de revisión según el IPC real.",
+    "tip": "Se pretende no ampliar la brecha salarial.",
+    "source": {
+      "doc": "pcte",
+      "page": 7,
+      "section": "Salarios"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-empleo-008",
+    "doc": "pcte",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué requisito propone el PCTE para cualquier despido colectivo?",
+    "options": [
+      "Solo una indemnización mínima",
+      "Un informe no vinculante de la empresa",
+      "Una votación de los accionistas",
+      "Autorización administrativa previa, con informe vinculante de la representación de los trabajadores"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Propone autorización administrativa previa, informe vinculante de la representación de los trabajadores y apertura completa de las cuentas del grupo.",
+    "tip": "Interviene la Administración antes del despido.",
+    "source": {
+      "doc": "pcte",
+      "page": 8,
+      "section": "Despidos colectivos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-pensiones-002",
+    "doc": "pcte",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿A qué edad propone el PCTE la jubilación en trabajos especialmente penosos, peligrosos, tóxicos o insalubres?",
+    "options": [
+      "A los 62 años",
+      "A los 55 años",
+      "A los 50 años",
+      "A los 58 años"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La jubilación ordinaria sería a los 60 años y a los 55 en esos trabajos.",
+    "tip": "Cinco años menos que la ordinaria.",
+    "source": {
+      "doc": "pcte",
+      "page": 7,
+      "section": "Jubilación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-pensiones-003",
+    "doc": "pcte",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Qué propone el PCTE sobre los planes de pensiones privados?",
+    "options": [
+      "Acabar con los incentivos fiscales a los planes privados y a los fondos de pensiones de empleo",
+      "Ampliar la deducción fiscal",
+      "Que el Estado gestione los fondos privados",
+      "Obligar a todos los trabajadores a contratarlos"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Rechaza su privatización y propone el fin de los incentivos fiscales.",
+    "tip": "Lo que se retira es una ventaja fiscal.",
+    "source": {
+      "doc": "pcte",
+      "page": 14,
+      "section": "Planes de pensiones"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-sanidad-003",
+    "doc": "pcte",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué parte del gasto sanitario propone destinar el PCTE a atención primaria?",
+    "options": [
+      "El 15 %",
+      "El 50 %",
+      "El 25 %",
+      "El 10 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone que el 25 % del gasto sanitario vaya a atención primaria.",
+    "tip": "Es una cuarta parte.",
+    "source": {
+      "doc": "pcte",
+      "page": 13,
+      "section": "Sanidad pública"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-sanidad-004",
+    "doc": "pcte",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué ley propone derogar el PCTE para prohibir nuevos conciertos y externalizaciones en sanidad?",
+    "options": [
+      "La Ley 41/2002 de autonomía del paciente",
+      "La Ley 15/1997",
+      "La Ley General de Sanidad de 1986",
+      "La Ley de Dependencia de 2006"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone derogar la Ley 15/1997 y prohibir nuevos conciertos, concesiones y externalizaciones en sanidad, educación y servicios sociales.",
+    "tip": "Es una ley de finales de los años noventa.",
+    "source": {
+      "doc": "pcte",
+      "page": 13,
+      "section": "Privatizaciones"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pcte-educacion-004",
+    "doc": "pcte",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Qué propone hacer el PCTE con los centros concertados?",
+    "options": [
+      "Dejarlos como están y reducir ratios solo en los públicos",
+      "Cerrarlos",
+      "Mantenerlos con más financiación",
+      "Integrarlos en una red pública única"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Propone un sistema exclusivamente público e integrar los concertados en una red pública única.",
+    "tip": "No quiere dos redes separadas.",
+    "source": {
+      "doc": "pcte",
+      "page": 13,
+      "section": "Educación pública"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-educacion-005",
+    "doc": "pcte",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿A qué equivale la beca-salario que propone el PCTE para estudiantes de familias trabajadoras?",
+    "options": [
+      "Al salario medio",
+      "Al salario mínimo",
+      "Al doble del salario mínimo",
+      "A la mitad del salario mínimo"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone una beca-salario equivalente al salario mínimo y plaza en residencia pública para quien estudie fuera de su localidad.",
+    "tip": "Se compara con el salario mínimo.",
+    "source": {
+      "doc": "pcte",
+      "page": 16,
+      "section": "Becas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-igualdad-004",
+    "doc": "pcte",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Qué propone el PCTE sobre las interrupciones del embarazo?",
+    "options": [
+      "Que todas se realicen en hospitales públicos, dentro de la sanidad pública",
+      "Exigir autorización de los progenitores en todos los casos",
+      "Limitarlas a un plazo de 8 semanas",
+      "Que se realicen solo en clínicas privadas concertadas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone derechos sexuales y reproductivos garantizados en la sanidad pública: todas las interrupciones del embarazo en hospitales públicos.",
+    "tip": "Se garantiza en la red pública.",
+    "source": {
+      "doc": "pcte",
+      "page": 17,
+      "section": "Derechos reproductivos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-igualdad-005",
+    "doc": "pcte",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Hasta cuándo propone el PCTE la nulidad y readmisión automática en caso de despido por maternidad?",
+    "options": [
+      "Hasta el fin del permiso por nacimiento",
+      "Hasta que el hijo o la hija cumpla 3 años",
+      "Hasta que cumpla 6 años",
+      "Hasta que cumpla 1 año"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone nulidad y readmisión automática en todo despido hasta que el hijo o la hija cumpla 3 años.",
+    "tip": "Coincide con la edad de la plaza pública 0-3.",
+    "source": {
+      "doc": "pcte",
+      "page": 17,
+      "section": "Despido y maternidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-rural-002",
+    "doc": "pcte",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué propone el PCTE respecto a la prohibición de comprar por debajo del coste de producción?",
+    "options": [
+      "Aplicarla solo a productos importados",
+      "Cumplimiento efectivo, con inspección en la que participen organizaciones de pequeños productores y jornaleros",
+      "Sustituirla por ayudas directas a los grandes productores",
+      "Derogarla"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Pide cumplimiento efectivo con inspección participada por organizaciones de pequeños productores y jornaleros, y publicar todas las sanciones.",
+    "tip": "Quienes inspeccionan incluyen a los afectados.",
+    "source": {
+      "doc": "pcte",
+      "page": 15,
+      "section": "Precios en origen"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-rural-003",
+    "doc": "pcte",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué instrumento propone el PCTE para las tierras abandonadas?",
+    "options": [
+      "Reforestarlas obligatoriamente",
+      "Subastarlas a la gran agroindustria",
+      "Cederlas gratis a fondos de inversión",
+      "Bancos públicos de tierras y recuperación productiva"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Propone bancos públicos de tierras y recuperación productiva de tierras abandonadas.",
+    "tip": "El banco sería público.",
+    "source": {
+      "doc": "pcte",
+      "page": 15,
+      "section": "Tierras"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-exterior-005",
+    "doc": "pcte",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Qué propone el PCTE sobre el Sáhara Occidental?",
+    "options": [
+      "Mantener la actual neutralidad",
+      "Reconocer la República Árabe Saharaui Democrática y un referéndum de autodeterminación vinculante",
+      "Reconocer la soberanía de Marruecos",
+      "Apoyar el plan de autonomía marroquí"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone reconocerla, un referéndum libre y vinculante y retirar el apoyo al plan de autonomía marroquí.",
+    "tip": "Pide que decida el pueblo saharaui.",
+    "source": {
+      "doc": "pcte",
+      "page": 19,
+      "section": "Sáhara Occidental"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-exterior-006",
+    "doc": "pcte",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Qué propone el PCTE con los Programas Especiales de Modernización?",
+    "options": [
+      "Cofinanciarlos con la UE",
+      "Ampliarlos",
+      "Reducirlos a la mitad",
+      "Anularlos"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Pide reducir el gasto militar real y anular esos programas, con los recursos para vivienda, servicios, empleo e industria civil.",
+    "tip": "Se oponen al rearme.",
+    "source": {
+      "doc": "pcte",
+      "page": 19,
+      "section": "Rearme"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-instituciones-004",
+    "doc": "pcte",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Qué delitos de opinión propone derogar el PCTE?",
+    "options": [
+      "El delito de odio",
+      "La difamación entre particulares",
+      "Las injurias a la Corona y a las instituciones y los ultrajes a símbolos",
+      "Las amenazas"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Habla de los delitos de opinión que protegen al poder: injurias a la Corona y a las instituciones y ultrajes a símbolos.",
+    "tip": "Son delitos que protegen a instituciones y símbolos.",
+    "source": {
+      "doc": "pcte",
+      "page": 20,
+      "section": "Delitos de opinión"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-instituciones-005",
+    "doc": "pcte",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Qué material propone prohibir el PCTE en el control de huelgas, piquetes y manifestaciones?",
+    "options": [
+      "Esposas",
+      "Pelotas de goma y vehículos blindados ('tanquetas')",
+      "Cámaras de vigilancia",
+      "Perros policía"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone prohibir las pelotas de goma y las tanquetas y el material militar en esos controles, además de investigación independiente de las actuaciones policiales.",
+    "tip": "Son medios de contención de aspecto militar.",
+    "source": {
+      "doc": "pcte",
+      "page": 20,
+      "section": "Impunidad policial"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-otros-005",
+    "doc": "pcte",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Cuántas horas retribuidas al año de asamblea en horario de trabajo propone el PCTE como mínimo?",
+    "options": [
+      "10 horas",
+      "40 horas",
+      "2 horas",
+      "5 horas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone derecho a asamblea en horario de trabajo: al menos 10 horas retribuidas al año.",
+    "tip": "Algo más de una jornada.",
+    "source": {
+      "doc": "pcte",
+      "page": 21,
+      "section": "Derecho de asamblea"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-cultura-003",
+    "doc": "pcte",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿A qué propone el PCTE destinar los fondos de I+D militar?",
+    "options": [
+      "A pagar deuda pública",
+      "A salud, energía, alimentación y medio ambiente",
+      "A la industria turística",
+      "A bajar impuestos a empresas"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Pide que ningún euro de investigación pública vaya a fines militares y que esos fondos pasen a esos cuatro ámbitos.",
+    "tip": "Son usos civiles.",
+    "source": {
+      "doc": "pcte",
+      "page": 18,
+      "section": "I+D militar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-economia-002",
+    "doc": "pcte",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué propone el PCTE si una empresa viable y necesaria va a desaparecer solo por decisión de sus propietarios?",
+    "options": [
+      "Su venta a un fondo de inversión",
+      "Una indemnización mayor para los propietarios",
+      "Su intervención y paso a propiedad estatal bajo control obrero",
+      "Ayudas públicas sin condiciones"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Defiende su intervención y paso a propiedad estatal bajo mecanismos de control obrero.",
+    "tip": "Hay un control a cargo de la plantilla.",
+    "source": {
+      "doc": "pcte",
+      "page": 9,
+      "section": "Intervención de empresas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-economia-003",
+    "doc": "pcte",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué sectores cita especialmente el PCTE para la propiedad estatal bajo control obrero?",
+    "options": [
+      "Banca privada solamente",
+      "Turismo, hostelería y comercio",
+      "Energía, transporte y telecomunicaciones",
+      "Medios de comunicación y deporte"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Cita energía, transporte, telecomunicaciones y capacidades industriales esenciales.",
+    "tip": "Son redes básicas.",
+    "source": {
+      "doc": "pcte",
+      "page": 10,
+      "section": "Sectores estratégicos"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pcte-vivienda-009",
+    "doc": "pcte",
+    "topic": "vivienda",
+    "type": "multi",
+    "question": "Marca todas las propuestas de vivienda que recoge el PCTE.",
+    "options": [
+      "Prohibir todo desahucio de la vivienda habitual de hogares trabajadores",
+      "Prohibir cortes de agua, electricidad o calefacción a hogares trabajadores",
+      "Alquiler social de no más del 15 % de los ingresos",
+      "Avales públicos para comprar la primera vivienda",
+      "Deducciones fiscales para inquilinos"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Las tres primeras están en el bloque de vivienda. El programa rechaza expresamente las ayudas públicas al alquiler y no menciona avales ni deducciones.",
+    "tip": "Son medidas contra la pérdida de la casa y de los suministros.",
+    "source": {
+      "doc": "pcte",
+      "page": 11,
+      "section": "Desahucios y suministros"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-empleo-009",
+    "doc": "pcte",
+    "topic": "empleo",
+    "type": "multi",
+    "question": "Marca las medidas laborales que propone el PCTE.",
+    "options": [
+      "Prohibición de las ETT",
+      "Ampliar las bolsas de horas",
+      "Readmisión obligatoria ante el despido injustificado",
+      "Registro horario controlado por la representación de los trabajadores",
+      "Abaratar el despido"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "Las tres primeras están en el bloque 'Luchar por el trabajo'. Propone prohibir las bolsas de horas y despidos disuasorios.",
+    "tip": "Van en dirección contraria a la flexibilidad.",
+    "source": {
+      "doc": "pcte",
+      "page": 7,
+      "section": "Contratación y readmisión"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-pensiones-004",
+    "doc": "pcte",
+    "topic": "pensiones",
+    "type": "multi",
+    "question": "Marca las propuestas del PCTE sobre protección social.",
+    "options": [
+      "Incentivos fiscales a los planes de pensiones privados",
+      "Baja médica pagada al 100 % desde el primer día",
+      "Prestación por desempleo nunca inferior al salario mínimo",
+      "Retrasar la edad de jubilación",
+      "Ninguna pensión por debajo del salario mínimo"
+    ],
+    "answer": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "Las tres primeras están en el programa. Propone acabar con los incentivos a planes privados y jubilar a los 60.",
+    "tip": "Las cantidades se miden con el salario mínimo.",
+    "source": {
+      "doc": "pcte",
+      "page": 14,
+      "section": "Pensiones, paro y baja"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-sanidad-005",
+    "doc": "pcte",
+    "topic": "sanidad",
+    "type": "multi",
+    "question": "Marca los ámbitos que el PCTE cita expresamente para reforzar en la sanidad pública.",
+    "options": [
+      "Atención primaria",
+      "Conciertos con clínicas privadas",
+      "Salud bucodental",
+      "Salud mental",
+      "Copago de medicamentos"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "Cita atención primaria, especializada, salud mental, bucodental, prevención e investigación. Propone prohibir nuevos conciertos.",
+    "tip": "Son servicios públicos concretos.",
+    "source": {
+      "doc": "pcte",
+      "page": 13,
+      "section": "Sanidad pública"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-educacion-006",
+    "doc": "pcte",
+    "topic": "educacion",
+    "type": "multi",
+    "question": "Según el PCTE, la gratuidad educativa debe abarcar también los costes de...",
+    "options": [
+      "materiales",
+      "matrícula en universidades privadas",
+      "transporte",
+      "residencia",
+      "comedor"
+    ],
+    "answer": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explanation": "El programa cita materiales, transporte, comedor o residencia, dentro de un sistema exclusivamente público.",
+    "tip": "Son costes que pueden impedir estudiar.",
+    "source": {
+      "doc": "pcte",
+      "page": 14,
+      "section": "Gratuidad educativa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-igualdad-006",
+    "doc": "pcte",
+    "topic": "igualdad",
+    "type": "multi",
+    "question": "Marca las propuestas de igualdad del PCTE.",
+    "options": [
+      "Derecho a jornada completa para quien trabaje a tiempo parcial y lo pida",
+      "Legalizar la prostitución como trabajo",
+      "Igual salario por trabajos de igual valor",
+      "Rechazo de la gestación subrogada",
+      "Permiso de nacimiento de 16 semanas"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "Las tres primeras están en el programa. Propone prohibir la prostitución y un permiso de 52 semanas.",
+    "tip": "Piden cambios en el empleo y en los cuidados.",
+    "source": {
+      "doc": "pcte",
+      "page": 17,
+      "section": "Igualdad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-rural-004",
+    "doc": "pcte",
+    "topic": "rural",
+    "type": "multi",
+    "question": "Marca las propuestas del PCTE para el campo y la cesta de la compra.",
+    "options": [
+      "Más subvenciones a la agroindustria multinacional",
+      "Eliminar la inspección de precios en origen",
+      "Transparencia sobre costes, contratos y márgenes comerciales",
+      "Bancos públicos de tierras",
+      "Precios máximos para una cesta de productos básicos"
+    ],
+    "answer": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "Las tres primeras están en el bloque 5. Propone reforzar la inspección y ve la agroindustria como parte del problema.",
+    "tip": "Se interviene en precios y en tierra.",
+    "source": {
+      "doc": "pcte",
+      "page": 15,
+      "section": "Campo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-exterior-007",
+    "doc": "pcte",
+    "topic": "exterior",
+    "type": "multi",
+    "question": "Marca las propuestas de política exterior y defensa del PCTE.",
+    "options": [
+      "Regreso de las tropas españolas desplegadas en el exterior",
+      "Salida de la Unión Europea",
+      "Embargo militar total a Israel",
+      "Subir el gasto militar al 2 % del PIB",
+      "Salida de la OTAN"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explanation": "Las cuatro primeras están en el bloque 9, que propone reducir el gasto militar real.",
+    "tip": "El programa va contra el rearme.",
+    "source": {
+      "doc": "pcte",
+      "page": 19,
+      "section": "Paz e internacionalismo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-instituciones-006",
+    "doc": "pcte",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "Marca las leyes o instituciones que el PCTE propone derogar o cerrar.",
+    "options": [
+      "Ley de Convivencia Universitaria",
+      "La Ley de Huelga",
+      "Ley de Seguridad Ciudadana (Ley Mordaza)",
+      "Los CIE",
+      "La Ley de Memoria Democrática"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "Las tres primeras están en el bloque 10. No menciona esas otras dos leyes, y sí propone ilegalizar organizaciones fascistas y franquistas.",
+    "tip": "Afectan a protestas, estudiantes y personas extranjeras.",
+    "source": {
+      "doc": "pcte",
+      "page": 20,
+      "section": "Libertades"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-otros-006",
+    "doc": "pcte",
+    "topic": "otros",
+    "type": "multi",
+    "question": "Marca las propuestas del PCTE para la juventud trabajadora.",
+    "options": [
+      "Prácticas extracurriculares sin compensación",
+      "Salario juvenil reducido durante el primer año",
+      "Prohibición de las casas de apuestas",
+      "Fin de las dobles escalas salariales por edad",
+      "Un centro juvenil público en cada barrio"
+    ],
+    "answer": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "Las tres primeras están en el bloque 6. Propone salario de convenio en contratos formativos y prohibir las prácticas extracurriculares.",
+    "tip": "Busca igualar condiciones.",
+    "source": {
+      "doc": "pcte",
+      "page": 16,
+      "section": "Juventud trabajadora"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-otros-007",
+    "doc": "pcte",
+    "topic": "otros",
+    "type": "multi",
+    "question": "Marca los derechos sindicales que propone el PCTE.",
+    "options": [
+      "Ampliar los servicios mínimos en huelgas",
+      "Rendición periódica de cuentas de los representantes ante la asamblea",
+      "Reservar la representación a empresas de más de 50 trabajadores",
+      "Derecho de asamblea de al menos 10 horas retribuidas al año",
+      "Nulidad y readmisión en todo despido por actividad sindical"
+    ],
+    "answer": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "Las tres primeras están en el bloque 11. Propone limitar los servicios mínimos y representación también en empresas de menos de seis trabajadores.",
+    "tip": "Refuerzan el poder de la plantilla.",
+    "source": {
+      "doc": "pcte",
+      "page": 21,
+      "section": "Derechos sindicales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-economia-004",
+    "doc": "pcte",
+    "topic": "economia",
+    "type": "multi",
+    "question": "Marca los mecanismos de control obrero que propone el PCTE.",
+    "options": [
+      "Devolución de ayudas públicas si se incumplen compromisos ante un cierre",
+      "Veto suspensivo ante externalizaciones y cambios de turnos",
+      "Que la empresa decida sola los cierres",
+      "Acceso a cuentas, beneficios, dividendos y deuda de los grupos empresariales",
+      "Privatizar empresas públicas deficitarias"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "Las tres primeras están en el bloque 2. Ningún cierre ni deslocalización debería ser decisión exclusivamente privada.",
+    "tip": "Giran en torno a información y capacidad de frenar.",
+    "source": {
+      "doc": "pcte",
+      "page": 9,
+      "section": "Control obrero"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-cultura-004",
+    "doc": "pcte",
+    "topic": "cultura",
+    "type": "multi",
+    "question": "Marca las propuestas del PCTE sobre cultura e investigación.",
+    "options": [
+      "Precio libre en toda actividad cultural subvencionada",
+      "Plazas estables para el personal investigador",
+      "Más contratos por proyecto encadenados",
+      "Una biblioteca pública en cada barrio",
+      "Convenio y cotización en todo trabajo cultural contratado por las administraciones"
+    ],
+    "answer": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "Las tres primeras están en el bloque 8. Pide precio máximo en actividad subvencionada y acabar con los contratos por proyecto encadenados.",
+    "tip": "Buscan estabilidad y acceso.",
+    "source": {
+      "doc": "pcte",
+      "page": 18,
+      "section": "Cultura y ciencia"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-inmigracion-002",
+    "doc": "pcte",
+    "topic": "inmigracion",
+    "type": "multi",
+    "question": "Marca las propuestas del PCTE sobre inmigración y migrantes.",
+    "options": [
+      "Fin de las devoluciones en caliente",
+      "Fin de las identificaciones por perfil étnico",
+      "Cierre de los CIE",
+      "Mecanismo permanente de regularización",
+      "Cupos anuales de entrada por país de origen"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "Las cuatro primeras figuran en el bloque 10. No menciona cupos.",
+    "tip": "Todas se centran en derechos de las personas migrantes.",
+    "source": {
+      "doc": "pcte",
+      "page": 20,
+      "section": "CIE y regularización"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-otros-008",
+    "doc": "pcte",
+    "topic": "otros",
+    "type": "multi",
+    "question": "Según el cierre del programa, ¿qué rasgos tendría la sociedad socialista-comunista que plantea el PCTE?",
+    "options": [
+      "Medios de producción de propiedad social",
+      "Economía planificada democráticamente",
+      "Propiedad privada de los grandes bancos",
+      "Economía de mercado con más regulación",
+      "Los trabajadores deciden todo"
+    ],
+    "answer": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "El texto habla de medios de producción de propiedad social, planificación democrática y trabajadores que lo deciden todo.",
+    "tip": "Es la propuesta final del programa.",
+    "source": {
+      "doc": "pcte",
+      "page": 23,
+      "section": "Perspectiva estratégica"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pcte-vivienda-010",
+    "doc": "pcte",
+    "topic": "vivienda",
+    "type": "which_party",
+    "question": "¿Qué partido propone una bajada inmediata de los alquileres del 50 %?",
+    "options": [
+      "pp",
+      "vox",
+      "pcte",
+      "psoe"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PCTE propone bajarlos un 50 % a costa de la ganancia de los propietarios. PP, PSOE y Vox no proponen esa bajada.",
+    "tip": "Rechaza las ayudas públicas al alquiler.",
+    "source": {
+      "doc": "pcte",
+      "page": 11,
+      "section": "Bajada de alquileres"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-exterior-008",
+    "doc": "pcte",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone que España salga de la OTAN y de la Unión Europea?",
+    "options": [
+      "pp",
+      "pcte",
+      "salf",
+      "vox"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es una propuesta del PCTE. PP, Vox y SALF no plantean salir de ninguna de las dos.",
+    "tip": "Habla de salir de ambas.",
+    "source": {
+      "doc": "pcte",
+      "page": 19,
+      "section": "OTAN y UE"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-empleo-010",
+    "doc": "pcte",
+    "topic": "empleo",
+    "type": "which_party",
+    "question": "¿Qué partido propone prohibir las ETT?",
+    "options": [
+      "psoe",
+      "pp",
+      "vox",
+      "pcte"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PCTE lo propone junto con contrato fijo a partir de 6 meses encadenados. PP, PSOE y Vox no lo plantean.",
+    "tip": "Pide la desaparición de un tipo de empresas.",
+    "source": {
+      "doc": "pcte",
+      "page": 7,
+      "section": "Contratación fija"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-pensiones-005",
+    "doc": "pcte",
+    "topic": "pensiones",
+    "type": "which_party",
+    "question": "¿Qué partido propone la jubilación ordinaria a los 60 años, sin penalización?",
+    "options": [
+      "pp",
+      "vox",
+      "pcte",
+      "salf"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una propuesta del PCTE. PP, Vox y SALF no plantean bajar la edad de jubilación a los 60.",
+    "tip": "La edad es inferior a la actual.",
+    "source": {
+      "doc": "pcte",
+      "page": 7,
+      "section": "Jubilación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-vivienda-011",
+    "doc": "pcte",
+    "topic": "vivienda",
+    "type": "which_party",
+    "question": "¿Qué partido propone expropiar sin indemnización las viviendas vacías de bancos, fondos y grandes tenedores?",
+    "options": [
+      "psoe",
+      "vox",
+      "pp",
+      "pcte"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es del PCTE. PP, Vox y PSOE no proponen expropiaciones sin indemnización.",
+    "tip": "Se plantea sin compensación económica.",
+    "source": {
+      "doc": "pcte",
+      "page": 12,
+      "section": "Expropiación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-otros-009",
+    "doc": "pcte",
+    "topic": "otros",
+    "type": "which_party",
+    "question": "¿Qué partido propone prohibir las casas de apuestas, el juego en línea y su publicidad?",
+    "options": [
+      "pcte",
+      "pp",
+      "vox",
+      "psoe"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo propone el PCTE en su bloque de juventud trabajadora. PP, Vox y PSOE no incluyen esa prohibición.",
+    "tip": "Se prohíbe el juego y su publicidad.",
+    "source": {
+      "doc": "pcte",
+      "page": 16,
+      "section": "Apuestas y juego"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-economia-005",
+    "doc": "pcte",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone propiedad estatal bajo control obrero de la energía, el transporte y las telecomunicaciones?",
+    "options": [
+      "vox",
+      "pp",
+      "pcte",
+      "salf"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es del PCTE. PP, Vox y SALF no lo proponen.",
+    "tip": "Combina propiedad estatal con control de la plantilla.",
+    "source": {
+      "doc": "pcte",
+      "page": 10,
+      "section": "Sectores estratégicos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-educacion-007",
+    "doc": "pcte",
+    "topic": "educacion",
+    "type": "which_party",
+    "question": "¿Qué partido propone una beca-salario equivalente al salario mínimo para estudiantes de familias trabajadoras?",
+    "options": [
+      "pp",
+      "salf",
+      "vox",
+      "pcte"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es del PCTE. PP, Vox y SALF no plantean una beca-salario de esa cuantía.",
+    "tip": "La beca se compara con el salario mínimo.",
+    "source": {
+      "doc": "pcte",
+      "page": 16,
+      "section": "Becas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-empleo-011",
+    "doc": "pcte",
+    "topic": "empleo",
+    "type": "which_party",
+    "question": "¿Qué partido propone un tope de 1.540 horas anuales de trabajo efectivo?",
+    "options": [
+      "salf",
+      "vox",
+      "pp",
+      "pcte"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es del PCTE, junto con las 35 horas semanales sin reducción salarial. PP, Vox y SALF no plantean ese tope.",
+    "tip": "Es una cifra anual muy concreta.",
+    "source": {
+      "doc": "pcte",
+      "page": 7,
+      "section": "Jornada laboral"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pcte-educacion-008",
+    "doc": "pcte",
+    "topic": "educacion",
+    "type": "which_party",
+    "question": "¿Qué partido propone prohibir las prácticas extracurriculares?",
+    "options": [
+      "pcte",
+      "pp",
+      "vox",
+      "psoe"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo propone el PCTE, que solo admite prácticas curriculares con tutor y compensación. PP, Vox y PSOE no lo plantean.",
+    "tip": "Distingue dos clases de prácticas.",
+    "source": {
+      "doc": "pcte",
+      "page": 16,
+      "section": "Prácticas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pcte-pensiones-006",
+    "doc": "pcte",
+    "topic": "pensiones",
+    "type": "which_party",
+    "question": "¿Qué partido propone una prestación por desempleo mientras dure el paro y nunca inferior al salario mínimo?",
+    "options": [
+      "pcte",
+      "pp",
+      "psoe",
+      "vox"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es del PCTE. PP, Vox y PSOE no plantean esa prestación indefinida con ese suelo.",
+    "tip": "Sin límite de duración y con suelo.",
+    "source": {
+      "doc": "pcte",
+      "page": 14,
+      "section": "Paro y baja médica"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pcte-otros-010",
+    "doc": "pcte",
+    "topic": "otros",
+    "type": "which_party",
+    "question": "¿Qué partido propone al menos 10 horas retribuidas al año de asamblea en horario de trabajo?",
+    "options": [
+      "pcte",
+      "vox",
+      "pp",
+      "salf"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo propone el PCTE. PP, Vox y SALF no recogen ese derecho.",
+    "tip": "Se aplica en el centro de trabajo.",
+    "source": {
+      "doc": "pcte",
+      "page": 21,
+      "section": "Derecho de asamblea"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pcte-economia-006",
+    "doc": "pcte",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone un derecho de veto suspensivo de la representación de los trabajadores ante externalizaciones y cambios de turnos?",
+    "options": [
+      "pp",
+      "salf",
+      "vox",
+      "pcte"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es del PCTE. PP, Vox y SALF no lo recogen.",
+    "tip": "Quien tiene el veto es la plantilla.",
+    "source": {
+      "doc": "pcte",
+      "page": 9,
+      "section": "Información y veto"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pcte-pensiones-007",
+    "doc": "pcte",
+    "topic": "pensiones",
+    "type": "which_party",
+    "question": "¿Qué partido propone que ninguna pensión esté por debajo del salario mínimo?",
+    "options": [
+      "vox",
+      "salf",
+      "pcte",
+      "pp"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Lo propone el PCTE, junto con revalorización automática con el IPC real. PP, Vox y SALF no lo plantean.",
+    "tip": "Se vincula al salario mínimo.",
+    "source": {
+      "doc": "pcte",
+      "page": 14,
+      "section": "Pensiones"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pcte-rural-005",
+    "doc": "pcte",
+    "topic": "rural",
+    "type": "which_party",
+    "question": "¿Qué partido propone precios máximos de venta para una cesta de productos básicos y márgenes máximos para la gran distribución?",
+    "options": [
+      "pcte",
+      "salf",
+      "vox",
+      "pp"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo propone el PCTE. PP, Vox y SALF no plantean fijar precios máximos.",
+    "tip": "Regula precios de venta.",
+    "source": {
+      "doc": "pcte",
+      "page": 15,
+      "section": "Cesta básica"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pcte-vivienda-012",
+    "doc": "pcte",
+    "topic": "vivienda",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del PCTE?",
+    "options": [
+      "Crear la 'Hucha Hogar Joven' con deducción fiscal",
+      "Prohibir todo desahucio de la vivienda habitual de hogares trabajadores",
+      "Expropiar sin indemnización viviendas vacías de bancos y fondos",
+      "Alquiler social de no más del 15 % de los ingresos"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PCTE no propone la 'Hucha Hogar Joven' (ahorro con deducción fiscal), que es una propuesta del PP.",
+    "tip": "Una opción es un incentivo fiscal al ahorro.",
+    "source": {
+      "doc": "pcte",
+      "page": 11,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-empleo-012",
+    "doc": "pcte",
+    "topic": "empleo",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO recoge el PCTE?",
+    "options": [
+      "Ampliar las bolsas de horas de las empresas",
+      "Cinco semanas de vacaciones retribuidas",
+      "Prohibición de las ETT",
+      "Jornada de 35 horas semanales sin reducción salarial"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PCTE propone prohibir las bolsas de horas y la distribución irregular de la jornada.",
+    "tip": "Una opción da más flexibilidad a la empresa.",
+    "source": {
+      "doc": "pcte",
+      "page": 7,
+      "section": "Empleo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-pensiones-008",
+    "doc": "pcte",
+    "topic": "pensiones",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del PCTE?",
+    "options": [
+      "Pensión mínima no inferior al salario mínimo",
+      "Revalorización automática con el IPC real",
+      "Retrasar la edad de jubilación a los 67 años",
+      "Fin de los incentivos fiscales a los planes de pensiones privados"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PCTE propone jubilación ordinaria a los 60 años, no retrasarla.",
+    "tip": "Una opción va en dirección opuesta a su jubilación.",
+    "source": {
+      "doc": "pcte",
+      "page": 14,
+      "section": "Pensiones"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-sanidad-006",
+    "doc": "pcte",
+    "topic": "sanidad",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO figura en el programa del PCTE?",
+    "options": [
+      "Destinar el 25 % del gasto sanitario a atención primaria",
+      "Desarrollar capacidades públicas en medicamentos",
+      "Derogar la Ley 15/1997",
+      "Ampliar los conciertos con clínicas privadas"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PCTE propone prohibir nuevos conciertos, concesiones y externalizaciones en sanidad.",
+    "tip": "Una opción aumenta la presencia privada.",
+    "source": {
+      "doc": "pcte",
+      "page": 13,
+      "section": "Sanidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-educacion-009",
+    "doc": "pcte",
+    "topic": "educacion",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del PCTE?",
+    "options": [
+      "Implantar un cheque escolar para elegir centro",
+      "Descenso de las ratios",
+      "Gratuidad de materiales, transporte, comedor y residencia",
+      "Integrar los centros concertados en una red pública única"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PCTE propone un sistema exclusivamente público y gratuito, sin cheque escolar.",
+    "tip": "Una opción da dinero a las familias para elegir centro.",
+    "source": {
+      "doc": "pcte",
+      "page": 13,
+      "section": "Educación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-exterior-009",
+    "doc": "pcte",
+    "topic": "exterior",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO recoge el PCTE?",
+    "options": [
+      "Aumentar el gasto en defensa hasta el 2 % del PIB",
+      "Anular los Programas Especiales de Modernización",
+      "Embargo militar total a Israel",
+      "Salir de la OTAN"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PCTE propone reducir el gasto militar real y anular los Programas Especiales de Modernización.",
+    "tip": "Una opción es opuesta a 'No al rearme'.",
+    "source": {
+      "doc": "pcte",
+      "page": 19,
+      "section": "Paz e internacionalismo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-instituciones-007",
+    "doc": "pcte",
+    "topic": "instituciones",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del PCTE?",
+    "options": [
+      "Cerrar los CIE",
+      "Derogar la Ley de Amnistía",
+      "Derogar la Ley de Seguridad Ciudadana (Ley Mordaza)",
+      "Derogar los delitos de injurias a la Corona"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El PCTE no menciona la Ley de Amnistía; derogarla es una propuesta del PP.",
+    "tip": "Una opción es de otro ámbito, el del conflicto político en Cataluña.",
+    "source": {
+      "doc": "pcte",
+      "page": 20,
+      "section": "Libertades"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-igualdad-007",
+    "doc": "pcte",
+    "topic": "igualdad",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO figura en el programa del PCTE?",
+    "options": [
+      "Permiso por nacimiento de 52 semanas",
+      "Deducción fiscal por hijo para madres trabajadoras",
+      "Derecho a jornada completa para quien trabaja a tiempo parcial y lo pida",
+      "Nulidad del despido hasta los 3 años del hijo o hija"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El PCTE propone medidas laborales y de servicios públicos, no deducciones fiscales por hijo.",
+    "tip": "Una opción es un incentivo fiscal.",
+    "source": {
+      "doc": "pcte",
+      "page": 17,
+      "section": "Igualdad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-rural-006",
+    "doc": "pcte",
+    "topic": "rural",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del PCTE?",
+    "options": [
+      "Bancos públicos de tierras",
+      "Inspección de precios en origen con organizaciones de pequeños productores y jornaleros",
+      "Precios máximos en una cesta de productos básicos",
+      "Eliminar los topes de precios para que fije el mercado"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PCTE propone precios máximos de venta y márgenes máximos a la gran distribución.",
+    "tip": "Una opción supone menos intervención en los precios.",
+    "source": {
+      "doc": "pcte",
+      "page": 15,
+      "section": "Campo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pcte-economia-007",
+    "doc": "pcte",
+    "topic": "economia",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO recoge el PCTE?",
+    "options": [
+      "Bajar el impuesto de sociedades para atraer inversión",
+      "Cuentas abiertas para los representantes de los trabajadores",
+      "Intervención de empresas viables que cierren por decisión de sus propietarios",
+      "Política industrial planificada con empresas estatales"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PCTE no menciona rebajas fiscales a empresas; apuesta por control obrero y propiedad estatal.",
+    "tip": "Una opción busca atraer inversión privada.",
+    "source": {
+      "doc": "pcte",
+      "page": 10,
+      "section": "Economía"
+    },
+    "difficulty": 2
+  }
+]

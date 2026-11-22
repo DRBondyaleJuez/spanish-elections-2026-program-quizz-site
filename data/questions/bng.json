@@ -1,0 +1,2382 @@
+[
+  {
+    "id": "bng-vivienda-001",
+    "doc": "bng",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone destinar el 3% de los Presupuestos Generales del Estado a crear un parque público de alquiler permanente.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es una de sus medidas de vivienda: se financiaría a través del Plan estatal de vivienda.",
+    "tip": "Piensa en cuánto dinero público quiere dedicar a la vivienda en alquiler.",
+    "source": {
+      "doc": "bng",
+      "page": 12,
+      "section": "2.1 Vivenda"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-vivienda-002",
+    "doc": "bng",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone liberalizar los precios del alquiler para aumentar la oferta de pisos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone lo contrario: topar por ley los precios de los alquileres y prohibir los desahucios de personas vulnerables.",
+    "tip": "Su idea es limitar los precios, no dejarlos libres.",
+    "source": {
+      "doc": "bng",
+      "page": 12,
+      "section": "2.1 Vivenda"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-vivienda-003",
+    "doc": "bng",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone un canon para las viviendas vacías desde hace cinco o más años en manos de grandes propietarios, de al menos 10 euros por metro cuadrado.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El canon subiría un 10% anual hasta el triple del importe inicial, y se aplicaría a través de las comunidades autónomas.",
+    "tip": "Se dirige a grandes propietarios con pisos vacíos mucho tiempo.",
+    "source": {
+      "doc": "bng",
+      "page": 14,
+      "section": "2.1 Vivenda"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-vivienda-004",
+    "doc": "bng",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué propone el BNG hacer con los suelos y viviendas de la Sareb?",
+    "options": [
+      "Transferirlos gratuitamente al IGVS para el parque público de alquiler",
+      "Venderlos a fondos para reducir deuda pública",
+      "Subastarlos entre las comunidades autónomas",
+      "Cederlos al Ministerio de Defensa"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone transferir gratuitamente los suelos y viviendas de la Sareb al Instituto Galego da Vivenda e Solo (IGVS).",
+    "tip": "El destino es una entidad pública gallega de vivienda.",
+    "source": {
+      "doc": "bng",
+      "page": 13,
+      "section": "2.1 Vivenda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-vivienda-005",
+    "doc": "bng",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué propone el BNG respecto a las viviendas de promoción pública compradas por fondos de inversión?",
+    "options": [
+      "Indemnizar a los fondos al precio de mercado",
+      "Facilitar su expropiación forzosa",
+      "Permitir su reventa libre",
+      "Convertirlas en vivienda libre"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Pide facilitar la expropiación forzosa de esas viviendas.",
+    "tip": "Es una medida de fuerza sobre la propiedad de los fondos.",
+    "source": {
+      "doc": "bng",
+      "page": 12,
+      "section": "2.1 Vivenda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-vivienda-006",
+    "doc": "bng",
+    "topic": "vivienda",
+    "type": "multi",
+    "question": "¿Cuáles de estas medidas fiscales sobre la vivienda propone el BNG?",
+    "options": [
+      "IVA superreducido del 4% en la compra de primera vivienda",
+      "Eliminar las deducciones del IRPF a propietarios que alquilen por encima del precio de referencia",
+      "Aplicar recargos en el Impuesto de Sociedades a fondos y SOCIMI que incumplan la función social",
+      "Permitir impuestos o tasas municipales sobre viviendas vacías"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "El IVA del 4% para la compra de primera vivienda no figura en el programa.",
+    "tip": "Son medidas para frenar el uso especulativo.",
+    "source": {
+      "doc": "bng",
+      "page": 13,
+      "section": "2.1 Vivenda"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bng-vivienda-007",
+    "doc": "bng",
+    "topic": "vivienda",
+    "type": "which_party",
+    "question": "¿Qué partido propone un canon de al menos 10 euros por metro cuadrado a viviendas vacías de grandes propietarios?",
+    "options": [
+      "pp",
+      "vox",
+      "bng",
+      "salf"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Se aplicaría a viviendas vacías hace 5 o más años y subiría un 10% anual hasta el triple.",
+    "tip": "Es una medida contra las viviendas vacías.",
+    "source": {
+      "doc": "bng",
+      "page": 14,
+      "section": "2.1 Vivenda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-vivienda-008",
+    "doc": "bng",
+    "topic": "vivienda",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del BNG?",
+    "options": [
+      "Topar por ley los precios del alquiler",
+      "Destinar el 3% de los PGE a un parque público de alquiler",
+      "IVA del 4% en la compra de primera vivienda para menores de 40 años",
+      "Canon a viviendas vacías de grandes propietarios"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El BNG no propone rebajar el IVA de la compra de vivienda; apuesta por topar alquileres y ampliar el parque público.",
+    "tip": "Una opción es una medida de mercado.",
+    "source": {
+      "doc": "bng",
+      "page": 12,
+      "section": "2.1 Vivenda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-empleo-001",
+    "doc": "bng",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone la jornada laboral de 35 horas semanales sin reducción salarial.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Además plantea avanzar hacia las 32 horas semanales en cuatro jornadas.",
+    "tip": "Es una reducción de horas sin bajada de sueldo.",
+    "source": {
+      "doc": "bng",
+      "page": 15,
+      "section": "2.2 Máis dereitos para a clase traballadora"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-empleo-002",
+    "doc": "bng",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone mantener las empresas de trabajo temporal (ETT) con una regulación más estricta.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone eliminar las ETT y las agencias privadas de colocación, además de la subcontratación en cadena y los falsos autónomos.",
+    "tip": "No quiere regularlas: quiere suprimirlas.",
+    "source": {
+      "doc": "bng",
+      "page": 16,
+      "section": "2.2 Máis dereitos para a clase traballadora"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-empleo-003",
+    "doc": "bng",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone fijar el Salario Mínimo Interprofesional en el 50% del salario medio.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone subirlo al 60% del salario medio, que es lo que fija la Carta Social Europea según el programa.",
+    "tip": "Se basa en la Carta Social Europea; el porcentaje es mayor del que se indica.",
+    "source": {
+      "doc": "bng",
+      "page": 15,
+      "section": "2.2 Máis dereitos para a clase traballadora"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-empleo-004",
+    "doc": "bng",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué indemnización por despido improcedente propone recuperar el BNG?",
+    "options": [
+      "33 días por año con un máximo de 24 mensualidades",
+      "20 días por año con un máximo de 12 mensualidades",
+      "45 días por año con un máximo de 42 mensualidades",
+      "60 días por año sin máximo"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone restituir los 45 días de indemnización y un máximo de 42 mensualidades.",
+    "tip": "Es la cuantía previa a la reforma de 2012.",
+    "source": {
+      "doc": "bng",
+      "page": 15,
+      "section": "2.2 Máis dereitos para a clase traballadora"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-empleo-005",
+    "doc": "bng",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Cuál es la duración máxima de los periodos de prueba que propone el BNG?",
+    "options": [
+      "Un mes",
+      "Tres meses",
+      "Seis meses",
+      "15 días"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Propone limitarlos a 15 días y exigir causa motivada para no superarlos.",
+    "tip": "Es un periodo muy corto.",
+    "source": {
+      "doc": "bng",
+      "page": 17,
+      "section": "2.2 Máis dereitos para a clase traballadora"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-empleo-006",
+    "doc": "bng",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué cuantía propone el BNG para la prestación contributiva por desempleo durante los primeros 180 días?",
+    "options": [
+      "El 75% de la base reguladora",
+      "El 60% de la base reguladora",
+      "El 80% de la base reguladora",
+      "El 100% de la base reguladora"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone el 75% los primeros 180 días y el 65% después, sin que sea nunca inferior al SMI.",
+    "tip": "Tres cuartas partes de la base.",
+    "source": {
+      "doc": "bng",
+      "page": 17,
+      "section": "2.2 Máis dereitos para a clase traballadora"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-empleo-007",
+    "doc": "bng",
+    "topic": "empleo",
+    "type": "multi",
+    "question": "¿Qué condiciones propone el BNG para el contrato fijo-discontinuo?",
+    "options": [
+      "Indemnización de 45 días por año al final de cada llamamiento",
+      "Prohibirlo en las ETT",
+      "Preaviso mínimo de 15 días",
+      "Permitirlo sin límites en jornada parcial"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El BNG propone prohibirlo también en jornada parcial.",
+    "tip": "Todo son límites para evitar la precariedad.",
+    "source": {
+      "doc": "bng",
+      "page": 17,
+      "section": "2.2 Máis dereitos para a clase traballadora"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bng-empleo-008",
+    "doc": "bng",
+    "topic": "empleo",
+    "type": "multi",
+    "question": "¿Qué derechos laborales quiere recuperar el BNG al derogar las reformas?",
+    "options": [
+      "Un periodo de prueba de seis meses",
+      "La indemnización de 45 días por año",
+      "La autorización administrativa en los despidos colectivos",
+      "Los salarios de tramitación"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "Propone lo contrario con las pruebas: máximo 15 días.",
+    "tip": "Son derechos previos a las reformas.",
+    "source": {
+      "doc": "bng",
+      "page": 15,
+      "section": "2.2 Máis dereitos para a clase traballadora"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bng-empleo-009",
+    "doc": "bng",
+    "topic": "empleo",
+    "type": "which_party",
+    "question": "¿Qué partido propone eliminar las empresas de trabajo temporal (ETT)?",
+    "options": [
+      "pp",
+      "psoe",
+      "bng",
+      "vox",
+      "cc"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El BNG lo plantea junto con eliminar agencias privadas de colocación y falsos autónomos.",
+    "tip": "Es una medida laboral de ruptura.",
+    "source": {
+      "doc": "bng",
+      "page": 16,
+      "section": "2.2 Máis dereitos para a clase traballadora"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-empleo-010",
+    "doc": "bng",
+    "topic": "empleo",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del BNG?",
+    "options": [
+      "Jornada de 35 horas sin reducción salarial",
+      "Eliminar las ETT",
+      "Registro digital y transparente de la jornada",
+      "Jornada laboral de 37,5 horas semanales"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El BNG pide 35 horas sin reducción de salario, con horizonte de 32.",
+    "tip": "Una opción es una jornada menos ambiciosa.",
+    "source": {
+      "doc": "bng",
+      "page": 15,
+      "section": "2.2 Máis dereitos para a clase traballadora"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-economia-001",
+    "doc": "bng",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿A qué porcentaje propone el BNG subir la reducción por reserva de capitalización para pymes en el Impuesto de Sociedades?",
+    "options": [
+      "Del 5% al 10%",
+      "Del 10% al 25%",
+      "Del 10% al 15%",
+      "Del 25% al 50%"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Quiere premiar que las pymes no repartan beneficios para que se capitalicen con ellos.",
+    "tip": "Pasa de una décima parte a un cuarto.",
+    "source": {
+      "doc": "bng",
+      "page": 44,
+      "section": "4.1 Por unha nova fiscalidade"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-economia-002",
+    "doc": "bng",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué tipo propone el BNG para el Impuesto Especial sobre la Electricidad con carácter permanente?",
+    "options": [
+      "El 2,5%",
+      "El 5,1%",
+      "El 0,5%",
+      "El 10%"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone mantener de forma incondicionada la rebaja del 5,1% al 0,5%.",
+    "tip": "Es un tipo muy bajo.",
+    "source": {
+      "doc": "bng",
+      "page": 44,
+      "section": "4.1 Por unha nova fiscalidade"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-economia-003",
+    "doc": "bng",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué propone el BNG para Navantia-Ferrol?",
+    "options": [
+      "Privatizarlo parcialmente",
+      "Trasladar su producción a Vigo",
+      "Limitarlo a la construcción militar",
+      "Convertirlo en un complejo industrial integral que incluya la construcción naval civil"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Propone diversificar su actividad e incorporar a la Xunta al consejo de administración.",
+    "tip": "Habla de diversificación hacia lo civil.",
+    "source": {
+      "doc": "bng",
+      "page": 46,
+      "section": "4.2 Sector industrial"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-economia-004",
+    "doc": "bng",
+    "topic": "economia",
+    "type": "multi",
+    "question": "¿Para qué productos o servicios propone el BNG una rebaja permanente del IVA?",
+    "options": [
+      "Alimentación básica",
+      "Transporte público de pasajeros",
+      "Productos del mar",
+      "Carburantes"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa propone un precio máximo para los carburantes, no una rebaja del IVA.",
+    "tip": "Son bienes básicos.",
+    "source": {
+      "doc": "bng",
+      "page": 44,
+      "section": "4.1 Por unha nova fiscalidade"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bng-economia-005",
+    "doc": "bng",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone un precio máximo legal para la gasolina y el diésel con referencia al 24 de febrero de 2022?",
+    "options": [
+      "bng",
+      "pp",
+      "psoe",
+      "vox"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Se mantendría hasta que se estabilicen los precios y haya una solución fiscal justa.",
+    "tip": "Habla de un tope de precio.",
+    "source": {
+      "doc": "bng",
+      "page": 21,
+      "section": "2.4 Combater a pobreza e promover a inclusión social"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-economia-006",
+    "doc": "bng",
+    "topic": "economia",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del BNG?",
+    "options": [
+      "Suprimir el Impuesto sobre el Patrimonio",
+      "Subir la reserva de capitalización de pymes al 25%",
+      "IVA del 5% en electricidad y gas",
+      "Blindar los impuestos a la banca y a las grandes fortunas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El BNG propone blindar los impuestos a las grandes fortunas, no suprimirlos.",
+    "tip": "Una opción es contraria a su fiscalidad progresiva.",
+    "source": {
+      "doc": "bng",
+      "page": 44,
+      "section": "4.1 Por unha nova fiscalidade"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-pensiones-001",
+    "doc": "bng",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone recuperar la jubilación ordinaria a los 65 años y la parcial a los 61.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "También pide eliminar las penalizaciones por jubilación anticipada.",
+    "tip": "Se trata de volver a edades anteriores, no de retrasarlas.",
+    "source": {
+      "doc": "bng",
+      "page": 19,
+      "section": "2.3 Na defensa do sistema público de pensións"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-pensiones-002",
+    "doc": "bng",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone mantener el Mecanismo de Equidad Intergeneracional (MEI) con una cuantía menor.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone eliminar el MEI y cualquier mecanismo de ajuste parecido al factor de sostenibilidad.",
+    "tip": "Quiere suprimirlo, no recortarlo.",
+    "source": {
+      "doc": "bng",
+      "page": 19,
+      "section": "2.3 Na defensa do sistema público de pensións"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-pensiones-003",
+    "doc": "bng",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone elevar las pensiones no contributivas al 75% del umbral de pobreza de un hogar unipersonal sin esperar a 2027.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El plazo de 2027 lo fijó la reforma de 2023; el BNG quiere hacerlo de inmediato y actualizarlas con el IPC real.",
+    "tip": "Menciona un porcentaje del umbral de pobreza y una fecha que no quiere esperar.",
+    "source": {
+      "doc": "bng",
+      "page": 19,
+      "section": "2.3 Na defensa do sistema público de pensións"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-pensiones-004",
+    "doc": "bng",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Cómo propone el BNG calcular la base reguladora de la pensión?",
+    "options": [
+      "Con un periodo de 10 años elegidos por la persona beneficiaria",
+      "Con toda la vida laboral",
+      "Con los últimos 25 años",
+      "Con los últimos 15 años consecutivos"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone un periodo de cálculo de 10 años escogidos por quien se jubila.",
+    "tip": "Es una cifra redonda y la elige el beneficiario.",
+    "source": {
+      "doc": "bng",
+      "page": 19,
+      "section": "2.3 Na defensa do sistema público de pensións"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-pensiones-005",
+    "doc": "bng",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Qué parte del SAAD (dependencia) debe financiar el Estado según el BNG?",
+    "options": [
+      "El 25%",
+      "El 50%",
+      "El 33%",
+      "El 75%"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa recuerda que la reforma de 2026 obliga al Estado a financiar el 50% del SAAD, algo que el nacionalismo gallego reclamaba.",
+    "tip": "La mitad.",
+    "source": {
+      "doc": "bng",
+      "page": 40,
+      "section": "3.3 Persoas maiores, persoas en situación de dependencia e persoas con discapacidade"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-pensiones-006",
+    "doc": "bng",
+    "topic": "pensiones",
+    "type": "multi",
+    "question": "¿Cuáles de estas medidas sobre las pensiones propone el BNG?",
+    "options": [
+      "Fijar coeficientes reductores de la edad de jubilación en profesiones penosas",
+      "Eliminar el MEI",
+      "Eliminar el tope máximo a las bases de cotización",
+      "Ampliar los planes de pensiones de empleo en los convenios"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Propone derogar las normas que fomentan los planes de pensiones privados de empleo.",
+    "tip": "Quiere reforzar el sistema público.",
+    "source": {
+      "doc": "bng",
+      "page": 19,
+      "section": "2.3 Na defensa do sistema público de pensións"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bng-pensiones-007",
+    "doc": "bng",
+    "topic": "pensiones",
+    "type": "which_party",
+    "question": "¿Qué partido propone eliminar el Mecanismo de Equidad Intergeneracional (MEI)?",
+    "options": [
+      "pp",
+      "psoe",
+      "vox",
+      "bng"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Pide eliminarlo junto a cualquier factor de sostenibilidad.",
+    "tip": "Es una cotización añadida para financiar pensiones futuras.",
+    "source": {
+      "doc": "bng",
+      "page": 19,
+      "section": "2.3 Na defensa do sistema público de pensións"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-sanidad-001",
+    "doc": "bng",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone acabar con el modelo actual de copagos y repagos farmacéuticos, al que llama un impuesto a la enfermedad.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Pide modificar el marco legal de la participación económica de las personas usuarias en la prestación farmacéutica.",
+    "tip": "Es una crítica al pago que hacen los usuarios por los medicamentos.",
+    "source": {
+      "doc": "bng",
+      "page": 38,
+      "section": "3.2 Sanidade"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-sanidad-002",
+    "doc": "bng",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone permitir nuevas fórmulas de gestión privada en la sanidad si mejoran la eficiencia.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone modificar la Ley 15/97 para que titularidad, financiación, gestión y provisión sean exclusivamente públicas.",
+    "tip": "Su modelo es 100% público, sin gestión privada.",
+    "source": {
+      "doc": "bng",
+      "page": 37,
+      "section": "3.2 Sanidade"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-sanidad-003",
+    "doc": "bng",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Hasta qué nivel de financiación propone el BNG aumentar la sanidad pública?",
+    "options": [
+      "El 10% del PIB",
+      "La media estatal por habitante",
+      "Como mínimo la media de inversión por habitante de la UE",
+      "El doble del gasto actual"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Pide además valorar más los parámetros de dispersión y envejecimiento.",
+    "tip": "La referencia es europea.",
+    "source": {
+      "doc": "bng",
+      "page": 37,
+      "section": "3.2 Sanidade"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-sanidad-004",
+    "doc": "bng",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué nivel de clasificación profesional reclama el BNG para el personal TCAE?",
+    "options": [
+      "El nivel 1",
+      "El nivel 2",
+      "El nivel 5",
+      "El nivel 3"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Propone elaborar su currículo profesional y otorgarle el nivel 3 que le corresponde.",
+    "tip": "Es un nivel intermedio-alto.",
+    "source": {
+      "doc": "bng",
+      "page": 40,
+      "section": "3.2 Sanidade"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-sanidad-005",
+    "doc": "bng",
+    "topic": "sanidad",
+    "type": "multi",
+    "question": "¿Qué prestaciones quiere incluir el BNG en la cartera común con financiación 100% pública?",
+    "options": [
+      "Asistencia odontológica",
+      "Logopedia",
+      "Podología",
+      "Cirugía estética"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "La cartera ampliada se centra en rehabilitación, ortoprótesis, óptica, nutrición y otras.",
+    "tip": "Son prestaciones sanitarias hoy poco cubiertas.",
+    "source": {
+      "doc": "bng",
+      "page": 37,
+      "section": "3.2 Sanidade"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bng-sanidad-006",
+    "doc": "bng",
+    "topic": "sanidad",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del BNG?",
+    "options": [
+      "Un nuevo Estatuto Marco para profesionales de la sanidad pública",
+      "Que la gestión de hospitales pase a empresas privadas",
+      "Recuperar las pagas extraordinarias íntegras del personal estatutario",
+      "Impulsar la investigación de enfermedades raras"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone que titularidad, gestión y provisión sean exclusivamente públicas.",
+    "tip": "Una opción privatiza.",
+    "source": {
+      "doc": "bng",
+      "page": 39,
+      "section": "3.2 Sanidade"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-educacion-001",
+    "doc": "bng",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone sacar la asignatura de Religión del currículo escolar.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Argumenta que la difusión de la fe corresponde al ámbito privado y familiar, y propone denunciar y renegociar el concordato.",
+    "tip": "Es parte de su modelo de enseñanza laica.",
+    "source": {
+      "doc": "bng",
+      "page": 35,
+      "section": "3.1 Educación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-educacion-002",
+    "doc": "bng",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone elevar el gasto educativo hasta el 5% del PIB.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La cifra que propone es, como mínimo, el 7% del PIB.",
+    "tip": "La cifra es más alta que la mencionada.",
+    "source": {
+      "doc": "bng",
+      "page": 35,
+      "section": "3.1 Educación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-educacion-003",
+    "doc": "bng",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Entre qué edades propone el BNG que la educación sea obligatoria?",
+    "options": [
+      "De 3 a 18 años",
+      "De 6 a 16 años",
+      "De 0 a 16 años",
+      "De 3 a 16 años"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Defiende el derecho universal de 0 a 18 años y la obligatoriedad de 3 a 18.",
+    "tip": "Empieza más pronto y acaba más tarde que ahora.",
+    "source": {
+      "doc": "bng",
+      "page": 34,
+      "section": "3.1 Educación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-educacion-004",
+    "doc": "bng",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Qué porcentaje del PIB toma como referencia el BNG para financiar las universidades públicas?",
+    "options": [
+      "El 0,5%",
+      "El 1,5%",
+      "El 3%",
+      "El 7%"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El 7% del PIB es su objetivo para el conjunto de la educación.",
+    "tip": "Es una cifra bastante pequeña.",
+    "source": {
+      "doc": "bng",
+      "page": 36,
+      "section": "3.1 Educación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-educacion-005",
+    "doc": "bng",
+    "topic": "educacion",
+    "type": "multi",
+    "question": "¿Qué instituciones propone el BNG transferir a Galicia?",
+    "options": [
+      "El Instituto Cervantes",
+      "Las entidades dependientes del CSIC",
+      "La Universidad Internacional Menéndez Pelayo",
+      "La UNED"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "Del Cervantes solo pide más cursos y actividades en gallego.",
+    "tip": "Son organismos de educación e investigación.",
+    "source": {
+      "doc": "bng",
+      "page": 36,
+      "section": "3.1 Educación"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bng-educacion-006",
+    "doc": "bng",
+    "topic": "educacion",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del BNG?",
+    "options": [
+      "Sacar la Religión del currículo",
+      "Suprimir la tasa de reposición",
+      "Un cheque escolar para elegir centro",
+      "Destinar al menos el 7% del PIB a educación"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El BNG defiende una única red pública, no un cheque escolar.",
+    "tip": "Una opción favorece la elección entre redes.",
+    "source": {
+      "doc": "bng",
+      "page": 35,
+      "section": "3.1 Educación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-igualdad-001",
+    "doc": "bng",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone introducir el término feminicidio en la legislación española y crear un Estatuto de Víctima de Feminicidio.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo plantea para una abordaje integral de la violencia machista.",
+    "tip": "Es una propuesta sobre cómo se nombra y protege a las víctimas.",
+    "source": {
+      "doc": "bng",
+      "page": 25,
+      "section": "2.6 Políticas feministas para avanzar nos dereitos das mulleres"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-igualdad-002",
+    "doc": "bng",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG apoya regular la gestación subrogada con garantías para las mujeres gestantes.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Se opone a cualquier intento de legalizar o regular los vientres de alquiler, a los que considera explotación de los cuerpos de las mujeres.",
+    "tip": "Su postura es de oposición firme.",
+    "source": {
+      "doc": "bng",
+      "page": 26,
+      "section": "2.6 Políticas feministas para avanzar nos dereitos das mulleres"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-igualdad-003",
+    "doc": "bng",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Qué enfoque propone el BNG sobre la prostitución?",
+    "options": [
+      "Regularla como trabajo con derechos laborales",
+      "Multar tanto a las mujeres como a los clientes",
+      "Abolirla castigando al proxeneta y al prostituidor, sin criminalizar a las mujeres prostituidas",
+      "Limitarla a zonas autorizadas"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone además una red de cobertura para quien quiera dejarla.",
+    "tip": "Su postura es abolicionista.",
+    "source": {
+      "doc": "bng",
+      "page": 26,
+      "section": "2.6 Políticas feministas para avanzar nos dereitos das mulleres"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-igualdad-004",
+    "doc": "bng",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Qué propone el BNG sobre la Ley de paridad?",
+    "options": [
+      "Derogarla",
+      "Ampliarla a los consejos de administración",
+      "Mantenerla sin cambios",
+      "Modificarla para permitir la presencia de más mujeres en las listas electorales"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Se trata de la LO 2/2024, que quiere reformar.",
+    "tip": "Quiere que haya más mujeres en las listas.",
+    "source": {
+      "doc": "bng",
+      "page": 25,
+      "section": "2.6 Políticas feministas para avanzar nos dereitos das mulleres"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-igualdad-005",
+    "doc": "bng",
+    "topic": "igualdad",
+    "type": "multi",
+    "question": "¿Qué medidas sobre derechos LGBT propone el BNG?",
+    "options": [
+      "Suprimir subvenciones a organizaciones que nieguen derechos LGBT",
+      "Reconocimiento de las personas no binarias",
+      "Limitar la protección de las personas trans a mayores de 16 años",
+      "Servicio de igualdad de género y diversidad sexual en todos los centros de enseñanza"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "Propone proteger a las personas trans menores de 12 años respetando su autodeterminación de género.",
+    "tip": "Amplía derechos.",
+    "source": {
+      "doc": "bng",
+      "page": 29,
+      "section": "2.7 A defensa dos dereitos das persoas LGBT"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bng-inmigracion-001",
+    "doc": "bng",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG pide cerrar los Centros de Internamiento para Extranjeros (CIE) y acabar con las devoluciones en caliente.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo plantea dentro de su compromiso de garantizar los derechos humanos de la población inmigrante, refugiada y solicitante de asilo.",
+    "tip": "Va en la línea de ampliar derechos, no de endurecer controles.",
+    "source": {
+      "doc": "bng",
+      "page": 23,
+      "section": "2.5 Acollida, inclusión e dereitos das persoas inmigrantes"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-inmigracion-002",
+    "doc": "bng",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone limitar la regularización administrativa de las personas inmigrantes.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone promover la regularización administrativa para eliminar la irregularidad como herramienta de explotación laboral.",
+    "tip": "Defiende la regularización como forma de proteger derechos laborales.",
+    "source": {
+      "doc": "bng",
+      "page": 22,
+      "section": "2.5 Acollida, inclusión e dereitos das persoas inmigrantes"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-inmigracion-003",
+    "doc": "bng",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Qué propone el BNG respecto a la lengua gallega y la nacionalidad española?",
+    "options": [
+      "Que un conocimiento acreditado de gallego y de cultura gallega sea criterio para acceder a la nacionalidad, con independencia del español",
+      "Exigir el gallego como único idioma",
+      "Que el gallego sustituya al examen de castellano",
+      "Que se pida conocimiento de gallego solo para trabajar en la Xunta"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo justifica como muestra de integración en la sociedad gallega.",
+    "tip": "El gallego contaría aunque no se conozca el español.",
+    "source": {
+      "doc": "bng",
+      "page": 23,
+      "section": "2.5 Acollida, inclusión e dereitos das persoas inmigrantes"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-inmigracion-004",
+    "doc": "bng",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Qué propone el BNG sobre los acuerdos de Schengen?",
+    "options": [
+      "Salirse de ellos",
+      "Renegociarlos",
+      "Reforzar sus controles fronterizos",
+      "Ampliarlos a más países"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Lo plantea dentro de una política migratoria europea respetuosa con el derecho de asilo.",
+    "tip": "No pide ni salir ni endurecerlos.",
+    "source": {
+      "doc": "bng",
+      "page": 91,
+      "section": "2.5 Acollida, inclusión e dereitos das persoas inmigrantes"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-inmigracion-005",
+    "doc": "bng",
+    "topic": "inmigracion",
+    "type": "multi",
+    "question": "¿Qué medidas propone el BNG en materia de inmigración?",
+    "options": [
+      "Apoyar la afiliación sindical",
+      "Reforzar la inspección laboral",
+      "Agilizar la homologación de títulos extranjeros",
+      "Limitar la reagrupación familiar"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "No propone restringir la reagrupación familiar.",
+    "tip": "Se centran en derechos laborales.",
+    "source": {
+      "doc": "bng",
+      "page": 22,
+      "section": "2.5 Acollida, inclusión e dereitos das persoas inmigrantes"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bng-inmigracion-006",
+    "doc": "bng",
+    "topic": "inmigracion",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del BNG?",
+    "options": [
+      "Cerrar los CIE",
+      "Acabar con las devoluciones en caliente",
+      "Garantizar el derecho internacional de asilo",
+      "Prohibir por ley las regularizaciones masivas"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El BNG propone facilitar la regularización administrativa.",
+    "tip": "Una opción restringe la regularización.",
+    "source": {
+      "doc": "bng",
+      "page": 23,
+      "section": "2.5 Acollida, inclusión e dereitos das persoas inmigrantes"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-medioambiente-001",
+    "doc": "bng",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone declarar el litoral gallego no apto para parques eólicos marinos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone retirar los POEM y lo justifica por la incompatibilidad con la pesca, el marisqueo, la protección ambiental y el salvamento marítimo.",
+    "tip": "Se refiere a aerogeneradores en el mar.",
+    "source": {
+      "doc": "bng",
+      "page": 54,
+      "section": "4.6 Por unha transición enerxética xusta"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-medioambiente-002",
+    "doc": "bng",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone levantar la prohibición del fracking.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Se compromete a mantener la prohibición de la fractura hidráulica y de otras técnicas semejantes por su peligro para el medio y la salud.",
+    "tip": "Menciona expresamente mantener esa prohibición.",
+    "source": {
+      "doc": "bng",
+      "page": 56,
+      "section": "4.6 Por unha transición enerxética xusta"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-medioambiente-003",
+    "doc": "bng",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué sistema de gestión de envases propone impulsar el BNG?",
+    "options": [
+      "Un impuesto sobre el plástico",
+      "La incineración con recuperación de energía",
+      "El sistema de depósito, devolución y retorno (SDDR)",
+      "El contenedor único de resto"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Pide superar los obstáculos y el boicot de las entidades de gestión.",
+    "tip": "Se paga un depósito por envase y se recupera.",
+    "source": {
+      "doc": "bng",
+      "page": 69,
+      "section": "6. Fronte á crise ambiental e a emerxencia climática"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-medioambiente-004",
+    "doc": "bng",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué participación pública mínima obligatoria propone el BNG en los proyectos de minerales estratégicos?",
+    "options": [
+      "El 10%",
+      "El 33%",
+      "El 51%",
+      "El 20%"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es parte de sus cambios a la ley básica de minería.",
+    "tip": "Menos de la tercera parte.",
+    "source": {
+      "doc": "bng",
+      "page": 58,
+      "section": "4.6 Por unha transición enerxética xusta (Minaría sostíbel)"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-medioambiente-005",
+    "doc": "bng",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Cómo propone el BNG que se considere el eucalipto?",
+    "options": [
+      "Como especie exótica invasora, incluyéndolo en el catálogo para limitar su cultivo",
+      "Como cultivo estratégico a incentivar",
+      "Como especie protegida",
+      "Como especie autóctona de uso libre"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo justifica por la protección del suelo, las reservas de agua, la biodiversidad y la prevención de incendios.",
+    "tip": "Lo trata como una amenaza ecológica.",
+    "source": {
+      "doc": "bng",
+      "page": 69,
+      "section": "6. Fronte á crise ambiental e a emerxencia climática"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-medioambiente-006",
+    "doc": "bng",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "¿Qué metas de biodiversidad cita el BNG del Marco de Kunming-Montreal?",
+    "options": [
+      "Restaurar al menos el 20% de ecosistemas degradados",
+      "Reducir a la mitad la introducción de especies invasoras",
+      "Eliminar totalmente los pesticidas",
+      "Conservar al menos el 30% de zonas terrestres, marinas y costeras"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "La meta citada es reducir en dos tercios los productos químicos y pesticidas.",
+    "tip": "Son metas de 2030.",
+    "source": {
+      "doc": "bng",
+      "page": 67,
+      "section": "6. Fronte á crise ambiental e a emerxencia climática"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bng-medioambiente-007",
+    "doc": "bng",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone considerar el eucalipto especie exótica invasora?",
+    "options": [
+      "pp",
+      "psoe",
+      "vox",
+      "bng"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta del modelo forestal gallego.",
+    "tip": "Habla de una especie arbórea concreta.",
+    "source": {
+      "doc": "bng",
+      "page": 69,
+      "section": "4.6 Por unha transición enerxética xusta"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-medioambiente-008",
+    "doc": "bng",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone una participación pública mínima del 20% en proyectos de minerales estratégicos?",
+    "options": [
+      "bng",
+      "pp",
+      "psoe",
+      "vox",
+      "cc"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Forma parte de su reforma de la ley básica de minería.",
+    "tip": "Se centra en minería.",
+    "source": {
+      "doc": "bng",
+      "page": 58,
+      "section": "4.6 Por unha transición enerxética xusta (Minaría sostíbel)"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-medioambiente-009",
+    "doc": "bng",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone una tarifa eléctrica gallega por ser Galicia exportadora de electricidad?",
+    "options": [
+      "bng",
+      "pp",
+      "psoe",
+      "vox",
+      "salf"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Se basaría en una reducción de peajes de transporte por su papel de territorio excedentario.",
+    "tip": "La propuesta vincula producción y precio.",
+    "source": {
+      "doc": "bng",
+      "page": 54,
+      "section": "4.6 Por unha transición enerxética xusta"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-medioambiente-010",
+    "doc": "bng",
+    "topic": "medioambiente",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del BNG?",
+    "options": [
+      "Eliminar el calendario de cierre de las centrales nucleares",
+      "Mantener la prohibición del fracking",
+      "Regular las plantas de biogás",
+      "Crear un estatuto especial para empresas electrointensivas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa no habla de revertir el cierre nuclear.",
+    "tip": "Una opción es sobre energía nuclear.",
+    "source": {
+      "doc": "bng",
+      "page": 56,
+      "section": "4.6 Por unha transición enerxética xusta"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-rural-001",
+    "doc": "bng",
+    "topic": "rural",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG rechaza el acuerdo comercial UE-Mercosur.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Considera que perjudica a las explotaciones gallegas, que no podrían competir con la entrada masiva de producciones, y que no hay garantías de producción en el Mercosur.",
+    "tip": "Está dentro de sus propuestas del sector agrogandeiro.",
+    "source": {
+      "doc": "bng",
+      "page": 48,
+      "section": "4.3 Sectores primarios"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-rural-002",
+    "doc": "bng",
+    "topic": "rural",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG defiende mantener el principio de estabilidad relativa en la política pesquera europea.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Pide eliminarlo, porque, vigente desde 1986, lo considera una discriminación para la flota gallega.",
+    "tip": "Lo califica de discriminatorio.",
+    "source": {
+      "doc": "bng",
+      "page": 49,
+      "section": "4.3 Sectores primarios"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-rural-003",
+    "doc": "bng",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué reconocimiento pide el BNG para Galicia en el ámbito pesquero?",
+    "options": [
+      "Región ultraperiférica",
+      "Zona altamente dependiente de la pesca",
+      "Zona de reserva marina",
+      "Área de libre comercio pesquero"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es la primera de sus reclamaciones inmediatas en el sector pesquero.",
+    "tip": "Se refiere a su peso económico.",
+    "source": {
+      "doc": "bng",
+      "page": 49,
+      "section": "4.3 Sectores primarios (Sector pesqueiro)"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-rural-004",
+    "doc": "bng",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué recorte de la PAC denuncia el BNG en el Marco Financiero Plurianual 2028-2034 de la Comisión Europea?",
+    "options": [
+      "El 12%",
+      "El 34%",
+      "El 22%",
+      "El 67%"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El 34% corresponde a los Fondos de Cohesión y el 67% al FEMPA.",
+    "tip": "Menos de una cuarta parte.",
+    "source": {
+      "doc": "bng",
+      "page": 48,
+      "section": "4.3 Sectores primarios"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-rural-005",
+    "doc": "bng",
+    "topic": "rural",
+    "type": "multi",
+    "question": "¿Qué reclama el BNG en el sector pesquero?",
+    "options": [
+      "Mantener los cuatro cuerpos de inspección actuales",
+      "Reducir el IVA de los productos pesqueros",
+      "Eliminar el principio de estabilidad relativa",
+      "Que la pesca artesanal quede exenta de TAC y cuotas"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "Quiere concentrar la inspección en los Guardacostas de Galicia.",
+    "tip": "Son reclamaciones inmediatas.",
+    "source": {
+      "doc": "bng",
+      "page": 49,
+      "section": "4.3 Sectores primarios (Sector pesqueiro)"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bng-rural-006",
+    "doc": "bng",
+    "topic": "rural",
+    "type": "which_party",
+    "question": "¿Qué partido propone reconocer jurídicamente la propiedad comunal del monte mediante el Código Civil?",
+    "options": [
+      "pp",
+      "psoe",
+      "vox",
+      "cc",
+      "bng"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "Los montes vecinales suponen la cuarta parte del territorio gallego.",
+    "tip": "Es una forma de propiedad colectiva.",
+    "source": {
+      "doc": "bng",
+      "page": 68,
+      "section": "6. Fronte á crise ambiental e a emerxencia climática"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-territorio-001",
+    "doc": "bng",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone que se despliegue un cuerpo de Policía Galega junto al traspaso de la seguridad pública.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El traspaso incluiría seguridad pública, policía judicial y fiscal y guardia de tráfico.",
+    "tip": "Tiene que ver con competencias de seguridad en Galicia.",
+    "source": {
+      "doc": "bng",
+      "page": 9,
+      "section": "1. Máis forza para Galiza"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-territorio-002",
+    "doc": "bng",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone que el Estado conserve la titularidad de la AP-9 y la AP-53 pero con más descuentos en los peajes.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone traspasar las dos autopistas a Galicia y nacionalizarlas para acabar con el expolio económico que, según el programa, representan.",
+    "tip": "Habla de traspaso y nacionalización.",
+    "source": {
+      "doc": "bng",
+      "page": 10,
+      "section": "1. Máis forza para Galiza"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-territorio-003",
+    "doc": "bng",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué modelo de financiación propone el BNG para Galicia?",
+    "options": [
+      "Un fondo de nivelación estatal ajustado por población",
+      "Corresponsabilidad fiscal parcial de las comunidades",
+      "Mantener el sistema actual con más recursos",
+      "Concierto económico y bilateralidad con el Estado"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Quiere que Galicia recaude todos los impuestos y decida cómo invertirlos.",
+    "tip": "Es un modelo similar al del País Vasco.",
+    "source": {
+      "doc": "bng",
+      "page": 8,
+      "section": "1. Máis forza para Galiza"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-territorio-004",
+    "doc": "bng",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué propone el BNG sobre las diputaciones provinciales?",
+    "options": [
+      "Suprimirlas, traspasando sus funciones a Galicia y a los concellos",
+      "Reforzarlas con más competencias",
+      "Convertirlas en consejos comarcales",
+      "Mantenerlas con menos presupuesto"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone evitar que se creen estructuras institucionales sustitutivas.",
+    "tip": "Aparece en el apartado de adelgazamiento de la Administración.",
+    "source": {
+      "doc": "bng",
+      "page": 42,
+      "section": "3.5 Reestruturación da Administración estatal na Galiza"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-territorio-005",
+    "doc": "bng",
+    "topic": "territorio",
+    "type": "multi",
+    "question": "¿Qué competencias propone traspasar el BNG a Galicia?",
+    "options": [
+      "Salvamento marítimo y guardacostas",
+      "Aeropuertos y control de tráfico aéreo",
+      "La defensa y las Fuerzas Armadas",
+      "La Confederación Hidrográfica Miño-Sil"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "El programa pide desmilitarizar Galicia, no asumir la defensa.",
+    "tip": "Están en el listado de traspasos.",
+    "source": {
+      "doc": "bng",
+      "page": 9,
+      "section": "1. Máis forza para Galiza"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bng-territorio-006",
+    "doc": "bng",
+    "topic": "territorio",
+    "type": "which_party",
+    "question": "¿Qué partido propone desplegar una Policía Galega?",
+    "options": [
+      "pp",
+      "psoe",
+      "vox",
+      "salf",
+      "bng"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "Va unida al traspaso de seguridad pública, policía judicial y guardia de tráfico.",
+    "tip": "Es una policía de una comunidad concreta.",
+    "source": {
+      "doc": "bng",
+      "page": 9,
+      "section": "1. Máis forza para Galiza"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-territorio-007",
+    "doc": "bng",
+    "topic": "territorio",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del BNG?",
+    "options": [
+      "Poner en marcha una Facenda Galega",
+      "Transferir las competencias de relaciones laborales",
+      "Desplegar una Policía Galega",
+      "Mantener las diputaciones provinciales reforzando sus competencias"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Propone suprimir las diputaciones (apartado 3.5, p. 42).",
+    "tip": "Una opción refuerza una institución que desea eliminar.",
+    "source": {
+      "doc": "bng",
+      "page": 9,
+      "section": "1. Máis forza para Galiza"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-instituciones-001",
+    "doc": "bng",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone derogar la prisión permanente revisable.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La considera una forma encubierta de cadena perpetua contraria a la reinserción social.",
+    "tip": "Es una pena que el BNG critica por su carácter perpetuo.",
+    "source": {
+      "doc": "bng",
+      "page": 30,
+      "section": "2.8 Na defensa da democracia e das liberdades públicas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-instituciones-002",
+    "doc": "bng",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone mantener el umbral del 5% para obtener representación en el sistema electoral.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone eliminar las barreras del 5% y pasar al método proporcional directo (cuota Hare), con Galicia como circunscripción.",
+    "tip": "Quiere un sistema más proporcional.",
+    "source": {
+      "doc": "bng",
+      "page": 32,
+      "section": "2.8 Na defensa da democracia e das liberdades públicas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-instituciones-003",
+    "doc": "bng",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Qué propone el BNG para el Pazo de Meirás?",
+    "options": [
+      "Convertirlo en museo de la Casa Real",
+      "Reconocerlo como Lugar de Memoria centrado en el expolio y las víctimas del franquismo",
+      "Venderlo para financiar la memoria democrática",
+      "Dejarlo en manos de la familia Franco"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Quiere que se ceda a Galicia con participación de las entidades memorialistas.",
+    "tip": "Su valor es sobre todo de memoria.",
+    "source": {
+      "doc": "bng",
+      "page": 31,
+      "section": "2.8.2 Memoria democrática"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-instituciones-004",
+    "doc": "bng",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Qué sistema electoral propone el BNG?",
+    "options": [
+      "D'Hondt con circunscripción única estatal",
+      "Mayoritario a dos vueltas",
+      "Método proporcional directo (cuota Hare) con Galicia como circunscripción",
+      "Listas abiertas en circunscripciones provinciales"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "También propone eliminar el umbral del 5% y obligar al voto secreto en cabina.",
+    "tip": "Es un reparto muy proporcional.",
+    "source": {
+      "doc": "bng",
+      "page": 32,
+      "section": "2.8.3 Máis calidade democrática"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-instituciones-005",
+    "doc": "bng",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "¿Qué normas o delitos propone derogar el BNG?",
+    "options": [
+      "La prisión permanente revisable",
+      "La Ley de Memoria Democrática",
+      "El delito de desórdenes públicos agravados",
+      "La Ley Mordaza"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "La Ley de Memoria no se deroga: propone modificarla.",
+    "tip": "Son normas penales o de seguridad.",
+    "source": {
+      "doc": "bng",
+      "page": 30,
+      "section": "2.8.1 Dereitos e liberdades cívicas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bng-instituciones-006",
+    "doc": "bng",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone reconocer el Pazo de Meirás como Lugar de Memoria?",
+    "options": [
+      "pp",
+      "psoe",
+      "vox",
+      "bng"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Pide que su titularidad sea gallega y se centre en el expolio franquista.",
+    "tip": "Es un edificio ligado a Franco.",
+    "source": {
+      "doc": "bng",
+      "page": 31,
+      "section": "2.8.2 Memoria democrática"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-instituciones-007",
+    "doc": "bng",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone denunciar y revocar el Concordato con la Iglesia católica?",
+    "options": [
+      "pp",
+      "psoe",
+      "vox",
+      "cc",
+      "bng"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "Lo plantea para avanzar hacia un Estado laico.",
+    "tip": "Afecta a los acuerdos con la Santa Sede.",
+    "source": {
+      "doc": "bng",
+      "page": 32,
+      "section": "2.8.3 Máis calidade democrática"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-instituciones-008",
+    "doc": "bng",
+    "topic": "instituciones",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del BNG?",
+    "options": [
+      "Derogar la Ley Mordaza",
+      "Derogar la prisión permanente revisable",
+      "Recuperar el delito de sedición en el Código Penal",
+      "Derogar el delito de desórdenes públicos agravados"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El BNG propone derogar delitos que limitan derechos de reunión y expresión.",
+    "tip": "Una opción endurece el Código Penal.",
+    "source": {
+      "doc": "bng",
+      "page": 30,
+      "section": "2.8 Na defensa da democracia e das liberdades públicas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-exterior-001",
+    "doc": "bng",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone la abolición definitiva del servicio militar obligatorio, hoy solo suspendido desde 2001.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Pide eliminarlo de la legislación y romper con el modelo de suspensión.",
+    "tip": "Se refiere a la 'mili'.",
+    "source": {
+      "doc": "bng",
+      "page": 91,
+      "section": "11. Galiza pola paz"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-exterior-002",
+    "doc": "bng",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone aumentar el envío de armamento español a Ucrania.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone cesar de inmediato el envío de armas a Ucrania, apoyar una salida diplomática negociada y reforzar la ayuda humanitaria.",
+    "tip": "Su posición es de apoyo a la vía diplomática.",
+    "source": {
+      "doc": "bng",
+      "page": 89,
+      "section": "11. Galiza pola paz"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-exterior-003",
+    "doc": "bng",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Qué propone el BNG sobre el Sáhara Occidental?",
+    "options": [
+      "Apoyar un plan de autonomía bajo soberanía marroquí",
+      "Mantener la neutralidad sin pronunciarse",
+      "Reconocer a Marruecos la soberanía",
+      "Anular el cambio de posición del Gobierno, condenar la ocupación marroquí e impulsar un referéndum de autodeterminación"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Pide un referéndum con garantías democráticas.",
+    "tip": "Defiende la autodeterminación.",
+    "source": {
+      "doc": "bng",
+      "page": 90,
+      "section": "11. Galiza pola paz"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-exterior-004",
+    "doc": "bng",
+    "topic": "exterior",
+    "type": "multi",
+    "question": "¿Qué medidas sobre defensa propone el BNG?",
+    "options": [
+      "Enviar más tropas a la frontera con Rusia",
+      "Retirar los efectivos españoles de misiones OTAN y USA",
+      "Salir de la OTAN",
+      "Cesar el envío de armamento español a Ucrania"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "Propone lo contrario: retirar los efectivos de países fronterizos con Rusia.",
+    "tip": "Va en la línea de la neutralidad activa.",
+    "source": {
+      "doc": "bng",
+      "page": 89,
+      "section": "11. Galiza pola paz"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bng-exterior-005",
+    "doc": "bng",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone salir de la OTAN y defender su disolución?",
+    "options": [
+      "bng",
+      "pp",
+      "psoe",
+      "vox",
+      "cc"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Está en la sección 'Galiza pola paz'; los otros partidos no proponen salir de la OTAN.",
+    "tip": "Parte de una visión antiimperialista.",
+    "source": {
+      "doc": "bng",
+      "page": 89,
+      "section": "11. Galiza pola paz"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-exterior-006",
+    "doc": "bng",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone la abolición definitiva del servicio militar obligatorio?",
+    "options": [
+      "pp",
+      "bng",
+      "psoe",
+      "cc",
+      "pnv"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Pide eliminar de la legislación incluso la posibilidad de restituirlo.",
+    "tip": "Habla de la 'mili' suspendida desde 2001.",
+    "source": {
+      "doc": "bng",
+      "page": 91,
+      "section": "11. Galiza pola paz"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-exterior-007",
+    "doc": "bng",
+    "topic": "exterior",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del BNG?",
+    "options": [
+      "Reconocer de forma efectiva al Estado palestino",
+      "Aumentar el gasto en defensa hasta el 2% del PIB",
+      "Anular el cambio de posición sobre el Sáhara",
+      "Avanzar en la desmilitarización de Galicia"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Rechaza el aumento del gasto militar y propone reducirlo.",
+    "tip": "Una opción va contra su pacifismo.",
+    "source": {
+      "doc": "bng",
+      "page": 90,
+      "section": "11. Galiza pola paz"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-cultura-001",
+    "doc": "bng",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone elevar la inversión estatal en I+D+i hasta el 5% del PIB en 2030.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La cifra del programa es el 3% del PIB en 2030.",
+    "tip": "Es una cifra más baja que la indicada.",
+    "source": {
+      "doc": "bng",
+      "page": 52,
+      "section": "4.5 Ciencia e investigación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-cultura-002",
+    "doc": "bng",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone prohibir cualquier uso de la inteligencia artificial en la Administración.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone regular su uso con transparencia, supervisión humana y veto algorítmico, y pide que los sistemas de IA del Estado funcionen en gallego.",
+    "tip": "Habla de controlar los algoritmos, no de eliminarlos.",
+    "source": {
+      "doc": "bng",
+      "page": 76,
+      "section": "8.2 Dereitos civís, garantías democráticas e control público dos algoritmos"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-cultura-003",
+    "doc": "bng",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿Qué emisora de RNE en gallego propone recuperar el BNG?",
+    "options": [
+      "Radio 4",
+      "Radio 3",
+      "Radio Clásica",
+      "Radio 5"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "En el mismo bloque pide más desconexiones en gallego en TVE y un canal de TV en gallego.",
+    "tip": "Es un número de radio.",
+    "source": {
+      "doc": "bng",
+      "page": 71,
+      "section": "7. Lingua e cultura"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-cultura-004",
+    "doc": "bng",
+    "topic": "cultura",
+    "type": "multi",
+    "question": "¿Qué garantías propone el BNG frente a los algoritmos?",
+    "options": [
+      "Ley de transparencia algorítmica",
+      "Permitir la policía predictiva con supervisión",
+      "Auditorías públicas antisesgo",
+      "Derecho de veto algorítmico con revisión humana"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "Propone vetar la policía predictiva.",
+    "tip": "Busca control público de la IA.",
+    "source": {
+      "doc": "bng",
+      "page": 76,
+      "section": "8.2 Dereitos civís, garantías democráticas e control público dos algoritmos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "bng-cultura-005",
+    "doc": "bng",
+    "topic": "cultura",
+    "type": "which_party",
+    "question": "¿Qué partido propone una nube pública gallega con fondos europeos y estatales?",
+    "options": [
+      "pp",
+      "psoe",
+      "vox",
+      "bng",
+      "cc"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Forma parte de su capítulo de soberanía digital.",
+    "tip": "Es una infraestructura tecnológica propia.",
+    "source": {
+      "doc": "bng",
+      "page": 79,
+      "section": "8.5 Infraestruturas públicas, nube soberana e autonomía tecnolóxica"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-otros-001",
+    "doc": "bng",
+    "topic": "otros",
+    "type": "tf",
+    "question": "¿Verdadero o falso? El BNG propone reconocer el derecho de los jóvenes de 16 y 17 años a votar en todas las elecciones.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Está en su capítulo de políticas para la juventud.",
+    "tip": "Se refiere a la edad mínima de voto.",
+    "source": {
+      "doc": "bng",
+      "page": 86,
+      "section": "9. Políticas para a mocidade"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "bng-otros-002",
+    "doc": "bng",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué propone el BNG para la AP-9 tras el traspaso a la Xunta?",
+    "options": [
+      "Subir los peajes para financiar mejoras",
+      "Anular la prórroga concedida en 2000 para lograr la gratuidad",
+      "Privatizarla del todo",
+      "Mantener la concesión actual"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Pide una AP-9 gallega, pública y libre de peajes.",
+    "tip": "Habla de gratuidad.",
+    "source": {
+      "doc": "bng",
+      "page": 62,
+      "section": "5.2 Infraestruturas viarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "bng-otros-003",
+    "doc": "bng",
+    "topic": "otros",
+    "type": "which_party",
+    "question": "¿Qué partido propone una empresa pública gallega de transporte ferroviario (GALTRÉN)?",
+    "options": [
+      "pp",
+      "psoe",
+      "vox",
+      "bng",
+      "cc"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Implicaría transferir las líneas interiores a Galicia.",
+    "tip": "El nombre alude a un tren gallego.",
+    "source": {
+      "doc": "bng",
+      "page": 61,
+      "section": "5.1 Infraestruturas ferroviarias"
+    },
+    "difficulty": 2
+  }
+]

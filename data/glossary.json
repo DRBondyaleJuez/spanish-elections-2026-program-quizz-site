@@ -49,10 +49,24 @@
   ]
  },
  {
+  "term": "Alquiler de referencia",
+  "definition": "Precio de alquiler orientativo fijado por la Administración según las características y la zona de la vivienda.",
+  "from": [
+   "mmj"
+  ]
+ },
+ {
   "term": "Apoderado",
   "definition": "Representante de una candidatura que puede acceder a cualquier local electoral y vigilar votación y escrutinio.",
   "from": [
    "mesa"
+  ]
+ },
+ {
+  "term": "Aporofobia",
+  "definition": "Rechazo o miedo a las personas pobres.",
+  "from": [
+   "mmj"
   ]
  },
  {
@@ -78,6 +92,13 @@
   ]
  },
  {
+  "term": "Atención Temprana",
+  "definition": "Conjunto de apoyos para niños de 0 a 6 años con trastornos del desarrollo o riesgo de tenerlos.",
+  "from": [
+   "mmj"
+  ]
+ },
+ {
   "term": "Autodeterminación",
   "definition": "Derecho de un pueblo a decidir su propio futuro político, por ejemplo mediante un referéndum sobre si quiere ser independiente.",
   "from": [
@@ -85,10 +106,24 @@
   ]
  },
  {
+  "term": "Barnahus",
+  "definition": "Modelo de casa donde se atiende en un solo lugar a niños y adolescentes víctimas de violencia sexual para evitar que repitan su relato.",
+  "from": [
+   "mmj"
+  ]
+ },
+ {
   "term": "BCE",
   "definition": "Banco Central Europeo: la institución que fija los tipos de interés y la política monetaria del euro.",
   "from": [
    "frenteamplio"
+  ]
+ },
+ {
+  "term": "Bilateralidad",
+  "definition": "Relación de igual a igual entre dos partes. Aquí, que Galicia y el Estado negocien en pie de igualdad, en lugar de que el Estado decida.",
+  "from": [
+   "bng"
   ]
  },
  {
@@ -111,6 +146,13 @@
   "from": [
    "frenteamplio",
    "psoe"
+  ]
+ },
+ {
+  "term": "CER",
+  "definition": "Captura-Esterilización-Retorno: método para controlar las colonias de gatos callejeros esterilizándolos y devolviéndolos a su lugar.",
+  "from": [
+   "pacma"
   ]
  },
  {
@@ -138,12 +180,14 @@
  },
  {
   "term": "CIE",
-  "definition": "Centro de Internamiento de Extranjeros: instalación donde se retiene a personas extranjeras pendientes de expulsión.",
+  "definition": "Centros de Internamiento de Extranjeros, donde se retiene a personas extranjeras pendientes de expulsión.",
   "from": [
    "compromis",
    "drago",
    "ehbildu",
    "frenteamplio",
+   "frenteobrero",
+   "pcte",
    "podemos"
   ]
  },
@@ -152,6 +196,13 @@
   "definition": "Territorio en que se reparten los escaños: la provincia (y, para el Senado, cada isla grande).",
   "from": [
    "mesa"
+  ]
+ },
+ {
+  "term": "Circunscripción única",
+  "definition": "Sistema en el que todo el país forma un solo distrito electoral y los escaños se reparten según el total de votos.",
+  "from": [
+   "pacma"
   ]
  },
  {
@@ -177,9 +228,17 @@
   ]
  },
  {
-  "term": "Concierto Económico",
+  "term": "Concentración parcelaria",
+  "definition": "Agrupar pequeñas parcelas dispersas de un agricultor en fincas mayores para trabajarlas mejor.",
+  "from": [
+   "frenteobrero"
+  ]
+ },
+ {
+  "term": "Concierto económico",
   "definition": "Modelo de financiación (como el del País Vasco) en el que la comunidad recauda los impuestos y paga al Estado una cantidad por los servicios que este presta.",
   "from": [
+   "bng",
    "ehbildu",
    "erc",
    "pnv"
@@ -197,6 +256,13 @@
   "definition": "Acuerdos entre el Estado español y la Santa Sede (Vaticano) que regulan asuntos como la financiación y la enseñanza de la religión.",
   "from": [
    "podemos"
+  ]
+ },
+ {
+  "term": "Control obrero",
+  "definition": "Participación de los trabajadores en las decisiones de la empresa, por ejemplo con acceso a las cuentas y derecho de veto sobre cambios de horarios o externalizaciones.",
+  "from": [
+   "pcte"
   ]
  },
  {
@@ -221,6 +287,27 @@
   ]
  },
  {
+  "term": "CPLP",
+  "definition": "Comunidad de Países de Lengua Portuguesa, organización internacional de los países lusófonos.",
+  "from": [
+   "bng"
+  ]
+ },
+ {
+  "term": "Cuidados paliativos",
+  "definition": "Atención para aliviar el sufrimiento y mejorar la calidad de vida de personas con enfermedad avanzada o al final de la vida.",
+  "from": [
+   "mmj"
+  ]
+ },
+ {
+  "term": "Cuota Hare",
+  "definition": "Fórmula de reparto de escaños proporcional que divide los votos por el número de escaños; favorece más a los partidos pequeños que la ley D'Hondt.",
+  "from": [
+   "bng"
+  ]
+ },
+ {
   "term": "Cupo y Aportación",
   "definition": "Cantidades que País Vasco (Cupo) y Navarra (Aportación) pagan al Estado por los servicios que este presta en su territorio.",
   "from": [
@@ -232,6 +319,14 @@
   "definition": "Diferencia entre lo que cuesta un trabajador a la empresa y lo que cobra neto, por impuestos y cotizaciones.",
   "from": [
    "salf"
+  ]
+ },
+ {
+  "term": "Dación en pago",
+  "definition": "Entregar la vivienda al banco para saldar la hipoteca y quedar sin deuda.",
+  "from": [
+   "frenteobrero",
+   "pcte"
   ]
  },
  {
@@ -277,6 +372,20 @@
   ]
  },
  {
+  "term": "Diligencia debida",
+  "definition": "Obligación de las empresas de detectar y evitar que su actividad dañe los derechos humanos o el medio ambiente en toda su cadena de producción.",
+  "from": [
+   "mmj"
+  ]
+ },
+ {
+  "term": "Discriminación positiva",
+  "definition": "Medidas que dan trato preferente a un grupo desfavorecido, como los cupos, para corregir una desigualdad.",
+  "from": [
+   "frenteobrero"
+  ]
+ },
+ {
   "term": "Doble insularidad",
   "definition": "Dificultad añadida de las islas pequeñas que dependen de otra isla mayor, además de estar lejos del continente.",
   "from": [
@@ -299,10 +408,24 @@
   ]
  },
  {
+  "term": "Economía social",
+  "definition": "Conjunto de empresas y entidades (cooperativas, mutualidades, asociaciones) que anteponen las personas al beneficio.",
+  "from": [
+   "mmj"
+  ]
+ },
+ {
   "term": "Emakunde",
   "definition": "El Instituto Vasco de la Mujer, organismo público de igualdad del Gobierno Vasco.",
   "from": [
    "pnv"
+  ]
+ },
+ {
+  "term": "ERE",
+  "definition": "Expediente de regulación de empleo: procedimiento por el que una empresa despide o suspende contratos de forma colectiva.",
+  "from": [
+   "pcte"
   ]
  },
  {
@@ -317,6 +440,20 @@
   "definition": "La policía autonómica del País Vasco.",
   "from": [
    "pnv"
+  ]
+ },
+ {
+  "term": "Especie alóctona",
+  "definition": "Especie que vive fuera de su área natural por intervención humana.",
+  "from": [
+   "pacma"
+  ]
+ },
+ {
+  "term": "Estabilidad relativa",
+  "definition": "Principio de la política pesquera europea que reparte las cuotas de pesca entre países según su pesca histórica, vigente desde 1986.",
+  "from": [
+   "bng"
   ]
  },
  {
@@ -341,6 +478,21 @@
   ]
  },
  {
+  "term": "Etología",
+  "definition": "Ciencia que estudia el comportamiento de los animales.",
+  "from": [
+   "pacma"
+  ]
+ },
+ {
+  "term": "ETT",
+  "definition": "Empresa de trabajo temporal: contrata personas para cederlas temporalmente a otras empresas.",
+  "from": [
+   "frenteobrero",
+   "pcte"
+  ]
+ },
+ {
   "term": "Euríbor",
   "definition": "Índice de referencia de los tipos de interés al que se vinculan muchas hipotecas variables.",
   "from": [
@@ -355,10 +507,46 @@
   ]
  },
  {
+  "term": "Eólica marina offshore",
+  "definition": "Parques de aerogeneradores instalados en el mar, lejos de la costa.",
+  "from": [
+   "bng"
+  ]
+ },
+ {
   "term": "Factor de sostenibilidad",
   "definition": "Mecanismo que ajusta las pensiones iniciales según la esperanza de vida de cada generación.",
   "from": [
    "upc"
+  ]
+ },
+ {
+  "term": "Falso autónomo",
+  "definition": "Persona que figura como trabajadora autónoma pero en la práctica depende de una sola empresa, como si fuera un empleado.",
+  "from": [
+   "pcte"
+  ]
+ },
+ {
+  "term": "Falsos autónomos",
+  "definition": "Personas que figuran como autónomas pero trabajan de hecho como asalariadas de una sola empresa.",
+  "from": [
+   "frenteobrero",
+   "mmj"
+  ]
+ },
+ {
+  "term": "Familias interespecie",
+  "definition": "Expresión que usa PACMA para las familias que conviven con animales de compañía.",
+  "from": [
+   "pacma"
+  ]
+ },
+ {
+  "term": "Fijo-discontinuo",
+  "definition": "Contrato indefinido en el que la persona solo trabaja en ciertos periodos del año, cuando la empresa la llama.",
+  "from": [
+   "bng"
   ]
  },
  {
@@ -384,9 +572,24 @@
  },
  {
   "term": "Gestación subrogada",
-  "definition": "Acuerdo por el que una mujer gesta un bebé para entregarlo a otras personas; también llamada vientre de alquiler.",
+  "definition": "Acuerdo por el que una mujer gesta un bebé para entregarlo después a otra persona o pareja.",
   "from": [
-   "compromis"
+   "compromis",
+   "pcte"
+  ]
+ },
+ {
+  "term": "Glifosato",
+  "definition": "Herbicida muy usado; la OMS lo ha calificado como probablemente cancerígeno.",
+  "from": [
+   "pacma"
+  ]
+ },
+ {
+  "term": "Gran tenedor",
+  "definition": "Propietario de muchas viviendas, como bancos, fondos o grandes empresas.",
+  "from": [
+   "pcte"
   ]
  },
  {
@@ -402,6 +605,20 @@
   "from": [
    "ehbildu",
    "pnv"
+  ]
+ },
+ {
+  "term": "Housing First",
+  "definition": "Modelo que ofrece primero una vivienda estable y sin condiciones previas a una persona sin hogar y le da después acompañamiento.",
+  "from": [
+   "mmj"
+  ]
+ },
+ {
+  "term": "Housing Led",
+  "definition": "Modelo de soluciones de vivienda (alojamientos temporales, pisos compartidos o individuales) con acompañamiento para ganar autonomía.",
+  "from": [
+   "mmj"
   ]
  },
  {
@@ -434,10 +651,31 @@
   ]
  },
  {
+  "term": "ILP",
+  "definition": "Iniciativa Legislativa Popular: mecanismo para que la ciudadanía proponga leyes al Congreso mediante firmas.",
+  "from": [
+   "pacma"
+  ]
+ },
+ {
+  "term": "Impuesto climático",
+  "definition": "Impuesto cuyo importe depende de las emisiones asociadas a producir algo, para compensar el daño climático.",
+  "from": [
+   "pacma"
+  ]
+ },
+ {
   "term": "Impuesto de Sociedades",
   "definition": "Impuesto que pagan las empresas por sus beneficios.",
   "from": [
    "podemos"
+  ]
+ },
+ {
+  "term": "Impuesto de Solidaridad de las Grandes Fortunas",
+  "definition": "Impuesto estatal que pagan los patrimonios más altos, creado para evitar que las comunidades autónomas lo eliminen.",
+  "from": [
+   "mmj"
   ]
  },
  {
@@ -457,9 +695,10 @@
  },
  {
   "term": "Ingreso mínimo vital",
-  "definition": "Prestación estatal que garantiza un nivel mínimo de renta a hogares en situación de vulnerabilidad económica.",
+  "definition": "Prestación estatal para hogares en situación de pobreza que garantiza un mínimo de ingresos.",
   "from": [
-   "cc"
+   "cc",
+   "mmj"
   ]
  },
  {
@@ -514,6 +753,13 @@
   "from": [
    "d21",
    "salf"
+  ]
+ },
+ {
+  "term": "Ius sanguinis",
+  "definition": "Criterio de nacionalidad por filiación: se es de un país si lo son los padres, a diferencia del criterio por lugar de nacimiento.",
+  "from": [
+   "frenteobrero"
   ]
  },
  {
@@ -581,12 +827,21 @@
  },
  {
   "term": "Ley Mordaza",
-  "definition": "Nombre popular de la Ley de Protección de la Seguridad Ciudadana (2015), que sanciona con multas ciertas protestas y conductas en la vía pública.",
+  "definition": "Nombre popular de la Ley de Seguridad Ciudadana (2015), que regula sanciones administrativas en protestas y espacios públicos.",
   "from": [
+   "bng",
    "ehbildu",
    "erc",
    "frenteamplio",
+   "pcte",
    "pnv"
+  ]
+ },
+ {
+  "term": "Ley Trans",
+  "definition": "Ley de 2023 sobre la igualdad real y efectiva de las personas trans y los derechos LGTBI, que el programa propone derogar.",
+  "from": [
+   "frenteobrero"
   ]
  },
  {
@@ -612,10 +867,24 @@
   ]
  },
  {
+  "term": "LOREG",
+  "definition": "Ley Orgánica del Régimen Electoral General, que regula las elecciones.",
+  "from": [
+   "pacma"
+  ]
+ },
+ {
   "term": "Macaronesia",
   "definition": "Región atlántica formada por Canarias, Madeira, las Azores y otros archipiélagos próximos.",
   "from": [
    "cc"
+  ]
+ },
+ {
+  "term": "Macrogranja",
+  "definition": "Explotación ganadera industrial de gran tamaño con muchos animales concentrados.",
+  "from": [
+   "pacma"
   ]
  },
  {
@@ -630,6 +899,13 @@
   "definition": "Línea equidistante entre las costas de Canarias y de Marruecos para repartir las aguas y fondos marinos de cada país.",
   "from": [
    "upc"
+  ]
+ },
+ {
+  "term": "MEI",
+  "definition": "Mecanismo de Equidad Intergeneracional: cotización extra que se aplica a las nóminas para reforzar la Seguridad Social cuando se jubilen las generaciones más numerosas.",
+  "from": [
+   "bng"
   ]
  },
  {
@@ -651,6 +927,13 @@
   "definition": "Cuenta individual del trabajador que se llena con aportaciones de la empresa y que se lleva al cambiar de empleo.",
   "from": [
    "salf"
+  ]
+ },
+ {
+  "term": "Montes vecinales en mano común",
+  "definition": "Montes que pertenecen colectivamente a los vecinos de una parroquia o aldea y no son ni públicos ni privados; son muy característicos de Galicia.",
+  "from": [
+   "bng"
   ]
  },
  {
@@ -679,6 +962,13 @@
   "definition": "Fondos europeos creados tras la pandemia para financiar la recuperación económica y la modernización de los países miembros.",
   "from": [
    "psoe"
+  ]
+ },
+ {
+  "term": "Obsolescencia programada",
+  "definition": "Diseño de un producto para que deje de funcionar tras un tiempo fijado por el fabricante.",
+  "from": [
+   "pacma"
   ]
  },
  {
@@ -716,6 +1006,7 @@
    "compromis",
    "ehbildu",
    "frenteamplio",
+   "frenteobrero",
    "podemos",
    "pp",
    "salf",
@@ -735,6 +1026,13 @@
   "definition": "Planes de la UE y la ONU con objetivos de lucha contra el cambio climático y desarrollo sostenible.",
   "from": [
    "vox"
+  ]
+ },
+ {
+  "term": "Partitocracia",
+  "definition": "Término que usa el programa para describir un sistema en el que los grandes partidos se turnan en el poder defendiendo, según el texto, los mismos intereses.",
+  "from": [
+   "frenteobrero"
   ]
  },
  {
@@ -760,6 +1058,13 @@
   ]
  },
  {
+  "term": "POEM",
+  "definition": "Planes de Ordenación del Espacio Marítimo: documentos que reparten los usos del mar (pesca, energía, tráfico, protección).",
+  "from": [
+   "bng"
+  ]
+ },
+ {
   "term": "Política Agraria Común (PAC)",
   "definition": "Conjunto de ayudas y normas de la Unión Europea para agricultura y ganadería.",
   "from": [
@@ -780,6 +1085,27 @@
   "from": [
    "pp",
    "vox"
+  ]
+ },
+ {
+  "term": "Proceso constituyente",
+  "definition": "Proceso para redactar una nueva Constitución. El Frente Obrero lo propone para sustituir el régimen actual.",
+  "from": [
+   "frenteobrero"
+  ]
+ },
+ {
+  "term": "Programas Especiales de Modernización",
+  "definition": "Grandes programas de compra de armamento y material militar financiados por el Ministerio de Defensa.",
+  "from": [
+   "pcte"
+  ]
+ },
+ {
+  "term": "Purines",
+  "definition": "Excrementos líquidos del ganado, ricos en nitrógeno, fósforo y potasio, que pueden contaminar el agua.",
+  "from": [
+   "pacma"
   ]
  },
  {
@@ -813,10 +1139,24 @@
   ]
  },
  {
+  "term": "Renta básica",
+  "definition": "Ingreso garantizado a toda persona para una vida digna; M+J propone avanzar hacia ella ampliando el Ingreso Mínimo Vital.",
+  "from": [
+   "mmj"
+  ]
+ },
+ {
   "term": "Representante de la Administración",
   "definition": "Persona presente en el local desde primera hora que ayuda a la Mesa y recibe la primera copia del acta de escrutinio.",
   "from": [
    "mesa"
+  ]
+ },
+ {
+  "term": "República Árabe Saharaui Democrática",
+  "definition": "Estado proclamado por el Frente Polisario para el Sáhara Occidental, territorio que Marruecos controla en su mayor parte.",
+  "from": [
+   "pcte"
   ]
  },
  {
@@ -850,6 +1190,20 @@
   ]
  },
  {
+  "term": "SAAD",
+  "definition": "Sistema para la Autonomía y Atención a la Dependencia: el sistema público de ayudas y servicios para personas mayores o dependientes.",
+  "from": [
+   "bng"
+  ]
+ },
+ {
+  "term": "Sacrificio cero",
+  "definition": "Principio por el que no se mata a animales sanos de los centros de acogida; se distingue de la eutanasia, que evita un sufrimiento irremediable.",
+  "from": [
+   "pacma"
+  ]
+ },
+ {
   "term": "SAF",
   "definition": "Combustible sostenible de aviación: un combustible alternativo al queroseno fósil, con menos emisiones.",
   "from": [
@@ -868,12 +1222,20 @@
   "term": "Sareb",
   "definition": "Sociedad creada para gestionar los activos inmobiliarios de los bancos rescatados en la crisis de 2008.",
   "from": [
+   "bng",
    "drago",
    "erc",
    "frenteamplio",
    "podemos",
    "salf",
    "upc"
+  ]
+ },
+ {
+  "term": "SDDR",
+  "definition": "Sistema de depósito, devolución y retorno: se paga un pequeño depósito por cada envase y se recupera al devolverlo.",
+  "from": [
+   "bng"
   ]
  },
  {
@@ -927,6 +1289,13 @@
   ]
  },
  {
+  "term": "Subcontratación",
+  "definition": "Cuando una empresa encarga parte de su actividad a otra empresa en lugar de hacerla con su propia plantilla.",
+  "from": [
+   "pcte"
+  ]
+ },
+ {
   "term": "Suplicatorio",
   "definition": "Permiso que las Cortes deben dar para poder procesar a un diputado o senador.",
   "from": [
@@ -937,7 +1306,8 @@
   "term": "Tanteo y retracto",
   "definition": "Derecho de la Administración a comprar un bien por el mismo precio que ofrece un tercero, antes o después de la venta.",
   "from": [
-   "compromis"
+   "compromis",
+   "mmj"
   ]
  },
  {
@@ -960,6 +1330,13 @@
   "from": [
    "compromis",
    "frenteamplio"
+  ]
+ },
+ {
+  "term": "Taxa de reposición",
+  "definition": "Límite que fija cuántas plazas de empleo público se pueden convocar al año para sustituir a quienes se jubilan.",
+  "from": [
+   "bng"
   ]
  },
  {
@@ -1006,10 +1383,18 @@
   ]
  },
  {
+  "term": "Vientres de alquiler",
+  "definition": "Gestación subrogada: una mujer gesta un hijo para otras personas que serán sus madres o padres legales.",
+  "from": [
+   "frenteobrero"
+  ]
+ },
+ {
   "term": "Violencia vicaria",
   "definition": "Violencia ejercida contra los hijos o hijas para causar daño a la madre.",
   "from": [
-   "ehbildu"
+   "ehbildu",
+   "pacma"
   ]
  },
  {

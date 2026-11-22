@@ -1,0 +1,2378 @@
+[
+  {
+    "id": "pacma-otros-001",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "tf",
+    "question": "PACMA propone que la esterilización obligatoria alcance también a los perros, y no solo a los gatos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La Ley 7/2023 dejó como obligatoria solo la de los gatos. PACMA pide extenderla a los perros, siempre por veterinarios y con otras medidas anticonceptivas si hay razones de salud.",
+    "tip": "Piensa en qué animales quedaron fuera tras la presión del sector cinegético.",
+    "source": {
+      "doc": "pacma",
+      "page": 8,
+      "section": "1.1.3 Esterilización obligatoria de los animales de compañía"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-otros-002",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "tf",
+    "question": "PACMA propone mantener la venta de animales de compañía, pero solo en tiendas autorizadas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone prohibir el comercio de animales de compañía y su exhibición con fines comerciales, de modo que solo puedan adoptarse.",
+    "tip": "La propuesta no regula la venta: la elimina.",
+    "source": {
+      "doc": "pacma",
+      "page": 8,
+      "section": "1.1.2 Prohibición de compraventa de animales como compañía"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-otros-003",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "tf",
+    "question": "PACMA propone prohibir mantener animales cautivos para exhibición y convertir zoológicos y acuarios en centros de rescate o reservas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone prohibir la cautividad con fines de exposición o entretenimiento. Los recintos pasarían a ser centros de recuperación y rescate o reservas.",
+    "tip": "Los recintos no cerrarían sin más: cambiarían de función.",
+    "source": {
+      "doc": "pacma",
+      "page": 10,
+      "section": "1.1.6 Fin de los zoológicos, acuarios y de toda cautividad con fines de entretenimiento"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-otros-004",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "tf",
+    "question": "Según PACMA, desde la reforma del Código Penal de 2023 las penas de prisión por maltrato animal ya superan los cinco años en los casos más graves.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. PACMA afirma que, incluso con muerte del animal, las penas de prisión siguen sin superar los 24 meses. Por eso pide superar los cinco años en el tipo agravado.",
+    "tip": "El programa critica que la reforma fue insuficiente.",
+    "source": {
+      "doc": "pacma",
+      "page": 22,
+      "section": "1.2.1 Endurecimiento real y efectivo de las penas por maltrato animal"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-otros-005",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "tf",
+    "question": "PACMA propone incluir la protección animal entre las actividades de interés social financiables con el 0,7% del IRPF.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es una propuesta que, según el programa, ya presentaron formalmente al Gobierno: poder marcar la casilla de la Renta para proteger animales.",
+    "tip": "Se refiere a la casilla de la declaración de la Renta.",
+    "source": {
+      "doc": "pacma",
+      "page": 17,
+      "section": "1.1.12 Apoyo a las entidades de protección y defensa de los animales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-otros-006",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "tf",
+    "question": "PACMA propone que la Dirección General de Bienestar y Protección de los Animales dependa del Ministerio de Derechos Sociales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone sustituir la actual Dirección General de Derechos de los Animales, que depende de Derechos Sociales, por otra adscrita al ministerio competente en Medio Ambiente.",
+    "tip": "El programa critica la dependencia actual.",
+    "source": {
+      "doc": "pacma",
+      "page": 16,
+      "section": "1.1.10 Creación de una Dirección General de Bienestar y Protección de los Animales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-cultura-001",
+    "doc": "pacma",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "PACMA propone prohibir los sacrificios rituales de animales por motivos religiosos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone prohibir el sacrificio sin aturdimiento por motivos religiosos, como el halal o el kosher, al considerar que el bienestar animal debe estar por encima de consideraciones religiosas.",
+    "tip": "Se trata del sacrificio sin aturdimiento previo.",
+    "source": {
+      "doc": "pacma",
+      "page": 26,
+      "section": "1.4.5 Prohibición de los sacrificios halal y kosher"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-medioambiente-001",
+    "doc": "pacma",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "PACMA propone mantener el uso del glifosato solo en los taludes de las carreteras.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Quiere impulsar la prohibición del glifosato y de otros herbicidas y plaguicidas peligrosos, y fomentar la producción orgánica.",
+    "tip": "Pide prohibirlo, no limitarlo.",
+    "source": {
+      "doc": "pacma",
+      "page": 43,
+      "section": "2.6 Restricción a los productos químicos. Prohibición del glifosato y fomento de la producción orgánica"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-medioambiente-002",
+    "doc": "pacma",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "PACMA propone ampliar las áreas naturales protegidas desde el 18% actual hasta al menos el 30% del territorio para 2030.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone un objetivo vinculante a escala nacional, en cooperación con comunidades y entidades locales.",
+    "tip": "Es la meta del 30% para 2030.",
+    "source": {
+      "doc": "pacma",
+      "page": 47,
+      "section": "2.10 Contención a la pérdida de la biodiversidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-medioambiente-003",
+    "doc": "pacma",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "PACMA propone prohibir los fuegos artificiales únicamente en las cercanías de espacios naturales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone prohibir los artificios pirotécnicos y sus simulaciones en general. Mientras tanto, pide evaluación de impacto ambiental para los de 100 kg de pólvora o más.",
+    "tip": "La prohibición que pide es general.",
+    "source": {
+      "doc": "pacma",
+      "page": 52,
+      "section": "2.15 Protección frente a la contaminación acústica y lumínica. Prohibición de artificios pirotécnicos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-rural-001",
+    "doc": "pacma",
+    "topic": "rural",
+    "type": "tf",
+    "question": "PACMA propone el cese de las subvenciones a las explotaciones ganaderas intensivas y a las macrogranjas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Entre sus medidas contra las macrogranjas figura el cese de las subvenciones al sector, además de frenar nuevas autorizaciones.",
+    "tip": "Es una de las seis medidas de su lista contra las macrogranjas.",
+    "source": {
+      "doc": "pacma",
+      "page": 39,
+      "section": "2.2 NO a las macrogranjas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-rural-002",
+    "doc": "pacma",
+    "topic": "rural",
+    "type": "tf",
+    "question": "PACMA propone aumentar las subvenciones a la ganadería en detrimento de las que recibe la agricultura.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone lo contrario: incrementar las subvenciones a la agricultura en detrimento de las de la ganadería.",
+    "tip": "El sentido de la redistribución es hacia la agricultura.",
+    "source": {
+      "doc": "pacma",
+      "page": 43,
+      "section": "2.7 En defensa de la agricultura ecológica"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-rural-003",
+    "doc": "pacma",
+    "topic": "rural",
+    "type": "tf",
+    "question": "PACMA propone prohibir la exportación de animales vivos para su reproducción, engorde o sacrificio.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "También propone eliminar las ayudas que reciben los ganaderos por esas exportaciones. Cita el caso de los barcos Karim Allah y Elbeik como ejemplo.",
+    "tip": "Lo ocurrido en 2021 con los barcos Karim Allah y Elbeik es su ejemplo.",
+    "source": {
+      "doc": "pacma",
+      "page": 29,
+      "section": "1.4.8 Límites al transporte de animales"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-rural-004",
+    "doc": "pacma",
+    "topic": "rural",
+    "type": "tf",
+    "question": "Según PACMA, ya existe una norma europea que prohíbe criar pulpos en cautividad.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El programa señala que no hay normativa nacional ni europea que prohíba la cría de pulpos ni que regule su bienestar en granjas, y pide una norma nacional.",
+    "tip": "La carencia de normas es precisamente su argumento.",
+    "source": {
+      "doc": "pacma",
+      "page": 41,
+      "section": "2.5 Veto a las granjas de pulpos. Protección para los crustáceos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-cultura-002",
+    "doc": "pacma",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "PACMA propone derogar la Ley 18/2013 que regula la tauromaquia como patrimonio cultural.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Según el programa, esa ley se hizo para impedir que las comunidades autónomas prohibieran las corridas o las regularan sin herir ni matar a los animales.",
+    "tip": "Es la ley de 2013 sobre la tauromaquia.",
+    "source": {
+      "doc": "pacma",
+      "page": 12,
+      "section": "1.1.7 Abolición de los espectáculos, tradiciones y festejos con animales"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-cultura-003",
+    "doc": "pacma",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "PACMA sostiene que solo las comunidades autónomas pueden prohibir la asistencia de menores a festejos taurinos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. PACMA afirma que el Gobierno sí tiene competencia y que podría prohibirla para menores de 16 años aplicando el Reglamento de Policía de Espectáculos.",
+    "tip": "El programa acusa al Gobierno de haber dicho lo contrario ante la ONU.",
+    "source": {
+      "doc": "pacma",
+      "page": 78,
+      "section": "3.10.2 Protección de la infancia frente a la violencia de la tauromaquia"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-cultura-004",
+    "doc": "pacma",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "PACMA propone retirar la declaración de Fiesta de Interés Turístico a los eventos que usen animales, mientras los sigan usando.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Las fiestas podrían mantener la declaración si dejan de utilizar animales.",
+    "tip": "La declaración se conserva solo si no hay animales.",
+    "source": {
+      "doc": "pacma",
+      "page": 52,
+      "section": "2.14 Turismo sostenible y respetuoso con los espacios naturales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-vivienda-001",
+    "doc": "pacma",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "PACMA propone reformar la Ley de Arrendamientos Urbanos para declarar nulas las cláusulas que prohíban tener animales de compañía.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa recuerda que solo un 7% de los anuncios de alquiler admite animales y quiere que esas cláusulas no tengan validez.",
+    "tip": "La reforma afecta a los contratos de alquiler.",
+    "source": {
+      "doc": "pacma",
+      "page": 70,
+      "section": "3.5 Por una vivienda digna: mayor parque de vivienda social"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-vivienda-002",
+    "doc": "pacma",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Según PACMA, la solución real a la crisis de vivienda pasa por rebajar impuestos y no por construir vivienda pública.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Defiende la construcción masiva de vivienda pública y la compra de viviendas vacías para destinarlas a compra y alquiler social.",
+    "tip": "Su solución central es ampliar el parque público.",
+    "source": {
+      "doc": "pacma",
+      "page": 69,
+      "section": "3.5 Por una vivienda digna: mayor parque de vivienda social"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-economia-001",
+    "doc": "pacma",
+    "topic": "economia",
+    "type": "tf",
+    "question": "PACMA propone reducir el IVA de los servicios veterinarios, hoy del 21%, al 4% o incluso a la exención.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Para ello pide reconocer las clínicas veterinarias como centros sanitarios. Rechaza quedarse en el tipo reducido del 10%.",
+    "tip": "Pide un tipo menor que el reducido.",
+    "source": {
+      "doc": "pacma",
+      "page": 31,
+      "section": "1.7 Reconocimiento de las clínicas veterinarias como centros sanitarios"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-economia-002",
+    "doc": "pacma",
+    "topic": "economia",
+    "type": "tf",
+    "question": "PACMA propone bajar el IVA de los lácteos de origen animal y subir el de los equivalentes vegetales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone lo contrario: mayor IVA a los productos lácteos animales y menor a los vegetales, que ahora tributan al 10%.",
+    "tip": "La intención es favorecer los productos vegetales.",
+    "source": {
+      "doc": "pacma",
+      "page": 38,
+      "section": "2.1.4 Disminución del consumo de alimentos de origen animal"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-sanidad-001",
+    "doc": "pacma",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "PACMA se opone al copago sanitario porque disuade del uso de los servicios a las personas más desfavorecidas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Cita a la OMS: el copago acaba suponiendo mayor gasto sanitario y acrecienta las desigualdades.",
+    "tip": "Su argumento va en la línea de la OMS.",
+    "source": {
+      "doc": "pacma",
+      "page": 56,
+      "section": "3.2.2 Oposición al copago"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-sanidad-002",
+    "doc": "pacma",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "PACMA propone limitar la atención bucodental gratuita solo a la infancia.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone una atención bucodental gratuita, con asistencia dental básica para todas las personas, y un sistema preventivo y terapéutico para quienes están en situación de vulnerabilidad.",
+    "tip": "Habla de asistencia básica para toda la población.",
+    "source": {
+      "doc": "pacma",
+      "page": 59,
+      "section": "3.2.7 Salud bucodental"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-educacion-001",
+    "doc": "pacma",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "PACMA propone que haya menú 100% vegetal disponible en todos los comedores de los centros educativos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Está entre sus medidas del Pacto de Estado por la Educación, junto a una escuela pública realmente laica.",
+    "tip": "La opción vegetal debe estar siempre disponible.",
+    "source": {
+      "doc": "pacma",
+      "page": 60,
+      "section": "3.3.1 Pacto de Estado por la Educación pública y de calidad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-instituciones-001",
+    "doc": "pacma",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "PACMA defiende mantener las circunscripciones provinciales en las elecciones generales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone un sistema de circunscripción única, sin barrera electoral y con reparto de escaños proporcional al número de votos.",
+    "tip": "Dice que la ley actual favorece al bipartidismo.",
+    "source": {
+      "doc": "pacma",
+      "page": 74,
+      "section": "3.9.2.2 Modificación de la Ley Electoral"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-instituciones-002",
+    "doc": "pacma",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "PACMA propone eliminar los aforamientos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es la primera medida de su lista contra la corrupción.",
+    "tip": "Abre su lista de medidas anticorrupción.",
+    "source": {
+      "doc": "pacma",
+      "page": 72,
+      "section": "3.9.1 Prevención y lucha contra la corrupción"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-igualdad-001",
+    "doc": "pacma",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "PACMA propone sustituir las listas paritarias en forma de cremallera por candidaturas equilibradas con al menos la mitad de mujeres.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Argumenta que, al tener una presencia de mujeres mayoritaria, la paridad le obliga a reducirlas y a colocarlas en puestos menos relevantes.",
+    "tip": "Argumenta desde su propio caso.",
+    "source": {
+      "doc": "pacma",
+      "page": 75,
+      "section": "3.9.2.2 Modificación de la Ley Electoral"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-pensiones-001",
+    "doc": "pacma",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "PACMA propone reformar la Constitución para permitir complementar el sistema público de pensiones con planes privados.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone reformar la Constitución para blindar las pensiones, garantizando que el sistema público no pueda recortarse ni privatizarse.",
+    "tip": "Habla de blindar, no de abrir a lo privado.",
+    "source": {
+      "doc": "pacma",
+      "page": 80,
+      "section": "3.10.3 Por nuestros/as mayores"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-inmigracion-001",
+    "doc": "pacma",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "PACMA afirma que los países más ricos están haciendo más esfuerzo de acogida que los de menos recursos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El programa dice que los países con menos recursos hacen todo lo que pueden y más, mientras los más ricos hacen poco o nada.",
+    "tip": "Es una crítica a los países ricos.",
+    "source": {
+      "doc": "pacma",
+      "page": 81,
+      "section": "3.10.6 Por las personas migrantes"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-otros-007",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "tf",
+    "question": "PACMA propone prohibir expresamente la caza del lobo y del zorro.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Considera que ambas especies han sido estigmatizadas por los sectores cinegético y ganadero y pide además campañas de educación ambiental.",
+    "tip": "Son las dos especies de la sección 1.1.8.2.",
+    "source": {
+      "doc": "pacma",
+      "page": 15,
+      "section": "1.1.8.2 Protección del lobo y del zorro"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-otros-008",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué ley critica PACMA por excluir de su ámbito a los perros usados para cazar y guardar ganado?",
+    "options": [
+      "La Ley de Residuos y Suelos Contaminados",
+      "La Ley 18/2013, de regulación de la tauromaquia",
+      "La Ley 7/2023, de protección de los derechos y el bienestar de los animales",
+      "La Ley de Montes"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "PACMA considera que esa exclusión sentó un precedente y que varias comunidades redujeron después la protección de esos perros.",
+    "tip": "Es la ley estatal de bienestar animal de marzo de 2023.",
+    "source": {
+      "doc": "pacma",
+      "page": 7,
+      "section": "1.1 Por una verdadera Ley de Bienestar y Protección de los Animales"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-otros-009",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué significa CER, el método que defiende PACMA para las colonias felinas?",
+    "options": [
+      "Control-Eutanasia-Reubicación",
+      "Censo-Esterilización-Registro",
+      "Captura-Encierro-Reubicación",
+      "Captura-Esterilización-Retorno"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es el método que PACMA considera más ético y eficaz y que, según el programa, es responsabilidad de los ayuntamientos tanto en terrenos públicos como privados.",
+    "tip": "Los gatos se devuelven a su lugar tras esterilizarlos.",
+    "source": {
+      "doc": "pacma",
+      "page": 9,
+      "section": "1.1.5 Colonias estables y controladas de gatos: método CER"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-otros-010",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "single",
+    "question": "Según PACMA, ¿cuál es la principal causa de abandono de animales?",
+    "options": [
+      "La falta de espacio en las viviendas de alquiler",
+      "Las camadas indeseadas",
+      "Los costes veterinarios",
+      "El fin de la temporada de caza"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El fin de la temporada de caza es, según el programa, la segunda causa de abandono, y muchas de esas camadas proceden de animales explotados por cazadores.",
+    "tip": "Tiene relación con la esterilización.",
+    "source": {
+      "doc": "pacma",
+      "page": 8,
+      "section": "1.1.3 Esterilización obligatoria de los animales de compañía"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-otros-011",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Cuántos animales abandonados al año estima la Fundación Affinity, según cita PACMA?",
+    "options": [
+      "Cerca de un millón",
+      "Cerca de 100.000",
+      "Cerca de 300.000",
+      "Cerca de 30.000"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "PACMA advierte de que esa cifra se queda corta, porque solo incluye los recogidos por protectoras.",
+    "tip": "Es una cifra de seis dígitos.",
+    "source": {
+      "doc": "pacma",
+      "page": 6,
+      "section": "1. Nuestro compromiso con los Animales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-otros-012",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué propone PACMA para los animales de compañía de pacientes ingresados en hospitales?",
+    "options": [
+      "Permitir su estancia en las habitaciones sin límites",
+      "Habilitar una zona o sala donde puedan recibir la visita de sus animales",
+      "Prohibir la entrada de cualquier animal",
+      "Crear guarderías animales dentro del hospital"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Lo plantea mediante un plan conjunto del Consejo Interterritorial, el Estado y las comunidades, con protocolos de seguridad e higiene.",
+    "tip": "Se limita a un espacio concreto, no a todo el hospital.",
+    "source": {
+      "doc": "pacma",
+      "page": 19,
+      "section": "1.1.21 Acceso a hospitales"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-otros-013",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué pide PACMA para evitar que se repitan experimentos con animales?",
+    "options": [
+      "Un registro secreto de laboratorios",
+      "Que cada laboratorio repita el experimento para validarlo",
+      "Exigir la divulgación de los resultados de los experimentos",
+      "Limitar los experimentos a grandes simios"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Forma parte de su lista de medidas para avanzar hacia el fin de la experimentación animal.",
+    "tip": "Se trata de compartir información.",
+    "source": {
+      "doc": "pacma",
+      "page": 30,
+      "section": "1.5 Fin a la experimentación en animales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-otros-014",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué plazo daba la Ley 7/2023 al Gobierno para presentar un proyecto de Ley de Grandes Simios?",
+    "options": [
+      "Un año",
+      "Seis meses",
+      "Tres años",
+      "Tres meses desde su entrada en vigor"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "PACMA señala que hicieron falta tres años y que el proyecto sigue sin completar su tramitación.",
+    "tip": "El plazo real fue unas doce veces mayor.",
+    "source": {
+      "doc": "pacma",
+      "page": 30,
+      "section": "1.6 Ley de Grandes Simios"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pacma-otros-015",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué crearía PACMA dentro de la Fiscalía General del Estado?",
+    "options": [
+      "Un tribunal especial para delitos de caza",
+      "Una unidad especializada en protección animal",
+      "Un registro de animales de compañía",
+      "Una fiscalía independiente de medio ambiente"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Coordinaría la actividad del Ministerio Fiscal en la materia, ejercería la acción pública y elaboraría un informe anual.",
+    "tip": "Es una unidad, no un órgano nuevo.",
+    "source": {
+      "doc": "pacma",
+      "page": 23,
+      "section": "1.2.2 Unidad especializada en protección animal en la Fiscalía General del Estado"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-otros-016",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué propone PACMA sobre los santuarios de animales?",
+    "options": [
+      "Integrarlos en la red de zoológicos",
+      "Convertirlos en granjas escuela",
+      "Reconocerlos legalmente como entidades de protección y defensa de los animales",
+      "Prohibirlos"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Sus animales no son de producción, por lo que no deberían aplicárseles las normas de las explotaciones ganaderas.",
+    "tip": "Acogen sobre todo animales rescatados de la industria ganadera.",
+    "source": {
+      "doc": "pacma",
+      "page": 17,
+      "section": "1.1.13 Reconocimiento legal de los Santuarios de animales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-otros-017",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué propone PACMA para controlar la reproducción de la fauna urbana y silvestre?",
+    "options": [
+      "Aumentar la presión cinegética",
+      "Traslados masivos a otros países",
+      "Batidas autorizadas por los ayuntamientos",
+      "Métodos no letales como esterilización y vacunas o piensos anticonceptivos"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Sostiene que aumentar la caza, por ejemplo de jabalíes, solo hace que estas especies se reproduzcan más.",
+    "tip": "Habla de métodos no letales.",
+    "source": {
+      "doc": "pacma",
+      "page": 18,
+      "section": "1.1.17 Técnicas y métodos éticos de control de reproducción de la fauna urbana y silvestre"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-rural-005",
+    "doc": "pacma",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué amputaciones quiere prohibir PACMA en las explotaciones ganaderas?",
+    "options": [
+      "Solo las realizadas sin anestesia",
+      "Las que no tengan ninguna finalidad curativa",
+      "Todas, incluidas las prescritas por veterinarios",
+      "Solo las de cerdos"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Cita como ejemplos el corte del pico a los pollos, del rabo y los dientes a los cerdos o el quemado de cuernos a los terneros.",
+    "tip": "La palabra clave es curativa.",
+    "source": {
+      "doc": "pacma",
+      "page": 25,
+      "section": "1.4.2 Prohibición de las amputaciones no curativas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-rural-006",
+    "doc": "pacma",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Hasta qué edad permite la legislación, según PACMA, sacrificar por trituración a los pollitos macho?",
+    "options": [
+      "Hasta las 12 semanas",
+      "Hasta las 24 horas",
+      "Hasta los 7 días",
+      "Hasta las 72 horas de vida"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "PACMA propone proscribir la trituración y cita países europeos que ya la han prohibido, como Alemania y Francia.",
+    "tip": "Son tres días.",
+    "source": {
+      "doc": "pacma",
+      "page": 27,
+      "section": "1.4.6 Proscripción de la trituración como método de sacrificio"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-rural-007",
+    "doc": "pacma",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué debería indicar, según PACMA, el etiquetado de los productos de origen animal?",
+    "options": [
+      "Solo si el animal fue criado en jaula",
+      "Únicamente la huella de carbono",
+      "Si proviene de animales clonados, el sistema de cría y el método de sacrificio",
+      "Solo el país de origen"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Así las personas podrían elegir de forma informada y rechazar estos alimentos por motivos éticos.",
+    "tip": "Son tres datos sobre el animal y su trato.",
+    "source": {
+      "doc": "pacma",
+      "page": 27,
+      "section": "1.4.7 Etiquetado en los alimentos de origen animal"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-rural-008",
+    "doc": "pacma",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿A qué iniciativa ciudadana europea se adhirió PACMA en 2018 para acabar con las jaulas en la ganadería?",
+    "options": [
+      "Stop Finning",
+      "Fur Free Europe",
+      "End the Cage Age / No Más Jaulas",
+      "Save Bees and Farmers"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Consiguió más de un millón de firmas, pero PACMA señala que la Comisión Europea no ha presentado todavía la propuesta legislativa prometida.",
+    "tip": "El nombre alude a una época que se quiere cerrar.",
+    "source": {
+      "doc": "pacma",
+      "page": 25,
+      "section": "1.4.1 No más jaulas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-rural-009",
+    "doc": "pacma",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué dato sobre España y los tiburones cita PACMA?",
+    "options": [
+      "Es el único país que los pesca",
+      "Es el mayor importador de aletas",
+      "No pesca tiburones desde 2010",
+      "Es el mayor exportador de tiburones y rayas del mundo"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "PACMA defiende acabar con la comercialización de carne y aletas de tiburón.",
+    "tip": "El dato es sobre exportación.",
+    "source": {
+      "doc": "pacma",
+      "page": 40,
+      "section": "2.4 Fin a la comercialización de carne y aletas de tiburón"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-rural-010",
+    "doc": "pacma",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué directiva europea reconoció por primera vez la sintiencia de los cefalópodos, según PACMA?",
+    "options": [
+      "La Directiva 2010/63/UE",
+      "La Directiva 1999/22/CE",
+      "El Reglamento (CE) 1099/2009",
+      "La Directiva 2019/904"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo hizo solo para la experimentación animal. PACMA pide ampliar la protección a pulpos y otros invertebrados.",
+    "tip": "Es la directiva sobre experimentación.",
+    "source": {
+      "doc": "pacma",
+      "page": 42,
+      "section": "2.5 Veto a las granjas de pulpos. Protección para los crustáceos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pacma-medioambiente-004",
+    "doc": "pacma",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué sentencia europea cita PACMA sobre calidad del aire?",
+    "options": [
+      "La condena de 2022 a España por superar el límite de dióxido de nitrógeno en Madrid y Barcelona",
+      "La condena por quemas agrícolas",
+      "La condena por vertidos en el Mar Menor",
+      "La condena por emisiones de ozono en Valencia"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Pide un nuevo Plan Nacional de Mejora de Calidad del Aire que aborde combustibles fósiles, ganadería, transporte y calefacción.",
+    "tip": "Afecta a las dos mayores áreas metropolitanas.",
+    "source": {
+      "doc": "pacma",
+      "page": 35,
+      "section": "2.1.2 Reducción de la contaminación del aire"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-medioambiente-005",
+    "doc": "pacma",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué medida propone PACMA para reducir el tráfico y desplazamientos?",
+    "options": [
+      "Reducir el transporte público",
+      "Fomentar el teletrabajo y crear coworkings públicos",
+      "Peajes en todas las autovías",
+      "Prohibir el coche eléctrico"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Contempla incentivos fiscales y ayudas para el equipamiento de puestos remotos, y apuesta por el ferrocarril electrificado.",
+    "tip": "Aprovecha los centros de trabajo cercanos.",
+    "source": {
+      "doc": "pacma",
+      "page": 36,
+      "section": "2.1.3 Movilidad sostenible"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-medioambiente-006",
+    "doc": "pacma",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "Según la Comisión Europea citada por PACMA, ¿qué efecto tendría sustituir el 25% de productos de origen animal por vegetales?",
+    "options": [
+      "Reduciría un 50% el cambio climático",
+      "Reduciría un 15% el cambio climático y un 20% el agotamiento de la capa de ozono",
+      "No tendría efecto apreciable",
+      "Reduciría un 5% las emisiones"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Con una sustitución del 50%, la reducción se situaría entre el 30% y el 40%.",
+    "tip": "El efecto sobre la capa de ozono es mayor que sobre el clima.",
+    "source": {
+      "doc": "pacma",
+      "page": 37,
+      "section": "2.1.4 Disminución del consumo de alimentos de origen animal"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pacma-medioambiente-007",
+    "doc": "pacma",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué exigiría PACMA a los fabricantes para combatir la obsolescencia programada?",
+    "options": [
+      "Prohibir la venta de móviles",
+      "Reducir las garantías",
+      "Que solo reparen los servicios oficiales",
+      "Ampliar las garantías y permitir extraer y sustituir piezas con facilidad"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Quiere además que los usuarios puedan reparar en cualquier tienda, no solo en el servicio oficial.",
+    "tip": "Beneficia al sector de la reparación.",
+    "source": {
+      "doc": "pacma",
+      "page": 45,
+      "section": "2.8 Consumo responsable. Fin a la obsolescencia programada"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-medioambiente-008",
+    "doc": "pacma",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué propone PACMA para los terrenos afectados por incendios ligados a intereses cinegéticos?",
+    "options": [
+      "Prohibir la actividad cinegética durante 30 años",
+      "Cederlos a cotos privados",
+      "Permitir la caza controlada tras un año",
+      "Repoblarlos con especies exóticas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo plantea por analogía con la ley, que prohíbe cambiar el uso forestal durante 30 años en terrenos incendiados.",
+    "tip": "El plazo coincide con el del cambio de uso forestal.",
+    "source": {
+      "doc": "pacma",
+      "page": 50,
+      "section": "2.12 Preservación de bosques. Freno a la deforestación. Prevención de incendios"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pacma-cultura-005",
+    "doc": "pacma",
+    "topic": "cultura",
+    "type": "single",
+    "question": "Según PACMA, ¿para qué sirvió la Ley 18/2013 de la tauromaquia?",
+    "options": [
+      "Para financiar escuelas taurinas",
+      "Para impedir que las comunidades autónomas prohibieran las corridas de toros",
+      "Para regular los encierros populares",
+      "Para prohibir los toros en Cataluña"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa menciona los intentos de Cataluña y Baleares, que quisieron prohibirlas o regularlas sin herir ni matar al animal.",
+    "tip": "Afecta al poder de las comunidades autónomas.",
+    "source": {
+      "doc": "pacma",
+      "page": 12,
+      "section": "1.1.7 Abolición de los espectáculos, tradiciones y festejos con animales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-cultura-006",
+    "doc": "pacma",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿Qué dato destaca PACMA sobre los delfinarios en España?",
+    "options": [
+      "Solo tiene delfinarios públicos",
+      "No tiene ningún delfinario",
+      "Los ha prohibido desde 2020",
+      "Es el país europeo con más delfinarios y cetáceos en cautiverio"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "PACMA afirma que España ocupa el séptimo puesto mundial y propone impulsar santuarios para cetáceos en Europa.",
+    "tip": "El programa lo llama el delfinario de Europa.",
+    "source": {
+      "doc": "pacma",
+      "page": 11,
+      "section": "1.1.7 Abolición de los espectáculos, tradiciones y festejos con animales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-vivienda-003",
+    "doc": "pacma",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué porcentaje del parque residencial español es vivienda social, según PACMA?",
+    "options": [
+      "El 20%",
+      "El 3,4%",
+      "El 25%",
+      "El 9%"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La media europea ronda el 9%, con Países Bajos en el 34%, Austria en el 25% y Dinamarca en el 20%.",
+    "tip": "Es menos de la mitad de la media europea.",
+    "source": {
+      "doc": "pacma",
+      "page": 69,
+      "section": "3.5 Por una vivienda digna: mayor parque de vivienda social"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-economia-003",
+    "doc": "pacma",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿En torno a qué porcentaje del PIB cifra PACMA el fraude fiscal, citando al CES?",
+    "options": [
+      "El 15%",
+      "El 6%",
+      "El 1%",
+      "El 25%"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Eso supondría unos 95.000 millones al año. Propone controles más rigurosos, tecnología y cooperación internacional.",
+    "tip": "Son unos 95.000 millones de euros.",
+    "source": {
+      "doc": "pacma",
+      "page": 72,
+      "section": "3.8 Lucha contra el fraude fiscal"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-sanidad-003",
+    "doc": "pacma",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "Según los estudios citados por PACMA, ¿cuánto se ahorra por cada euro invertido en dietistas-nutricionistas?",
+    "options": [
+      "Diez euros",
+      "Un euro",
+      "Dos euros",
+      "Cuatro euros"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Por eso reclama más presencia de estos profesionales en la sanidad pública.",
+    "tip": "El ahorro es mayor que la inversión varias veces.",
+    "source": {
+      "doc": "pacma",
+      "page": 57,
+      "section": "3.2.4 Dietistas-nutricionistas en la sanidad pública"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pacma-educacion-002",
+    "doc": "pacma",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Qué licencia propone PACMA para los libros de texto autonómicos compartidos?",
+    "options": [
+      "Copyleft, de distribución y copia libre",
+      "Copyright exclusivo de cada editorial",
+      "Licencia solo para uso escolar",
+      "Licencia de pago por centro"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Plantea un proyecto de colaboración entre comunidades para elaborarlos y garantizar gratuidad y libre acceso.",
+    "tip": "Es la contraria al copyright clásico.",
+    "source": {
+      "doc": "pacma",
+      "page": 60,
+      "section": "3.3.1 Pacto de Estado por la Educación pública y de calidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-instituciones-003",
+    "doc": "pacma",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Cuántos escaños habría obtenido PACMA en 2019 con un sistema de circunscripción única, según el programa?",
+    "options": [
+      "Cuatro",
+      "Ninguno",
+      "Uno",
+      "Diez"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Con más de 326.000 votos no obtuvo representación, mientras cinco partidos con menos votos sí lo hicieron.",
+    "tip": "Más de uno y menos de cinco.",
+    "source": {
+      "doc": "pacma",
+      "page": 74,
+      "section": "3.9.2.2 Modificación de la Ley Electoral"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-igualdad-002",
+    "doc": "pacma",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Qué propone PACMA para los animales de mujeres víctimas de violencia machista?",
+    "options": [
+      "Mantenerlos con el agresor",
+      "Entregarlos a protectoras",
+      "Prohibir que los acompañen",
+      "Admitirlos en las casas de acogida y pisos tutelados"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "También propone el reconocimiento legal de la violencia vicaria ejercida sobre los animales.",
+    "tip": "Evita que la víctima tenga que separarse de ellos.",
+    "source": {
+      "doc": "pacma",
+      "page": 77,
+      "section": "3.10.1 Contra la violencia sobre la mujer"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-empleo-001",
+    "doc": "pacma",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué permisos retribuidos plantea PACMA en materia de conciliación?",
+    "options": [
+      "Solo por nacimiento de hijos",
+      "Por fallecimiento, accidente o enfermedad grave de familiares, incluidos los animales",
+      "Solo por mudanza",
+      "Un mes anual por cuidado de mascotas"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "También propone guarderías en los centros de trabajo para niños y para animales de compañía.",
+    "tip": "Incluye a los animales como parte de la familia.",
+    "source": {
+      "doc": "pacma",
+      "page": 65,
+      "section": "3.4.2 Por la conciliación personal, familiar y laboral"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-otros-018",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "multi",
+    "question": "Marca las prohibiciones que PACMA propone incluir en la ley de bienestar animal.",
+    "options": [
+      "Visitar refugios con escolares",
+      "Mantener a los animales atados, encerrados o enjaulados",
+      "Esterilizar colonias de gatos con el método CER",
+      "Utilizar animales como tracción de vehículos",
+      "Tener animales salvajes como animales de compañía"
+    ],
+    "answer": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "PACMA enumera estas prohibiciones, entre otras. El CER y las visitas a refugios son prácticas que apoya.",
+    "tip": "Piensa en usos de los animales como herramienta o mercancía.",
+    "source": {
+      "doc": "pacma",
+      "page": 21,
+      "section": "1.1.23 Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-otros-019",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "multi",
+    "question": "¿Qué cambios pide PACMA en el delito de maltrato animal?",
+    "options": [
+      "Suprimir la multa como alternativa a la prisión",
+      "Ampliar al máximo la inhabilitación para tener animales",
+      "Limitar el delito a animales de compañía",
+      "Sustituir la prisión por trabajos en beneficio de la comunidad",
+      "Elevar por encima de cinco años el tipo agravado"
+    ],
+    "answer": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "El programa critica que la reforma de 2023 introdujo la multa y los trabajos comunitarios como alternativas y que dejó fuera a ciertos invertebrados.",
+    "tip": "Todo va hacia penas más duras.",
+    "source": {
+      "doc": "pacma",
+      "page": 23,
+      "section": "1.2.1 Endurecimiento real y efectivo de las penas por maltrato animal"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-otros-020",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "multi",
+    "question": "Marca las medidas que PACMA propone sobre la caza.",
+    "options": [
+      "Hacer controles de alcoholemia y drogas a los cazadores",
+      "Mantener las bonificaciones fiscales a la actividad",
+      "Crear un registro nacional de accidentes cinegéticos",
+      "Ampliar la temporada de caza",
+      "Prohibir definitivamente los balines de plomo"
+    ],
+    "answer": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "Mientras no se consiga abolirla, plantea estas medidas, además de ampliar los perímetros de seguridad alrededor de los cotos.",
+    "tip": "Son medidas de seguridad y de control.",
+    "source": {
+      "doc": "pacma",
+      "page": 13,
+      "section": "1.1.8 Oposición a la caza"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-otros-021",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "multi",
+    "question": "Marca las medidas que PACMA incluye contra la experimentación animal.",
+    "options": [
+      "Agilizar la evaluación y validación de nuevos métodos sustitutivos",
+      "Ampliar los ensayos con grandes simios",
+      "Que la industria química y farmacéutica financie métodos sustitutivos",
+      "Apoyar a la Red Española para el Desarrollo de Métodos Alternativos",
+      "Reducir la financiación de la investigación sin animales"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "El programa pide también una estrategia nacional y más financiación para métodos sustitutivos.",
+    "tip": "Todas apuntan a sustituir a los animales por otros métodos.",
+    "source": {
+      "doc": "pacma",
+      "page": 30,
+      "section": "1.5 Fin a la experimentación en animales"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pacma-rural-011",
+    "doc": "pacma",
+    "topic": "rural",
+    "type": "multi",
+    "question": "Marca las prácticas de la ganadería que PACMA propone prohibir.",
+    "options": [
+      "El pastoreo extensivo",
+      "La venta directa de huevos en granjas pequeñas",
+      "Las amputaciones sin finalidad curativa",
+      "El sacrificio de pollitos por trituración",
+      "La alimentación forzosa para foie gras y su comercialización"
+    ],
+    "answer": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "Las tres figuran en su apartado sobre las prácticas más crueles de la industria ganadera.",
+    "tip": "Todas son prácticas de la industria intensiva.",
+    "source": {
+      "doc": "pacma",
+      "page": 25,
+      "section": "1.4 Cese a las prácticas más crueles de la industria ganadera"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-rural-012",
+    "doc": "pacma",
+    "topic": "rural",
+    "type": "multi",
+    "question": "Marca las medidas contra las macrogranjas que propone PACMA.",
+    "options": [
+      "Un impuesto climático a las explotaciones",
+      "Cesar las autorizaciones de nuevas explotaciones o ampliaciones",
+      "Más controles e inspecciones, estrictos y regulares",
+      "Subvenciones adicionales para modernizarlas",
+      "Una moratoria de solo un año"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa propone además limitar el tamaño, regular los purines y cesar las subvenciones.",
+    "tip": "Son medidas restrictivas del sector.",
+    "source": {
+      "doc": "pacma",
+      "page": 39,
+      "section": "2.2 NO a las macrogranjas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-rural-013",
+    "doc": "pacma",
+    "topic": "rural",
+    "type": "multi",
+    "question": "Marca las medidas agrícolas que PACMA defiende.",
+    "options": [
+      "Incentivar el consumo de producto local",
+      "Desincentivar los monocultivos",
+      "Eliminar los canales cooperativos de venta",
+      "Favorecer los grandes latifundios",
+      "Que comedores públicos se abastezcan de productos ecológicos locales"
+    ],
+    "answer": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "Pide una agricultura diversificada y agroecológica y favorece las explotaciones pequeñas frente a los grandes latifundios.",
+    "tip": "Su modelo es local y diversificado.",
+    "source": {
+      "doc": "pacma",
+      "page": 44,
+      "section": "2.7 En defensa de la agricultura ecológica"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-medioambiente-009",
+    "doc": "pacma",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "Marca las soluciones que PACMA propone para proteger a la fauna de las infraestructuras.",
+    "options": [
+      "Rampas de escape en las balsas de riego",
+      "Eliminar los pasos de fauna en carreteras",
+      "Señalizar y aislar los tendidos eléctricos",
+      "Sustituir aerogeneradores de vibración por de aspas",
+      "Pasos o escaleras para peces en construcciones hidráulicas"
+    ],
+    "answer": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "Para los aerogeneradores propone lo contrario: sustituir los de aspas por los de vibración.",
+    "tip": "Mira la lista de infraestructuras de la sección.",
+    "source": {
+      "doc": "pacma",
+      "page": 48,
+      "section": "2.11 Protección de la fauna silvestre frente al impacto de las infraestructuras humanas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pacma-medioambiente-010",
+    "doc": "pacma",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "Marca las medidas sobre pirotecnia e iluminación que propone PACMA.",
+    "options": [
+      "Prohibir los artificios pirotécnicos y sus simulaciones",
+      "Iluminar de arriba hacia abajo y apantallar los haces",
+      "Utilizar luz azul fría",
+      "Emplear preferentemente luz naranja o blanca cálida",
+      "Aumentar la iluminación nocturna en zonas rurales"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "Quiere una norma nacional que regule la contaminación lumínica.",
+    "tip": "Se trata de menos luz y más cálida.",
+    "source": {
+      "doc": "pacma",
+      "page": 53,
+      "section": "2.15 Protección frente a la contaminación acústica y lumínica"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-cultura-007",
+    "doc": "pacma",
+    "topic": "cultura",
+    "type": "multi",
+    "question": "Marca las medidas que PACMA plantea sobre los espectáculos taurinos.",
+    "options": [
+      "Declararlos Bien de Interés Cultural",
+      "Derogar la Ley 18/2013",
+      "Retirar toda subvención pública",
+      "Permitir que los menores asistan gratis",
+      "Prohibir su retransmisión por televisión y radio"
+    ],
+    "answer": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "Son medidas que exige mientras no se logre la prohibición real de todos los espectáculos con animales.",
+    "tip": "Todas retiran apoyo público.",
+    "source": {
+      "doc": "pacma",
+      "page": 12,
+      "section": "1.1.7 Abolición de los espectáculos, tradiciones y festejos con animales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-vivienda-004",
+    "doc": "pacma",
+    "topic": "vivienda",
+    "type": "multi",
+    "question": "Marca las medidas de vivienda que propone PACMA.",
+    "options": [
+      "Topar por ley los precios del alquiler en toda España",
+      "Recargos fiscales a la compra por fondos de inversión y no residentes",
+      "Registro obligatorio para el alquiler por habitaciones y de temporada",
+      "Reducir a la mitad el parque de vivienda pública",
+      "Restringir licencias de pisos turísticos en cascos históricos y barrios tensionados"
+    ],
+    "answer": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "Además propone construcción masiva de vivienda pública y acuerdos con entidades financieras.",
+    "tip": "Hay medidas fiscales y de control.",
+    "source": {
+      "doc": "pacma",
+      "page": 70,
+      "section": "3.5 Por una vivienda digna: mayor parque de vivienda social"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-educacion-003",
+    "doc": "pacma",
+    "topic": "educacion",
+    "type": "multi",
+    "question": "Marca las medidas educativas que propone PACMA.",
+    "options": [
+      "Plazas públicas suficientes de 0 a 3 años",
+      "Eliminar los libros de texto gratuitos",
+      "Reducir la ratio de alumnos por profesor",
+      "Ampliar los conciertos con la enseñanza privada",
+      "Aumentar los fondos para becas"
+    ],
+    "answer": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "Propone, al contrario, revisar los criterios de concertación para evitar la segregación.",
+    "tip": "Todas buscan más recursos públicos.",
+    "source": {
+      "doc": "pacma",
+      "page": 60,
+      "section": "3.3.1 Pacto de Estado por la Educación pública y de calidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-sanidad-004",
+    "doc": "pacma",
+    "topic": "sanidad",
+    "type": "multi",
+    "question": "Marca las medidas sanitarias de PACMA.",
+    "options": [
+      "Números gratuitos de información sanitaria",
+      "Introducir copago en especialidades",
+      "Reintegrar a la sanidad pública los servicios privatizados",
+      "Reducir la atención primaria",
+      "Planes de atención sanitaria domiciliaria"
+    ],
+    "answer": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "Figuran en su lista de medidas para una sanidad pública, universal y de calidad.",
+    "tip": "Buscan reforzar lo público.",
+    "source": {
+      "doc": "pacma",
+      "page": 56,
+      "section": "3.2.1 Por una sanidad pública, universal y de calidad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-instituciones-004",
+    "doc": "pacma",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "Marca las medidas de reforma electoral que propone PACMA.",
+    "options": [
+      "Circunscripción única sin barrera electoral",
+      "Suprimir las firmas para avalar candidaturas sin representación",
+      "Subvención solo a los partidos con representación",
+      "Mismo tiempo en medios públicos para los vídeos electorales",
+      "Subir la barrera electoral al 5%"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "Propone también repartir la subvención según los votos obtenidos, haya o no representación.",
+    "tip": "Todas las medidas igualan oportunidades.",
+    "source": {
+      "doc": "pacma",
+      "page": 74,
+      "section": "3.9.2.2 Modificación de la Ley Electoral"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-igualdad-003",
+    "doc": "pacma",
+    "topic": "igualdad",
+    "type": "multi",
+    "question": "Marca las medidas contra la violencia machista que propone PACMA.",
+    "options": [
+      "Limitar las ayudas a las rentas activas de inserción",
+      "Admisión de animales en casas de acogida",
+      "Eliminar los equipos especializados en menores víctimas",
+      "Reconocimiento legal de la violencia vicaria sobre animales",
+      "Unidades policiales especializadas 24 horas"
+    ],
+    "answer": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "Critica, en cambio, que las ayudas se tramiten solo a través de rentas activas de inserción en casos muy graves.",
+    "tip": "Todas amplían la protección.",
+    "source": {
+      "doc": "pacma",
+      "page": 77,
+      "section": "3.10.1 Contra la violencia sobre la mujer"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-otros-022",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "which_party",
+    "question": "¿Qué partido propone prohibir la compraventa de animales de compañía, de modo que solo puedan adoptarse?",
+    "options": [
+      "pp",
+      "pacma",
+      "vox",
+      "cc"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "PACMA pide prohibir su comercio y exhibición con fines comerciales.",
+    "tip": "Su medida estrella contra el abandono.",
+    "source": {
+      "doc": "pacma",
+      "page": 8,
+      "section": "1.1.2 Prohibición de compraventa de animales como compañía"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-economia-004",
+    "doc": "pacma",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone un impuesto climático sobre los productos de origen animal según sus emisiones?",
+    "options": [
+      "vox",
+      "pp",
+      "cc",
+      "pacma"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "PACMA lo propone para desincentivar el consumo y compensar el daño climático.",
+    "tip": "Grava los alimentos según su huella de emisiones.",
+    "source": {
+      "doc": "pacma",
+      "page": 37,
+      "section": "2.1.4 Disminución del consumo de alimentos de origen animal"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-instituciones-005",
+    "doc": "pacma",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido defiende un sistema electoral de circunscripción única, sin barrera electoral?",
+    "options": [
+      "pp",
+      "salf",
+      "pacma"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "PACMA sostiene que con ese sistema habría obtenido cuatro escaños en 2019.",
+    "tip": "La propone el partido que no logró escaños con más de 326.000 votos.",
+    "source": {
+      "doc": "pacma",
+      "page": 74,
+      "section": "3.9.2.2 Modificación de la Ley Electoral"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-medioambiente-011",
+    "doc": "pacma",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone prohibir los artificios pirotécnicos y sus simulaciones?",
+    "options": [
+      "vox",
+      "pacma",
+      "pp"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "PACMA lo justifica por el daño a personas sensibles, animales y fauna silvestre y por el riesgo de incendios.",
+    "tip": "Defiende además regular la contaminación acústica y lumínica.",
+    "source": {
+      "doc": "pacma",
+      "page": 52,
+      "section": "2.15 Protección frente a la contaminación acústica y lumínica"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-rural-014",
+    "doc": "pacma",
+    "topic": "rural",
+    "type": "which_party",
+    "question": "¿Qué partido propone prohibir las exportaciones de animales vivos para reproducción, engorde o sacrificio?",
+    "options": [
+      "pacma",
+      "pp",
+      "vox"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "PACMA también pide eliminar las ayudas a los ganaderos por esas exportaciones.",
+    "tip": "Cita el caso de dos barcos con 2.671 animales.",
+    "source": {
+      "doc": "pacma",
+      "page": 29,
+      "section": "1.4.8 Límites al transporte de animales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-medioambiente-012",
+    "doc": "pacma",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone prohibir la caza deportiva para recuperar la biodiversidad y prevenir incendios?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "pacma"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "PACMA afirma que prohibirla recuperaría poblaciones de herbívoros que reducen el combustible forestal.",
+    "tip": "Es el partido que dice ser el único opuesto a la caza.",
+    "source": {
+      "doc": "pacma",
+      "page": 50,
+      "section": "2.12 Preservación de bosques. Freno a la deforestación. Prevención de incendios"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-rural-015",
+    "doc": "pacma",
+    "topic": "rural",
+    "type": "which_party",
+    "question": "¿Qué partido propone una norma nacional que prohíba producir e importar pulpos criados en cautividad?",
+    "options": [
+      "cc",
+      "pacma",
+      "pnv"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "PACMA lo plantea tras el proyecto de Nueva Pescanova, que acabó desistiendo.",
+    "tip": "Habla de animales inteligentes y solitarios.",
+    "source": {
+      "doc": "pacma",
+      "page": 42,
+      "section": "2.5 Veto a las granjas de pulpos. Protección para los crustáceos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pacma-sanidad-005",
+    "doc": "pacma",
+    "topic": "sanidad",
+    "type": "which_party",
+    "question": "¿Qué partido propone permitir el acceso de animales de compañía a los hospitales mediante una sala de visitas?",
+    "options": [
+      "pp",
+      "vox",
+      "pacma"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone un plan conjunto del Consejo Interterritorial y las comunidades con protocolos de higiene.",
+    "tip": "Se orienta a la recuperación anímica de los pacientes.",
+    "source": {
+      "doc": "pacma",
+      "page": 19,
+      "section": "1.1.21 Acceso a hospitales"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pacma-pensiones-002",
+    "doc": "pacma",
+    "topic": "pensiones",
+    "type": "which_party",
+    "question": "¿Qué partido propone economatos sociales con precios bonificados según la renta?",
+    "options": [
+      "vox",
+      "pacma",
+      "pp"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Está dentro de su Estrategia Nacional de Seguridad Alimentaria y Nutrición.",
+    "tip": "Es una medida para garantizar el derecho a la alimentación.",
+    "source": {
+      "doc": "pacma",
+      "page": 54,
+      "section": "3.1 Acceso a bienes y suministros básicos: alimentación, agua y energía"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pacma-otros-023",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "which_party",
+    "question": "¿Qué partido propone una Estrategia nacional para el fin de la experimentación en animales?",
+    "options": [
+      "pp",
+      "vox",
+      "pacma"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "PACMA incluye más financiación para métodos sustitutivos y que la industria farmacéutica colabore.",
+    "tip": "Se opone firmemente a la experimentación con animales.",
+    "source": {
+      "doc": "pacma",
+      "page": 29,
+      "section": "1.5 Fin a la experimentación en animales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-otros-024",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "which_party",
+    "question": "¿Qué partido propone crear una Dirección General de Bienestar y Protección de los Animales dependiente de Medio Ambiente?",
+    "options": [
+      "pacma",
+      "pp",
+      "vox"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Sustituiría a la Dirección General de Derechos de los Animales, hoy adscrita a Derechos Sociales.",
+    "tip": "Cambia el ministerio de adscripción.",
+    "source": {
+      "doc": "pacma",
+      "page": 16,
+      "section": "1.1.10 Creación de una Dirección General de Bienestar y Protección de los Animales"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pacma-vivienda-005",
+    "doc": "pacma",
+    "topic": "vivienda",
+    "type": "which_party",
+    "question": "¿Qué partido propone declarar nulas las cláusulas de los alquileres que prohíben tener animales de compañía?",
+    "options": [
+      "vox",
+      "pp",
+      "pacma",
+      "cc"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Lo plantea con una reforma de la Ley de Arrendamientos Urbanos.",
+    "tip": "Habla de las familias interespecie.",
+    "source": {
+      "doc": "pacma",
+      "page": 70,
+      "section": "3.5 Por una vivienda digna: mayor parque de vivienda social"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-medioambiente-013",
+    "doc": "pacma",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone una legislación contra la obsolescencia programada con más garantías y piezas sustituibles?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "pacma"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Quiere también sistemas de retorno de envases y fomento de productos duraderos y reparables.",
+    "tip": "Afecta a móviles, tabletas e impresoras.",
+    "source": {
+      "doc": "pacma",
+      "page": 45,
+      "section": "2.8 Consumo responsable. Fin a la obsolescencia programada"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pacma-medioambiente-014",
+    "doc": "pacma",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone prohibir el glifosato y fomentar la producción orgánica?",
+    "options": [
+      "pp",
+      "pacma",
+      "vox"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Argumenta que sus residuos llegan a ríos, acuíferos y cultivos.",
+    "tip": "El herbicida fue declarado probablemente cancerígeno por la OMS.",
+    "source": {
+      "doc": "pacma",
+      "page": 43,
+      "section": "2.6 Restricción a los productos químicos. Prohibición del glifosato"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-rural-016",
+    "doc": "pacma",
+    "topic": "rural",
+    "type": "which_party",
+    "question": "¿Qué partido propone prohibir la alimentación forzosa de aves y la comercialización de foie gras?",
+    "options": [
+      "vox",
+      "pacma",
+      "pp",
+      "cc"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "PACMA recuerda que dieciocho países europeos ya la han prohibido y que España es uno de cinco que la permite.",
+    "tip": "Se produce con hígados de patos y gansos.",
+    "source": {
+      "doc": "pacma",
+      "page": 25,
+      "section": "1.4.3 Fin a la alimentación forzosa y comercialización de foie gras"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-cultura-008",
+    "doc": "pacma",
+    "topic": "cultura",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de PACMA?",
+    "options": [
+      "Derogar la Ley 18/2013 de la tauromaquia",
+      "Retirar la declaración de Fiesta de Interés Turístico a eventos con animales",
+      "Prohibir la asistencia de menores a espectáculos taurinos",
+      "Mantener la subvención pública a los festejos taurinos"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "PACMA pide retirar toda subvención pública, directa o indirecta, a los espectáculos con animales.",
+    "tip": "Una de las opciones va contra su postura sobre los toros.",
+    "source": {
+      "doc": "pacma",
+      "page": 12,
+      "section": "1.1.7 Abolición de los espectáculos, tradiciones y festejos con animales"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-rural-017",
+    "doc": "pacma",
+    "topic": "rural",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO propone PACMA?",
+    "options": [
+      "Subvenciones nuevas para ampliar explotaciones porcinas",
+      "Prohibir la exportación de animales vivos",
+      "Un impuesto climático a las explotaciones ganaderas",
+      "Cese de autorizaciones de nuevas macrogranjas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "PACMA propone cesar las subvenciones al sector y frenar la ampliación de explotaciones.",
+    "tip": "Una opción contradice su rechazo a las macrogranjas.",
+    "source": {
+      "doc": "pacma",
+      "page": 39,
+      "section": "2.2 NO a las macrogranjas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-medioambiente-015",
+    "doc": "pacma",
+    "topic": "medioambiente",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO figura en el programa de PACMA?",
+    "options": [
+      "Prohibir el glifosato",
+      "Prohibir los artificios pirotécnicos",
+      "Apostar por la energía nuclear como base del modelo energético",
+      "Ampliar las zonas protegidas hasta el 30% para 2030"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "PACMA considera insostenible un modelo basado en combustibles fósiles y energía nuclear y apuesta por las renovables.",
+    "tip": "Su modelo energético es renovable.",
+    "source": {
+      "doc": "pacma",
+      "page": 34,
+      "section": "2.1.1 Modelo energético sostenible y minoración en el consumo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-instituciones-006",
+    "doc": "pacma",
+    "topic": "instituciones",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de PACMA?",
+    "options": [
+      "Toma en consideración obligatoria de las ILP por el Congreso",
+      "Eliminar los aforamientos",
+      "Aumentar el número de firmas necesarias para una ILP",
+      "Reducir el número de firmas de una ILP"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "PACMA propone reducir las firmas necesarias, ampliar el plazo y no excluir materias.",
+    "tip": "Quiere facilitar la participación directa.",
+    "source": {
+      "doc": "pacma",
+      "page": 74,
+      "section": "3.9.2.1 Reforma de la Ley de Iniciativa Legislativa Popular"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-sanidad-006",
+    "doc": "pacma",
+    "topic": "sanidad",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO figura en el programa de PACMA?",
+    "options": [
+      "Más dietistas-nutricionistas en la sanidad pública",
+      "Introducir copago para consultas de especialistas",
+      "Atención bucodental básica gratuita",
+      "Reintegrar al sistema público los servicios privatizados"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "PACMA se opone al copago.",
+    "tip": "Hay una opción contraria a su defensa de una sanidad sin costes adicionales.",
+    "source": {
+      "doc": "pacma",
+      "page": 56,
+      "section": "3.2.2 Oposición al copago"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pacma-otros-025",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas sobre animales NO figura en el programa de PACMA?",
+    "options": [
+      "Divulgar los resultados de los experimentos",
+      "Una Ley de Grandes Simios que prohíba su cautividad y tráfico",
+      "Ampliar la experimentación con grandes simios",
+      "Una estrategia nacional para el fin de la experimentación animal"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "PACMA apoya una Ley de Grandes Simios que proscriba su maltrato, cautividad, tráfico y comercialización.",
+    "tip": "Los grandes simios aparecen en su sección de protección.",
+    "source": {
+      "doc": "pacma",
+      "page": 30,
+      "section": "1.6 Ley de Grandes Simios"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-otros-026",
+    "doc": "pacma",
+    "topic": "otros",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de PACMA?",
+    "options": [
+      "Incluir a los perros de caza en la ley de protección animal",
+      "Declarar la montería con rehala Bien de Interés Cultural",
+      "Crear un registro nacional de accidentes de caza",
+      "Prohibir la caza del lobo y del zorro"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "PACMA critica que se haya impulsado declarar la montería con rehala y la cetrería Bien de Interés Cultural.",
+    "tip": "Una opción respalda la actividad cinegética.",
+    "source": {
+      "doc": "pacma",
+      "page": 12,
+      "section": "1.1.8 Oposición a la caza"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-vivienda-006",
+    "doc": "pacma",
+    "topic": "vivienda",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas de vivienda NO propone PACMA?",
+    "options": [
+      "Registro obligatorio del alquiler por habitaciones y de temporada",
+      "Recargos fiscales a la compra por fondos de inversión y no residentes",
+      "Prohibir totalmente la compra de viviendas a no residentes",
+      "Construcción masiva de vivienda pública"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone recargos fiscales a no residentes, no una prohibición total.",
+    "tip": "Habla de gravar, no de vetar.",
+    "source": {
+      "doc": "pacma",
+      "page": 70,
+      "section": "3.5 Por una vivienda digna: mayor parque de vivienda social"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pacma-igualdad-004",
+    "doc": "pacma",
+    "topic": "igualdad",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO figura en el programa de PACMA?",
+    "options": [
+      "Un Pacto de Estado por la Igualdad en el Empleo",
+      "Mantener las listas cremallera obligatorias en las candidaturas",
+      "Más contenidos sobre diversidad sexual y de género en la educación",
+      "Reconocimiento legal de la violencia vicaria sobre animales"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "PACMA propone sustituir las listas paritarias por candidaturas equilibradas en las que las mujeres sean al menos la mitad.",
+    "tip": "Critica la fórmula de las listas cremallera.",
+    "source": {
+      "doc": "pacma",
+      "page": 75,
+      "section": "3.9.2.2 Modificación de la Ley Electoral"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pacma-economia-005",
+    "doc": "pacma",
+    "topic": "economia",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO figura en el programa de PACMA?",
+    "options": [
+      "Un impuesto climático sobre productos de origen animal",
+      "IVA del 4% o exención para servicios veterinarios",
+      "Aumentar el IVA de los alimentos vegetales",
+      "Créditos a interés cero para autónomos y pymes con fines sociales y ambientales"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone un IVA menor a los productos vegetales y mayor a los equivalentes de origen animal.",
+    "tip": "Va contra su fomento de la dieta vegetal.",
+    "source": {
+      "doc": "pacma",
+      "page": 38,
+      "section": "2.1.4 Disminución del consumo de alimentos de origen animal"
+    },
+    "difficulty": 2
+  }
+]

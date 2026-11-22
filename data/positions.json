@@ -48,6 +48,26 @@
     "v": 2,
     "page": 3,
     "note": "Propone control de precios del alquiler para impedir subidas abusivas."
+   },
+   "bng": {
+    "v": 2,
+    "page": 12,
+    "note": "Topar por lei os prezos dos alugueiros."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 69,
+    "note": "Propone que el Estado pueda regular los precios del alquiler frente a las tensiones, sin fijar un tope concreto."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 11,
+    "note": "Bajada inmediata de los alquileres del 50 % y precios máximos ligados a los salarios medios de la zona."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 8,
+    "note": "Propone un alquiler de referencia y limitar el precio según características y localización."
    }
   }
  },
@@ -147,6 +167,31 @@
     "v": 2,
     "page": 3,
     "note": "Crear un gran parque de alquiler público con cesión obligatoria de viviendas vacías de grandes tenedores."
+   },
+   "bng": {
+    "v": 2,
+    "page": 12,
+    "note": "Destinar el 3 % de los Presupuestos del Estado a un parque público de alquiler permanente."
+   },
+   "pacma": {
+    "v": 2,
+    "page": 69,
+    "note": "Propone construir masivamente vivienda pública para compra y alquiler social."
+   },
+   "pcte": {
+    "v": 1,
+    "page": 12,
+    "note": "Gran parque público de alquiler hasta el 10 % de las viviendas; no dice quién lo gestiona."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 5,
+    "note": "Propone un gran parque público de vivienda asequible en alquiler con control público o social."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 45,
+    "note": "Propone construir vivienda pública de calidad y asequible, sin detallar un parque estatal de alquiler."
    }
   }
  },
@@ -204,6 +249,26 @@
     "v": -1,
     "page": 3,
     "note": "Prohíbe la desokupación extrajudicial y exige realojo antes de desahuciar a familias vulnerables."
+   },
+   "bng": {
+    "v": -1,
+    "page": 12,
+    "note": "Suspensión de lanzamientos sin alternativa habitacional; no menciona la okupación."
+   },
+   "pcte": {
+    "v": -1,
+    "page": 11,
+    "note": "Prohíbe desahucios de hogares trabajadores sea cual sea la situación de quien habita; no menciona la okupación."
+   },
+   "mmj": {
+    "v": -1,
+    "page": 11,
+    "note": "Propone suspender desahucios de familias vulnerables; no menciona la okupación."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 46,
+    "note": "Propone actuar contra la ocupación de viviendas, sin detallar desalojos rápidos ni penas."
    }
   }
  },
@@ -276,6 +341,31 @@
     "v": 2,
     "page": 4,
     "note": "Expropiar a fondos buitre, acabar con las SOCIMI y limitar la compra por extranjeros no residentes."
+   },
+   "bng": {
+    "v": 2,
+    "page": 13,
+    "note": "Recargos en el Impuesto de Sociedades a fondos y SOCIMIs que incumplan la función social de la vivienda."
+   },
+   "pacma": {
+    "v": 2,
+    "page": 70,
+    "note": "Propone recargos fiscales a la compra de vivienda por fondos de inversión y no residentes."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 12,
+    "note": "Expropiación sin indemnización de viviendas vacías de bancos, fondos y grandes tenedores."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 10,
+    "note": "Propone impuestos crecientes por compras repetidas y régimen especial para personas extranjeras."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 46,
+    "note": "Propone luchar contra la especulación de fondos buitre y grandes rentistas, sin limitar compras expresamente."
    }
   }
  },
@@ -333,6 +423,11 @@
     "v": 1,
     "page": 4,
     "note": "Ayudas a la compra de primera vivienda, incluida hipoteca al 0% hasta 100.000 euros."
+   },
+   "pacma": {
+    "v": 2,
+    "page": 70,
+    "note": "Propone reducir temporalmente ITP e IVA para la primera vivienda y avales o seguros públicos."
    }
   }
  },
@@ -405,6 +500,31 @@
     "v": 1,
     "page": 4,
     "note": "Regular y ordenar la vivienda vacacional en zonas residenciales; además moratoria de camas turísticas."
+   },
+   "bng": {
+    "v": 2,
+    "page": 12,
+    "note": "Mecanismos eficaces para frenar el uso turístico y de temporada de la vivienda habitual."
+   },
+   "pacma": {
+    "v": 2,
+    "page": 70,
+    "note": "Propone restringir las licencias de pisos turísticos en cascos históricos y barrios tensionados."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 11,
+    "note": "Limitar la vivienda turística al 0,5 % de las viviendas de cada localidad."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 10,
+    "note": "Propone limitar con fiscalidad extraordinaria la acumulación de vivienda, especialmente la turística."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 46,
+    "note": "Propone aplicar medidas que frenen el auge de los pisos turísticos."
    }
   }
  },
@@ -452,6 +572,26 @@
     "v": 2,
     "page": 7,
     "note": "Subir el SMI progresivamente hasta 1.800 euros en doce pagas."
+   },
+   "bng": {
+    "v": 2,
+    "page": 15,
+    "note": "Salario Mínimo Interprofesional hasta el 60 % del salario medio."
+   },
+   "pcte": {
+    "v": 1,
+    "page": 7,
+    "note": "No fija un SMI concreto; propone salarios por encima de los precios y subidas lineales iguales para todos."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 31,
+    "note": "Propone mantener el SMI en al menos el 60 % del salario medio hasta 2030."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 9,
+    "note": "Propone un aumento general de salarios ligado al coste de la vida, sin mencionar el SMI."
    }
   }
  },
@@ -499,6 +639,26 @@
     "v": 2,
     "page": 7,
     "note": "Regular la jornada de 37,5 horas y avanzar hacia las 34 horas semanales."
+   },
+   "bng": {
+    "v": 2,
+    "page": 15,
+    "note": "Jornada de 35 horas semanales sin reducción salarial, con horizonte de 32 horas."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 7,
+    "note": "Jornada de 35 horas ya, sin reducción salarial, con horizonte de 30 horas."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 29,
+    "note": "Propone reducir la jornada a 35 horas semanales sin reducción salarial."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 35,
+    "note": "Solo menciona reducción de jornada para conciliar el cuidado de los hijos, no una jornada máxima general."
    }
   }
  },
@@ -541,6 +701,21 @@
     "v": 2,
     "page": 6,
     "note": "Indemnización por despido improcedente de al menos 45 días y salarios de tramitación."
+   },
+   "bng": {
+    "v": 2,
+    "page": 15,
+    "note": "Restituir 45 días de indemnización, máximo de 42 mensualidades y autorización administrativa en despidos colectivos."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 8,
+    "note": "Prohíbe despidos colectivos en empresas con beneficios; indemnizaciones que disuadan de despedir y readmisión obligatoria."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 9,
+    "note": "Propone derogar las reformas que facilitan el despido libre y barato."
    }
   }
  },
@@ -603,6 +778,26 @@
     "v": 1,
     "page": 13,
     "note": "Tarifa plana de 88 euros mensuales para autónomos con menores rendimientos."
+   },
+   "bng": {
+    "v": -2,
+    "page": 19,
+    "note": "Propone revisar y reducir las bonificaciones y descuentos en las cotizaciones empresariales."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 68,
+    "note": "Propone créditos a interés cero y bonificaciones fiscales para autónomos y emprendedores, no rebajar cuotas."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 32,
+    "note": "Propone tramos más baratos para autónomos con ingresos bajos; no rebaja cotizaciones generales."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 9,
+    "note": "Propone cuotas más reducidas para los autónomos y eliminar la cuota de quienes no llegan al SMI."
    }
   }
  },
@@ -630,6 +825,16 @@
     "v": 2,
     "page": 9,
     "note": "Propone transferir un Marco Canario de Relaciones Laborales con salario mínimo propio."
+   },
+   "bng": {
+    "v": 2,
+    "page": 16,
+    "note": "Marco galego de relaciones laborales y descentralización del SMI para Galicia."
+   },
+   "frenteobrero": {
+    "v": -1,
+    "page": 56,
+    "note": "Propone las mismas competencias para todas las comunidades, lo que va contra marcos laborales propios."
    }
   }
  },
@@ -682,6 +887,16 @@
     "v": 0,
     "page": 12,
     "note": "Deflactar el IRPF hasta 65.000 euros y deducciones por inflación, pero más progresividad por arriba."
+   },
+   "bng": {
+    "v": 0,
+    "page": 43,
+    "note": "Más progresividad en el IRPF: menos tributación del trabajo y más para rentas del capital y altas."
+   },
+   "frenteobrero": {
+    "v": 0,
+    "page": 18,
+    "note": "Propone bajar el IRPF a los trabajadores con menos recursos y subirlo a las rentas altas."
    }
   }
  },
@@ -729,6 +944,21 @@
     "v": 2,
     "page": 12,
     "note": "Mantener de forma permanente un impuesto a las grandes fortunas, reforzando su progresividad."
+   },
+   "bng": {
+    "v": 2,
+    "page": 44,
+    "note": "Blindar y aumentar los impuestos sobre grandes fortunas, reduciendo los límites de exención."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 27,
+    "note": "Propone un gravamen mínimo del 3 % sobre patrimonios netos superiores a 50 millones."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 19,
+    "note": "Propone subir el impuesto de patrimonio y suprimir bonificaciones que benefician a los más ricos."
    }
   }
  },
@@ -786,6 +1016,26 @@
     "v": 2,
     "page": 12,
     "note": "Mantener impuestos extraordinarios a la banca y reintroducirlo a las energéticas; más aportación de grandes empresas."
+   },
+   "bng": {
+    "v": 2,
+    "page": 44,
+    "note": "Blindar los impuestos específicos a la banca y a las grandes energéticas, con más progresividad."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 72,
+    "note": "Propone combatir el fraude fiscal de grandes fortunas y empresas para aumentar ingresos."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 27,
+    "note": "Propone tributar más los beneficios extraordinarios y revisar las deducciones de grandes empresas."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 19,
+    "note": "Propone aumentar el impuesto de sociedades a las grandes empresas y perseguir a las que tributan fuera."
    }
   }
  },
@@ -818,6 +1068,21 @@
     "v": -2,
     "page": 14,
     "note": "Rechaza volver a la austeridad, privatizaciones y recortes en servicios públicos."
+   },
+   "bng": {
+    "v": 0,
+    "page": 42,
+    "note": "Adelgazar la administración del Estado en Galicia, pero reforzar los servicios públicos y el gasto social."
+   },
+   "pcte": {
+    "v": -1,
+    "page": 13,
+    "note": "Propone plantillas públicas suficientes y reducir el gasto militar; no propone recortar el gasto público."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 56,
+    "note": "Propone rebajar el número de cargos políticos y administrativos y eliminar puestos duplicados o improductivos."
    }
   }
  },
@@ -855,6 +1120,26 @@
     "v": 2,
     "page": 14,
     "note": "Crear una Empresa pública de Energía y apostar por la gestión pública de recursos estratégicos."
+   },
+   "bng": {
+    "v": 2,
+    "page": 46,
+    "note": "Corporación Industrial Pública Galega y transferencia de participaciones estatales a la Xunta."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 10,
+    "note": "Propiedad estatal bajo control obrero de energía, transporte y telecomunicaciones."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 59,
+    "note": "Propone un fondo público que participe en generación renovable; no propone banca pública."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 13,
+    "note": "Propone la nacionalización de los sectores estratégicos de la economía."
    }
   }
  },
@@ -877,6 +1162,11 @@
     "v": -1,
     "page": 12,
     "note": "Critica que comunidades hayan eliminado Sucesiones y Donaciones y el impuesto de patrimonio."
+   },
+   "frenteobrero": {
+    "v": 0,
+    "page": 19,
+    "note": "Propone eliminar el impuesto de sucesiones para rentas bajas, pero suprimir bonificaciones de los más ricos."
    }
   }
  },
@@ -934,6 +1224,21 @@
     "v": 2,
     "page": 6,
     "note": "Actualización por ley de las pensiones al IPC de forma inmediata."
+   },
+   "bng": {
+    "v": 2,
+    "page": 18,
+    "note": "Revalorización anual de las pensiones conforme al IPC real."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 14,
+    "note": "Revalorización automática de las pensiones con el IPC real."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 24,
+    "note": "Propone reconocer en la Constitución pensiones que nunca pierdan poder adquisitivo; no cita el IPC."
    }
   }
  },
@@ -981,6 +1286,26 @@
     "v": 2,
     "page": 6,
     "note": "Incrementar las pensiones mínimas y las no contributivas."
+   },
+   "bng": {
+    "v": 2,
+    "page": 18,
+    "note": "Pensiones mínimas situadas como mínimo en el nivel del salario mínimo."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 14,
+    "note": "Ninguna pensión por debajo del salario mínimo."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 24,
+    "note": "Propone elevar progresivamente las pensiones mínimas y no contributivas hasta una vida digna."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 49,
+    "note": "Propone incrementar las pensiones no contributivas y mínimas."
    }
   }
  },
@@ -1043,6 +1368,21 @@
     "v": 2,
     "page": 6,
     "note": "Jubilación antes de los 65 sin penalización en sectores duros y precarios."
+   },
+   "bng": {
+    "v": 2,
+    "page": 19,
+    "note": "Jubilación voluntaria sin penalización a partir de 35 años cotizados."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 7,
+    "note": "Jubilación ordinaria a los 60 años sin penalización y a los 55 en trabajos penosos."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 48,
+    "note": "Propone revertir el aumento de la edad de jubilación y fijar una edad de retiro adecuada a cada puesto."
    }
   }
  },
@@ -1095,6 +1435,26 @@
     "v": 2,
     "page": 13,
     "note": "Ampliar y simplificar el IMV, transferirlo y hacer la ayuda a la crianza compatible con él."
+   },
+   "bng": {
+    "v": 2,
+    "page": 21,
+    "note": "Reclamar la transferencia del IMV y crear una Renda Galega no inferior al SMI."
+   },
+   "pcte": {
+    "v": 1,
+    "page": 14,
+    "note": "No menciona el IMV; propone que la prestación por desempleo nunca sea inferior al salario mínimo."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 29,
+    "note": "Propone ampliar el Ingreso Mínimo Vital y avanzar hacia una renta básica."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 34,
+    "note": "Propone ayudas económicas a familias numerosas; no menciona el Ingreso Mínimo Vital."
    }
   }
  },
@@ -1132,6 +1492,31 @@
     "v": 1,
     "page": 31,
     "note": "Favorece extender la previsión social de empleo por negociación colectiva, como complemento y no sustituto de las pensiones públicas."
+   },
+   "bng": {
+    "v": -2,
+    "page": 19,
+    "note": "Derogar las normas que fomentan los planes de pensiones privados de empleo."
+   },
+   "pacma": {
+    "v": -1,
+    "page": 80,
+    "note": "Propone blindar un sistema público de pensiones que no se privatice."
+   },
+   "pcte": {
+    "v": -2,
+    "page": 14,
+    "note": "Propone acabar con los incentivos fiscales a los planes privados y de empleo."
+   },
+   "mmj": {
+    "v": -2,
+    "page": 24,
+    "note": "Propone prohibir la privatización de las pensiones públicas; no propone planes privados complementarios."
+   },
+   "frenteobrero": {
+    "v": -1,
+    "page": 48,
+    "note": "Critica que los planes privados de pensiones aprovechen el ahorro de los trabajadores."
    }
   }
  },
@@ -1189,6 +1574,31 @@
     "v": 2,
     "page": 5,
     "note": "Revertir privatizaciones y externalizaciones y derogar la Ley 15/1997."
+   },
+   "bng": {
+    "v": 2,
+    "page": 37,
+    "note": "Garantizar el carácter público de la sanidad y reducir su privatización, modificando la Ley 15/1997."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 56,
+    "note": "Propone reintegrar al sistema público los servicios privatizados; no menciona reducir conciertos."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 13,
+    "note": "Recuperación de servicios privatizados y prohibición de nuevos conciertos en sanidad."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 38,
+    "note": "Propone frenar la privatización, recuperar servicios externalizados y priorizar la gestión pública."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 42,
+    "note": "Propone acabar con la externalización y privatización de la sanidad."
    }
   }
  },
@@ -1231,6 +1641,26 @@
     "v": 2,
     "page": 6,
     "note": "La sanidad pública cubrirá salud dental, visual y auditiva."
+   },
+   "bng": {
+    "v": 2,
+    "page": 37,
+    "note": "Ampliar la cartera pública con la asistencia odontológica."
+   },
+   "pacma": {
+    "v": 2,
+    "page": 59,
+    "note": "Propone una atención bucodental gratuita y básica para todas las personas."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 13,
+    "note": "Refuerzo de la sanidad pública que incluye la salud bucodental."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 42,
+    "note": "Propone tratamiento bucodental gratuito dentro del sistema sanitario."
    }
   }
  },
@@ -1263,6 +1693,31 @@
     "v": -1,
     "page": 6,
     "note": "Propone reducir listas de espera con más dinero para atención primaria y evitar la privatización."
+   },
+   "bng": {
+    "v": -2,
+    "page": 37,
+    "note": "La titularidad, financiación, gestión y provisión sanitarias solo con entidades públicas."
+   },
+   "pacma": {
+    "v": -1,
+    "page": 56,
+    "note": "Propone reintegrar servicios privatizados y planes propios para listas de espera, no usar la privada."
+   },
+   "pcte": {
+    "v": -2,
+    "page": 13,
+    "note": "Prohíbe nuevos conciertos y propone gestión pública directa en sanidad."
+   },
+   "mmj": {
+    "v": -1,
+    "page": 38,
+    "note": "Propone frenar la privatización; no plantea la concertada como vía para reducir listas de espera."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 42,
+    "note": "Propone acabar con la externalización y privatización de la sanidad, frente al uso de la privada."
    }
   }
  },
@@ -1295,6 +1750,26 @@
     "v": -2,
     "page": 20,
     "note": "Garantizar sanidad pública sin importar la situación administrativa."
+   },
+   "bng": {
+    "v": -2,
+    "page": 37,
+    "note": "Asistencia sanitaria universal, sin excepciones que amparen la exclusión."
+   },
+   "pacma": {
+    "v": -2,
+    "page": 81,
+    "note": "Propone acceso unificado a la sanidad para todas las personas, sea cual sea su situación administrativa."
+   },
+   "pcte": {
+    "v": -1,
+    "page": 20,
+    "note": "Propone regularización permanente de personas sin papeles; no menciona la atención sanitaria."
+   },
+   "mmj": {
+    "v": -2,
+    "page": 37,
+    "note": "Propone garantizar la atención sanitaria también a personas en situación administrativa irregular."
    }
   }
  },
@@ -1362,6 +1837,21 @@
     "v": 1,
     "page": 7,
     "note": "Menciona el acceso a la salud mental para la juventud, sin plan detallado."
+   },
+   "pacma": {
+    "v": 2,
+    "page": 58,
+    "note": "Propone aumentar psiquiatras y psicólogos en la sanidad pública y reforzar la salud mental."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 41,
+    "note": "Propone más profesionales de salud mental en la sanidad pública y en las escuelas."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 43,
+    "note": "Propone aumentar el personal y los recursos de salud mental."
    }
   }
  },
@@ -1399,6 +1889,31 @@
     "v": -2,
     "page": 10,
     "note": "Quiere que la red concertada sea subsidiaria de la pública y prohibir ceder suelo público a centros privados."
+   },
+   "bng": {
+    "v": -2,
+    "page": 35,
+    "note": "Supresión de los conciertos educativos."
+   },
+   "pacma": {
+    "v": -1,
+    "page": 61,
+    "note": "Propone revisar los conciertos para que respeten criterios de servicio público; no protege la concertada."
+   },
+   "pcte": {
+    "v": -2,
+    "page": 13,
+    "note": "Integración de los centros concertados en una red pública única."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 45,
+    "note": "Acepta la coexistencia de pública, concertada y privada, con gratuidad y equidad en centros financiados."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 22,
+    "note": "Propone eliminar las subvenciones a la escuela privada para fortalecer la pública."
    }
   }
  },
@@ -1416,6 +1931,21 @@
     "v": 1,
     "page": 11,
     "note": "Defiende un sistema educativo laico, sin mencionar expresamente la asignatura de religión."
+   },
+   "bng": {
+    "v": 2,
+    "page": 35,
+    "note": "La asignatura de Religión no formará parte del currículo escolar; enseñanza laica."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 60,
+    "note": "Propone una escuela pública realmente laica; no menciona la asignatura de religión."
+   },
+   "pcte": {
+    "v": 1,
+    "page": 13,
+    "note": "Sistema educativo exclusivamente público y laico; no menciona la asignatura de religión por su nombre."
    }
   }
  },
@@ -1473,6 +2003,26 @@
     "v": 2,
     "page": 5,
     "note": "Educación pública, universal y gratuita de 0 a 3 años."
+   },
+   "bng": {
+    "v": 2,
+    "page": 33,
+    "note": "Educación pública, universal y gratuita de 0 a 18 años."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 60,
+    "note": "Propone promover la educación universal de 0 a 3 años con plazas públicas suficientes."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 46,
+    "note": "Propone avanzar hacia la gratuidad universal de la educación infantil de 0 a 3 años."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 34,
+    "note": "Propone guarderías y jardines de infancia públicos y gratuitos."
    }
   }
  },
@@ -1505,6 +2055,11 @@
     "v": -2,
     "page": 10,
     "note": "Defiende el catalán como lengua vehicular y la inmersión lingüística, y cambiar la ley estatal para impedir porcentajes lingüísticos impuestos."
+   },
+   "frenteobrero": {
+    "v": 0,
+    "page": 22,
+    "note": "Propone garantizar estudiar en castellano o en las lenguas cooficiales, sin priorizar solo el castellano."
    }
   }
  },
@@ -1532,6 +2087,21 @@
     "v": 1,
     "page": 16,
     "note": "Crea un nuevo sistema de tasas universitarias para que quien tiene menos recursos pague menos."
+   },
+   "bng": {
+    "v": 1,
+    "page": 36,
+    "note": "Universidades públicas financiadas al 1,5 % del PIB y acceso universal; no fija la gratuidad."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 13,
+    "note": "Educación pública y gratuita en todas sus etapas."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 22,
+    "note": "Propone educación gratuita en todos los niveles, incluidos los superiores para las rentas más bajas."
    }
   }
  },
@@ -1559,6 +2129,21 @@
     "v": -1,
     "page": 10,
     "note": "Propone reforzar la educación afectivo-sexual en igualdad; no plantea vetos de los padres."
+   },
+   "pacma": {
+    "v": -1,
+    "page": 61,
+    "note": "Propone educación afectivo-sexual y planes sobre diversidad, sin mencionar vetos parentales."
+   },
+   "mmj": {
+    "v": -2,
+    "page": 47,
+    "note": "Propone incluir educación afectivo-sexual en el currículo, lo contrario a vetar esos contenidos."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 32,
+    "note": "Propone proteger a los niños del adoctrinamiento queer, sin mencionar un veto parental concreto."
    }
   }
  },
@@ -1631,6 +2216,31 @@
     "v": 2,
     "page": 17,
     "note": "Reforzar prevención, protección y atención integral frente a las violencias machistas."
+   },
+   "bng": {
+    "v": 2,
+    "page": 24,
+    "note": "Reforma legislativa integral que garantice la cobertura de todas las violencias contra las mujeres."
+   },
+   "pacma": {
+    "v": 2,
+    "page": 76,
+    "note": "Propone medidas específicas contra la violencia machista, incluidos recursos y protección judicial."
+   },
+   "pcte": {
+    "v": 1,
+    "page": 17,
+    "note": "Garantiza vivienda, ingresos y atención a mujeres que sufren violencia; no menciona leyes concretas."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 78,
+    "note": "Propone aplicar las 461 medidas del Pacto de Estado contra la violencia de género."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 31,
+    "note": "Afirma que la violencia de género no existe y critica las leyes basadas en ella."
    }
   }
  },
@@ -1683,6 +2293,16 @@
     "v": 1,
     "page": 18,
     "note": "Garantiza derechos reproductivos y estudia blindar el aborto en la Constitución."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 17,
+    "note": "Todas las interrupciones del embarazo garantizadas en hospitales públicos."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 44,
+    "note": "Propone atención psicológica pública y gratuita antes y después de una IVE; no cita el aborto en sanidad pública."
    }
   }
  },
@@ -1745,6 +2365,26 @@
     "v": 1,
     "page": 18,
     "note": "Garantizar igualdad de derechos LGTBIQA+ con especial atención a personas trans."
+   },
+   "bng": {
+    "v": 2,
+    "page": 29,
+    "note": "Protección de las personas trans menores de 12 años respetando su autodeterminación de género."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 80,
+    "note": "Propone apoyar a las personas trans en su proceso de transición; no menciona la ley ni la autodeterminación."
+   },
+   "pcte": {
+    "v": 1,
+    "page": 20,
+    "note": "Protege a las personas LGTB frente al despido, el acoso y la discriminación; no menciona la ley trans."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 81,
+    "note": "Propone estrategias estatales LGTBI y para personas trans con financiación; no cita la Ley Trans."
    }
   }
  },
@@ -1797,6 +2437,31 @@
     "v": 1,
     "page": 23,
     "note": "Propone ampliar a 24 semanas los permisos retribuidos de conciliación; no detalla los permisos por nacimiento."
+   },
+   "bng": {
+    "v": 1,
+    "page": 27,
+    "note": "Medidas de conciliación y corresponsabilidad con compensación económica en reducciones de jornada y excedencias."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 65,
+    "note": "Propone actualizar la ley de conciliación; no concreta permisos por nacimiento."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 17,
+    "note": "Permiso por nacimiento de 52 semanas, intransferible y retribuido al 100 %."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 19,
+    "note": "Propone ampliar los permisos por nacimiento y cuidado hasta 24 semanas por progenitor."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 35,
+    "note": "Propone alargar las bajas por paternidad y maternidad."
    }
   }
  },
@@ -1824,6 +2489,26 @@
     "v": 1,
     "page": 48,
     "note": "Plan contra la explotación sexual y la trata con más sanciones a la explotación, sin sancionar a las personas prostituidas."
+   },
+   "bng": {
+    "v": 2,
+    "page": 26,
+    "note": "Impulsar medidas hacia la abolición de la prostitución, persiguiendo a proxenetas y prostituidores."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 17,
+    "note": "Prohibición de la prostitución y del proxenetismo."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 79,
+    "note": "Propone avanzar hacia la abolición de la prostitución con alternativas de empleo digno."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 32,
+    "note": "Se posiciona contra la prostitución y propone planes contra la trata y la explotación sexual."
    }
   }
  },
@@ -1876,6 +2561,26 @@
     "v": 2,
     "page": 20,
     "note": "Garantizar una regularización efectiva, accesible y estable."
+   },
+   "bng": {
+    "v": 2,
+    "page": 22,
+    "note": "Promover la regularización administrativa como vía para eliminar la irregularidad."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 20,
+    "note": "Mecanismo permanente de regularización para las personas trabajadoras sin papeles."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 52,
+    "note": "Propone vías accesibles y permanentes de regularización de personas migrantes."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 53,
+    "note": "Propone que no pueda regularse quien entró de forma ilegal."
    }
   }
  },
@@ -1943,6 +2648,26 @@
     "v": -1,
     "page": 16,
     "note": "Rechaza la externalización de fronteras, aunque propone reforzar medios en el archipiélago."
+   },
+   "bng": {
+    "v": -2,
+    "page": 23,
+    "note": "Demandar el fin de las deportaciones en caliente y de los CIE."
+   },
+   "pcte": {
+    "v": -2,
+    "page": 20,
+    "note": "Cierre de los CIE y fin de las devoluciones en caliente."
+   },
+   "mmj": {
+    "v": -2,
+    "page": 51,
+    "note": "Propone eliminar las devoluciones en caliente y los rechazos fronterizos inmediatos."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 53,
+    "note": "Propone la expulsión inmediata de quienes están irregularmente y control absoluto de fronteras."
    }
   }
  },
@@ -1990,6 +2715,26 @@
     "v": 2,
     "page": 21,
     "note": "Pide el cierre inmediato de los CIE de Barranco Seco y Hoya Fría."
+   },
+   "bng": {
+    "v": 2,
+    "page": 23,
+    "note": "Demandar el cierre de los Centros de Internamiento para Extranjeros."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 20,
+    "note": "Cierre de los Centros de Internamiento de Extranjeros."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 51,
+    "note": "Propone sustituir los Centros de Internamiento de Extranjeros por alternativas abiertas."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 54,
+    "note": "Propone mantener y hacer operativos los CIE o sustituirlos por centros más efectivos."
    }
   }
  },
@@ -2027,6 +2772,11 @@
     "v": 1,
     "page": 16,
     "note": "Pide distribución solidaria de la acogida de menores no acompañados entre territorios."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 81,
+    "note": "Propone más plazas de acogida para menores migrantes no acompañados; no menciona reparto obligatorio."
    }
   }
  },
@@ -2069,6 +2819,31 @@
     "v": -1,
     "page": 16,
     "note": "Rechaza el racismo y la xenofobia y defiende la dignidad y derechos de todas las personas."
+   },
+   "bng": {
+    "v": -2,
+    "page": 22,
+    "note": "Rechaza construir la nación sobre vínculos étnicos; defiende los derechos de la población inmigrante."
+   },
+   "pacma": {
+    "v": -2,
+    "page": 81,
+    "note": "Propone acceso unificado a todos los derechos y servicios, sin distinguir por origen."
+   },
+   "pcte": {
+    "v": -2,
+    "page": 21,
+    "note": "Mismos derechos para trabajadores migrantes y rechazo de dividir a la clase trabajadora por origen."
+   },
+   "mmj": {
+    "v": -2,
+    "page": 52,
+    "note": "Propone igualdad de derechos para personas migrantes en sanidad, educación, vivienda y servicios sociales."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 46,
+    "note": "Propone enfocar el acceso a la vivienda pública y las ayudas hacia los españoles."
    }
   }
  },
@@ -2101,6 +2876,16 @@
     "v": -1,
     "page": 20,
     "note": "Propone ciudadanía basada en la residencia efectiva y ampliar derechos políticos de residentes extranjeros."
+   },
+   "bng": {
+    "v": -1,
+    "page": 23,
+    "note": "Propone admitir el gallego como criterio para la nacionalidad; no pide endurecer requisitos."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 53,
+    "note": "Propone elevar los requisitos para la nacionalidad y primar el ius sanguinis."
    }
   }
  },
@@ -2143,6 +2928,16 @@
     "v": -2,
     "page": 15,
     "note": "Mantener el calendario de cierre nuclear del PNIEC."
+   },
+   "pacma": {
+    "v": -2,
+    "page": 34,
+    "note": "Critica el modelo basado en fósiles y nuclear y propone apostar por renovables."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 16,
+    "note": "Propone frenar el cierre de centrales nucleares y ampliar el parque nuclear."
    }
   }
  },
@@ -2215,6 +3010,26 @@
     "v": 2,
     "page": 14,
     "note": "Acelerar la transición energética con plan fotovoltaico y plan estratégico de renovables."
+   },
+   "bng": {
+    "v": 2,
+    "page": 55,
+    "note": "Impulsar las renovables y reducir el consumo de combustibles fósiles en todos los sectores."
+   },
+   "pacma": {
+    "v": 2,
+    "page": 34,
+    "note": "Propone acelerar un modelo energético renovable y objetivos de lucha contra el cambio climático."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 58,
+    "note": "Propone una apuesta decidida por las energías renovables con evaluación ambiental rigurosa."
+   },
+   "frenteobrero": {
+    "v": 0,
+    "page": 15,
+    "note": "Propone apoyar las renovables como complemento a la nuclear, pero poner fin a la transición ecológica."
    }
   }
  },
@@ -2247,6 +3062,16 @@
     "v": -2,
     "page": 21,
     "note": "Se apoya en el Tratado Verde Europeo y propone ambición climática mayor."
+   },
+   "mmj": {
+    "v": -2,
+    "page": 53,
+    "note": "Propone respaldar el compromiso europeo de reducir un 55 % las emisiones; apoya los ODS."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 37,
+    "note": "Critica la Agenda 2030 y propone poner fin a la transición ecológica europea."
    }
   }
  },
@@ -2269,6 +3094,11 @@
     "v": 2,
     "page": 13,
     "note": "Limita de manera efectiva los vuelos nacionales con alternativa ferroviaria competitiva."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 59,
+    "note": "Propone reducir el transporte aéreo en rutas con alternativa ferroviaria; no propone prohibirlo."
    }
   }
  },
@@ -2296,6 +3126,26 @@
     "v": 2,
     "page": 14,
     "note": "Se creará una Empresa pública de Energía."
+   },
+   "bng": {
+    "v": 2,
+    "page": 56,
+    "note": "Empresa pública gallega de energía."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 10,
+    "note": "Propiedad estatal bajo control obrero del sector energético."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 59,
+    "note": "Propone un fondo público de inversión en energía renovable; no propone una empresa pública."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 13,
+    "note": "Propone nacionalizar los sectores estratégicos, entre ellos el energético, sin mencionar una empresa pública concreta."
    }
   }
  },
@@ -2328,6 +3178,16 @@
     "v": 2,
     "page": 40,
     "note": "Suprime los espectáculos taurinos con muerte, retira subvenciones y deroga la ley 18/2013."
+   },
+   "pacma": {
+    "v": 2,
+    "page": 12,
+    "note": "Propone prohibir la tauromaquia y exigir la prohibición de su retransmisión."
+   },
+   "mmj": {
+    "v": 0,
+    "page": 61,
+    "note": "El programa no propone cambios en la regulación de la tauromaquia y reconoce posiciones distintas en el partido."
    }
   }
  },
@@ -2360,6 +3220,21 @@
     "v": -1,
     "page": 40,
     "note": "Prohíbe la caza con perros; no defiende expresamente la caza como tradición."
+   },
+   "pacma": {
+    "v": -2,
+    "page": 13,
+    "note": "Propone abolir la caza y oponerse a su práctica."
+   },
+   "mmj": {
+    "v": 0,
+    "page": 61,
+    "note": "No propone cambios en la regulación de la caza, pero pide mejor protección para los perros de caza."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 37,
+    "note": "Propone defender la caza como actividad regulada y esencial."
    }
   }
  },
@@ -2417,6 +3292,26 @@
     "v": 1,
     "page": 97,
     "note": "Defiende una PAC y una política pesquera con competencia equitativa frente a importaciones de terceros países."
+   },
+   "bng": {
+    "v": 2,
+    "page": 48,
+    "note": "Rechazo de los acuerdos comerciales perjudiciales para el sector agrario, en particular el UE-Mercosur."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 44,
+    "note": "Propone consumo de producto local y de proximidad; no menciona normas para importados."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 34,
+    "note": "Propone revisar acuerdos comerciales que favorecen la explotación; no cita normas para alimentos importados."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 38,
+    "note": "Propone romper con los tratados internacionales que merman la producción; critica importaciones sin controles."
    }
   }
  },
@@ -2444,6 +3339,31 @@
     "v": 1,
     "page": 21,
     "note": "Reivindica una PAC mediterránea con régimen simplificado y prioridad a quien asume el riesgo empresarial."
+   },
+   "bng": {
+    "v": 1,
+    "page": 48,
+    "note": "Cambios en el PEPAC para adaptarlo a las explotaciones gallegas y a los pequeños productores."
+   },
+   "pacma": {
+    "v": 2,
+    "page": 43,
+    "note": "Propone redistribuir las ayudas hacia explotaciones pequeñas y respetuosas con el medio."
+   },
+   "pcte": {
+    "v": 1,
+    "page": 15,
+    "note": "Apoyo a pequeños productores y acceso colectivo a financiación; no menciona la PAC."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 59,
+    "note": "Propone apoyar a pequeños productores y cooperativas; no menciona reformar la PAC."
+   },
+   "frenteobrero": {
+    "v": 0,
+    "page": 38,
+    "note": "Propone romper con las políticas agrarias de la UE y apoyar a pequeños productores mediante cooperativas."
    }
   }
  },
@@ -2481,6 +3401,16 @@
     "v": 0,
     "page": 88,
     "note": "Comisión Técnica del Agua y Plan Director de Inversiones, desalación y reutilización; no menciona trasvases ni un plan nacional."
+   },
+   "pacma": {
+    "v": -1,
+    "page": 47,
+    "note": "Critica las construcciones hidráulicas y propone caudales ambientales; no menciona trasvases."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 38,
+    "note": "Propone invertir en planes hidrográficos para repartir el agua; no menciona trasvases."
    }
   }
  },
@@ -2523,6 +3453,16 @@
     "v": 1,
     "page": 16,
     "note": "La coalición comparte el derecho a decidir y la autodeterminación de los pueblos."
+   },
+   "bng": {
+    "v": 2,
+    "page": 32,
+    "note": "Referendos vinculantes en asuntos de interés, incluido el derecho de autodeterminación."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 56,
+    "note": "Defiende la unidad del país y se posiciona contra todos los procesos de independencia."
    }
   }
  },
@@ -2580,6 +3520,16 @@
     "v": -2,
     "page": 15,
     "note": "Pide desarrollar al máximo las competencias del Estatuto y más cogestión."
+   },
+   "bng": {
+    "v": -2,
+    "page": 9,
+    "note": "Transferir competencias a Galicia, en sentido contrario a devolverlas al Estado."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 56,
+    "note": "Propone que el Estado central recupere algunas competencias de las comunidades."
    }
   }
  },
@@ -2627,6 +3577,16 @@
     "v": 1,
     "page": 2,
     "note": "Reúne a formaciones federales y confederales y defiende reconocer a Canarias como sujeto político."
+   },
+   "bng": {
+    "v": 2,
+    "page": 34,
+    "note": "Configuración plurinacional y plurilingüe del Estado."
+   },
+   "frenteobrero": {
+    "v": -1,
+    "page": 56,
+    "note": "Defiende la unidad del país y rechaza un modelo plurinacional, aunque propone igualar competencias."
    }
   }
  },
@@ -2689,6 +3649,16 @@
     "v": 2,
     "page": 8,
     "note": "Defiende financiación autonómica que respete el REF y compense la insularidad."
+   },
+   "bng": {
+    "v": 2,
+    "page": 8,
+    "note": "Nuevo modelo de financiamiento basado en el concierto económico y la bilateralidad con el Estado."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 56,
+    "note": "Propone igualar competencias y regímenes fiscales de todas las autonomías."
    }
   },
   "userText": "Dar a tu comunidad una financiación singular o más soberanía fiscal (tipo concierto económico)."
@@ -2727,6 +3697,11 @@
     "v": 2,
     "page": 50,
     "note": "Exige condonar la deuda histórica de la Generalitat (78% de su deuda)."
+   },
+   "bng": {
+    "v": 2,
+    "page": 5,
+    "note": "Condonación de 4.000 millones de euros de la deuda pública gallega."
    }
   }
  },
@@ -2774,6 +3749,16 @@
     "v": 2,
     "page": 15,
     "note": "Desarrollar al máximo las competencias del Estatuto, financiadas por el Estado."
+   },
+   "bng": {
+    "v": 2,
+    "page": 9,
+    "note": "Transferencia de competencias a Galicia."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 56,
+    "note": "Propone centralizar competencias como sanidad, educación y emergencias."
    }
   }
  },
@@ -2816,6 +3801,16 @@
     "v": 2,
     "page": 9,
     "note": "Los vocales judiciales del CGPJ serían elegidos por los jueces, sin intervención de las asociaciones judiciales."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 72,
+    "note": "Propone que 12 de los 20 vocales del CGPJ sean elegidos directamente por jueces."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 58,
+    "note": "Propone que el Gobierno deje de elegir miembros de los órganos judiciales y priorizar la carrera judicial."
    }
   }
  },
@@ -2838,6 +3833,11 @@
     "v": 1,
     "page": 140,
     "note": "Aspira a una democracia en la que también se elija la Jefatura del Estado; no menciona un referéndum concreto."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 56,
+    "note": "Se declara partidario de una república y de un proceso constituyente, sin mencionar un referéndum."
    }
   }
  },
@@ -2880,6 +3880,26 @@
     "v": 2,
     "page": 22,
     "note": "Acabar con la Ley Mordaza con una nueva Proposición de Ley."
+   },
+   "bng": {
+    "v": 2,
+    "page": 30,
+    "note": "Derogación íntegra de la Ley Mordaza."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 20,
+    "note": "Derogación de la Ley Mordaza (Ley de Seguridad Ciudadana)."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 74,
+    "note": "Propone reformar la Ley de Seguridad Ciudadana."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 40,
+    "note": "Propone derogar toda normativa que ataque las libertades por persecución ideológica."
    }
   }
  },
@@ -2917,6 +3937,26 @@
     "v": 1,
     "page": 85,
     "note": "Nueva ley procesal contra la multirreincidencia y delitos de corrupción imprescriptibles; no habla de subir penas en general."
+   },
+   "bng": {
+    "v": -2,
+    "page": 30,
+    "note": "Derogación de la prisión permanente revisable y de las medidas de libertad vigilada."
+   },
+   "pcte": {
+    "v": -1,
+    "page": 20,
+    "note": "Propone derogar los delitos de opinión; no menciona endurecer el Código Penal."
+   },
+   "mmj": {
+    "v": -1,
+    "page": 86,
+    "note": "Propone un modelo penitenciario orientado a la reinserción y la justicia restaurativa; no endurecer penas."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 59,
+    "note": "Propone subir las penas por corrupción; no menciona el resto de endurecimientos del Código Penal."
    }
   }
  },
@@ -2974,6 +4014,21 @@
     "v": 2,
     "page": 25,
     "note": "Propone reformar la Ley de Memoria Democrática para que el Estado retire los símbolos franquistas catalogados."
+   },
+   "bng": {
+    "v": 2,
+    "page": 31,
+    "note": "Modificar la Ley de Memoria para acabar con la impunidad del franquismo."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 20,
+    "note": "Ilegalización de organizaciones franquistas y disolución de fundaciones que enaltecen la dictadura."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 14,
+    "note": "Propone una Red Pública de Memoria, Reparación y Justicia Restaurativa."
    }
   }
  },
@@ -3001,6 +4056,16 @@
     "v": 1,
     "page": 4,
     "note": "Reduce un 90% los asesores del Gobierno; no propone reducir el número de ministerios."
+   },
+   "bng": {
+    "v": 2,
+    "page": 42,
+    "note": "Supresión de la administración periférica y de los departamentos ministeriales con competencias transferidas."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 56,
+    "note": "Propone reducir cargos políticos, entidades ineficaces y puestos duplicados."
    }
   }
  },
@@ -3038,6 +4103,16 @@
     "v": 2,
     "page": 10,
     "note": "Eliminar los aforamientos no constitucionales y reformar la Constitución para quitar los de diputados y senadores."
+   },
+   "pacma": {
+    "v": 2,
+    "page": 72,
+    "note": "Propone eliminar los aforamientos de los políticos."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 69,
+    "note": "Propone reducir los aforamientos al mínimo imprescindible."
    }
   }
  },
@@ -3090,6 +4165,21 @@
     "v": -2,
     "page": 28,
     "note": "Rechaza el aumento del gasto en defensa que exige la OTAN."
+   },
+   "bng": {
+    "v": -2,
+    "page": 90,
+    "note": "Rechaza el incremento del gasto militar y el acatamiento de las directrices de la OTAN."
+   },
+   "pcte": {
+    "v": -2,
+    "page": 19,
+    "note": "Rechaza el incremento del gasto militar y el rearme."
+   },
+   "frenteobrero": {
+    "v": 0,
+    "page": 11,
+    "note": "Propone salir de la OTAN, pero reforzar el ejército; no menciona un objetivo de gasto."
    }
   }
  },
@@ -3127,6 +4217,21 @@
     "v": 2,
     "page": 28,
     "note": "Rechaza la OTAN y la pertenencia de Euskal Herria a ella."
+   },
+   "bng": {
+    "v": 2,
+    "page": 89,
+    "note": "Salida de la OTAN y disolución de la alianza militar."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 19,
+    "note": "Salida de España de la OTAN y de la Unión Europea."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 11,
+    "note": "Propone la salida inmediata de la OTAN."
    }
   }
  },
@@ -3169,6 +4274,21 @@
     "v": 1,
     "page": 19,
     "note": "Denuncia el genocidio israelí y la complicidad internacional; no menciona romper relaciones ni armas."
+   },
+   "bng": {
+    "v": 1,
+    "page": 90,
+    "note": "Eliminación de la venta de armamento a estados que agreden militarmente; condena a Israel."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 19,
+    "note": "Embargo militar total a Israel y ruptura de relaciones diplomáticas, militares y comerciales."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 66,
+    "note": "Propone prohibir la exportación de armas a países que vulneren los DDHH y suspender el acuerdo UE-Israel."
    }
   }
  },
@@ -3216,6 +4336,21 @@
     "v": 1,
     "page": 96,
     "note": "Quiere una Europa más ágil, con mercado único real, defensa común y supervisión del Estado de derecho."
+   },
+   "pcte": {
+    "v": -2,
+    "page": 19,
+    "note": "Propone la salida de España de la Unión Europea."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 65,
+    "note": "Propone una UE basada en el derecho internacional y la cooperación; no defiende una UE federal."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 11,
+    "note": "Propone la salida de la Unión Europea para recuperar la soberanía nacional."
    }
   }
  },
@@ -3268,6 +4403,21 @@
     "v": 2,
     "page": 19,
     "note": "Solidaridad con el pueblo saharaui en su lucha por la autodeterminación e independencia."
+   },
+   "bng": {
+    "v": 2,
+    "page": 90,
+    "note": "Impulsar un referéndum de autodeterminación para el Sáhara Occidental."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 19,
+    "note": "Reconocimiento de la República Árabe Saharaui Democrática y referéndum de autodeterminación."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 11,
+    "note": "Propone defender sin reservas el derecho del pueblo saharaui a la autodeterminación."
    }
   }
  },
@@ -3305,6 +4455,11 @@
     "v": 2,
     "page": 54,
     "note": "Continúa dando apoyo al pueblo ucraniano y facilita una salida dialogada; no detalla apoyo militar."
+   },
+   "bng": {
+    "v": -2,
+    "page": 89,
+    "note": "Censar de inmediato el envío de armamento español a Ucrania."
    }
   }
  },
@@ -3337,6 +4492,26 @@
     "v": 2,
     "page": 103,
     "note": "Bajar al 10% el IVA de la música grabada y reducir el de los servicios deportivos; fija un incentivo fiscal al cine."
+   },
+   "bng": {
+    "v": 2,
+    "page": 44,
+    "note": "Tributación de los bienes culturales en el tramo superreducido del IVA."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 63,
+    "note": "Propone descuentos y precios reducidos para libros, entradas y cultura; no menciona el IVA."
+   },
+   "pcte": {
+    "v": 1,
+    "page": 18,
+    "note": "Gratuidad de museos y precio máximo en la actividad cultural subvencionada; no menciona el IVA."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 26,
+    "note": "Propone reducir los impuestos sobre productos culturales como libros o material artístico."
    }
   }
  },
@@ -3394,6 +4569,26 @@
     "v": 1,
     "page": 16,
     "note": "Regular y limitar el impacto de la IA en la producción cultural; observatorio de lobbies de comunicación."
+   },
+   "bng": {
+    "v": 2,
+    "page": 76,
+    "note": "Ley de transparencia algorítmica y veto humano sobre las decisiones automatizadas."
+   },
+   "pcte": {
+    "v": 1,
+    "page": 9,
+    "note": "Derecho de información y veto ante sistemas algorítmicos en el trabajo; no regula las plataformas."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 27,
+    "note": "Propone ampliar la tasa a servicios digitales; no menciona regular la inteligencia artificial."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 21,
+    "note": "Propone regular y controlar el desarrollo y uso de la inteligencia artificial."
    }
   }
  },
@@ -3426,6 +4621,21 @@
     "v": 0,
     "page": 21,
     "note": "Propone proteger a menores en entornos digitales con medidas de diseño, sin prohibir las redes."
+   },
+   "bng": {
+    "v": 1,
+    "page": 80,
+    "note": "Limitar los algoritmos adictivos de las redes sociales; no menciona una prohibición a menores."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 20,
+    "note": "Propone una ley de protección de menores en el entorno digital; no prohíbe redes sociales por edad."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 21,
+    "note": "Propone limitar el acceso a determinadas tecnologías a menores de 16 años; no menciona redes sociales."
    }
   }
  },
@@ -3483,6 +4693,31 @@
     "v": 1,
     "page": 10,
     "note": "Impulsar la investigación y la tecnología como parte de la diversificación económica."
+   },
+   "bng": {
+    "v": 2,
+    "page": 52,
+    "note": "Elevar la inversión estatal en I+D+i hasta el 3 % del PIB en 2030."
+   },
+   "pacma": {
+    "v": 2,
+    "page": 71,
+    "note": "Propone mayor inversión en I+D+i."
+   },
+   "pcte": {
+    "v": 1,
+    "page": 18,
+    "note": "Fondos de I+D militar reorientados a salud, energía, alimentación y medio ambiente."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 48,
+    "note": "Propone llevar la inversión en ciencia e I+D al 3 % del PIB."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 22,
+    "note": "Critica la fuga de cerebros por carencias en I+D, sin cifrar una inversión mayor."
    }
   }
  },
@@ -3505,6 +4740,21 @@
     "v": -1,
     "page": 102,
     "note": "Propone un RTVE con consejo profesional y financiación plurianual, sin reducirla ni privatizarla."
+   },
+   "bng": {
+    "v": -2,
+    "page": 71,
+    "note": "Ampliar la presencia del gallego en RTVE y las desconexiones territoriales."
+   },
+   "pacma": {
+    "v": -1,
+    "page": 75,
+    "note": "Propone financiación blindada y concursos de méritos para RTVE, no reducirla."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 40,
+    "note": "Propone que los medios públicos tengan independencia real del Gobierno, sin reducirlos ni privatizarlos."
    }
   }
  },
@@ -3557,6 +4807,16 @@
     "v": 2,
     "page": 25,
     "note": "Oficialidad de euskera, catalán y gallego en la UE y atención en euskera en la administración estatal."
+   },
+   "bng": {
+    "v": 2,
+    "page": 73,
+    "note": "Oficialidad plena del gallego en la Unión Europea y en la Administración del Estado."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 22,
+    "note": "Propone garantizar estudiar en las lenguas cooficiales; no menciona las instituciones del Estado ni la UE."
    }
   }
  },
@@ -3619,6 +4879,26 @@
     "v": 2,
     "page": 3,
     "note": "Propone la cesión obligatoria de las viviendas vacías de grandes tenedores para crear un parque de alquiler público."
+   },
+   "bng": {
+    "v": 2,
+    "page": 14,
+    "note": "Canon a la vivienda vacía de grandes propietarios desde hace 5 años o más y alquiler forzoso."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 69,
+    "note": "Propone adquirir viviendas vacías y pactar con entidades financieras, sin obligar a sacarlas al mercado."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 12,
+    "note": "Expropiación sin indemnización de viviendas vacías de uso especulativo de bancos, fondos y grandes tenedores."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 9,
+    "note": "Propone penalizar fiscalmente a quien no ponga en el mercado las viviendas vacías."
    }
   }
  },
@@ -3681,6 +4961,26 @@
     "v": -1,
     "page": 7,
     "note": "Propone combatir los abusos en la contratación y la temporalidad injustificada; no plantea abaratar el despido."
+   },
+   "bng": {
+    "v": -2,
+    "page": 15,
+    "note": "Derogar las contrarreformas laborales y restituir derechos de despido y convenios."
+   },
+   "pcte": {
+    "v": -2,
+    "page": 7,
+    "note": "Rechaza la flexibilización de la contratación y el abaratamiento del despido; prohíbe las ETT."
+   },
+   "mmj": {
+    "v": -1,
+    "page": 22,
+    "note": "Propone acabar con el encadenamiento de contratos temporales; no propone flexibilizar la contratación."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 9,
+    "note": "Propone derogar el despido libre y barato y las reformas laborales que lo favorecen."
    }
   }
  },
@@ -3743,6 +5043,21 @@
     "v": -2,
     "page": 11,
     "note": "Propone que contribuyan más las grandes empresas en la reforma fiscal; no plantea bajar el impuesto de sociedades."
+   },
+   "bng": {
+    "v": 0,
+    "page": 44,
+    "note": "Amplía la reserva de capitalización para PEMES y propone subir el Impuesto de Sociedades a grandes empresas."
+   },
+   "mmj": {
+    "v": -2,
+    "page": 27,
+    "note": "Propone limitar al 90 % la exención por doble imposición y revisar deducciones empresariales."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 19,
+    "note": "Propone aumentar el impuesto de sociedades a las grandes empresas."
    }
   }
  },
@@ -3852,6 +5167,16 @@
     "v": 1,
     "page": 13,
     "note": "Propone prestaciones autonómicas de apoyo a la crianza según el gasto en crianza de cada territorio."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 20,
+    "note": "Propone una prestación universal para la infancia para todos los hogares con criaturas a cargo."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 34,
+    "note": "Propone planes estatales de ayudas económicas y ventajas fiscales a familias numerosas para aumentar la natalidad."
    }
   }
  },
@@ -3889,6 +5214,26 @@
     "v": 1,
     "page": 9,
     "note": "Pide financiación sanitaria suficiente y compensación por insularidad; no fija por ley un porcentaje del PIB."
+   },
+   "bng": {
+    "v": 1,
+    "page": 37,
+    "note": "Financiación de la sanidad pública hasta la media de la UE por habitante; no es un porcentaje del PIB."
+   },
+   "pcte": {
+    "v": 1,
+    "page": 13,
+    "note": "Fija el 25 % del gasto sanitario para atención primaria; no fija un porcentaje del PIB."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 37,
+    "note": "Propone incrementar la inversión sanitaria; no fija por ley un porcentaje del PIB."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 42,
+    "note": "Propone incrementar el gasto e inversión sanitaria; no fija un porcentaje mínimo por ley."
    }
   }
  },
@@ -3916,6 +5261,11 @@
     "v": 1,
     "page": 42,
     "note": "Propone un programa de respeto y convivencia escolar con compromisos entre profesorado, alumnado y familias."
+   },
+   "mmj": {
+    "v": -1,
+    "page": 46,
+    "note": "Propone convivencia y resolución pacífica de conflictos, no reforzar la disciplina."
    }
   }
  },
@@ -3953,6 +5303,21 @@
     "v": 1,
     "page": 17,
     "note": "Defiende la igualdad efectiva en la participación política, sin concretar listas ni consejos paritarios por ley."
+   },
+   "bng": {
+    "v": 2,
+    "page": 25,
+    "note": "Reforzar la participación de las mujeres con la Lei de paridade para más mujeres en las listas electorales."
+   },
+   "pacma": {
+    "v": 0,
+    "page": 75,
+    "note": "Critica la paridad obligatoria y propone una composición equilibrada con al menos la mitad de mujeres."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 31,
+    "note": "Se opone a todo tipo de cupos y propone derogar la discriminación positiva."
    }
   }
  },
@@ -4025,6 +5390,21 @@
     "v": 1,
     "page": 16,
     "note": "Defiende una política migratoria con vías legales y seguras, sin concretar visados de trabajo."
+   },
+   "pcte": {
+    "v": 1,
+    "page": 20,
+    "note": "Propone la regularización como vía de acceso al empleo; no menciona visados de trabajo."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 51,
+    "note": "Propone vías legales y seguras de migración y permisos de trabajo en origen."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 53,
+    "note": "Propone que los inmigrantes lleguen de forma legal y que los flujos sean ordenados."
    }
   }
  },
@@ -4062,6 +5442,11 @@
     "v": 1,
     "page": 16,
     "note": "Pide una distribución solidaria de la acogida y que el Estado plantee a la UE la situación de Canarias."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 51,
+    "note": "Propone aplicar el Pacto Europeo de Migración y Asilo con enfoque de derechos; no cita reparto obligatorio."
    }
   }
  },
@@ -4119,6 +5504,31 @@
     "v": 2,
     "page": 13,
     "note": "Propone una moratoria de nuevas camas e instalaciones turísticas y una tasa turística para no residentes."
+   },
+   "bng": {
+    "v": 1,
+    "page": 12,
+    "note": "Frenar el uso turístico de la vivienda habitual; no trata de limitar el turismo en general."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 70,
+    "note": "Propone restringir licencias de pisos turísticos en zonas saturadas, sin topes generales de visitantes."
+   },
+   "pcte": {
+    "v": 1,
+    "page": 11,
+    "note": "Limita la vivienda turística al 0,5 %; no trata de limitar el turismo en general."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 10,
+    "note": "Propone limitar con fiscalidad extraordinaria la vivienda turística; no menciona topes de visitantes."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 13,
+    "note": "Propone cambiar el modelo turístico hacia un turismo de alta calidad; no menciona topes de visitantes."
    }
   }
  },
@@ -4171,6 +5581,16 @@
     "v": 1,
     "page": 10,
     "note": "Pide compensar sobrecostes de la pesca y bonificar el transporte de mercancías agrícolas; no menciona el gasóleo."
+   },
+   "pacma": {
+    "v": -1,
+    "page": 39,
+    "note": "Propone cese de subvenciones al sector ganadero; no menciona bajar impuestos al gasóleo."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 16,
+    "note": "Propone revisar impuestos sobre combustibles y regular precios de la energía, sin referirse a agricultores."
    }
   }
  },
@@ -4203,6 +5623,26 @@
     "v": 2,
     "page": 19,
     "note": "Propone que hospitales, residencias y comedores públicos compren alimentos frescos y de circuito corto."
+   },
+   "bng": {
+    "v": 2,
+    "page": 47,
+    "note": "Compra pública de proximidad y consumo de producto local."
+   },
+   "pacma": {
+    "v": 2,
+    "page": 44,
+    "note": "Propone que comedores y dependencias públicas se abastezcan de productos locales."
+   },
+   "pcte": {
+    "v": 1,
+    "page": 15,
+    "note": "Compra pública de alimentos bajo control democrático; no prioriza expresamente el producto local."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 59,
+    "note": "Propone canales de proximidad con precios justos; no cita la compra pública de producto local."
    }
   }
  },
@@ -4250,6 +5690,16 @@
     "v": 1,
     "page": 16,
     "note": "Defiende la identidad nacional canaria y Canarias como sujeto político, sin hablar de reconocer una nación."
+   },
+   "bng": {
+    "v": 2,
+    "page": 4,
+    "note": "Avanzar en el reconocimiento de los derechos nacionales de Galicia."
+   },
+   "frenteobrero": {
+    "v": -1,
+    "page": 56,
+    "note": "Propone igualdad de todas las regiones y no menciona reconocer una nación o realidad nacional."
    }
   },
   "userText": "Reconocer a tu comunidad o territorio como nación o «realidad nacional»."
@@ -4308,6 +5758,16 @@
     "v": -2,
     "page": 10,
     "note": "Defiende un REF que reconozca el diferencial fiscal de Canarias, frente a un trato fiscal común."
+   },
+   "bng": {
+    "v": -2,
+    "page": 8,
+    "note": "Propone un modelo de financiamiento y competencias propios para Galicia, con concierto económico."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 56,
+    "note": "Propone que todas las comunidades tengan las mismas competencias y el mismo régimen fiscal."
    }
   }
  },
@@ -4389,6 +5849,21 @@
     "v": 2,
     "page": 18,
     "note": "Propone reforzar referéndums, presupuestos participativos y asambleas ciudadanas vinculantes."
+   },
+   "bng": {
+    "v": 2,
+    "page": 32,
+    "note": "Referendos vinculantes y consultas populares."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 74,
+    "note": "Propone reformar la ILP para facilitar la iniciativa ciudadana; no menciona referéndums vinculantes."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 70,
+    "note": "Propone facilitar las iniciativas legislativas populares y ampliar los referendos."
    }
   }
  },
@@ -4441,6 +5916,11 @@
     "v": 2,
     "page": 19,
     "note": "Propone consignar como mínimo el 0,7 % de los Presupuestos del Estado a cooperación internacional."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 89,
+    "note": "Propone asignar el 0,7 % de la renta nacional bruta a la Ayuda Oficial al Desarrollo."
    }
   }
  },
@@ -4463,6 +5943,16 @@
     "v": 0,
     "page": 102,
     "note": "Propone repartir la publicidad institucional con criterios objetivos y prohibir la autopromoción, sin reducir su volumen."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 75,
+    "note": "Propone criterios técnicos para la publicidad institucional en medios privados."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 18,
+    "note": "Propone suprimir subvenciones de carácter ideológico y entidades ineficaces; no menciona la publicidad institucional."
    }
   }
  },
@@ -4485,6 +5975,16 @@
     "v": 1,
     "page": 11,
     "note": "Propone una línea estatal reforzada de vivienda joven y alquiler asequible; no menciona ayudas directas al alquiler."
+   },
+   "pcte": {
+    "v": -2,
+    "page": 16,
+    "note": "Rechaza las ayudas que acaban en manos de los caseros y propone vivienda pública para jóvenes con alquiler según ingresos."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 29,
+    "note": "Propone ayudas económicas para jóvenes que quieren emanciparse y parques de vivienda juvenil."
    }
   }
  },
@@ -4542,6 +6042,16 @@
     "v": -1,
     "page": 7,
     "note": "Defiende limitar el crecimiento según la capacidad de carga de cada isla; no menciona la Ley del Suelo."
+   },
+   "bng": {
+    "v": 1,
+    "page": 12,
+    "note": "Aumentar reservas de solo para vivenda protexida; no menciona la Ley del Suelo."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 9,
+    "note": "Propone simplificar trámites y flexibilizar normas para construir; no menciona la Ley del Suelo."
    }
   }
  },
@@ -4599,6 +6109,31 @@
     "v": 2,
     "page": 4,
     "note": "Propone que no se desahucie a familias vulnerables sin realojo digno garantizado por la Administración."
+   },
+   "bng": {
+    "v": 2,
+    "page": 12,
+    "note": "Prohibir desahucios de personas vulnerables y suspender cualquier lanzamiento sin alternativa."
+   },
+   "pacma": {
+    "v": -1,
+    "page": 69,
+    "note": "Critica la suspensión de desahucios y lanzamientos como parche que no reduce precios."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 11,
+    "note": "Prohibición efectiva de desahucios de hogares trabajadores y alternativa digna en el mismo barrio."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 11,
+    "note": "Propone suspender desahucios sin alternativa habitacional para familias vulnerables."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 46,
+    "note": "Propone paralizar los desahucios de familias vulnerables hasta encontrar una alternativa habitacional."
    }
   }
  },
@@ -4641,6 +6176,31 @@
     "v": 1,
     "page": 3,
     "note": "Propone paralizar la privatización de viviendas públicas y la venta de suelo público; no fija que sean siempre de alquiler."
+   },
+   "bng": {
+    "v": 2,
+    "page": 12,
+    "note": "Garantizar legalmente el carácter público permanente de las viviendas financiadas con fondos públicos."
+   },
+   "pacma": {
+    "v": -1,
+    "page": 69,
+    "note": "Propone vivienda pública para compra y alquiler, no solo alquiler."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 12,
+    "note": "Prohíbe vender o descalificar cualquier vivienda pública o protegida."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 7,
+    "note": "Propone que las viviendas públicas en alquiler no se vendan ni cedan a empresas privadas."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 45,
+    "note": "Critica la venta de vivienda social a fondos y compradores extranjeros; no menciona un régimen solo de alquiler."
    }
   }
  },
@@ -4698,6 +6258,26 @@
     "v": 2,
     "page": 7,
     "note": "Propone reforzar la Inspección de Trabajo y garantizar el pago de las horas extraordinarias."
+   },
+   "bng": {
+    "v": 2,
+    "page": 16,
+    "note": "Control y fiscalización reforzados de las empresas y sectores con más accidentes y fraude."
+   },
+   "pcte": {
+    "v": 1,
+    "page": 7,
+    "note": "Acaba con falsos autónomos y prácticas no laborales; no menciona más inspectores."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 30,
+    "note": "Propone reforzar la Inspección de Trabajo y las sanciones contra la explotación laboral."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 9,
+    "note": "Propone reforzar el control del cumplimiento de las condiciones de trabajo y de las horas extra."
    }
   }
  },
@@ -4715,6 +6295,16 @@
     "v": -2,
     "page": 51,
     "note": "Propone la prevalencia del convenio sectorial y la ultraactividad indefinida de los convenios."
+   },
+   "bng": {
+    "v": -2,
+    "page": 15,
+    "note": "Prevalencia de los convenios sectoriales sobre los de empresa."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 9,
+    "note": "Propone derogar la primacía del convenio de empresa sobre los convenios sectoriales."
    }
   }
  },
@@ -4762,6 +6352,31 @@
     "v": 1,
     "page": 7,
     "note": "Propone combatir la temporalidad injustificada; no fija que el contrato indefinido sea la norma."
+   },
+   "bng": {
+    "v": 2,
+    "page": 18,
+    "note": "Limita la contratación temporal y a tiempo parcial y favorece la indefinida a tiempo completo."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 67,
+    "note": "Propone combatir la estacionalidad del empleo, sin reducir los temporales de forma general."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 7,
+    "note": "Contrato fijo a partir de seis meses de contratos encadenados; el empleo permanente como norma."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 31,
+    "note": "Propone reducir la temporalidad por debajo del 10 %, con contratos indefinidos como norma."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 9,
+    "note": "Propone restringir las condiciones para los contratos temporales y fomentar la lucha contra la temporalidad."
    }
   }
  },
@@ -4794,6 +6409,16 @@
     "v": 2,
     "page": 16,
     "note": "Propone fomentar la participación de las personas trabajadoras en la propiedad y gestión de las empresas."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 9,
+    "note": "Control obrero de la plantilla con derecho de información previa y veto sobre decisiones de la empresa."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 9,
+    "note": "Propone representación obligatoria de los trabajadores en empresas de diez o más; no menciona consejos."
    }
   }
  },
@@ -4868,6 +6493,21 @@
     "v": 2,
     "page": 13,
     "note": "Propone una ventanilla única administrativa y agilizar ayudas y trámites para autónomos y pymes."
+   },
+   "pacma": {
+    "v": 2,
+    "page": 69,
+    "note": "Propone eliminar trabas burocráticas y simplificar trámites para crear empresas."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 34,
+    "note": "Propone adaptar requisitos normativos al tamaño de las empresas para evitar cargas a las pequeñas."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 56,
+    "note": "Critica la excesiva burocratización y propone eliminar cargos y duplicidades; no se refiere a crear empresas."
    }
   }
  },
@@ -4910,6 +6550,16 @@
     "v": 1,
     "page": 21,
     "note": "Propone estudiar tipos de IVA cero o superreducidos para alimentos básicos, dentro del marco europeo."
+   },
+   "bng": {
+    "v": 2,
+    "page": 44,
+    "note": "Rebaja permanente del IVA de los alimentos básicos."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 18,
+    "note": "Propone disminuir el IVA y aplicar el tipo superreducido a los productos de primera necesidad."
    }
   }
  },
@@ -4947,6 +6597,21 @@
     "v": 1,
     "page": 6,
     "note": "Propone topes a los medicamentos en una farmacéutica pública; no menciona alimentos ni precios generales."
+   },
+   "bng": {
+    "v": 2,
+    "page": 21,
+    "note": "Regular legalmente los precios de los productos básicos y un precio máximo para gasolina y diésel."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 77,
+    "note": "Propone que el Estado pueda intervenir en la fijación o regulación del precio de la energía."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 16,
+    "note": "Propone la regulación inmediata de los precios de la luz y los combustibles; no menciona alimentos."
    }
   }
  },
@@ -4999,6 +6664,26 @@
     "v": -2,
     "page": 5,
     "note": "Propone revertir privatizaciones y externalizaciones; rechaza privatizar sanidad, vivienda pública o torres de control."
+   },
+   "bng": {
+    "v": -2,
+    "page": 18,
+    "note": "Restringir las privatizaciones e internalizar los servicios ya privatizados."
+   },
+   "pcte": {
+    "v": -2,
+    "page": 13,
+    "note": "Rechaza cualquier privatización más y propone gestión pública directa de servicios."
+   },
+   "mmj": {
+    "v": -2,
+    "page": 38,
+    "note": "Propone frenar la privatización de servicios públicos y priorizar la gestión pública directa."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 13,
+    "note": "Propone nacionalizar sectores estratégicos y se opone a la privatización de servicios."
    }
   }
  },
@@ -5063,6 +6748,21 @@
     "v": 1,
     "page": 12,
     "note": "Pide un complemento de insularidad financiado por el Estado para pensiones contributivas bajas y no contributivas."
+   },
+   "bng": {
+    "v": 2,
+    "page": 19,
+    "note": "Financiación pública de las pensiones con cargo a los presupuestos y a los impuestos sobre la riqueza."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 25,
+    "note": "Propone una aportación estable de los Presupuestos Generales del Estado al sistema de pensiones."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 48,
+    "note": "Propone dirigir recursos generados en España a financiar las pensiones; no menciona impuestos generales."
    }
   }
  },
@@ -5135,6 +6835,31 @@
     "v": 2,
     "page": 5,
     "note": "Propone un sistema público, universal y suficiente de cuidados de larga duración, como servicio fundamental."
+   },
+   "bng": {
+    "v": 2,
+    "page": 40,
+    "note": "Red pública de cuidados y servicios públicos fuertes para personas mayores y dependientes."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 79,
+    "note": "Propone mejorar la atención a mayores y dependencia, con más plazas públicas, sin crear un nuevo pilar."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 14,
+    "note": "Red pública universal de cuidados: escuelas infantiles, dependencia y residencias."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 38,
+    "note": "Propone redes de cuidados comunitarios y cuidados de larga duración; no un nuevo pilar del Estado."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 34,
+    "note": "Propone guarderías y jardines de infancia públicos y gratuitos; no menciona un sistema de cuidados de dependencia."
    }
   }
  },
@@ -5182,6 +6907,16 @@
     "v": -1,
     "page": 6,
     "note": "Propone ampliar las pensiones mínimas y no contributivas; no menciona endurecer requisitos ni el fraude de ayudas."
+   },
+   "mmj": {
+    "v": -2,
+    "page": 77,
+    "note": "Propone que las ayudas sean individuales, no condicionadas y libres de trabas burocráticas."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 52,
+    "note": "Propone eliminar las pagas a inmigrantes que no trabajan; no menciona el fraude en ayudas a nacionales."
    }
   }
  },
@@ -5204,6 +6939,21 @@
     "v": 2,
     "page": 9,
     "note": "Propone suprimir el copago farmacéutico de las personas pensionistas."
+   },
+   "bng": {
+    "v": 2,
+    "page": 38,
+    "note": "Modificar el marco de copagos y repagos farmacéuticos para acabar con ese modelo."
+   },
+   "pacma": {
+    "v": 2,
+    "page": 56,
+    "note": "Se opone al copago sanitario, también al farmacéutico."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 43,
+    "note": "Propone abaratar el acceso a medicamentos con receta y tender a su gratuidad en casos de especial necesidad."
    }
   }
  },
@@ -5236,6 +6986,16 @@
     "v": 2,
     "page": 6,
     "note": "Propone una farmacéutica pública con topes a los medicamentos."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 13,
+    "note": "Desarrollo de capacidades públicas en medicamentos, productos sanitarios e investigación farmacéutica."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 43,
+    "note": "Propone desarrollar una industria farmacéutica nacional; no especifica que sea pública."
    }
   }
  },
@@ -5293,6 +7053,31 @@
     "v": -2,
     "page": 6,
     "note": "Propone derogar la Ley 15/1997 para evitar la privatización sanitaria y priorizar la gestión directa."
+   },
+   "bng": {
+    "v": -2,
+    "page": 37,
+    "note": "Sanidad pública con entidades exclusivamente públicas; contra la financiación de centros privados."
+   },
+   "pacma": {
+    "v": -1,
+    "page": 56,
+    "note": "Se opone a la privatización de servicios sanitarios y propone reintegrarlos a lo público."
+   },
+   "pcte": {
+    "v": -2,
+    "page": 13,
+    "note": "Prohíbe nuevos conciertos y propone gestión pública directa en sanidad."
+   },
+   "mmj": {
+    "v": -1,
+    "page": 38,
+    "note": "Propone priorizar la gestión pública directa frente a la elección de centros privados financiados."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 42,
+    "note": "Propone acabar con la privatización de la sanidad, en contra de financiar centros privados con fondos públicos."
    }
   }
  },
@@ -5350,6 +7135,26 @@
     "v": 1,
     "page": 6,
     "note": "Propone más dinero para atención primaria y mejores condiciones del personal; no menciona plazas MIR."
+   },
+   "bng": {
+    "v": 2,
+    "page": 38,
+    "note": "Transferir las competencias MIR, EIR y PIR, aumentar plazas y garantizar condiciones laborales dignas."
+   },
+   "pcte": {
+    "v": 1,
+    "page": 13,
+    "note": "Plantillas suficientes y estables en sanidad; no menciona MIR ni condiciones concretas."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 38,
+    "note": "Propone estabilidad y mejores condiciones para atraer y retener profesionales; no cita las plazas MIR."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 43,
+    "note": "Propone mejorar las condiciones laborales y salariales del personal sanitario; no menciona plazas MIR."
    }
   }
  },
@@ -5414,6 +7219,21 @@
     "v": 2,
     "page": 5,
     "note": "Propone reducir las ratios en colegios e institutos."
+   },
+   "pacma": {
+    "v": 2,
+    "page": 60,
+    "note": "Propone reducir la ratio de alumnos por profesor en todas las etapas."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 13,
+    "note": "Descenso de las ratios de alumnos por aula."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 46,
+    "note": "Propone reducir las ratios a 20 alumnos en Infantil y Primaria y 25 en ESO y Bachillerato."
    }
   }
  },
@@ -5436,6 +7256,16 @@
     "v": 1,
     "page": 32,
     "note": "Propone estudiar y regular el uso de teléfonos móviles en los centros escolares."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 42,
+    "note": "Menciona el uso inadecuado de pantallas y redes como factor a prevenir; no propone prohibir móviles."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 22,
+    "note": "Propone frenar el experimento de la educación digital y apostar por una educación integral."
    }
   }
  },
@@ -5498,6 +7328,31 @@
     "v": 1,
     "page": 5,
     "note": "Propone educación pública, universal y gratuita de 0 a 3 años; no menciona libros ni comedor."
+   },
+   "bng": {
+    "v": 2,
+    "page": 34,
+    "note": "Libros de texto, material escolar y actividades extraescolares gratuitos."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 60,
+    "note": "Propone libros de texto gratuitos y transporte y comedor gratuitos para familias vulnerables."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 14,
+    "note": "Gratuidad educativa que incluye materiales, transporte y comedor."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 46,
+    "note": "Propone gratuidad de la educación pública y reforzar becas de comedor, transporte y material escolar."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 22,
+    "note": "Propone educación pública gratuita en todos los niveles y comedor escolar gratuito; no menciona los libros."
    }
   }
  },
@@ -5515,6 +7370,16 @@
     "v": 2,
     "page": 38,
     "note": "Propone que el consentimiento explícito determine si hay agresión sexual (solo sí es sí)."
+   },
+   "bng": {
+    "v": 1,
+    "page": 25,
+    "note": "Garantizar los recursos de la Ley Orgánica 10/2022 de garantía integral de la libertad sexual."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 32,
+    "note": "Critica la Ley Solo Sí Es Sí y las leyes que, según indica, perjudican a las mujeres."
    }
   }
  },
@@ -5542,6 +7407,26 @@
     "v": -1,
     "page": 77,
     "note": "Propone garantizar la filiación de los niños nacidos por gestación por sustitución; no prohíbe esta práctica."
+   },
+   "bng": {
+    "v": 2,
+    "page": 26,
+    "note": "Oposición firme a cualquier legalización o regulación de los vientres de alquiler."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 17,
+    "note": "Rechazo de la gestación subrogada y persecución de las agencias que la intermedian."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 79,
+    "note": "Propone mantener la prohibición de la gestación subrogada."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 32,
+    "note": "Propone prohibir y perseguir los vientres de alquiler a nivel nacional e internacional."
    }
   }
  },
@@ -5579,6 +7464,11 @@
     "v": 1,
     "page": 17,
     "note": "Exige mantener e incrementar las políticas de igualdad; no menciona el Ministerio."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 32,
+    "note": "Propone suprimir el Ministerio de Igualdad."
    }
   }
  },
@@ -5626,6 +7516,26 @@
     "v": -2,
     "page": 17,
     "note": "Defiende políticas específicas para la igualdad real de las mujeres, dentro de un enfoque feminista transversal."
+   },
+   "bng": {
+    "v": -2,
+    "page": 24,
+    "note": "Impulsa políticas feministas específicas para avanzar en los derechos de las mujeres."
+   },
+   "pcte": {
+    "v": -1,
+    "page": 17,
+    "note": "Defiende derechos específicos para mujeres trabajadoras, como jornada completa y permisos."
+   },
+   "mmj": {
+    "v": -1,
+    "page": 78,
+    "note": "Propone medidas específicas para mujeres frente a la violencia y la pobreza, no medidas sin distinción de sexo."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 32,
+    "note": "Propone derogar las leyes basadas en la discriminación positiva y suprimir los cupos."
    }
   }
  },
@@ -5663,6 +7573,16 @@
     "v": 1,
     "page": 7,
     "note": "Propone regular el acceso a la residencia según la capacidad de carga de cada isla; no fija un máximo anual de entradas."
+   },
+   "pcte": {
+    "v": -1,
+    "page": 20,
+    "note": "Propone regularización permanente; no menciona un límite anual de entradas."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 34,
+    "note": "Habla de una inmigración controlada en un número asumible; no fija un máximo anual."
    }
   }
  },
@@ -5690,6 +7610,11 @@
     "v": 1,
     "page": 58,
     "note": "Ofrece un itinerario gratuito de idioma y Constitución que prepara los exámenes de nacionalidad; no exige examen para residencia."
+   },
+   "bng": {
+    "v": 1,
+    "page": 23,
+    "note": "Propone admitir el conocimiento acreditado de la lengua gallega como criterio para la nacionalidad."
    }
   }
  },
@@ -5747,6 +7672,31 @@
     "v": 1,
     "page": 19,
     "note": "Defiende una Canarias acogedora y los derechos de todas las personas; no menciona el empadronamiento."
+   },
+   "bng": {
+    "v": 1,
+    "page": 23,
+    "note": "Reformas para garantizar derechos (vivienda, trabajo, sanidad, educación) a la población inmigrante."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 81,
+    "note": "Propone acceso unificado a derechos como educación, sanidad y alojamiento para todas las personas."
+   },
+   "pcte": {
+    "v": 1,
+    "page": 21,
+    "note": "Mismos derechos para trabajadores migrantes; no menciona el empadronamiento."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 52,
+    "note": "Propone garantizar el empadronamiento y los servicios públicos sea cual sea la situación administrativa."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 53,
+    "note": "Propone expulsar a quien está irregularmente en el país y no permitir su regularización."
    }
   }
  },
@@ -5814,6 +7764,16 @@
     "v": -2,
     "page": 16,
     "note": "Rechaza la externalización de fronteras."
+   },
+   "mmj": {
+    "v": -2,
+    "page": 51,
+    "note": "Propone poner fin a la externalización de fronteras y a los acuerdos de control con países de origen."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 54,
+    "note": "Propone acuerdos con países cercanos para instalar centros de clasificación y deportación."
    }
   }
  },
@@ -5861,6 +7821,26 @@
     "v": 1,
     "page": 29,
     "note": "Pide oponerse a prospecciones de gas, petróleo o minerales en aguas en disputa frente a Canarias; no menciona el fracking."
+   },
+   "bng": {
+    "v": 2,
+    "page": 56,
+    "note": "Mantenimiento de la prohibición del fracking."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 34,
+    "note": "Critica el modelo fósil y propone transición a energías limpias; no menciona el fracking."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 58,
+    "note": "Propone eliminar las fuentes fósiles (carbón, petróleo y gas); no menciona expresamente el fracking."
+   },
+   "frenteobrero": {
+    "v": -1,
+    "page": 13,
+    "note": "Propone explotar los recursos con los que cuenta España; no menciona el fracking."
    }
   }
  },
@@ -5883,6 +7863,16 @@
     "v": 2,
     "page": 95,
     "note": "Propone implantar de forma acelerada las zonas de bajas emisiones."
+   },
+   "bng": {
+    "v": -2,
+    "page": 70,
+    "note": "Rechaza restricciones de acceso por tipo y antigüedad de los vehículos."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 35,
+    "note": "Propone reducir la contaminación del aire desde el transporte; no menciona expresamente zonas de bajas emisiones."
    }
   }
  },
@@ -5925,6 +7915,26 @@
     "v": 1,
     "page": 18,
     "note": "Propone eliminar subvenciones a combustibles fósiles y gravar los vuelos privados y los billetes de avión."
+   },
+   "bng": {
+    "v": 2,
+    "page": 45,
+    "note": "Fiscalidad ambiental en energía, transporte, contaminación y recursos naturales."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 37,
+    "note": "Propone impuesto climático a productos de origen animal; no menciona fiscalidad sobre combustibles fósiles."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 55,
+    "note": "Propone una tasa según la huella ambiental de los productos; no grava expresamente los combustibles fósiles."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 16,
+    "note": "Critica los impuestos que encarecen los combustibles; no propone subirlos."
    }
   }
  },
@@ -5972,6 +7982,26 @@
     "v": 1,
     "page": 11,
     "note": "Propone ampliar la red de reservas marinas (al menos una por isla); no fija límites a las actividades económicas."
+   },
+   "bng": {
+    "v": 2,
+    "page": 67,
+    "note": "Conservar al menos el 30 % de las zonas terrestres, marinas y costeras."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 47,
+    "note": "Propone proteger espacios naturales y biodiversidad, con limitaciones a actividades que dañen el medio."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 55,
+    "note": "Propone una red de corredores ecológicos conectando espacios de la Red Natura."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 38,
+    "note": "Propone proteger especies y planes de recuperación de la biodiversidad y del patrimonio natural."
    }
   }
  },
@@ -6009,6 +8039,11 @@
     "v": 1,
     "page": 27,
     "note": "Propone electrificar el sistema al 100% en 2030 y abandonar los combustibles fósiles; no cita la fecha de 2035."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 15,
+    "note": "Propone poner fin a la llamada transición ecológica, que incluye los objetivos europeos de vehículos."
    }
   }
  },
@@ -6041,6 +8076,16 @@
     "v": 1,
     "page": 14,
     "note": "Propone instalaciones renovables de bajo impacto y techumbres fotovoltaicas, minimizando la ocupación de territorio."
+   },
+   "bng": {
+    "v": 1,
+    "page": 55,
+    "note": "Control público y participación ciudadana en los proyectos eólicos."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 38,
+    "note": "Propone prohibir la construcción de parques solares en tierras aptas para el cultivo."
    }
   }
  },
@@ -6093,6 +8138,31 @@
     "v": 1,
     "page": 8,
     "note": "Exige financiación que compense la insularidad y la lejanía y garantice transporte y conectividad; no menciona los pueblos."
+   },
+   "bng": {
+    "v": 1,
+    "page": 85,
+    "note": "Servicios públicos, transporte y conectividad en el rural; no fija el coste como condición."
+   },
+   "pacma": {
+    "v": 2,
+    "page": 71,
+    "note": "Propone garantizar servicios públicos esenciales en el medio rural."
+   },
+   "pcte": {
+    "v": 2,
+    "page": 15,
+    "note": "Servicios públicos, transporte y conectividad en el medio rural con los mismos derechos que en las ciudades."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 91,
+    "note": "Propone servicios públicos garantizados en los pueblos y discriminación positiva para el mundo rural."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 42,
+    "note": "Propone más centros de atención primaria en zonas rurales; no menciona escuelas ni transporte."
    }
   }
  },
@@ -6130,6 +8200,16 @@
     "v": 1,
     "page": 20,
     "note": "Pide adaptaciones de normas europeas cuando causen impactos desproporcionados en agricultura; no pide rebajar exigencias ambientales generales."
+   },
+   "pacma": {
+    "v": -1,
+    "page": 47,
+    "note": "Propone mantener objetivos ambientales europeos y no ponerlos en riesgo."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 37,
+    "note": "Critica el peso de las exigencias de la Agenda 2030 y de lobbys ecologistas sobre los ganaderos."
    }
   }
  },
@@ -6167,6 +8247,21 @@
     "v": 1,
     "page": 15,
     "note": "Refuerza la protección de la biodiversidad y establece protección general para tiburones y rayas; no menciona al lobo."
+   },
+   "pacma": {
+    "v": 2,
+    "page": 14,
+    "note": "Propone proteger al lobo y prohibir su caza; no menciona compensaciones."
+   },
+   "mmj": {
+    "v": 1,
+    "page": 56,
+    "note": "Propone recuperar especies en declive; no menciona el lobo ni compensaciones por daños."
+   },
+   "frenteobrero": {
+    "v": -1,
+    "page": 38,
+    "note": "Propone que el Estado determine el control poblacional de la fauna, apoyándose en cazadores."
    }
   }
  },
@@ -6199,6 +8294,16 @@
     "v": -1,
     "page": 21,
     "note": "Propone que las diputaciones forales usen superávits y reglas de gasto más flexibles; no plantea suprimirlas."
+   },
+   "bng": {
+    "v": 2,
+    "page": 42,
+    "note": "Supresión de las diputaciones provinciales."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 56,
+    "note": "Critica la excesiva administración local y propone fusionar ayuntamientos; no menciona diputaciones."
    }
   }
  },
@@ -6283,6 +8388,16 @@
     "v": 1,
     "page": 15,
     "note": "Pide la cogestión canaria de los aeropuertos; no menciona trenes de cercanías."
+   },
+   "bng": {
+    "v": 2,
+    "page": 9,
+    "note": "Transferencia a Galicia de puertos, aeropuertos y estradas de interés estatal."
+   },
+   "frenteobrero": {
+    "v": -2,
+    "page": 56,
+    "note": "Propone centralizar competencias como servicios de emergencia y otras; se opone a su traspaso."
    }
   }
  },
@@ -6330,6 +8445,21 @@
     "v": -2,
     "page": 16,
     "note": "Defiende el derecho a decidir y el derecho de los pueblos a la autodeterminación."
+   },
+   "bng": {
+    "v": -1,
+    "page": 30,
+    "note": "Propone derogar los delitos de opinión y de desórdenes públicos; no menciona el artículo 155 ni la sedición."
+   },
+   "pcte": {
+    "v": -1,
+    "page": 20,
+    "note": "Propone derogar los delitos de opinión; no menciona el artículo 155 ni la sedición."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 56,
+    "note": "Se posiciona contra todos los procesos de independencia; no menciona el artículo 155 ni la sedición."
    }
   }
  },
@@ -6352,6 +8482,11 @@
     "v": -2,
     "page": 25,
     "note": "Propone ampliar el Congreso a 400 escaños; no propone reducir diputados ni cargos."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 56,
+    "note": "Propone rebajar el número de cargos políticos y administrativos."
    }
   }
  },
@@ -6399,6 +8534,26 @@
     "v": 1,
     "page": 18,
     "note": "Propone prevenir y castigar la corrupción; no menciona endurecer penas ni prohibir indultos."
+   },
+   "bng": {
+    "v": 1,
+    "page": 41,
+    "note": "Inhabilitación de cargos que cometan fraude fiscal; no menciona los indultos."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 73,
+    "note": "Propone medidas de transparencia y control contra la corrupción; no menciona penas ni indultos."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 69,
+    "note": "Propone inhabilitación, prohibición de indultos por corrupción y exclusión de listas a condenados."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 59,
+    "note": "Propone subir las penas por corrupción y prohibir el indulto en casos de corrupción política."
    }
   }
  },
@@ -6433,6 +8588,26 @@
     "v": 1,
     "page": 13,
     "note": "Propone eliminar las excepciones a la normativa de puertas giratorias en el Código Ético."
+   },
+   "bng": {
+    "v": 2,
+    "page": 41,
+    "note": "Regulación estricta de las puertas giratorias."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 73,
+    "note": "Propone normas de conflicto de intereses y control de asesores; no menciona puertas giratorias."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 73,
+    "note": "Propone que un alto cargo no pueda ser contratado por empresas de su sector durante al menos 5 años."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 16,
+    "note": "Propone medidas contra las puertas giratorias en el sector energético; no lo extiende a otros sectores."
    }
   }
  },
@@ -6502,6 +8677,16 @@
     "v": 1,
     "page": 28,
     "note": "Propone una seguridad europea propia basada en la diplomacia y rechaza la OTAN; no menciona un ejército común."
+   },
+   "bng": {
+    "v": -2,
+    "page": 90,
+    "note": "Oposición a la militarización de la UE."
+   },
+   "frenteobrero": {
+    "v": -1,
+    "page": 11,
+    "note": "Propone salir de la UE y de la OTAN; no menciona un ejército europeo común."
    }
   }
  },
@@ -6534,6 +8719,11 @@
     "v": 1,
     "page": 19,
     "note": "Apoya la causa del pueblo palestino y el respeto a su soberanía; no menciona reconocer el Estado."
+   },
+   "bng": {
+    "v": 2,
+    "page": 90,
+    "note": "Reconocimiento real y efectivo del Estado palestino."
    }
   }
  },
@@ -6561,6 +8751,11 @@
     "v": 2,
     "page": 37,
     "note": "Pone la soberanía de Gibraltar sobre la mesa en la negociación."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 11,
+    "note": "Propone recuperar el control de Gibraltar y expulsar bases militares extranjeras."
    }
   }
  },
@@ -6578,6 +8773,11 @@
     "v": 1,
     "page": 56,
     "note": "Respalda que Ucrania avance hacia la Unión Europea conforme a los procedimientos establecidos."
+   },
+   "frenteobrero": {
+    "v": -1,
+    "page": 11,
+    "note": "Propone salir de la Unión Europea; no menciona la entrada de nuevos países."
    }
   }
  },
@@ -6600,6 +8800,21 @@
     "v": 2,
     "page": 102,
     "note": "Propone elegir el consejo de RTVE por concurso con expertos independientes y mayoría de dos tercios en las Cortes."
+   },
+   "bng": {
+    "v": 1,
+    "page": 32,
+    "note": "Pluralidad informativa en los medios de titularidad pública; no menciona la independencia de RTVE."
+   },
+   "pacma": {
+    "v": 2,
+    "page": 75,
+    "note": "Propone elegir dirección y consejos de RTVE por concurso de méritos y mandatos no coincidentes."
+   },
+   "frenteobrero": {
+    "v": 2,
+    "page": 40,
+    "note": "Propone que los medios públicos tengan independencia real respecto al gobierno de turno."
    }
   }
  },
@@ -6627,6 +8842,16 @@
     "v": -2,
     "page": 34,
     "note": "Propone derogar la Ley 18/2013 que protege la tauromaquia y suprimir las subvenciones a los toros."
+   },
+   "pacma": {
+    "v": -2,
+    "page": 12,
+    "note": "Critica la protección de la tauromaquia como patrimonio cultural y propone prohibirla."
+   },
+   "mmj": {
+    "v": 0,
+    "page": 61,
+    "note": "El programa no propone cambios en la regulación de la tauromaquia y reconoce posiciones distintas en el partido."
    }
   }
  },
@@ -6649,6 +8874,21 @@
     "v": 2,
     "page": 17,
     "note": "Propone un impuesto digital para las grandes plataformas tecnológicas y combatir la elusión fiscal."
+   },
+   "bng": {
+    "v": 2,
+    "page": 81,
+    "note": "Tributación del capitalismo de vigilancia y de las plataformas en los territorios donde operan."
+   },
+   "mmj": {
+    "v": 2,
+    "page": 27,
+    "note": "Propone mantener y ampliar el impuesto a servicios digitales, tipo tasa Google."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 18,
+    "note": "Propone perseguir con multas a empresas que tributan fuera; no menciona una tasa digital."
    }
   }
  },
@@ -6691,6 +8931,21 @@
     "v": 1,
     "page": 8,
     "note": "Propone financiación que garantice la conectividad en Canarias; no habla de un servicio universal en todo el territorio."
+   },
+   "bng": {
+    "v": 1,
+    "page": 85,
+    "note": "Conectividad en el rural; no menciona la alta velocidad como servicio universal."
+   },
+   "pacma": {
+    "v": 1,
+    "page": 75,
+    "note": "Propone ampliar la conectividad y puntos de acceso a internet gratuito; no menciona servicio universal."
+   },
+   "pcte": {
+    "v": 1,
+    "page": 15,
+    "note": "Conectividad en el medio rural como condición para vivir con los mismos derechos que en las ciudades."
    }
   }
  },
@@ -6723,6 +8978,16 @@
     "v": 1,
     "page": 21,
     "note": "Propone gobernanza democrática de la IA con auditoría y protección de derechos; no menciona la vigilancia masiva."
+   },
+   "bng": {
+    "v": 2,
+    "page": 77,
+    "note": "Límites estrictos al reconocimiento facial y a la vigilancia biométrica masiva."
+   },
+   "frenteobrero": {
+    "v": 1,
+    "page": 21,
+    "note": "Propone regular y controlar el uso de la inteligencia artificial; no menciona la vigilancia masiva."
    }
   }
  }
