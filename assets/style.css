@@ -1,0 +1,14 @@
+:root { --bg:#fafafa; --fg:#1d1d1f; --muted:#666; --accent:#2457d6; --card:#fff; --border:#e2e2e2; }
+@media (prefers-color-scheme: dark) {
+  :root { --bg:#121214; --fg:#ececec; --muted:#9a9a9a; --accent:#7aa2ff; --card:#1c1c1f; --border:#2c2c30; }
+}
+* { box-sizing: border-box; }
+body { margin:0; font:16px/1.5 system-ui, sans-serif; background:var(--bg); color:var(--fg); }
+header { position:sticky; top:0; background:var(--card); border-bottom:1px solid var(--border); padding:8px 16px; z-index:10; }
+h1 { font-size:1.15rem; margin:4px 0 8px; }
+nav { display:flex; gap:6px; overflow-x:auto; padding-bottom:4px; }
+nav a { flex:none; padding:10px 12px; border-radius:999px; color:var(--fg); text-decoration:none; border:1px solid var(--border); font-size:.9rem; }
+nav a.active { background:var(--accent); color:#fff; border-color:var(--accent); }
+main { max-width:900px; margin:0 auto; padding:16px; }
+.card { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:16px; margin-bottom:12px; }
+.muted { color:var(--muted); }
