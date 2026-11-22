@@ -3,12 +3,20 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <script>
+    // Aplica el tema guardado antes de pintar (evita el parpadeo).
+    try { var t = localStorage.getItem('theme'); if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
   <title>Programas 29N</title>
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
   <header>
-    <h1><a href="#/">🗳️ Programas 29N</a></h1>
+    <div class="topbar">
+      <h1><a href="#/">🗳️ Programas 29N</a></h1>
+      <button type="button" id="theme-toggle" aria-label="Cambiar entre modo claro y oscuro" title="Cambiar tema"></button>
+    </div>
     <nav id="nav">
       <a href="#/resumenes">Resúmenes</a>
       <a href="#/comparar">Comparar</a>

@@ -69,6 +69,9 @@ Se publica con **GitHub Pages**. No hay paso de compilación: HTML + CSS + JS no
 - [ ] 100 preguntas del manual de mesa (solo de las páginas de instrucciones/procedimiento).
 - [ ] `tools/validate.py`: comprueba el esquema, que no haya ids repetidos, que las páginas existan y que la respuesta aparezca cerca de la página citada.
 
+## Extras hechos
+- [x] Modo oscuro con botón en la cabecera (recuerda tu elección; por defecto sigue el tema del móvil/PC).
+
 ## Ideas opcionales
 - Tarjetas de memoria (flashcards) y modo "repaso rápido de 5 min".
 - PWA (que funcione sin conexión desde el móvil).

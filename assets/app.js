@@ -55,5 +55,25 @@ window.addEventListener('hashchange', () => {
   render().then(() => scrollTo(0, y));
 });
 initGlossaryPopover();
+
+// ---- Tema claro / oscuro ----
+const root = document.documentElement;
+const themeBtn = document.getElementById('theme-toggle');
+const systemDark = matchMedia('(prefers-color-scheme: dark)');
+const isDark = () => root.dataset.theme ? root.dataset.theme === 'dark' : systemDark.matches;
+function paintThemeBtn() {
+  const dark = isDark();
+  themeBtn.textContent = dark ? '☀️' : '🌙';
+  themeBtn.setAttribute('aria-pressed', String(dark));
+  themeBtn.title = dark ? 'Cambiar a modo claro' : 'Cambiar a modo oscuro';
+}
+themeBtn.addEventListener('click', () => {
+  const next = isDark() ? 'light' : 'dark';
+  root.dataset.theme = next;
+  try { localStorage.setItem('theme', next); } catch { /* sin almacenamiento */ }
+  paintThemeBtn();
+});
+systemDark.addEventListener('change', paintThemeBtn);
+paintThemeBtn();
 lastRoute = parseHash().route;
 render();

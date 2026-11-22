@@ -22,6 +22,7 @@ Web estática en **español** para preparar las Elecciones Generales del **29/11
 - Cuando aparezca un término técnico, añadirlo al `glossary` del resumen (o a `data/glossary_extra.json`) y ejecutar `python tools/build_glossary.py`, que genera `data/glossary.json`. La web subraya esos términos automáticamente.
 - Validar siempre con `python tools/validate.py [id]`.
 
+- **Temas claro/oscuro**: nunca escribir colores fijos en `style.css` ni en el JS; usar las variables de `:root` (`--bg --fg --card --border --accent --on-accent --warn --shadow --s2…`). Cada variable nueva se define en los tres bloques (claro, `[data-theme="dark"]` y `@media (prefers-color-scheme: dark)`). El botón 🌙/☀️ de la cabecera guarda la elección en `localStorage('theme')`; sin elección se sigue el tema del sistema.
 - Toda página que muestre resúmenes, posturas o porcentajes incluye `reviewNote()` (invita a consultar el documento original).
 
 ## 4. Lista común de temas (`data/topics.json`)
