@@ -1,0 +1,402 @@
+{
+ "viv-1": {
+  "v": 2,
+  "page": 5,
+  "note": "Tope del 2% a la actualización anual del alquiler y regulación de precios con índices de referencia."
+ },
+ "viv-2": {
+  "v": 1,
+  "page": 5,
+  "note": "No plantea derogarla, sino cambios para reforzar la regulación: prórroga automática, tope de renta y prohibición de desahucios."
+ },
+ "viv-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-4": {
+  "v": -1,
+  "page": 5,
+  "note": "Propone prohibir de forma permanente los desahucios de familias vulnerables sin alternativa habitacional."
+ },
+ "viv-5": {
+  "v": 2,
+  "page": 5,
+  "note": "Prohíbe la compra especulativa por fondos y grandes tenedores y condiciona la compra a extranjeros multipropietarios."
+ },
+ "viv-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-7": {
+  "v": 2,
+  "page": 5,
+  "note": "Prohibir publicidad de pisos turísticos ilegales, IVA del 21% a alojamientos de corta duración y condicionar compra de edificios."
+ },
+ "emp-1": {
+  "v": 1,
+  "page": 6,
+  "note": "Propone un SMI de suficiencia con referencia a la Carta Social Europea, sin fijar el 60% explícitamente."
+ },
+ "emp-2": {
+  "v": 2,
+  "page": 6,
+  "note": "Jornada de 32 horas o 4 días sin reducción salarial, con transición para las pymes."
+ },
+ "emp-3": {
+  "v": 2,
+  "page": 6,
+  "note": "Indemnización por despido improcedente de al menos 45 días y salarios de tramitación."
+ },
+ "emp-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-5": {
+  "v": 2,
+  "page": 6,
+  "note": "Que las comunidades autónomas puedan fijar su propio SMI, siendo el estatal el mínimo."
+ },
+ "eco-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-2": {
+  "v": 2,
+  "page": 14,
+  "note": "Aumentar el peso del impuesto a la banca y a las grandes fortunas."
+ },
+ "eco-3": {
+  "v": 2,
+  "page": 14,
+  "note": "Impuesto permanente a energéticas, más impuesto a banca y a grandes distribuidoras alimentarias."
+ },
+ "eco-4": {
+  "v": -2,
+  "page": 14,
+  "note": "Rechaza volver a la austeridad, privatizaciones y recortes en servicios públicos."
+ },
+ "eco-5": {
+  "v": 1,
+  "page": 16,
+  "note": "Propone reforzar la participación pública en sectores estratégicos, sin mencionar banca pública."
+ },
+ "eco-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-1": {
+  "v": 2,
+  "page": 7,
+  "note": "Mantener y blindar la revalorización anual de las pensiones con el IPC."
+ },
+ "pen-2": {
+  "v": 2,
+  "page": 8,
+  "note": "Mínimas al menos a 1.220 euros y subida del 15% a viudedad y no contributivas."
+ },
+ "pen-3": {
+  "v": 2,
+  "page": 8,
+  "note": "Culminar la ley de pensión sin penalización con al menos 40 años de cotización."
+ },
+ "pen-4": {
+  "v": 2,
+  "page": 13,
+  "note": "Ampliar y simplificar el IMV, transferirlo y hacer la ayuda a la crianza compatible con él."
+ },
+ "pen-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-1": {
+  "v": 2,
+  "page": 11,
+  "note": "Derogar la Ley 15/1997 que permite externalizar y privatizar servicios sanitarios."
+ },
+ "san-2": {
+  "v": 1,
+  "page": 10,
+  "note": "Ampliar la cartera común con salud bucodental para los colectivos más vulnerables."
+ },
+ "san-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-4": {
+  "v": -2,
+  "page": 20,
+  "note": "Garantizar sanidad pública sin importar la situación administrativa."
+ },
+ "san-5": {
+  "v": 1,
+  "page": 11,
+  "note": "Nuevo modelo de salud mental centrado en determinantes sociales; reconoce la psicología como profesión sanitaria."
+ },
+ "edu-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-2": {
+  "v": 1,
+  "page": 11,
+  "note": "Defiende un sistema educativo laico, sin mencionar expresamente la asignatura de religión."
+ },
+ "edu-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-1": {
+  "v": 2,
+  "page": 19,
+  "note": "Medidas contra violencia machista, vicaria y digital, y revisión de recursos de protección."
+ },
+ "igu-2": {
+  "v": 2,
+  "page": 19,
+  "note": "Blindar el aborto con acceso libre, seguro, confidencial y digno."
+ },
+ "igu-3": {
+  "v": 2,
+  "page": 19,
+  "note": "No aceptar retrocesos en derechos trans y desarrollar la Ley 4/2023."
+ },
+ "igu-4": {
+  "v": 2,
+  "page": 14,
+  "note": "Equiparar permisos para familias monoparentales y crear permisos preparto y puerperal."
+ },
+ "igu-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-1": {
+  "v": 2,
+  "page": 20,
+  "note": "Garantizar una regularización efectiva, accesible y estable."
+ },
+ "inm-2": {
+  "v": -2,
+  "page": 20,
+  "note": "Rechaza devoluciones sumarias, externalización de fronteras y políticas restrictivas."
+ },
+ "inm-3": {
+  "v": 2,
+  "page": 20,
+  "note": "Rechaza expresamente los CIE."
+ },
+ "inm-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-5": {
+  "v": -2,
+  "page": 20,
+  "note": "Acceso a servicios públicos independientemente de la situación administrativa."
+ },
+ "inm-6": {
+  "v": -1,
+  "page": 20,
+  "note": "Propone ciudadanía basada en la residencia efectiva y ampliar derechos políticos de residentes extranjeros."
+ },
+ "med-1": {
+  "v": -2,
+  "page": 15,
+  "note": "Mantener el calendario de cierre nuclear del PNIEC."
+ },
+ "med-2": {
+  "v": 2,
+  "page": 15,
+  "note": "Revisar al alza el PNIEC, descarbonizar a 2045 y desplegar renovables rápido."
+ },
+ "med-3": {
+  "v": -2,
+  "page": 21,
+  "note": "Se apoya en el Tratado Verde Europeo y propone ambición climática mayor."
+ },
+ "med-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-1": {
+  "v": 2,
+  "page": 24,
+  "note": "Reconoce el derecho a decidir del pueblo vasco como mecanismo democrático."
+ },
+ "ter-2": {
+  "v": -2,
+  "page": 24,
+  "note": "Defiende el autogobierno frente a cualquier intento de recentralización."
+ },
+ "ter-3": {
+  "v": 2,
+  "page": 23,
+  "note": "Pide reconocer la plurinacionalidad del Estado y Euskal Herria como nación."
+ },
+ "ter-4": {
+  "v": 2,
+  "page": 24,
+  "note": "Defender y ampliar el Concierto Económico y el Convenio Económico Navarro."
+ },
+ "ter-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-6": {
+  "v": 2,
+  "page": 24,
+  "note": "Exige competencias pendientes del Estatuto y nuevas como migración, Seguridad Social y energía."
+ },
+ "ins-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-3": {
+  "v": 2,
+  "page": 22,
+  "note": "Acabar con la Ley Mordaza con una nueva Proposición de Ley."
+ },
+ "ins-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-5": {
+  "v": 2,
+  "page": 27,
+  "note": "Ampliar la Ley de Memoria Democrática a más colectivos de víctimas."
+ },
+ "ins-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-1": {
+  "v": -2,
+  "page": 28,
+  "note": "Rechaza el aumento del gasto en defensa que exige la OTAN."
+ },
+ "ext-2": {
+  "v": 2,
+  "page": 28,
+  "note": "Rechaza la OTAN y la pertenencia de Euskal Herria a ella."
+ },
+ "ext-3": {
+  "v": 2,
+  "page": 29,
+  "note": "Aislar a Israel y bloquear por completo la venta de armas."
+ },
+ "ext-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-5": {
+  "v": 2,
+  "page": 29,
+  "note": "Recuperar el apoyo a la autodeterminación del pueblo saharaui."
+ },
+ "ext-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-2": {
+  "v": 2,
+  "page": 21,
+  "note": "Gobernanza pública de la IA y control de plataformas digitales y algoritmos."
+ },
+ "cul-3": {
+  "v": 0,
+  "page": 21,
+  "note": "Propone proteger a menores en entornos digitales con medidas de diseño, sin prohibir las redes."
+ },
+ "cul-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-6": {
+  "v": 2,
+  "page": 25,
+  "note": "Oficialidad de euskera, catalán y gallego en la UE y atención en euskera en la administración estatal."
+ }
+}

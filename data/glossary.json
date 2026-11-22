@@ -138,9 +138,11 @@
  },
  {
   "term": "CIE",
-  "definition": "Centro de Internamiento de Extranjeros: lugar donde se retiene a personas migrantes en situación irregular antes de expulsarlas.",
+  "definition": "Centro de Internamiento de Extranjeros: instalación donde se retiene a personas extranjeras pendientes de expulsión.",
   "from": [
    "compromis",
+   "drago",
+   "ehbildu",
    "frenteamplio",
    "podemos"
   ]
@@ -175,9 +177,10 @@
   ]
  },
  {
-  "term": "Concierto económico",
+  "term": "Concierto Económico",
   "definition": "Modelo de financiación (como el del País Vasco) en el que la comunidad recauda los impuestos y paga al Estado una cantidad por los servicios que este presta.",
   "from": [
+   "ehbildu",
    "erc",
    "pnv"
   ]
@@ -197,6 +200,13 @@
   ]
  },
  {
+  "term": "Convenio Económico Navarro",
+  "definition": "Régimen similar al Concierto Económico aplicado a Navarra: la Hacienda foral recauda los impuestos y paga al Estado una Aportación.",
+  "from": [
+   "ehbildu"
+  ]
+ },
+ {
   "term": "Corredor Mediterráneo",
   "definition": "Línea ferroviaria de mercancías y viajeros que conecta la costa mediterránea española con Europa.",
   "from": [
@@ -208,6 +218,13 @@
   "definition": "Cantidad que pagan trabajadores y empresas a la Seguridad Social, que da derecho a pensiones y prestaciones.",
   "from": [
    "d21"
+  ]
+ },
+ {
+  "term": "Cupo y Aportación",
+  "definition": "Cantidades que País Vasco (Cupo) y Navarra (Aportación) pagan al Estado por los servicios que este presta en su territorio.",
+  "from": [
+   "ehbildu"
   ]
  },
  {
@@ -239,6 +256,13 @@
   ]
  },
  {
+  "term": "Derecho a decidir",
+  "definition": "Idea de que la ciudadanía de un territorio pueda decidir democráticamente su relación política con el Estado.",
+  "from": [
+   "ehbildu"
+  ]
+ },
+ {
   "term": "Derecho al error",
   "definition": "Principio por el que un fallo formal sin mala fe se corrige sin sanción económica.",
   "from": [
@@ -254,9 +278,10 @@
  },
  {
   "term": "Doble insularidad",
-  "definition": "La situación de las islas menores que dependen de otra isla para llegar al continente, como La Gomera o El Hierro.",
+  "definition": "Dificultad añadida de las islas pequeñas que dependen de otra isla mayor, además de estar lejos del continente.",
   "from": [
-   "cc"
+   "cc",
+   "upc"
   ]
  },
  {
@@ -264,6 +289,13 @@
   "definition": "Bajar impuestos en un territorio para atraer a las rentas altas y empresas de otros.",
   "from": [
    "frenteamplio"
+  ]
+ },
+ {
+  "term": "D’Hondt",
+  "definition": "Fórmula de reparto de escaños usada en las elecciones generales españolas, que tiende a favorecer a los partidos más votados.",
+  "from": [
+   "drago"
   ]
  },
  {
@@ -323,10 +355,31 @@
   ]
  },
  {
+  "term": "Factor de sostenibilidad",
+  "definition": "Mecanismo que ajusta las pensiones iniciales según la esperanza de vida de cada generación.",
+  "from": [
+   "upc"
+  ]
+ },
+ {
   "term": "FLA",
   "definition": "Fondo de Liquidez Autonómico: préstamos del Estado a las comunidades autónomas que no podían financiarse en los mercados.",
   "from": [
    "erc"
+  ]
+ },
+ {
+  "term": "Fondos buitre",
+  "definition": "Fondos de inversión que compran grandes cantidades de vivienda o deuda para obtener beneficio, a menudo con fines especulativos.",
+  "from": [
+   "upc"
+  ]
+ },
+ {
+  "term": "Frontex",
+  "definition": "Agencia europea de la guardia de fronteras y costas, que coordina el control de las fronteras exteriores de la UE.",
+  "from": [
+   "drago"
   ]
  },
  {
@@ -337,9 +390,17 @@
   ]
  },
  {
-  "term": "Haciendas Forales",
-  "definition": "Las administraciones tributarias de las tres diputaciones forales (Álava, Bizkaia y Gipuzkoa), que gestionan los impuestos en sus territorios.",
+  "term": "Grupo Mixto",
+  "definition": "Grupo parlamentario al que van los diputados cuyos partidos no alcanzan los escaños para tener grupo propio.",
   "from": [
+   "drago"
+  ]
+ },
+ {
+  "term": "Haciendas forales",
+  "definition": "Instituciones de las diputaciones forales vascas y de Navarra que gestionan y recaudan los impuestos propios.",
+  "from": [
+   "ehbildu",
    "pnv"
   ]
  },
@@ -366,9 +427,10 @@
  },
  {
   "term": "IGIC",
-  "definition": "Impuesto General Indirecto Canario: el impuesto sobre el consumo que se aplica en Canarias en lugar del IVA.",
+  "definition": "Impuesto General Indirecto Canario: equivale al IVA, pero con tipos más bajos.",
   "from": [
-   "cc"
+   "cc",
+   "upc"
   ]
  },
  {
@@ -423,8 +485,9 @@
  },
  {
   "term": "IPREM",
-  "definition": "Indicador Público de Renta de Efectos Múltiples: cifra que el Estado usa como referencia para calcular ayudas, subsidios y becas.",
+  "definition": "Indicador Público de Renta de Efectos Múltiples: índice usado para fijar el acceso y la cuantía de ayudas y prestaciones.",
   "from": [
+   "ehbildu",
    "frenteamplio"
   ]
  },
@@ -475,6 +538,13 @@
   ]
  },
  {
+  "term": "Kellys",
+  "definition": "Nombre con el que se conoce a las camareras de piso de los hoteles.",
+  "from": [
+   "drago"
+  ]
+ },
+ {
   "term": "Ley Beckham",
   "definition": "Régimen fiscal especial que permite a ciertas personas que se trasladan a España tributar como no residentes durante 6 años, con un tipo de IRPF reducido.",
   "from": [
@@ -486,6 +556,13 @@
   "definition": "Ley que borra responsabilidades penales de ciertos delitos, aprobada en relación con el proceso independentista catalán.",
   "from": [
    "pp"
+  ]
+ },
+ {
+  "term": "Ley de Residencia",
+  "definition": "Ley propuesta para que Canarias pueda regular el acceso a la residencia y el empadronamiento efectivo según la capacidad de cada isla.",
+  "from": [
+   "drago"
   ]
  },
  {
@@ -503,9 +580,10 @@
   ]
  },
  {
-  "term": "Ley mordaza",
+  "term": "Ley Mordaza",
   "definition": "Nombre popular de la Ley de Protección de la Seguridad Ciudadana (2015), que sanciona con multas ciertas protestas y conductas en la vía pública.",
   "from": [
+   "ehbildu",
    "erc",
    "frenteamplio",
    "pnv"
@@ -538,6 +616,20 @@
   "definition": "Región atlántica formada por Canarias, Madeira, las Azores y otros archipiélagos próximos.",
   "from": [
    "cc"
+  ]
+ },
+ {
+  "term": "Marco Financiero Plurianual",
+  "definition": "Presupuesto a largo plazo de la UE. El próximo cubre 2028-2034 y fija cuánto dinero recibe cada política y región.",
+  "from": [
+   "upc"
+  ]
+ },
+ {
+  "term": "Mediana con Marruecos",
+  "definition": "Línea equidistante entre las costas de Canarias y de Marruecos para repartir las aguas y fondos marinos de cada país.",
+  "from": [
+   "upc"
   ]
  },
  {
@@ -622,6 +714,7 @@
   "definition": "Política Agraria Común: ayudas de la UE al campo.",
   "from": [
    "compromis",
+   "ehbildu",
    "frenteamplio",
    "podemos",
    "pp",
@@ -660,6 +753,13 @@
   ]
  },
  {
+  "term": "PNIEC",
+  "definition": "Plan Nacional Integrado de Energía y Clima: documento que fija los objetivos de emisiones, renovables y calendario nuclear.",
+  "from": [
+   "ehbildu"
+  ]
+ },
+ {
   "term": "Política Agraria Común (PAC)",
   "definition": "Conjunto de ayudas y normas de la Unión Europea para agricultura y ganadería.",
   "from": [
@@ -670,7 +770,8 @@
   "term": "POSEI",
   "definition": "Programa europeo de apoyo al sector agrario y pesquero de las regiones ultraperiféricas.",
   "from": [
-   "cc"
+   "cc",
+   "upc"
   ]
  },
  {
@@ -682,10 +783,26 @@
   ]
  },
  {
-  "term": "REF",
-  "definition": "Régimen Económico y Fiscal de Canarias: conjunto de ventajas fiscales y económicas (como impuestos propios más bajos) que compensan la lejanía y la insularidad.",
+  "term": "REA",
+  "definition": "Régimen Específico de Abastecimiento: ayudas dentro del POSEI que abaratan alimentos y otros productos importados en Canarias.",
   "from": [
-   "cc"
+   "drago"
+  ]
+ },
+ {
+  "term": "REF",
+  "definition": "Régimen Económico y Fiscal de Canarias: conjunto de incentivos fiscales y económicos que compensan la lejanía y la insularidad de las islas.",
+  "from": [
+   "cc",
+   "drago",
+   "upc"
+  ]
+ },
+ {
+  "term": "Región ultraperiférica",
+  "definition": "Territorio de la UE muy alejado del continente (como Canarias) al que se reconocen medidas específicas, recogidas en el artículo 349 del Tratado de Funcionamiento de la UE.",
+  "from": [
+   "drago"
   ]
  },
  {
@@ -711,6 +828,13 @@
   ]
  },
  {
+  "term": "RIC",
+  "definition": "Reserva para Inversiones en Canarias: ventaja fiscal que permite a las empresas reducir impuestos si reinvierten beneficios en las islas.",
+  "from": [
+   "upc"
+  ]
+ },
+ {
   "term": "Rodalies",
   "definition": "Nombre del servicio de trenes de cercanías de Cataluña, gestionado hoy por Renfe y Adif.",
   "from": [
@@ -719,9 +843,10 @@
  },
  {
   "term": "RUP",
-  "definition": "Regiones Ultraperiféricas de la UE: territorios europeos muy alejados del continente, como Canarias, que reciben un trato específico en la normativa europea.",
+  "definition": "Región Ultraperiférica: territorio de la UE muy alejado del continente (como Canarias) con trato específico en las políticas europeas.",
   "from": [
-   "cc"
+   "cc",
+   "upc"
   ]
  },
  {
@@ -733,8 +858,9 @@
  },
  {
   "term": "Sainte-Laguë",
-  "definition": "Fórmula para repartir escaños según los votos, que favorece menos a los partidos grandes que la fórmula D'Hondt, usada hoy en España.",
+  "definition": "Fórmula para repartir escaños más proporcional que la D’Hondt, que favorece menos a los partidos grandes.",
   "from": [
+   "drago",
    "podemos"
   ]
  },
@@ -742,10 +868,12 @@
   "term": "Sareb",
   "definition": "Sociedad creada para gestionar los activos inmobiliarios de los bancos rescatados en la crisis de 2008.",
   "from": [
+   "drago",
    "erc",
    "frenteamplio",
    "podemos",
-   "salf"
+   "salf",
+   "upc"
   ]
  },
  {
@@ -790,9 +918,12 @@
   "definition": "Sociedades que invierten en inmuebles para alquilarlos y que tienen ventajas fiscales.",
   "from": [
    "compromis",
+   "drago",
+   "ehbildu",
    "frenteamplio",
    "psoe",
-   "salf"
+   "salf",
+   "upc"
   ]
  },
  {
@@ -849,7 +980,15 @@
   "term": "TPAN",
   "definition": "Tratado sobre la Prohibición de las Armas Nucleares, de Naciones Unidas.",
   "from": [
+   "ehbildu",
    "frenteamplio"
+  ]
+ },
+ {
+  "term": "Transfuguismo",
+  "definition": "Cambio de partido de un cargo electo tras ser elegido con las siglas de otro.",
+  "from": [
+   "upc"
   ]
  },
  {
@@ -864,6 +1003,13 @@
   "definition": "Unidades de la Guardia Civil y la Policía que investigan corrupción, delitos económicos y drogas.",
   "from": [
    "salf"
+  ]
+ },
+ {
+  "term": "Violencia vicaria",
+  "definition": "Violencia ejercida contra los hijos o hijas para causar daño a la madre.",
+  "from": [
+   "ehbildu"
   ]
  },
  {
@@ -916,11 +1062,19 @@
   ]
  },
  {
+  "term": "ZEC",
+  "definition": "Zona Especial Canaria: régimen que permite a empresas nuevas tributar a un tipo reducido en el Impuesto sobre Sociedades si cumplen ciertas condiciones.",
+  "from": [
+   "drago"
+  ]
+ },
+ {
   "term": "Zona tensionada",
   "definition": "Zona donde el alquiler o la hipoteca pesan demasiado en los ingresos, lo que permite aplicar límites a los precios.",
   "from": [
    "compromis",
    "d21",
+   "ehbildu",
    "frenteamplio",
    "psoe"
   ]

@@ -120,3 +120,11 @@ En Claude Code Desktop: `preview_start` con el nombre `site` (`.claude/launch.js
 ## 9. Git
 - Rama `main` = lo que está publicado en Pages. Commits pequeños con un mensaje que diga lo que se ha hecho (`content(psoe): resúmenes de vivienda`, `feat(test): modo repasar fallos`).
 - No subir archivos de más de 50 MB sin comprimirlos antes (ver riesgos en ROADMAP).
+
+## 10. Cómo añadir un programa nuevo (procedimiento usado con D21, EH Bildu, Drago y UPC)
+1. Copiar el PDF a `sources/` y mirar portada, índice y nº de páginas (`pymupdf`: `get_toc()`, tamaño de letra de los títulos). Comprobar si página física = impresa.
+2. Añadir la entrada en `data/parties.json` (`id` corto, `name`, `short`, `color` distinto de los demás, `file`, `pages`, `lang`) con un `topicMap` orientativo según el índice; completar con grep los temas que falten.
+3. `python tools/extract_text.py <id>` → `extracted/<id>/`. Si el PDF pesa > 50 MB, comprimirlo antes (ver ROADMAP, riesgos).
+4. Lanzar **dos subagentes Sonnet (esfuerzo medio) en paralelo**: uno escribe `data/summaries/<id>.json` y `data/stances/<id>.json`; otro escribe `data/questions/<id>.json` (100 preguntas; mínimo 60-70 si el programa es corto). Cada uno usa su propia subcarpeta del scratchpad y **no** ejecuta `merge_stances.py` ni `build_glossary.py`.
+5. Ejecutar tú: `python tools/merge_stances.py`, `python tools/build_glossary.py`, `python tools/validate.py` y `python tools/check_pages.py <id>`; revisar a mano lo que marque.
+6. Probar en el navegador (Resúmenes, Comparar, Anexo, Test), actualizar la tabla de fuentes del ROADMAP y hacer commit + push.

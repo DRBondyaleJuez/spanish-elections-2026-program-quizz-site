@@ -1,0 +1,2382 @@
+[
+  {
+    "id": "drago-vivienda-001",
+    "doc": "drago",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Drago Canarias propone una Ley de Residencia basada en los artículos 100 y 101 del Estatuto de Autonomía de Canarias.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La Ley de Residencia permitiría a Canarias regular el acceso a la residencia y el empadronamiento efectivo según la capacidad de carga de cada isla, apoyándose en esos artículos del Estatuto.",
+    "tip": "Piensa en qué norma básica de Canarias se menciona al justificar la ley.",
+    "source": {
+      "doc": "drago",
+      "page": 7,
+      "section": "Una Ley de Residencia para vivir con dignidad dentro de los límites de cada isla"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-vivienda-002",
+    "doc": "drago",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Drago Canarias pide que el Estado duplique su aportación a Canarias en el Plan Estatal de Vivienda 2026-2030 con otros 22,6 millones de euros.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La cifra que propone es de 222,6 millones de euros adicionales, dedicados íntegramente a comprar y rehabilitar viviendas ya construidas para el parque público de alquiler.",
+    "tip": "Fíjate en el orden de magnitud de la cifra: el programa habla de cientos de millones.",
+    "source": {
+      "doc": "drago",
+      "page": 8,
+      "section": "El doble de dinero estatal para vivienda pública en alquiler"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-vivienda-003",
+    "doc": "drago",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Drago Canarias propone que cualquier ayuntamiento pueda aplicar por ordenanza un recargo en el IBI a las viviendas turísticas, sin necesidad de estar declarado zona tensionada.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Hoy la ley solo permite ese recargo en municipios declarados zona tensionada, y en Canarias no hay ninguno. Cada ayuntamiento decidiría si lo aplica y se quedaría con lo recaudado.",
+    "tip": "Se trata de dar una herramienta a los municipios, no de imponerla.",
+    "source": {
+      "doc": "drago",
+      "page": 8,
+      "section": "Más IBI a la vivienda turística, si el ayuntamiento lo decide"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-vivienda-004",
+    "doc": "drago",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Drago Canarias propone prohibir por completo las SOCIMI, las sociedades de inversión que alquilan viviendas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "No propone prohibirlas: propone que su tipo del 0 % en el Impuesto sobre Sociedades valga solo para la vivienda en alquiler protegido permanente, y que el resto de sus beneficios tribute como en cualquier empresa.",
+    "tip": "La propuesta habla de su régimen fiscal especial, no de su existencia.",
+    "source": {
+      "doc": "drago",
+      "page": 8,
+      "section": "Suprimir el régimen fiscal especial de las SOCIMI"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-vivienda-005",
+    "doc": "drago",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Drago Canarias propone que las viviendas de la Sareb situadas en Canarias y en condiciones de uso pasen al parque público de alquiler.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La Sareb es el llamado banco malo. Drago pide que sus pisos en las islas se destinen a alquiler público, respetando a las familias que ya viven en ellos.",
+    "tip": "Piensa en qué hacer con lo que ya está construido.",
+    "source": {
+      "doc": "drago",
+      "page": 8,
+      "section": "Pisos de la Sareb y suelo de Defensa para alquiler público"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "drago-vivienda-006",
+    "doc": "drago",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Drago Canarias propone que el beneficio fiscal por reinvertir en vivienda de alquiler solo se aplique a vivienda protegida, con un compromiso mínimo de diez años.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El compromiso mínimo que propone es de veinte años, con alquiler limitado y sin que cueste más dinero público.",
+    "tip": "El plazo es más largo de lo que a primera vista parece razonable para una promoción.",
+    "source": {
+      "doc": "drago",
+      "page": 28,
+      "section": "Beneficio fiscal solo para la vivienda asequible"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-empleo-001",
+    "doc": "drago",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "Drago Canarias propone que los autónomos con actividad en Canarias no paguen cuota a la Seguridad Social mientras sus rendimientos netos estén por debajo del salario mínimo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La propuesta es una cuota cero para quien gane menos del salario mínimo, con el Estado cubriendo la diferencia para que conserven pensión, bajas y paro.",
+    "tip": "El umbral se mide respecto a una referencia salarial oficial.",
+    "source": {
+      "doc": "drago",
+      "page": 9,
+      "section": "Cuota cero para los autónomos que ganan menos del salario mínimo"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "drago-empleo-002",
+    "doc": "drago",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "Según Drago Canarias, los autónomos que ganen entre una y dos veces el salario mínimo pagarían 100 euros al mes de cuota.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Pagarían 50 euros al mes, y la cuota subiría poco a poco hasta llegar a 2,5 veces el salario mínimo, donde se paga la cuota normal.",
+    "tip": "Es una cantidad redonda y baja, la mitad de la que se podría pensar.",
+    "source": {
+      "doc": "drago",
+      "page": 9,
+      "section": "Cuota cero para los autónomos que ganan menos del salario mínimo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-empleo-003",
+    "doc": "drago",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "Drago Canarias propone bajar el listón para ser sindicato más representativo en una comunidad autónoma al 5 % de la representación sindical y 500 representantes.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Hoy hacen falta el 15 % y al menos 1.500 representantes, un listón que solo superan algunos sindicatos del País Vasco y de Galicia. Con la rebaja, los sindicatos de ámbito canario participarían en igualdad de condiciones.",
+    "tip": "Se baja a un tercio del porcentaje actual.",
+    "source": {
+      "doc": "drago",
+      "page": 10,
+      "section": "Representatividad sindical en Canarias"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-empleo-004",
+    "doc": "drago",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "Drago Canarias propone una ley de protección de las camareras de piso (kellys) que reduzca progresivamente su jornada hasta las 32 horas semanales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La reducción de jornada propuesta llega hasta las 35 horas semanales, junto con coeficientes reductores para adelantar la jubilación.",
+    "tip": "Es la jornada que ya se discute como referencia general en otros ámbitos.",
+    "source": {
+      "doc": "drago",
+      "page": 10,
+      "section": "Una ley para las kellys"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-pensiones-001",
+    "doc": "drago",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "Drago Canarias propone blindar en la Constitución la revalorización anual de todas las pensiones conforme al IPC real.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "También propone elevar las pensiones mínimas y no contributivas por encima del umbral de la pobreza y un complemento de insularidad.",
+    "tip": "Se trata de dar rango constitucional a una regla que hoy está en la ley.",
+    "source": {
+      "doc": "drago",
+      "page": 12,
+      "section": "Pensiones dignas que reconozcan lo que cuesta vivir en Canarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-pensiones-002",
+    "doc": "drago",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "El complemento de insularidad para las pensiones más bajas que propone Drago Canarias lo pagaría el Gobierno de Canarias.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Drago pide que ese complemento esté financiado por el Estado, ya que las pensiones dependen de la Seguridad Social estatal.",
+    "tip": "El programa insiste en lo que se decide y se paga desde el Estado.",
+    "source": {
+      "doc": "drago",
+      "page": 12,
+      "section": "Pensiones dignas que reconozcan lo que cuesta vivir en Canarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-pensiones-003",
+    "doc": "drago",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "Drago Canarias propone que, cuando fallece la persona dependiente, el Estado siga pagando durante un año a la cuidadora la cotización a la Seguridad Social y una prestación de transición.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Hoy la prestación por cuidados en el entorno familiar solo se cobra hasta el último día de ese mes y la cuidadora se queda sin ingresos y sin cotizar.",
+    "tip": "El apoyo propuesto dura un periodo anual, mientras la cuidadora se reincorpora al empleo.",
+    "source": {
+      "doc": "drago",
+      "page": 12,
+      "section": "Un año de respaldo para la cuidadora cuando fallece la persona cuidada"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-sanidad-001",
+    "doc": "drago",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "Drago Canarias propone que la gestión privada de la sanidad pública sea la regla general y la gestión pública directa, una excepción.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es al revés: propone sustituir la Ley 15/1997 por otra que haga de la gestión pública directa la regla y de la privada una excepción justificada.",
+    "tip": "El programa critica el nivel de privatización sanitaria de Canarias.",
+    "source": {
+      "doc": "drago",
+      "page": 11,
+      "section": "Que la sanidad pública la gestione lo público"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "drago-educacion-001",
+    "doc": "drago",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "Drago Canarias propone que quien estudie en una universidad canaria cobre 130 euros más en becas por lo que cuesta vivir en las islas, aunque no cambie de isla.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Además, pide que las ayudas por insularidad de las becas del Ministerio suban cada año con el IPC.",
+    "tip": "El complemento se cobra incluso sin desplazarse a otra isla.",
+    "source": {
+      "doc": "drago",
+      "page": 12,
+      "section": "Becas que reconozcan lo que cuesta estudiar en Canarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-educacion-002",
+    "doc": "drago",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "Drago Canarias propone subir al 15 % la presencia mínima del estudiantado en el Consejo de Gobierno de las universidades.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone subirla al 25 % para el estudiantado y al 15 % para el personal técnico, de gestión y de administración y servicios.",
+    "tip": "Hay dos porcentajes en la propuesta y uno corresponde a otro colectivo.",
+    "source": {
+      "doc": "drago",
+      "page": 12,
+      "section": "Más voz para el estudiantado universitario"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-igualdad-001",
+    "doc": "drago",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "Drago Canarias propone rebajar de 50 a 25 personas trabajadoras la obligación de las empresas de tener plan de igualdad y auditoría salarial.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La idea es adaptar la ley al tamaño de las empresas canarias, que suelen ser más pequeñas.",
+    "tip": "Se trata de que las pequeñas y medianas empresas también estén obligadas.",
+    "source": {
+      "doc": "drago",
+      "page": 23,
+      "section": "Igualdad real de las mujeres en el trabajo y en los derechos, en todas las islas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-igualdad-002",
+    "doc": "drago",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "Drago Canarias propone ampliar los permisos retribuidos de conciliación a 12 semanas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La ampliación que propone es a 24 semanas, el doble de lo que dice la afirmación.",
+    "tip": "La cifra real es de varios meses de permiso.",
+    "source": {
+      "doc": "drago",
+      "page": 23,
+      "section": "Igualdad real de las mujeres en el trabajo y en los derechos, en todas las islas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-igualdad-003",
+    "doc": "drago",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "Drago Canarias propone que, si no existe alternativa pública, las empresas con 100 o más personas en plantilla ofrezcan un espacio de cuidado infantil o una compensación económica equivalente.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es una de las medidas para facilitar la conciliación, pensada para cuando no hay una guardería o servicio público disponible.",
+    "tip": "La obligación solo afectaría a empresas grandes y solo si falta la opción pública.",
+    "source": {
+      "doc": "drago",
+      "page": 23,
+      "section": "Igualdad real de las mujeres en el trabajo y en los derechos, en todas las islas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-inmigracion-001",
+    "doc": "drago",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "Drago Canarias pide el cierre de los Centros de Internamiento de Extranjeros (CIE) de Barranco Seco, en Gran Canaria, y de Hoya Fría, en Tenerife.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Los CIE son centros donde se retiene a personas extranjeras antes de su expulsión. Drago los considera incompatibles con un sistema de acogida digno y exige su cierre inmediato.",
+    "tip": "Las dos instalaciones están en las dos islas más pobladas.",
+    "source": {
+      "doc": "drago",
+      "page": 21,
+      "section": "Cerrar los CIE de Barranco Seco y Hoya Fría"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "drago-inmigracion-002",
+    "doc": "drago",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "Drago Canarias propone ampliar los recursos y las facultades de Frontex en Canarias.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Drago rechaza frontalmente la intervención de Frontex en Canarias y la ampliación de sus recursos y mandatos, por considerar que participa en prácticas contrarias a la legislación europea.",
+    "tip": "El programa habla de rechazar la externalización y militarización de las fronteras.",
+    "source": {
+      "doc": "drago",
+      "page": 24,
+      "section": "Control de Frontex en Canarias"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "drago-inmigracion-003",
+    "doc": "drago",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "Drago Canarias pide subir el presupuesto de Salvamento Marítimo en unos 65 millones de euros al año.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La subida que pide es de unos 6,5 millones de euros al año, y que el refuerzo vaya primero a Canarias.",
+    "tip": "La cifra es de un solo dígito en millones.",
+    "source": {
+      "doc": "drago",
+      "page": 22,
+      "section": "Más medios para Salvamento Marítimo en Canarias"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-cultura-001",
+    "doc": "drago",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "Drago Canarias propone un plan estatal que en 90 días localice, parcela a parcela, dónde sigue sin haber conexión a internet fija de al menos 100 megas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Después, el plan financiaría el despliegue con ayudas a los operadores, como ya se hizo con el programa UNICO-Banda Ancha, y comprobaría que el servicio se puede contratar.",
+    "tip": "El primer paso del plan es un diagnóstico rápido, de pocos meses.",
+    "source": {
+      "doc": "drago",
+      "page": 15,
+      "section": "Internet rápido en todas las casas de Canarias"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-medioambiente-001",
+    "doc": "drago",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "Según Drago Canarias, para conceder permisos de explotación de tierras raras en Canarias haría falta un informe favorable del Congreso de los Diputados.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El informe favorable que se exigiría es el del Cabildo de la isla afectada, además de un referéndum vinculante en esa isla.",
+    "tip": "El órgano que informa es de ámbito insular.",
+    "source": {
+      "doc": "drago",
+      "page": 17,
+      "section": "Ni tierras raras ni minería crítica sin el sí de cada isla"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-medioambiente-002",
+    "doc": "drago",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "Drago Canarias propone medidas obligatorias, como límites de velocidad y cambios de ruta, en las zonas de más riesgo para evitar choques de barcos con cetáceos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Hoy los límites de velocidad son voluntarios. Se acordarían con el Gobierno de Canarias y las navieras, con base científica.",
+    "tip": "El problema actual es que las medidas no son vinculantes.",
+    "source": {
+      "doc": "drago",
+      "page": 18,
+      "section": "Que los barcos dejen de matar cetáceos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-rural-001",
+    "doc": "drago",
+    "topic": "rural",
+    "type": "tf",
+    "question": "Drago Canarias propone un contrato específico en la Ley de Arrendamientos Rústicos para recuperar fincas abandonadas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Se busca seguridad para ambas partes: compensación de las mejoras a quien arrienda e inventario del estado de la finca para la propiedad.",
+    "tip": "El programa dice que casi dos de cada tres hectáreas agrícolas están sin cultivar.",
+    "source": {
+      "doc": "drago",
+      "page": 18,
+      "section": "Contratos seguros para volver a cultivar las fincas abandonadas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-rural-002",
+    "doc": "drago",
+    "topic": "rural",
+    "type": "tf",
+    "question": "Drago Canarias propone eliminar el POSEI y el REA, las ayudas europeas a la agricultura y a los alimentos importados.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "No propone eliminarlos: propone una auditoría independiente y pública para saber cuánto de la ayuda llega a los precios, a quién beneficia y cómo afecta a las pequeñas explotaciones.",
+    "tip": "La propuesta busca evaluar, no suprimir.",
+    "source": {
+      "doc": "drago",
+      "page": 18,
+      "section": "POSEI y REA: saber a quién llega la ayuda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-territorio-001",
+    "doc": "drago",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "Drago Canarias propone ampliar el Congreso a 400 escaños, bajar de 2 a 1 el mínimo por provincia y sustituir la fórmula D'Hondt por Sainte-Laguë.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Con los votos de 2023, Canarias habría elegido 18 escaños en lugar de 15, según el programa. 400 es el máximo que permite la Constitución.",
+    "tip": "Son tres cambios a la vez en la ley electoral.",
+    "source": {
+      "doc": "drago",
+      "page": 25,
+      "section": "Que el voto canario valga lo mismo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-territorio-002",
+    "doc": "drago",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "Según Drago Canarias, en la Zona Especial Canaria (ZEC) al menos tres cuartas partes de los puestos nuevos serían para personas desempleadas inscritas en Canarias.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La proporción que propone es al menos la mitad de los puestos nuevos, para personas inscritas como desempleadas en Canarias desde hace dos meses o más.",
+    "tip": "La fracción es menor de lo que dice la afirmación.",
+    "source": {
+      "doc": "drago",
+      "page": 28,
+      "section": "Una ZEC que deje empleo de calidad en las islas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-instituciones-001",
+    "doc": "drago",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "Drago Canarias propone que el Gobierno tenga 30 días, prorrogables 15, para responder a las preguntas parlamentarias escritas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El plazo que propone es de 15 días, prorrogables 7, y que la Mesa le haga un requerimiento en 3 días si no responde.",
+    "tip": "Los plazos son más cortos que los de la afirmación.",
+    "source": {
+      "doc": "drago",
+      "page": 26,
+      "section": "Que el Gobierno conteste al Congreso"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-vivienda-007",
+    "doc": "drago",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "Según Drago Canarias, ¿con qué frecuencia tendría que informar el Gobierno al Congreso sobre la negociación en Bruselas para limitar la compra de vivienda por no residentes?",
+    "options": [
+      "Al final de la legislatura",
+      "Cada mes",
+      "Cada seis meses",
+      "Una vez al año"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El Gobierno tendría que aportar en Bruselas los datos que lo justifican, negociar junto al Gobierno de Canarias e informar al Congreso cada seis meses.",
+    "tip": "Es un periodo semestral.",
+    "source": {
+      "doc": "drago",
+      "page": 7,
+      "section": "Que la vivienda en Canarias sea para vivir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-vivienda-008",
+    "doc": "drago",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué plantea Drago Canarias en el apartado \"Turismo dentro de los límites de cada isla\"?",
+    "options": [
+      "Un impuesto europeo sobre cada pasajero que llegue a las islas",
+      "Un tope único de turistas para todo el archipiélago fijado por el Gobierno central",
+      "Un fondo para promocionar el turismo en las islas menos visitadas",
+      "Un convenio entre el Estado y Canarias para el decrecimiento turístico, con financiación plurianual"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El convenio reduciría la presión turística, urbanística y sobre los recursos, con actuaciones que empiezan con la firma y se ajustan con estudios de capacidad de carga de cada isla.",
+    "tip": "La propuesta combina un acuerdo Estado-Canarias con estudios por isla.",
+    "source": {
+      "doc": "drago",
+      "page": 7,
+      "section": "Turismo dentro de los límites de cada isla"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-otros-001",
+    "doc": "drago",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué propone Drago Canarias hacer con el recinto de la Base Naval de Las Palmas de Gran Canaria (el Arsenal)?",
+    "options": [
+      "Convertirlo en un puerto deportivo gestionado por empresas privadas",
+      "Que Defensa lo ceda gratis al Ayuntamiento para un parque marítimo con equipamientos públicos, sin hoteles ni usos comerciales",
+      "Dedicarlo íntegramente a hoteles y comercios del frente marítimo",
+      "Venderlo para financiar vivienda pública"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Las funciones imprescindibles de la base se trasladarían al Puerto de La Luz. El recinto está entre Las Alcaravaneras y Santa Catalina y hoy corta la conexión de la ciudad con el mar.",
+    "tip": "El uso propuesto excluye expresamente lo comercial.",
+    "source": {
+      "doc": "drago",
+      "page": 13,
+      "section": "Un parque marítimo donde hoy está el Arsenal"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-economia-001",
+    "doc": "drago",
+    "topic": "economia",
+    "type": "single",
+    "question": "Según Drago Canarias, ¿para qué tipo de vivienda debería valer el tipo cero de las SOCIMI en el Impuesto sobre Sociedades?",
+    "options": [
+      "Para viviendas turísticas en zonas tensionadas",
+      "Solo para viviendas de menos de 60 m²",
+      "Solo para la vivienda en alquiler protegido permanente",
+      "Para toda vivienda en alquiler, sea cual sea el precio"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Hoy las SOCIMI pagan un 0 % aunque alquilen a precio de mercado. Drago propone limitar ese beneficio al alquiler protegido permanente y que el resto tribute como cualquier empresa.",
+    "tip": "El tipo cero se reservaría a un alquiler con precio limitado de forma permanente.",
+    "source": {
+      "doc": "drago",
+      "page": 8,
+      "section": "Suprimir el régimen fiscal especial de las SOCIMI"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-economia-002",
+    "doc": "drago",
+    "topic": "economia",
+    "type": "single",
+    "question": "La ZEC (Zona Especial Canaria) permite tributar al 4 % en el Impuesto sobre Sociedades. ¿Hasta qué fecha admite empresas nuevas, según el programa de Drago Canarias?",
+    "options": [
+      "Hasta el 31 de diciembre de 2027",
+      "Hasta el 31 de diciembre de 2026",
+      "Hasta el 31 de diciembre de 2030",
+      "No tiene fecha límite"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Por eso Drago exige que el Gobierno negocie con la Comisión Europea su continuidad, con condiciones nuevas ligadas a empleo estable y salarios.",
+    "tip": "El plazo termina con este mismo año electoral.",
+    "source": {
+      "doc": "drago",
+      "page": 28,
+      "section": "Una ZEC que deje empleo de calidad en las islas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-economia-003",
+    "doc": "drago",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué quiere Drago Canarias que cuente la nueva ley de financiación autonómica, además de a la población empadronada?",
+    "options": [
+      "A las empresas con domicilio fiscal en la ZEC",
+      "A los turistas, pero solo si se alojan en hoteles",
+      "A quienes usan la sanidad y otros servicios públicos sin estar en el padrón, como turistas y residentes temporales",
+      "Solo a las personas con nacionalidad española residentes fuera de Canarias"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Se medirían con estadísticas oficiales. Además, tendría que pesar más el coste de prestar servicios en un territorio ultraperiférico y repartido en islas, y los recursos del REF seguirían fuera del cálculo.",
+    "tip": "Se trata de contar a quien consume servicios aunque no esté censado.",
+    "source": {
+      "doc": "drago",
+      "page": 28,
+      "section": "Una financiación que cuente a toda la gente que usa nuestros servicios"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-economia-004",
+    "doc": "drago",
+    "topic": "economia",
+    "type": "single",
+    "question": "Sobre el Registro Especial de Buques de Canarias, ¿qué condición propone Drago Canarias para sus ventajas fiscales?",
+    "options": [
+      "Eliminar el registro y que los buques tributen como en la Península",
+      "Subir al 100 % la bonificación del Impuesto sobre Sociedades",
+      "Que solo puedan acogerse navieras con sede social fuera de Canarias",
+      "Mantener el buque en el registro un tiempo mínimo, con devolución proporcional si la naviera lo saca antes"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El registro permite ahorrarse el 90 % del Impuesto sobre Sociedades y el 90 % de la cotización a la Seguridad Social de las tripulaciones. Drago quiere que esas ventajas dejen empleo y salarios en Canarias.",
+    "tip": "La condición busca evitar que se aprovechen las ventajas y luego se abandone el registro.",
+    "source": {
+      "doc": "drago",
+      "page": 15,
+      "section": "Un registro de buques que deje empleo y salarios en Canarias"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-empleo-005",
+    "doc": "drago",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué competencia incluiría el Marco Canario de Relaciones Laborales que propone Drago Canarias?",
+    "options": [
+      "Eliminar los convenios colectivos estatales de todos los sectores",
+      "Establecer un salario mínimo acorde al coste de la vida en el archipiélago",
+      "Crear un impuesto especial a los hoteles",
+      "Fijar la edad de jubilación en Canarias"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El marco articularía también la igualdad del sindicalismo canario en la negociación colectiva, la actualización democrática del derecho de huelga y el traspaso de la Inspección de Trabajo.",
+    "tip": "Una de las competencias está relacionada con el sueldo mínimo.",
+    "source": {
+      "doc": "drago",
+      "page": 9,
+      "section": "Un Marco Canario de Relaciones Laborales para decidir aquí nuestro trabajo y nuestros salarios"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-empleo-006",
+    "doc": "drago",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué propone Drago Canarias sobre los refuerzos de la Inspección de Trabajo en Canarias?",
+    "options": [
+      "Que se mantengan los convenios temporales con inspectores de otras provincias",
+      "Un refuerzo único en agosto",
+      "Que una ley fije dos refuerzos al año, uno en temporada alta de verano y otro en la de invierno",
+      "Eliminar los refuerzos y financiar solo la inspección autonómica"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Entre 2018 y 2024 los refuerzos dependieron de convenios temporales con personal de otras provincias, según el programa. Drago quiere que sea fijo y esté en la ley.",
+    "tip": "Se busca que dependa de una ley y no del Gobierno de turno.",
+    "source": {
+      "doc": "drago",
+      "page": 10,
+      "section": "Dos refuerzos al año de la Inspección de Trabajo, fijados por ley"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-sanidad-002",
+    "doc": "drago",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué exigiría Drago Canarias para renovar un concierto o una concesión sanitaria con una empresa privada?",
+    "options": [
+      "Un informe favorable del Colegio de Médicos",
+      "La aprobación del Parlamento Europeo",
+      "Un concurso abierto cada dos años",
+      "Una evaluación pública que demuestre que la gestión privada sale mejor en coste y en calidad"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Drago propone sustituir la Ley 15/1997, que abrió la puerta a gestionar la sanidad pública con empresas privadas, y que la gestión pública directa sea la regla.",
+    "tip": "La prueba debe ser pública y comparar resultados.",
+    "source": {
+      "doc": "drago",
+      "page": 11,
+      "section": "Que la sanidad pública la gestione lo público"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-pensiones-004",
+    "doc": "drago",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿En qué oficinas del Estado propone Drago Canarias revisar las plantillas para garantizar atención presencial con cita en un plazo razonable en cada isla?",
+    "options": [
+      "En los consulados y embajadas",
+      "Sobre todo en el INSS, la Tesorería de la Seguridad Social y el SEPE",
+      "Sobre todo en Hacienda, Tráfico y Correos",
+      "Solo en las oficinas de Registro Civil"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El INSS es el Instituto Nacional de la Seguridad Social y el SEPE el Servicio Público de Empleo Estatal. En islas pequeñas, si no hay citas, la alternativa es coger un barco o un avión.",
+    "tip": "Son organismos ligados a prestaciones y cotizaciones.",
+    "source": {
+      "doc": "drago",
+      "page": 11,
+      "section": "Atención presencial en las oficinas del Estado de cada isla"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-educacion-003",
+    "doc": "drago",
+    "topic": "educacion",
+    "type": "single",
+    "question": "En la propuesta \"Estudiar sin hacer la maleta\", ¿quién decidiría qué estudios se abren en las islas no capitalinas?",
+    "options": [
+      "La Unión Europea",
+      "El Ministerio de Educación",
+      "Las universidades privadas",
+      "Canarias"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Drago propone un fondo estatal, acordado con el Gobierno de Canarias y las universidades, que pague la apertura y el mantenimiento de estudios de FP y universitarios en esas islas.",
+    "tip": "El Estado pone el dinero, pero la decisión es local.",
+    "source": {
+      "doc": "drago",
+      "page": 11,
+      "section": "Estudiar sin hacer la maleta"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-educacion-004",
+    "doc": "drago",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Qué incluiría la partida estatal que propone Drago Canarias para mejorar los centros educativos de las islas?",
+    "options": [
+      "Subvencionar exclusivamente el transporte escolar",
+      "Comprar tabletas para todo el alumnado",
+      "Rehabilitar y ampliar centros, adaptarlos al calor y hacerlos accesibles",
+      "Construir únicamente centros privados concertados"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Sería un programa de cooperación territorial con una partida finalista en los Presupuestos Generales del Estado, con especial atención a las islas no capitalinas.",
+    "tip": "Una de las necesidades que menciona tiene que ver con el clima de las islas.",
+    "source": {
+      "doc": "drago",
+      "page": 12,
+      "section": "Una partida estatal para mejorar los centros educativos de las islas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "drago-igualdad-004",
+    "doc": "drago",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Cómo propone Drago Canarias que se actualicen los fondos del Pacto de Estado contra la Violencia de Género que reciben las comunidades?",
+    "options": [
+      "Una sola vez cada legislatura",
+      "Transfiriéndolos íntegramente a los cabildos",
+      "Cada año, como mínimo con el IPC, y con más peso a la insularidad en el reparto",
+      "Reduciéndolos en las islas capitalinas"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El objetivo es reforzar la atención en las islas no capitalinas, que tienen menos recursos, y que el dinero se use de forma finalista y efectiva.",
+    "tip": "La actualización es anual y tiene un suelo ligado a los precios.",
+    "source": {
+      "doc": "drago",
+      "page": 23,
+      "section": "Más fondos contra la violencia machista y ejecución finalista, también en las islas no capitalinas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-inmigracion-004",
+    "doc": "drago",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "Sobre el asilo, ¿qué propone Drago Canarias que funcione en los países de origen cercanos a la ruta atlántica?",
+    "options": [
+      "Campos de internamiento financiados por la UE",
+      "Que el asilo solo se tramite desde Canarias",
+      "Un cupo anual de visados fijado por cada isla",
+      "Que se pueda pedir protección internacional en embajadas y consulados, con un órgano responsable y un plazo de respuesta"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "La idea es que nadie tenga que jugarse la vida en el mar para pedir asilo, como indica el título de la propuesta.",
+    "tip": "El título de la propuesta ya sugiere que se evite la travesía.",
+    "source": {
+      "doc": "drago",
+      "page": 21,
+      "section": "Pedir asilo sin jugarse la vida en el mar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-inmigracion-005",
+    "doc": "drago",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Qué pide Drago Canarias sobre el reparto de menores migrantes entre comunidades autónomas?",
+    "options": [
+      "Que se cumplan las asignaciones y que el reparto obligatorio no tenga fecha de caducidad",
+      "Que Canarias acoja a todos los menores y reciba compensación económica",
+      "Suprimir el reparto y que cada isla decida",
+      "Limitar el reparto a un máximo de seis meses"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa dice que Canarias acogía a 2.622 menores migrantes, más del triple de sus 783 plazas ordinarias, y que la ley ya obliga a repartirlos pero los traslados se retrasan o se recurren.",
+    "tip": "El reparto es hoy una obligación que no se está cumpliendo.",
+    "source": {
+      "doc": "drago",
+      "page": 21,
+      "section": "Derecho a tránsito"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-inmigracion-006",
+    "doc": "drago",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "Para mejorar las citas de extranjería, ¿qué propone Drago Canarias publicar?",
+    "options": [
+      "El tiempo de espera de cada oficina y de cada trámite",
+      "Solo el total anual de citas concedidas",
+      "La lista de personas que esperan cita con sus nombres",
+      "El número de expulsiones de cada mes"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone un plan estatal con más personal y más citas, atención presencial y ayuda para los trámites digitales, a raíz de las advertencias del Defensor del Pueblo.",
+    "tip": "Es un dato de transparencia por oficina.",
+    "source": {
+      "doc": "drago",
+      "page": 24,
+      "section": "Citas de extranjería sin esperas imposibles"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-medioambiente-003",
+    "doc": "drago",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "Sobre el bono social, ¿qué propone Drago Canarias?",
+    "options": [
+      "Eliminarlo y sustituirlo por una tarifa plana",
+      "Que se conceda de oficio a quienes ya acreditan su vulnerabilidad ante el Estado, como los beneficiarios del Ingreso Mínimo Vital",
+      "Que solo pueda pedirse en persona",
+      "Que se limite a las islas capitalinas"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "También propone fijar por ley y de forma permanente la prohibición de cortar luz, agua y gas a hogares vulnerables, hoy dependiente de decretos-ley que se renuevan cada año.",
+    "tip": "Se trata de que no haga falta solicitarlo.",
+    "source": {
+      "doc": "drago",
+      "page": 16,
+      "section": "Derecho a los suministros básicos para toda la ciudadanía canaria"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-medioambiente-004",
+    "doc": "drago",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué quiere Drago Canarias que se haga con el dinero que el Estado ahorre en compensar el sobrecoste de la electricidad fósil en Canarias?",
+    "options": [
+      "Repartirlo entre las empresas eléctricas",
+      "Reinvertirlo por ley en almacenamiento y energías renovables en las islas",
+      "Destinarlo a bajar el IVA de la factura de la luz",
+      "Devolverlo a la caja común del Estado"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Esa compensación existe porque la electricidad en las islas depende sobre todo de centrales que queman combustibles importados. Conforme entren renovables, esa compensación baja.",
+    "tip": "El ahorro no vuelve a la caja común del Estado.",
+    "source": {
+      "doc": "drago",
+      "page": 17,
+      "section": "Reinvertir en renovables lo que se ahorre en electricidad fósil"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-medioambiente-005",
+    "doc": "drago",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "Cuando se incorpore la nueva directiva europea de aguas residuales, ¿qué exigiría Drago Canarias antes de autorizar un vertido de agua depurada al mar?",
+    "options": [
+      "Una consulta a los turistas",
+      "Un permiso del Gobierno de Marruecos",
+      "Un informe de las navieras",
+      "Una evaluación pública previa de cómo reutilizarla"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Si la administración descarta reutilizarla, tendría que justificarlo por escrito. Como buena parte del agua en Canarias sale de desaladoras, reutilizarla ahorra energía y dinero.",
+    "tip": "Se prioriza reutilizar antes de verter.",
+    "source": {
+      "doc": "drago",
+      "page": 17,
+      "section": "Agua depurada: reutilizar antes de verter"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-medioambiente-006",
+    "doc": "drago",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué propone Drago Canarias para la declaración del Parque Nacional Marino del Mar de las Calmas?",
+    "options": [
+      "Someterla a un referéndum vinculante en El Hierro",
+      "Sustituirla por una reserva privada",
+      "Aprobarla de inmediato por ley estatal",
+      "Dejarla en manos exclusivas de Defensa"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La ley solo entraría en vigor si la población herreña la aprueba. Durante la tramitación se reservaría expresamente la pesca artesanal de La Restinga.",
+    "tip": "Decide la población de la isla afectada.",
+    "source": {
+      "doc": "drago",
+      "page": 17,
+      "section": "Que El Hierro decida sobre el Mar de las Calmas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "drago-medioambiente-007",
+    "doc": "drago",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "En la reforma de la ley de parques nacionales que propone Drago Canarias, ¿qué se haría con parte de las plazas de los espacios naturales saturados?",
+    "options": [
+      "Venderlas al mejor postor",
+      "Reservarlas a la población residente en Canarias y a usos tradicionales, educativos y de voluntariado",
+      "Eliminarlas por completo",
+      "Reservarlas solo a visitantes extranjeros"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El acceso se limitaría según la capacidad de carga de cada espacio, con un registro común de visitantes.",
+    "tip": "La reserva beneficia a quienes viven en las islas.",
+    "source": {
+      "doc": "drago",
+      "page": 18,
+      "section": "Plazas para residentes en los espacios naturales saturados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-medioambiente-008",
+    "doc": "drago",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿A quién obligaría Drago Canarias a medir sus residuos y cumplir planes de reducción con objetivos mínimos verificables?",
+    "options": [
+      "Únicamente a los ayuntamientos",
+      "A todos los hogares de las islas",
+      "Solo a los pequeños comercios",
+      "A los grandes establecimientos turísticos y comerciales"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Se cambiaría la ley estatal de residuos y quien no cumpla sería sancionado. Canarias generó en 2023 casi 573 kilos de residuos municipales por habitante, un 23 % más que la media estatal.",
+    "tip": "La obligación recae sobre quien más residuos genera por actividad económica.",
+    "source": {
+      "doc": "drago",
+      "page": 19,
+      "section": "Menos basura en los grandes hoteles y comercios"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-rural-003",
+    "doc": "drago",
+    "topic": "rural",
+    "type": "single",
+    "question": "Sobre el POSEI y el REA, ¿qué tres preguntas debería responder la auditoría independiente que propone Drago Canarias?",
+    "options": [
+      "Cuántos funcionarios las gestionan, cuánto cuestan y cuántas se rechazan",
+      "Cuánto de la ayuda llega a los precios, a quién beneficia y cómo afecta a las pequeñas explotaciones",
+      "Cuántas hectáreas hay, cuántas se cultivan y quién es su propietario",
+      "Cuántos barcos las usan, cuánto contaminan y quién las paga"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El POSEI es el programa europeo que sostiene la agricultura y la ganadería canarias; el REA abarata los alimentos importados. El Tribunal de Cuentas Europeo halló que no hay método común para comprobar que bajen los precios.",
+    "tip": "Las tres preguntas giran en torno al destino y el efecto de la ayuda.",
+    "source": {
+      "doc": "drago",
+      "page": 18,
+      "section": "POSEI y REA: saber a quién llega la ayuda"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-territorio-003",
+    "doc": "drago",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué defiende Drago Canarias en la propuesta \"Un pueblo, un país, una circunscripción\"?",
+    "options": [
+      "Mantener las dos provincias actuales pero con más escaños",
+      "Que el archipiélago sea una sola provincia y vote al Congreso como una única circunscripción",
+      "Dividir Canarias en una provincia por isla",
+      "Eliminar las circunscripciones y votar solo en listas estatales"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Se haría mediante la ley orgánica que exige la Constitución, se unificarían órganos duplicados como las juntas electorales y los recursos se seguirían repartiendo por islas.",
+    "tip": "Se rompe la división que existe desde 1927.",
+    "source": {
+      "doc": "drago",
+      "page": 25,
+      "section": "Un pueblo, un país, una circunscripción"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "drago-territorio-004",
+    "doc": "drago",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué propone Drago Canarias respecto a la Ley de Costas?",
+    "options": [
+      "Recentralizar la gestión del litoral en el Estado",
+      "Derogarla y dejar el litoral sin regulación",
+      "Aumentar los plazos de las concesiones turísticas",
+      "Traspasar por completo las costas y reformarla para que los poblados de pescadores protegidos como patrimonio cultural no puedan derribarse"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Canarias recibió en 2022 la gestión de su litoral, pero muchas decisiones siguen dependiendo de un informe previo del Estado. El caso citado es el derribo del poblado de Cho Vito.",
+    "tip": "El ejemplo que cita es un poblado de pescadores derribado.",
+    "source": {
+      "doc": "drago",
+      "page": 29,
+      "section": "Que Canarias decida sobre su litoral"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-territorio-005",
+    "doc": "drago",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué se reconocería en la Constitución según Drago Canarias?",
+    "options": [
+      "La realidad nacional canaria y su hecho diferencial, conocido en la UE como ultraperiferia",
+      "El derecho de Canarias a una moneda propia",
+      "La extinción de los cabildos",
+      "Que Canarias es una provincia más sin singularidades"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La propuesta dice que Canarias tiene su propio centro y que no es la periferia de nadie.",
+    "tip": "El término se vincula a la realidad de las islas como pueblo.",
+    "source": {
+      "doc": "drago",
+      "page": 29,
+      "section": "Que la Constitución reconozca la realidad nacional canaria"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "drago-instituciones-002",
+    "doc": "drago",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "En la reforma del Reglamento del Congreso que propone Drago Canarias para el Grupo Mixto, ¿qué mínimo de preguntas orales garantizaría a cada partido con escaño y candidatura propia?",
+    "options": [
+      "Una al mes",
+      "Una por semana",
+      "Una por legislatura",
+      "Diez al año"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Para tener grupo propio hacen falta 15 escaños (o 5 superando ciertos porcentajes). La propuesta daría a cada formación del Mixto un cupo de preguntas, turno propio en el Pleno y firma propia, sin subvención de grupo.",
+    "tip": "El mínimo garantizado es periódico y bajo.",
+    "source": {
+      "doc": "drago",
+      "page": 26,
+      "section": "Voz propia para cada partido del Grupo Mixto"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-instituciones-003",
+    "doc": "drago",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Qué programas empezaría evaluando la AIReF según la propuesta de Drago Canarias sobre evaluar el dinero público?",
+    "options": [
+      "Los fondos europeos de recuperación y los salarios públicos",
+      "Las pensiones y el seguro de desempleo",
+      "La publicidad institucional y los gastos de representación",
+      "Los incentivos del REF y las ayudas al transporte"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "La AIReF es la Autoridad Independiente de Responsabilidad Fiscal, que no depende del Gobierno. La Agencia Tributaria publicaría cada año los incentivos del REF por isla y por sector.",
+    "tip": "Son dos programas muy ligados a la economía canaria.",
+    "source": {
+      "doc": "drago",
+      "page": 26,
+      "section": "Evaluar el dinero público antes y después de gastarlo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-exterior-001",
+    "doc": "drago",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Qué propone Drago Canarias sobre las negociaciones con Marruecos para delimitar las aguas y el espacio aéreo?",
+    "options": [
+      "Que las negociaciones las lleve en solitario el Cabildo de Lanzarote",
+      "Una ley que garantice al Gobierno de Canarias un puesto en las delegaciones que negocien",
+      "Que se negocie en secreto sin informar a las Cortes",
+      "Que se delegue en la Unión Europea"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Además, exigiría que España se oponga a prospecciones de gas, petróleo o minerales en las aguas en disputa, como las del monte submarino Tropic.",
+    "tip": "El lema es que el mar no se negocia sin Canarias.",
+    "source": {
+      "doc": "drago",
+      "page": 29,
+      "section": "Aguas canarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-vivienda-009",
+    "doc": "drago",
+    "topic": "vivienda",
+    "type": "multi",
+    "question": "Marca todas las medidas de vivienda que propone Drago Canarias.",
+    "options": [
+      "Topar por ley el precio de todos los alquileres",
+      "Permitir a cualquier ayuntamiento recargar el IBI a las viviendas turísticas",
+      "Prohibir el alquiler vacacional en todo el archipiélago",
+      "Limitar el tipo cero de las SOCIMI al alquiler protegido permanente",
+      "Pasar al parque público de alquiler las viviendas de la Sareb en Canarias"
+    ],
+    "answer": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "Son tres propuestas de las páginas 7 y 8. El programa no pide prohibir el alquiler vacacional ni topar todos los alquileres.",
+    "tip": "Hay medidas fiscales y medidas de patrimonio público; ninguna prohíbe una actividad entera.",
+    "source": {
+      "doc": "drago",
+      "page": 8,
+      "section": "Vivienda y población"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-empleo-007",
+    "doc": "drago",
+    "topic": "empleo",
+    "type": "multi",
+    "question": "Marca todo lo que incluiría el Marco Canario de Relaciones Laborales que propone Drago Canarias.",
+    "options": [
+      "Un salario mínimo acorde al coste de la vida en el archipiélago",
+      "El traspaso efectivo de la Inspección de Trabajo",
+      "La supresión de los organismos laborales propios de Canarias",
+      "Un convenio colectivo único para todo el Estado",
+      "La actualización democrática del derecho de huelga"
+    ],
+    "answer": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "El marco busca que Canarias fije sus propias condiciones de trabajo, incluyendo salario mínimo, igualdad sindical en la negociación colectiva, derecho de huelga e Inspección de Trabajo.",
+    "tip": "El hilo común es decidir más desde Canarias.",
+    "source": {
+      "doc": "drago",
+      "page": 9,
+      "section": "Un Marco Canario de Relaciones Laborales para decidir aquí nuestro trabajo y nuestros salarios"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-empleo-008",
+    "doc": "drago",
+    "topic": "empleo",
+    "type": "multi",
+    "question": "Marca todas las medidas de la ley para las kellys (camareras de piso) que propone Drago Canarias.",
+    "options": [
+      "Contratarlas como actividad principal, con las condiciones de la plantilla del hotel",
+      "Eliminar la evaluación de riesgos laborales en hostelería",
+      "Reducción progresiva de la jornada hasta 35 horas semanales",
+      "Pasarlas a trabajar a tiempo parcial obligatorio",
+      "Coeficientes reductores para adelantar su jubilación"
+    ],
+    "answer": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "Los coeficientes reductores son los que ya existen en el sector del mar. Se propone cambiar el Estatuto de los Trabajadores y la ley de prevención de riesgos laborales para evaluar el desgaste físico.",
+    "tip": "Las tres medidas reconocen el desgaste del trabajo.",
+    "source": {
+      "doc": "drago",
+      "page": 10,
+      "section": "Una ley para las kellys"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-igualdad-005",
+    "doc": "drago",
+    "topic": "igualdad",
+    "type": "multi",
+    "question": "Marca todas las medidas de igualdad y conciliación que propone Drago Canarias.",
+    "options": [
+      "Espacio de cuidado infantil o compensación en empresas de 100 o más personas si no hay alternativa pública",
+      "Cuota obligatoria de 50 % de mujeres en todos los consejos de administración",
+      "Permisos retribuidos de conciliación ampliados a 24 semanas",
+      "Plan de igualdad y auditoría salarial desde 25 personas trabajadoras",
+      "Prohibición del trabajo a tiempo parcial en hostelería"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "La propuesta reforma la ley de igualdad y el Estatuto de los Trabajadores para adaptarlos al tamaño de las empresas canarias.",
+    "tip": "Todas las medidas correctas fijan cifras de plantilla o de duración.",
+    "source": {
+      "doc": "drago",
+      "page": 23,
+      "section": "Igualdad real de las mujeres en el trabajo y en los derechos, en todas las islas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-inmigracion-007",
+    "doc": "drago",
+    "topic": "inmigracion",
+    "type": "multi",
+    "question": "Marca todo lo que Drago Canarias rechaza o pide cerrar en materia migratoria.",
+    "options": [
+      "Las vías legales y seguras para migrar",
+      "La acogida humanitaria de emergencia",
+      "El Pacto Europeo de Migración y Asilo, cuya derogación reclama",
+      "Los CIE de Barranco Seco y Hoya Fría",
+      "La intervención de Frontex en Canarias"
+    ],
+    "answer": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "Drago rechaza lo que considera externalización y militarización de las fronteras, pero defiende la acogida, el asilo y las vías legales y seguras.",
+    "tip": "Lo que rechaza son mecanismos de control y detención, no la acogida.",
+    "source": {
+      "doc": "drago",
+      "page": 24,
+      "section": "Control de Frontex en Canarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-medioambiente-009",
+    "doc": "drago",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "Marca todas las condiciones que Drago Canarias plantea para la minería de tierras raras y otras materias primas críticas.",
+    "options": [
+      "Referéndum vinculante en la isla afectada",
+      "Suspender por ley la tramitación de nuevos permisos mientras no se reforme la Ley de Minas",
+      "Informe favorable del Cabildo",
+      "Autorización previa del Consejo de Ministros"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "La Ley de Minas es de 1973. Además, Defensa tendría que informar al Congreso de las prospecciones autorizadas en el Campo de Maniobras y Tiro de Pájara.",
+    "tip": "Las condiciones son locales y legales, no del Gobierno central.",
+    "source": {
+      "doc": "drago",
+      "page": 17,
+      "section": "Ni tierras raras ni minería crítica sin el sí de cada isla"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-medioambiente-010",
+    "doc": "drago",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "Marca todo lo que propone Drago Canarias en materia de energía.",
+    "options": [
+      "Ampliar las centrales de combustibles importados",
+      "Dar prioridad a los tejados en la normativa de autoconsumo",
+      "Construir una central nuclear en Canarias",
+      "Reservar capacidad de la red eléctrica en cada punto de conexión para proyectos vecinales",
+      "Aprobar ya el Real Decreto de comunidades energéticas"
+    ],
+    "answer": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "La propuesta busca una energía más descentralizada y democrática, con la gente produciendo su propia electricidad.",
+    "tip": "Piensa en energía distribuida, no en grandes centrales.",
+    "source": {
+      "doc": "drago",
+      "page": 17,
+      "section": "Energía en los tejados y en manos de la gente"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "drago-medioambiente-011",
+    "doc": "drago",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "Marca todas las medidas que propone Drago Canarias para evitar que los barcos maten cetáceos.",
+    "options": [
+      "Prohibir todo tráfico marítimo entre islas",
+      "Cambios de ruta con base científica",
+      "Límites de velocidad obligatorios en las zonas de más riesgo",
+      "Un sistema compartido de detección y alerta temprana",
+      "Cerrar los puertos de las islas más pequeñas"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "Se acordarían con el Gobierno de Canarias y las navieras, con protocolos ante avistamientos y medidas sobre todo en los canales entre islas.",
+    "tip": "Las medidas buscan reducir el riesgo, no detener el transporte.",
+    "source": {
+      "doc": "drago",
+      "page": 18,
+      "section": "Que los barcos dejen de matar cetáceos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-rural-004",
+    "doc": "drago",
+    "topic": "rural",
+    "type": "multi",
+    "question": "Marca todo lo que propone Drago Canarias para reconocer el trabajo de las mujeres en el campo.",
+    "options": [
+      "Facilitar la acreditación de su trabajo en explotaciones familiares",
+      "Cobrar la compensación económica que ya prevé la ley",
+      "Establecer límites de edad más estrictos para las agricultoras",
+      "Ampliar la cotización bonificada a la Seguridad Social"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "En 2025 solo 11 explotaciones canarias de titularidad compartida podían optar a las ayudas del Ministerio. Drago quiere que desaparezcan los límites de edad que dejan fuera a las agricultoras mayores.",
+    "tip": "Una de las opciones iría en contra del espíritu de la propuesta.",
+    "source": {
+      "doc": "drago",
+      "page": 18,
+      "section": "Reconocer el trabajo de las mujeres en el campo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-territorio-006",
+    "doc": "drago",
+    "topic": "territorio",
+    "type": "multi",
+    "question": "Marca todos los cambios en la ley electoral que propone Drago Canarias.",
+    "options": [
+      "Bajar de 2 a 1 el mínimo de escaños por provincia",
+      "Mantener D'Hondt pero con listas abiertas",
+      "Ampliar el Congreso a 400 escaños",
+      "Reducir el Congreso a 300 escaños",
+      "Cambiar D'Hondt por Sainte-Laguë"
+    ],
+    "answer": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "La fórmula Sainte-Laguë es más proporcional que D'Hondt, que según el programa castiga a los partidos medianos como los de obediencia canaria.",
+    "tip": "Los cambios apuntan a más escaños y a más proporcionalidad.",
+    "source": {
+      "doc": "drago",
+      "page": 25,
+      "section": "Que el voto canario valga lo mismo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-instituciones-004",
+    "doc": "drago",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "Marca todo lo que propone Drago Canarias para que el Gobierno conteste al Congreso.",
+    "options": [
+      "Un requerimiento de la Mesa en 3 días si no responde",
+      "Que las preguntas escritas sin respuesta pasen a ser orales en comisión",
+      "Multas económicas personales a los ministros",
+      "Un plazo de 15 días, prorrogable 7"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "También se publicaría, ministerio por ministerio, la lista de lo que no se ha contestado. En abril de 2026 había 726 preguntas escritas sin respuesta en plazo.",
+    "tip": "Las consecuencias son parlamentarias, no sancionadoras.",
+    "source": {
+      "doc": "drago",
+      "page": 26,
+      "section": "Que el Gobierno conteste al Congreso"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-exterior-002",
+    "doc": "drago",
+    "topic": "exterior",
+    "type": "multi",
+    "question": "Marca todo lo que Drago Canarias propone sobre el Sáhara Occidental.",
+    "options": [
+      "Incluir el Sáhara en la Ley de Memoria Democrática",
+      "Reconocer la soberanía de Marruecos sobre el territorio",
+      "Un referéndum de autodeterminación para el pueblo saharaui",
+      "Apoyar la delimitación de aguas pactada con Marruecos",
+      "Retomar la proposición de ley de nacionalidad para saharauis nacidos bajo administración española"
+    ],
+    "answer": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "Drago rechaza cualquier situación derivada de la ocupación del Sáhara por Marruecos y las delimitaciones marítimas que traten aguas saharauis o canarias como marroquíes.",
+    "tip": "Defiende la autodeterminación del pueblo saharaui.",
+    "source": {
+      "doc": "drago",
+      "page": 22,
+      "section": "Una deuda con el pueblo saharaui"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-cultura-002",
+    "doc": "drago",
+    "topic": "cultura",
+    "type": "multi",
+    "question": "Marca todo lo que propone Drago Canarias en materia de deporte e identidad.",
+    "options": [
+      "Una línea propia de ayudas para los terreros de lucha canaria",
+      "Iniciativas legislativas para el reconocimiento de las selecciones canarias",
+      "Prohibir la lucha canaria en instalaciones públicas",
+      "Un programa plurianual del Consejo Superior de Deportes para rehabilitar instalaciones públicas",
+      "Eliminar el censo de instalaciones deportivas"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "La lucha canaria es el deporte autóctono. El censo de instalaciones deportivas se basa en datos de 2005, que se están actualizando.",
+    "tip": "Se trata de apoyar el deporte y los símbolos propios.",
+    "source": {
+      "doc": "drago",
+      "page": 30,
+      "section": "Instalaciones deportivas y terreros dignos en cada isla"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "drago-territorio-007",
+    "doc": "drago",
+    "topic": "territorio",
+    "type": "multi",
+    "question": "Marca todas las condiciones que Drago Canarias plantea para renovar la ZEC (Zona Especial Canaria).",
+    "options": [
+      "Que el Consorcio de la ZEC audite y publique resultados cada año por isla y sector",
+      "Que el tipo reducido dependa de la estabilidad y el salario de los empleos",
+      "Que baste empadronar al personal traído de fuera",
+      "Al menos la mitad de los puestos nuevos para personas desempleadas inscritas en Canarias desde hace dos meses o más"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "Drago dice expresamente que empadronar a personal traído de fuera ya no bastaría. La ZEC permite tributar al 4 % en el Impuesto sobre Sociedades.",
+    "tip": "Una de las opciones es justo lo que el programa quiere dejar de aceptar.",
+    "source": {
+      "doc": "drago",
+      "page": 28,
+      "section": "Una ZEC que deje empleo de calidad en las islas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-educacion-005",
+    "doc": "drago",
+    "topic": "educacion",
+    "type": "multi",
+    "question": "Marca todos los cambios sobre la representación en la ley universitaria que propone Drago Canarias.",
+    "options": [
+      "Subir al 25 % el mínimo del estudiantado en el Consejo de Gobierno",
+      "Subir al 15 % el mínimo del personal técnico, de gestión y de administración y servicios",
+      "Un 50 % de estudiantes en el Consejo de Gobierno",
+      "Tres representantes del estudiantado en el Consejo Social"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "La ley actual solo garantiza al estudiantado el 10 % del Consejo de Gobierno y un único representante en el Consejo Social. El cambio llegaría a la Universidad de La Laguna y a la de Las Palmas de Gran Canaria.",
+    "tip": "Las cifras suben respecto al 10 % actual, sin llegar a la mitad.",
+    "source": {
+      "doc": "drago",
+      "page": 12,
+      "section": "Más voz para el estudiantado universitario"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-territorio-008",
+    "doc": "drago",
+    "topic": "territorio",
+    "type": "which_party",
+    "question": "¿Qué partido propone sustituir la fórmula D'Hondt por Sainte-Laguë y ampliar el Congreso a 400 escaños?",
+    "options": [
+      "drago",
+      "psoe",
+      "vox",
+      "pp"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es una propuesta de Drago Canarias, que argumenta que D'Hondt castiga a los partidos medianos como los de obediencia canaria.",
+    "tip": "Es un partido canario que se queja de la representación en el Congreso.",
+    "source": {
+      "doc": "drago",
+      "page": 25,
+      "section": "Que el voto canario valga lo mismo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-medioambiente-012",
+    "doc": "drago",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone exigir un referéndum vinculante en la isla afectada antes de conceder permisos de tierras raras?",
+    "options": [
+      "pp",
+      "vox",
+      "psoe",
+      "drago"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Drago Canarias lo plantea junto con un informe favorable del Cabildo y una reforma de la Ley de Minas.",
+    "tip": "El programa vincula la decisión a lo que vote cada isla.",
+    "source": {
+      "doc": "drago",
+      "page": 17,
+      "section": "Ni tierras raras ni minería crítica sin el sí de cada isla"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-exterior-003",
+    "doc": "drago",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone que el Gobierno de Canarias tenga una delegación permanente dentro de la representación de España ante la Unión Africana?",
+    "options": [
+      "psoe",
+      "vox",
+      "pp",
+      "drago"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "España es observadora permanente ante la Unión Africana a través de su embajada en Adís Abeba; Drago quiere sumar una delegación canaria.",
+    "tip": "Defiende que Canarias mire al continente al que pertenece geográficamente.",
+    "source": {
+      "doc": "drago",
+      "page": 30,
+      "section": "Una delegación canaria ante la Unión Africana"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-sanidad-003",
+    "doc": "drago",
+    "topic": "sanidad",
+    "type": "which_party",
+    "question": "¿Qué partido propone sustituir la Ley 15/1997 para que la gestión pública directa sea la regla y la privada una excepción justificada?",
+    "options": [
+      "drago",
+      "psoe",
+      "vox",
+      "pp"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La Ley 15/1997 abrió la puerta a gestionar la sanidad pública mediante entidades privadas. Drago critica que Canarias sea la cuarta comunidad con más privatización sanitaria.",
+    "tip": "Propone cambiar una ley de 1997 sobre cómo se gestiona el servicio.",
+    "source": {
+      "doc": "drago",
+      "page": 11,
+      "section": "Que la sanidad pública la gestione lo público"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-empleo-009",
+    "doc": "drago",
+    "topic": "empleo",
+    "type": "which_party",
+    "question": "¿Qué partido propone una ley de protección de las camareras de piso (kellys) con coeficientes reductores para adelantar su jubilación?",
+    "options": [
+      "vox",
+      "d21",
+      "drago",
+      "pp"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Drago Canarias la compara con la que ya existe para el sector del mar.",
+    "tip": "Es una propuesta pensada para un colectivo muy ligado al turismo.",
+    "source": {
+      "doc": "drago",
+      "page": 10,
+      "section": "Una ley para las kellys"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-empleo-010",
+    "doc": "drago",
+    "topic": "empleo",
+    "type": "which_party",
+    "question": "¿Qué partido propone que los autónomos no paguen cuota a la Seguridad Social mientras ganen menos del salario mínimo, y 50 euros al mes si ganan entre una y dos veces el salario mínimo?",
+    "options": [
+      "d21",
+      "psoe",
+      "drago",
+      "pp"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es la propuesta de cuota cero de Drago Canarias; el Estado cubriría la diferencia para que conserven pensión, bajas y paro.",
+    "tip": "La cuota cero que ya existe en Canarias es hoy una subvención que se cobra después de pagar.",
+    "source": {
+      "doc": "drago",
+      "page": 9,
+      "section": "Cuota cero para los autónomos que ganan menos del salario mínimo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-inmigracion-008",
+    "doc": "drago",
+    "topic": "inmigracion",
+    "type": "which_party",
+    "question": "¿Qué partido rechaza la ampliación de recursos, personal y mandatos de Frontex y su intervención en Canarias?",
+    "options": [
+      "d21",
+      "drago",
+      "vox",
+      "psoe"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Drago Canarias rechaza la externalización y militarización de las fronteras europeas y la actuación de Frontex en el archipiélago.",
+    "tip": "El partido rechaza el refuerzo de la agencia europea de fronteras.",
+    "source": {
+      "doc": "drago",
+      "page": 24,
+      "section": "Control de Frontex en Canarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-exterior-004",
+    "doc": "drago",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido defiende un referéndum de autodeterminación para el pueblo saharaui y no reconocer ninguna situación derivada de la ocupación marroquí del Sáhara Occidental?",
+    "options": [
+      "vox",
+      "d21",
+      "drago",
+      "psoe"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Drago Canarias apoya las resoluciones de la ONU que instan a celebrar un referéndum de autodeterminación en el Sáhara Occidental.",
+    "tip": "Habla de una deuda histórica con un pueblo vecino de Canarias.",
+    "source": {
+      "doc": "drago",
+      "page": 22,
+      "section": "Una deuda con el pueblo saharaui"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-instituciones-005",
+    "doc": "drago",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone reformar la Ley de Memoria Democrática para que el Gobierno retire un símbolo catalogado si el ayuntamiento no lo hace en plazo, empezando por el Monumento a Franco de Santa Cruz de Tenerife?",
+    "options": [
+      "d21",
+      "drago",
+      "vox",
+      "pp"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "En junio de 2026 el Estado catalogó el monumento y ordenó retirarlo antes de febrero de 2027; el ayuntamiento lo recurrió. Drago quiere que si no se retira en plazo lo haga el Estado.",
+    "tip": "Es un partido canario y el monumento está en una de sus islas.",
+    "source": {
+      "doc": "drago",
+      "page": 25,
+      "section": "Fuera los símbolos franquistas, empezando por el Monumento a Franco"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-vivienda-010",
+    "doc": "drago",
+    "topic": "vivienda",
+    "type": "which_party",
+    "question": "¿Qué partido propone un convenio entre el Estado y Canarias para el decrecimiento turístico, con financiación plurianual?",
+    "options": [
+      "vox",
+      "pp",
+      "drago",
+      "psoe"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Drago Canarias lo plantea para reducir la presión turística, urbanística y sobre los recursos, con estudios de capacidad de carga de cada isla.",
+    "tip": "El título de la propuesta habla de los límites de cada isla.",
+    "source": {
+      "doc": "drago",
+      "page": 7,
+      "section": "Turismo dentro de los límites de cada isla"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-vivienda-011",
+    "doc": "drago",
+    "topic": "vivienda",
+    "type": "which_party",
+    "question": "¿Qué partido propone limitar el tipo cero de las SOCIMI en el Impuesto sobre Sociedades al alquiler protegido permanente?",
+    "options": [
+      "pp",
+      "drago",
+      "d21",
+      "vox"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Hoy las SOCIMI pagan un 0 % aunque alquilen a precio de mercado. Drago quiere que el resto de sus beneficios tribute como cualquier empresa.",
+    "tip": "La propuesta toca el régimen fiscal de un tipo de sociedad inversora.",
+    "source": {
+      "doc": "drago",
+      "page": 8,
+      "section": "Suprimir el régimen fiscal especial de las SOCIMI"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-inmigracion-009",
+    "doc": "drago",
+    "topic": "inmigracion",
+    "type": "which_party",
+    "question": "¿Qué partido pide el cierre inmediato de los CIE de Barranco Seco y Hoya Fría?",
+    "options": [
+      "psoe",
+      "vox",
+      "drago",
+      "salf"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Drago Canarias considera que un archipiélago que acoge a miles de personas en una emergencia humanitaria no debe consolidar centros de detención, sino una red de acogida.",
+    "tip": "Los dos centros están en Gran Canaria y Tenerife.",
+    "source": {
+      "doc": "drago",
+      "page": 21,
+      "section": "Cerrar los CIE de Barranco Seco y Hoya Fría"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "drago-inmigracion-010",
+    "doc": "drago",
+    "topic": "inmigracion",
+    "type": "which_party",
+    "question": "¿Qué partido reclama la derogación del Pacto Europeo de Migración y Asilo, al que acusa de convertir el archipiélago en una cárcel a cielo abierto?",
+    "options": [
+      "pp",
+      "d21",
+      "psoe",
+      "drago"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Drago Canarias critica la externalización del control migratorio en terceros países mediante acuerdos con países africanos de salida.",
+    "tip": "Es el partido más crítico con las políticas migratorias de la UE entre las opciones.",
+    "source": {
+      "doc": "drago",
+      "page": 24,
+      "section": "Que el dinero europeo de migración llegue a Canarias"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-territorio-009",
+    "doc": "drago",
+    "topic": "territorio",
+    "type": "which_party",
+    "question": "¿Qué partido propone que Canarias sea circunscripción propia en las elecciones europeas, como las islas en Italia?",
+    "options": [
+      "psoe",
+      "vox",
+      "pp",
+      "drago"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Hoy España vota en el Parlamento Europeo como una sola circunscripción y ningún partido de obediencia canaria tiene escaño allí.",
+    "tip": "El ejemplo que pone es italiano.",
+    "source": {
+      "doc": "drago",
+      "page": 26,
+      "section": "Una circunscripción canaria en las elecciones europeas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-territorio-010",
+    "doc": "drago",
+    "topic": "territorio",
+    "type": "which_party",
+    "question": "¿Qué partido propone una reforma de la Constitución que reconozca la realidad nacional canaria?",
+    "options": [
+      "vox",
+      "psoe",
+      "pp",
+      "drago"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Drago Canarias la relaciona con el hecho diferencial de la ultraperiferia y con la idea de que Canarias no es la periferia de nadie.",
+    "tip": "Es un partido de obediencia canaria sin dependencia de Madrid.",
+    "source": {
+      "doc": "drago",
+      "page": 29,
+      "section": "Que la Constitución reconozca la realidad nacional canaria"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "drago-vivienda-012",
+    "doc": "drago",
+    "topic": "vivienda",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Drago Canarias?",
+    "options": [
+      "Permitir a los ayuntamientos recargar el IBI a viviendas turísticas",
+      "Limitar el tipo cero de las SOCIMI al alquiler protegido permanente",
+      "Prohibir el alquiler turístico en toda España",
+      "Pasar a alquiler público las viviendas de la Sareb en Canarias"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Drago propone un recargo en el IBI si el ayuntamiento lo decide, no una prohibición general del alquiler turístico.",
+    "tip": "Una de las opciones es una prohibición general que el programa no plantea.",
+    "source": {
+      "doc": "drago",
+      "page": 8,
+      "section": "Vivienda y población"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-empleo-011",
+    "doc": "drago",
+    "topic": "empleo",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Drago Canarias?",
+    "options": [
+      "Bajar al 5 % y 500 representantes el listón de sindicato más representativo",
+      "Reducir la jornada laboral a 32 horas para toda la plantilla",
+      "Una cuota cero para autónomos que ganen menos del salario mínimo",
+      "Traspasar la Inspección de Trabajo a Canarias"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La reducción de jornada que propone Drago es solo para las kellys (hasta 35 horas semanales), no para toda la plantilla.",
+    "tip": "Una medida de jornada se aplica a toda la plantilla, mientras que en el programa afecta solo a un colectivo.",
+    "source": {
+      "doc": "drago",
+      "page": 10,
+      "section": "Una ley para las kellys"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-pensiones-005",
+    "doc": "drago",
+    "topic": "pensiones",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Drago Canarias?",
+    "options": [
+      "Un complemento de insularidad para las pensiones más bajas",
+      "Blindar en la Constitución la revalorización con el IPC real",
+      "Elevar las pensiones mínimas y no contributivas por encima del umbral de la pobreza",
+      "Implantar un sistema de capitalización privada de las pensiones"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Drago defiende un sistema público de pensiones con revalorización blindada y complemento de insularidad financiado por el Estado.",
+    "tip": "Una opción cambiaría el modelo público de pensiones.",
+    "source": {
+      "doc": "drago",
+      "page": 12,
+      "section": "Pensiones dignas que reconozcan lo que cuesta vivir en Canarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-inmigracion-011",
+    "doc": "drago",
+    "topic": "inmigracion",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Drago Canarias?",
+    "options": [
+      "Más personal y más citas de extranjería para las oficinas que atienden a Canarias",
+      "Reforzar la presencia de Frontex en Canarias",
+      "Subir en unos 6,5 millones el presupuesto de Salvamento Marítimo",
+      "Cerrar los CIE de Barranco Seco y Hoya Fría"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Drago rechaza frontalmente la intervención de Frontex en Canarias.",
+    "tip": "Una opción amplía el control de fronteras y el programa critica su militarización.",
+    "source": {
+      "doc": "drago",
+      "page": 24,
+      "section": "Control de Frontex en Canarias"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "drago-medioambiente-013",
+    "doc": "drago",
+    "topic": "medioambiente",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Drago Canarias?",
+    "options": [
+      "Fijar por ley y de forma permanente la prohibición de cortar luz, agua y gas a hogares vulnerables",
+      "Autorizar prospecciones de tierras raras con el solo informe del Estado",
+      "Reinvertir en renovables el dinero ahorrado en electricidad fósil",
+      "Aprobar el Real Decreto de comunidades energéticas"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Drago exige un referéndum vinculante en la isla afectada y un informe favorable del Cabildo, y propone suspender nuevos permisos mientras tanto.",
+    "tip": "Una de las opciones deja la decisión en manos de una sola administración.",
+    "source": {
+      "doc": "drago",
+      "page": 17,
+      "section": "Ni tierras raras ni minería crítica sin el sí de cada isla"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-educacion-006",
+    "doc": "drago",
+    "topic": "educacion",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Drago Canarias?",
+    "options": [
+      "Eliminar las ayudas por insularidad de las becas",
+      "Subir cada año con el IPC las ayudas por insularidad de las becas",
+      "Un fondo estatal para abrir y mantener estudios en las islas no capitalinas",
+      "Cobrar 130 euros más a quien estudie en una universidad canaria"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Drago propone lo contrario: que esas ayudas suban cada año con el IPC.",
+    "tip": "Una opción recorta una ayuda que el programa quiere reforzar.",
+    "source": {
+      "doc": "drago",
+      "page": 12,
+      "section": "Becas que reconozcan lo que cuesta estudiar en Canarias"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "drago-instituciones-006",
+    "doc": "drago",
+    "topic": "instituciones",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Drago Canarias?",
+    "options": [
+      "Que el Gobierno tenga 15 días, prorrogables 7, para contestar al Congreso",
+      "Reducir el Congreso a 300 escaños",
+      "Que cada formación del Grupo Mixto con escaño y candidatura propia tenga un cupo de preguntas orales",
+      "Ampliar el Congreso a 400 escaños"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Drago propone ampliar el Congreso hasta 400 escaños, el máximo que permite la Constitución.",
+    "tip": "Una opción cambia el tamaño del Congreso en sentido contrario al que propone el programa.",
+    "source": {
+      "doc": "drago",
+      "page": 25,
+      "section": "Que el voto canario valga lo mismo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-rural-005",
+    "doc": "drago",
+    "topic": "rural",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Drago Canarias?",
+    "options": [
+      "Una auditoría independiente y pública del POSEI y el REA",
+      "Suprimir el POSEI y sustituirlo por ayudas nacionales",
+      "Una línea de financiación estatal para que las pequeñas explotaciones abastezcan a hospitales, residencias y comedores públicos",
+      "Un contrato específico en la Ley de Arrendamientos Rústicos para recuperar fincas abandonadas"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El POSEI es el programa europeo de ayuda a la agricultura y ganadería canarias. Drago propone auditarlo, no suprimirlo.",
+    "tip": "Una opción elimina un programa que el programa solo quiere evaluar.",
+    "source": {
+      "doc": "drago",
+      "page": 18,
+      "section": "POSEI y REA: saber a quién llega la ayuda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "drago-territorio-011",
+    "doc": "drago",
+    "topic": "territorio",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Drago Canarias?",
+    "options": [
+      "Un calendario público para completar los traspasos pendientes del Estatuto",
+      "Una sola circunscripción canaria en las elecciones al Congreso",
+      "Convocar un referéndum de independencia de Canarias",
+      "Que la Constitución reconozca la realidad nacional canaria"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Drago propone reconocer la realidad nacional canaria en la Constitución y completar traspasos, pero no propone convocar un referéndum de independencia.",
+    "tip": "Una opción es de un alcance mayor que cualquiera de las propuestas del programa.",
+    "source": {
+      "doc": "drago",
+      "page": 29,
+      "section": "Que la Constitución reconozca la realidad nacional canaria"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "drago-exterior-005",
+    "doc": "drago",
+    "topic": "exterior",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Drago Canarias?",
+    "options": [
+      "Que ningún acuerdo que ceda el control aéreo del Sáhara Occidental se firme sin autorización de las Cortes",
+      "Que Canarias tenga puesto en las delegaciones que negocien con Marruecos la delimitación de aguas",
+      "Reconocer la soberanía de Marruecos sobre el Sáhara Occidental",
+      "Una delegación del Gobierno de Canarias dentro de la representación de España ante la Unión Africana"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Drago defiende un referéndum de autodeterminación y rechaza consolidar la ocupación marroquí del Sáhara.",
+    "tip": "Una opción contradice la defensa de la autodeterminación que hace el programa.",
+    "source": {
+      "doc": "drago",
+      "page": 30,
+      "section": "Ninguna cesión del control aéreo sin pasar por las Cortes"
+    },
+    "difficulty": 2
+  }
+]

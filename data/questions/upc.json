@@ -1,0 +1,2402 @@
+[
+ {
+  "id": "upc-vivienda-001",
+  "doc": "upc",
+  "topic": "vivienda",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC propone blindar la vivienda como derecho fundamental en la Constitución.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "El manifiesto plantea declarar la vivienda derecho fundamental y garantizar un derecho subjetivo a una vivienda digna y asequible, de modo que sea una obligación efectiva de los poderes públicos.",
+  "tip": "Se habla de dar a la vivienda el máximo rango legal.",
+  "source": {
+   "doc": "upc",
+   "page": 2,
+   "section": "1. La vivienda es un derecho y no un negocio"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "upc-vivienda-002",
+  "doc": "upc",
+  "topic": "vivienda",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC quiere que el parque público de vivienda alcance al menos el 20 % del parque residencial.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "La cifra es el 9 %, en la línea de la UE. El manifiesto añade que hoy apenas llega al 2 % en las Islas.",
+  "tip": "La cifra es de un solo dígito.",
+  "source": {
+   "doc": "upc",
+   "page": 3,
+   "section": "1. La vivienda es un derecho y no un negocio"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-vivienda-003",
+  "doc": "upc",
+  "topic": "vivienda",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC propone una hipoteca al 0 % hasta 100.000 euros para la compra de primera vivienda, sin límite de edad.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Está entre las ayudas a la compra de primera vivienda y a la rehabilitación. La ausencia de límite de edad es un rasgo expreso de la propuesta.",
+  "tip": "Es una ayuda a la compra, no al alquiler.",
+  "source": {
+   "doc": "upc",
+   "page": 4,
+   "section": "1. La vivienda es un derecho y no un negocio"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-vivienda-004",
+  "doc": "upc",
+  "topic": "vivienda",
+  "type": "tf",
+  "question": "Verdadero o falso: Según UPC, los contratos de alquiler de vivienda habitual se renovarían automáticamente por periodos de 3 o 5 años.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Los periodos que propone son de 5 o 7 años, según el propietario sea persona física o jurídica.",
+  "tip": "Los plazos son más largos de lo que se dice aquí.",
+  "source": {
+   "doc": "upc",
+   "page": 3,
+   "section": "1. La vivienda es un derecho y no un negocio"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-empleo-001",
+  "doc": "upc",
+  "topic": "empleo",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC propone subir el salario mínimo interprofesional de forma progresiva hasta 1.800 euros en doce mensualidades.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "El SMI es el salario mínimo que fija el Gobierno cada año. UPC lo quiere elevar hasta 1.800 € por doce pagas, junto con la actualización de salarios por negociación colectiva.",
+  "tip": "Es una cifra redonda y alta.",
+  "source": {
+   "doc": "upc",
+   "page": 7,
+   "section": "3. Aumento del salario mínimo y avances en la legislación laboral a favor de los derechos de los trabajadores"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "upc-empleo-002",
+  "doc": "upc",
+  "topic": "empleo",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC propone avanzar hacia una jornada laboral de 32 horas semanales.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Propone regular la jornada de 37,5 horas semanales y avanzar de forma decidida hacia las 34 horas semanales.",
+  "tip": "El objetivo final está algo por encima de las 32 horas.",
+  "source": {
+   "doc": "upc",
+   "page": 7,
+   "section": "3. Aumento del salario mínimo y avances en la legislación laboral a favor de los derechos de los trabajadores"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-pensiones-001",
+  "doc": "upc",
+  "topic": "pensiones",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC propone actualizar por ley las pensiones al IPC y derogar el factor de sostenibilidad.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "El IPC mide la subida de los precios. UPC busca además blindar esa garantía en la Constitución y subir las pensiones mínimas, no contributivas y de viudedad.",
+  "tip": "Se trata de proteger el poder adquisitivo.",
+  "source": {
+   "doc": "upc",
+   "page": 6,
+   "section": "2. Servicios públicos y pensiones"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "upc-pensiones-002",
+  "doc": "upc",
+  "topic": "pensiones",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC propone la jubilación anticipada sin penalización solo para funcionarios.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "La propuesta es para trabajadores y trabajadoras de sectores especialmente duros y precarios, como camareras de piso, extinción de incendios, ayuda a domicilio, buceo, astilleros, estiba o transporte por carretera.",
+  "tip": "Se piensa en oficios físicamente exigentes.",
+  "source": {
+   "doc": "upc",
+   "page": 6,
+   "section": "2. Servicios públicos y pensiones"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-economia-001",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "tf",
+  "question": "Verdadero o falso: El manifiesto indica que Canarias obtiene el 75 % de sus ingresos autonómicos del Sistema de Financiación Autonómica (SFA).",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Por eso UPC defiende, ante la reforma anunciada, que no se cuestione la adicionalidad de los recursos del REF ni se pierda peso en la variable de insularidad.",
+  "tip": "Es la mayor parte, pero no la totalidad.",
+  "source": {
+   "doc": "upc",
+   "page": 8,
+   "section": "5. Sistema de Financiación Autonómica"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-economia-002",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC pide una partida para financiar una reducción del 50 % en los billetes aéreos y marítimos de los residentes canarios.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "El manifiesto reclama una partida de crédito ampliable para la reducción del 75 % en los precios de los billetes aéreos y marítimos interinsulares y con el resto del Estado.",
+  "tip": "Es una reducción bastante mayor que la mitad.",
+  "source": {
+   "doc": "upc",
+   "page": 9,
+   "section": "6. Presupuestos Generales del Estado"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-economia-003",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC propone ampliar hasta 85.000 euros de facturación anual el umbral de exención del IGIC para los autónomos.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "El IGIC es el impuesto indirecto canario, equivalente al IVA. UPC quiere simplificar así las obligaciones de los autónomos, en coordinación con el Gobierno de Canarias.",
+  "tip": "Es un impuesto propio de Canarias.",
+  "source": {
+   "doc": "upc",
+   "page": 12,
+   "section": "9. Propuestas de reforma fiscal a nivel estatal (Autónomos, pymes y pequeño comercio de Canarias)"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-economia-004",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "tf",
+  "question": "Verdadero o falso: La tarifa plana de 88 euros mensuales que propone UPC para autónomos estaría vinculada a su antigüedad.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Estaría dirigida a los autónomos con menores rendimientos y vinculada a sus ingresos reales y no a su antigüedad.",
+  "tip": "Se mide por lo que se gana, no por el tiempo en activo.",
+  "source": {
+   "doc": "upc",
+   "page": 13,
+   "section": "9. Propuestas de reforma fiscal a nivel estatal (Autónomos, pymes y pequeño comercio de Canarias)"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-sanidad-001",
+  "doc": "upc",
+  "topic": "sanidad",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC propone derogar la Ley 15/1997 para evitar la privatización de los servicios sanitarios.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Esa ley regula las nuevas formas de gestión del Sistema Nacional de Salud. UPC la quiere derogar y reforzar la atención primaria para reducir las listas de espera.",
+  "tip": "Es una ley de los años noventa.",
+  "source": {
+   "doc": "upc",
+   "page": 6,
+   "section": "2. Servicios públicos y pensiones"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-educacion-001",
+  "doc": "upc",
+  "topic": "educacion",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC propone ampliar las universidades privadas para aumentar la oferta de plazas.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Propone lo contrario: reforzar las universidades públicas y controlar la calidad y la proliferación de universidades privadas.",
+  "tip": "Se habla de controlar, no de impulsar.",
+  "source": {
+   "doc": "upc",
+   "page": 5,
+   "section": "2. Servicios públicos y pensiones"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-igualdad-001",
+  "doc": "upc",
+  "topic": "igualdad",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC propone reconocer de inmediato el derecho al aborto en la Constitución sin más estudio.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "El manifiesto habla de estudiar la posibilidad de blindar el derecho al aborto en la Constitución, como ha hecho Francia.",
+  "tip": "El verbo clave es más prudente.",
+  "source": {
+   "doc": "upc",
+   "page": 18,
+   "section": "14. Canarias feminista e igualitaria"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-igualdad-002",
+  "doc": "upc",
+  "topic": "igualdad",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC plantea aplicar las políticas de igualdad solo desde un departamento específico, no de forma transversal.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Plantea incorporar de forma transversal las políticas para la igualdad real de las mujeres y las personas LGTBIQ+, desde una perspectiva feminista interseccional.",
+  "tip": "Se aplican a todas las áreas.",
+  "source": {
+   "doc": "upc",
+   "page": 17,
+   "section": "14. Canarias feminista e igualitaria"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "upc-inmigracion-001",
+  "doc": "upc",
+  "topic": "inmigracion",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC rechaza la externalización de fronteras, el racismo y la xenofobia.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Externalizar fronteras es delegar el control migratorio en terceros países. UPC defiende en cambio una política basada en derechos humanos, vías legales y seguras y acogida digna.",
+  "tip": "Es una postura basada en derechos humanos.",
+  "source": {
+   "doc": "upc",
+   "page": 16,
+   "section": "13. Canarias, frontera Sur"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "upc-inmigracion-002",
+  "doc": "upc",
+  "topic": "inmigracion",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC propone que Canarias asuma en solitario la acogida de menores migrantes no acompañados.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Exige protección específica de la infancia migrante no acompañada y una distribución solidaria de las responsabilidades de acogida (corresponsabilidad entre territorios).",
+  "tip": "Se habla de repartir la responsabilidad.",
+  "source": {
+   "doc": "upc",
+   "page": 16,
+   "section": "13. Canarias, frontera Sur"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-medioambiente-001",
+  "doc": "upc",
+  "topic": "medioambiente",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC propone establecer protección general para tiburones y rayas en aguas canarias.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Se incluye junto a la Ley de Biodiversidad y Recursos Biológicos de Canarias y los planes de gestión de las áreas protegidas de la Red Natura 2000.",
+  "tip": "Afecta a especies marinas.",
+  "source": {
+   "doc": "upc",
+   "page": 15,
+   "section": "8. Nuevo Pacto Económico para Canarias (Biodiversidad y espacios naturales de Canarias)"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-medioambiente-002",
+  "doc": "upc",
+  "topic": "medioambiente",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC propone una Empresa pública de Energía que sustituya a las empresas públicas municipales de energía.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "La empresa pública trabajaría de forma coordinada con las empresas públicas municipales que ya existen o puedan crearse, no las sustituiría.",
+  "tip": "El texto habla de coordinación.",
+  "source": {
+   "doc": "upc",
+   "page": 14,
+   "section": "10. Sostenibilidad territorial, límites al crecimiento turístico y soberanía energética"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-rural-001",
+  "doc": "upc",
+  "topic": "rural",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC propone establecer al menos una reserva marina de interés pesquero por isla, priorizando La Gomera, Tenerife y Fuerteventura.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Priorizan esas islas porque existen estudios previos y propuestas de especialistas de las universidades canarias.",
+  "tip": "Se prioriza donde ya hay estudios.",
+  "source": {
+   "doc": "upc",
+   "page": 11,
+   "section": "8. Nuevo Pacto Económico para Canarias (Pesca artesanal y gestión sostenible del medio marino)"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-rural-002",
+  "doc": "upc",
+  "topic": "rural",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC propone dotar cada isla y reserva marina de un servicio de vigilancia pesquera con al menos tres embarcaciones.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "La propuesta es al menos una embarcación tripulada y dos inspectores de pesca por servicio, más equipos electrónicos y herramientas tecnológicas.",
+  "tip": "El número de embarcaciones es menor.",
+  "source": {
+   "doc": "upc",
+   "page": 11,
+   "section": "8. Nuevo Pacto Económico para Canarias (Pesca artesanal y gestión sostenible del medio marino)"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-territorio-001",
+  "doc": "upc",
+  "topic": "territorio",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC exige la cogestión canaria de los aeropuertos de las Islas.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Lo comparan con los puertos, que ya se cogestionan desde hace décadas. También rechaza la privatización de las torres de control.",
+  "tip": "El precedente son los puertos.",
+  "source": {
+   "doc": "upc",
+   "page": 15,
+   "section": "11. Autogobierno, soberanía popular y derecho a decidir"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-territorio-002",
+  "doc": "upc",
+  "topic": "territorio",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC rechaza que se establezca la mediana con Marruecos.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "UPC defiende el establecimiento de la mediana con Marruecos (la línea equidistante que fija los límites de las aguas), así como el reconocimiento de las aguas, los fondos marinos y el espacio aéreo del archipiélago.",
+  "tip": "Es una reivindicación sobre fronteras marítimas.",
+  "source": {
+   "doc": "upc",
+   "page": 15,
+   "section": "11. Autogobierno, soberanía popular y derecho a decidir"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-instituciones-001",
+  "doc": "upc",
+  "topic": "instituciones",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC considera el transfuguismo un acto de corrupción política.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "El transfuguismo es cambiar de grupo político tras ser elegido con otras siglas. El manifiesto pide prevenirlo y castigarlo, junto a la corrupción.",
+  "tip": "Se equipara a una forma de corrupción.",
+  "source": {
+   "doc": "upc",
+   "page": 18,
+   "section": "15. Democracia participativa, transparencia pública y lucha contra el transfuguismo político"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-instituciones-002",
+  "doc": "upc",
+  "topic": "instituciones",
+  "type": "tf",
+  "question": "Verdadero o falso: Las asambleas ciudadanas que propone UPC serían consultivas y no vinculantes.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "El manifiesto habla de asambleas ciudadanas vinculantes, junto con la revocación de cargos públicos, los presupuestos participativos y los referéndums.",
+  "tip": "El adjetivo importa mucho.",
+  "source": {
+   "doc": "upc",
+   "page": 19,
+   "section": "15. Democracia participativa, transparencia pública y lucha contra el transfuguismo político"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-cultura-001",
+  "doc": "upc",
+  "topic": "cultura",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC propone regular y limitar el impacto de la inteligencia artificial sobre la producción cultural humana.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Lo plantea dentro del apartado de cultura, identidad y patrimonio canario, junto con el apoyo a la creación artística y a las industrias culturales.",
+  "tip": "Tiene que ver con creadores y creadoras.",
+  "source": {
+   "doc": "upc",
+   "page": 16,
+   "section": "12. Cultura, identidad y patrimonio canario"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-exterior-001",
+  "doc": "upc",
+  "topic": "exterior",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC muestra su solidaridad con el pueblo palestino y el pueblo saharaui en sus luchas por la autodeterminación.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Apoya el derecho a la autodeterminación de los pueblos y, en concreto, a Palestina y al Sáhara.",
+  "tip": "Son dos pueblos concretos citados por su nombre.",
+  "source": {
+   "doc": "upc",
+   "page": 19,
+   "section": "16. Solidaridad internacional, cooperación entre pueblos y búsqueda de la paz"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "upc-exterior-002",
+  "doc": "upc",
+  "topic": "exterior",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC propone destinar como mínimo el 1 % de los Presupuestos Generales del Estado a cooperación internacional.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "La cifra que propone es como mínimo el 0,7 % de los Presupuestos Generales del Estado.",
+  "tip": "Es una cifra inferior al uno por ciento.",
+  "source": {
+   "doc": "upc",
+   "page": 19,
+   "section": "16. Solidaridad internacional, cooperación entre pueblos y búsqueda de la paz"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-vivienda-005",
+  "doc": "upc",
+  "topic": "vivienda",
+  "type": "single",
+  "question": "¿Qué propone UPC para las viviendas vacías de los grandes tenedores?",
+  "options": [
+   "Su venta a fondos de inversión para dinamizar el mercado",
+   "Su compra por el Estado al precio de mercado",
+   "La cesión obligatoria para crear un gran parque de alquiler público asequible",
+   "Una bonificación fiscal general para que las alquilen"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "Propone la cesión obligatoria de las viviendas vacías de grandes tenedores para impedir el acaparamiento y la especulación. A los pequeños propietarios les ofrece incentivos fiscales y seguridad jurídica.",
+  "tip": "Se distingue entre grandes y pequeños propietarios.",
+  "source": {
+   "doc": "upc",
+   "page": 3,
+   "section": "1. La vivienda es un derecho y no un negocio"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "upc-vivienda-006",
+  "doc": "upc",
+  "topic": "vivienda",
+  "type": "single",
+  "question": "Según UPC, ¿qué debe garantizar la Administración antes de desalojar a una familia vulnerable?",
+  "options": [
+   "Una ayuda económica de tres meses",
+   "Un aval público para que negocie con el propietario",
+   "Una plaza en un albergue temporal",
+   "Un realojo en condiciones dignas"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "El manifiesto dice que en ningún caso se podrá desalojar a personas en situación de vulnerabilidad sin un realojo digno, tanto en impagos de alquiler como en ocupación en precario por falta de vivienda asequible.",
+  "tip": "Debe haber una alternativa estable.",
+  "source": {
+   "doc": "upc",
+   "page": 4,
+   "section": "1. La vivienda es un derecho y no un negocio"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-vivienda-007",
+  "doc": "upc",
+  "topic": "vivienda",
+  "type": "single",
+  "question": "¿Con qué referencia compara UPC la inversión pública en vivienda que quiere alcanzar?",
+  "options": [
+   "La media de las comunidades autónomas",
+   "La media europea",
+   "El PIB de Canarias",
+   "El gasto en defensa"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "UPC propone aumentar la inversión pública en vivienda hasta equipararla a la media europea.",
+  "tip": "Se compara con otros países.",
+  "source": {
+   "doc": "upc",
+   "page": 3,
+   "section": "1. La vivienda es un derecho y no un negocio"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-vivienda-008",
+  "doc": "upc",
+  "topic": "vivienda",
+  "type": "single",
+  "question": "¿Qué quiere hacer UPC con las viviendas de la Sareb y de las entidades financieras rescatadas con dinero público?",
+  "options": [
+   "Venderlas a los inquilinos actuales",
+   "Cederlas a las SOCIMI para alquilarlas",
+   "Destinarlas a uso social",
+   "Subastarlas para recuperar el dinero"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "La Sareb es el llamado banco malo. UPC propone recuperar sus viviendas, y las de las entidades rescatadas, para uso social.",
+  "tip": "Se quiere devolver a la sociedad lo que se pagó con dinero público.",
+  "source": {
+   "doc": "upc",
+   "page": 4,
+   "section": "1. La vivienda es un derecho y no un negocio"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "upc-empleo-003",
+  "doc": "upc",
+  "topic": "empleo",
+  "type": "single",
+  "question": "¿Qué convenio de la Organización Internacional del Trabajo propone ratificar UPC para proteger a las personas que cuidan?",
+  "options": [
+   "El Convenio 138",
+   "El Convenio 189",
+   "El Convenio 87",
+   "El Convenio 155"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "El Convenio 189 de la OIT se refiere al trabajo doméstico. UPC propone ratificarlo y que estas profesionales entren de pleno derecho en el Régimen General de la Seguridad Social.",
+  "tip": "Es un número de tres cifras.",
+  "source": {
+   "doc": "upc",
+   "page": 7,
+   "section": "3. Aumento del salario mínimo y avances en la legislación laboral a favor de los derechos de los trabajadores"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-empleo-004",
+  "doc": "upc",
+  "topic": "empleo",
+  "type": "single",
+  "question": "¿Cómo propone UPC tratar las horas extraordinarias?",
+  "options": [
+   "Limitarlas a un máximo de diez al año",
+   "Liberalizarlas para las pymes",
+   "Garantizar su pago o compensación con descansos, reforzando el registro de jornada y la Inspección de Trabajo",
+   "Prohibirlas en todos los sectores"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "El control de las horas extra se apoya en el registro de jornada y en la Inspección de Trabajo.",
+  "tip": "Se refuerzan los controles, no se prohíben.",
+  "source": {
+   "doc": "upc",
+   "page": 7,
+   "section": "3. Aumento del salario mínimo y avances en la legislación laboral a favor de los derechos de los trabajadores"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-instituciones-003",
+  "doc": "upc",
+  "topic": "instituciones",
+  "type": "single",
+  "question": "¿A partir de qué edad propone UPC ampliar el derecho de voto?",
+  "options": [
+   "14 años",
+   "18 años, pero con voto electrónico",
+   "17 años",
+   "16 años"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "UPC apuesta por ampliar la participación democrática, incluido el voto a los 16 años, y por incorporar la justicia intergeneracional a las políticas públicas.",
+  "tip": "Es dos años menos que la mayoría de edad actual.",
+  "source": {
+   "doc": "upc",
+   "page": 8,
+   "section": "4. Juventud, emancipación y justicia intergeneracional"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "upc-economia-005",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "single",
+  "question": "¿Qué artículo del Estatuto de Autonomía cita UPC para defender la adicionalidad de los recursos del REF?",
+  "options": [
+   "El artículo 24 bis",
+   "El artículo 166",
+   "El artículo 95",
+   "El artículo 47"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "La adicionalidad significa que los recursos del REF se suman a la financiación autonómica y no se computan dentro del SFA. El manifiesto lo apoya en el artículo 166 del Estatuto de Autonomía.",
+  "tip": "Es el artículo que protege los recursos del REF.",
+  "source": {
+   "doc": "upc",
+   "page": 8,
+   "section": "5. Sistema de Financiación Autonómica"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-economia-006",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "single",
+  "question": "¿Qué nuevas variables pide UPC incluir al definir la población ajustada en el reparto de la financiación autonómica?",
+  "options": [
+   "La superficie del territorio",
+   "El número de turistas anuales",
+   "El nivel de pobreza o de renta",
+   "El número de universidades"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "La población ajustada es el criterio usado para repartir los recursos entre comunidades. UPC sostiene que la renta y la pobreza inciden en la demanda de servicios públicos fundamentales.",
+  "tip": "Tienen que ver con la situación económica de la gente.",
+  "source": {
+   "doc": "upc",
+   "page": 8,
+   "section": "5. Sistema de Financiación Autonómica"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-economia-007",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "single",
+  "question": "¿Qué dotación mínima pide UPC para el programa contra la pobreza regulado en el artículo 21 bis de la Ley 19/1994?",
+  "options": [
+   "3 millones de euros",
+   "100 millones de euros",
+   "300 millones de euros",
+   "30 millones de euros"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "Pide al menos 30 millones de euros en los Presupuestos Generales del Estado, como en la actualidad.",
+  "tip": "Es una cifra de ocho dígitos.",
+  "source": {
+   "doc": "upc",
+   "page": 9,
+   "section": "6. Presupuestos Generales del Estado"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-economia-008",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "single",
+  "question": "¿Qué bonificación reclama UPC para el transporte marítimo y aéreo de mercancías agrícolas e industriales?",
+  "options": [
+   "El 25 %",
+   "El 100 %",
+   "El 50 %",
+   "El 75 %"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Pide una partida de crédito ampliable para esa bonificación, con actualización de los costes tipo según los precios reales de las navieras. El 75 % es el de los billetes de pasajeros.",
+  "tip": "No confundir con el porcentaje de los billetes de pasajeros.",
+  "source": {
+   "doc": "upc",
+   "page": 9,
+   "section": "6. Presupuestos Generales del Estado"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-rural-003",
+  "doc": "upc",
+  "topic": "rural",
+  "type": "single",
+  "question": "En el nuevo Marco Financiero Plurianual 2028-2034 de la UE, ¿qué pide UPC para el POSEI?",
+  "options": [
+   "Que se reduzca para financiar la acogida de migrantes",
+   "Que se integre en los planes nacionales de la PAC",
+   "Que se sustituya por ayudas directas a la renta",
+   "Que continúe como instrumento autónomo de la PAC en las RUP, con ficha financiera actualizada"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "El Marco Financiero Plurianual es el presupuesto a largo plazo de la UE. El POSEI es el programa de ayudas agrarias para regiones ultraperiféricas (RUP). UPC quiere un reglamento específico, al margen de los planes de colaboración nacionales y regionales.",
+  "tip": "Se defiende su autonomía respecto a los planes nacionales.",
+  "source": {
+   "doc": "upc",
+   "page": 10,
+   "section": "7. Nuevo Marco Financiero Plurianual 2028-2034 de la Unión Europea"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-inmigracion-003",
+  "doc": "upc",
+  "topic": "inmigracion",
+  "type": "single",
+  "question": "¿Qué pide UPC a la UE sobre la gestión de los flujos migratorios en Canarias?",
+  "options": [
+   "Fijar una cuota anual de entradas por isla",
+   "Trasladar todos los centros de acogida a la Península",
+   "Regionalizar los fondos europeos para gestionar directamente los flujos, en especial la acogida de menores no acompañados",
+   "Crear un fondo único gestionado desde Bruselas"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "Se apoya en la situación de Canarias como frontera sur de la UE y en su doble realidad, insular y ultraperiférica.",
+  "tip": "La palabra clave es regionalizar.",
+  "source": {
+   "doc": "upc",
+   "page": 10,
+   "section": "7. Nuevo Marco Financiero Plurianual 2028-2034 de la Unión Europea"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-economia-009",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "single",
+  "question": "¿Qué uso de la RIC propone derogar UPC?",
+  "options": [
+   "Su uso para financiar equipamiento industrial",
+   "Su uso para la contratación de personal",
+   "Su materialización en vivienda libre destinada al alquiler sin limitación de renta",
+   "Su aplicación en proyectos de energías renovables"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "La RIC es la Reserva para Inversiones en Canarias, un incentivo fiscal. UPC considera especulativo ese uso concreto.",
+  "tip": "El problema que se señala es especulativo.",
+  "source": {
+   "doc": "upc",
+   "page": 10,
+   "section": "8. Nuevo Pacto Económico para Canarias"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-economia-010",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "single",
+  "question": "¿Qué deducción por alza de precios en el IRPF propone UPC para rentas entre 20.000 y 30.000 euros?",
+  "options": [
+   "300 euros",
+   "150 euros",
+   "175 euros",
+   "225 euros"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "La deducción de la cuota íntegra sería de 300 euros para rentas inferiores a 20.000, 225 para las de 20.000 a 30.000 y 175 para las de 30.000 a 40.000.",
+  "tip": "Está entre las otras dos cantidades del escalón.",
+  "source": {
+   "doc": "upc",
+   "page": 12,
+   "section": "9. Propuestas de reforma fiscal a nivel estatal"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-economia-011",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "single",
+  "question": "¿Hasta qué nivel de renta propone UPC la deflactación progresiva de la tarifa del IRPF?",
+  "options": [
+   "65.000 euros",
+   "30.000 euros",
+   "120.000 euros",
+   "40.000 euros"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Deflactar es ajustar los tramos del impuesto a la inflación, para que subir el sueldo solo por los precios no suponga pagar más. Los 120.000 euros son el umbral a partir del cual propone más tramos.",
+  "tip": "No es el umbral de los tramos superiores.",
+  "source": {
+   "doc": "upc",
+   "page": 12,
+   "section": "9. Propuestas de reforma fiscal a nivel estatal"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-economia-012",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "single",
+  "question": "¿A partir de qué nivel de renta propone UPC ampliar el número de tramos del IRPF estatal?",
+  "options": [
+   "120.000 euros",
+   "40.000 euros",
+   "60.000 euros",
+   "300.000 euros"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Propone ampliar los tramos a partir de 120.000 euros, aplicando tipos marginales crecientes, para aumentar la progresividad.",
+  "tip": "Es un nivel de renta alto.",
+  "source": {
+   "doc": "upc",
+   "page": 11,
+   "section": "9. Propuestas de reforma fiscal a nivel estatal"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-economia-013",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "single",
+  "question": "¿Qué duración mínima propone UPC para los contratos de arrendamiento de locales del pequeño comercio?",
+  "options": [
+   "Diez años",
+   "Cinco años",
+   "Un año",
+   "Tres años"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Los contratos de un mínimo de cinco años se acompañan de límites a las subidas del alquiler y mecanismos de indemnización, para proteger al pequeño comercio de la especulación inmobiliaria.",
+  "tip": "Coincide con el plazo menor de los alquileres de vivienda.",
+  "source": {
+   "doc": "upc",
+   "page": 13,
+   "section": "9. Propuestas de reforma fiscal a nivel estatal (Autónomos, pymes y pequeño comercio de Canarias)"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-medioambiente-003",
+  "doc": "upc",
+  "topic": "medioambiente",
+  "type": "single",
+  "question": "¿Qué obligación pretende UPC avanzar para las nuevas construcciones?",
+  "options": [
+   "Que reserven un 30 % para vivienda pública",
+   "Que sean autosuficientes energéticamente",
+   "Que se construyan con materiales locales",
+   "Que incluyan un sistema de climatización"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Va unida a la apuesta por energías renovables, generación distribuida y soberanía energética.",
+  "tip": "Se refiere a la energía que consumen.",
+  "source": {
+   "doc": "upc",
+   "page": 14,
+   "section": "10. Sostenibilidad territorial, límites al crecimiento turístico y soberanía energética"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-medioambiente-004",
+  "doc": "upc",
+  "topic": "medioambiente",
+  "type": "single",
+  "question": "¿Qué plan estatal propone UPC en materia de costas?",
+  "options": [
+   "Un plan de concesiones hoteleras en primera línea",
+   "Un plan de nuevos puertos deportivos",
+   "Un plan de regeneración de playas para el turismo",
+   "Un plan estatal de costas, emisarios submarinos y depuradoras"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "Se enmarca en la mejora de la protección de los ecosistemas y de las infraestructuras de saneamiento y depuración. También quiere recuperar barrancos, senderos y valles.",
+  "tip": "Trata de saneamiento y depuración.",
+  "source": {
+   "doc": "upc",
+   "page": 15,
+   "section": "8. Nuevo Pacto Económico para Canarias (Costas, agua y restauración ecológica)"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-sanidad-002",
+  "doc": "upc",
+  "topic": "sanidad",
+  "type": "single",
+  "question": "¿Qué plan estratégico menciona UPC que debe cumplirse íntegramente?",
+  "options": [
+   "El Plan Estratégico de Salud y Medio Ambiente (PESMA 2022-2026)",
+   "El Plan de Choque contra las Listas de Espera",
+   "El Plan Nacional de Salud Mental",
+   "El Plan Canarias Saludable 2030"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Lo cita junto a otras medidas de la atención primaria y la prevención, como incorporar profesionales de nutrición y aprobar una Ley para la Diabetes.",
+  "tip": "Une salud y entorno natural.",
+  "source": {
+   "doc": "upc",
+   "page": 6,
+   "section": "2. Servicios públicos y pensiones"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-sanidad-003",
+  "doc": "upc",
+  "topic": "sanidad",
+  "type": "single",
+  "question": "¿Cuál de estos servicios quiere UPC que cubra la sanidad pública?",
+  "options": [
+   "Cirugía estética",
+   "Salud dental, visual y auditiva",
+   "Tratamientos en clínicas privadas sin límite",
+   "Seguro de viaje"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Además, pide cubrir fisioterapia y salud sexual y reproductiva de la mujer, una farmacéutica pública con topes a los medicamentos y más dinero para atención primaria.",
+  "tip": "Son prestaciones que hoy suelen pagarse aparte.",
+  "source": {
+   "doc": "upc",
+   "page": 6,
+   "section": "2. Servicios públicos y pensiones"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-sanidad-004",
+  "doc": "upc",
+  "topic": "sanidad",
+  "type": "single",
+  "question": "¿Cómo propone UPC afrontar la soledad no deseada de las personas mayores?",
+  "options": [
+   "Con una renta mínima para mayores solos",
+   "Con residencias privadas concertadas",
+   "Con un teléfono único de atención 24 horas",
+   "Con un programa de acompañamiento remunerado por parte de jóvenes"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "El programa se completa con sensibilización social y con servicios sociales cercanos y bien dotados.",
+  "tip": "Conecta a dos generaciones.",
+  "source": {
+   "doc": "upc",
+   "page": 5,
+   "section": "2. Servicios públicos y pensiones"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-educacion-002",
+  "doc": "upc",
+  "topic": "educacion",
+  "type": "single",
+  "question": "¿Qué plan propone UPC para los centros escolares?",
+  "options": [
+   "Un plan de ordenadores para cada alumno",
+   "Un Plan Estatal de infraestructuras educativas para adaptarlos al cambio climático",
+   "Un plan de comedores gratuitos",
+   "Un plan de centros bilingües"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Incluiría intervenciones en la envolvente de los edificios, los espacios interiores, la ventilación y la iluminación, junto a eficiencia energética y renovables.",
+  "tip": "Mira a la temperatura de las aulas.",
+  "source": {
+   "doc": "upc",
+   "page": 5,
+   "section": "2. Servicios públicos y pensiones"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-territorio-003",
+  "doc": "upc",
+  "topic": "territorio",
+  "type": "single",
+  "question": "¿Qué decisión estatal sobre los aeropuertos rechaza UPC?",
+  "options": [
+   "El cierre de aeropuertos pequeños",
+   "La privatización de las torres de control de varios aeropuertos de las Islas",
+   "La cogestión canaria de los aeropuertos",
+   "La subida de las tasas aeroportuarias"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Rechaza esa privatización y exige la cogestión canaria de los aeropuertos, como ya ocurre con los puertos.",
+  "tip": "Afecta a quienes controlan el tráfico aéreo.",
+  "source": {
+   "doc": "upc",
+   "page": 15,
+   "section": "11. Autogobierno, soberanía popular y derecho a decidir"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-territorio-004",
+  "doc": "upc",
+  "topic": "territorio",
+  "type": "single",
+  "question": "¿Con qué país quiere UPC establecer la mediana para delimitar aguas y fondos marinos?",
+  "options": [
+   "Argelia",
+   "Portugal",
+   "Mauritania",
+   "Marruecos"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "La mediana es la línea equidistante entre dos costas. UPC también pide la participación de Canarias en las negociaciones con terceros estados sobre temas que le afecten.",
+  "tip": "Es el vecino más cercano al este del archipiélago.",
+  "source": {
+   "doc": "upc",
+   "page": 15,
+   "section": "11. Autogobierno, soberanía popular y derecho a decidir"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "upc-cultura-002",
+  "doc": "upc",
+  "topic": "cultura",
+  "type": "single",
+  "question": "¿Qué sectores culturales quiere UPC apoyar aprovechando las exenciones fiscales y la Zona Especial Canaria?",
+  "options": [
+   "Cine, diseño y videojuegos",
+   "Música clásica y ópera",
+   "Editoriales de libros de texto",
+   "Prensa escrita"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Esas exenciones deben estar vinculadas directamente a la contratación de trabajo local.",
+  "tip": "Son sectores audiovisuales y digitales.",
+  "source": {
+   "doc": "upc",
+   "page": 16,
+   "section": "12. Cultura, identidad y patrimonio canario"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-instituciones-004",
+  "doc": "upc",
+  "topic": "instituciones",
+  "type": "single",
+  "question": "¿Qué crearía UPC para vigilar la información y la influencia de los medios?",
+  "options": [
+   "Un observatorio de vigilancia de las fake news, los monopolios y los lobbies de comunicación",
+   "Un consejo de periodistas con poder sancionador",
+   "Una agencia estatal de verificación",
+   "Una tasa a las plataformas digitales"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Lo plantea dentro del apartado sobre democracia participativa y transparencia pública.",
+  "tip": "Se llama observatorio.",
+  "source": {
+   "doc": "upc",
+   "page": 18,
+   "section": "15. Democracia participativa, transparencia pública y lucha contra el transfuguismo político"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-inmigracion-004",
+  "doc": "upc",
+  "topic": "inmigracion",
+  "type": "single",
+  "question": "¿Qué medios propone UPC para actuar ante repuntes migratorios?",
+  "options": [
+   "Cerrar los puertos de las islas no capitalinas",
+   "Construir un muro marítimo",
+   "Crear una policía fronteriza canaria",
+   "Reforzar los medios humanos, técnicos y aéreos, con posibles unidades de despliegue rápido"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "También quiere estudiar medios permanentes en las islas no capitalinas por la doble insularidad.",
+  "tip": "Se habla de reforzar y de respuesta rápida.",
+  "source": {
+   "doc": "upc",
+   "page": 16,
+   "section": "13. Canarias, frontera Sur"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-territorio-005",
+  "doc": "upc",
+  "topic": "territorio",
+  "type": "tf",
+  "question": "Verdadero o falso: UPC propone que Canarias renuncie a su condición de región ultraperiférica (RUP) de la UE.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Reclama justo lo contrario: el reconocimiento efectivo de la condición de región ultraperiférica y que las políticas estatales consideren las condiciones específicas de Canarias.",
+  "tip": "Defiende un trato específico.",
+  "source": {
+   "doc": "upc",
+   "page": 15,
+   "section": "11. Autogobierno, soberanía popular y derecho a decidir"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "upc-igualdad-003",
+  "doc": "upc",
+  "topic": "igualdad",
+  "type": "single",
+  "question": "¿Desde qué perspectiva propone UPC incorporar de forma transversal las políticas de igualdad?",
+  "options": [
+   "Únicamente jurídica",
+   "Feminista interseccional",
+   "Exclusivamente educativa",
+   "Económica y empresarial"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "La perspectiva interseccional tiene en cuenta que el sexo, la orientación, el origen, la discapacidad o la situación económica pueden sumarse como causas de desigualdad.",
+  "tip": "El adjetivo alude a la combinación de varias desigualdades.",
+  "source": {
+   "doc": "upc",
+   "page": 17,
+   "section": "14. Canarias feminista e igualitaria"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "upc-vivienda-009",
+  "doc": "upc",
+  "topic": "vivienda",
+  "type": "multi",
+  "question": "Marca todas las medidas de vivienda que propone UPC.",
+  "options": [
+   "Avalar con dinero público el 100 % de las hipotecas jóvenes",
+   "Control de precios del alquiler",
+   "Construir un millón de viviendas con suelo liberalizado",
+   "Acabar con las SOCIMI",
+   "Expropiar viviendas a los fondos buitre"
+  ],
+  "answer": [
+   1,
+   3,
+   4
+  ],
+  "explanation": "Los fondos buitre son fondos de inversión que compran vivienda a bajo precio para especular; las SOCIMI son sociedades inmobiliarias con ventajas fiscales. UPC propone expropiar, controlar precios y acabar con las SOCIMI, que considera mecanismos de elusión fiscal y de especulación.",
+  "tip": "Las propuestas implican intervenir el mercado.",
+  "source": {
+   "doc": "upc",
+   "page": 3,
+   "section": "1. La vivienda es un derecho y no un negocio"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "upc-vivienda-010",
+  "doc": "upc",
+  "topic": "vivienda",
+  "type": "multi",
+  "question": "¿Qué ayudas o medidas dirigidas a la juventud recoge el manifiesto de UPC?",
+  "options": [
+   "Acceso prioritario al parque público de viviendas",
+   "Hipoteca al 0 % hasta 100.000 euros sin límite de edad",
+   "Reducir la edad de voto a 14 años",
+   "Un bono mensual de 250 euros para el alquiler",
+   "Un Pacto de Estado con programas de emancipación"
+  ],
+  "answer": [
+   0,
+   1,
+   4
+  ],
+  "explanation": "Incluye acceso prioritario al parque público, hipoteca al 0 % y un Pacto de Estado para programas específicos (vivienda, trabajo, estudios) con participación de la propia juventud.",
+  "tip": "Combina vivienda, crédito y participación.",
+  "source": {
+   "doc": "upc",
+   "page": 8,
+   "section": "4. Juventud, emancipación y justicia intergeneracional"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-empleo-005",
+  "doc": "upc",
+  "topic": "empleo",
+  "type": "multi",
+  "question": "Marca todas las propuestas laborales de UPC.",
+  "options": [
+   "Avanzar hacia las 34 horas semanales",
+   "Dejar la subida del SMI en manos empresariales",
+   "Regular la jornada de 37,5 horas semanales",
+   "Crear un contrato único para todos los trabajadores",
+   "SMI de 1.800 euros en doce mensualidades"
+  ],
+  "answer": [
+   0,
+   2,
+   4
+  ],
+  "explanation": "UPC se opone expresamente a que el Gobierno pierda su papel en la subida del SMI, medida que atribuye a PP y Vox.",
+  "tip": "Las tres correctas tienen cifras.",
+  "source": {
+   "doc": "upc",
+   "page": 7,
+   "section": "3. Aumento del salario mínimo y avances en la legislación laboral a favor de los derechos de los trabajadores"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-pensiones-003",
+  "doc": "upc",
+  "topic": "pensiones",
+  "type": "multi",
+  "question": "Marca las medidas sobre pensiones que propone UPC.",
+  "options": [
+   "Subir las pensiones mínimas y las no contributivas",
+   "Retrasar la edad ordinaria de jubilación",
+   "Derogar el factor de sostenibilidad",
+   "Actualizar por ley las pensiones al IPC",
+   "Fomentar los planes de pensiones privados con deducciones"
+  ],
+  "answer": [
+   0,
+   2,
+   3
+  ],
+  "explanation": "UPC defiende unas pensiones públicas dignas frente a los intentos privatizadores. También propone subir las pensiones de viudedad.",
+  "tip": "Todas buscan reforzar el sistema público.",
+  "source": {
+   "doc": "upc",
+   "page": 6,
+   "section": "2. Servicios públicos y pensiones"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "upc-sanidad-005",
+  "doc": "upc",
+  "topic": "sanidad",
+  "type": "multi",
+  "question": "Marca los servicios o medidas de sanidad que recoge UPC.",
+  "options": [
+   "Conciertos con clínicas privadas para reducir listas de espera",
+   "Copago por consulta de atención primaria",
+   "Profesionales de nutrición en atención primaria",
+   "Una farmacéutica pública con topes a los medicamentos",
+   "Una Ley para la Diabetes"
+  ],
+  "answer": [
+   2,
+   3,
+   4
+  ],
+  "explanation": "Propone reforzar la sanidad pública universal y reducir las listas de espera con más dinero para la atención primaria, no con copagos ni conciertos.",
+  "tip": "Se refuerza lo público.",
+  "source": {
+   "doc": "upc",
+   "page": 6,
+   "section": "2. Servicios públicos y pensiones"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-educacion-003",
+  "doc": "upc",
+  "topic": "educacion",
+  "type": "multi",
+  "question": "Marca las medidas educativas que propone UPC.",
+  "options": [
+   "Controlar la proliferación de universidades privadas",
+   "Educación pública y gratuita de 0 a 3 años",
+   "Reducir las ratios en colegios e institutos",
+   "Segregar al alumnado con necesidades específicas en centros especiales",
+   "Cheque escolar para elegir centro"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "UPC rechaza cualquier intento de segregación del alumnado con necesidades específicas de apoyo educativo (NEAE) y defiende una inclusión real.",
+  "tip": "Se apuesta por la escuela pública e inclusiva.",
+  "source": {
+   "doc": "upc",
+   "page": 5,
+   "section": "2. Servicios públicos y pensiones"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-economia-014",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "multi",
+  "question": "Marca las medidas fiscales que propone UPC.",
+  "options": [
+   "Mantener los impuestos extraordinarios sobre la banca",
+   "Deflactar la tarifa del IRPF hasta rentas de 65.000 euros",
+   "Bajar el Impuesto sobre Sociedades",
+   "Eliminar el impuesto de patrimonio",
+   "Mantener un impuesto permanente a las grandes fortunas"
+  ],
+  "answer": [
+   0,
+   1,
+   4
+  ],
+  "explanation": "También quiere reintroducir el impuesto extraordinario a las empresas energéticas. UPC critica a las comunidades que han eliminado el impuesto de patrimonio.",
+  "tip": "Quiere que contribuyan más quienes más tienen.",
+  "source": {
+   "doc": "upc",
+   "page": 12,
+   "section": "9. Propuestas de reforma fiscal a nivel estatal"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-economia-015",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "multi",
+  "question": "Marca las medidas para autónomos y pymes de Canarias que propone UPC.",
+  "options": [
+   "Exención del IGIC hasta 85.000 euros de facturación",
+   "Suprimir el IGIC para todas las pymes",
+   "Ventanilla única administrativa",
+   "Eliminar toda cuota de autónomos",
+   "Tarifa plana de 88 euros mensuales para autónomos con menores rendimientos"
+  ],
+  "answer": [
+   0,
+   2,
+   4
+  ],
+  "explanation": "UPC también propone democratizar el acceso de autónomos y pymes a los incentivos fiscales del REF y compensar los sobrecostes de la insularidad.",
+  "tip": "Todas buscan reducir cargas con cifras concretas o trámites.",
+  "source": {
+   "doc": "upc",
+   "page": 13,
+   "section": "9. Propuestas de reforma fiscal a nivel estatal (Autónomos, pymes y pequeño comercio de Canarias)"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-economia-016",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "multi",
+  "question": "Marca las medidas sobre el modelo turístico que propone UPC.",
+  "options": [
+   "Moratoria de nuevas camas e instalaciones turísticas",
+   "Tasa turística para los no residentes",
+   "Eliminar los límites a la vivienda vacacional",
+   "Revisar el principio de unidad de explotación turística",
+   "Fomentar nuevos grandes complejos hoteleros"
+  ],
+  "answer": [
+   0,
+   1,
+   3
+  ],
+  "explanation": "UPC cree que el crecimiento turístico debe modularse y que el desarrollismo turístico es responsable del crecimiento demográfico de las Islas.",
+  "tip": "Frenan o regulan el crecimiento.",
+  "source": {
+   "doc": "upc",
+   "page": 13,
+   "section": "10. Sostenibilidad territorial, límites al crecimiento turístico y soberanía energética"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-medioambiente-005",
+  "doc": "upc",
+  "topic": "medioambiente",
+  "type": "multi",
+  "question": "Marca las medidas de energía y clima que propone UPC.",
+  "options": [
+   "Reabrir centrales nucleares",
+   "Refugios climáticos ante frío y calor extremos",
+   "Una Empresa pública de Energía",
+   "Autorizar el fracking",
+   "Un plan de techumbres fotovoltaicas"
+  ],
+  "answer": [
+   1,
+   2,
+   4
+  ],
+  "explanation": "Se apuesta por energías renovables, generación distribuida y soberanía energética, con atención especial a personas mayores y menores.",
+  "tip": "Se prioriza lo distribuido y de bajo impacto.",
+  "source": {
+   "doc": "upc",
+   "page": 14,
+   "section": "10. Sostenibilidad territorial, límites al crecimiento turístico y soberanía energética"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "upc-inmigracion-005",
+  "doc": "upc",
+  "topic": "inmigracion",
+  "type": "multi",
+  "question": "Marca las posturas migratorias de UPC.",
+  "options": [
+   "Devolución inmediata de las personas llegadas en patera",
+   "Vías legales y seguras",
+   "Rechazo de la externalización de fronteras",
+   "Cierre de las rutas con acuerdos de readmisión",
+   "Protección específica de la infancia migrante no acompañada"
+  ],
+  "answer": [
+   1,
+   2,
+   4
+  ],
+  "explanation": "UPC pide además corresponsabilidad entre territorios y acogida digna.",
+  "tip": "Se plantea desde los derechos humanos.",
+  "source": {
+   "doc": "upc",
+   "page": 16,
+   "section": "13. Canarias, frontera Sur"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "upc-rural-004",
+  "doc": "upc",
+  "topic": "rural",
+  "type": "multi",
+  "question": "Marca las medidas de pesca artesanal que recoge UPC.",
+  "options": [
+   "Geolocalización de embarcaciones",
+   "Eliminar la vigilancia pesquera",
+   "Planes de gestión pesquera para las ZEC marinas de la Red Natura 2000",
+   "Autorizar la pesca de arrastre en reservas",
+   "Ampliar la red de reservas marinas de interés pesquero"
+  ],
+  "answer": [
+   0,
+   2,
+   4
+  ],
+  "explanation": "Las ZEC son zonas especiales de conservación. UPC también propone cogestión, seguimiento científico y combatir el furtivismo.",
+  "tip": "Son medidas de protección y control.",
+  "source": {
+   "doc": "upc",
+   "page": 11,
+   "section": "8. Nuevo Pacto Económico para Canarias (Pesca artesanal y gestión sostenible del medio marino)"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-igualdad-004",
+  "doc": "upc",
+  "topic": "igualdad",
+  "type": "multi",
+  "question": "Marca las propuestas de igualdad que incluye UPC.",
+  "options": [
+   "Educación afectivo-sexual",
+   "Derogar la ley de violencia de género",
+   "Estudiar blindar el derecho al aborto en la Constitución",
+   "Eliminar las políticas de protección a personas trans",
+   "Formación del profesorado en coeducación y perspectiva de género"
+  ],
+  "answer": [
+   0,
+   2,
+   4
+  ],
+  "explanation": "UPC aboga además por una educación en igualdad desde las primeras etapas y por la protección frente a la discriminación del colectivo LGTBIQA+.",
+  "tip": "Todas amplían derechos y educación.",
+  "source": {
+   "doc": "upc",
+   "page": 18,
+   "section": "14. Canarias feminista e igualitaria"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-instituciones-005",
+  "doc": "upc",
+  "topic": "instituciones",
+  "type": "multi",
+  "question": "Marca los mecanismos de democracia participativa que propone UPC.",
+  "options": [
+   "Revocación de cargos públicos",
+   "Presupuestos participativos",
+   "Eliminar el Senado",
+   "Referéndums",
+   "Reducir el número de diputados"
+  ],
+  "answer": [
+   0,
+   1,
+   3
+  ],
+  "explanation": "También plantea asambleas ciudadanas vinculantes, rendición de cuentas y limitación de privilegios políticos.",
+  "tip": "Son vías de participación directa.",
+  "source": {
+   "doc": "upc",
+   "page": 19,
+   "section": "15. Democracia participativa, transparencia pública y lucha contra el transfuguismo político"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-exterior-003",
+  "doc": "upc",
+  "topic": "exterior",
+  "type": "multi",
+  "question": "Marca las posiciones de política exterior de UPC.",
+  "options": [
+   "Salir de la OTAN",
+   "Solidaridad con el pueblo saharaui",
+   "Aumentar el gasto en defensa",
+   "Destinar como mínimo el 0,7 % de los Presupuestos a cooperación",
+   "Solidaridad con el pueblo palestino"
+  ],
+  "answer": [
+   1,
+   3,
+   4
+  ],
+  "explanation": "UPC defiende a Canarias como territorio de paz y relaciones justas con África, América Latina y Europa. No menciona la OTAN ni el gasto militar.",
+  "tip": "Combina dinero para cooperación y causas de autodeterminación.",
+  "source": {
+   "doc": "upc",
+   "page": 19,
+   "section": "16. Solidaridad internacional, cooperación entre pueblos y búsqueda de la paz"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "upc-vivienda-011",
+  "doc": "upc",
+  "topic": "vivienda",
+  "type": "which_party",
+  "question": "¿Qué partido propone prohibir la desokupación extrajudicial e ilegalizar las empresas que la practican?",
+  "options": [
+   "pp",
+   "vox",
+   "cc",
+   "upc",
+   "psoe"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "UPC propone prohibir las prácticas de desokupación extrajudicial (expulsar ocupantes sin pasar por un juez) e ilegalizar a las empresas que las ejercen.",
+  "tip": "Va en defensa de las personas con vivienda precaria.",
+  "source": {
+   "doc": "upc",
+   "page": 3,
+   "section": "1. La vivienda es un derecho y no un negocio"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-empleo-006",
+  "doc": "upc",
+  "topic": "empleo",
+  "type": "which_party",
+  "question": "¿Qué partido propone avanzar hacia una jornada laboral de 34 horas semanales?",
+  "options": [
+   "psoe",
+   "upc",
+   "pp",
+   "vox",
+   "cc"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "UPC propone regular las 37,5 horas y avanzar de forma decidida hacia las 34 horas semanales.",
+  "tip": "Es un objetivo más ambicioso que el de 37,5 horas.",
+  "source": {
+   "doc": "upc",
+   "page": 7,
+   "section": "3. Aumento del salario mínimo y avances en la legislación laboral a favor de los derechos de los trabajadores"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-pensiones-004",
+  "doc": "upc",
+  "topic": "pensiones",
+  "type": "which_party",
+  "question": "¿Qué partido propone derogar el factor de sostenibilidad de las pensiones?",
+  "options": [
+   "pp",
+   "vox",
+   "psoe",
+   "upc",
+   "cc"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "El factor de sostenibilidad vincula la pensión inicial a la esperanza de vida. UPC propone derogarlo y actualizar las pensiones al IPC por ley.",
+  "tip": "Es una reforma que pide una fuerza nacionalista de izquierdas.",
+  "source": {
+   "doc": "upc",
+   "page": 6,
+   "section": "2. Servicios públicos y pensiones"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-economia-017",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "which_party",
+  "question": "¿Qué partido propone implantar una tasa turística para los no residentes y una moratoria de nuevas camas turísticas?",
+  "options": [
+   "pp",
+   "psoe",
+   "upc",
+   "cc",
+   "vox"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "UPC lo plantea como parte de planificar y modular el modelo turístico, apostando por calidad frente a cantidad.",
+  "tip": "Plantea limitar el crecimiento turístico, no estimularlo.",
+  "source": {
+   "doc": "upc",
+   "page": 10,
+   "section": "8. Nuevo Pacto Económico para Canarias"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-economia-018",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "which_party",
+  "question": "¿Qué partido propone una deducción de 300 euros en la cuota del IRPF para rentas inferiores a 20.000 euros por el alza de precios?",
+  "options": [
+   "pp",
+   "upc",
+   "psoe",
+   "vox",
+   "cc"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "UPC añade tramos de 225 y 175 euros para rentas hasta 30.000 y 40.000 euros, y recuerda una medida similar aplicada en Canarias en 2022 y 2023.",
+  "tip": "La cifra baja a medida que sube la renta.",
+  "source": {
+   "doc": "upc",
+   "page": 12,
+   "section": "9. Propuestas de reforma fiscal a nivel estatal"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-economia-019",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "which_party",
+  "question": "¿Qué partido propone una tarifa plana de 88 euros mensuales para autónomos con menores rendimientos?",
+  "options": [
+   "psoe",
+   "cc",
+   "vox",
+   "upc",
+   "pp"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "Se vincula a los ingresos reales y no a la antigüedad del autónomo.",
+  "tip": "Es una cuota fija inferior a la habitual.",
+  "source": {
+   "doc": "upc",
+   "page": 13,
+   "section": "9. Propuestas de reforma fiscal a nivel estatal (Autónomos, pymes y pequeño comercio de Canarias)"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-medioambiente-006",
+  "doc": "upc",
+  "topic": "medioambiente",
+  "type": "which_party",
+  "question": "¿Qué partido propone crear una Empresa pública de Energía para instalar renovables y abaratar la factura de la luz?",
+  "options": [
+   "upc",
+   "pp",
+   "vox",
+   "cc",
+   "psoe"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Su función incluiría garantizar que nadie sufra pobreza energética y coordinarse con empresas públicas municipales.",
+  "tip": "Defiende la gestión pública de los recursos estratégicos.",
+  "source": {
+   "doc": "upc",
+   "page": 14,
+   "section": "10. Sostenibilidad territorial, límites al crecimiento turístico y soberanía energética"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-medioambiente-007",
+  "doc": "upc",
+  "topic": "medioambiente",
+  "type": "which_party",
+  "question": "¿Qué partido propone establecer protección general para tiburones y rayas en aguas canarias?",
+  "options": [
+   "pp",
+   "psoe",
+   "cc",
+   "upc",
+   "drago"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "Lo plantea junto a la Ley de Biodiversidad y Recursos Biológicos de Canarias.",
+  "tip": "Es una medida de protección marina muy específica.",
+  "source": {
+   "doc": "upc",
+   "page": 15,
+   "section": "8. Nuevo Pacto Económico para Canarias (Biodiversidad y espacios naturales de Canarias)"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-sanidad-006",
+  "doc": "upc",
+  "topic": "sanidad",
+  "type": "which_party",
+  "question": "¿Qué partido propone aprobar una Ley para la Diabetes e incorporar profesionales de nutrición a la atención primaria?",
+  "options": [
+   "psoe",
+   "upc",
+   "pp",
+   "vox",
+   "cc"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "UPC la incluye en su apuesta por una sanidad pública preventiva y basada en la evidencia.",
+  "tip": "Se centra en una enfermedad crónica concreta.",
+  "source": {
+   "doc": "upc",
+   "page": 6,
+   "section": "2. Servicios públicos y pensiones"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-instituciones-006",
+  "doc": "upc",
+  "topic": "instituciones",
+  "type": "which_party",
+  "question": "¿Qué partido considera el transfuguismo un acto de corrupción política y propone combatir todas sus formas?",
+  "options": [
+   "pp",
+   "psoe",
+   "vox",
+   "upc",
+   "cc"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "El transfuguismo es el cambio de grupo de cargos electos. UPC propone prevenirlo y castigarlo.",
+  "tip": "Su nombre ya incluye una referencia al pueblo.",
+  "source": {
+   "doc": "upc",
+   "page": 18,
+   "section": "15. Democracia participativa, transparencia pública y lucha contra el transfuguismo político"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-instituciones-007",
+  "doc": "upc",
+  "topic": "instituciones",
+  "type": "which_party",
+  "question": "¿Qué partido propone crear un observatorio de vigilancia de las fake news, los monopolios y los lobbies de comunicación?",
+  "options": [
+   "upc",
+   "pp",
+   "psoe",
+   "vox",
+   "cc"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Lo incluye en las medidas para una democracia más participativa y transparente.",
+  "tip": "Se centra en la información y los medios.",
+  "source": {
+   "doc": "upc",
+   "page": 18,
+   "section": "15. Democracia participativa, transparencia pública y lucha contra el transfuguismo político"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-instituciones-008",
+  "doc": "upc",
+  "topic": "instituciones",
+  "type": "which_party",
+  "question": "¿Qué partido propone la revocación de cargos públicos y las asambleas ciudadanas vinculantes?",
+  "options": [
+   "pp",
+   "psoe",
+   "cc",
+   "upc",
+   "drago"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "Forma parte de los mecanismos de participación directa y rendición de cuentas.",
+  "tip": "Son instrumentos de participación directa.",
+  "source": {
+   "doc": "upc",
+   "page": 18,
+   "section": "15. Democracia participativa, transparencia pública y lucha contra el transfuguismo político"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "upc-territorio-006",
+  "doc": "upc",
+  "topic": "territorio",
+  "type": "which_party",
+  "question": "¿Qué partido exige la cogestión canaria de los aeropuertos y rechaza la privatización de sus torres de control?",
+  "options": [
+   "pp",
+   "upc",
+   "vox",
+   "psoe",
+   "pnv"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Compara con los puertos, ya cogestionados desde hace décadas.",
+  "tip": "Defiende competencias del Estatuto de Autonomía.",
+  "source": {
+   "doc": "upc",
+   "page": 15,
+   "section": "11. Autogobierno, soberanía popular y derecho a decidir"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-instituciones-009",
+  "doc": "upc",
+  "topic": "instituciones",
+  "type": "which_party",
+  "question": "¿Qué partido propone el voto a los 16 años junto a un Pacto de Estado para la emancipación de la juventud?",
+  "options": [
+   "pp",
+   "vox",
+   "cc",
+   "upc",
+   "pnv"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "Lo plantea junto a la justicia intergeneracional en las políticas públicas.",
+  "tip": "La medida afecta a quienes aún no pueden votar.",
+  "source": {
+   "doc": "upc",
+   "page": 8,
+   "section": "4. Juventud, emancipación y justicia intergeneracional"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-vivienda-012",
+  "doc": "upc",
+  "topic": "vivienda",
+  "type": "which_party",
+  "question": "¿Qué partido propone acabar con las SOCIMI y recuperar las viviendas de la Sareb para uso social?",
+  "options": [
+   "pp",
+   "vox",
+   "cc",
+   "upc",
+   "pnv"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "Las SOCIMI son sociedades inmobiliarias con ventajas fiscales. UPC las considera mecanismos de elusión fiscal y especulación.",
+  "tip": "Quiere intervenir en el mercado inmobiliario.",
+  "source": {
+   "doc": "upc",
+   "page": 4,
+   "section": "1. La vivienda es un derecho y no un negocio"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-vivienda-013",
+  "doc": "upc",
+  "topic": "vivienda",
+  "type": "which_not",
+  "question": "¿Cuál de estas propuestas NO está en el manifiesto de UPC?",
+  "options": [
+   "Expropiar viviendas a los fondos buitre",
+   "Control de precios de venta y alquiler",
+   "Acabar con las SOCIMI",
+   "Construir un millón de viviendas con suelo liberalizado"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "UPC propone intervenir el mercado y ampliar el parque público, no liberalizar suelo para construir un millón de viviendas.",
+  "tip": "Una de las opciones va en la línea de liberalizar el mercado.",
+  "source": {
+   "doc": "upc",
+   "page": 3,
+   "section": "1. La vivienda es un derecho y no un negocio"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "upc-pensiones-005",
+  "doc": "upc",
+  "topic": "pensiones",
+  "type": "which_not",
+  "question": "¿Cuál de estas medidas NO propone UPC?",
+  "options": [
+   "Actualizar las pensiones al IPC por ley",
+   "Fomentar los planes privados de pensiones con deducciones fiscales",
+   "Derogar el factor de sostenibilidad",
+   "Jubilación anticipada sin penalización en oficios duros"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "UPC defiende pensiones públicas y critica los intentos privatizadores.",
+  "tip": "Una opción refuerza el sistema privado.",
+  "source": {
+   "doc": "upc",
+   "page": 6,
+   "section": "2. Servicios públicos y pensiones"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-economia-020",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "which_not",
+  "question": "¿Cuál de estas medidas NO está en el manifiesto de UPC?",
+  "options": [
+   "Mantener un impuesto a las grandes fortunas",
+   "Mantener los impuestos extraordinarios sobre la banca",
+   "Eliminar el impuesto sobre el patrimonio",
+   "Deflactar la tarifa del IRPF hasta 65.000 euros"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "UPC critica a las comunidades que han eliminado el impuesto de patrimonio y pide un impuesto permanente a las grandes fortunas.",
+  "tip": "Una opción va en dirección contraria a la política fiscal general.",
+  "source": {
+   "doc": "upc",
+   "page": 12,
+   "section": "9. Propuestas de reforma fiscal a nivel estatal"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-medioambiente-008",
+  "doc": "upc",
+  "topic": "medioambiente",
+  "type": "which_not",
+  "question": "¿Cuál de estas propuestas NO está en el programa de UPC?",
+  "options": [
+   "Eliminar el calendario de cierre de las centrales nucleares",
+   "Una Empresa pública de Energía",
+   "Un plan de techumbres fotovoltaicas",
+   "Refugios climáticos"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "UPC apuesta por renovables y generación distribuida y no propone mantener o reabrir la energía nuclear.",
+  "tip": "Una opción encaja mal con una transición hacia renovables.",
+  "source": {
+   "doc": "upc",
+   "page": 14,
+   "section": "10. Sostenibilidad territorial, límites al crecimiento turístico y soberanía energética"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-inmigracion-006",
+  "doc": "upc",
+  "topic": "inmigracion",
+  "type": "which_not",
+  "question": "¿Cuál de estas propuestas NO figura en el manifiesto de UPC?",
+  "options": [
+   "Protección específica de la infancia migrante no acompañada",
+   "Devolución inmediata de las personas migrantes irregulares",
+   "Rechazo a la externalización de fronteras",
+   "Vías legales y seguras"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "UPC defiende una política migratoria basada en los derechos humanos, no en las devoluciones inmediatas.",
+  "tip": "Una opción es incompatible con la acogida digna.",
+  "source": {
+   "doc": "upc",
+   "page": 16,
+   "section": "13. Canarias, frontera Sur"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-economia-021",
+  "doc": "upc",
+  "topic": "economia",
+  "type": "which_not",
+  "question": "¿Cuál de estas propuestas turísticas NO es de UPC?",
+  "options": [
+   "Liberalizar sin límite la vivienda vacacional",
+   "Moratoria de nuevas camas e instalaciones",
+   "Tasa turística para no residentes",
+   "Revisión del principio de unidad de explotación turística"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "UPC quiere regular y ordenar la vivienda vacacional en zonas residenciales, no liberalizarla.",
+  "tip": "Una opción elimina límites.",
+  "source": {
+   "doc": "upc",
+   "page": 14,
+   "section": "10. Sostenibilidad territorial, límites al crecimiento turístico y soberanía energética"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-exterior-004",
+  "doc": "upc",
+  "topic": "exterior",
+  "type": "which_not",
+  "question": "¿Cuál de estas posiciones NO aparece en el manifiesto de UPC?",
+  "options": [
+   "Destinar como mínimo el 0,7 % de los PGE a cooperación",
+   "Solidaridad con el pueblo palestino",
+   "Solidaridad con el pueblo saharaui",
+   "Aumentar el gasto en defensa hasta el 2 % del PIB"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "UPC se define por la paz y la solidaridad entre pueblos y no menciona subir el gasto militar.",
+  "tip": "Una opción va en sentido contrario al lema de paz.",
+  "source": {
+   "doc": "upc",
+   "page": 19,
+   "section": "16. Solidaridad internacional, cooperación entre pueblos y búsqueda de la paz"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-educacion-004",
+  "doc": "upc",
+  "topic": "educacion",
+  "type": "which_not",
+  "question": "¿Cuál de estas medidas educativas NO propone UPC?",
+  "options": [
+   "Educación pública y gratuita de 0 a 3 años",
+   "Reducir las ratios en colegios e institutos",
+   "Implantar un cheque escolar",
+   "Controlar la proliferación de universidades privadas"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "UPC defiende una educación pública y no propone un cheque escolar.",
+  "tip": "Una opción favorece la elección de centro privado con dinero público.",
+  "source": {
+   "doc": "upc",
+   "page": 5,
+   "section": "2. Servicios públicos y pensiones"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-instituciones-010",
+  "doc": "upc",
+  "topic": "instituciones",
+  "type": "which_not",
+  "question": "¿Cuál de estas medidas NO está en el manifiesto de UPC?",
+  "options": [
+   "Voto a los 16 años",
+   "Suprimir el Senado",
+   "Observatorio de fake news, monopolios y lobbies",
+   "Referéndums y presupuestos participativos"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "UPC propone ampliar la participación y combatir el transfuguismo, pero no menciona suprimir el Senado.",
+  "tip": "Una opción reforma la estructura de las Cortes.",
+  "source": {
+   "doc": "upc",
+   "page": 18,
+   "section": "15. Democracia participativa, transparencia pública y lucha contra el transfuguismo político"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "upc-empleo-007",
+  "doc": "upc",
+  "topic": "empleo",
+  "type": "which_not",
+  "question": "¿Cuál de estas propuestas NO es de UPC?",
+  "options": [
+   "SMI de 1.800 euros en doce mensualidades",
+   "Regular la jornada de 37,5 horas",
+   "Implantar un contrato único con despido más barato",
+   "Reforzar el registro de jornada y la Inspección de Trabajo"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "UPC defiende reforzar los derechos laborales y combatir la temporalidad abusiva, no abaratar el despido.",
+  "tip": "Una opción reduce derechos.",
+  "source": {
+   "doc": "upc",
+   "page": 7,
+   "section": "3. Aumento del salario mínimo y avances en la legislación laboral a favor de los derechos de los trabajadores"
+  },
+  "difficulty": 2
+ }
+]

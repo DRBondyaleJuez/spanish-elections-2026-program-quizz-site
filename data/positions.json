@@ -38,6 +38,16 @@
     "v": 1,
     "page": 19,
     "note": "Propone limitar los alquileres en zonas tensionadas, pero de forma temporal y excepcional, con garantías para el propietario."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 5,
+    "note": "Tope del 2% a la actualización anual del alquiler y regulación de precios con índices de referencia."
+   },
+   "upc": {
+    "v": 2,
+    "page": 3,
+    "note": "Propone control de precios del alquiler para impedir subidas abusivas."
    }
   }
  },
@@ -65,6 +75,11 @@
     "v": -1,
     "page": 13,
     "note": "Toma la Ley de Vivienda como base y propone ampliarla, no derogarla."
+   },
+   "ehbildu": {
+    "v": 1,
+    "page": 5,
+    "note": "No plantea derogarla, sino cambios para reforzar la regulación: prórroga automática, tope de renta y prohibición de desahucios."
    }
   }
  },
@@ -122,6 +137,16 @@
     "v": 0,
     "page": 22,
     "note": "Plan Nacional de Barrios con suelo público y fondo público soberano, pero construcción y gestión con colaboración público-privada."
+   },
+   "drago": {
+    "v": 1,
+    "page": 8,
+    "note": "Pide duplicar la aportación estatal y pasar pisos de la Sareb al alquiler público, aunque no habla de un parque gestionado por el Estado."
+   },
+   "upc": {
+    "v": 2,
+    "page": 3,
+    "note": "Crear un gran parque de alquiler público con cesión obligatoria de viviendas vacías de grandes tenedores."
    }
   }
  },
@@ -169,6 +194,16 @@
     "v": 2,
     "page": 19,
     "note": "Mediación en 30 días, juzgados de arrendamientos en 60 y delito de estafa para la inquiokupación y el impago premeditado."
+   },
+   "ehbildu": {
+    "v": -1,
+    "page": 5,
+    "note": "Propone prohibir de forma permanente los desahucios de familias vulnerables sin alternativa habitacional."
+   },
+   "upc": {
+    "v": -1,
+    "page": 3,
+    "note": "Prohíbe la desokupación extrajudicial y exige realojo antes de desahuciar a familias vulnerables."
    }
   }
  },
@@ -226,6 +261,21 @@
     "v": 2,
     "page": 21,
     "note": "Recargo mínimo del 10% a la compra de vivienda no habitual por inversores extracomunitarios."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 5,
+    "note": "Prohíbe la compra especulativa por fondos y grandes tenedores y condiciona la compra a extranjeros multipropietarios."
+   },
+   "drago": {
+    "v": 2,
+    "page": 7,
+    "note": "Propone limitar la compra de vivienda por no residentes y controlar las compras desde fuera de la UE."
+   },
+   "upc": {
+    "v": 2,
+    "page": 4,
+    "note": "Expropiar a fondos buitre, acabar con las SOCIMI y limitar la compra por extranjeros no residentes."
    }
   }
  },
@@ -278,6 +328,11 @@
     "v": 2,
     "page": 20,
     "note": "Cero IVA, ITP y AJD para menores de 35 años y ITP único del 2%, AJD 0% e IVA 4% para el resto."
+   },
+   "upc": {
+    "v": 1,
+    "page": 4,
+    "note": "Ayudas a la compra de primera vivienda, incluida hipoteca al 0% hasta 100.000 euros."
    }
   }
  },
@@ -335,6 +390,21 @@
     "v": 1,
     "page": 21,
     "note": "Aplica el IVA general del 10% a los alquileres turísticos de corta estancia para igualarlos a la actividad hotelera."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 5,
+    "note": "Prohibir publicidad de pisos turísticos ilegales, IVA del 21% a alojamientos de corta duración y condicionar compra de edificios."
+   },
+   "drago": {
+    "v": 1,
+    "page": 8,
+    "note": "Propone un recargo del IBI a viviendas turísticas por ordenanza municipal y un convenio de decrecimiento turístico."
+   },
+   "upc": {
+    "v": 1,
+    "page": 4,
+    "note": "Regular y ordenar la vivienda vacacional en zonas residenciales; además moratoria de camas turísticas."
    }
   }
  },
@@ -372,6 +442,16 @@
     "v": 1,
     "page": 49,
     "note": "SMI fijado por un órgano técnico con una senda para que no baje de dos tercios de la mediana salarial."
+   },
+   "ehbildu": {
+    "v": 1,
+    "page": 6,
+    "note": "Propone un SMI de suficiencia con referencia a la Carta Social Europea, sin fijar el 60% explícitamente."
+   },
+   "upc": {
+    "v": 2,
+    "page": 7,
+    "note": "Subir el SMI progresivamente hasta 1.800 euros en doce pagas."
    }
   }
  },
@@ -404,6 +484,21 @@
     "v": 2,
     "page": 7,
     "note": "Propone reducir la jornada a cuatro días (32 horas semanales) sin bajar el sueldo."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 6,
+    "note": "Jornada de 32 horas o 4 días sin reducción salarial, con transición para las pymes."
+   },
+   "drago": {
+    "v": 1,
+    "page": 10,
+    "note": "Solo para las camareras de piso: reducción progresiva de la jornada hasta 35 horas semanales."
+   },
+   "upc": {
+    "v": 2,
+    "page": 7,
+    "note": "Regular la jornada de 37,5 horas y avanzar hacia las 34 horas semanales."
    }
   }
  },
@@ -441,6 +536,11 @@
     "v": 2,
     "page": 7,
     "note": "Recupera la indemnización de 45 días por año y los salarios de tramitación en el despido improcedente."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 6,
+    "note": "Indemnización por despido improcedente de al menos 45 días y salarios de tramitación."
    }
   }
  },
@@ -493,6 +593,16 @@
     "v": 1,
     "page": 53,
     "note": "Cuota de autónomos opcional según ingresos reales del mes anterior y bono fiscal para compensar cotizaciones los tres primeros años."
+   },
+   "drago": {
+    "v": 2,
+    "page": 9,
+    "note": "Cuota cero para autónomos bajo el salario mínimo y 50 euros al mes hasta dos veces el mínimo, cubierto por el Estado."
+   },
+   "upc": {
+    "v": 1,
+    "page": 13,
+    "note": "Tarifa plana de 88 euros mensuales para autónomos con menores rendimientos."
    }
   }
  },
@@ -510,6 +620,16 @@
     "v": 2,
     "page": 9,
     "note": "Reclama la competencia plena para fijar un salario mínimo propio en Euskadi, siempre por encima del estatal, y proteger los convenios vascos."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 6,
+    "note": "Que las comunidades autónomas puedan fijar su propio SMI, siendo el estatal el mínimo."
+   },
+   "drago": {
+    "v": 2,
+    "page": 9,
+    "note": "Propone transferir un Marco Canario de Relaciones Laborales con salario mínimo propio."
    }
   }
  },
@@ -557,6 +677,11 @@
     "v": 0,
     "page": 32,
     "note": "Dice que no hace falta subir ni bajar impuestos en general; actualiza el IRPF con el IPC y baja impuestos a la vivienda."
+   },
+   "upc": {
+    "v": 0,
+    "page": 12,
+    "note": "Deflactar el IRPF hasta 65.000 euros y deducciones por inflación, pero más progresividad por arriba."
    }
   }
  },
@@ -594,6 +719,16 @@
     "v": 2,
     "page": 17,
     "note": "Mantiene y amplía el Impuesto a las Grandes Fortunas, acercándolo a la tasa Zucman."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 14,
+    "note": "Aumentar el peso del impuesto a la banca y a las grandes fortunas."
+   },
+   "upc": {
+    "v": 2,
+    "page": 12,
+    "note": "Mantener de forma permanente un impuesto a las grandes fortunas, reforzando su progresividad."
    }
   }
  },
@@ -636,6 +771,21 @@
     "v": 2,
     "page": 17,
     "note": "Crea un impuesto sobre beneficios de empresas oligopolísticas y elimina privilegios fiscales de la aviación."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 14,
+    "note": "Impuesto permanente a energéticas, más impuesto a banca y a grandes distribuidoras alimentarias."
+   },
+   "drago": {
+    "v": 1,
+    "page": 8,
+    "note": "Pide que las SOCIMI tributen como cualquier empresa salvo en alquiler protegido; no habla de bancos ni energéticas."
+   },
+   "upc": {
+    "v": 2,
+    "page": 12,
+    "note": "Mantener impuestos extraordinarios a la banca y reintroducirlo a las energéticas; más aportación de grandes empresas."
    }
   }
  },
@@ -663,6 +813,11 @@
     "v": 1,
     "page": 4,
     "note": "Reduce un 90% los asesores y evalúa los programas de gasto para eliminar los ineficaces, sin plantear un recorte general."
+   },
+   "ehbildu": {
+    "v": -2,
+    "page": 14,
+    "note": "Rechaza volver a la austeridad, privatizaciones y recortes en servicios públicos."
    }
   }
  },
@@ -690,6 +845,16 @@
     "v": 2,
     "page": 19,
     "note": "Crea una banca pública de inversión y aumenta la presencia estatal en sectores estratégicos con participaciones o empresas públicas."
+   },
+   "ehbildu": {
+    "v": 1,
+    "page": 16,
+    "note": "Propone reforzar la participación pública en sectores estratégicos, sin mencionar banca pública."
+   },
+   "upc": {
+    "v": 2,
+    "page": 14,
+    "note": "Crear una Empresa pública de Energía y apostar por la gestión pública de recursos estratégicos."
    }
   }
  },
@@ -707,6 +872,11 @@
     "v": 2,
     "page": 13,
     "note": "Suprime los impuestos de Sucesiones y Donaciones."
+   },
+   "upc": {
+    "v": -1,
+    "page": 12,
+    "note": "Critica que comunidades hayan eliminado Sucesiones y Donaciones y el impuesto de patrimonio."
    }
   }
  },
@@ -749,6 +919,21 @@
     "v": 2,
     "page": 31,
     "note": "Propone revalorizar las pensiones cada año conforme al IPC."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 7,
+    "note": "Mantener y blindar la revalorización anual de las pensiones con el IPC."
+   },
+   "drago": {
+    "v": 2,
+    "page": 12,
+    "note": "Propone blindar en la Constitución la revalorización anual de todas las pensiones conforme al IPC real."
+   },
+   "upc": {
+    "v": 2,
+    "page": 6,
+    "note": "Actualización por ley de las pensiones al IPC de forma inmediata."
    }
   }
  },
@@ -781,6 +966,21 @@
     "v": 1,
     "page": 31,
     "note": "Propone mejorar progresivamente las pensiones mínimas y no contributivas, sin fijar cuantías."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 8,
+    "note": "Mínimas al menos a 1.220 euros y subida del 15% a viudedad y no contributivas."
+   },
+   "drago": {
+    "v": 2,
+    "page": 12,
+    "note": "Propone elevar las pensiones mínimas y no contributivas por encima del umbral de la pobreza."
+   },
+   "upc": {
+    "v": 2,
+    "page": 6,
+    "note": "Incrementar las pensiones mínimas y las no contributivas."
    }
   }
  },
@@ -828,6 +1028,21 @@
     "v": 1,
     "page": 84,
     "note": "Jubilación anticipada sin recorte para policías, guardias civiles, vigilancia aduanera y militares por ser profesiones de riesgo."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 8,
+    "note": "Culminar la ley de pensión sin penalización con al menos 40 años de cotización."
+   },
+   "drago": {
+    "v": 1,
+    "page": 10,
+    "note": "Propone coeficientes reductores para adelantar la jubilación, solo de las camareras de piso."
+   },
+   "upc": {
+    "v": 2,
+    "page": 6,
+    "note": "Jubilación antes de los 65 sin penalización en sectores duros y precarios."
    }
   }
  },
@@ -875,6 +1090,11 @@
     "v": 1,
     "page": 73,
     "note": "Bono Crianza mensual por hijo, mayor a menores rentas, e IMV tramitado de oficio; no es universal."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 13,
+    "note": "Ampliar y simplificar el IMV, transferirlo y hacer la ayuda a la crianza compatible con él."
    }
   }
  },
@@ -954,6 +1174,21 @@
     "v": 2,
     "page": 9,
     "note": "Deroga la Ley 15/1997 para impedir la privatización de la gestión sanitaria."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 11,
+    "note": "Derogar la Ley 15/1997 que permite externalizar y privatizar servicios sanitarios."
+   },
+   "drago": {
+    "v": 2,
+    "page": 11,
+    "note": "Propone sustituir la Ley 15/1997 para que la gestión pública directa sea la regla y la privada, excepción justificada."
+   },
+   "upc": {
+    "v": 2,
+    "page": 5,
+    "note": "Revertir privatizaciones y externalizaciones y derogar la Ley 15/1997."
    }
   }
  },
@@ -986,6 +1221,16 @@
     "v": 2,
     "page": 9,
     "note": "Incluye odontología, oftalmología, podología y nutrición en la cartera pública."
+   },
+   "ehbildu": {
+    "v": 1,
+    "page": 10,
+    "note": "Ampliar la cartera común con salud bucodental para los colectivos más vulnerables."
+   },
+   "upc": {
+    "v": 2,
+    "page": 6,
+    "note": "La sanidad pública cubrirá salud dental, visual y auditiva."
    }
   }
  },
@@ -1013,6 +1258,11 @@
     "v": 2,
     "page": 22,
     "note": "Superados los plazos (60 días cirugía, 30 especialista), el paciente elige centro público o privado, pagado por el sistema."
+   },
+   "upc": {
+    "v": -1,
+    "page": 6,
+    "note": "Propone reducir listas de espera con más dinero para atención primaria y evitar la privatización."
    }
   }
  },
@@ -1040,6 +1290,11 @@
     "v": -2,
     "page": 9,
     "note": "Garantiza el acceso universal a la sanidad sin discriminar por situación administrativa."
+   },
+   "ehbildu": {
+    "v": -2,
+    "page": 20,
+    "note": "Garantizar sanidad pública sin importar la situación administrativa."
    }
   }
  },
@@ -1097,6 +1352,16 @@
     "v": 1,
     "page": 77,
     "note": "Cribado de salud mental perinatal, Unidades de Enlace en colegios y seguimiento tras intentos de suicidio."
+   },
+   "ehbildu": {
+    "v": 1,
+    "page": 11,
+    "note": "Nuevo modelo de salud mental centrado en determinantes sociales; reconoce la psicología como profesión sanitaria."
+   },
+   "upc": {
+    "v": 1,
+    "page": 7,
+    "note": "Menciona el acceso a la salud mental para la juventud, sin plan detallado."
    }
   }
  },
@@ -1146,6 +1411,11 @@
     "v": 2,
     "page": 83,
     "note": "Suprimir la enseñanza de cualquier religión en los colegios."
+   },
+   "ehbildu": {
+    "v": 1,
+    "page": 11,
+    "note": "Defiende un sistema educativo laico, sin mencionar expresamente la asignatura de religión."
    }
   }
  },
@@ -1198,6 +1468,11 @@
     "v": 1,
     "page": 75,
     "note": "Construir una red pública y universal de 0 a 3 años; mientras tanto, cheque guardería para que ninguna familia pague más del 50%."
+   },
+   "upc": {
+    "v": 2,
+    "page": 5,
+    "note": "Educación pública, universal y gratuita de 0 a 3 años."
    }
   }
  },
@@ -1341,6 +1616,21 @@
     "v": 2,
     "page": 99,
     "note": "Bloquear cualquier intento de desmantelar la red pública de protección a víctimas de violencia machista."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 19,
+    "note": "Medidas contra violencia machista, vicaria y digital, y revisión de recursos de protección."
+   },
+   "drago": {
+    "v": 2,
+    "page": 23,
+    "note": "Propone actualizar cada año los fondos del Pacto de Estado contra la Violencia de Género y repartirlos con peso a la insularidad."
+   },
+   "upc": {
+    "v": 2,
+    "page": 17,
+    "note": "Reforzar prevención, protección y atención integral frente a las violencias machistas."
    }
   }
  },
@@ -1383,6 +1673,16 @@
     "v": 2,
     "page": 99,
     "note": "Garantizar la interrupción voluntaria del embarazo en la sanidad pública de todas las comunidades y defender la ley de plazos."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 19,
+    "note": "Blindar el aborto con acceso libre, seguro, confidencial y digno."
+   },
+   "upc": {
+    "v": 1,
+    "page": 18,
+    "note": "Garantiza derechos reproductivos y estudia blindar el aborto en la Constitución."
    }
   }
  },
@@ -1435,6 +1735,16 @@
     "v": 1,
     "page": 100,
     "note": "Se opone a recortar derechos LGTBIQ+ y a derogar normas de no discriminación trans; no cita la libre determinación de género."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 19,
+    "note": "No aceptar retrocesos en derechos trans y desarrollar la Ley 4/2023."
+   },
+   "upc": {
+    "v": 1,
+    "page": 18,
+    "note": "Garantizar igualdad de derechos LGTBIQA+ con especial atención a personas trans."
    }
   }
  },
@@ -1477,6 +1787,16 @@
     "v": 2,
     "page": 74,
     "note": "Baja posparto específica, permiso parental retribuido al 50% y ampliación de reducciones de jornada hasta los 16 años."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 14,
+    "note": "Equiparar permisos para familias monoparentales y crear permisos preparto y puerperal."
+   },
+   "drago": {
+    "v": 1,
+    "page": 23,
+    "note": "Propone ampliar a 24 semanas los permisos retribuidos de conciliación; no detalla los permisos por nacimiento."
    }
   }
  },
@@ -1551,6 +1871,11 @@
     "v": -1,
     "page": 57,
     "note": "Quiere una vía ordinaria que funcione para que no hagan falta regularizaciones extraordinarias."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 20,
+    "note": "Garantizar una regularización efectiva, accesible y estable."
    }
   }
  },
@@ -1603,6 +1928,21 @@
     "v": 1,
     "page": 57,
     "note": "Registro de órdenes de expulsión con prioridad para quienes delinquen y control de fronteras según el Pacto Europeo de Migración."
+   },
+   "ehbildu": {
+    "v": -2,
+    "page": 20,
+    "note": "Rechaza devoluciones sumarias, externalización de fronteras y políticas restrictivas."
+   },
+   "drago": {
+    "v": -2,
+    "page": 24,
+    "note": "Rechaza la externalización y militarización de las fronteras, Frontex y el Pacto de Migración; no habla de expulsiones."
+   },
+   "upc": {
+    "v": -1,
+    "page": 16,
+    "note": "Rechaza la externalización de fronteras, aunque propone reforzar medios en el archipiélago."
    }
   }
  },
@@ -1640,6 +1980,16 @@
     "v": 1,
     "page": 28,
     "note": "Propone promover alternativas a la privación de libertad en los CIE, sin pedir expresamente su cierre."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 20,
+    "note": "Rechaza expresamente los CIE."
+   },
+   "drago": {
+    "v": 2,
+    "page": 21,
+    "note": "Pide el cierre inmediato de los CIE de Barranco Seco y Hoya Fría."
    }
   }
  },
@@ -1667,6 +2017,16 @@
     "v": 2,
     "page": 19,
     "note": "Propone solidaridad obligatoria y automática: traslados a otras comunidades cuando se superen umbrales, con los cambios legales necesarios."
+   },
+   "drago": {
+    "v": 2,
+    "page": 21,
+    "note": "Exige cumplir el reparto obligatorio de menores migrantes entre comunidades y que no tenga fecha de caducidad."
+   },
+   "upc": {
+    "v": 1,
+    "page": 16,
+    "note": "Pide distribución solidaria de la acogida de menores no acompañados entre territorios."
    }
   }
  },
@@ -1699,6 +2059,16 @@
     "v": -1,
     "page": 56,
     "note": "Propone derechos y empadronamiento para todas las personas sea cual sea su situación administrativa."
+   },
+   "ehbildu": {
+    "v": -2,
+    "page": 20,
+    "note": "Acceso a servicios públicos independientemente de la situación administrativa."
+   },
+   "upc": {
+    "v": -1,
+    "page": 16,
+    "note": "Rechaza el racismo y la xenofobia y defiende la dignidad y derechos de todas las personas."
    }
   }
  },
@@ -1726,6 +2096,11 @@
     "v": 1,
     "page": 18,
     "note": "Diez años de residencia legal con examen, sin antecedentes ni depender de ayudas; revisa las obtenidas con fraude."
+   },
+   "ehbildu": {
+    "v": -1,
+    "page": 20,
+    "note": "Propone ciudadanía basada en la residencia efectiva y ampliar derechos políticos de residentes extranjeros."
    }
   }
  },
@@ -1763,6 +2138,11 @@
     "v": -2,
     "page": 27,
     "note": "Mantiene el calendario de cierre de las nucleares sin nuevas prórrogas."
+   },
+   "ehbildu": {
+    "v": -2,
+    "page": 15,
+    "note": "Mantener el calendario de cierre nuclear del PNIEC."
    }
   }
  },
@@ -1820,6 +2200,21 @@
     "v": 1,
     "page": 93,
     "note": "Regulación exigente con la descarbonización, pero neutral entre tecnologías y atenta al mercado."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 15,
+    "note": "Revisar al alza el PNIEC, descarbonizar a 2045 y desplegar renovables rápido."
+   },
+   "drago": {
+    "v": 1,
+    "page": 17,
+    "note": "Propone comunidades energéticas, prioridad a los tejados y reinvertir en renovables el ahorro de electricidad fósil."
+   },
+   "upc": {
+    "v": 2,
+    "page": 14,
+    "note": "Acelerar la transición energética con plan fotovoltaico y plan estratégico de renovables."
    }
   }
  },
@@ -1847,6 +2242,11 @@
     "v": -2,
     "page": 56,
     "note": "Pide planificación coherente con la Agenda 2030 y cumplimiento del Pacto Verde."
+   },
+   "ehbildu": {
+    "v": -2,
+    "page": 21,
+    "note": "Se apoya en el Tratado Verde Europeo y propone ambición climática mayor."
    }
   }
  },
@@ -1891,6 +2291,11 @@
     "v": 2,
     "page": 26,
     "note": "Crea una empresa pública de energía y recupera la titularidad pública de grandes eléctricas."
+   },
+   "upc": {
+    "v": 2,
+    "page": 14,
+    "note": "Se creará una Empresa pública de Energía."
    }
   }
  },
@@ -2108,6 +2513,16 @@
     "v": 0,
     "page": 39,
     "note": "Defiende el respeto a la voluntad democrática de la sociedad vasca y la capacidad de decisión, sin mencionar referéndum de independencia."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 24,
+    "note": "Reconoce el derecho a decidir del pueblo vasco como mecanismo democrático."
+   },
+   "upc": {
+    "v": 1,
+    "page": 16,
+    "note": "La coalición comparte el derecho a decidir y la autodeterminación de los pueblos."
    }
   }
  },
@@ -2155,6 +2570,16 @@
     "v": 0,
     "page": 36,
     "note": "Armoniza normas y exige reconocimiento mutuo entre comunidades, sin proponer devolver competencias al Estado."
+   },
+   "ehbildu": {
+    "v": -2,
+    "page": 24,
+    "note": "Defiende el autogobierno frente a cualquier intento de recentralización."
+   },
+   "upc": {
+    "v": -2,
+    "page": 15,
+    "note": "Pide desarrollar al máximo las competencias del Estatuto y más cogestión."
    }
   }
  },
@@ -2187,6 +2612,21 @@
     "v": 1,
     "page": 39,
     "note": "Propone un Concierto Político basado en el reconocimiento nacional vasco, el pacto y la bilateralidad, sin hablar de Estado federal."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 23,
+    "note": "Pide reconocer la plurinacionalidad del Estado y Euskal Herria como nación."
+   },
+   "drago": {
+    "v": 1,
+    "page": 29,
+    "note": "Propone que la Constitución reconozca la realidad nacional canaria; no habla de un Estado federal."
+   },
+   "upc": {
+    "v": 1,
+    "page": 2,
+    "note": "Reúne a formaciones federales y confederales y defiende reconocer a Canarias como sujeto político."
    }
   }
  },
@@ -2234,6 +2674,21 @@
     "v": 1,
     "page": 8,
     "note": "Pide financiación autonómica suficiente que reconozca el coste de la insularidad y que el REF no cuente como financiación ordinaria."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 24,
+    "note": "Defender y ampliar el Concierto Económico y el Convenio Económico Navarro."
+   },
+   "drago": {
+    "v": 1,
+    "page": 28,
+    "note": "Pide una financiación que cuente a toda la población usuaria y el coste de la insularidad, sin hablar de concierto."
+   },
+   "upc": {
+    "v": 2,
+    "page": 8,
+    "note": "Defiende financiación autonómica que respete el REF y compense la insularidad."
    }
   }
  },
@@ -2303,6 +2758,21 @@
     "v": 2,
     "page": 8,
     "note": "Exige un calendario verificable para completar los traspasos pendientes del Estatuto de Autonomía, con medios suficientes."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 24,
+    "note": "Exige competencias pendientes del Estatuto y nuevas como migración, Seguridad Social y energía."
+   },
+   "drago": {
+    "v": 2,
+    "page": 29,
+    "note": "Propone un calendario público para completar los traspasos pendientes del Estatuto de 2018."
+   },
+   "upc": {
+    "v": 2,
+    "page": 15,
+    "note": "Desarrollar al máximo las competencias del Estatuto, financiadas por el Estado."
    }
   }
  },
@@ -2404,6 +2874,11 @@
     "v": 2,
     "page": 27,
     "note": "Propone reformar la «ley mordaza» eliminando restricciones desproporcionadas a derechos y libertades."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 22,
+    "note": "Acabar con la Ley Mordaza con una nueva Proposición de Ley."
    }
   }
  },
@@ -2488,6 +2963,16 @@
     "v": 2,
     "page": 40,
     "note": "Propone la aplicación íntegra de la legislación de Memoria Histórica y Democrática."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 27,
+    "note": "Ampliar la Ley de Memoria Democrática a más colectivos de víctimas."
+   },
+   "drago": {
+    "v": 2,
+    "page": 25,
+    "note": "Propone reformar la Ley de Memoria Democrática para que el Estado retire los símbolos franquistas catalogados."
    }
   }
  },
@@ -2599,6 +3084,11 @@
     "v": 1,
     "page": 85,
     "note": "Dice que, si España invierte más en defensa, la primera inversión serán sus profesionales; no fija un objetivo de gasto."
+   },
+   "ehbildu": {
+    "v": -2,
+    "page": 28,
+    "note": "Rechaza el aumento del gasto en defensa que exige la OTAN."
    }
   }
  },
@@ -2631,6 +3121,11 @@
     "v": -1,
     "page": 97,
     "note": "Propone reforzar el pilar europeo dentro de la OTAN."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 28,
+    "note": "Rechaza la OTAN y la pertenencia de Euskal Herria a ella."
    }
   }
  },
@@ -2663,6 +3158,16 @@
     "v": 2,
     "page": 55,
     "note": "Rompe relaciones diplomáticas y comerciales con Israel y prohíbe vender armas a países que vulneran derechos humanos."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 29,
+    "note": "Aislar a Israel y bloquear por completo la venta de armas."
+   },
+   "upc": {
+    "v": 1,
+    "page": 19,
+    "note": "Denuncia el genocidio israelí y la complicidad internacional; no menciona romper relaciones ni armas."
    }
   }
  },
@@ -2747,6 +3252,21 @@
     "v": 1,
     "page": 20,
     "note": "Apoya una solución para el Sáhara Occidental conforme a las resoluciones de la ONU, sin mencionar la autodeterminación."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 29,
+    "note": "Recuperar el apoyo a la autodeterminación del pueblo saharaui."
+   },
+   "drago": {
+    "v": 2,
+    "page": 22,
+    "note": "Defiende un referéndum de autodeterminación en el Sáhara Occidental, apoyando las resoluciones de la ONU."
+   },
+   "upc": {
+    "v": 2,
+    "page": 19,
+    "note": "Solidaridad con el pueblo saharaui en su lucha por la autodeterminación e independencia."
    }
   }
  },
@@ -2863,6 +3383,16 @@
     "v": 1,
     "page": 103,
     "note": "Exige transparencia, licencias y etiquetado de contenidos de IA y registro público de algoritmos de la Administración."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 21,
+    "note": "Gobernanza pública de la IA y control de plataformas digitales y algoritmos."
+   },
+   "upc": {
+    "v": 1,
+    "page": 16,
+    "note": "Regular y limitar el impacto de la IA en la producción cultural; observatorio de lobbies de comunicación."
    }
   }
  },
@@ -2890,6 +3420,11 @@
     "v": 0,
     "page": 35,
     "note": "Propone verificación de edad proporcionada en plataformas, sin prohibir las redes sociales a menores."
+   },
+   "ehbildu": {
+    "v": 0,
+    "page": 21,
+    "note": "Propone proteger a menores en entornos digitales con medidas de diseño, sin prohibir las redes."
    }
   }
  },
@@ -2942,6 +3477,11 @@
     "v": 2,
     "page": 60,
     "note": "Ley de Financiación de la Ciencia con inversión total en I+D del 2% en 2027 y del 3% en 2030."
+   },
+   "upc": {
+    "v": 1,
+    "page": 10,
+    "note": "Impulsar la investigación y la tecnología como parte de la diversificación económica."
    }
   }
  },
@@ -3011,6 +3551,11 @@
     "v": 2,
     "page": 41,
     "note": "Propone la oficialidad del euskera, el catalán y el gallego en la Unión Europea."
+   },
+   "ehbildu": {
+    "v": 2,
+    "page": 25,
+    "note": "Oficialidad de euskera, catalán y gallego en la UE y atención en euskera en la administración estatal."
    }
   }
  }

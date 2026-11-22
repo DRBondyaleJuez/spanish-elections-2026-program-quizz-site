@@ -1,0 +1,402 @@
+{
+ "viv-1": {
+  "v": 2,
+  "page": 3,
+  "note": "Propone control de precios del alquiler para impedir subidas abusivas."
+ },
+ "viv-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "viv-3": {
+  "v": 2,
+  "page": 3,
+  "note": "Crear un gran parque de alquiler público con cesión obligatoria de viviendas vacías de grandes tenedores."
+ },
+ "viv-4": {
+  "v": -1,
+  "page": 3,
+  "note": "Prohíbe la desokupación extrajudicial y exige realojo antes de desahuciar a familias vulnerables."
+ },
+ "viv-5": {
+  "v": 2,
+  "page": 4,
+  "note": "Expropiar a fondos buitre, acabar con las SOCIMI y limitar la compra por extranjeros no residentes."
+ },
+ "viv-6": {
+  "v": 1,
+  "page": 4,
+  "note": "Ayudas a la compra de primera vivienda, incluida hipoteca al 0% hasta 100.000 euros."
+ },
+ "viv-7": {
+  "v": 1,
+  "page": 4,
+  "note": "Regular y ordenar la vivienda vacacional en zonas residenciales; además moratoria de camas turísticas."
+ },
+ "emp-1": {
+  "v": 2,
+  "page": 7,
+  "note": "Subir el SMI progresivamente hasta 1.800 euros en doce pagas."
+ },
+ "emp-2": {
+  "v": 2,
+  "page": 7,
+  "note": "Regular la jornada de 37,5 horas y avanzar hacia las 34 horas semanales."
+ },
+ "emp-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "emp-4": {
+  "v": 1,
+  "page": 13,
+  "note": "Tarifa plana de 88 euros mensuales para autónomos con menores rendimientos."
+ },
+ "emp-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "eco-1": {
+  "v": 0,
+  "page": 12,
+  "note": "Deflactar el IRPF hasta 65.000 euros y deducciones por inflación, pero más progresividad por arriba."
+ },
+ "eco-2": {
+  "v": 2,
+  "page": 12,
+  "note": "Mantener de forma permanente un impuesto a las grandes fortunas, reforzando su progresividad."
+ },
+ "eco-3": {
+  "v": 2,
+  "page": 12,
+  "note": "Mantener impuestos extraordinarios a la banca y reintroducirlo a las energéticas; más aportación de grandes empresas."
+ },
+ "eco-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "eco-5": {
+  "v": 2,
+  "page": 14,
+  "note": "Crear una Empresa pública de Energía y apostar por la gestión pública de recursos estratégicos."
+ },
+ "eco-6": {
+  "v": -1,
+  "page": 12,
+  "note": "Critica que comunidades hayan eliminado Sucesiones y Donaciones y el impuesto de patrimonio."
+ },
+ "pen-1": {
+  "v": 2,
+  "page": 6,
+  "note": "Actualización por ley de las pensiones al IPC de forma inmediata."
+ },
+ "pen-2": {
+  "v": 2,
+  "page": 6,
+  "note": "Incrementar las pensiones mínimas y las no contributivas."
+ },
+ "pen-3": {
+  "v": 2,
+  "page": 6,
+  "note": "Jubilación antes de los 65 sin penalización en sectores duros y precarios."
+ },
+ "pen-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "pen-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "san-1": {
+  "v": 2,
+  "page": 5,
+  "note": "Revertir privatizaciones y externalizaciones y derogar la Ley 15/1997."
+ },
+ "san-2": {
+  "v": 2,
+  "page": 6,
+  "note": "La sanidad pública cubrirá salud dental, visual y auditiva."
+ },
+ "san-3": {
+  "v": -1,
+  "page": 6,
+  "note": "Propone reducir listas de espera con más dinero para atención primaria y evitar la privatización."
+ },
+ "san-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "san-5": {
+  "v": 1,
+  "page": 7,
+  "note": "Menciona el acceso a la salud mental para la juventud, sin plan detallado."
+ },
+ "edu-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "edu-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "edu-3": {
+  "v": 2,
+  "page": 5,
+  "note": "Educación pública, universal y gratuita de 0 a 3 años."
+ },
+ "edu-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "edu-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "edu-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "igu-1": {
+  "v": 2,
+  "page": 17,
+  "note": "Reforzar prevención, protección y atención integral frente a las violencias machistas."
+ },
+ "igu-2": {
+  "v": 1,
+  "page": 18,
+  "note": "Garantiza derechos reproductivos y estudia blindar el aborto en la Constitución."
+ },
+ "igu-3": {
+  "v": 1,
+  "page": 18,
+  "note": "Garantizar igualdad de derechos LGTBIQA+ con especial atención a personas trans."
+ },
+ "igu-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "igu-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "inm-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "inm-2": {
+  "v": -1,
+  "page": 16,
+  "note": "Rechaza la externalización de fronteras, aunque propone reforzar medios en el archipiélago."
+ },
+ "inm-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "inm-4": {
+  "v": 1,
+  "page": 16,
+  "note": "Pide distribución solidaria de la acogida de menores no acompañados entre territorios."
+ },
+ "inm-5": {
+  "v": -1,
+  "page": 16,
+  "note": "Rechaza el racismo y la xenofobia y defiende la dignidad y derechos de todas las personas."
+ },
+ "inm-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "med-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "med-2": {
+  "v": 2,
+  "page": 14,
+  "note": "Acelerar la transición energética con plan fotovoltaico y plan estratégico de renovables."
+ },
+ "med-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "med-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "med-5": {
+  "v": 2,
+  "page": 14,
+  "note": "Se creará una Empresa pública de Energía."
+ },
+ "med-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "rur-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "rur-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "rur-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "rur-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "ter-1": {
+  "v": 1,
+  "page": 16,
+  "note": "La coalición comparte el derecho a decidir y la autodeterminación de los pueblos."
+ },
+ "ter-2": {
+  "v": -2,
+  "page": 15,
+  "note": "Pide desarrollar al máximo las competencias del Estatuto y más cogestión."
+ },
+ "ter-3": {
+  "v": 1,
+  "page": 2,
+  "note": "Reúne a formaciones federales y confederales y defiende reconocer a Canarias como sujeto político."
+ },
+ "ter-4": {
+  "v": 2,
+  "page": 8,
+  "note": "Defiende financiación autonómica que respete el REF y compense la insularidad."
+ },
+ "ter-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "ter-6": {
+  "v": 2,
+  "page": 15,
+  "note": "Desarrollar al máximo las competencias del Estatuto, financiadas por el Estado."
+ },
+ "ins-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "ins-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "ins-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "ins-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "ins-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "ins-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "ins-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "ext-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "ext-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "ext-3": {
+  "v": 1,
+  "page": 19,
+  "note": "Denuncia el genocidio israelí y la complicidad internacional; no menciona romper relaciones ni armas."
+ },
+ "ext-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "ext-5": {
+  "v": 2,
+  "page": 19,
+  "note": "Solidaridad con el pueblo saharaui en su lucha por la autodeterminación e independencia."
+ },
+ "ext-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "cul-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "cul-2": {
+  "v": 1,
+  "page": 16,
+  "note": "Regular y limitar el impacto de la IA en la producción cultural; observatorio de lobbies de comunicación."
+ },
+ "cul-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "cul-4": {
+  "v": 1,
+  "page": 10,
+  "note": "Impulsar la investigación y la tecnología como parte de la diversificación económica."
+ },
+ "cul-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ },
+ "cul-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducirlo."
+ }
+}

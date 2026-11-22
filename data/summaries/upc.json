@@ -1,0 +1,895 @@
+{
+ "party": "upc",
+ "overview": "UPC se presenta como una candidatura única de las fuerzas de la izquierda canaria, que une a formaciones nacionalistas, soberanistas, federales y confederales; el programa no nombra a los partidos concretos. Su manifiesto de 5 bloques y 16 ejes combina derechos sociales (vivienda, pensiones, empleo) con la defensa de la financiación, el REF y el autogobierno de Canarias. Propone limitar el crecimiento turístico y reforzar la voz canaria en las Cortes.",
+ "topics": {
+  "vivienda": {
+   "summary": "Defiende la vivienda como derecho constitucional, con control de precios del alquiler, un gran parque público y límites a la especulación.",
+   "points": [
+    {
+     "text": "Declarar la vivienda derecho fundamental, blindándolo en la Constitución, con derecho subjetivo a una vivienda digna y asequible.",
+     "source": {
+      "doc": "upc",
+      "page": 2
+     }
+    },
+    {
+     "text": "Controlar los precios de venta y alquiler, renovar automáticamente los contratos (5 o 7 años según el propietario) y expropiar viviendas a los fondos buitre.",
+     "source": {
+      "doc": "upc",
+      "page": 3
+     }
+    },
+    {
+     "text": "Crear un gran parque público de alquiler asequible con la cesión obligatoria de las viviendas vacías de grandes tenedores; aumentar la inversión pública hasta la media europea y revertir la privatización de vivienda y suelo público.",
+     "source": {
+      "doc": "upc",
+      "page": 3
+     }
+    },
+    {
+     "text": "Que comunidades y ayuntamientos tengan un parque público de al menos el 9% del parque residencial (hoy apenas el 2% en las Islas).",
+     "source": {
+      "doc": "upc",
+      "page": 3
+     }
+    },
+    {
+     "text": "Prohibir la desokupación extrajudicial; no desahuciar a familias vulnerables sin realojo digno garantizado por la Administración.",
+     "source": {
+      "doc": "upc",
+      "page": 3
+     }
+    },
+    {
+     "text": "Recuperar para uso social las viviendas de la Sareb y de entidades rescatadas, y acabar con las SOCIMI.",
+     "source": {
+      "doc": "upc",
+      "page": 4
+     }
+    },
+    {
+     "text": "Ayudas a la compra de primera vivienda, incluida una hipoteca al 0% hasta 100.000 euros sin límite de edad.",
+     "source": {
+      "doc": "upc",
+      "page": 4
+     }
+    },
+    {
+     "text": "Regular la vivienda vacacional en zonas residenciales y limitar la compra de viviendas por extranjeros no residentes.",
+     "source": {
+      "doc": "upc",
+      "page": 4
+     }
+    }
+   ]
+  },
+  "empleo": {
+   "summary": "Propone subir el SMI hasta 1.800 euros, reducir la jornada a 37,5 y luego 34 horas y combatir la precariedad.",
+   "points": [
+    {
+     "text": "Defender el papel del Gobierno en la subida del salario mínimo (SMI), frente a dejarlo en manos empresariales como pretenden PP y Vox.",
+     "source": {
+      "doc": "upc",
+      "page": 7
+     }
+    },
+    {
+     "text": "Subir progresivamente el SMI hasta 1.800 euros en doce pagas y actualizar salarios mediante negociación colectiva.",
+     "source": {
+      "doc": "upc",
+      "page": 7
+     }
+    },
+    {
+     "text": "Regular la jornada de 37,5 horas semanales y avanzar hacia las 34 horas; proteger la desconexión digital y permitir flexibilidad y teletrabajo.",
+     "source": {
+      "doc": "upc",
+      "page": 7
+     }
+    },
+    {
+     "text": "Ratificar el Convenio 189 de la OIT e integrar a las trabajadoras del hogar en el Régimen General de la Seguridad Social.",
+     "source": {
+      "doc": "upc",
+      "page": 7
+     }
+    },
+    {
+     "text": "Garantizar el pago o descanso de las horas extra reforzando el registro de jornada y la Inspección de Trabajo.",
+     "source": {
+      "doc": "upc",
+      "page": 7
+     }
+    },
+    {
+     "text": "Combatir la temporalidad injustificada, los abusos en la contratación y la brecha salarial de género, con atención al turismo, hostelería y comercio.",
+     "source": {
+      "doc": "upc",
+      "page": 7
+     }
+    },
+    {
+     "text": "Tarifa plana de 88 euros mensuales para autónomos con menores rendimientos.",
+     "source": {
+      "doc": "upc",
+      "page": 13
+     }
+    }
+   ]
+  },
+  "economia": {
+   "summary": "Plantea una reforma fiscal progresiva, un REF reforzado, diversificar la economía y apoyar a autónomos y pymes canarias.",
+   "points": [
+    {
+     "text": "Reforma fiscal progresiva: más tramos del IRPF estatal desde 120.000 euros y que contribuyan más grandes empresas, patrimonios y rentas del capital.",
+     "source": {
+      "doc": "upc",
+      "page": 11
+     }
+    },
+    {
+     "text": "Mantener los impuestos extraordinarios a la banca y reintroducir el de las empresas energéticas.",
+     "source": {
+      "doc": "upc",
+      "page": 12
+     }
+    },
+    {
+     "text": "Mantener de forma permanente un impuesto a las grandes fortunas, reforzando su progresividad.",
+     "source": {
+      "doc": "upc",
+      "page": 12
+     }
+    },
+    {
+     "text": "Deducción temporal de 300, 225 o 175 euros en el IRPF por la inflación para rentas inferiores a 40.000 euros y deflactación de la tarifa hasta 65.000 euros.",
+     "source": {
+      "doc": "upc",
+      "page": 12
+     }
+    },
+    {
+     "text": "Diversificar la economía y reducir la dependencia del turismo con sector primario, economía azul, energías limpias, investigación y cultura.",
+     "source": {
+      "doc": "upc",
+      "page": 10
+     }
+    },
+    {
+     "text": "Derogar la materialización de la RIC en vivienda libre para alquiler sin límite de renta, que considera un uso especulativo.",
+     "source": {
+      "doc": "upc",
+      "page": 10
+     }
+    },
+    {
+     "text": "Ampliar a 85.000 euros de facturación la exención del IGIC para autónomos, ventanilla única y democratizar los incentivos fiscales del REF para pymes.",
+     "source": {
+      "doc": "upc",
+      "page": 12
+     }
+    },
+    {
+     "text": "Presupuestos del Estado que financien el REF: 75% de descuento en billetes, 100% en transporte de mercancías y compensación del sobrecoste eléctrico.",
+     "source": {
+      "doc": "upc",
+      "page": 9
+     }
+    }
+   ]
+  },
+  "pensiones": {
+   "summary": "Defiende pensiones públicas revalorizadas con el IPC por ley, la derogación del factor de sostenibilidad y la jubilación anticipada en trabajos duros.",
+   "points": [
+    {
+     "text": "Actualizar por ley las pensiones al IPC de forma inmediata y buscar constitucionalizar esta garantía.",
+     "source": {
+      "doc": "upc",
+      "page": 6
+     }
+    },
+    {
+     "text": "Derogar el factor de sostenibilidad.",
+     "source": {
+      "doc": "upc",
+      "page": 6
+     }
+    },
+    {
+     "text": "Aumentar las pensiones mínimas, las no contributivas y las de viudedad, con un calendario hacia la Carta Social Europea.",
+     "source": {
+      "doc": "upc",
+      "page": 6
+     }
+    },
+    {
+     "text": "Agilizar la jubilación antes de los 65 años sin penalización en sectores duros y precarios (camareras de piso, incendios, ayuda a domicilio, buceo, estiba, entre otros).",
+     "source": {
+      "doc": "upc",
+      "page": 6
+     }
+    },
+    {
+     "text": "Reclamar una dotación de al menos 30 millones de euros para el programa contra la pobreza de la Ley 19/1994.",
+     "source": {
+      "doc": "upc",
+      "page": 9
+     }
+    }
+   ]
+  },
+  "sanidad": {
+   "summary": "Quiere una sanidad pública universal, con más atención primaria, mayor cobertura y reversión de privatizaciones.",
+   "points": [
+    {
+     "text": "Sanidad, educación y servicios sociales públicos, con financiación suficiente y gestión prioritariamente directa, revirtiendo privatizaciones y externalizaciones.",
+     "source": {
+      "doc": "upc",
+      "page": 5
+     }
+    },
+    {
+     "text": "Derogar la Ley 15/1997 para evitar la privatización de servicios sanitarios.",
+     "source": {
+      "doc": "upc",
+      "page": 6
+     }
+    },
+    {
+     "text": "Más dinero para atención primaria para reducir listas de espera, y una farmacéutica pública con topes a los medicamentos.",
+     "source": {
+      "doc": "upc",
+      "page": 6
+     }
+    },
+    {
+     "text": "Incluir en la sanidad pública salud dental, visual y auditiva, fisioterapia y salud sexual y reproductiva de la mujer.",
+     "source": {
+      "doc": "upc",
+      "page": 6
+     }
+    },
+    {
+     "text": "Incorporar profesionales de nutrición a primaria, aprobar una Ley para la Diabetes y cumplir el PESMA 2022-2026.",
+     "source": {
+      "doc": "upc",
+      "page": 6
+     }
+    },
+    {
+     "text": "Sistema universal de cuidados de larga duración y derecho subjetivo a la atención temprana gratuita y pública.",
+     "source": {
+      "doc": "upc",
+      "page": 5
+     }
+    },
+    {
+     "text": "Acceso a la salud mental para la juventud canaria.",
+     "source": {
+      "doc": "upc",
+      "page": 7
+     }
+    }
+   ]
+  },
+  "educacion": {
+   "summary": "Apuesta por una educación pública, universal y gratuita desde los 0 años, con menos alumnos por aula e inclusión real.",
+   "points": [
+    {
+     "text": "Educación pública, universal y gratuita de 0 a 3 años.",
+     "source": {
+      "doc": "upc",
+      "page": 5
+     }
+    },
+    {
+     "text": "Reducir las ratios en colegios e institutos y reforzar la atención a la diversidad.",
+     "source": {
+      "doc": "upc",
+      "page": 5
+     }
+    },
+    {
+     "text": "Reforzar las universidades públicas y controlar la calidad y proliferación de las privadas.",
+     "source": {
+      "doc": "upc",
+      "page": 5
+     }
+    },
+    {
+     "text": "Garantizar recursos y apoyos al alumnado con necesidades específicas (NEAE), con inclusión real y sin segregación.",
+     "source": {
+      "doc": "upc",
+      "page": 5
+     }
+    },
+    {
+     "text": "Plan Estatal de infraestructuras educativas para adaptar los centros al cambio climático.",
+     "source": {
+      "doc": "upc",
+      "page": 5
+     }
+    },
+    {
+     "text": "Educación en igualdad desde las primeras etapas y formación del profesorado en perspectiva de género y diversidad.",
+     "source": {
+      "doc": "upc",
+      "page": 17
+     }
+    },
+    {
+     "text": "Educación afectivo-sexual garantizada.",
+     "source": {
+      "doc": "upc",
+      "page": 18
+     }
+    }
+   ]
+  },
+  "igualdad": {
+   "summary": "Plantea políticas de igualdad transversales con perspectiva feminista interseccional, contra las violencias machistas y por los derechos LGTBIQ+.",
+   "points": [
+    {
+     "text": "Incorporar de forma transversal la igualdad de mujeres y personas LGTBIQ+ desde una perspectiva feminista interseccional.",
+     "source": {
+      "doc": "upc",
+      "page": 17
+     }
+    },
+    {
+     "text": "Erradicar las violencias machistas reforzando prevención, protección y atención integral con recursos públicos suficientes.",
+     "source": {
+      "doc": "upc",
+      "page": 17
+     }
+    },
+    {
+     "text": "Combatir la brecha salarial de género y la discriminación en el empleo.",
+     "source": {
+      "doc": "upc",
+      "page": 17
+     }
+    },
+    {
+     "text": "Sistema público de cuidados basado en la corresponsabilidad, para infancia, mayores y personas con discapacidad.",
+     "source": {
+      "doc": "upc",
+      "page": 17
+     }
+    },
+    {
+     "text": "Garantizar derechos sexuales y reproductivos y estudiar blindar el aborto en la Constitución, como Francia.",
+     "source": {
+      "doc": "upc",
+      "page": 18
+     }
+    },
+    {
+     "text": "Garantizar la igualdad de derechos LGTBIQA+ con especial atención a personas trans.",
+     "source": {
+      "doc": "upc",
+      "page": 18
+     }
+    }
+   ]
+  },
+  "inmigracion": {
+   "summary": "Defiende una política migratoria basada en derechos humanos, con protección de menores no acompañados y corresponsabilidad entre territorios.",
+   "points": [
+    {
+     "text": "Política migratoria basada en derechos humanos, vías legales y seguras, acogida digna y corresponsabilidad entre territorios.",
+     "source": {
+      "doc": "upc",
+      "page": 16
+     }
+    },
+    {
+     "text": "Protección específica de menores migrantes no acompañados y distribución solidaria de la acogida.",
+     "source": {
+      "doc": "upc",
+      "page": 16
+     }
+    },
+    {
+     "text": "Rechazar la externalización de fronteras, el racismo y la xenofobia.",
+     "source": {
+      "doc": "upc",
+      "page": 16
+     }
+    },
+    {
+     "text": "Reforzar los medios humanos, técnicos y aéreos en el archipiélago y valorar unidades de despliegue rápido ante repuntes migratorios.",
+     "source": {
+      "doc": "upc",
+      "page": 16
+     }
+    },
+    {
+     "text": "Estudiar medios permanentes en las islas no capitalinas y reforzar la coordinación con Salvamento Marítimo y protección civil.",
+     "source": {
+      "doc": "upc",
+      "page": 17
+     }
+    },
+    {
+     "text": "Pedir a la UE regionalizar los fondos para gestionar directamente los flujos migratorios y la acogida de menores, por ser frontera sur de la UE.",
+     "source": {
+      "doc": "upc",
+      "page": 10
+     }
+    }
+   ]
+  },
+  "medioambiente": {
+   "summary": "Propone limitar el crecimiento turístico, acelerar las renovables con una empresa pública de energía y reforzar la protección de la biodiversidad.",
+   "points": [
+    {
+     "text": "Moratoria al crecimiento de nuevas camas e instalaciones turísticas, que considera el principal motor del crecimiento demográfico de las Islas.",
+     "source": {
+      "doc": "upc",
+      "page": 13
+     }
+    },
+    {
+     "text": "Crear una Empresa pública de Energía para instalar renovables, abaratar la factura y evitar la pobreza energética.",
+     "source": {
+      "doc": "upc",
+      "page": 14
+     }
+    },
+    {
+     "text": "Plan de techumbres fotovoltaicas, plan estratégico de renovables y obligación progresiva de que toda nueva construcción sea autosuficiente energéticamente.",
+     "source": {
+      "doc": "upc",
+      "page": 14
+     }
+    },
+    {
+     "text": "Crear refugios climáticos ante frío y calor extremos, con atención a mayores y menores.",
+     "source": {
+      "doc": "upc",
+      "page": 14
+     }
+    },
+    {
+     "text": "Plan estatal de costas, emisarios submarinos y depuradoras y recuperación de barrancos, senderos y valles.",
+     "source": {
+      "doc": "upc",
+      "page": 15
+     }
+    },
+    {
+     "text": "Aprobar la Ley de Biodiversidad y Recursos Biológicos de Canarias y proteger tiburones y rayas en aguas canarias.",
+     "source": {
+      "doc": "upc",
+      "page": 15
+     }
+    },
+    {
+     "text": "Gestión sostenible y circular de residuos y vertidos, y gestión pública de los recursos estratégicos.",
+     "source": {
+      "doc": "upc",
+      "page": 14
+     }
+    }
+   ]
+  },
+  "rural": {
+   "summary": "Defiende la pesca artesanal, el suelo agrario y mantener el POSEI y las ayudas europeas específicas para las islas.",
+   "points": [
+    {
+     "text": "Fortalecer la pesca artesanal con cogestión, vigilancia, seguimiento científico y geolocalización de embarcaciones.",
+     "source": {
+      "doc": "upc",
+      "page": 11
+     }
+    },
+    {
+     "text": "Ampliar la red de reservas marinas de interés pesquero, con al menos una por isla.",
+     "source": {
+      "doc": "upc",
+      "page": 11
+     }
+    },
+    {
+     "text": "Combatir el furtivismo y la pesca ilegal; servicio de vigilancia pesquera específico por isla.",
+     "source": {
+      "doc": "upc",
+      "page": 11
+     }
+    },
+    {
+     "text": "Proteger el suelo agrario, aumentar la reserva de suelo rústico y rehabilitar terrenos para uso agrícola y ganadero.",
+     "source": {
+      "doc": "upc",
+      "page": 11
+     }
+    },
+    {
+     "text": "Mantener el POSEI como instrumento autónomo de la PAC en las RUP, con ficha financiera actualizada y reglamento europeo específico.",
+     "source": {
+      "doc": "upc",
+      "page": 10
+     }
+    },
+    {
+     "text": "Bonificación del 100% al transporte de mercancías agrícolas e industriales y abaratar el agua de riego.",
+     "source": {
+      "doc": "upc",
+      "page": 9
+     }
+    }
+   ]
+  },
+  "territorio": {
+   "summary": "Reivindica Canarias como sujeto político, más autogobierno, financiación autonómica que respete el REF y cogestión de aeropuertos.",
+   "points": [
+    {
+     "text": "Reconocer a Canarias como sujeto político, reforzar su autogobierno y desarrollar al máximo las competencias del Estatuto.",
+     "source": {
+      "doc": "upc",
+      "page": 15
+     }
+    },
+    {
+     "text": "Financiación autonómica que no cuestione la adicionalidad del REF, mantenga la nivelación y no reduzca el peso de la insularidad; añadir pobreza y renta como variables.",
+     "source": {
+      "doc": "upc",
+      "page": 8
+     }
+    },
+    {
+     "text": "Cogestión canaria de los aeropuertos y rechazo a privatizar las torres de control.",
+     "source": {
+      "doc": "upc",
+      "page": 15
+     }
+    },
+    {
+     "text": "Establecer la mediana con Marruecos y reconocer las aguas, fondos marinos y espacio aéreo del archipiélago; participar en negociaciones con terceros estados que afecten a Canarias.",
+     "source": {
+      "doc": "upc",
+      "page": 15
+     }
+    },
+    {
+     "text": "Reclamación permanente de participación justa de Canarias en los Presupuestos del Estado y de la UE.",
+     "source": {
+      "doc": "upc",
+      "page": 15
+     }
+    },
+    {
+     "text": "La coalición comparte la defensa de la soberanía popular, el derecho a decidir y la autodeterminación de los pueblos.",
+     "source": {
+      "doc": "upc",
+      "page": 16
+     }
+    },
+    {
+     "text": "Rechaza tanto el centralismo estatal como el caciquismo y los privilegios de minorías locales.",
+     "source": {
+      "doc": "upc",
+      "page": 2
+     }
+    },
+    {
+     "text": "Situar a Canarias al menos en la media de inversión territorializada que fija la Ley del REF.",
+     "source": {
+      "doc": "upc",
+      "page": 9
+     }
+    }
+   ]
+  },
+  "instituciones": {
+   "summary": "Propone más democracia participativa y transparencia, y medidas contra la corrupción y el transfuguismo.",
+   "points": [
+    {
+     "text": "Profundizar en una democracia más participativa y transparente desde las Cortes Generales.",
+     "source": {
+      "doc": "upc",
+      "page": 18
+     }
+    },
+    {
+     "text": "Medidas para prevenir y castigar la corrupción y el transfuguismo, que considera un acto de corrupción política.",
+     "source": {
+      "doc": "upc",
+      "page": 18
+     }
+    },
+    {
+     "text": "Limitar los privilegios políticos y reforzar la rendición de cuentas.",
+     "source": {
+      "doc": "upc",
+      "page": 18
+     }
+    },
+    {
+     "text": "Participación directa: revocación de cargos públicos, presupuestos participativos, referéndums y asambleas ciudadanas vinculantes.",
+     "source": {
+      "doc": "upc",
+      "page": 18
+     }
+    },
+    {
+     "text": "Voto a los 16 años y justicia intergeneracional en las políticas públicas.",
+     "source": {
+      "doc": "upc",
+      "page": 8
+     }
+    },
+    {
+     "text": "Prohibir la desokupación extrajudicial e ilegalizar a las empresas que la practican.",
+     "source": {
+      "doc": "upc",
+      "page": 3
+     }
+    }
+   ]
+  },
+  "exterior": {
+   "summary": "Plantea una política exterior de paz, cooperación y solidaridad, con apoyo a la autodeterminación de Palestina y el Sáhara y el 0,7% para cooperación.",
+   "points": [
+    {
+     "text": "Defender a Canarias como territorio de paz, cooperación y solidaridad, con relaciones justas con África, América Latina y Europa.",
+     "source": {
+      "doc": "upc",
+      "page": 19
+     }
+    },
+    {
+     "text": "Apoyar a los pueblos que defienden su autodeterminación y soberanía.",
+     "source": {
+      "doc": "upc",
+      "page": 19
+     }
+    },
+    {
+     "text": "Solidaridad con el pueblo palestino, denunciando el genocidio israelí y la complicidad internacional.",
+     "source": {
+      "doc": "upc",
+      "page": 19
+     }
+    },
+    {
+     "text": "Solidaridad con el pueblo saharaui en su lucha por la autodeterminación e independencia.",
+     "source": {
+      "doc": "upc",
+      "page": 19
+     }
+    },
+    {
+     "text": "Destinar al menos el 0,7% de los Presupuestos Generales del Estado a cooperación y solidaridad internacional.",
+     "source": {
+      "doc": "upc",
+      "page": 19
+     }
+    },
+    {
+     "text": "Mantener para Canarias un trato específico como región ultraperiférica en el Marco Financiero Plurianual 2028-2034 de la UE.",
+     "source": {
+      "doc": "upc",
+      "page": 9
+     }
+    }
+   ]
+  },
+  "cultura": {
+   "summary": "Defiende la identidad y el patrimonio canarios, las industrias culturales y regular el impacto de la inteligencia artificial.",
+   "points": [
+    {
+     "text": "Defender la identidad nacional canaria, su historia, habla, tradiciones y patrimonio como elementos de cohesión.",
+     "source": {
+      "doc": "upc",
+      "page": 16
+     }
+    },
+    {
+     "text": "Proteger el patrimonio material e inmaterial y apoyar la creación artística y las industrias culturales canarias.",
+     "source": {
+      "doc": "upc",
+      "page": 16
+     }
+    },
+    {
+     "text": "Regular y limitar el impacto de la inteligencia artificial sobre la producción cultural humana.",
+     "source": {
+      "doc": "upc",
+      "page": 16
+     }
+    },
+    {
+     "text": "Apostar por cine, diseño y videojuegos con las exenciones fiscales y la Zona Especial Canaria, ligadas a contratar trabajo local.",
+     "source": {
+      "doc": "upc",
+      "page": 16
+     }
+    },
+    {
+     "text": "Crear un observatorio de vigilancia de las fake news, los monopolios y los lobbies de comunicación.",
+     "source": {
+      "doc": "upc",
+      "page": 18
+     }
+    },
+    {
+     "text": "Impulsar la investigación y la tecnología dentro de la diversificación económica.",
+     "source": {
+      "doc": "upc",
+      "page": 10
+     }
+    }
+   ]
+  },
+  "otros": {
+   "summary": "Incluye medidas de juventud y de emergencias y protección civil en las islas.",
+   "points": [
+    {
+     "text": "Pacto de Estado con programas de emancipación juvenil (vivienda, trabajo, estudios) en los que participe la propia juventud.",
+     "source": {
+      "doc": "upc",
+      "page": 8
+     }
+    },
+    {
+     "text": "Acceso prioritario de la juventud al parque público de viviendas.",
+     "source": {
+      "doc": "upc",
+      "page": 3
+     }
+    },
+    {
+     "text": "Programa remunerado de acompañamiento de jóvenes a personas mayores para afrontar la soledad no deseada.",
+     "source": {
+      "doc": "upc",
+      "page": 5
+     }
+    },
+    {
+     "text": "Reforzar la coordinación con emergencias, protección civil, extinción de incendios y vigilancia volcánica.",
+     "source": {
+      "doc": "upc",
+      "page": 17
+     }
+    },
+    {
+     "text": "Defender el derecho de propietarios de viviendas en complejos turísticos a residir en ellas y revisar la unidad de explotación turística.",
+     "source": {
+      "doc": "upc",
+      "page": 14
+     }
+    }
+   ]
+  }
+ },
+ "distinctive": [
+  {
+   "topic": "economia",
+   "text": "Propone derogar la materialización de la RIC en vivienda libre destinada al alquiler sin límite de renta.",
+   "why": "Es de los pocos programas que se refiere a esta figura fiscal propia de Canarias.",
+   "source": {
+    "doc": "upc",
+    "page": 10
+   }
+  },
+  {
+   "topic": "medioambiente",
+   "text": "Moratoria de nuevas camas e instalaciones turísticas y tasa turística para no residentes.",
+   "why": "Es de los pocos que plantea una moratoria turística; el turismo se trata como causa del crecimiento demográfico.",
+   "source": {
+    "doc": "upc",
+    "page": 13
+   }
+  },
+  {
+   "topic": "territorio",
+   "text": "Establecer la mediana con Marruecos y reconocer aguas, fondos marinos y espacio aéreo de Canarias.",
+   "why": "Es de los pocos que aborda la delimitación marítima con Marruecos.",
+   "source": {
+    "doc": "upc",
+    "page": 15
+   }
+  },
+  {
+   "topic": "territorio",
+   "text": "Cogestión canaria de los aeropuertos y rechazo a privatizar las torres de control.",
+   "why": "Es una propuesta específica de Canarias que no aparece en los programas estatales.",
+   "source": {
+    "doc": "upc",
+    "page": 15
+   }
+  },
+  {
+   "topic": "economia",
+   "text": "Presupuestos del Estado con 75% de descuento en billetes y 100% en mercancías, y compensación del sobrecoste eléctrico.",
+   "why": "Concreta partidas del REF con cifras, con un nivel de detalle poco habitual.",
+   "source": {
+    "doc": "upc",
+    "page": 9
+   }
+  },
+  {
+   "topic": "vivienda",
+   "text": "Acabar con las SOCIMI y recuperar para uso social las viviendas de la Sareb.",
+   "why": "Es de los pocos que propone eliminar las SOCIMI.",
+   "source": {
+    "doc": "upc",
+    "page": 4
+   }
+  },
+  {
+   "topic": "instituciones",
+   "text": "Combatir el transfuguismo como acto de corrupción política y crear un observatorio de fake news y lobbies de comunicación.",
+   "why": "Es de los pocos que destaca el transfuguismo como problema central.",
+   "source": {
+    "doc": "upc",
+    "page": 18
+   }
+  },
+  {
+   "topic": "empleo",
+   "text": "SMI de 1.800 euros en doce pagas y jornada de 37,5 horas con camino hacia las 34.",
+   "why": "Es de los programas que fijan una cifra de SMI y un objetivo de jornada más ambicioso.",
+   "source": {
+    "doc": "upc",
+    "page": 7
+   }
+  }
+ ],
+ "glossary": [
+  {
+   "term": "REF",
+   "definition": "Régimen Económico y Fiscal de Canarias: conjunto de ventajas económicas y fiscales propias de las islas para compensar su lejanía e insularidad."
+  },
+  {
+   "term": "RUP",
+   "definition": "Región Ultraperiférica: territorio de la UE muy alejado del continente (como Canarias) con trato específico en las políticas europeas."
+  },
+  {
+   "term": "Marco Financiero Plurianual",
+   "definition": "Presupuesto a largo plazo de la UE. El próximo cubre 2028-2034 y fija cuánto dinero recibe cada política y región."
+  },
+  {
+   "term": "Fondos buitre",
+   "definition": "Fondos de inversión que compran grandes cantidades de vivienda o deuda para obtener beneficio, a menudo con fines especulativos."
+  },
+  {
+   "term": "SOCIMI",
+   "definition": "Sociedades de inversión inmobiliaria que pagan muy pocos impuestos si alquilan los inmuebles que poseen."
+  },
+  {
+   "term": "Sareb",
+   "definition": "Banco malo creado en 2012 para gestionar los activos inmobiliarios de bancos rescatados con dinero público."
+  },
+  {
+   "term": "RIC",
+   "definition": "Reserva para Inversiones en Canarias: ventaja fiscal que permite a las empresas reducir impuestos si reinvierten beneficios en las islas."
+  },
+  {
+   "term": "IGIC",
+   "definition": "Impuesto General Indirecto Canario: equivale al IVA, pero con tipos más bajos."
+  },
+  {
+   "term": "POSEI",
+   "definition": "Programa europeo de ayudas a la agricultura y ganadería de las regiones ultraperiféricas."
+  },
+  {
+   "term": "Factor de sostenibilidad",
+   "definition": "Mecanismo que ajusta las pensiones iniciales según la esperanza de vida de cada generación."
+  },
+  {
+   "term": "Transfuguismo",
+   "definition": "Cambio de partido de un cargo electo tras ser elegido con las siglas de otro."
+  },
+  {
+   "term": "Mediana con Marruecos",
+   "definition": "Línea equidistante entre las costas de Canarias y de Marruecos para repartir las aguas y fondos marinos de cada país."
+  },
+  {
+   "term": "Doble insularidad",
+   "definition": "Dificultad añadida de las islas pequeñas que dependen de otra isla mayor, además de estar lejos del continente."
+  }
+ ]
+}

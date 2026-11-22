@@ -1,0 +1,892 @@
+{
+ "party": "ehbildu",
+ "overview": "EH Bildu presenta el programa 'Garantía y derechos' para su labor en el Congreso y el Senado, con tres bloques: derechos y libertades, reconocimiento de Euskal Herria como nación y autogobierno, y paz y convivencia. Propone intervenir el mercado de la vivienda, reducir la jornada a 32 horas, subir pensiones y gravar a la banca y las energéticas. Exige además más competencias, el derecho a decidir y la ampliación del Concierto y el Convenio Económico. El programa no detalla qué formaciones integran la candidatura.",
+ "topics": {
+  "vivienda": {
+   "summary": "Propone intervenir el mercado: limitar subidas del alquiler, prohibir desahucios de familias vulnerables y frenar la compra especulativa de vivienda.",
+   "points": [
+    {
+     "text": "Contratos de alquiler con prórroga automática y tope estructural del 2% anual en la actualización de la renta cuando el IPC lo supere.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 5
+     }
+    },
+    {
+     "text": "Prohibición permanente de desahucios de personas y familias vulnerables sin alternativa habitacional, con compensación financiada por el Estado.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 5
+     }
+    },
+    {
+     "text": "Financiación estatal especial a los ayuntamientos que declaren zonas tensionadas para desarrollar sus planes de vivienda.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 5
+     }
+    },
+    {
+     "text": "Prohibir la compra especulativa de viviendas por empresas con ánimo de lucro, fondos de inversión y grandes tenedores.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 5
+     }
+    },
+    {
+     "text": "Los extranjeros multipropietarios solo podrían comprar vivienda si llevan al menos 2 años empadronados; el inmueble sería su vivienda habitual o alquiler regulado.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 5
+     }
+    },
+    {
+     "text": "Prohibir la publicidad y contratación de pisos turísticos ilegales en plataformas digitales y aplicar un IVA del 21% a los alojamientos turísticos de corta duración.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 6
+     }
+    },
+    {
+     "text": "Eliminar las SOCIMIs (sociedades que invierten en inmuebles con ventajas fiscales) como figura promotora de vivienda.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 6
+     }
+    }
+   ]
+  },
+  "empleo": {
+   "summary": "Plantea jornada de 32 horas sin bajar el sueldo, un SMI que cada comunidad pueda mejorar y más protección frente al despido.",
+   "points": [
+    {
+     "text": "Reducir la jornada a 32 horas semanales (o 4 días) sin bajar el salario; las pymes empezarían en 35 horas con hasta 3 años para llegar al objetivo.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 6
+     }
+    },
+    {
+     "text": "Que las comunidades autónomas puedan fijar su propio SMI, siendo el estatal el mínimo, tomando como referencia la Carta Social Europea.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 6
+     }
+    },
+    {
+     "text": "Indemnización por despido improcedente de al menos 45 días, salarios de tramitación y autorización previa de la autoridad laboral en los ERE.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 6
+     }
+    },
+    {
+     "text": "Registro horario digital obligatorio accesible a la Inspección de Trabajo y recargo legal de las horas extras.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 6
+     }
+    },
+    {
+     "text": "Reconocer el Marco Vasco y Navarro de Relaciones Laborales para la negociación colectiva.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 7
+     }
+    },
+    {
+     "text": "Transferir por completo la Inspección de Trabajo y mejorar las condiciones de las empleadas de hogar.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 7
+     }
+    }
+   ]
+  },
+  "economia": {
+   "summary": "Propone que grandes empresas, banca y energéticas aporten más, intervenir márgenes y precios en crisis y rechazar la austeridad.",
+   "points": [
+    {
+     "text": "Recuperar de forma permanente el impuesto a las energéticas y concertarlo con las haciendas forales.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 14
+     }
+    },
+    {
+     "text": "Aumentar el peso del impuesto a la banca y a las grandes fortunas y crear un impuesto especial sobre los beneficios de las grandes distribuidoras alimentarias.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 14
+     }
+    },
+    {
+     "text": "Derogar la reforma del artículo 135 de la Constitución, que prioriza el pago de la deuda, y rechazar cualquier retorno a la austeridad.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 14
+     }
+    },
+    {
+     "text": "Mecanismo de intervención extraordinaria sobre los márgenes de las grandes empresas energéticas y alimentarias en situaciones de emergencia.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 8
+     }
+    },
+    {
+     "text": "Recuperar un mecanismo de intervención sobre el precio del gas para generar electricidad (como el 'tope al gas') y poner límites temporales a precios de bienes esenciales.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 8
+     }
+    },
+    {
+     "text": "Impulsar la economía social y las cooperativas industriales, y vincular las ayudas públicas a criterios de empleo digno y descarbonización.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 16
+     }
+    }
+   ]
+  },
+  "pensiones": {
+   "summary": "Defiende un sistema público de pensiones, con subida con el IPC, mínimas de al menos 1.220 euros y jubilación sin penalización tras 40 años cotizados.",
+   "points": [
+    {
+     "text": "Blindar el carácter público de las pensiones y rechazar recortes, privatización o aumento de la edad de jubilación.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 7
+     }
+    },
+    {
+     "text": "Mantener y blindar la revalorización anual de las pensiones con el IPC.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 7
+     }
+    },
+    {
+     "text": "Subir las pensiones mínimas al menos hasta 1.220 euros, actualizadas según el SMI.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 8
+     }
+    },
+    {
+     "text": "Nueva subida de al menos un 15% de las pensiones de viudedad y no contributivas.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 8
+     }
+    },
+    {
+     "text": "Culminar la ley que reconoce pensión sin penalización a quien tenga al menos 40 años de cotización.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 8
+     }
+    },
+    {
+     "text": "Transferir el régimen económico de la Seguridad Social a las instituciones vascas y navarras.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 8
+     }
+    }
+   ]
+  },
+  "sanidad": {
+   "summary": "Quiere ampliar las prestaciones públicas, derogar la ley que permite externalizar servicios sanitarios y avanzar hacia una farmacia pública.",
+   "points": [
+    {
+     "text": "Ampliar la cartera común básica con salud bucodental y productos ópticos para los colectivos más vulnerables.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 10
+     }
+    },
+    {
+     "text": "Gratuidad de los productos de higiene menstrual, preservativos y kits de detección de infecciones de transmisión sexual en farmacias.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 10
+     }
+    },
+    {
+     "text": "Regular y restringir la publicidad de ultraprocesados y bebidas azucaradas y energéticas dirigida a menores.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 10
+     }
+    },
+    {
+     "text": "Modificar la ley de eutanasia para que cubra por igual el sufrimiento físico y psíquico y evitar la intromisión judicial de terceros.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 10
+     }
+    },
+    {
+     "text": "Derogar la Ley 15/1997, que permite nuevas formas de gestión y la externalización de servicios sanitarios.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 11
+     }
+    },
+    {
+     "text": "Nuevo enfoque de salud mental centrado en los determinantes sociales y en la capacidad de decisión de las personas afectadas.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 11
+     }
+    },
+    {
+     "text": "Avanzar con las comunidades autónomas hacia una Farmacia Pública para medicamentos básicos y los que sufren rotura de stock.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 11
+     }
+    }
+   ]
+  },
+  "educacion": {
+   "summary": "Defiende un sistema educativo propio para Euskal Herria, laico, en euskera, con menos alumnos por aula y más financiación.",
+   "points": [
+    {
+     "text": "Sistema educativo propio, de calidad, inclusivo, coeducativo, participativo, laico ('laiko'), euskaldun y soberano.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 11
+     }
+    },
+    {
+     "text": "Bajar las ratios (alumnos por aula) aprovechando el descenso de la natalidad para dar atención más personalizada.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 11
+     }
+    },
+    {
+     "text": "Estabilizar y mejorar las condiciones laborales del profesorado y reforzar su formación.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 11
+     }
+    },
+    {
+     "text": "Aumentar la financiación hasta acercarse al 6% de inversión definido por la UNESCO.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 12
+     }
+    },
+    {
+     "text": "Apoyar cambios normativos que refuercen la atención del alumnado con necesidades educativas especiales.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 12
+     }
+    }
+   ]
+  },
+  "igualdad": {
+   "summary": "Propone blindar el aborto, prevenir la violencia machista y vicaria, prohibir las terapias de conversión y mejorar los permisos de crianza.",
+   "points": [
+    {
+     "text": "Blindar el derecho al aborto con acceso libre, seguro, confidencial y digno, y protegerlo del acoso con perímetros de protección en torno a los centros.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 19
+     }
+    },
+    {
+     "text": "Reconocer y penalizar la violencia vicaria, prevenir las violencias sexuales digitales y revisar los recursos de protección de víctimas.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 19
+     }
+    },
+    {
+     "text": "Combatir los discursos antifeministas y los que niegan la violencia machista.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 19
+     }
+    },
+    {
+     "text": "Prohibir las terapias de conversión y reforzar la investigación de los delitos de odio contra el colectivo LGTBIQ+.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 19
+     }
+    },
+    {
+     "text": "Defender la despatologización de las personas trans y no aceptar retrocesos en los derechos adquiridos.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 19
+     }
+    },
+    {
+     "text": "Equiparar los permisos de familias monoparentales a los de biparentales y crear permisos de maternidad preparto y puerperal universales y retribuidos.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 14
+     }
+    },
+    {
+     "text": "Cumplir íntegramente la Directiva europea 2019/1158 sobre conciliación.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 13
+     }
+    }
+   ]
+  },
+  "inmigracion": {
+   "summary": "Propone una regularización estable, una nueva ley de extranjería y acceso a servicios públicos sin importar la situación administrativa; rechaza los CIE.",
+   "points": [
+    {
+     "text": "Garantizar una regularización efectiva, accesible y estable y una nueva ley de extranjería basada en derechos humanos.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 20
+     }
+    },
+    {
+     "text": "Rechazar el Pacto Europeo sobre Migración y Asilo, las devoluciones sumarias, la externalización de fronteras y los CIE (Centros de Internamiento de Extranjeros).",
+     "source": {
+      "doc": "ehbildu",
+      "page": 20
+     }
+    },
+    {
+     "text": "Sistema público de acogida y acceso a sanidad, educación, vivienda y protección social independientemente de la situación administrativa.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 20
+     }
+    },
+    {
+     "text": "Reforzar la lucha contra el racismo institucional, laboral, inmobiliario y policial.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 20
+     }
+    },
+    {
+     "text": "Ampliar el derecho al voto y la representación política de las personas de origen extranjero residentes.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 20
+     }
+    },
+    {
+     "text": "Transferir las competencias migratorias para desarrollar un modelo vasco de acogida y dotar de más recursos a las oficinas de extranjería.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 20
+     }
+    }
+   ]
+  },
+  "medioambiente": {
+   "summary": "Plantea acelerar la descarbonización (2045), el despliegue renovable y la electrificación, y mantener el calendario de cierre nuclear.",
+   "points": [
+    {
+     "text": "Revisar al alza el PNIEC para adelantar la descarbonización al menos a 2045 y reducir con urgencia el uso de combustibles fósiles.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 15
+     }
+    },
+    {
+     "text": "Despliegue renovable rápido con participación pública y comunitaria y retorno social para los territorios que lo acogen.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 15
+     }
+    },
+    {
+     "text": "Mantener el calendario de cierre nuclear definido en el PNIEC.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 15
+     }
+    },
+    {
+     "text": "Facilitar el autoconsumo y las comunidades energéticas, reformar el mercado eléctrico y automatizar el bono social eléctrico y térmico.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 16
+     }
+    },
+    {
+     "text": "Ayudas progresivas y leasing social para vehículos eléctricos puros (sin ayudas a los híbridos), más Cercanías y transporte de mercancías por tren.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 17
+     }
+    },
+    {
+     "text": "Eliminar las subvenciones a los combustibles fósiles (incluida la exención al queroseno de aviación) y gravar los vuelos privados y los billetes de avión.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 18
+     }
+    },
+    {
+     "text": "Ayudas para rehabilitación energética de viviendas, hasta el 100% para las personas más vulnerables, ligadas a límites al precio del alquiler.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 18
+     }
+    }
+   ]
+  },
+  "rural": {
+   "summary": "Quiere más capacidad de decisión sobre la PAC y la política pesquera, precios justos en la cadena alimentaria y más producción ecológica.",
+   "points": [
+    {
+     "text": "Avanzar hacia la renacionalización y territorialización de la PAC para que Euskal Herria diseñe su propia política agraria dentro del marco europeo.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 16
+     }
+    },
+    {
+     "text": "Mayor descentralización de la Política Pesquera Común para desarrollar una política pesquera propia.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 17
+     }
+    },
+    {
+     "text": "Desarrollar la Ley de la Cadena Alimentaria y el Observatorio de la Cadena Alimentaria para garantizar precios justos en origen y evitar prácticas abusivas.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 17
+     }
+    },
+    {
+     "text": "Objetivos de compra pública alimentaria saludable, sostenible y de proximidad en comedores escolares, hospitales y residencias.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 17
+     }
+    },
+    {
+     "text": "Ampliar la superficie ecológica y crear el sello ECOREGENERATIVA para explotaciones que combinen producción ecológica y prácticas regenerativas del suelo.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 17
+     }
+    }
+   ]
+  },
+  "territorio": {
+   "summary": "Defiende el reconocimiento de Euskal Herria como nación, el derecho a decidir, más competencias y la ampliación del Concierto y el Convenio Económico.",
+   "points": [
+    {
+     "text": "Reconocimiento de Euskal Herria como nación y del carácter plurinacional del Estado, y de un conflicto político con solución democrática.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 23
+     }
+    },
+    {
+     "text": "Reconocer el derecho a decidir del pueblo vasco y respetar los nuevos marcos de relación con el Estado que la sociedad vasca refrende.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 24
+     }
+    },
+    {
+     "text": "Exigir las competencias del Estatuto Vasco y el Amejoramiento Navarro aún pendientes y asumir otras nuevas: migración, Seguridad Social, desempleo, puertos y aeropuertos, energía y marco laboral propio.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 24
+     }
+    },
+    {
+     "text": "Defender el autogobierno frente a cualquier recentralización o invasión competencial.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 24
+     }
+    },
+    {
+     "text": "Defender y ampliar el Concierto Económico Vasco y el Convenio Económico Navarro y negociar un nuevo modelo de cálculo del Cupo y la Aportación.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 24
+     }
+    },
+    {
+     "text": "Permitir que las selecciones vascas compitan internacionalmente con deportistas de los siete territorios de Euskal Herria.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 26
+     }
+    }
+   ]
+  },
+  "instituciones": {
+   "summary": "Propone derogar la Ley Mordaza, despenalizar delitos de opinión, ampliar la memoria democrática y replegar a las fuerzas de seguridad del Estado en Euskal Herria.",
+   "points": [
+    {
+     "text": "Acabar con la Ley Mordaza: sustituir las pelotas de goma, acabar con sanciones subjetivas y rebajar la desobediencia de infracción grave a leve.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 22
+     }
+    },
+    {
+     "text": "Despenalizar las críticas a la Corona y a las instituciones, la ofensa a sentimientos religiosos y el enaltecimiento del terrorismo.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 22
+     }
+    },
+    {
+     "text": "Delimitar el concepto de 'discurso de odio' para proteger a los colectivos vulnerables y evitar su uso contra la disidencia política.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 22
+     }
+    },
+    {
+     "text": "Ampliar la Ley de Memoria Democrática para reconocer como víctimas a las del franquismo, la tortura y la guerra sucia, entre otras.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 27
+     }
+    },
+    {
+     "text": "Derogar la Ley de Secretos Oficiales y retirar las condecoraciones a agentes implicados en vulneraciones de derechos humanos.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 27
+     }
+    },
+    {
+     "text": "Aplicar la legislación penitenciaria ordinaria a todas las personas presas y poner fin a las medidas de excepción.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 27
+     }
+    },
+    {
+     "text": "Impulsar el repliegue de las Fuerzas y Cuerpos de Seguridad del Estado en la Comunidad Autónoma Vasca y en Navarra.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 27
+     }
+    },
+    {
+     "text": "Reformar la Ley de Publicidad y Comunicación Institucional para que el dinero público no financie la desinformación.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 22
+     }
+    }
+   ]
+  },
+  "exterior": {
+   "summary": "Rechaza la OTAN y el aumento del gasto en defensa, pide aislar económicamente a Israel y apoya la autodeterminación del Sáhara.",
+   "points": [
+    {
+     "text": "Rechazar la OTAN y terminar con la dependencia de esta organización y de EEUU, apostando por una seguridad europea propia basada en la diplomacia.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 28
+     }
+    },
+    {
+     "text": "Rechazar el envío de armas y su financiación, y el aumento del gasto en defensa que exige la OTAN.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 28
+     }
+    },
+    {
+     "text": "Cerrar el campo de tiro de las Bardenas y limitar el uso por EEUU de bases como Rota y Morón.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 28
+     }
+    },
+    {
+     "text": "Impulsar la adhesión al Tratado sobre la Prohibición de Armas Nucleares.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 28
+     }
+    },
+    {
+     "text": "Aislar económica y políticamente a Israel, romper el Tratado de Amistad UE-Israel y bloquear por completo la venta de armas.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 29
+     }
+    },
+    {
+     "text": "Recuperar el reconocimiento del derecho de autodeterminación del pueblo saharaui y pedir el fin del bloqueo de EEUU a Cuba.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 29
+     }
+    },
+    {
+     "text": "Lograr la oficialidad del euskera, catalán y gallego en la Unión Europea.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 25
+     }
+    }
+   ]
+  },
+  "cultura": {
+   "summary": "Propone gobernanza pública de la inteligencia artificial, soberanía digital y ayudas blindadas a la cultura en euskera y otras lenguas oficiales.",
+   "points": [
+    {
+     "text": "Gobernanza democrática de la IA con transparencia, auditoría y protección de derechos en decisiones automatizadas, tomando como referencia el Reglamento europeo de IA.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 21
+     }
+    },
+    {
+     "text": "Soberanía digital: infraestructuras y capacidad de computación propias y prioridad al software libre y los estándares abiertos.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 21
+     }
+    },
+    {
+     "text": "Proteger a los menores en entornos digitales, por ejemplo desactivando por defecto la recomendación algorítmica basada en perfiles y limitando notificaciones adictivas.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 21
+     }
+    },
+    {
+     "text": "Financiación estatal de tecnologías lingüísticas y modelos de IA en euskera.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 21
+     }
+    },
+    {
+     "text": "Destinar al menos el 15% del Fondo de Protección de la Cinematografía a proyectos en lenguas oficiales distintas del castellano.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 25
+     }
+    },
+    {
+     "text": "Blindar por ley las ayudas a producciones en euskera y delimitar el concepto de productor independiente; reservas de ayudas para proyectos de mujeres y jóvenes.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 25
+     }
+    },
+    {
+     "text": "Exigir transparencia y control sobre plataformas digitales y algoritmos y proteger el pluralismo mediático, incluidos los medios en euskera, catalán y gallego.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 22
+     }
+    }
+   ]
+  },
+  "otros": {
+   "summary": "Incluye medidas de escudo social, cuidados, familias e infancia, administración pública y paz y convivencia.",
+   "points": [
+    {
+     "text": "Hacer permanente la garantía de suministros básicos para hogares vulnerables, ampliar el Suministro Mínimo Vital y subir el IPREM con el IPC.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 13
+     }
+    },
+    {
+     "text": "Transferir el Ingreso Mínimo Vital y, mientras tanto, ampliar sus requisitos y cuantías.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 13
+     }
+    },
+    {
+     "text": "Limitar la privatización y el ánimo de lucro en los cuidados y avanzar hacia su gratuidad; excluir del copago de dependencia los cuidados personales.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 12
+     }
+    },
+    {
+     "text": "Garantizar canales presenciales ágiles en la administración y exigir conocimiento del euskera en los servicios estatales en Euskal Herria.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 12
+     }
+    },
+    {
+     "text": "Prestaciones de crianza compatibles con el IMV y participación de niños, niñas y jóvenes en la vida política y social.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 13
+     }
+    },
+    {
+     "text": "Reducción de jornada, formación y reciclaje ante la IA y compartir los beneficios de la automatización.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 21
+     }
+    },
+    {
+     "text": "Reconocer a todas las víctimas y avanzar en el proceso de convivencia, paz y memoria.",
+     "source": {
+      "doc": "ehbildu",
+      "page": 27
+     }
+    }
+   ]
+  }
+ },
+ "distinctive": [
+  {
+   "topic": "territorio",
+   "text": "Reconocer el derecho a decidir del pueblo vasco y a Euskal Herria como nación, con traspaso de competencias en migración, Seguridad Social, desempleo, puertos, aeropuertos y energía.",
+   "why": "Es de los pocos que plantea además transferir la Seguridad Social y la migración a las instituciones vascas y navarras.",
+   "source": {
+    "doc": "ehbildu",
+    "page": 24
+   }
+  },
+  {
+   "topic": "exterior",
+   "text": "Rechazar la OTAN, cerrar el campo de tiro de las Bardenas y limitar el uso de bases estadounidenses como Rota y Morón.",
+   "why": "Es de los pocos que pide rechazar la OTAN y cerrar bases militares en España.",
+   "source": {
+    "doc": "ehbildu",
+    "page": 28
+   }
+  },
+  {
+   "topic": "vivienda",
+   "text": "Eliminar las SOCIMIs como figura promotora de vivienda y condicionar la compra de vivienda por extranjeros multipropietarios a 2 años de empadronamiento.",
+   "why": "Es de los pocos que propone eliminar las SOCIMIs y poner condiciones específicas a la compra por multipropietarios extranjeros.",
+   "source": {
+    "doc": "ehbildu",
+    "page": 5
+   }
+  },
+  {
+   "topic": "empleo",
+   "text": "Reducir la jornada a 32 horas semanales (o 4 días) sin bajar el sueldo, con un periodo de adaptación de hasta 3 años para las pymes.",
+   "why": "Es de los pocos que fija el objetivo de jornada en 32 horas, por debajo de las 37,5 horas de otras propuestas.",
+   "source": {
+    "doc": "ehbildu",
+    "page": 6
+   }
+  },
+  {
+   "topic": "instituciones",
+   "text": "Despenalizar las críticas a la Corona y a las instituciones, la ofensa a sentimientos religiosos y el enaltecimiento del terrorismo.",
+   "why": "Es de los pocos que plantea eliminar estos delitos del Código Penal, además de acabar con la Ley Mordaza.",
+   "source": {
+    "doc": "ehbildu",
+    "page": 22
+   }
+  },
+  {
+   "topic": "instituciones",
+   "text": "Ampliar la Ley de Memoria Democrática a las víctimas de la tortura y la guerra sucia, derogar la Ley de Secretos Oficiales y aplicar la legislación penitenciaria ordinaria a todas las personas presas.",
+   "why": "Es de los pocos que une memoria democrática, secretos oficiales y política penitenciaria en un mismo paquete.",
+   "source": {
+    "doc": "ehbildu",
+    "page": 27
+   }
+  },
+  {
+   "topic": "medioambiente",
+   "text": "Mantener el calendario de cierre nuclear y adelantar la descarbonización al menos a 2045.",
+   "why": "Es de los pocos que fija 2045 como fecha para la descarbonización y plantea una tasa a los billetes de avión y a los vuelos privados.",
+   "source": {
+    "doc": "ehbildu",
+    "page": 15
+   }
+  },
+  {
+   "topic": "cultura",
+   "text": "Destinar al menos el 15% del Fondo de Protección de la Cinematografía a proyectos en lenguas oficiales distintas del castellano.",
+   "why": "Es de los pocos que fija un porcentaje mínimo de ayudas al cine en lenguas cooficiales.",
+   "source": {
+    "doc": "ehbildu",
+    "page": 25
+   }
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Concierto Económico",
+   "definition": "Régimen por el que las diputaciones forales de la Comunidad Autónoma Vasca recaudan casi todos los impuestos y pagan al Estado una cantidad (el Cupo) por las competencias que este mantiene."
+  },
+  {
+   "term": "Convenio Económico Navarro",
+   "definition": "Régimen similar al Concierto Económico aplicado a Navarra: la Hacienda foral recauda los impuestos y paga al Estado una Aportación."
+  },
+  {
+   "term": "Cupo y Aportación",
+   "definition": "Cantidades que País Vasco (Cupo) y Navarra (Aportación) pagan al Estado por los servicios que este presta en su territorio."
+  },
+  {
+   "term": "Haciendas forales",
+   "definition": "Instituciones de las diputaciones forales vascas y de Navarra que gestionan y recaudan los impuestos propios."
+  },
+  {
+   "term": "SOCIMI",
+   "definition": "Sociedad Cotizada de Inversión en el Mercado Inmobiliario: empresa que invierte en inmuebles para alquilar y goza de ventajas fiscales."
+  },
+  {
+   "term": "Zona tensionada",
+   "definition": "Zona donde los precios o el esfuerzo para pagar el alquiler son muy altos y donde se pueden aplicar límites al precio del alquiler."
+  },
+  {
+   "term": "IPREM",
+   "definition": "Indicador Público de Renta de Efectos Múltiples: índice usado para fijar el acceso y la cuantía de ayudas y prestaciones."
+  },
+  {
+   "term": "PNIEC",
+   "definition": "Plan Nacional Integrado de Energía y Clima: documento que fija los objetivos de emisiones, renovables y calendario nuclear."
+  },
+  {
+   "term": "PAC",
+   "definition": "Política Agraria Común: política de la Unión Europea que reparte ayudas al sector agrario."
+  },
+  {
+   "term": "CIE",
+   "definition": "Centro de Internamiento de Extranjeros: lugar donde se retiene a personas extranjeras en situación irregular antes de su expulsión."
+  },
+  {
+   "term": "Ley Mordaza",
+   "definition": "Nombre popular de la Ley Orgánica de Protección de la Seguridad Ciudadana (2015), que regula sanciones administrativas en protestas y orden público."
+  },
+  {
+   "term": "TPAN",
+   "definition": "Tratado sobre la Prohibición de las Armas Nucleares: tratado internacional que prohíbe desarrollar, tener o usar armas nucleares."
+  },
+  {
+   "term": "Violencia vicaria",
+   "definition": "Violencia ejercida contra los hijos o hijas para causar daño a la madre."
+  },
+  {
+   "term": "Derecho a decidir",
+   "definition": "Idea de que la ciudadanía de un territorio pueda decidir democráticamente su relación política con el Estado."
+  }
+ ]
+}

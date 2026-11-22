@@ -1,0 +1,402 @@
+{
+ "viv-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "viv-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "viv-3": {
+  "v": 1,
+  "page": 8,
+  "note": "Pide duplicar la aportación estatal y pasar pisos de la Sareb al alquiler público, aunque no habla de un parque gestionado por el Estado."
+ },
+ "viv-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "viv-5": {
+  "v": 2,
+  "page": 7,
+  "note": "Propone limitar la compra de vivienda por no residentes y controlar las compras desde fuera de la UE."
+ },
+ "viv-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "viv-7": {
+  "v": 1,
+  "page": 8,
+  "note": "Propone un recargo del IBI a viviendas turísticas por ordenanza municipal y un convenio de decrecimiento turístico."
+ },
+ "emp-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "emp-2": {
+  "v": 1,
+  "page": 10,
+  "note": "Solo para las camareras de piso: reducción progresiva de la jornada hasta 35 horas semanales."
+ },
+ "emp-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "emp-4": {
+  "v": 2,
+  "page": 9,
+  "note": "Cuota cero para autónomos bajo el salario mínimo y 50 euros al mes hasta dos veces el mínimo, cubierto por el Estado."
+ },
+ "emp-5": {
+  "v": 2,
+  "page": 9,
+  "note": "Propone transferir un Marco Canario de Relaciones Laborales con salario mínimo propio."
+ },
+ "eco-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "eco-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "eco-3": {
+  "v": 1,
+  "page": 8,
+  "note": "Pide que las SOCIMI tributen como cualquier empresa salvo en alquiler protegido; no habla de bancos ni energéticas."
+ },
+ "eco-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "eco-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "eco-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "pen-1": {
+  "v": 2,
+  "page": 12,
+  "note": "Propone blindar en la Constitución la revalorización anual de todas las pensiones conforme al IPC real."
+ },
+ "pen-2": {
+  "v": 2,
+  "page": 12,
+  "note": "Propone elevar las pensiones mínimas y no contributivas por encima del umbral de la pobreza."
+ },
+ "pen-3": {
+  "v": 1,
+  "page": 10,
+  "note": "Propone coeficientes reductores para adelantar la jubilación, solo de las camareras de piso."
+ },
+ "pen-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "pen-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "san-1": {
+  "v": 2,
+  "page": 11,
+  "note": "Propone sustituir la Ley 15/1997 para que la gestión pública directa sea la regla y la privada, excepción justificada."
+ },
+ "san-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "san-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "san-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "edu-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "edu-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "edu-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "edu-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "edu-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "edu-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "igu-1": {
+  "v": 2,
+  "page": 23,
+  "note": "Propone actualizar cada año los fondos del Pacto de Estado contra la Violencia de Género y repartirlos con peso a la insularidad."
+ },
+ "igu-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "igu-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "igu-4": {
+  "v": 1,
+  "page": 23,
+  "note": "Propone ampliar a 24 semanas los permisos retribuidos de conciliación; no detalla los permisos por nacimiento."
+ },
+ "igu-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "inm-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "inm-2": {
+  "v": -2,
+  "page": 24,
+  "note": "Rechaza la externalización y militarización de las fronteras, Frontex y el Pacto de Migración; no habla de expulsiones."
+ },
+ "inm-3": {
+  "v": 2,
+  "page": 21,
+  "note": "Pide el cierre inmediato de los CIE de Barranco Seco y Hoya Fría."
+ },
+ "inm-4": {
+  "v": 2,
+  "page": 21,
+  "note": "Exige cumplir el reparto obligatorio de menores migrantes entre comunidades y que no tenga fecha de caducidad."
+ },
+ "inm-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "inm-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "med-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "med-2": {
+  "v": 1,
+  "page": 17,
+  "note": "Propone comunidades energéticas, prioridad a los tejados y reinvertir en renovables el ahorro de electricidad fósil."
+ },
+ "med-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "med-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "med-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "med-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "rur-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "rur-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "rur-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "rur-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "ter-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "ter-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-3": {
+  "v": 1,
+  "page": 29,
+  "note": "Propone que la Constitución reconozca la realidad nacional canaria; no habla de un Estado federal."
+ },
+ "ter-4": {
+  "v": 1,
+  "page": 28,
+  "note": "Pide una financiación que cuente a toda la población usuaria y el coste de la insularidad, sin hablar de concierto."
+ },
+ "ter-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "ter-6": {
+  "v": 2,
+  "page": 29,
+  "note": "Propone un calendario público para completar los traspasos pendientes del Estatuto de 2018."
+ },
+ "ins-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "ins-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "ins-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "ins-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "ins-5": {
+  "v": 2,
+  "page": 25,
+  "note": "Propone reformar la Ley de Memoria Democrática para que el Estado retire los símbolos franquistas catalogados."
+ },
+ "ins-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "ins-7": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "ext-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "ext-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "ext-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "ext-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "ext-5": {
+  "v": 2,
+  "page": 22,
+  "note": "Defiende un referéndum de autodeterminación en el Sáhara Occidental, apoyando las resoluciones de la ONU."
+ },
+ "ext-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "cul-1": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "cul-2": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "cul-3": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "cul-4": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "cul-5": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ },
+ "cul-6": {
+  "v": null,
+  "page": null,
+  "note": "El programa no dice nada que permita deducir su postura."
+ }
+}

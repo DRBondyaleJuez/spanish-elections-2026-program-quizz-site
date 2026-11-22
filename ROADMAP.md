@@ -66,11 +66,59 @@ Se publica con **GitHub Pages**. No hay paso de compilación: HTML + CSS + JS no
 - [x] Revisar las respuestas: comprobar 5 al azar por partido contra el PDF. Hecho con `tools/check_pages.py` (marca citas cuya página no encaja con el texto) + revisión manual; corregidas ~15 páginas de los resúmenes.
 
 ## Fase 7 — Ampliar contenido
-- [x] 100 preguntas por programa, repartidas entre todos los temas que trata (unas 8–15 por tema). (1.100 preguntas: 100 × 11 partidos).
+- [x] 100 preguntas por programa, repartidas entre todos los temas que trata (unas 8–15 por tema). (1.100 preguntas con 11 programas; con los cuatro añadidos después, ver Fase 7b).
 - [x] 100 preguntas del manual de mesa (solo de las páginas de instrucciones/procedimiento).
 - [x] `tools/validate.py`: comprueba el esquema, que no haya ids repetidos, que las páginas existan y que la respuesta aparezca cerca de la página citada.
 
-## Fase 8 — Conexión con NotebookLM (explorar)
+## Fase 7b — Programas añadidos después de la primera versión
+- [x] Democracia 21 (`d21`), EH Bildu (`ehbildu`, archivo `PROGRAMA-CAS.pdf`), Drago Canarias (`drago`) y Unidad del Pueblo Canario (`upc`): texto extraído, `topicMap`, resumen, posturas y 100 preguntas cada uno (mínimo 60-70 si el programa es corto). Procedimiento reutilizable en AGENTS.md §10.
+
+> **Orden de trabajo sugerido** (quedan pocos días para el 29N): 8 → 12 (menú desplegable, porque aloja los enlaces nuevos) → 9 → 11 → 10 → 13. Cada fase deja la web funcionando y se publica sola con `git push`.
+
+## Fase 8 — Transparencia y valoración de preguntas
+- [ ] **Aviso de transparencia en la página de inicio** (`#/`, función `renderInicio` en `assets/app.js`, con las variables de color del tema): explicar que todo el contenido se ha generado con IA ("vibe coding") directamente a partir de los programas oficiales, sin revisión humana de cada dato; que la IA puede tener sus propios sesgos; que se ha intentado ser neutral; y que, por transparencia, las ideas del creador de la web probablemente se inclinan a la izquierda. Invitar a comprobar siempre el documento original (enlaces 📄).
+- [x] **Botones 👍 / 👎 en cada pregunta del test** (`assets/quiz.js`, visibles tras corregir) — hecho con "navegador + exportar JSON": las valoraciones se guardan en `localStorage`, el botón "Exportar mis valoraciones" descarga un JSON y `tools/import_ratings.py` lo vuelca en el campo opcional `review` de cada pregunta (ver AGENTS.md §5).
+- [ ] Pendiente de revisión humana: algunos distractores de "¿Qué partido…?" se eligieron porque el resumen del otro partido no lo menciona (no porque lo rechace). Si un usuario detecta un fallo, corregir la pregunta.
+
+## Fase 9 — Página de partidos y leyenda de siglas
+Objetivo: una página que presente a cada partido o candidatura (y los partidos que la forman) y una leyenda de siglas consultable desde toda la web.
+- [ ] **9.1 Datos de coaliciones** — crear `data/coalitions.json`: por cada programa, `{ id, nombreCompleto, siglas, formadaPor: [{ nombre, siglas, fuente }], descripcion, fuente }`. La información sale **del propio programa** (portada, introducción, firmas) con su página; si el programa no nombra a las formaciones, poner "no consta en el programa" y pedir al creador que confirme (nunca inventar). Un agente Sonnet por programa, con grep de "coalición", "candidatura", "formaciones", "integran"…
+- [ ] **9.2 Reglas de siglas** — cada candidatura se representa por **todas** sus formaciones, nunca solo por una: p. ej. Coalición Canaria + Primero Canarias → **1ºC/CC** (o **Def. Can.**, por el nombre del programa "Defiende Canarias"; decidir con el creador). Siglas cortas (≤ 8 caracteres) y únicas, p. ej. **F. Amp.** para Frente Amplio. Tabla propuesta para revisar: PSOE · PP · VOX · Podemos · F. Amp. · SALF · ERC · Compromís · EAJ-PNV · D21 · 1ºC/CC · Drago · UPC · EH Bildu. Mantener los `id` actuales (no se rompen enlaces ni datos) y añadir los campos `siglas` y `siglasLargas` a `data/parties.json`.
+- [ ] **9.3 Usar las siglas en toda la web** — helper `partyLabel(id)` en `assets/lib.js` y sustituir `short` en chips, tablas, matriz de acuerdo, tests y anexo; comprobar que caben en móvil (360 px).
+- [ ] **9.4 Leyenda desplegable de siglas** — botón "🔤 Siglas" en la cabecera (visible en cualquier página) que abre un panel (reutilizar el estilo del glosario) con cada sigla → nombre completo → formaciones que la integran, y enlace a su ficha. Cada resumen de partido explica sus siglas.
+- [ ] **9.5 Página `#/partidos`** — muestra **un partido cada vez** con un **deslizador** (carrusel con `scroll-snap`, gesto de arrastre en móvil, flechas del teclado y puntos de posición) y, como alternativa accesible, el selector de chips de las otras páginas. Cada ficha: siglas y nombre, formaciones que la integran, resumen de 3-5 líneas de lo que dice su programa (`overview`), prioridades principales, propuestas más distintivas, enlace al programa completo 📄, y atajos a su resumen por temas y a su test.
+- [ ] **9.6 Neutralidad y calidad** — descripciones basadas solo en el programa (sin etiquetas ideológicas externas), con página citada; pasar `tools/validate.py` (nuevo chequeo de `coalitions.json`: ids existentes, siglas únicas, fuentes con página válida); actualizar AGENTS.md (rutas, esquema) y probar en móvil y modo oscuro.
+
+## Fase 10 — Test de afinidad: "¿Con qué partido coincido?"
+Objetivo: un test de opiniones que, tras responder, muestra con qué partidos coincide más la persona y en qué puntos discrepa. **Es distinto del test de conocimiento** (que mide cuánto sabes de los programas): se renombrarán para que se entiendan solos — **"Test de conocimiento"** (el actual) y **"¿Con quién coincido?"** (el nuevo).
+- [ ] **10.1 Diseño del banco de 100 preguntas** — ≈ 7 por cada tema de `topics.json` (14 temas) + preguntas transversales ("ejes") que separan bien a los partidos: economía (más/menos Estado e impuestos), modelo territorial, libertades y seguridad, inmigración, Europa y defensa, ecología/energía, igualdad, instituciones y corrupción. Formatos mezclados: (a) *escala de acuerdo* (muy de acuerdo → muy en desacuerdo) ante una afirmación; (b) *elige la mejor opción* entre 3-4; (c) *elige las afirmaciones* con las que más coincides. Redacción neutral, sin nombrar partidos.
+- [ ] **10.2 Datos** — `data/affinity/items.json`: `{ id, tema, eje, tipo, texto, opciones: [{ etiqueta, posturas: { <partido>: { v, page, nota } } }], peso }`. Reutilizar las 80 afirmaciones de `positions.json` (escala −2…+2 ya anotada con página) y escribir 20-30 nuevas, **con la postura de cada partido anotada con su página** (agentes Sonnet por tema; `null` si el programa no lo trata). Revisar que ninguna pregunta tenga las mismas posturas en todos los partidos.
+- [ ] **10.3 Informe de discriminación** — `tools/affinity_report.py`: cuántas posturas anotadas tiene cada partido, qué preguntas separan mejor a cada pareja de partidos, huecos por tema y avisos (partidos con pocos datos como 1ºC/CC, PNV, UPC, Drago). Sirve para añadir preguntas hasta que los partidos queden bien diferenciados.
+- [ ] **10.4 Cálculo de afinidad** — para cada pregunta contestada, distancia entre la respuesta (−2…+2) y la postura del partido; **% de afinidad = 100 × (1 − media(|respuesta − postura|) / 4)** solo con las preguntas en que el partido tiene postura, mostrando siempre *n* (con n pequeño, el % es poco fiable). Opción "esto me importa mucho" (peso ×2) y "no sé / paso" (no cuenta). Cálculo por tema y total; misma metodología que el Anexo (enlazarla).
+- [ ] **10.5 Tandas y memoria** — cada tanda ofrece **20 preguntas** equilibradas por tema, tomadas **solo entre las no respondidas**; si se repite el test se generan las restantes y el resultado se calcula con **todas** las respondidas hasta ese momento. Guardar en `localStorage` (`affinity-answers-v1`: `{ idPregunta: { valor, importante, fecha } }`); botones "Borrar mis respuestas" y "Exportar/importar" (para cambiar de móvil). Animar a seguir: "Has respondido 40 de 100 · con más preguntas el resultado es más fiable". Todo queda en el dispositivo; avisarlo.
+- [ ] **10.6 Pantalla de resultados** — ranking de partidos con % y *n*, barras por tema y, para cada partido, **en qué puntos coincide más y en cuáles discrepa más** (las 3 preguntas con mayor/menor acuerdo, con la postura del partido, su nota y enlace 📄 a la página). Mensaje claro de límites ("es una orientación, no un consejo de voto; lee los programas"), enlace a la metodología y al Anexo.
+- [ ] **10.7 Interfaz y ruta** — `#/afinidad` (test) y `#/afinidad?r=1` (resultado); reutilizar `quiz.js` donde sea posible (una pregunta por pantalla en móvil, barra de progreso, volver atrás); renombrar los botones del menú y de la portada; modo oscuro; validación en `tools/validate.py` (esquema de `items.json`, páginas existentes, mínimo de posturas por partido).
+- [ ] **10.8 (Opcional) Selección adaptativa** — tras las 20 primeras, elegir las siguientes preguntas que más separen a los dos o tres partidos con mayor afinidad.
+- [ ] **10.9 Pruebas** — probar con perfiles ficticios (p. ej. responder siempre como un partido ⇒ ese partido debe salir primero con % alto), revisar sesgos del banco (equilibrio en la redacción izquierda/derecha) y activar también las valoraciones 👍/👎 de la Fase 8 en estas preguntas.
+
+## Fase 11 — Programas por concepto (búsqueda de términos)
+Objetivo: separar la vista **por tema** (Resúmenes) de una vista **por concepto**: elegir partidos, buscar un término y ver en qué páginas de cada programa aparece y qué opina cada partido.
+- [ ] **11.1 Lista de conceptos** — generar candidatos con `tools/candidate_terms.py` (frecuencia/TF-IDF por partido + glosario + temas) y curar a mano ~150-300 términos útiles con sus variantes (alquiler/arrendamiento, IVA, OTAN, nuclear, IRPF, okupación, vivienda pública…). Archivo `data/concepts/terms.json`: `{ id, etiqueta, variantes: [], tema }`.
+- [ ] **11.2 Índice** — `tools/build_concepts.py` recorre `extracted/<partido>/pNNN.txt` (uniendo palabras cortadas por guion, sin tildes ni mayúsculas) y genera `data/concepts/index.json`: por término y partido, las páginas donde aparece, nº de menciones y 1-2 fragmentos cortos de contexto (≤ 200 caracteres).
+- [ ] **11.3 "Opinión relevante"** — para cada partido y término, enlazar los puntos de su resumen (`summaries/<id>.json`) y las posturas de `positions.json` cuyas palabras clave coincidan, con su nota y enlace 📄; si no hay, decir "aparece en el programa pero sin una propuesta resumida".
+- [ ] **11.4 Página `#/conceptos`** — selector de partidos (igual que las otras páginas) y un **desplegable con buscador** con la lista de conceptos. Si la persona escribe una palabra que no está en la lista, mostrar un mensaje claro ("esta búsqueda es solo para los conceptos de la lista; prueba con uno de ellos") y sugerir los más parecidos. Resultado por partido: páginas (enlaces 📄 a cada página del PDF), nº de menciones, fragmentos y opinión relevante; ordenar por menciones y dejar al final los partidos que no lo mencionan.
+- [ ] **11.5 (Opcional, si sobra tiempo) Búsqueda libre** — índice de texto completo por partido cargado bajo demanda (el texto extraído pesa ≈ 3,5 MB: no cargarlo todo en el móvil), de modo que cualquier palabra funcione; mantener la lista de conceptos como atajo.
+- [ ] **11.6 Integración y calidad** — enlace desde Resúmenes ("¿Prefieres buscar por concepto?"), `reviewNote()`, pruebas en móvil y modo oscuro, `validate.py` (términos existentes, páginas válidas), actualizar AGENTS.md.
+
+## Fase 12 — Separar la mesa electoral del resto (menú desplegable)
+Objetivo: que lo que sirve para ser miembro de mesa no se mezcle con el contenido de los programas.
+- [ ] **12.1 Componente de menú desplegable** en la cabecera, accesible (botón con `aria-expanded`, se cierra con Esc, al tocar fuera y al elegir una opción; manejable con teclado) y pensado para móvil: como el menú de pestañas se desplaza en horizontal, el desplegable debe abrirse como panel flotante (`position: fixed`) para que no quede recortado.
+- [ ] **12.2 Botón "🗳️ Mesa electoral ▾"** con dos entradas: **"Resumen de la mesa"** (`#/mesa`) y **"Test de conceptos de la mesa"** (`#/test-mesa`). Quitar de la barra principal las pestañas sueltas "Mesa electoral" y "Test mesa" (las rutas se mantienen: no se rompe ningún enlace guardado).
+- [ ] **12.3 Separación visual y de contenido** — color/etiqueta propia para la sección de la mesa; el glosario de la mesa solo se aplica en las páginas de la mesa; en la portada, dos bloques claros: "Programas de los partidos" y "Si te toca estar en una mesa".
+- [ ] **12.4 Agrupar el resto del menú** — usar el mismo desplegable para agrupar las páginas de programas (p. ej. "Programas ▾": Partidos, Resúmenes por tema, Por concepto, Comparar, Anexo) y de tests ("Tests ▾": Test de conocimiento, ¿Con quién coincido?) cuando existan las fases 9-11.
+- [ ] **12.5 Pruebas y documentación** — probar a 360 px, modo oscuro y teclado; actualizar la lista de rutas en AGENTS.md §2.
+
+## Fase 13 — Conexión con NotebookLM (explorar)
 Objetivo: aprovechar el cuaderno de NotebookLM del proyecto (con los mismos PDFs) para compartir su material y, si es posible, preguntarle desde la web. *El enlace del cuaderno no se guarda en este repositorio (es público); se mantiene en privado.*
 
 Opciones, de la más fácil a la más difícil:
@@ -80,24 +128,12 @@ Opciones, de la más fácil a la más difícil:
 - [ ] **D. Alternativa propia a C** (medio-difícil): un chat "pregunta al programa" con nuestro propio texto (`extracted/`) usando la API de Claude a través de un servicio intermedio gratuito/barato (Cloudflare Workers o similar) que guarde la clave. Habría que definir límites de uso/coste, respuestas siempre con cita de página y enlace al PDF, y un aviso de que puede equivocarse.
 - [ ] **Decisión**: probar A (30 min) y B; dejar C/D solo si después del 29N sigue interesando (el valor mayor está antes de las elecciones).
 
-- [ ] Pendiente de revisión humana: algunos distractores de "¿Qué partido…?" se eligieron porque el resumen del otro partido no lo menciona (no porque lo rechace). Si un usuario detecta un fallo, corregir la pregunta.
-
-## Fase 9 — Transparencia y valoración de preguntas
-- [ ] **Aviso de transparencia en la página de inicio** (`#/`, función `renderInicio` en `assets/app.js`, usando las variables de color del tema): explicar que todo el contenido se ha generado con IA ("vibe coding") directamente a partir de los programas oficiales, sin revisión humana de cada dato; que la IA puede tener sus propios sesgos; que se ha intentado ser neutral; y que, por transparencia, las ideas del creador de la web probablemente se inclinan a la izquierda. Invitar a comprobar siempre el documento original (enlaces 📄).
-- [x] **Botones 👍 / 👎 en cada pregunta del test** — hecho con la opción 1 (navegador + exportar JSON + `tools/import_ratings.py`). (en `assets/quiz.js`, visibles tras corregir): marcar si la pregunta es buena o mala (confusa, errónea, mal citada), para revisarla en el futuro.
-  - Limitación: la web es estática (GitHub Pages) y no puede escribir en `data/questions/*.json`. Opciones para guardar las valoraciones:
-    1. Guardarlas en el navegador (`localStorage`) y añadir un botón "Exportar valoraciones" que descargue un JSON para revisarlo y volcarlo después en los datos (sencillo, sin servidor).
-    2. Que 👎 abra un *issue* de GitHub ya rellenado con el id de la pregunta (`https://github.com/DRBondyaleJuez/spanish-elections-2026-program-quizz-site/issues/new?title=...&body=...`): las valoraciones quedan en el repositorio, pero hace falta cuenta de GitHub.
-    3. Un servicio externo (formulario o base de datos tipo Google Forms / Supabase): recoge votos de cualquier visitante, pero añade dependencia y privacidad a revisar.
-  - Al revisar: añadir un campo opcional `"review": { "up": n, "down": n, "notes": "…" }` a la pregunta en `data/questions/<id>.json` (documentarlo en AGENTS.md §5 y aceptarlo en `tools/validate.py`).
-
 ## Extras hechos
 - [x] Modo oscuro con botón en la cabecera (recuerda tu elección; por defecto sigue el tema del móvil/PC).
 
 ## Ideas opcionales
 - Tarjetas de memoria (flashcards) y modo "repaso rápido de 5 min".
 - PWA (que funcione sin conexión desde el móvil).
-- "Brújula": responder a las afirmaciones de `positions.json` y ver con qué partido coincides más (con los mismos datos del comparador).
 
 ## Riesgos / decisiones
 - **PDF en el móvil**: Android/Chrome no muestra los PDF dentro del navegador e ignora `#page=N` (lo descarga). Solución si molesta: incluir el visor **PDF.js** (`viewer.html?file=…#page=N`).

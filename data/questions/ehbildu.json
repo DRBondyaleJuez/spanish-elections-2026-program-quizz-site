@@ -1,0 +1,2371 @@
+[
+  {
+    "id": "ehbildu-vivienda-001",
+    "doc": "ehbildu",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "EH Bildu propone establecer de forma estructural y permanente la prohibición de desahucios de personas y familias vulnerables que no tengan alternativa habitacional.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es una de sus medidas de vivienda: la prohibición sería permanente (no temporal) e iría acompañada de un mecanismo de compensación con financiación estatal.",
+    "tip": "Piensa en si la medida sería temporal o permanente.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 5,
+      "section": "1.1. Vivienda"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-vivienda-002",
+    "doc": "ehbildu",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "EH Bildu propone que la renta de los contratos de alquiler pueda subir como máximo un 5 % al año.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone fijar de forma estructural un máximo del 2 % de actualización anual de la renta, siempre que el IPC interanual supere ese porcentaje. El 5 % es una cifra inventada.",
+    "tip": "La cifra es bastante más baja de lo que muchos esperarían.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 5,
+      "section": "1.1. Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-vivienda-003",
+    "doc": "ehbildu",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "EH Bildu propone un IVA del 21 % para los alojamientos turísticos de corta duración.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo plantea tanto en el apartado de vivienda como en el de política fiscal. Es el tipo general del IVA, por tanto más alto que el que se aplica ahora a este tipo de alojamiento.",
+    "tip": "Es el tipo general del IVA en España.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 6,
+      "section": "1.1. Vivienda"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-economia-001",
+    "doc": "ehbildu",
+    "topic": "economia",
+    "type": "tf",
+    "question": "EH Bildu propone derogar la reforma del artículo 135 de la Constitución, que establece la prioridad del pago de la deuda sobre la inversión social y pública.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Según el programa, esa reforma la realizaron PP y PSOE. El programa la quiere derogar y revertir las reglas fiscales que frenan la inversión pública local.",
+    "tip": "El artículo fue reformado por los dos grandes partidos estatales.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 14,
+      "section": "1.8. Política fiscal"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-economia-002",
+    "doc": "ehbildu",
+    "topic": "economia",
+    "type": "tf",
+    "question": "EH Bildu propone que el impuesto a las energéticas, una vez recuperado, lo gestione y recaude directamente la Hacienda del Estado.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone concertarlo con las haciendas forales para que sean las instituciones vascas (y navarras) las que lo gestionen y recauden.",
+    "tip": "Fíjate en quién recaudaría según el sistema del Concierto Económico.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 14,
+      "section": "1.8. Política fiscal"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-economia-003",
+    "doc": "ehbildu",
+    "topic": "economia",
+    "type": "tf",
+    "question": "Para contener los precios, EH Bildu propone recuperar un mecanismo de intervención sobre el precio del gas usado para generar electricidad, tomando como referencia el llamado «tope al gas» ibérico.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El «tope al gas» o mecanismo ibérico limitó el precio del gas que se usa en las centrales eléctricas para abaratar la electricidad. El programa quiere recuperarlo en situaciones extraordinarias.",
+    "tip": "Es un mecanismo que ya se aplicó en la península ibérica.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 8,
+      "section": "1.4. Contención de precios y carestía de la vida"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-empleo-001",
+    "doc": "ehbildu",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "EH Bildu propone que la reducción de jornada se plantee con un plazo máximo de 10 años para las micro, pequeñas y medianas empresas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Para esas empresas propone una reducción inicial hasta 35 horas semanales y una senda progresiva con un plazo máximo de 3 años para alcanzar las 32 horas.",
+    "tip": "El plazo es mucho más corto que una década.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 6,
+      "section": "1.2. Empleo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-empleo-002",
+    "doc": "ehbildu",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "EH Bildu propone una indemnización por despido improcedente de al menos 45 días por año trabajado.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo justifica con la resolución del Comité Europeo de Derechos Sociales, que pide indemnizaciones «disuasorias y suficientes». También propone recuperar los salarios de tramitación.",
+    "tip": "Se cita un órgano europeo de derechos sociales como apoyo.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 6,
+      "section": "1.2. Empleo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-empleo-003",
+    "doc": "ehbildu",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "Según el programa, a falta de pacto colectivo el periodo de prueba máximo sería de 6 meses para todos los trabajadores.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone un máximo de 3 meses para el personal técnico titulado y un mes para el resto, y que la duración se fije por negociación colectiva.",
+    "tip": "Hay dos plazos distintos según el tipo de personal.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 7,
+      "section": "1.2. Empleo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-pensiones-001",
+    "doc": "ehbildu",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "EH Bildu rechaza cualquier aumento de la edad de jubilación y del periodo de cómputo de las pensiones.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Quiere blindar el carácter público del sistema y rechaza recortes, privatización, subida de la edad de jubilación y ampliación del periodo de cómputo (los años que se tienen en cuenta para calcular la pensión).",
+    "tip": "Es coherente con «blindar» el sistema público.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 7,
+      "section": "1.3. Pensiones"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-pensiones-002",
+    "doc": "ehbildu",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "EH Bildu propone un nuevo alza de las pensiones de viudedad y no contributivas de al menos un 5 %.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa habla de al menos un 15 % hasta alcanzar valores de suficiencia, porque las perciben en su mayoría mujeres con ingresos precarios.",
+    "tip": "El porcentaje es de dos cifras.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 8,
+      "section": "1.3. Pensiones"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-sanidad-001",
+    "doc": "ehbildu",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "EH Bildu propone transitoriamente reservar un 53 % de las plazas MIR, EIR y PIR para profesionales que dominen las dos lenguas oficiales del País Vasco.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo plantea de forma transitoria, mientras no se transfiera la competencia de formación especializada. MIR, EIR y PIR son las vías de acceso a la formación sanitaria especializada (médicos, enfermeras y psicólogos).",
+    "tip": "Es una medida transitoria ligada a las lenguas oficiales.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 10,
+      "section": "1.5.1 Salud, derechos colectivos y bienestar comunitario"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-sanidad-002",
+    "doc": "ehbildu",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "EH Bildu propone ampliar la Ley 15/1997, que permite nuevas formas de gestión y externalización de servicios sanitarios.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone lo contrario: derogar esa ley, aprobada por el PP, porque permite la privatización y externalización de los servicios sanitarios.",
+    "tip": "El programa critica quién la aprobó y para qué sirve.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 11,
+      "section": "1.5.1 Salud, derechos colectivos y bienestar comunitario"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-educacion-001",
+    "doc": "ehbildu",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "EH Bildu propone aumentar la financiación educativa acercándose progresivamente al 6 % de inversión que define la UNESCO.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La UNESCO recomienda destinar al menos un 6 % del PIB a educación. El programa propone acercarse a esa cifra de forma gradual.",
+    "tip": "Se menciona un organismo internacional de la ONU.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 12,
+      "section": "1.5.2 Educación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-igualdad-001",
+    "doc": "ehbildu",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "EH Bildu propone medidas de protección en torno a los centros sanitarios que practican abortos, como perímetros de protección y recogida de datos sobre coacciones o acoso.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Busca proteger a las mujeres frente al acoso en el acceso al aborto. Los perímetros de protección son zonas alrededor del centro donde se limita la presencia de grupos que presionan a las usuarias.",
+    "tip": "Se trata de proteger el acceso, no de restringirlo.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 19,
+      "section": "1.10. Feminismo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-igualdad-002",
+    "doc": "ehbildu",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "EH Bildu propone equiparar el permiso de lactancia solo para trabajadoras por cuenta ajena, sin incluir a las autónomas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone equiparar el permiso retribuido de lactancia tanto para trabajadores y trabajadoras por cuenta ajena como para autónomos y autónomas.",
+    "tip": "El programa busca igualar a ambos colectivos.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 14,
+      "section": "1.7. Familias e infancia"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-inmigracion-001",
+    "doc": "ehbildu",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "EH Bildu propone rechazar los CIE (Centros de Internamiento de Extranjeros), las devoluciones sumarias y la externalización de fronteras.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Los CIE son centros donde se retiene a personas extranjeras en situación irregular. El programa propone garantizar procedimientos individuales con todas las garantías jurídicas.",
+    "tip": "Va en la línea de un enfoque de derechos humanos.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 20,
+      "section": "1.11. Migración"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-inmigracion-002",
+    "doc": "ehbildu",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "EH Bildu propone aceptar íntegramente el Pacto Europeo sobre Migración y Asilo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone rechazar las disposiciones restrictivas de ese Pacto, además de las devoluciones sumarias, la externalización de fronteras y los CIE.",
+    "tip": "El programa se muestra crítico con el Pacto.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 20,
+      "section": "1.11. Migración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-medioambiente-001",
+    "doc": "ehbildu",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "EH Bildu propone revisar al alza el PNIEC para adelantar la descarbonización, al menos, a 2045.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PNIEC es el Plan Nacional Integrado de Energía y Clima. Descarbonizar significa dejar de emitir CO2 por el uso de combustibles fósiles.",
+    "tip": "El año es anterior a 2050.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 15,
+      "section": "1.9.1 Energía y clima"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-medioambiente-002",
+    "doc": "ehbildu",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "EH Bildu propone retrasar el calendario de cierre nuclear definido en el PNIEC.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Apuesta por mantener el calendario de cierre nuclear definido en el PNIEC.",
+    "tip": "Piensa en si quiere mantener o cambiar el calendario.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 15,
+      "section": "1.9.1 Energía y clima"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-medioambiente-003",
+    "doc": "ehbildu",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "EH Bildu propone mantener las mismas ayudas para híbridos que para vehículos eléctricos puros.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone reorientar las ayudas con criterios de renta y leasing social para eléctricos puros (BEV) en hogares vulnerables, eliminando las subvenciones a los híbridos.",
+    "tip": "Una de las dos tecnologías quedaría fuera de las ayudas.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 17,
+      "section": "1.9.4 Movilidad y transporte"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-rural-001",
+    "doc": "ehbildu",
+    "topic": "rural",
+    "type": "tf",
+    "question": "EH Bildu propone avanzar hacia la renacionalización y territorialización de la Política Agraria Común (PAC).",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Quiere más capacidad de gestión y decisión sobre la PAC para que Euskal Herria diseñe una política agraria propia dentro del marco europeo.",
+    "tip": "Habla de acercar la decisión al territorio.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 16,
+      "section": "1.9.3 Primer sector, medio rural y territorio"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-rural-002",
+    "doc": "ehbildu",
+    "topic": "rural",
+    "type": "tf",
+    "question": "EH Bildu propone suprimir la Ley de la Cadena Alimentaria para liberalizar los precios en origen.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone lo contrario: desarrollar toda la potencialidad de esa ley y reforzar la inspección y el control para garantizar precios justos en origen.",
+    "tip": "El programa pide reforzar, no eliminar.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 17,
+      "section": "1.9.3 Primer sector, medio rural y territorio"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-territorio-001",
+    "doc": "ehbildu",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "EH Bildu exige la transferencia de todas las competencias del Estatuto Vasco y del Amejoramiento Navarro que siguen pendientes tras más de 40 años.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es la primera de sus exigencias en materia de autogobierno. El Amejoramiento es la norma que regula el régimen foral de Navarra.",
+    "tip": "Se alude a un periodo de más de cuatro décadas.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 24,
+      "section": "2.2. Autogobierno"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-territorio-002",
+    "doc": "ehbildu",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "EH Bildu propone mantener sin cambios el actual método de cálculo del Cupo y la Aportación.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone acordar un nuevo modelo de negociación y cálculo del Cupo y la Aportación, porque considera que el actual perjudica a la sociedad vasca.",
+    "tip": "El programa califica la situación actual de desigual.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 24,
+      "section": "2.3. Concierto Económico Vasco y Convenio Económico Navarro"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-instituciones-001",
+    "doc": "ehbildu",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "EH Bildu propone despenalizar los artículos del código penal sobre el enaltecimiento del terrorismo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Argumenta que permiten una interpretación tan amplia que criminaliza expresiones artísticas, humorísticas o de crítica política. También propone despenalizar las críticas a la corona y a las instituciones.",
+    "tip": "Se enmarca en su apartado de libertad de expresión.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 22,
+      "section": "1.13. Libertad de expresión"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-instituciones-002",
+    "doc": "ehbildu",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "En su propuesta contra la Ley Mordaza, EH Bildu plantea que la desobediencia pase de infracción leve a grave.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El acuerdo que cita plantea lo contrario: la desobediencia pasa de grave a leve y solo es sancionable cuando el requerimiento se ajuste a la legalidad.",
+    "tip": "El cambio busca reducir la sanción, no aumentarla.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 22,
+      "section": "1.13. Libertad de expresión"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-exterior-001",
+    "doc": "ehbildu",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "EH Bildu propone aumentar el gasto en defensa en la línea que exige la OTAN.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone rechazar el aumento del gasto en defensa que exige la OTAN, además del envío de armas y su financiación.",
+    "tip": "El programa es contrario a la OTAN.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 28,
+      "section": "3.2. Paz"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-exterior-002",
+    "doc": "ehbildu",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "EH Bildu propone romper el Tratado de Amistad de la UE con Israel y endurecer el embargo de armas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo plantea dentro de las medidas de aislamiento económico y político de Israel. Pide además un embargo que bloquee por completo la venta de armas.",
+    "tip": "Habla de aislamiento económico y político.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 29,
+      "section": "3.2.7 Frente al genocidio y la ocupación, libertad para Palestina"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-cultura-001",
+    "doc": "ehbildu",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "EH Bildu propone que un mínimo del 25 % del Fondo de Protección de la Cinematografía se destine a proyectos en lenguas oficiales distintas al castellano.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La cifra que propone es un mínimo del 15 % del presupuesto de ese Fondo.",
+    "tip": "La cifra es menor de lo que dice la frase.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 25,
+      "section": "2.5. Cultura y producción audiovisual"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-vivienda-004",
+    "doc": "ehbildu",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué tipo de contratos de alquiler propone establecer EH Bildu para dar estabilidad a inquilinos y pequeños propietarios?",
+    "options": [
+      "Contratos de duración fija de un año sin prórroga",
+      "Contratos ordinarios con prórroga automática",
+      "Contratos de temporada con renta libre",
+      "Contratos con renta ligada al precio de compra del inmueble"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone contratos de arrendamiento ordinarios con prórroga automática, para dar seguridad tanto a inquilinas e inquilinos como a pequeños propietarios.",
+    "tip": "La palabra clave es «automática».",
+    "source": {
+      "doc": "ehbildu",
+      "page": 5,
+      "section": "1.1. Vivienda"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-vivienda-005",
+    "doc": "ehbildu",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué condición propone EH Bildu para que un extranjero multipropietario pueda comprar una vivienda?",
+    "options": [
+      "Pagar un impuesto extra del 30 %",
+      "Estar empadronado en el municipio al menos los 2 años previos",
+      "Haber trabajado 10 años en España",
+      "Comprar solo en zonas no tensionadas"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Condiciona la compra a la inscripción en el padrón municipal durante al menos los 2 años previos. El inmueble debería ser vivienda habitual o dedicarse a alquiler regulado.",
+    "tip": "Tiene que ver con el padrón municipal.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 5,
+      "section": "1.1. Vivienda"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-vivienda-006",
+    "doc": "ehbildu",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué propone EH Bildu respecto a las SOCIMIs?",
+    "options": [
+      "Mantenerlas sin cambios",
+      "Reducirles el impuesto de sociedades",
+      "Eliminarlas como figura promotora de vivienda",
+      "Limitarlas a viviendas turísticas"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Las SOCIMIs son sociedades cotizadas de inversión inmobiliaria con ventajas fiscales. El programa quiere eliminar esa figura como promotora de vivienda por considerar que concentra capital especulativo y encarece los precios.",
+    "tip": "El verbo que emplea es radical.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 6,
+      "section": "1.1. Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-empleo-004",
+    "doc": "ehbildu",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué horas semanales propone EH Bildu como reducción inicial para micro, pequeñas y medianas empresas?",
+    "options": [
+      "30 horas",
+      "35 horas",
+      "37,5 horas",
+      "40 horas"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El objetivo general es 32 horas semanales (o jornada de 4 días) sin reducción salarial. Para las pymes propone empezar en 35 horas y llegar al objetivo en un máximo de 3 años.",
+    "tip": "Es una cifra intermedia entre 32 y 40.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 6,
+      "section": "1.2. Empleo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-empleo-005",
+    "doc": "ehbildu",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué referencia propone fijar por ley EH Bildu como parámetro de suficiencia del salario mínimo?",
+    "options": [
+      "La Carta Social Europea",
+      "La media de la OCDE",
+      "El PIB per cápita autonómico",
+      "El IPC del año anterior"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone además que las comunidades autónomas puedan fijar su propio SMI (Salario Mínimo Interprofesional), con el SMI estatal como mínimo legal indisponible.",
+    "tip": "Es un texto europeo sobre derechos sociales.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 6,
+      "section": "1.2. Empleo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-empleo-006",
+    "doc": "ehbildu",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué propone EH Bildu sobre la Inspección de Trabajo?",
+    "options": [
+      "Reducirla y externalizarla",
+      "Transferir por completo la competencia a las instituciones vascas y navarras",
+      "Fusionarla con la Seguridad Social",
+      "Sustituirla por inspecciones privadas"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone la transferencia completa de la competencia, incluida la convocatoria de plazas. Mientras tanto, pide ampliar plantillas con convocatorias del Ministerio.",
+    "tip": "Se encuadra en su política de autogobierno.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 7,
+      "section": "1.2. Empleo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-pensiones-003",
+    "doc": "ehbildu",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Hasta qué cuantía mínima propone EH Bildu aumentar las pensiones mínimas, con actualización acorde al SMI?",
+    "options": [
+      "Al menos 1.000 euros",
+      "Al menos 1.220 euros",
+      "Al menos 1.500 euros",
+      "Al menos 1.800 euros"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Lo plantea como exige el movimiento de pensionistas, vinculando la cuantía y su actualización al SMI.",
+    "tip": "Pasa algo más de los mil euros.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 8,
+      "section": "1.3. Pensiones"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-pensiones-004",
+    "doc": "ehbildu",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Cuántos años de cotización exige la ley que EH Bildu quiere culminar para reconocer la pensión sin penalización?",
+    "options": [
+      "25 años",
+      "35 años",
+      "40 años",
+      "45 años"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Se refiere a la ley que reconoce el derecho a pensión sin penalización de las personas con al menos 40 años de cotización, es decir, sin recorte por jubilarse antes.",
+    "tip": "Es un número redondo de cuatro décadas.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 8,
+      "section": "1.3. Pensiones"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-economia-004",
+    "doc": "ehbildu",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿En qué sectores propone EH Bildu un mecanismo de intervención extraordinaria sobre los márgenes de las grandes empresas?",
+    "options": [
+      "Banca y seguros",
+      "Energético y alimentario",
+      "Turismo y construcción",
+      "Telecomunicaciones y farmacéutico"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Obligaría a esas empresas a absorber parte de los incrementos de costes con sus márgenes en situaciones de emergencia. El margen es la diferencia entre el coste y el precio de venta.",
+    "tip": "Son dos sectores esenciales para el día a día.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 8,
+      "section": "1.4. Contención de precios y carestía de la vida"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-economia-005",
+    "doc": "ehbildu",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué es la «reduflación», práctica que EH Bildu propone combatir?",
+    "options": [
+      "Bajar el IVA de los productos básicos",
+      "Reducir el contenido o tamaño de un producto manteniendo o subiendo su precio",
+      "Congelar los precios por decreto",
+      "Aplicar descuentos solo a los pensionistas"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es una forma encubierta de subir precios: el producto trae menos cantidad pero cuesta lo mismo. El programa la cita junto a otras modificaciones encubiertas de precios.",
+    "tip": "Es una combinación de «reducir» e «inflación».",
+    "source": {
+      "doc": "ehbildu",
+      "page": 9,
+      "section": "1.4. Contención de precios y carestía de la vida"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-economia-006",
+    "doc": "ehbildu",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué nuevo impuesto especial propone aprobar EH Bildu y concertar con las haciendas forales?",
+    "options": [
+      "Uno sobre los beneficios de las grandes distribuidoras alimentarias",
+      "Uno sobre las herencias superiores a un millón",
+      "Uno sobre las criptomonedas",
+      "Uno sobre las transacciones bursátiles"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lo plantea en política fiscal, junto con recuperar el impuesto a las energéticas y aumentar el peso del impuesto a la banca y las grandes fortunas.",
+    "tip": "Tiene que ver con lo que pagamos en el supermercado.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 14,
+      "section": "1.8. Política fiscal"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-sanidad-003",
+    "doc": "ehbildu",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué prestaciones propone EH Bildu incorporar a la cartera común básica del sistema de salud?",
+    "options": [
+      "Cirugía estética y fertilidad",
+      "Salud bucodental y productos ópticos y salud visual",
+      "Medicina alternativa y homeopatía",
+      "Odontología y cirugía bariátrica para todas las personas"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La cartera común básica es el conjunto de prestaciones que garantiza el sistema nacional de salud. Pide ampliarla para colectivos desatendidos o vulnerables.",
+    "tip": "Se refiere a dientes y vista.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 10,
+      "section": "1.5.1 Salud, derechos colectivos y bienestar comunitario"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-sanidad-004",
+    "doc": "ehbildu",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Con qué objetivo propone EH Bildu avanzar hacia una Farmacia Pública junto a las comunidades autónomas?",
+    "options": [
+      "Cerrar las farmacias privadas",
+      "Fomentar la autogestión de materiales básicos, medicamentos esenciales de la OMS y fármacos con rotura de stock",
+      "Fijar precios únicos para todos los fármacos",
+      "Sustituir los medicamentos por genéricos obligatoriamente"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La rotura de stock es la falta de existencias de un medicamento. La Farmacia Pública serviría para garantizar el suministro de los productos básicos.",
+    "tip": "Se centra en los productos más necesarios y en los que escasean.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 11,
+      "section": "1.5.1 Salud, derechos colectivos y bienestar comunitario"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-sanidad-005",
+    "doc": "ehbildu",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué cambio propone EH Bildu en la ley de la eutanasia (Ley Orgánica 3/2021)?",
+    "options": [
+      "Limitarla solo a enfermedades terminales físicas",
+      "Que abarque por igual el sufrimiento físico y el psíquico y blindar el derecho frente a la intromisión judicial de terceros",
+      "Derogarla y sustituirla por cuidados paliativos",
+      "Exigir una autorización judicial previa"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Quiere que la solicitud sea un acto de estricta intimidad personal y de autodeterminación, sin interferencias judiciales de terceros.",
+    "tip": "El objetivo es ampliar y blindar el derecho.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 10,
+      "section": "1.5.1 Salud, derechos colectivos y bienestar comunitario"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-educacion-002",
+    "doc": "ehbildu",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Qué oportunidad ve EH Bildu en la bajada de la natalidad en el ámbito educativo?",
+    "options": [
+      "Cerrar centros con pocos alumnos",
+      "Bajar las ratios para mejorar la atención personalizada, sobre todo del alumnado vulnerable",
+      "Reducir el número de docentes",
+      "Aumentar las horas lectivas"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Las ratios son el número de alumnos por aula. El programa propone aprovechar que hay menos alumnos para reforzar la atención y la educación inclusiva.",
+    "tip": "Pasa de ver un problema a ver una oportunidad.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 11,
+      "section": "1.5.2 Educación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-otros-001",
+    "doc": "ehbildu",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué propone EH Bildu sobre el copago en la ley de dependencia?",
+    "options": [
+      "Eliminar la ley",
+      "Excluir el copago de los cuidados personales y que las familias solo paguen el hospedaje y la manutención",
+      "Aumentar el copago para rentas altas",
+      "Extender el copago a los cuidados temporales"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El copago es la parte del coste que paga el usuario. El programa busca avanzar hacia la gratuidad del sistema de cuidados.",
+    "tip": "Se quiere que quede solo lo relativo al alojamiento y la comida.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 12,
+      "section": "1.5.3 Cuidados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-otros-002",
+    "doc": "ehbildu",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué propone EH Bildu sobre el IPREM?",
+    "options": [
+      "Congelarlo hasta 2030",
+      "Aumentarlo en función del IPC con un aumento extraordinario para compensar la pérdida de valor",
+      "Sustituirlo por el SMI",
+      "Eliminarlo"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El IPREM es el indicador público de renta que sirve de referencia para prestaciones, subsidios y ayudas. Su pérdida de valor reduce esas cuantías.",
+    "tip": "Quiere que recupere poder adquisitivo.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 13,
+      "section": "1.6. Escudo social"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-igualdad-003",
+    "doc": "ehbildu",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Qué nuevo permiso propone crear EH Bildu para proteger los derechos reproductivos y la primera infancia?",
+    "options": [
+      "Un permiso de paternidad de 6 meses solo para padres",
+      "Un permiso de maternidad preparto y otro puerperal, universales y retribuidos",
+      "Un permiso no retribuido de un año",
+      "Un permiso para abuelos"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El permiso preparto es anterior al parto y el puerperal es el que sigue inmediatamente al nacimiento. Ambos serían universales y retribuidos.",
+    "tip": "Hay dos permisos, uno antes y otro después del parto.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 14,
+      "section": "1.7. Familias e infancia"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-medioambiente-004",
+    "doc": "ehbildu",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué exención fiscal propone eliminar EH Bildu dentro del fin de las subvenciones a los combustibles fósiles?",
+    "options": [
+      "La exención al queroseno de aviación",
+      "La exención del IVA a los alimentos básicos",
+      "La exención de peajes",
+      "La exención del impuesto de matriculación"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "También propone equiparar el impuesto especial de hidrocarburos. El queroseno es el combustible de los aviones.",
+    "tip": "Se vincula con los vuelos.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 18,
+      "section": "1.9.6 Fiscalidad y financiación de la transición ecosocial."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-medioambiente-005",
+    "doc": "ehbildu",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "En su modelo ferroviario «una plataforma, tres servicios», ¿qué velocidad propone para el servicio de media y larga distancia?",
+    "options": [
+      "120 km/h",
+      "200 km/h",
+      "250 km/h",
+      "350 km/h"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El modelo combina servicio de velocidad alta, cercanías de calidad y transporte de mercancías sobre la misma vía renovada, como alternativa a la Alta Velocidad en ciertos corredores.",
+    "tip": "Es una velocidad alta, pero lejos de la del AVE.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 17,
+      "section": "1.9.4 Movilidad y transporte"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-medioambiente-006",
+    "doc": "ehbildu",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Hasta qué porcentaje de subvención puede llegar la rehabilitación energética profunda de viviendas para las personas más vulnerables?",
+    "options": [
+      "50 %",
+      "75 %",
+      "90 %",
+      "100 %"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Propone financiación anticipada y subvenciones progresivas según renta. La rehabilitación energética profunda mejora el aislamiento y reduce el consumo.",
+    "tip": "Para los más vulnerables sería el máximo posible.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 18,
+      "section": "1.9.5 Rehabilitación energética y edificación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-rural-003",
+    "doc": "ehbildu",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué propone EH Bildu respecto a la Política Pesquera Común?",
+    "options": [
+      "Abandonarla",
+      "Una mayor descentralización y regionalización para poder desarrollar una política pesquera propia dentro del marco europeo",
+      "Aumentar las cuotas de pesca industrial",
+      "Centralizarla en Bruselas"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La Política Pesquera Común es la normativa europea de pesca. El programa pide más capacidad de decisión para las comunidades y regiones pesqueras.",
+    "tip": "Se trata de acercar las decisiones a la costa.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 17,
+      "section": "1.9.3 Primer sector, medio rural y territorio"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-territorio-003",
+    "doc": "ehbildu",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué entiende EH Bildu por «Régimen del 78»?",
+    "options": [
+      "El actual sistema fiscal",
+      "La arquitectura política, institucional y social heredada de la transición, que considera antidemocrática",
+      "El sistema electoral",
+      "La Constitución de 1812"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa sostiene que la transición no rompió con el franquismo y mantuvo la unidad de España, la negación de naciones como Euskal Herria y el modelo neoliberal. A todo ello lo llama Régimen del 78.",
+    "tip": "Hace referencia al año de la Constitución.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 23,
+      "section": "2. Reconocimiento de Euskal Herria como nación y autogobierno"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-instituciones-003",
+    "doc": "ehbildu",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Qué propone EH Bildu respecto a la Ley de Secretos Oficiales?",
+    "options": [
+      "Ampliarla",
+      "Derogarla, porque está en vigor desde el franquismo",
+      "Mantenerla sin cambios",
+      "Transferirla a las comunidades autónomas"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Quiere una legislación que garantice la transparencia y la información sobre episodios como la muerte de Mikel Zabalza y Germán Rodríguez o la masacre del 3 de Marzo de Gasteiz.",
+    "tip": "El programa critica su origen.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 27,
+      "section": "3.1. Convivencia y Memoria Democrática"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-instituciones-004",
+    "doc": "ehbildu",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Qué propone EH Bildu al reformar la Ley de Publicidad y Comunicación Institucional?",
+    "options": [
+      "Más publicidad institucional",
+      "Impedir la financiación pública de prácticas acreditadas de desinformación y repartir los recursos de forma transparente y no discriminatoria",
+      "Prohibir toda publicidad institucional",
+      "Dar prioridad a los medios estatales"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Busca que el dinero público garantice información veraz y plural, protegiendo el pluralismo mediático, incluidos los medios en euskara, catalán y gallego.",
+    "tip": "Se vincula con información veraz y plural.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 22,
+      "section": "1.13. Libertad de expresión"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-exterior-003",
+    "doc": "ehbildu",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Qué significa «seguridad indivisible», principio que EH Bildu quiere reivindicar de forma central?",
+    "options": [
+      "Que cada país se defiende solo",
+      "Que la seguridad en Europa no puede construirse en detrimento de la de otros",
+      "Que la OTAN actúe como único garante",
+      "Que la seguridad es competencia exclusiva de la UE"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es un principio asociado a la OSCE y los Acuerdos de Helsinki. El programa lo usa para defender un proyecto europeo de seguridad basado en el diálogo y no dependiente de EEUU.",
+    "tip": "Nadie debería ganar seguridad a costa de otros.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 28,
+      "section": "3.2.3 Seguridad europea, seguridad indivisible"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-exterior-004",
+    "doc": "ehbildu",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Qué propone EH Bildu respecto al Sáhara Occidental?",
+    "options": [
+      "Respaldar la posición actual del Gobierno español",
+      "Revertir el cambio de posicionamiento del Gobierno y recuperar el apoyo al derecho de autodeterminación del pueblo saharaui",
+      "Reconocer la soberanía de Marruecos",
+      "Mantener una posición neutral"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El cambio al que se refiere es el giro del Gobierno español en 2022 hacia el plan de autonomía marroquí. El programa también rechaza la política de ocupación de Marruecos.",
+    "tip": "Quiere deshacer un cambio reciente.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 29,
+      "section": "3.2.8 En defensa del pueblo saharaui y su derecho a la autodeterminación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-cultura-002",
+    "doc": "ehbildu",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿Qué medida de protección de menores en entornos digitales propone EH Bildu?",
+    "options": [
+      "Prohibir las redes sociales a menores",
+      "Desactivar por defecto la recomendación algorítmica basada en perfiles para menores",
+      "Obligar a verificar la identidad con DNI",
+      "Limitar la conexión a una hora diaria por ley"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La recomendación algorítmica basada en perfiles es la que selecciona contenido según los gustos del usuario. También menciona opciones de diseño ético como límites de tiempo y notificaciones no adictivas.",
+    "tip": "Se refiere a lo que se recomienda automáticamente.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 21,
+      "section": "1.12. Inteligencia artificial y digitalización"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-cultura-003",
+    "doc": "ehbildu",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿Qué objetivo europeo en materia de lenguas defiende EH Bildu?",
+    "options": [
+      "Que el inglés sea la única lengua de trabajo",
+      "La oficialidad del euskera, el catalán y el gallego en la Unión Europea",
+      "Que solo sean oficiales las lenguas estatales",
+      "Crear una lengua común europea"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa quiere que estas lenguas convivan en igualdad de condiciones con el resto de las lenguas de Europa.",
+    "tip": "Son tres lenguas cooficiales en España.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 25,
+      "section": "2.4. Euskera"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-vivienda-007",
+    "doc": "ehbildu",
+    "topic": "vivienda",
+    "type": "multi",
+    "question": "Marca todas las medidas de vivienda que propone EH Bildu.",
+    "options": [
+      "Prohibir la compra especulativa de viviendas por fondos de inversión y grandes tenedores",
+      "IVA del 21 % para alojamientos turísticos de corta duración",
+      "Mantener las ventajas fiscales de las SOCIMIs",
+      "Deducción fiscal cuando se suba la renta respecto al contrato anterior"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "explanation": "Propone prohibir la compra especulativa y el IVA del 21 % turístico. Quiere eliminar las SOCIMIs y suprimir cualquier deducción fiscal cuando la renta suba respecto al contrato anterior.",
+    "tip": "Dos de ellas restringen ventajas a la especulación.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 5,
+      "section": "1.1. Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-empleo-007",
+    "doc": "ehbildu",
+    "topic": "empleo",
+    "type": "multi",
+    "question": "Marca todas las medidas laborales que propone EH Bildu.",
+    "options": [
+      "Registro horario digital obligatorio accesible a la Inspección de Trabajo",
+      "Recuperar la autorización previa de la autoridad laboral en los ERE",
+      "Que el SMI sea único para toda España sin posibilidad autonómica",
+      "Abaratar el despido improcedente"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "explanation": "El ERE es el Expediente de Regulación de Empleo. El programa propone que las CCAA puedan fijar su SMI, y quiere indemnizaciones de al menos 45 días.",
+    "tip": "Una pretende proteger el empleo en los despidos colectivos.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 6,
+      "section": "1.2. Empleo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-pensiones-005",
+    "doc": "ehbildu",
+    "topic": "pensiones",
+    "type": "multi",
+    "question": "Marca las medidas de pensiones que propone EH Bildu.",
+    "options": [
+      "Mantener y blindar la revalorización anual con el IPC",
+      "Rechazar cualquier aumento de la edad de jubilación",
+      "Ampliar el periodo de cómputo",
+      "Fomentar los planes privados de pensiones"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "explanation": "Quiere blindar el carácter público del sistema y rechaza recortes, privatización, subida de la edad de jubilación y ampliación del periodo de cómputo.",
+    "tip": "Las incorrectas van en contra de «blindar» el sistema público.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 7,
+      "section": "1.3. Pensiones"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-economia-007",
+    "doc": "ehbildu",
+    "topic": "economia",
+    "type": "multi",
+    "question": "Marca las medidas de contención de precios que propone EH Bildu.",
+    "options": [
+      "Límites temporales a los precios de bienes esenciales ante emergencias",
+      "Reformar el mercado eléctrico europeo para superar el modelo marginalista",
+      "Recuperar el mecanismo de intervención del precio del gas",
+      "Liberalizar los precios de los alimentos"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El modelo marginalista fija el precio de toda la electricidad según la tecnología más cara en cada hora. El programa quiere reformarlo para que el coste menor de las renovables llegue a los consumidores.",
+    "tip": "Tres de ellas son intervenciones públicas sobre los precios.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 8,
+      "section": "1.4. Contención de precios y carestía de la vida"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-economia-008",
+    "doc": "ehbildu",
+    "topic": "economia",
+    "type": "multi",
+    "question": "Marca las propuestas fiscales que recoge EH Bildu.",
+    "options": [
+      "Aumentar el peso del impuesto a la banca y las grandes fortunas",
+      "Recuperar de forma permanente el impuesto a las energéticas",
+      "Nuevo impuesto especial a los beneficios de las grandes distribuidoras alimentarias",
+      "Bajar el impuesto de sociedades a las grandes empresas"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Quiere que las grandes empresas aporten más. Varias de estas figuras se concertarían con las haciendas forales para su gestión y recaudación.",
+    "tip": "Solo una va contra su idea de que paguen más las grandes empresas.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 14,
+      "section": "1.8. Política fiscal"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-sanidad-006",
+    "doc": "ehbildu",
+    "topic": "sanidad",
+    "type": "multi",
+    "question": "Marca las medidas que EH Bildu propone en sanidad para la ciudadanía.",
+    "options": [
+      "Gratuidad de productos de higiene menstrual mediante distribución farmacéutica",
+      "Dispensación farmacéutica gratuita de preservativos y kits de detección de ITS",
+      "Regular la publicidad de ultraprocesados y bebidas azucaradas y energéticas dirigidas a menores",
+      "Introducir un copago universal en la sanidad"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "ITS significa infecciones de transmisión sexual. El programa añade el IVA superreducido a los productos de higiene menstrual.",
+    "tip": "Una opción iría en contra de ampliar prestaciones.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 10,
+      "section": "1.5.1 Salud, derechos colectivos y bienestar comunitario"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-sanidad-007",
+    "doc": "ehbildu",
+    "topic": "sanidad",
+    "type": "multi",
+    "question": "Marca las profesiones que EH Bildu propone reconocer como sanitarias al modificar la Ley 44/2003.",
+    "options": [
+      "Biología",
+      "Trabajo social",
+      "Psicología",
+      "Sociología",
+      "Antropología"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "También propone reconocer las ciencias de la actividad física y del deporte. La ley de ordenación de las profesiones sanitarias define qué titulaciones son profesiones sanitarias.",
+    "tip": "Dos de las opciones pertenecen a las ciencias sociales pero no figuran.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 11,
+      "section": "1.5.1 Salud, derechos colectivos y bienestar comunitario"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-igualdad-004",
+    "doc": "ehbildu",
+    "topic": "igualdad",
+    "type": "multi",
+    "question": "Marca las medidas de EH Bildu sobre el derecho al aborto.",
+    "options": [
+      "Garantizar el acceso libre, seguro, confidencial y digno",
+      "Perímetros de protección en torno a los centros que practican interrupciones voluntarias del embarazo",
+      "Recogida de datos sobre posibles coacciones, acoso o intimidaciones",
+      "Ampliar la objeción de conciencia del personal sanitario"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Propone blindar el derecho y protegerlo del acoso. Una opción iría en sentido contrario.",
+    "tip": "Tres medidas protegen el acceso.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 19,
+      "section": "1.10. Feminismo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-igualdad-005",
+    "doc": "ehbildu",
+    "topic": "igualdad",
+    "type": "multi",
+    "question": "Marca las medidas LGTBIQ+ que propone EH Bildu.",
+    "options": [
+      "Prohibir las terapias de conversión",
+      "Reforzar la investigación de los delitos de odio, sobre todo en redes sociales",
+      "Reforzar campañas de prevención de ITS y VIH en el ámbito educativo y de ocio",
+      "Endurecer los requisitos del cambio registral de sexo"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Declara que no aceptará retrocesos, en especial en la despatologización de las personas trans.",
+    "tip": "Una opción supondría un retroceso respecto a lo que defiende.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 19,
+      "section": "1.10.1 LGTBIQ+"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-inmigracion-003",
+    "doc": "ehbildu",
+    "topic": "inmigracion",
+    "type": "multi",
+    "question": "Marca las propuestas de EH Bildu en materia de migración.",
+    "options": [
+      "Rechazar los CIE",
+      "Ampliar el derecho al voto y la representación política de residentes de origen extranjero",
+      "Garantizar acceso efectivo al padrón independientemente de la situación administrativa",
+      "Externalizar el control de fronteras"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Propone una regularización efectiva y una nueva Ley de Extranjería basada en derechos humanos.",
+    "tip": "La cuarta es una política que el programa rechaza.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 20,
+      "section": "1.11. Migración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-medioambiente-007",
+    "doc": "ehbildu",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "Marca las propuestas de energía y clima de EH Bildu.",
+    "options": [
+      "Facilitar el autoconsumo y las comunidades energéticas",
+      "Objetivos de electrificación vinculantes",
+      "Mantener el calendario de cierre nuclear del PNIEC",
+      "Prolongar la vida útil de las centrales nucleares"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Las comunidades energéticas son grupos de ciudadanos que producen y consumen energía de forma colectiva.",
+    "tip": "Una va contra el cierre previsto de las nucleares.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 15,
+      "section": "1.9.1 Energía y clima"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-medioambiente-008",
+    "doc": "ehbildu",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "Marca las medidas fiscales sobre transporte aéreo y energía que propone EH Bildu.",
+    "options": [
+      "Gravamen especial a los vuelos privados",
+      "Tasa finalista a los billetes de avión para promover combustibles alternativos como el e-SAF",
+      "Equiparar el impuesto especial de hidrocarburos",
+      "Mantener la exención al queroseno de aviación"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El e-SAF es un combustible de aviación sostenible sintético. «Finalista» significa que lo recaudado se destina a un fin concreto.",
+    "tip": "Una de ellas mantendría una ventaja a los combustibles fósiles.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 18,
+      "section": "1.9.6 Fiscalidad y financiación de la transición ecosocial."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-rural-004",
+    "doc": "ehbildu",
+    "topic": "rural",
+    "type": "multi",
+    "question": "Marca las propuestas de EH Bildu para el sector primario y la alimentación.",
+    "options": [
+      "Compra pública alimentaria de proximidad en comedores escolares, hospitales y residencias",
+      "Impulsar la Seguridad Social Alimentaria",
+      "Expandir la agricultura y ganadería ecológica con el sello ECOREGENERATIVA",
+      "Suprimir el Observatorio de la Cadena Alimentaria"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Quiere desarrollar el Observatorio de la Cadena Alimentaria para seguir precios y márgenes.",
+    "tip": "Una opción iría contra lo que el programa quiere desarrollar.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 17,
+      "section": "1.9.3 Primer sector, medio rural y territorio"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-territorio-004",
+    "doc": "ehbildu",
+    "topic": "territorio",
+    "type": "multi",
+    "question": "Marca las competencias que EH Bildu propone asumir como nuevas, según el apartado de autogobierno.",
+    "options": [
+      "Seguridad Social",
+      "Energía",
+      "Puertos y aeropuertos",
+      "Defensa",
+      "Política exterior"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "También incluye migración, protección social y desempleo y el Marco Vasco y Navarro de Relaciones Laborales.",
+    "tip": "Defensa y política exterior no figuran en la lista.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 24,
+      "section": "2.2. Autogobierno"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-exterior-005",
+    "doc": "ehbildu",
+    "topic": "exterior",
+    "type": "multi",
+    "question": "Marca las propuestas de EH Bildu en política internacional y de paz.",
+    "options": [
+      "Rechazar el envío de armas y su financiación",
+      "Impulsar la adhesión al Tratado sobre la Prohibición de Armas Nucleares",
+      "Revertir la posición del Gobierno sobre el Sáhara",
+      "Aumentar el gasto en defensa que exige la OTAN"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Se opone a la OTAN y al aumento del gasto militar, y plantea un proyecto de seguridad europeo basado en el diálogo.",
+    "tip": "Una contradice su rechazo al gasto militar.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 28,
+      "section": "3.2. Paz"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-inmigracion-004",
+    "doc": "ehbildu",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Qué propone EH Bildu sobre las oficinas de extranjería de Nafarroa y de la Comunidad Autónoma del País Vasco?",
+    "options": [
+      "Cerrarlas y centralizar los trámites en Madrid",
+      "Dotarlas de recursos humanos suficientes para no vulnerar los derechos de las personas solicitantes",
+      "Convertirlas en oficinas solo telemáticas",
+      "Reducir sus plazos eliminando los recursos"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa lo propone en el apartado de migración y en el de familias e infancia, por los trámites de reagrupación familiar que afectan a menores.",
+    "tip": "Se pide más personal.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 20,
+      "section": "1.11. Migración"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-empleo-008",
+    "doc": "ehbildu",
+    "topic": "empleo",
+    "type": "which_party",
+    "question": "¿Qué partido propone reducir la jornada laboral a 32 horas semanales o 4 días sin reducción salarial?",
+    "options": [
+      "pp",
+      "vox",
+      "ehbildu",
+      "salf"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "EH Bildu lo propone mediante reforma del Estatuto de los Trabajadores, con una senda de hasta 3 años para pymes.",
+    "tip": "Es el partido que lo plantea con un plazo especial para pymes.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 6,
+      "section": "1.2. Empleo"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-exterior-006",
+    "doc": "ehbildu",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone cerrar y desmantelar el campo de tiro de las Bardenas?",
+    "options": [
+      "vox",
+      "psoe",
+      "cc",
+      "ehbildu"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "EH Bildu lo describe como un entorno protegido de alto valor ecológico usado para maniobras con fuego real por el ejército español y la OTAN, y propone planes de reconversión para los municipios.",
+    "tip": "Se trata de un paraje de Navarra.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 28,
+      "section": "3.2.5 Bases fuera, Bardeak herriarentzat"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-exterior-007",
+    "doc": "ehbildu",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido rechaza la pertenencia a la OTAN y el aumento del gasto en defensa que esta exige?",
+    "options": [
+      "pp",
+      "psoe",
+      "vox",
+      "ehbildu"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "EH Bildu invoca el referéndum de 1986 y propone un proyecto de seguridad europeo basado en la diplomacia y no dependiente de EEUU.",
+    "tip": "Defiende un proyecto de seguridad europeo autónomo.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 28,
+      "section": "3.2.4 No a la OTAN"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-instituciones-005",
+    "doc": "ehbildu",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone volver a presentar una proposición de ley para acabar con la Ley Mordaza?",
+    "options": [
+      "cc",
+      "pp",
+      "vox",
+      "ehbildu"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "La Ley Mordaza es la Ley de Protección de la Seguridad Ciudadana. EH Bildu quiere eliminar los artículos contrarios a la libertad de expresión, entre otras cosas acabar con las pelotas de goma.",
+    "tip": "El propio programa recuerda que la tramitación fue bloqueada.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 22,
+      "section": "1.13. Libertad de expresión"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-pensiones-006",
+    "doc": "ehbildu",
+    "topic": "pensiones",
+    "type": "which_party",
+    "question": "¿Qué partido propone subir las pensiones mínimas al menos a 1.220 euros, con actualización acorde al SMI?",
+    "options": [
+      "psoe",
+      "vox",
+      "ehbildu",
+      "d21"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "EH Bildu dice que lo hace como exige el movimiento de pensionistas y vincula la cuantía al SMI.",
+    "tip": "La cifra se vincula al salario mínimo.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 8,
+      "section": "1.3. Pensiones"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-instituciones-006",
+    "doc": "ehbildu",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone despenalizar las críticas a la corona y a las instituciones del Estado?",
+    "options": [
+      "pp",
+      "ehbildu",
+      "vox",
+      "psoe"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Lo plantea al proponer eliminar delitos del código penal que restringen la libertad de expresión, junto a las críticas a sentimientos religiosos y el enaltecimiento del terrorismo.",
+    "tip": "Está en su apartado de libertad de expresión.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 22,
+      "section": "1.13. Libertad de expresión"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-exterior-008",
+    "doc": "ehbildu",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone adherirse al Tratado sobre la Prohibición de Armas Nucleares (TPAN)?",
+    "options": [
+      "vox",
+      "pp",
+      "cc",
+      "ehbildu"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El TPAN es un tratado de la ONU que prohíbe las armas nucleares. EH Bildu lo propone frente al aumento del riesgo de su uso.",
+    "tip": "Su programa dedica un apartado al desarme nuclear.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 28,
+      "section": "3.2.6 Desarme nuclear"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-vivienda-008",
+    "doc": "ehbildu",
+    "topic": "vivienda",
+    "type": "which_party",
+    "question": "¿Qué partido propone eliminar las SOCIMIs como figura promotora de vivienda?",
+    "options": [
+      "pp",
+      "vox",
+      "ehbildu",
+      "cc"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Las SOCIMIs son sociedades de inversión inmobiliaria con ventajas fiscales. EH Bildu las ve como un factor de especulación y alza de precios.",
+    "tip": "Es un partido que propone intervenir el mercado de la vivienda.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 6,
+      "section": "1.1. Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-exterior-009",
+    "doc": "ehbildu",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone exigir el fin del bloqueo económico de EEUU a Cuba y volver a impulsar el intergrupo por Cuba en el Congreso?",
+    "options": [
+      "psoe",
+      "vox",
+      "cc",
+      "ehbildu"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El intergrupo es un grupo informal de parlamentarios con un interés común. EH Bildu quiere mantener la solidaridad y el apoyo al pueblo cubano.",
+    "tip": "La iniciativa tiene un grupo propio en el Congreso.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 29,
+      "section": "3.2.9 Acabar con el bloqueo contra Cuba y su pueblo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-empleo-009",
+    "doc": "ehbildu",
+    "topic": "empleo",
+    "type": "which_party",
+    "question": "¿Qué partido propone modificar el Estatuto de los Trabajadores para que las comunidades autónomas puedan fijar su propio SMI?",
+    "options": [
+      "pp",
+      "ehbildu",
+      "vox",
+      "psoe"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El SMI estatal sería el mínimo legal que no se puede rebajar, y los territorios podrían fijar uno superior según su realidad socioeconómica.",
+    "tip": "Quiere adaptar el salario mínimo al territorio.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 6,
+      "section": "1.2. Empleo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-economia-009",
+    "doc": "ehbildu",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone derogar la reforma del artículo 135 de la Constitución hecha por PP y PSOE?",
+    "options": [
+      "pp",
+      "psoe",
+      "vox",
+      "ehbildu"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Esa reforma priorizó el pago de la deuda sobre la inversión social y pública. EH Bildu quiere derogarla.",
+    "tip": "El partido que la propone critica a los dos autores de la reforma.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 14,
+      "section": "1.8. Política fiscal"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-sanidad-008",
+    "doc": "ehbildu",
+    "topic": "sanidad",
+    "type": "which_party",
+    "question": "¿Qué partido propone avanzar hacia una Farmacia Pública junto a las comunidades autónomas?",
+    "options": [
+      "psoe",
+      "pp",
+      "ehbildu",
+      "vox"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Serviría para gestionar materiales básicos, medicamentos esenciales de la OMS y fármacos con rotura de stock.",
+    "tip": "Se trata de una propuesta de gestión pública del medicamento.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 11,
+      "section": "1.5.1 Salud, derechos colectivos y bienestar comunitario"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-economia-010",
+    "doc": "ehbildu",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone un nuevo impuesto especial sobre los beneficios de las grandes distribuidoras alimentarias?",
+    "options": [
+      "pp",
+      "ehbildu",
+      "vox",
+      "cc"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "EH Bildu propone concertarlo con las haciendas forales para su gestión y recaudación.",
+    "tip": "Se concertaría con las haciendas forales.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 14,
+      "section": "1.8. Política fiscal"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-instituciones-007",
+    "doc": "ehbildu",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone retirar las condecoraciones a agentes de las Fuerzas y Cuerpos de Seguridad del Estado involucrados en vulneraciones de derechos humanos?",
+    "options": [
+      "pp",
+      "vox",
+      "ehbildu",
+      "psoe"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Lo plantea junto con ampliar la Ley de Memoria Democrática y derogar la Ley de Secretos Oficiales.",
+    "tip": "Está en su apartado de convivencia y memoria.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 27,
+      "section": "3.1. Convivencia y Memoria Democrática"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-cultura-004",
+    "doc": "ehbildu",
+    "topic": "cultura",
+    "type": "which_party",
+    "question": "¿Qué partido propone modificar la legislación para que las selecciones vascas puedan competir en el ámbito internacional en igualdad de condiciones que el resto?",
+    "options": [
+      "pp",
+      "vox",
+      "ehbildu",
+      "cc"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Plantea además eliminar el régimen sancionador a deportistas que no quieran jugar con las selecciones españolas. Pide la participación de deportistas de los siete territorios de Euskal Herria.",
+    "tip": "Habla de los siete territorios que componen Euskal Herria.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 26,
+      "section": "2.6. Euskal Herriko selekzioak"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-vivienda-009",
+    "doc": "ehbildu",
+    "topic": "vivienda",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de EH Bildu?",
+    "options": [
+      "Prohibir la compra de edificios completos con fines turísticos o especulativos",
+      "Prohibición estructural de desahucios a familias vulnerables sin alternativa",
+      "Contratos de alquiler con prórroga automática",
+      "Desgravación fiscal general por la compra de vivienda habitual"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "No propone ayudas fiscales a la compra. Sí propone prohibir la compra especulativa, la prohibición de desahucios de vulnerables y los contratos con prórroga automática.",
+    "tip": "Una opción favorece la compra en lugar de regular el alquiler.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 5,
+      "section": "1.1. Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-empleo-010",
+    "doc": "ehbildu",
+    "topic": "empleo",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de EH Bildu?",
+    "options": [
+      "Reducir la jornada a 32 horas sin bajar el sueldo",
+      "Indemnización por despido improcedente de al menos 45 días",
+      "Eliminar la autorización previa de la autoridad laboral en los ERE",
+      "Registro horario digital obligatorio"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone lo contrario: recuperar la autorización previa de la autoridad laboral en los Expedientes de Regulación de Empleo para proteger el empleo.",
+    "tip": "Una de ellas debilita la protección del empleo.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 6,
+      "section": "1.2. Empleo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "ehbildu-pensiones-007",
+    "doc": "ehbildu",
+    "topic": "pensiones",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de EH Bildu?",
+    "options": [
+      "Pensiones mínimas de al menos 1.220 euros",
+      "Alza de al menos un 15 % de las pensiones de viudedad y no contributivas",
+      "Revalorización anual al IPC blindada",
+      "Ampliar a 30 años el periodo de cómputo de la pensión"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Rechaza el aumento del periodo de cómputo, que es el número de años cotizados que se tienen en cuenta para calcular la pensión.",
+    "tip": "Una opción reduciría la cuantía de las pensiones.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 8,
+      "section": "1.3. Pensiones"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-sanidad-009",
+    "doc": "ehbildu",
+    "topic": "sanidad",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de EH Bildu?",
+    "options": [
+      "Derogar la Ley 15/1997 sobre nuevas formas de gestión sanitaria",
+      "Avanzar hacia una Farmacia Pública",
+      "Ampliar la cartera común con salud bucodental y óptica",
+      "Introducir un copago de medicamentos para rentas altas"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa no propone nuevos copagos sanitarios. Sí propone derogar la Ley 15/1997, crear una Farmacia Pública y ampliar la cartera común.",
+    "tip": "Una de ellas añadiría un pago para el usuario.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 11,
+      "section": "1.5.1 Salud, derechos colectivos y bienestar comunitario"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-medioambiente-009",
+    "doc": "ehbildu",
+    "topic": "medioambiente",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de EH Bildu?",
+    "options": [
+      "Adelantar la descarbonización al menos a 2045",
+      "Mantener el calendario de cierre nuclear del PNIEC",
+      "Objetivos de electrificación vinculantes",
+      "Prolongar la vida de las centrales nucleares"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Su posición sobre las nucleares es mantener el calendario de cierre del PNIEC.",
+    "tip": "Contradice el calendario de cierre que sí defiende.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 15,
+      "section": "1.9.1 Energía y clima"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-territorio-005",
+    "doc": "ehbildu",
+    "topic": "territorio",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de EH Bildu?",
+    "options": [
+      "Reconocer el derecho a decidir del pueblo vasco",
+      "Un nuevo modelo de cálculo para el Cupo y la Aportación",
+      "Transferir todas las competencias pendientes del Estatuto Vasco",
+      "Reducir las competencias del Concierto Económico para armonizar la fiscalidad con el resto del Estado"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa propone lo contrario: ensanchar el Concierto Económico y el Convenio Económico, dotándolos de nuevas capacidades.",
+    "tip": "Una de ellas recorta el autogobierno fiscal.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 24,
+      "section": "2.3. Concierto Económico Vasco y Convenio Económico Navarro"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-exterior-010",
+    "doc": "ehbildu",
+    "topic": "exterior",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de EH Bildu?",
+    "options": [
+      "Cerrar el campo de tiro de las Bardenas",
+      "Recuperar el reconocimiento del derecho de autodeterminación del pueblo saharaui",
+      "Rechazar la OTAN",
+      "Aumentar el gasto en defensa hasta lo que exige la OTAN"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "EH Bildu rechaza el aumento del gasto en defensa que exige la OTAN y el envío de armas.",
+    "tip": "Una opción va en contra de su rechazo a la OTAN.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 28,
+      "section": "3.2. Paz"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-instituciones-008",
+    "doc": "ehbildu",
+    "topic": "instituciones",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de EH Bildu?",
+    "options": [
+      "Derogar la Ley de Secretos Oficiales",
+      "Acabar con la Ley Mordaza",
+      "Despenalizar el enaltecimiento del terrorismo",
+      "Recuperar el delito de sedición en el Código Penal"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "No propone endurecer el código penal en ese ámbito. Las otras tres medidas sí figuran en el programa.",
+    "tip": "Una opción propone ampliar los delitos en lugar de reducirlos.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 22,
+      "section": "1.13. Libertad de expresión"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "ehbildu-inmigracion-005",
+    "doc": "ehbildu",
+    "topic": "inmigracion",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de EH Bildu?",
+    "options": [
+      "Regularización efectiva, accesible y estable",
+      "Rechazar los CIE",
+      "Ampliar el voto de residentes de origen extranjero",
+      "Mantener las devoluciones sumarias en frontera"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa propone rechazar las devoluciones sumarias y garantizar procedimientos individuales con todas las garantías jurídicas.",
+    "tip": "Una opción contradice el enfoque de derechos humanos.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 20,
+      "section": "1.11. Migración"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "ehbildu-cultura-005",
+    "doc": "ehbildu",
+    "topic": "cultura",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de EH Bildu?",
+    "options": [
+      "Reservar al menos el 15 % del Fondo de Protección de la Cinematografía a lenguas distintas al castellano",
+      "Oficialidad del euskera, catalán y gallego en la UE",
+      "Financiación estatal para tecnologías lingüísticas del euskera",
+      "Eliminar las reservas de cuota para proyectos dirigidos por mujeres"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Propone lo contrario: porcentajes mínimos de ayudas para proyectos liderados por mujeres, jóvenes o en lenguas distintas al castellano, y elevar las reservas para películas dirigidas por mujeres.",
+    "tip": "Una opción va contra la idea de diversidad que defiende.",
+    "source": {
+      "doc": "ehbildu",
+      "page": 25,
+      "section": "2.5. Cultura y producción audiovisual"
+    },
+    "difficulty": 3
+  }
+]

@@ -1,0 +1,860 @@
+{
+ "party": "drago",
+ "overview": "Drago Canarias se presenta al Congreso como partido de obediencia canaria, con 70 propuestas ordenadas en cuatro ejes: vivir en Canarias, islas conectadas y sostenibles, derechos y democracia, y soberanía. Sus ideas centrales son más competencias y financiación para Canarias, limitar la presión turística y la compra de vivienda por no residentes, y una política migratoria basada en vías legales y asilo. El programa no indica qué formaciones integran Drago Canarias.",
+ "topics": {
+  "vivienda": {
+   "summary": "Quiere limitar la compra de vivienda a no residentes, ampliar el parque público de alquiler con dinero estatal y pisos de la Sareb, y quitar ventajas fiscales a quien no ofrezca alquiler asequible.",
+   "points": [
+    {
+     "text": "Impulsar una Ley de Residencia para que Canarias regule el acceso a la residencia y el empadronamiento efectivo según la capacidad de carga de cada isla, y negociar en Bruselas excepciones a la libre circulación.",
+     "source": {
+      "doc": "drago",
+      "page": 7
+     }
+    },
+    {
+     "text": "Exigir un régimen propio para Canarias que limite la compra de vivienda por quien no reside en las islas, sea cual sea su nacionalidad, y someter a control las compras desde fuera de la UE.",
+     "source": {
+      "doc": "drago",
+      "page": 7
+     }
+    },
+    {
+     "text": "Firmar un convenio Estado-Canarias para el decrecimiento turístico, con financiación plurianual y estudios de capacidad de carga de cada isla.",
+     "source": {
+      "doc": "drago",
+      "page": 7
+     }
+    },
+    {
+     "text": "Duplicar la aportación estatal a Canarias en el Plan Estatal de Vivienda 2026-2030 (otros 222,6 millones) para comprar y rehabilitar viviendas ya construidas para alquiler público.",
+     "source": {
+      "doc": "drago",
+      "page": 8
+     }
+    },
+    {
+     "text": "Pasar al parque público de alquiler las viviendas de la Sareb en Canarias y el suelo y los edificios de Defensa que ya no se usen.",
+     "source": {
+      "doc": "drago",
+      "page": 8
+     }
+    },
+    {
+     "text": "Permitir que cualquier ayuntamiento aplique por ordenanza un recargo del IBI a las viviendas turísticas, más alto para quien tenga más, y que lo recaudado se quede en el municipio.",
+     "source": {
+      "doc": "drago",
+      "page": 8
+     }
+    },
+    {
+     "text": "Limitar el tipo cero del Impuesto sobre Sociedades de las SOCIMI al alquiler protegido permanente; el resto de sus beneficios tributaría como en cualquier empresa.",
+     "source": {
+      "doc": "drago",
+      "page": 8
+     }
+    },
+    {
+     "text": "Limitar el beneficio fiscal por reinvertir en vivienda de alquiler a la vivienda protegida, con alquiler limitado y compromiso mínimo de veinte años.",
+     "source": {
+      "doc": "drago",
+      "page": 28
+     }
+    }
+   ]
+  },
+  "empleo": {
+   "summary": "Propone un marco laboral propio para Canarias (con salario mínimo propio e Inspección de Trabajo transferida), cuota cero para autónomos con ingresos bajos y una ley para las camareras de piso.",
+   "points": [
+    {
+     "text": "Defender la transferencia de un Marco Canario de Relaciones Laborales: salario mínimo acorde al coste de la vida en las islas, igualdad del sindicalismo canario en la negociación colectiva, actualización del derecho de huelga y traspaso de la Inspección de Trabajo.",
+     "source": {
+      "doc": "drago",
+      "page": 9
+     }
+    },
+    {
+     "text": "Autónomos en Canarias sin cuota a la Seguridad Social si ganan menos del salario mínimo; 50 euros al mes entre una y dos veces el mínimo, con subida gradual hasta 2,5 veces, y el Estado cubre la diferencia.",
+     "source": {
+      "doc": "drago",
+      "page": 9
+     }
+    },
+    {
+     "text": "Ley de protección de las camareras de piso (kellys): jubilación anticipada con coeficientes reductores, jornada reducida progresivamente hasta 35 horas semanales y contratación como actividad principal del hotel.",
+     "source": {
+      "doc": "drago",
+      "page": 10
+     }
+    },
+    {
+     "text": "Exigir el traspaso de la Inspección de Trabajo con su personal y financiación, que el Estatuto de Autonomía ya prevé.",
+     "source": {
+      "doc": "drago",
+      "page": 10
+     }
+    },
+    {
+     "text": "Fijar por ley dos refuerzos al año de la Inspección de Trabajo en Canarias, uno en temporada alta de verano y otro en la de invierno.",
+     "source": {
+      "doc": "drago",
+      "page": 10
+     }
+    },
+    {
+     "text": "Bajar los requisitos para ser sindicato más representativo en una comunidad autónoma, del 15 % de la representación y 1.500 representantes al 5 % y 500.",
+     "source": {
+      "doc": "drago",
+      "page": 10
+     }
+    }
+   ]
+  },
+  "economia": {
+   "summary": "Centra su propuesta económica en el REF: quiere que sus incentivos (ZEC, Registro de Buques) exijan empleo de calidad y se evalúen públicamente, y que la financiación autonómica cuente a toda la población que usa los servicios.",
+   "points": [
+    {
+     "text": "Pedir al Gobierno que negocie con la Comisión Europea la continuidad de la ZEC con condiciones nuevas: al menos la mitad de los puestos nuevos para personas desempleadas en Canarias y tipo reducido ligado a estabilidad y salario.",
+     "source": {
+      "doc": "drago",
+      "page": 28
+     }
+    },
+    {
+     "text": "Exigir que la nueva financiación autonómica cuente a quienes usan los servicios sin estar empadronados (turistas, residentes temporales) y pese más el coste de prestarlos en un territorio ultraperiférico, dejando los recursos del REF fuera del cálculo.",
+     "source": {
+      "doc": "drago",
+      "page": 28
+     }
+    },
+    {
+     "text": "Condicionar las ventajas del Registro Especial de Buques a mantener el buque un tiempo mínimo, con devolución proporcional si sale antes, y ampliar la exención del IRPF de las tripulaciones.",
+     "source": {
+      "doc": "drago",
+      "page": 15
+     }
+    },
+    {
+     "text": "Reforma de la ley de evaluación para que el gasto, las subvenciones y los beneficios fiscales nazcan con su evaluación, y que la AIReF evalúe los incentivos del REF y las ayudas al transporte.",
+     "source": {
+      "doc": "drago",
+      "page": 26
+     }
+    },
+    {
+     "text": "Que la Agencia Tributaria publique cada año los incentivos del REF por isla y por sector.",
+     "source": {
+      "doc": "drago",
+      "page": 26
+     }
+    },
+    {
+     "text": "Reconocer que el turismo supone más de un tercio de la producción y casi cuatro de cada diez empleos, y que el REF no ha traído la diversificación prometida.",
+     "source": {
+      "doc": "drago",
+      "page": 27
+     }
+    }
+   ]
+  },
+  "pensiones": {
+   "summary": "Propone blindar en la Constitución la subida de las pensiones con el IPC, elevar las mínimas y no contributivas y crear un complemento de insularidad.",
+   "points": [
+    {
+     "text": "Blindar en la Constitución la revalorización anual de todas las pensiones conforme al IPC real.",
+     "source": {
+      "doc": "drago",
+      "page": 12
+     }
+    },
+    {
+     "text": "Elevar las pensiones mínimas y no contributivas por encima del umbral de la pobreza.",
+     "source": {
+      "doc": "drago",
+      "page": 12
+     }
+    },
+    {
+     "text": "Pedir un complemento de insularidad financiado por el Estado para las pensiones contributivas más bajas y las no contributivas en Canarias.",
+     "source": {
+      "doc": "drago",
+      "page": 12
+     }
+    },
+    {
+     "text": "Un año de cotización a la Seguridad Social y de prestación de transición para la cuidadora cuando fallece la persona cuidada.",
+     "source": {
+      "doc": "drago",
+      "page": 12
+     }
+    },
+    {
+     "text": "Revisar las plantillas del INSS, la Tesorería y el SEPE en las islas para garantizar atención presencial con cita en un plazo razonable.",
+     "source": {
+      "doc": "drago",
+      "page": 11
+     }
+    },
+    {
+     "text": "Fijar por ley la prohibición de cortar luz, agua y gas a hogares vulnerables y conceder el bono social de oficio a quienes ya acreditan su vulnerabilidad.",
+     "source": {
+      "doc": "drago",
+      "page": 16
+     }
+    },
+    {
+     "text": "Financiación estable (cuatro o cinco años) para las entidades sociales que atienden la exclusión, con ayudas resueltas al menos tres meses antes de empezar.",
+     "source": {
+      "doc": "drago",
+      "page": 13
+     }
+    }
+   ]
+  },
+  "sanidad": {
+   "summary": "Quiere sustituir la ley que permite gestionar la sanidad pública con empresas privadas por otra que haga de la gestión pública directa la regla.",
+   "points": [
+    {
+     "text": "Sustituir la Ley 15/1997 por otra que haga de la gestión pública directa la regla y de la privada una excepción justificada.",
+     "source": {
+      "doc": "drago",
+      "page": 11
+     }
+    },
+    {
+     "text": "Ningún concierto ni concesión sanitaria podrá renovarse sin una evaluación pública que demuestre que la gestión privada sale mejor en coste y calidad.",
+     "source": {
+      "doc": "drago",
+      "page": 11
+     }
+    },
+    {
+     "text": "Cita como dato que Canarias es la cuarta comunidad con más privatización sanitaria (26 %, frente al 18 % de 2014), según asociaciones en defensa de la sanidad pública.",
+     "source": {
+      "doc": "drago",
+      "page": 11
+     }
+    },
+    {
+     "text": "Garantizar atención psicosocial, asesoramiento jurídico y salud sexual en todas las islas, con fondos estatales que tengan en cuenta la insularidad.",
+     "source": {
+      "doc": "drago",
+      "page": 23
+     }
+    }
+   ]
+  },
+  "educacion": {
+   "summary": "Plantea un fondo estatal para mantener FP y universidad en islas no capitalinas, becas con un complemento por insularidad y más peso del estudiantado en los órganos universitarios.",
+   "points": [
+    {
+     "text": "Fondo estatal, acordado con Canarias y las universidades, para abrir y mantener estudios de FP y universitarios en islas no capitalinas (profesorado, talleres, desplazamientos y alojamiento).",
+     "source": {
+      "doc": "drago",
+      "page": 11
+     }
+    },
+    {
+     "text": "Subir cada año con el IPC las ayudas por insularidad de las becas y dar 130 euros más a quien estudie en una universidad canaria.",
+     "source": {
+      "doc": "drago",
+      "page": 12
+     }
+    },
+    {
+     "text": "Programa de cooperación territorial con partida finalista en los Presupuestos para rehabilitar, ampliar y adaptar al calor los centros educativos, con atención a las islas no capitalinas.",
+     "source": {
+      "doc": "drago",
+      "page": 12
+     }
+    },
+    {
+     "text": "Subir el mínimo de representación en el Consejo de Gobierno universitario al 25 % para el estudiantado y al 15 % para el personal técnico y de administración, y tres representantes estudiantiles en el Consejo Social.",
+     "source": {
+      "doc": "drago",
+      "page": 12
+     }
+    }
+   ]
+  },
+  "igualdad": {
+   "summary": "Propone más fondos contra la violencia machista con peso a la insularidad, planes de igualdad en empresas desde 25 personas, más permisos de conciliación y refuerzo de la lucha contra los delitos de odio.",
+   "points": [
+    {
+     "text": "Actualizar cada año, al menos con el IPC, los fondos del Pacto de Estado contra la Violencia de Género y dar más peso a la insularidad en el reparto.",
+     "source": {
+      "doc": "drago",
+      "page": 23
+     }
+    },
+    {
+     "text": "Rebajar de 50 a 25 personas trabajadoras la obligación de tener plan de igualdad y auditoría salarial.",
+     "source": {
+      "doc": "drago",
+      "page": 23
+     }
+    },
+    {
+     "text": "Ampliar los permisos retribuidos de conciliación a 24 semanas y exigir a empresas de 100 o más personas un espacio de cuidado infantil o una compensación equivalente si no hay alternativa pública.",
+     "source": {
+      "doc": "drago",
+      "page": 23
+     }
+    },
+    {
+     "text": "Reforzar la legislación estatal contra los delitos de odio, también en el Código Penal.",
+     "source": {
+      "doc": "drago",
+      "page": 23
+     }
+    },
+    {
+     "text": "Rebajar de 50 a 25 personas la obligación de contar con un protocolo frente al acoso y la discriminación de las personas LGTBI.",
+     "source": {
+      "doc": "drago",
+      "page": 23
+     }
+    },
+    {
+     "text": "Facilitar que las mujeres de explotaciones agrarias familiares acrediten su trabajo, cobren la compensación prevista y coticen con bonificación, sin límites de edad.",
+     "source": {
+      "doc": "drago",
+      "page": 18
+     }
+    }
+   ]
+  },
+  "inmigracion": {
+   "summary": "Defiende vías legales y seguras, el asilo como eje de la gestión migratoria, el cierre de los CIE y el rechazo del Pacto Europeo de Migración y de Frontex en Canarias.",
+   "points": [
+    {
+     "text": "Exigir que se cumpla el reparto obligatorio de menores migrantes entre comunidades, que no caduque y que el Gobierno rinda cuentas en el Congreso.",
+     "source": {
+      "doc": "drago",
+      "page": 21
+     }
+    },
+    {
+     "text": "Ampliar los recursos jurídicos, psicosociales, sanitarios y de acogida para solicitantes de asilo, y que funcione el asilo en embajadas y consulados de países de origen cercanos a la ruta atlántica.",
+     "source": {
+      "doc": "drago",
+      "page": 21
+     }
+    },
+    {
+     "text": "Pedir el cierre inmediato de los CIE de Barranco Seco y Hoya Fría y rechazar su uso como centros de retención.",
+     "source": {
+      "doc": "drago",
+      "page": 21
+     }
+    },
+    {
+     "text": "Subir en unos 6,5 millones al año el presupuesto de Salvamento Marítimo y garantizar que combatir el tráfico de migrantes no criminalice a quien rescata.",
+     "source": {
+      "doc": "drago",
+      "page": 22
+     }
+    },
+    {
+     "text": "Reclamar la derogación del Pacto Europeo de Migración y Asilo y rechazar la externalización del control migratorio en terceros países.",
+     "source": {
+      "doc": "drago",
+      "page": 24
+     }
+    },
+    {
+     "text": "Rechazar la ampliación de recursos y mandatos de Frontex y su intervención en Canarias.",
+     "source": {
+      "doc": "drago",
+      "page": 24
+     }
+    },
+    {
+     "text": "Plan estatal con más personal y más citas de extranjería para Canarias, con atención presencial y publicación de los tiempos de espera.",
+     "source": {
+      "doc": "drago",
+      "page": 24
+     }
+    },
+    {
+     "text": "Política migratoria basada en la existencia de vías legales y seguras y en el derecho de tránsito de las personas migrantes.",
+     "source": {
+      "doc": "drago",
+      "page": 20
+     }
+    }
+   ]
+  },
+  "medioambiente": {
+   "summary": "Propone energía renovable comunitaria y en tejados, reinvertir en renovables el ahorro por sustituir electricidad fósil, límites a la minería de tierras raras y medidas contra el impacto del turismo y los barcos.",
+   "points": [
+    {
+     "text": "Cambiar la Ley de Minas para que no se conceda ningún permiso de tierras raras o materias primas críticas en Canarias sin referéndum vinculante en la isla afectada e informe favorable del Cabildo, y suspender mientras tanto nuevos permisos.",
+     "source": {
+      "doc": "drago",
+      "page": 17
+     }
+    },
+    {
+     "text": "Aprobar el Real Decreto de comunidades energéticas con reserva de capacidad de red, y dar prioridad a los tejados en el autoconsumo con trámite simplificado.",
+     "source": {
+      "doc": "drago",
+      "page": 17
+     }
+    },
+    {
+     "text": "Reinvertir por ley, en almacenamiento y renovables, el ahorro de la compensación estatal por electricidad fósil, y acordar un plan de reservas estratégicas de combustible y alimentos.",
+     "source": {
+      "doc": "drago",
+      "page": 17
+     }
+    },
+    {
+     "text": "Exigir una evaluación pública sobre cómo reutilizar el agua depurada antes de autorizar vertidos al mar en islas y zonas con escasez.",
+     "source": {
+      "doc": "drago",
+      "page": 17
+     }
+    },
+    {
+     "text": "Limitar el acceso a espacios naturales saturados según su capacidad de carga y reservar plazas para residentes en Canarias.",
+     "source": {
+      "doc": "drago",
+      "page": 18
+     }
+    },
+    {
+     "text": "Medidas obligatorias (límites de velocidad, cambios de ruta, detección y alerta) para que los barcos dejen de chocar con cetáceos.",
+     "source": {
+      "doc": "drago",
+      "page": 18
+     }
+    },
+    {
+     "text": "Obligar a grandes establecimientos turísticos y comerciales a medir sus residuos y cumplir planes de reducción verificables, con sanciones.",
+     "source": {
+      "doc": "drago",
+      "page": 19
+     }
+    },
+    {
+     "text": "Someter a referéndum vinculante en El Hierro la declaración del Parque Nacional Marino del Mar de las Calmas.",
+     "source": {
+      "doc": "drago",
+      "page": 17
+     }
+    }
+   ]
+  },
+  "rural": {
+   "summary": "Propone auditar las ayudas del POSEI y el REA, recuperar fincas abandonadas con un contrato de arrendamiento específico y orientar la compra pública de alimentos hacia el campo canario.",
+   "points": [
+    {
+     "text": "Auditoría independiente y pública del POSEI y el REA: cuánta ayuda llega a los precios, a quién beneficia y cómo afecta a las pequeñas explotaciones.",
+     "source": {
+      "doc": "drago",
+      "page": 18
+     }
+    },
+    {
+     "text": "Contrato específico en la Ley de Arrendamientos Rústicos para recuperar fincas abandonadas, con compensación de mejoras y un inventario del estado de la finca.",
+     "source": {
+      "doc": "drago",
+      "page": 18
+     }
+    },
+    {
+     "text": "Línea estatal de financiación para que pequeñas explotaciones y cooperativas puedan abastecer a hospitales, residencias y comedores públicos.",
+     "source": {
+      "doc": "drago",
+      "page": 19
+     }
+    },
+    {
+     "text": "Facilitar la acreditación del trabajo de las mujeres en explotaciones familiares y ampliar la cotización bonificada.",
+     "source": {
+      "doc": "drago",
+      "page": 18
+     }
+    },
+    {
+     "text": "Señalar que casi dos de cada tres hectáreas agrícolas de Canarias están sin cultivar.",
+     "source": {
+      "doc": "drago",
+      "page": 18
+     }
+    }
+   ]
+  },
+  "territorio": {
+   "summary": "Defiende más soberanía para Canarias: completar los traspasos del Estatuto de 2018, reconocer en la Constitución la realidad nacional canaria y mejorar la financiación autonómica.",
+   "points": [
+    {
+     "text": "Calendario público para completar en esta legislatura los traspasos pendientes del Estatuto de 2018, financiados con medios por habitante no inferiores a la media estatal más el coste de la insularidad.",
+     "source": {
+      "doc": "drago",
+      "page": 29
+     }
+    },
+    {
+     "text": "Reformar la Constitución para reconocer la realidad nacional canaria y su hecho diferencial (ultraperiferia).",
+     "source": {
+      "doc": "drago",
+      "page": 29
+     }
+    },
+    {
+     "text": "Traspaso completo de costas y reforma de la Ley de Costas para que los poblados de pescadores protegidos como patrimonio cultural no puedan derribarse.",
+     "source": {
+      "doc": "drago",
+      "page": 29
+     }
+    },
+    {
+     "text": "Una ley que dé al Gobierno de Canarias un puesto en las delegaciones que negocien con Marruecos la delimitación de aguas y espacio aéreo.",
+     "source": {
+      "doc": "drago",
+      "page": 29
+     }
+    },
+    {
+     "text": "Que el derecho internacional reconozca a Canarias como archipiélago, con aguas unidas por líneas que rodeen todas las islas.",
+     "source": {
+      "doc": "drago",
+      "page": 29
+     }
+    },
+    {
+     "text": "Financiación autonómica que cuente a toda la población que usa los servicios y deje fuera del cálculo los recursos del REF.",
+     "source": {
+      "doc": "drago",
+      "page": 28
+     }
+    },
+    {
+     "text": "Que toda norma estatal incluya un análisis de su impacto en Canarias y un informe preceptivo del Gobierno de Canarias.",
+     "source": {
+      "doc": "drago",
+      "page": 26
+     }
+    },
+    {
+     "text": "Convertir Canarias en una sola provincia y circunscripción electoral y ampliar el Congreso a 400 escaños.",
+     "source": {
+      "doc": "drago",
+      "page": 25
+     }
+    }
+   ]
+  },
+  "instituciones": {
+   "summary": "Propone cambios electorales para que el voto canario valga más (una circunscripción, Sainte-Laguë), más derechos para los partidos del Grupo Mixto, control al Gobierno y retirada de símbolos franquistas.",
+   "points": [
+    {
+     "text": "Que Canarias sea una sola provincia y vote al Congreso como una sola circunscripción.",
+     "source": {
+      "doc": "drago",
+      "page": 25
+     }
+    },
+    {
+     "text": "Ampliar el Congreso a 400 escaños, bajar de 2 a 1 el mínimo por provincia y cambiar la fórmula D’Hondt por Sainte-Laguë.",
+     "source": {
+      "doc": "drago",
+      "page": 25
+     }
+    },
+    {
+     "text": "Reformar la Ley de Memoria Democrática para que el Estado retire los símbolos catalogados si la administración no lo hace en plazo, empezando por el Monumento a Franco de Santa Cruz de Tenerife.",
+     "source": {
+      "doc": "drago",
+      "page": 25
+     }
+    },
+    {
+     "text": "Reformar el Reglamento del Congreso para dar a cada partido del Grupo Mixto con escaño propio preguntas orales, turno en el Pleno y firma propia para iniciativas, sin subvención de grupo.",
+     "source": {
+      "doc": "drago",
+      "page": 26
+     }
+    },
+    {
+     "text": "Dar al Gobierno 15 días (prorrogables 7) para contestar al Congreso, pasar a orales las preguntas sin respuesta y publicar la lista por ministerio.",
+     "source": {
+      "doc": "drago",
+      "page": 26
+     }
+    },
+    {
+     "text": "Cerrar los CIE y reforzar la legislación contra los delitos de odio, también en el Código Penal.",
+     "source": {
+      "doc": "drago",
+      "page": 23
+     }
+    }
+   ]
+  },
+  "exterior": {
+   "summary": "Apoya la autodeterminación del Sáhara Occidental, rechaza la política migratoria exterior de la UE y pide una delegación canaria ante la Unión Africana y control de las Cortes sobre el espacio aéreo.",
+   "points": [
+    {
+     "text": "Defender un referéndum de autodeterminación en el Sáhara Occidental, apoyando las resoluciones de la ONU, y no reconocer situaciones derivadas de la ocupación marroquí.",
+     "source": {
+      "doc": "drago",
+      "page": 22
+     }
+    },
+    {
+     "text": "Retomar la ley de nacionalidad para saharauis nacidos bajo administración española e incluir el Sáhara en la Ley de Memoria Democrática.",
+     "source": {
+      "doc": "drago",
+      "page": 22
+     }
+    },
+    {
+     "text": "Pedir a España que se oponga a prospecciones de gas, petróleo o minerales en las aguas en disputa frente a Canarias, como el monte submarino Tropic.",
+     "source": {
+      "doc": "drago",
+      "page": 29
+     }
+    },
+    {
+     "text": "Ningún acuerdo que ceda a otro Estado el control del espacio aéreo del Sáhara Occidental sin autorización de las Cortes y audiencia del Gobierno de Canarias.",
+     "source": {
+      "doc": "drago",
+      "page": 30
+     }
+    },
+    {
+     "text": "Incorporar una delegación del Gobierno de Canarias a la representación de España ante la Unión Africana.",
+     "source": {
+      "doc": "drago",
+      "page": 30
+     }
+    },
+    {
+     "text": "Una circunscripción canaria propia en las elecciones europeas.",
+     "source": {
+      "doc": "drago",
+      "page": 26
+     }
+    },
+    {
+     "text": "Rechazar la externalización y militarización de las fronteras de la UE, incluida la ampliación de Frontex.",
+     "source": {
+      "doc": "drago",
+      "page": 24
+     }
+    }
+   ]
+  },
+  "cultura": {
+   "summary": "Su apartado cultural es sobre todo identitario y deportivo (terreros de lucha canaria, instalaciones deportivas y selecciones canarias), y añade un plan de banda ancha.",
+   "points": [
+    {
+     "text": "Programa plurianual del Consejo Superior de Deportes, cofinanciado con administraciones canarias, para rehabilitar instalaciones deportivas públicas.",
+     "source": {
+      "doc": "drago",
+      "page": 30
+     }
+    },
+    {
+     "text": "Línea propia del programa para los terreros de lucha canaria, el deporte autóctono.",
+     "source": {
+      "doc": "drago",
+      "page": 30
+     }
+    },
+    {
+     "text": "Iniciativas legislativas en el Congreso para el reconocimiento de selecciones canarias en competiciones estatales e internacionales.",
+     "source": {
+      "doc": "drago",
+      "page": 30
+     }
+    },
+    {
+     "text": "Banda ancha: plan estatal que localice en 90 días las zonas sin conexión de 100 megas y financie el despliegue con ayudas a los operadores.",
+     "source": {
+      "doc": "drago",
+      "page": 15
+     }
+    }
+   ]
+  },
+  "otros": {
+   "summary": "Incluye propuestas de transporte entre islas y con la Península, de conexión a internet y de usos del suelo público como el Arsenal de Las Palmas.",
+   "points": [
+    {
+     "text": "Exigir obligaciones de servicio público con precios máximos en rutas aéreas entre Canarias y el resto del Estado en épocas de más demanda.",
+     "source": {
+      "doc": "drago",
+      "page": 15
+     }
+    },
+    {
+     "text": "Mantener el descuento de residente a canarios que viven fuera por estudios o trabajo en un número limitado de viajes al año, y que la CNMC vigile que no encarezca las tarifas.",
+     "source": {
+      "doc": "drago",
+      "page": 15
+     }
+    },
+    {
+     "text": "Aplicar el convenio colectivo español a las tripulaciones de barcos con bandera europea que operen líneas de servicio público entre islas o con la Península.",
+     "source": {
+      "doc": "drago",
+      "page": 15
+     }
+    },
+    {
+     "text": "Plan estatal para que todas las casas canarias tengan conexión fija de al menos 100 megas.",
+     "source": {
+      "doc": "drago",
+      "page": 15
+     }
+    },
+    {
+     "text": "Que Defensa traslade al Puerto de La Luz lo imprescindible de la Base Naval de Las Palmas y ceda el recinto al Ayuntamiento para un parque marítimo sin hoteles ni usos comerciales.",
+     "source": {
+      "doc": "drago",
+      "page": 13
+     }
+    },
+    {
+     "text": "Presentarse al Congreso como partido de obediencia canaria, sin consignas de partidos estatales.",
+     "source": {
+      "doc": "drago",
+      "page": 3
+     }
+    }
+   ]
+  }
+ },
+ "distinctive": [
+  {
+   "topic": "economia",
+   "text": "Un convenio entre el Estado y Canarias para el decrecimiento turístico, con financiación plurianual y estudios de capacidad de carga de cada isla.",
+   "why": "Es de los pocos programas que hablan de decrecimiento turístico; otros hablan de ordenar la población o limitar la compra de vivienda.",
+   "source": {
+    "doc": "drago",
+    "page": 7
+   }
+  },
+  {
+   "topic": "medioambiente",
+   "text": "Exigir referéndum vinculante en la isla afectada e informe favorable del Cabildo antes de conceder permisos de tierras raras o minería crítica.",
+   "why": "Es de los pocos que plantean una consulta vinculante por isla para la minería.",
+   "source": {
+    "doc": "drago",
+    "page": 17
+   }
+  },
+  {
+   "topic": "inmigracion",
+   "text": "Pedir el cierre de los CIE de Barranco Seco y Hoya Fría, la derogación del Pacto Europeo de Migración y Asilo y el rechazo a Frontex en Canarias.",
+   "why": "Va más allá de otros programas canarios, como el de CC, que piden repartir menores y reforzar la acogida pero no cerrar los CIE.",
+   "source": {
+    "doc": "drago",
+    "page": 24
+   }
+  },
+  {
+   "topic": "territorio",
+   "text": "Reformar la Constitución para reconocer la realidad nacional canaria y completar los traspasos pendientes del Estatuto de 2018.",
+   "why": "Es de los pocos que piden reconocer en la Constitución una realidad nacional canaria.",
+   "source": {
+    "doc": "drago",
+    "page": 29
+   }
+  },
+  {
+   "topic": "instituciones",
+   "text": "Convertir Canarias en una sola provincia y circunscripción, ampliar el Congreso a 400 escaños y cambiar D’Hondt por Sainte-Laguë.",
+   "why": "Es de los pocos programas con una propuesta detallada de reforma de la ley electoral para favorecer a los partidos medianos.",
+   "source": {
+    "doc": "drago",
+    "page": 25
+   }
+  },
+  {
+   "topic": "empleo",
+   "text": "Cuota cero para autónomos que ganen menos del salario mínimo, 50 euros al mes entre una y dos veces el mínimo, con el Estado cubriendo la diferencia.",
+   "why": "Es una propuesta con tramos y cifras concretas, poco habitual en los programas de otros partidos.",
+   "source": {
+    "doc": "drago",
+    "page": 9
+   }
+  },
+  {
+   "topic": "vivienda",
+   "text": "Limitar la compra de vivienda por quien no reside en las islas, sea cual sea su nacionalidad, mediante un régimen propio negociado en Bruselas.",
+   "why": "Se parece a la propuesta de Ley de Residencia de CC, pero incluye limitar la compra a no residentes de cualquier nacionalidad, algo poco común.",
+   "source": {
+    "doc": "drago",
+    "page": 7
+   }
+  },
+  {
+   "topic": "exterior",
+   "text": "Incorporar una delegación del Gobierno de Canarias a la representación de España ante la Unión Africana.",
+   "why": "Es de los pocos que plantean una relación directa de Canarias con instituciones africanas.",
+   "source": {
+    "doc": "drago",
+    "page": 30
+   }
+  }
+ ],
+ "glossary": [
+  {
+   "term": "REF",
+   "definition": "Régimen Económico y Fiscal de Canarias: conjunto de incentivos fiscales y económicos que compensan la lejanía y la insularidad de las islas."
+  },
+  {
+   "term": "Ley de Residencia",
+   "definition": "Ley propuesta para que Canarias pueda regular el acceso a la residencia y el empadronamiento efectivo según la capacidad de cada isla."
+  },
+  {
+   "term": "Sareb",
+   "definition": "Sociedad de gestión de activos procedentes de la reestructuración bancaria, conocida como el banco malo, que posee viviendas y suelo."
+  },
+  {
+   "term": "SOCIMI",
+   "definition": "Sociedad de inversión inmobiliaria que alquila viviendas y tiene un tratamiento fiscal especial en el Impuesto sobre Sociedades."
+  },
+  {
+   "term": "ZEC",
+   "definition": "Zona Especial Canaria: régimen que permite a empresas nuevas tributar a un tipo reducido en el Impuesto sobre Sociedades si cumplen ciertas condiciones."
+  },
+  {
+   "term": "REA",
+   "definition": "Régimen Específico de Abastecimiento: ayudas dentro del POSEI que abaratan alimentos y otros productos importados en Canarias."
+  },
+  {
+   "term": "Región ultraperiférica",
+   "definition": "Territorio de la UE muy alejado del continente (como Canarias) al que se reconocen medidas específicas, recogidas en el artículo 349 del Tratado de Funcionamiento de la UE."
+  },
+  {
+   "term": "Kellys",
+   "definition": "Nombre con el que se conoce a las camareras de piso de los hoteles."
+  },
+  {
+   "term": "CIE",
+   "definition": "Centro de Internamiento de Extranjeros: instalación donde se retiene a personas extranjeras pendientes de expulsión."
+  },
+  {
+   "term": "Frontex",
+   "definition": "Agencia europea de la guardia de fronteras y costas, que coordina el control de las fronteras exteriores de la UE."
+  },
+  {
+   "term": "Sainte-Laguë",
+   "definition": "Fórmula para repartir escaños más proporcional que la D’Hondt, que favorece menos a los partidos grandes."
+  },
+  {
+   "term": "D’Hondt",
+   "definition": "Fórmula de reparto de escaños usada en las elecciones generales españolas, que tiende a favorecer a los partidos más votados."
+  },
+  {
+   "term": "Grupo Mixto",
+   "definition": "Grupo parlamentario al que van los diputados cuyos partidos no alcanzan los escaños para tener grupo propio."
+  }
+ ]
+}
