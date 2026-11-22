@@ -1,5 +1,26 @@
 [
  {
+  "term": "Acta de constitución",
+  "definition": "Documento único para todos los procesos que recoge quién forma la Mesa, los interventores con posesión y los suplentes presentes.",
+  "from": [
+   "mesa"
+  ]
+ },
+ {
+  "term": "Acta de escrutinio",
+  "definition": "Documento (uno por elección) con los resultados: censados, votantes, nulos, blancos y votos de cada candidatura.",
+  "from": [
+   "mesa"
+  ]
+ },
+ {
+  "term": "Acta de sesión",
+  "definition": "Documento (uno por elección) donde se anotan reclamaciones, protestas e incidentes de la jornada.",
+  "from": [
+   "mesa"
+  ]
+ },
+ {
   "term": "Aforamiento",
   "definition": "Privilegio por el que ciertos cargos solo pueden ser juzgados por tribunales superiores.",
   "from": [
@@ -23,6 +44,13 @@
    "pp",
    "psoe",
    "salf"
+  ]
+ },
+ {
+  "term": "Apoderado",
+  "definition": "Representante de una candidatura que puede acceder a cualquier local electoral y vigilar votación y escrutinio.",
+  "from": [
+   "mesa"
   ]
  },
  {
@@ -84,6 +112,13 @@
   ]
  },
  {
+  "term": "Certificación censal de alta",
+  "definition": "Documento de la Oficina del Censo Electoral que permite votar a quien no figura en la lista. No es la tarjeta censal.",
+  "from": [
+   "mesa"
+  ]
+ },
+ {
   "term": "CETA",
   "definition": "Acuerdo comercial entre la Unión Europea y Canadá.",
   "from": [
@@ -105,6 +140,13 @@
    "compromis",
    "frenteamplio",
    "podemos"
+  ]
+ },
+ {
+  "term": "Circunscripción",
+  "definition": "Territorio en que se reparten los escaños: la provincia (y, para el Senado, cada isla grande).",
+  "from": [
+   "mesa"
   ]
  },
  {
@@ -342,6 +384,13 @@
   ]
  },
  {
+  "term": "Interventor",
+  "definition": "Persona nombrada por una candidatura para estar en una Mesa concreta. Tiene voz pero no voto y puede reclamar y pedir certificaciones.",
+  "from": [
+   "mesa"
+  ]
+ },
+ {
   "term": "IPREM",
   "definition": "Indicador Público de Renta de Efectos Múltiples: cifra que el Estado usa como referencia para calcular ayudas, subsidios y becas.",
   "from": [
@@ -377,6 +426,20 @@
   "definition": "Principio por el que se obtiene la nacionalidad por nacer en un país, aunque los padres sean extranjeros.",
   "from": [
    "podemos"
+  ]
+ },
+ {
+  "term": "Junta Electoral de Zona",
+  "definition": "Órgano al que se acude para resolver problemas de material, constitución de la Mesa y nuevas votaciones.",
+  "from": [
+   "mesa"
+  ]
+ },
+ {
+  "term": "Junta Electoral Provincial",
+  "definition": "Órgano al que se envía el escrito razonado cuando se suspende una votación.",
+  "from": [
+   "mesa"
   ]
  },
  {
@@ -417,6 +480,20 @@
   ]
  },
  {
+  "term": "Lista del censo",
+  "definition": "Relación de las personas con derecho a votar en esa Mesa.",
+  "from": [
+   "mesa"
+  ]
+ },
+ {
+  "term": "Lista numerada de votantes",
+  "definition": "Impreso donde la Mesa anota, por orden de voto, el nombre de quien vota y su número en el censo.",
+  "from": [
+   "mesa"
+  ]
+ },
+ {
   "term": "LOMLOE",
   "definition": "Ley educativa vigente desde 2020, también llamada 'ley Celaá'.",
   "from": [
@@ -436,6 +513,13 @@
   "definition": "Sistema por el que toda la electricidad se paga al precio de la fuente más cara que haya entrado en ese momento.",
   "from": [
    "compromis"
+  ]
+ },
+ {
+  "term": "MiDNI",
+  "definition": "App del DNI en el móvil; la Mesa la acepta comprobando el código QR temporal con su dispositivo.",
+  "from": [
+   "mesa"
   ]
  },
  {
@@ -573,6 +657,13 @@
   ]
  },
  {
+  "term": "Representante de la Administración",
+  "definition": "Persona presente en el local desde primera hora que ayuda a la Mesa y recibe la primera copia del acta de escrutinio.",
+  "from": [
+   "mesa"
+  ]
+ },
+ {
   "term": "RETA",
   "definition": "Régimen Especial de Trabajadores Autónomos: el sistema de la Seguridad Social en el que cotizan los autónomos.",
   "from": [
@@ -672,6 +763,13 @@
   ]
  },
  {
+  "term": "Tarjeta censal",
+  "definition": "Tarjeta que reciben los electores en casa indicando su Mesa. No permite votar si no se figura en el censo.",
+  "from": [
+   "mesa"
+  ]
+ },
+ {
   "term": "Tasa Tobin",
   "definition": "Impuesto sobre las transacciones financieras: un pequeño porcentaje que se paga al comprar acciones de grandes empresas cotizadas.",
   "from": [
@@ -719,6 +817,27 @@
   "definition": "Sistema de peaje por el que se paga una tarifa única (por ejemplo anual o por días) para circular por una red de autopistas.",
   "from": [
    "erc"
+  ]
+ },
+ {
+  "term": "Voto en blanco",
+  "definition": "Voto válido sin elegir candidatura, como un sobre vacío. Se cuenta aparte de los nulos.",
+  "from": [
+   "mesa"
+  ]
+ },
+ {
+  "term": "Voto nulo",
+  "definition": "Voto que no cumple las condiciones legales, por ejemplo papeleta tachada o sin sobre. No cuenta para ninguna candidatura.",
+  "from": [
+   "mesa"
+  ]
+ },
+ {
+  "term": "Voto por correo",
+  "definition": "Voto emitido por correo por quien lo ha solicitado; el sobre llega a la Presidencia y se introduce en la urna al cierre sin abrir el sobre de la papeleta.",
+  "from": [
+   "mesa"
   ]
  },
  {

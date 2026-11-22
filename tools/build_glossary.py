@@ -31,6 +31,10 @@ def add(g, origin):
 for f in sources:
     for g in json.loads(f.read_text(encoding="utf-8")).get("glossary", []):
         add(g, f.stem)
+mesa = D / "mesa" / "summary.json"
+if mesa.exists():
+    for g in json.loads(mesa.read_text(encoding="utf-8")).get("glossary", []):
+        add(g, "mesa")
 if extra.exists():
     for g in json.loads(extra.read_text(encoding="utf-8")):
         add(g, "extra")

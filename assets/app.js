@@ -9,8 +9,8 @@ const pages = {
   comparar: () => import('./pages/comparar.js'),
   anexo: () => import('./pages/anexo.js'),
   test: () => import('./pages/test.js'),
-  mesa: null,
-  'test-mesa': null,
+  mesa: () => import('./pages/mesa.js'),
+  'test-mesa': () => import('./pages/test-mesa.js'),
 };
 
 const titles = { test: 'Test de programas', mesa: 'La mesa electoral paso a paso', 'test-mesa': 'Test de la mesa electoral' };

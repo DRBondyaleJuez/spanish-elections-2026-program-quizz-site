@@ -117,6 +117,8 @@ def check_questions(name):
             err(w, f"tipo desconocido {q.get('type')}")
         if name != "mesa" and q.get("topic") not in topics:
             err(w, "tema desconocido")
+        if name == "mesa" and q.get("topic") not in MESA_SECS:
+            err(w, "apartado de la mesa desconocido")
         opts, ans = q.get("options", []), q.get("answer", [])
         if not isinstance(ans, list) or not ans or any(not isinstance(a, int) or not 0 <= a < len(opts) for a in ans):
             err(w, "answer no válido")
@@ -130,6 +132,7 @@ def check_questions(name):
 
 
 QIDS = set()
+MESA_SECS = {x["id"] for x in json.loads((D / "mesa" / "sections.json").read_text(encoding="utf-8"))["sections"]}
 
 
 if __name__ == "__main__":

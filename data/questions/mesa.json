@@ -1,0 +1,2365 @@
+[
+ {
+  "id": "mesa-constitucion-001",
+  "doc": "mesa",
+  "topic": "constitucion",
+  "type": "tf",
+  "question": "La Mesa electoral está formada por tres personas: la presidencia y dos vocales.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Son tres personas, y cada una tiene dos suplentes para asegurar que la Mesa pueda constituirse.",
+  "tip": "Piensa en cuántas personas exige la ley para constituirla.",
+  "source": {
+   "doc": "mesa",
+   "page": 4,
+   "section": "8:00–9:00 · Reunión, material y constitución de la Mesa"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-constitucion-002",
+  "doc": "mesa",
+  "topic": "constitucion",
+  "type": "tf",
+  "question": "Los suplentes que no han hecho falta deben quedarse en el local hasta las 20:00.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Una vez constituida la Mesa pueden irse, pero antes anotan su nombre en el acta de constitución y la Mesa les da un justificante de asistencia.",
+  "tip": "¿Qué documento se les entrega para acreditar que estuvieron?",
+  "source": {
+   "doc": "mesa",
+   "page": 4,
+   "section": "8:00–9:00 · Reunión, material y constitución de la Mesa"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-constitucion-003",
+  "doc": "mesa",
+  "topic": "constitucion",
+  "type": "tf",
+  "question": "Entre las 8:00 y las 8:30 la Mesa recibe a los interventores y compara sus nombramientos con las copias que tiene.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es el momento de comprobar que cada nombramiento coincide con su copia y de numerarlos por orden de llegada.",
+  "tip": "Fíjate en la media hora posterior al inicio de la reunión.",
+  "source": {
+   "doc": "mesa",
+   "page": 5,
+   "section": "8:00–9:00 · Reunión, material y constitución de la Mesa"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-constitucion-004",
+  "doc": "mesa",
+  "topic": "constitucion",
+  "type": "tf",
+  "question": "Si una urna llega con el precinto roto, la Presidencia lo comunica a la Junta Electoral de Zona.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "La Junta proveerá una nueva. Si no hay precinto, se cierra la urna con cualquier medio a mano.",
+  "tip": "La Junta que resuelve problemas de material es la de Zona.",
+  "source": {
+   "doc": "mesa",
+   "page": 5,
+   "section": "8:00–9:00 · Reunión, material y constitución de la Mesa"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-constitucion-005",
+  "doc": "mesa",
+  "topic": "constitucion",
+  "type": "tf",
+  "question": "Un interventor que se presenta a las 8:45, con el acta de constitución ya hecha, toma posesión de su cargo igualmente.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Después de las 8:30 no se le da posesión, aunque puede votar en la Mesa si tiene derecho a ello.",
+  "tip": "Importa la hora límite para que los interventores se incorporen.",
+  "source": {
+   "doc": "mesa",
+   "page": 24,
+   "section": "8:00–9:00 · Reunión, material y constitución de la Mesa"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-constitucion-006",
+  "doc": "mesa",
+  "topic": "constitucion",
+  "type": "single",
+  "question": "Son las 8:20 y no han llegado ni la presidencia ni sus suplentes. ¿Qué se hace?",
+  "options": [
+   "Asume la presidencia la primera vocal y su puesto lo ocupa su suplente",
+   "Se espera hasta las 9:00 sin constituir la Mesa",
+   "La Junta Electoral de Zona nombra a un votante que esté en la cola",
+   "Se aplaza la votación al día siguiente"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Si faltan la presidencia y sus suplentes, pasa a presidir la persona designada como primera vocal y su vacante la cubre su suplente.",
+  "tip": "La solución se encuentra dentro de la propia Mesa, sin avisar a nadie todavía.",
+  "source": {
+   "doc": "mesa",
+   "page": 23,
+   "section": "8:00–9:00 · Reunión, material y constitución de la Mesa"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-constitucion-007",
+  "doc": "mesa",
+  "topic": "constitucion",
+  "type": "single",
+  "question": "¿De qué color son los sobres y papeletas de las elecciones al Senado?",
+  "options": [
+   "Blanco",
+   "Sepia",
+   "Azul",
+   "Verde"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Congreso es blanco y Senado es sepia. Así se evitan errores entre las dos urnas.",
+  "tip": "Uno de los dos procesos usa el color blanco; el otro, no.",
+  "source": {
+   "doc": "mesa",
+   "page": 6,
+   "section": "8:00–9:00 · Reunión, material y constitución de la Mesa"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-constitucion-008",
+  "doc": "mesa",
+  "topic": "constitucion",
+  "type": "single",
+  "question": "Los miembros de la Mesa que ejercen su función tienen derecho a una reducción de jornada el día después de las elecciones. ¿De cuánto?",
+  "options": [
+   "Dos horas",
+   "Tres horas",
+   "Cinco horas",
+   "Una jornada completa"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "Además de la dieta de 75 € y del permiso retribuido el día de la votación, tienen cinco horas menos de jornada al día siguiente.",
+  "tip": "Es menos de una jornada completa, pero más que una hora o dos.",
+  "source": {
+   "doc": "mesa",
+   "page": 4,
+   "section": "8:00–9:00 · Reunión, material y constitución de la Mesa"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-constitucion-009",
+  "doc": "mesa",
+  "topic": "constitucion",
+  "type": "single",
+  "question": "A las 8:10 llega un interventor con su nombramiento, pero la Mesa no ha recibido su copia. ¿Qué hace la Presidencia?",
+  "options": [
+   "Le niega la entrada hasta que llegue la copia",
+   "Le deja estar solo como público",
+   "Llama a la Junta Electoral de Zona y espera su respuesta sin dar posesión",
+   "Le da posesión si lo exige y lo anota en el acta de constitución"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "Si la Mesa no tiene copias o duda de la autenticidad, se da posesión igualmente si el interventor lo exige y se deja constancia en el acta. El nombramiento original se guarda para el sobre 1.",
+  "tip": "Lo importante es dejar constancia por escrito para aclararlo más tarde.",
+  "source": {
+   "doc": "mesa",
+   "page": 24,
+   "section": "8:00–9:00 · Reunión, material y constitución de la Mesa"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mesa-constitucion-010",
+  "doc": "mesa",
+  "topic": "constitucion",
+  "type": "single",
+  "question": "¿Cómo se identifica cada urna para evitar confusiones?",
+  "options": [
+   "Fijando delante y detrás un sobre de votación de la elección correspondiente",
+   "Con un cartel escrito a mano con el nombre del partido",
+   "Colocando las urnas en mesas distintas sin más señal",
+   "Con una pegatina del color de cada partido"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Cada urna lleva pegado en su parte delantera y trasera un sobre de votación de su elección (Congreso o Senado).",
+  "tip": "Se usa el material oficial que ya tienes: no hace falta inventar nada.",
+  "source": {
+   "doc": "mesa",
+   "page": 5,
+   "section": "8:00–9:00 · Reunión, material y constitución de la Mesa"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-constitucion-011",
+  "doc": "mesa",
+  "topic": "constitucion",
+  "type": "multi",
+  "question": "Marca todas las actuaciones que se hacen entre las 8:00 y las 9:00.",
+  "options": [
+   "Comparar los nombramientos de los interventores con las copias",
+   "Comprobar que las urnas están cerradas y precintadas",
+   "Rellenar el acta de constitución de la Mesa",
+   "Anunciar los resultados de la votación",
+   "Leer en voz alta las papeletas del Congreso"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Antes de la votación se recibe a los interventores, se revisa el material y se levanta el acta de constitución. Los resultados y la lectura de papeletas son posteriores a las 20:00.",
+  "tip": "Descarta lo que solo puede ocurrir cuando ya ha terminado la votación.",
+  "source": {
+   "doc": "mesa",
+   "page": 5,
+   "section": "8:00–9:00 · Reunión, material y constitución de la Mesa"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-constitucion-012",
+  "doc": "mesa",
+  "topic": "constitucion",
+  "type": "multi",
+  "question": "Marca todo lo que forma parte de la documentación que debe tener la Mesa.",
+  "options": [
+   "Lista numerada de votantes",
+   "Certificados de votación y asistencia para quien los pida",
+   "Plantilla auxiliar para el escrutinio del Senado",
+   "Las tarjetas censales de todos los electores",
+   "Papeletas ya marcadas de cada candidatura"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "La Mesa dispone de la lista numerada, certificados de votación y asistencia y una plantilla para escrutar las papeletas del Senado. La tarjeta censal la recibe cada elector en su casa.",
+  "tip": "Piensa quién guarda cada documento: la tarjeta censal no es de la Mesa.",
+  "source": {
+   "doc": "mesa",
+   "page": 7,
+   "section": "8:00–9:00 · Reunión, material y constitución de la Mesa"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-constitucion-013",
+  "doc": "mesa",
+  "topic": "constitucion",
+  "type": "multi",
+  "question": "Marca quién puede pedir una copia del acta de constitución.",
+  "options": [
+   "Representantes de candidatura",
+   "Apoderados",
+   "Interventores",
+   "Cualquier persona que esté de público en el local",
+   "Cualquier votante que lo pida a la salida"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Pueden pedirla representantes de candidatura, apoderados e interventores, pero solo se entrega una copia por candidatura.",
+  "tip": "Se trata de personas vinculadas a las candidaturas.",
+  "source": {
+   "doc": "mesa",
+   "page": 8,
+   "section": "8:00–9:00 · Reunión, material y constitución de la Mesa"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-votacion-001",
+  "doc": "mesa",
+  "topic": "votacion",
+  "type": "tf",
+  "question": "A las 9:00, con la Mesa constituida, la Presidencia anuncia el comienzo con las palabras \"empieza la votación\".",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es la frase con la que se abre oficialmente la votación.",
+  "tip": "Se anuncia en voz alta, con una fórmula concreta.",
+  "source": {
+   "doc": "mesa",
+   "page": 9,
+   "section": "9:00–20:00 · Votación (identificación, censo, voto, lista numerada)"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-votacion-002",
+  "doc": "mesa",
+  "topic": "votacion",
+  "type": "tf",
+  "question": "Un DNI caducado sigue valiendo para identificarse, siempre que sea el original.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Se aceptan los documentos aunque estén caducados, siempre que sean originales y no fotocopias.",
+  "tip": "Lo que cuenta es que sea el documento original.",
+  "source": {
+   "doc": "mesa",
+   "page": 9,
+   "section": "9:00–20:00 · Votación (identificación, censo, voto, lista numerada)"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-votacion-003",
+  "doc": "mesa",
+  "topic": "votacion",
+  "type": "tf",
+  "question": "Una fotocopia del DNI es válida para votar si se ve con claridad.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Los documentos deben ser los originales, en ningún caso fotocopias.",
+  "tip": "No importa lo nítida que sea la copia.",
+  "source": {
+   "doc": "mesa",
+   "page": 9,
+   "section": "9:00–20:00 · Votación (identificación, censo, voto, lista numerada)"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-votacion-004",
+  "doc": "mesa",
+  "topic": "votacion",
+  "type": "tf",
+  "question": "Una persona sin su nombre en la lista del censo puede votar si lleva la tarjeta censal que recibió en casa.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "La tarjeta censal solo indica la Mesa. Para votar sin estar en el censo hace falta certificado de alta o sentencia judicial (o ser interventor acreditado).",
+  "tip": "La tarjeta censal no es lo mismo que el certificado de alta.",
+  "source": {
+   "doc": "mesa",
+   "page": 9,
+   "section": "9:00–20:00 · Votación (identificación, censo, voto, lista numerada)"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-votacion-005",
+  "doc": "mesa",
+  "topic": "votacion",
+  "type": "tf",
+  "question": "Quien ha pedido el voto por correo puede cambiar de opinión y votar en persona en la Mesa.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Nadie puede votar presencialmente si ha solicitado votar por correo; en el censo aparece con una \"C\".",
+  "tip": "¿Qué letra aparece junto a su nombre?",
+  "source": {
+   "doc": "mesa",
+   "page": 10,
+   "section": "9:00–20:00 · Votación (identificación, censo, voto, lista numerada)"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-votacion-006",
+  "doc": "mesa",
+  "topic": "votacion",
+  "type": "single",
+  "question": "¿Cuántos miembros de la Mesa, como mínimo, deben estar presentes durante toda la jornada?",
+  "options": [
+   "Uno",
+   "Dos",
+   "Los tres siempre",
+   "Solo la presidencia"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "La Mesa debe contar con al menos dos de sus componentes durante toda la jornada.",
+  "tip": "El mínimo es menor que el total de miembros.",
+  "source": {
+   "doc": "mesa",
+   "page": 9,
+   "section": "9:00–20:00 · Votación (identificación, censo, voto, lista numerada)"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-votacion-007",
+  "doc": "mesa",
+  "topic": "votacion",
+  "type": "single",
+  "question": "Una persona llega con un pasaporte caducado con fotografía. ¿Qué hace la Mesa?",
+  "options": [
+   "Lo rechaza porque está caducado",
+   "Solo lo acepta si lo acompaña de una fotocopia",
+   "Lo acepta, porque es válido aunque esté caducado si es el original",
+   "Solo acepta el DNI"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "Se admiten DNI, pasaporte con foto y carné de conducir con foto, caducados o no, siempre en original.",
+  "tip": "Se valora el documento original, no la fecha de vigencia.",
+  "source": {
+   "doc": "mesa",
+   "page": 9,
+   "section": "9:00–20:00 · Votación (identificación, censo, voto, lista numerada)"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-votacion-008",
+  "doc": "mesa",
+  "topic": "votacion",
+  "type": "single",
+  "question": "En la lista del censo, una persona aparece con una \"C\" delante de su nombre y viene a votar. ¿Qué se hace?",
+  "options": [
+   "Se le deja votar si lleva el DNI",
+   "Se le deja votar si la Presidencia lo autoriza",
+   "Se le deja votar si se anota en el acta de sesión",
+   "No se le permite votar en persona"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "La \"C\" indica que pidió voto por correo; no puede votar presencialmente.",
+  "tip": "La \"C\" es una señal para impedir votar dos veces.",
+  "source": {
+   "doc": "mesa",
+   "page": 10,
+   "section": "9:00–20:00 · Votación (identificación, censo, voto, lista numerada)"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-votacion-009",
+  "doc": "mesa",
+  "topic": "votacion",
+  "type": "single",
+  "question": "Cuando un votante entrega su sobre cerrado, ¿qué hace la Presidencia?",
+  "options": [
+   "Dice su nombre en voz alta, añade \"vota\" y le devuelve el sobre para que lo meta él mismo en la urna",
+   "Mete el sobre en la urna sin decir nada",
+   "Abre el sobre para comprobar que contiene una papeleta",
+   "Le pide que lo deje en una caja aparte hasta las 20:00"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "El sobre nunca se oculta a la vista del público: la Presidencia dice el nombre más \"vota\" y se lo devuelve para que lo introduzca.",
+  "tip": "El votante es quien deposita el sobre.",
+  "source": {
+   "doc": "mesa",
+   "page": 10,
+   "section": "9:00–20:00 · Votación (identificación, censo, voto, lista numerada)"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-votacion-010",
+  "doc": "mesa",
+  "topic": "votacion",
+  "type": "single",
+  "question": "Llega una persona que no está en el censo, pero trae una sentencia judicial que le reconoce el derecho a votar en esa Mesa. ¿Qué se hace?",
+  "options": [
+   "No puede votar, solo por correo",
+   "Puede votar y se anota en la lista numerada que aporta ese documento",
+   "Se pide a la Junta Electoral de Zona que lo autorice",
+   "Vota, pero su voto se considera nulo"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "La sentencia (o la certificación censal de alta) es una de las excepciones. Se anota en la lista numerada y el documento va al sobre 1.",
+  "tip": "Es una de las excepciones a la regla del censo.",
+  "source": {
+   "doc": "mesa",
+   "page": 10,
+   "section": "9:00–20:00 · Votación (identificación, censo, voto, lista numerada)"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-votacion-011",
+  "doc": "mesa",
+  "topic": "votacion",
+  "type": "multi",
+  "question": "Marca todos los documentos válidos para identificarse.",
+  "options": [
+   "DNI (o MiDNI con código QR comprobado)",
+   "Pasaporte con fotografía",
+   "Carné de conducir con fotografía",
+   "Tarjeta censal",
+   "Fotocopia del DNI"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Valen DNI, pasaporte y carné de conducir con foto, en original. La tarjeta censal y las fotocopias no sirven.",
+  "tip": "Dos de las opciones no son documentos de identidad originales.",
+  "source": {
+   "doc": "mesa",
+   "page": 9,
+   "section": "9:00–20:00 · Votación (identificación, censo, voto, lista numerada)"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-votacion-012",
+  "doc": "mesa",
+  "topic": "votacion",
+  "type": "multi",
+  "question": "Marca quién puede votar en la Mesa aunque no figure en la lista del censo.",
+  "options": [
+   "Quien trae un certificado de alta en el censo",
+   "Quien trae una sentencia judicial que le reconoce el derecho",
+   "Interventores acreditados en la Mesa, si cumplen las condiciones de circunscripción",
+   "Quien enseña su tarjeta censal",
+   "Quien ha pedido el voto por correo"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Las excepciones son el certificado de alta, la sentencia judicial y los interventores acreditados con derecho. La tarjeta censal no basta.",
+  "tip": "Tres de las cinco son excepciones expresamente previstas.",
+  "source": {
+   "doc": "mesa",
+   "page": 9,
+   "section": "9:00–20:00 · Votación (identificación, censo, voto, lista numerada)"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mesa-votacion-013",
+  "doc": "mesa",
+  "topic": "votacion",
+  "type": "multi",
+  "question": "Marca lo que se anota en la lista numerada de votantes.",
+  "options": [
+   "Nombre y apellidos de quien vota",
+   "Número con que figura en el censo",
+   "Una \"x\" si no vota en alguna de las elecciones",
+   "A qué candidatura ha votado",
+   "Su domicilio"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Se apunta quién vota, por orden de voto, con su número en el censo y la \"x\" de las elecciones en las que se abstiene. El sentido del voto es secreto.",
+  "tip": "Piensa que el voto es secreto.",
+  "source": {
+   "doc": "mesa",
+   "page": 10,
+   "section": "9:00–20:00 · Votación (identificación, censo, voto, lista numerada)"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-cierre-001",
+  "doc": "mesa",
+  "topic": "cierre",
+  "type": "tf",
+  "question": "Si la votación se interrumpió, el horario se prorroga tanto tiempo como duró la interrupción.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Se compensa para que todos tengan las mismas horas de votación.",
+  "tip": "El tiempo que se pierde se recupera.",
+  "source": {
+   "doc": "mesa",
+   "page": 11,
+   "section": "20:00 · Cierre, voto por correo y voto de la Mesa"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-cierre-002",
+  "doc": "mesa",
+  "topic": "cierre",
+  "type": "tf",
+  "question": "A las 20:00, quien aún esté dentro del local o en el acceso sin haber votado puede hacerlo, pero no se deja votar a nadie más.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "La Mesa permite votar a quien ya estuviese dentro o en la entrada, y cierra el paso a los demás.",
+  "tip": "Se respeta a quien ya estaba esperando.",
+  "source": {
+   "doc": "mesa",
+   "page": 11,
+   "section": "20:00 · Cierre, voto por correo y voto de la Mesa"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-cierre-003",
+  "doc": "mesa",
+  "topic": "cierre",
+  "type": "tf",
+  "question": "Para el voto por correo se abre el sobre que contiene la papeleta y se comprueba que está bien marcada.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "El sobre de la papeleta no debe abrirse nunca. Se abre el sobre exterior para comprobar el certificado y se introduce el sobre de votación en la urna.",
+  "tip": "Se protege el secreto del voto.",
+  "source": {
+   "doc": "mesa",
+   "page": 11,
+   "section": "20:00 · Cierre, voto por correo y voto de la Mesa"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-cierre-004",
+  "doc": "mesa",
+  "topic": "cierre",
+  "type": "tf",
+  "question": "Si en un sobre de voto por correo falta el certificado de inscripción en el censo, se cuenta como voto nulo.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Se destruye el sobre y todo su contenido: no se considera ni voto válido ni voto nulo.",
+  "tip": "No llega a contarse en ninguna categoría.",
+  "source": {
+   "doc": "mesa",
+   "page": 11,
+   "section": "20:00 · Cierre, voto por correo y voto de la Mesa"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mesa-cierre-005",
+  "doc": "mesa",
+  "topic": "cierre",
+  "type": "tf",
+  "question": "Tras el cierre de la votación, primero se introducen los votos por correo y después votan los miembros de la Mesa.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Orden: voto por correo, voto de la Mesa, firma de la lista numerada y escrutinio.",
+  "tip": "Piensa en el orden de la lista de operaciones.",
+  "source": {
+   "doc": "mesa",
+   "page": 11,
+   "section": "20:00 · Cierre, voto por correo y voto de la Mesa"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-cierre-006",
+  "doc": "mesa",
+  "topic": "cierre",
+  "type": "single",
+  "question": "Son las 20:00 y hay tres personas en la cola dentro del local que aún no han votado. ¿Qué se hace?",
+  "options": [
+   "Se cierra la votación y no votan",
+   "Votan solo si la Presidencia las conoce",
+   "Se les deja votar y no se permite que lo haga nadie más",
+   "Se prolonga la votación media hora para todos"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "Quien esté dentro o en el acceso al local a la hora de cierre puede votar. No se admite a nadie más.",
+  "tip": "Importa quién estaba ya dentro cuando se anunció el cierre.",
+  "source": {
+   "doc": "mesa",
+   "page": 11,
+   "section": "20:00 · Cierre, voto por correo y voto de la Mesa"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-cierre-007",
+  "doc": "mesa",
+  "topic": "cierre",
+  "type": "single",
+  "question": "En un sobre de voto por correo no aparece el certificado de inscripción en el censo. ¿Qué se hace?",
+  "options": [
+   "Se cuenta como voto nulo",
+   "Se mete en la urna igualmente",
+   "Se guarda en el sobre 1 como voto reclamado",
+   "Se destruye el sobre y su contenido, sin contarlo ni como válido ni como nulo"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "Sin el certificado no se puede comprobar que el votante está en el censo, y el voto no se computa de ninguna forma.",
+  "tip": "No se computa ni a favor ni como nulo.",
+  "source": {
+   "doc": "mesa",
+   "page": 11,
+   "section": "20:00 · Cierre, voto por correo y voto de la Mesa"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mesa-cierre-008",
+  "doc": "mesa",
+  "topic": "cierre",
+  "type": "single",
+  "question": "¿Cuál es el orden correcto tras anunciar el cierre?",
+  "options": [
+   "Voto por correo, voto de la Mesa, firma de la lista numerada, escrutinio",
+   "Escrutinio, voto por correo, voto de la Mesa, firma de la lista",
+   "Voto de la Mesa, escrutinio, voto por correo, firma de la lista",
+   "Firma de la lista, voto por correo, escrutinio, voto de la Mesa"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Primero se meten los votos por correo, luego vota la Mesa, se firma la lista numerada y después se hace el escrutinio.",
+  "tip": "El escrutinio es la última de estas operaciones.",
+  "source": {
+   "doc": "mesa",
+   "page": 11,
+   "section": "20:00 · Cierre, voto por correo y voto de la Mesa"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-cierre-009",
+  "doc": "mesa",
+  "topic": "cierre",
+  "type": "single",
+  "question": "En un sobre de voto por correo recibido del extranjero hay una \"solicitud de reintegro de gastos\". ¿Qué se hace con ella?",
+  "options": [
+   "Se destruye junto con el sobre",
+   "Se introduce en el sobre nº 1 de documentación electoral",
+   "Se guarda en la urna",
+   "Se entrega al representante de la Administración"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Las solicitudes de reintegro de gastos van al sobre nº 1 que se prepara al terminar el escrutinio.",
+  "tip": "Va con los documentos que se entregan en el Tribunal.",
+  "source": {
+   "doc": "mesa",
+   "page": 11,
+   "section": "20:00 · Cierre, voto por correo y voto de la Mesa"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mesa-cierre-010",
+  "doc": "mesa",
+  "topic": "cierre",
+  "type": "single",
+  "question": "Un interventor acreditado en la Mesa no figura en el censo de esa Mesa, pero tiene derecho a votar en ella. ¿Cómo se anota su voto?",
+  "options": [
+   "No puede votar en la Mesa; solo por correo",
+   "Votando como cualquier otro votante, sin anotar nada más",
+   "En el voto de la Mesa, indicando en la lista numerada la Sección y Mesa que le correspondían",
+   "Se le anota en el acta de sesión, no en la lista numerada"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "Los interventores votan en el momento del voto de la Mesa, y se anota su Sección y Mesa de origen (datos que figuran en el nombramiento).",
+  "tip": "Hay que dejar constancia de dónde le correspondía votar.",
+  "source": {
+   "doc": "mesa",
+   "page": 12,
+   "section": "20:00 · Cierre, voto por correo y voto de la Mesa"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mesa-cierre-011",
+  "doc": "mesa",
+  "topic": "cierre",
+  "type": "multi",
+  "question": "Marca quién vota en el momento del \"voto de la Mesa\".",
+  "options": [
+   "Las personas que integran la Mesa",
+   "Los interventores con derecho a votar en ella",
+   "Los apoderados que no están en el censo de la Mesa",
+   "Cualquier persona que llegue después de las 20:00"
+  ],
+  "answer": [
+   0,
+   1
+  ],
+  "explanation": "Tras el voto por correo votan los miembros de la Mesa y los interventores que tengan derecho a hacerlo en ella.",
+  "tip": "No son personas externas a la Mesa.",
+  "source": {
+   "doc": "mesa",
+   "page": 11,
+   "section": "20:00 · Cierre, voto por correo y voto de la Mesa"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-cierre-012",
+  "doc": "mesa",
+  "topic": "cierre",
+  "type": "multi",
+  "question": "Marca lo correcto sobre la firma de la lista numerada de votantes.",
+  "options": [
+   "Vocales e interventores la firman",
+   "Se firma al margen de cada hoja",
+   "Se firma justo debajo del último nombre escrito",
+   "Solo se firma la última hoja"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "La lista se firma en el margen de todas las hojas y de nuevo bajo el último nombre, para que no se pueda añadir a nadie después.",
+  "tip": "Se firma en dos sitios, no solo en uno.",
+  "source": {
+   "doc": "mesa",
+   "page": 12,
+   "section": "20:00 · Cierre, voto por correo y voto de la Mesa"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-escrutinio-001",
+  "doc": "mesa",
+  "topic": "escrutinio",
+  "type": "tf",
+  "question": "Se escruta primero el Congreso y después el Senado.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "El orden fijado es 1º Congreso de los Diputados, 2º Senado.",
+  "tip": "El orden es el mismo que el de las urnas en el manual.",
+  "source": {
+   "doc": "mesa",
+   "page": 12,
+   "section": "Escrutinio, anuncio de resultados y actas"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-escrutinio-002",
+  "doc": "mesa",
+  "topic": "escrutinio",
+  "type": "tf",
+  "question": "Los votos nulos se destruyen igual que el resto de papeletas.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "No se destruyen los nulos ni las papeletas reclamadas: se firman, se unen al acta de sesión y van al sobre 1.",
+  "tip": "Las papeletas \"discutidas\" siguen siendo necesarias para el expediente.",
+  "source": {
+   "doc": "mesa",
+   "page": 14,
+   "section": "Escrutinio, anuncio de resultados y actas"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-escrutinio-003",
+  "doc": "mesa",
+  "topic": "escrutinio",
+  "type": "tf",
+  "question": "Un sobre sin papeleta se cuenta como voto nulo.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Es voto en blanco. Los nulos son otros casos, como papeletas sin sobre o alteradas.",
+  "tip": "Fíjate en la diferencia entre blanco y nulo.",
+  "source": {
+   "doc": "mesa",
+   "page": 13,
+   "section": "Escrutinio, anuncio de resultados y actas"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-escrutinio-004",
+  "doc": "mesa",
+  "topic": "escrutinio",
+  "type": "tf",
+  "question": "En las elecciones al Congreso, un sobre con varias papeletas de la misma candidatura cuenta como un solo voto válido.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Solo es nulo si contiene papeletas de distintas candidaturas.",
+  "tip": "Importa si las papeletas son de la misma candidatura o no.",
+  "source": {
+   "doc": "mesa",
+   "page": 13,
+   "section": "Escrutinio, anuncio de resultados y actas"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-escrutinio-005",
+  "doc": "mesa",
+  "topic": "escrutinio",
+  "type": "tf",
+  "question": "El público que asiste al escrutinio puede presentar protestas mientras se cuentan los votos.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Quienes asisten como público no pueden formular reclamaciones o protestas durante el escrutinio.",
+  "tip": "Las protestas están reservadas a quienes participan en la Mesa o representan a candidaturas.",
+  "source": {
+   "doc": "mesa",
+   "page": 27,
+   "section": "Escrutinio, anuncio de resultados y actas"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-escrutinio-006",
+  "doc": "mesa",
+  "topic": "escrutinio",
+  "type": "single",
+  "question": "En las elecciones al Congreso aparece un sobre con dos papeletas de candidaturas distintas. ¿Qué es?",
+  "options": [
+   "Voto en blanco",
+   "Un voto válido para la primera papeleta que se saque",
+   "Un voto válido repartido entre ambas",
+   "Voto nulo"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "Es nulo, porque no se puede saber a quién quería votar la persona.",
+  "tip": "Una sola elección no puede tener dos opciones distintas.",
+  "source": {
+   "doc": "mesa",
+   "page": 13,
+   "section": "Escrutinio, anuncio de resultados y actas"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-escrutinio-007",
+  "doc": "mesa",
+  "topic": "escrutinio",
+  "type": "single",
+  "question": "Aparece una papeleta con una cruz junto a un candidato. ¿Cómo se trata?",
+  "options": [
+   "Es válida si la señal no altera la papeleta ni supone reproche a un candidato o partido",
+   "Siempre es nula",
+   "Siempre es voto en blanco",
+   "Siempre es válida, sea cual sea la marca"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Una señal sin entidad suficiente para alterar la papeleta o mostrar reproche no la anula.",
+  "tip": "Depende de si la señal tiene importancia o no.",
+  "source": {
+   "doc": "mesa",
+   "page": 13,
+   "section": "Escrutinio, anuncio de resultados y actas"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mesa-escrutinio-008",
+  "doc": "mesa",
+  "topic": "escrutinio",
+  "type": "single",
+  "question": "¿A quién se entrega primero una copia del acta de escrutinio?",
+  "options": [
+   "A los interventores",
+   "A la persona representante de la Administración",
+   "A los candidatos presentes",
+   "A la prensa"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "El representante de la Administración la recibe primero para poder dar información provisional sobre los resultados.",
+  "tip": "Es quien ofrecerá los datos provisionales.",
+  "source": {
+   "doc": "mesa",
+   "page": 15,
+   "section": "Escrutinio, anuncio de resultados y actas"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-escrutinio-009",
+  "doc": "mesa",
+  "topic": "escrutinio",
+  "type": "single",
+  "question": "¿Qué se hace con el original del acta de escrutinio?",
+  "options": [
+   "Se guarda en la urna",
+   "Se entrega al representante de la Administración",
+   "Se coloca en la entrada del local",
+   "Se rompe tras entregar las copias"
+  ],
+  "answer": [
+   2
+  ],
+  "explanation": "El original del acta de escrutinio se expone en la entrada del local y se entregan copias a quienes corresponda.",
+  "tip": "El público debe poder verla.",
+  "source": {
+   "doc": "mesa",
+   "page": 14,
+   "section": "Escrutinio, anuncio de resultados y actas"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-escrutinio-010",
+  "doc": "mesa",
+  "topic": "escrutinio",
+  "type": "single",
+  "question": "Una persona del público entorpece el escrutinio. ¿Qué hace la Presidencia?",
+  "options": [
+   "Suspende el escrutinio hasta que se calme",
+   "Anota su nombre y deja que siga",
+   "Le pide que espere a las 22:00 y luego decide",
+   "Ordena su expulsión inmediata"
+  ],
+  "answer": [
+   3
+  ],
+  "explanation": "El escrutinio no se interrumpe hasta contar todos los votos y se expulsa a quien lo perturbe.",
+  "tip": "El escrutinio no puede parar.",
+  "source": {
+   "doc": "mesa",
+   "page": 27,
+   "section": "Escrutinio, anuncio de resultados y actas"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-escrutinio-011",
+  "doc": "mesa",
+  "topic": "escrutinio",
+  "type": "multi",
+  "question": "Marca todos los casos de voto en blanco.",
+  "options": [
+   "Sobre sin papeleta",
+   "Voto a una candidatura legalmente retirada",
+   "Papeleta del Senado sin ningún candidato marcado",
+   "Papeleta sin sobre",
+   "Sobre alterado"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Son blancos el sobre vacío, el voto a una candidatura retirada y la papeleta del Senado sin marcar. Papeleta sin sobre y sobre alterado son nulos.",
+  "tip": "Dos de las opciones son votos nulos.",
+  "source": {
+   "doc": "mesa",
+   "page": 13,
+   "section": "Escrutinio, anuncio de resultados y actas"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-escrutinio-012",
+  "doc": "mesa",
+  "topic": "escrutinio",
+  "type": "multi",
+  "question": "Marca las papeletas que NO deben destruirse tras el escrutinio.",
+  "options": [
+   "Las que se han declarado votos nulos",
+   "Las que han sido objeto de reclamación",
+   "Las de votos válidos a candidaturas",
+   "Las de votos en blanco"
+  ],
+  "answer": [
+   0,
+   1
+  ],
+  "explanation": "Se conservan firmadas y unidas al acta de sesión. El resto se destruye delante de los presentes.",
+  "tip": "Se conservan las que podrían ser discutidas más tarde.",
+  "source": {
+   "doc": "mesa",
+   "page": 14,
+   "section": "Escrutinio, anuncio de resultados y actas"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-documentacion-001",
+  "doc": "mesa",
+  "topic": "documentacion",
+  "type": "tf",
+  "question": "Como la Mesa es única para todos los procesos, solo hay un original del acta de constitución.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "El acta de constitución es un documento único para todos los procesos celebrados el mismo día. Es autocopiativa, y se sacan las copias necesarias para los sobres y las entregas.",
+  "tip": "Piensa cuántas Mesas hay aunque haya varias elecciones.",
+  "source": {
+   "doc": "mesa",
+   "page": 15,
+   "section": "Fin: preparación y entrega de los tres sobres"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-documentacion-002",
+  "doc": "mesa",
+  "topic": "documentacion",
+  "type": "tf",
+  "question": "El sobre número 3 se entrega en el Tribunal de Instancia junto con el sobre número 2.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Los sobres 1 y 2 van al Tribunal de Instancia o a la Oficina de Justicia. El sobre 3 se entrega al empleado o empleada del servicio de correos.",
+  "tip": "Cada sobre tiene un destinatario distinto; fíjate en el número 3.",
+  "source": {
+   "doc": "mesa",
+   "page": 17,
+   "section": "Fin: preparación y entrega de los tres sobres"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-documentacion-003",
+  "doc": "mesa",
+  "topic": "documentacion",
+  "type": "tf",
+  "question": "Las firmas de la Presidencia, las vocalías y los interventores deben cruzar las solapas de los sobres.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Al cerrar los sobres se firman de forma que las firmas crucen las solapas, para garantizar que no se han abierto.",
+  "tip": "Piensa en cómo se evita que alguien abra un sobre sin que se note.",
+  "source": {
+   "doc": "mesa",
+   "page": 16,
+   "section": "Fin: preparación y entrega de los tres sobres"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-documentacion-004",
+  "doc": "mesa",
+  "topic": "documentacion",
+  "type": "tf",
+  "question": "La Presidencia debe llevar sola los sobres 1 y 2 al Tribunal de Instancia; no puede ir acompañada.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Puede ir acompañada por un vocal y por los interventores que lo deseen, y la Fuerza Pública la acompañará y facilitará el desplazamiento si hace falta.",
+  "tip": "Lee quién puede ir con la Presidencia y quién la escolta.",
+  "source": {
+   "doc": "mesa",
+   "page": 16,
+   "section": "Fin: preparación y entrega de los tres sobres"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-documentacion-005",
+  "doc": "mesa",
+  "topic": "documentacion",
+  "type": "single",
+  "question": "¿Dónde debe entregar la Presidencia los sobres números 1 y 2?",
+  "options": [
+   "En el Tribunal de Instancia o la Oficina de Justicia",
+   "En la Junta Electoral Provincial",
+   "En el Ayuntamiento del municipio",
+   "En la oficina de correos más cercana"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Los sobres 1 y 2 se entregan en el Tribunal de Instancia o en la Oficina de Justicia del municipio. El juez o jueza firma un recibo.",
+  "tip": "Es el lugar donde se firma el recibo de la documentación, no el de correos.",
+  "source": {
+   "doc": "mesa",
+   "page": 16,
+   "section": "Fin: preparación y entrega de los tres sobres"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-documentacion-006",
+  "doc": "mesa",
+  "topic": "documentacion",
+  "type": "single",
+  "question": "¿Cuál de estos documentos va en el sobre número 1 y no en los sobres 2 y 3?",
+  "options": [
+   "La lista numerada de votantes",
+   "La copia del acta de constitución",
+   "La copia de las actas de sesión",
+   "El recibo del juez"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Los sobres 2 y 3 solo llevan copias del acta de constitución y de las actas de sesión. El sobre 1 lleva los originales y los documentos a los que se refieren las actas, como la lista numerada de votantes.",
+  "tip": "Los sobres 2 y 3 solo llevan copias de dos tipos de acta.",
+  "source": {
+   "doc": "mesa",
+   "page": 16,
+   "section": "Fin: preparación y entrega de los tres sobres"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-documentacion-007",
+  "doc": "mesa",
+  "topic": "documentacion",
+  "type": "single",
+  "question": "¿Quién recibe el sobre número 3 y firma el recibo correspondiente?",
+  "options": [
+   "Un empleado o empleada del servicio de correos",
+   "El juez o jueza de paz",
+   "Un representante de la Administración",
+   "La Junta Electoral de Zona"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "El sobre 3 se entrega al empleado o empleada de correos, que firma el recibo que debe encontrarse entre la documentación de la Mesa.",
+  "tip": "Es el único sobre que no va a un órgano judicial.",
+  "source": {
+   "doc": "mesa",
+   "page": 17,
+   "section": "Fin: preparación y entrega de los tres sobres"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-documentacion-008",
+  "doc": "mesa",
+  "topic": "documentacion",
+  "type": "single",
+  "question": "¿Quién debe permanecer en el local electoral hasta que se entregue el sobre número 3?",
+  "options": [
+   "Al menos una de las vocalías",
+   "Solo la Presidencia",
+   "Todos los interventores",
+   "El representante de la Administración"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Al menos una de las personas que ejercen la vocalía debe quedarse en el local hasta entregar el sobre 3, mientras otras personas de la Mesa llevan los sobres 1 y 2 al Tribunal.",
+  "tip": "Mientras otros llevan sobres al Tribunal, alguien de la Mesa debe quedarse.",
+  "source": {
+   "doc": "mesa",
+   "page": 17,
+   "section": "Fin: preparación y entrega de los tres sobres"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-documentacion-009",
+  "doc": "mesa",
+  "topic": "documentacion",
+  "type": "multi",
+  "question": "Marca todo lo que contienen los sobres números 2 y 3.",
+  "options": [
+   "Copia del acta de constitución de la Mesa",
+   "Copia de las actas de sesión",
+   "La lista del censo electoral utilizada",
+   "La lista numerada de votantes",
+   "Las papeletas nulas"
+  ],
+  "answer": [
+   0,
+   1
+  ],
+  "explanation": "Los sobres 2 y 3 llevan solo copias del acta de constitución y de las actas de sesión. La lista numerada, el censo y las papeletas nulas van en el sobre 1.",
+  "tip": "Los sobres 2 y 3 son idénticos entre sí y muy sencillos.",
+  "source": {
+   "doc": "mesa",
+   "page": 16,
+   "section": "Fin: preparación y entrega de los tres sobres"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-documentacion-010",
+  "doc": "mesa",
+  "topic": "documentacion",
+  "type": "multi",
+  "question": "Marca todos los documentos que se incluyen en el sobre número 1.",
+  "options": [
+   "Lista numerada de votantes",
+   "Papeletas nulas o que hayan sido objeto de reclamación",
+   "Tarjetas censales entregadas por los votantes",
+   "Justificantes de asistencia de los suplentes"
+  ],
+  "answer": [
+   0,
+   1
+  ],
+  "explanation": "El sobre 1 incluye, entre otros, la lista numerada de votantes y las papeletas nulas o reclamadas. Las tarjetas censales y los justificantes de asistencia no figuran en la relación.",
+  "tip": "Piensa en lo que hace falta para comprobar luego cómo fue la votación.",
+  "source": {
+   "doc": "mesa",
+   "page": 16,
+   "section": "Fin: preparación y entrega de los tres sobres"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mesa-accesibilidad-001",
+  "doc": "mesa",
+  "topic": "accesibilidad",
+  "type": "tf",
+  "question": "Ante una persona con discapacidad, hay que presuponer que necesita ayuda y prestársela directamente.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "La pauta es no presuponer que necesita ayuda y preguntar siempre antes de prestar apoyo, respetando su autonomía.",
+  "tip": "Fíjate en el verbo: ¿se actúa primero o se pregunta primero?",
+  "source": {
+   "doc": "mesa",
+   "page": 17,
+   "section": "Accesibilidad de los procesos electorales"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-accesibilidad-002",
+  "doc": "mesa",
+  "topic": "accesibilidad",
+  "type": "tf",
+  "question": "Si un miembro de la Mesa duda de que una persona vote de forma consciente, libre y voluntaria, puede hacerlo constar en el acta, pero no impedir que su voto entre en la urna.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "La duda se anota en el acta de sesión identificando al elector solo por el número de su documento, pero el voto se introduce igualmente en la urna.",
+  "tip": "La Mesa puede dejar constancia, pero no tiene poder para vetar el voto.",
+  "source": {
+   "doc": "mesa",
+   "page": 19,
+   "section": "Accesibilidad de los procesos electorales"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-accesibilidad-003",
+  "doc": "mesa",
+  "topic": "accesibilidad",
+  "type": "tf",
+  "question": "Si una persona ciega usa perro guía, el perro debe permanecer en todo momento junto a ella.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "El manual indica que el perro guía o de asistencia debe permanecer siempre junto a la persona.",
+  "tip": "El perro forma parte del apoyo de la persona.",
+  "source": {
+   "doc": "mesa",
+   "page": 17,
+   "section": "Accesibilidad de los procesos electorales"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-accesibilidad-004",
+  "doc": "mesa",
+  "topic": "accesibilidad",
+  "type": "single",
+  "question": "Una persona sorda que se comunica en lengua oral se acerca a la Mesa. ¿Qué es lo más adecuado?",
+  "options": [
+   "Hablarle de frente y vocalizar con normalidad",
+   "Gritar para que le llegue el mensaje",
+   "Hablar muy despacio exagerando los gestos",
+   "Dirigirse a la persona que la acompaña"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Se recomienda hablar de frente, vocalizar con normalidad, sin gritar ni hablar demasiado despacio, y usar la escritura si es necesario.",
+  "tip": "Ni más fuerte ni más lento: normalidad.",
+  "source": {
+   "doc": "mesa",
+   "page": 18,
+   "section": "Accesibilidad de los procesos electorales"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-accesibilidad-005",
+  "doc": "mesa",
+  "topic": "accesibilidad",
+  "type": "single",
+  "question": "Una persona ciega ha solicitado el voto accesible y figura en el listado entregado a la Mesa. ¿Qué se le entrega?",
+  "options": [
+   "Un kit con la documentación en braille",
+   "Una papeleta ya marcada para ayudarle",
+   "Un listado con las candidaturas leído en voz alta por la Mesa",
+   "Nada: debe votar con la ayuda de un interventor"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Tras comprobar que figura en el listado de DNI, se le entrega el kit con la documentación en braille y se le facilita un espacio con mesa y silla para prepararla.",
+  "tip": "Primero se comprueba el listado y después se entrega un material específico.",
+  "source": {
+   "doc": "mesa",
+   "page": 17,
+   "section": "Accesibilidad de los procesos electorales"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-accesibilidad-006",
+  "doc": "mesa",
+  "topic": "accesibilidad",
+  "type": "single",
+  "question": "Una persona sorda usuaria de lengua de signos llega acompañada de un intérprete. ¿A quién debe dirigirse la Mesa?",
+  "options": [
+   "A la persona sorda",
+   "Al intérprete",
+   "A quien esté primero en la fila",
+   "A ambos a la vez, mirando al intérprete"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Aunque haya intérprete, hay que dirigirse siempre a la persona sorda, situarse frente a ella y mantener el contacto visual.",
+  "tip": "El votante es quien tiene el derecho, no quien interpreta.",
+  "source": {
+   "doc": "mesa",
+   "page": 17,
+   "section": "Accesibilidad de los procesos electorales"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-accesibilidad-007",
+  "doc": "mesa",
+  "topic": "accesibilidad",
+  "type": "multi",
+  "question": "Marca todas las pautas correctas para atender a una persona ciega o con discapacidad visual.",
+  "options": [
+   "No agarrarla ni empujarla; preguntar primero si necesita ayuda",
+   "Si solicita acompañamiento, ofrecerle el brazo para guiarla",
+   "Mantener al perro guía alejado de ella mientras vota",
+   "Facilitar el acceso al espacio habilitado para preparar el voto"
+  ],
+  "answer": [
+   0,
+   1,
+   3
+  ],
+  "explanation": "Se pregunta antes de ayudar, se ofrece el brazo si lo pide y se facilita el espacio de preparación del voto. El perro guía debe permanecer junto a ella.",
+  "tip": "Una de las opciones separa a la persona de su apoyo.",
+  "source": {
+   "doc": "mesa",
+   "page": 17,
+   "section": "Accesibilidad de los procesos electorales"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-accesibilidad-008",
+  "doc": "mesa",
+  "topic": "accesibilidad",
+  "type": "multi",
+  "question": "Marca todas las pautas adecuadas para una persona con discapacidad intelectual o dificultades de comprensión.",
+  "options": [
+   "Usar frases cortas y sencillas",
+   "Explicar los pasos uno a uno",
+   "Hablar solo con quien la acompañe",
+   "Votar por ella para agilizar la cola"
+  ],
+  "answer": [
+   0,
+   1
+  ],
+  "explanation": "Hay que dirigirse directamente a la persona, con frases sencillas y explicando cada paso, dándole tiempo y respetando su derecho a votar. No se infantiliza ni se habla solo con el acompañante.",
+  "tip": "Se trata a la persona como adulta y protagonista del voto.",
+  "source": {
+   "doc": "mesa",
+   "page": 18,
+   "section": "Accesibilidad de los procesos electorales"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-info-001",
+  "doc": "mesa",
+  "topic": "info",
+  "type": "tf",
+  "question": "Un partido puede diseñar un uniforme o vestimenta específica para sus interventores y apoderados.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Solo pueden llevar emblemas o adhesivos discretos como identificación. No cabe un uniforme ni indumentaria con símbolos partidistas por su sesgo propagandístico.",
+  "tip": "Identificar no es lo mismo que hacer propaganda.",
+  "source": {
+   "doc": "mesa",
+   "page": 20,
+   "section": "Información general (interventores, apoderados, acceso al local…)"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-info-002",
+  "doc": "mesa",
+  "topic": "info",
+  "type": "tf",
+  "question": "Los apoderados votan en la Mesa donde actúan aunque no figuren en el censo de esa Mesa.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Los apoderados no votan en la Mesa si no figuran en el censo de la misma.",
+  "tip": "No confundas apoderados con interventores.",
+  "source": {
+   "doc": "mesa",
+   "page": 21,
+   "section": "Información general (interventores, apoderados, acceso al local…)"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-info-003",
+  "doc": "mesa",
+  "topic": "info",
+  "type": "tf",
+  "question": "Los interventores pueden participar en las deliberaciones de la Mesa con voz, pero sin voto.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Pueden asistir a la Mesa y participar en sus deliberaciones con voz y sin voto, además de formular reclamaciones y pedir certificaciones.",
+  "tip": "Opinan, pero no deciden.",
+  "source": {
+   "doc": "mesa",
+   "page": 20,
+   "section": "Información general (interventores, apoderados, acceso al local…)"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-info-004",
+  "doc": "mesa",
+  "topic": "info",
+  "type": "single",
+  "question": "¿Cuántos interventores puede nombrar cada candidatura por Mesa?",
+  "options": [
+   "Dos",
+   "Uno",
+   "Tres",
+   "Los que quiera"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Cada candidatura puede nombrar dos interventores por Mesa, que desempeñan su función solo en la Mesa donde están acreditados.",
+  "tip": "Es un número pequeño y par.",
+  "source": {
+   "doc": "mesa",
+   "page": 20,
+   "section": "Información general (interventores, apoderados, acceso al local…)"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-info-005",
+  "doc": "mesa",
+  "topic": "info",
+  "type": "single",
+  "question": "¿Cuál de estas personas necesita autorización de la Presidencia para permanecer en el local electoral?",
+  "options": [
+   "Un vecino que no va a votar ni acompaña a nadie",
+   "Un notario",
+   "Un apoderado de una candidatura",
+   "Una persona de la Junta Electoral"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Quienes no figuran en la lista de personas con derecho a entrar necesitan autorización de la Presidencia para permanecer en el local.",
+  "tip": "Busca a quien no tiene un papel oficial en la jornada.",
+  "source": {
+   "doc": "mesa",
+   "page": 22,
+   "section": "Información general (interventores, apoderados, acceso al local…)"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-info-006",
+  "doc": "mesa",
+  "topic": "info",
+  "type": "single",
+  "question": "¿Quién tiene la autoridad exclusiva sobre el orden público dentro del local electoral?",
+  "options": [
+   "La Presidencia de la Mesa",
+   "La Fuerza Pública que protege el local",
+   "La Junta Electoral de Zona",
+   "Cada interventor en su turno"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "La Presidencia de la Mesa tiene la autoridad exclusiva dentro del local y puede recabar la intervención de las Fuerzas y Cuerpos de Seguridad.",
+  "tip": "Las fuerzas de seguridad actúan cuando se las requiere.",
+  "source": {
+   "doc": "mesa",
+   "page": 21,
+   "section": "Información general (interventores, apoderados, acceso al local…)"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-info-007",
+  "doc": "mesa",
+  "topic": "info",
+  "type": "multi",
+  "question": "Marca todas las personas que tienen derecho a entrar en el local electoral.",
+  "options": [
+   "Notarios",
+   "Candidatos y candidatas",
+   "Agentes de la Autoridad requeridos por la Presidencia",
+   "Un amigo de un miembro de la Mesa que quiere hacerle compañía",
+   "Cualquier persona que quiera observar el ambiente"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Pueden entrar votantes y su asistencia, representantes, candidatos, interventores, apoderados, notarios, agentes requeridos, Juntas Electorales, jueces de instrucción y representantes de la Administración.",
+  "tip": "Todas las personas con derecho a entrar tienen una función electoral.",
+  "source": {
+   "doc": "mesa",
+   "page": 22,
+   "section": "Información general (interventores, apoderados, acceso al local…)"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-info-008",
+  "doc": "mesa",
+  "topic": "info",
+  "type": "multi",
+  "question": "Marca todas las normas de orden público que recoge el manual.",
+  "options": [
+   "No deben formarse grupos que entorpezcan el acceso",
+   "Nadie entra con armas, salvo fuerzas de seguridad requeridas",
+   "Se permite propaganda en las inmediaciones si no se entra al local",
+   "Las entrevistas a votantes pueden hacerse dentro del colegio con prensa acreditada"
+  ],
+  "answer": [
+   0,
+   1
+  ],
+  "explanation": "No se permiten grupos que entorpezcan el acceso ni armas. La propaganda está prohibida en el local y sus inmediaciones, y las entrevistas deben realizarse fuera.",
+  "tip": "Dos de las opciones abren la puerta a algo que el manual prohíbe expresamente.",
+  "source": {
+   "doc": "mesa",
+   "page": 22,
+   "section": "Información general (interventores, apoderados, acceso al local…)"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-incidencias-001",
+  "doc": "mesa",
+  "topic": "incidencias",
+  "type": "tf",
+  "question": "Si no se presenta la persona designada para la presidencia ni sus suplentes, asume la presidencia el primer vocal.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "En ese caso la vocalía que queda vacante la ejerce su suplente.",
+  "tip": "El orden de sustitución sigue la propia Mesa.",
+  "source": {
+   "doc": "mesa",
+   "page": 23,
+   "section": "Parte II · Incidencias y soluciones"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-incidencias-002",
+  "doc": "mesa",
+  "topic": "incidencias",
+  "type": "tf",
+  "question": "Si la Mesa no puede constituirse antes de las 10 de la mañana, la Junta Electoral de Zona convoca una nueva votación dentro de los dos días siguientes.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "La convocatoria se fija en la puerta del local y la Junta realiza nuevos nombramientos para integrar la Mesa.",
+  "tip": "Hay un plazo de dos días.",
+  "source": {
+   "doc": "mesa",
+   "page": 23,
+   "section": "Parte II · Incidencias y soluciones"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-incidencias-003",
+  "doc": "mesa",
+  "topic": "incidencias",
+  "type": "tf",
+  "question": "Si se detecta que falta material electoral, la Presidencia debe esperar al cierre de la jornada para informar.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Debe comunicarlo inmediatamente a la Junta Electoral de Zona para que lo sustituya o suministre, por el teléfono facilitado por la Administración.",
+  "tip": "El aviso no puede esperar.",
+  "source": {
+   "doc": "mesa",
+   "page": 23,
+   "section": "Parte II · Incidencias y soluciones"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-incidencias-004",
+  "doc": "mesa",
+  "topic": "incidencias",
+  "type": "tf",
+  "question": "A un interventor que llega a las 9:00, tras confeccionarse el acta de constitución, no se le da posesión del cargo.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Si se presentan después de las 8:30 y el acta ya está hecha no se les da posesión, pero pueden votar en la Mesa si tienen derecho.",
+  "tip": "Pasada cierta hora ya no se les da posesión, pero conservan el derecho al voto.",
+  "source": {
+   "doc": "mesa",
+   "page": 24,
+   "section": "Parte II · Incidencias y soluciones"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-incidencias-005",
+  "doc": "mesa",
+  "topic": "incidencias",
+  "type": "tf",
+  "question": "Si falta una papeleta de una candidatura, la votación puede quedar interrumpida el tiempo que haga falta hasta que lleguen.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "La interrupción no puede durar más de una hora, y la votación se prorroga tanto tiempo como hubiera estado interrumpida.",
+  "tip": "Hay un límite de una hora.",
+  "source": {
+   "doc": "mesa",
+   "page": 24,
+   "section": "Parte II · Incidencias y soluciones"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-incidencias-006",
+  "doc": "mesa",
+  "topic": "incidencias",
+  "type": "tf",
+  "question": "Una persona que ha solicitado el voto por correo puede votar presencialmente si lleva su DNI.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Quien ha solicitado el voto por correo no puede votar presencialmente en la Mesa; en la lista aparece con una C delante de su nombre.",
+  "tip": "Fíjate en la letra que aparece en el censo.",
+  "source": {
+   "doc": "mesa",
+   "page": 26,
+   "section": "Parte II · Incidencias y soluciones"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-incidencias-007",
+  "doc": "mesa",
+  "topic": "incidencias",
+  "type": "tf",
+  "question": "Quienes asisten al escrutinio como público no pueden formular reclamaciones ni protestas durante el mismo.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "El escrutinio es público, pero el público no puede reclamar. La Presidencia ordenará la expulsión inmediata de quien lo perturbe.",
+  "tip": "Estar presente no da derecho a reclamar.",
+  "source": {
+   "doc": "mesa",
+   "page": 27,
+   "section": "Parte II · Incidencias y soluciones"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-incidencias-008",
+  "doc": "mesa",
+  "topic": "incidencias",
+  "type": "tf",
+  "question": "Tras decidir suspender la votación, la Presidencia no destruye las papeletas ya depositadas, sino que las guarda en el sobre 1.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "Se ordena la destrucción de todas las papeletas depositadas hasta ese momento en las urnas y se envía copia del escrito razonado a la Junta Electoral Provincial.",
+  "tip": "La suspensión anula lo ya depositado.",
+  "source": {
+   "doc": "mesa",
+   "page": 25,
+   "section": "Parte II · Incidencias y soluciones"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mesa-incidencias-009",
+  "doc": "mesa",
+  "topic": "incidencias",
+  "type": "single",
+  "question": "No han acudido tres personas para constituir la Mesa (presidencia y dos vocalías). ¿Qué deben hacer quienes sí han acudido?",
+  "options": [
+   "Comunicarlo a la Junta Electoral de Zona y enviar por correo certificado una declaración escrita",
+   "Constituir la Mesa con las personas que haya y empezar la votación",
+   "Esperar hasta las 10 sin avisar a nadie",
+   "Pedir a los interventores que ocupen los puestos vacantes"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Deben avisar a la Junta Electoral de Zona, que designará a las personas que formen la Mesa, pudiendo ordenar que sean votantes presentes en el local.",
+  "tip": "La ley exige tres personas, y quien decide es la Junta.",
+  "source": {
+   "doc": "mesa",
+   "page": 23,
+   "section": "Parte II · Incidencias y soluciones"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-incidencias-010",
+  "doc": "mesa",
+  "topic": "incidencias",
+  "type": "single",
+  "question": "Faltan las papeletas de una candidatura y su representante no puede suministrarlas. ¿Qué hace la Presidencia?",
+  "options": [
+   "Interrumpe la votación y lo comunica por teléfono a la Junta Electoral de Zona",
+   "Sigue la votación sin esa candidatura",
+   "Suspende la votación hasta el día siguiente",
+   "Fotocopia papeletas y las reparte"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "La votación se interrumpe, se avisa a la Junta Electoral de Zona que suministra nuevas papeletas de inmediato, y se prorroga el tiempo interrumpido.",
+  "tip": "La solución pasa por reponer papeletas, no por improvisar.",
+  "source": {
+   "doc": "mesa",
+   "page": 24,
+   "section": "Parte II · Incidencias y soluciones"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-incidencias-011",
+  "doc": "mesa",
+  "topic": "incidencias",
+  "type": "single",
+  "question": "Una persona se presenta con una sentencia judicial que reconoce su derecho a figurar en el censo. ¿Qué hace la Mesa?",
+  "options": [
+   "Le deja votar, la añade a la lista numerada indicando que aporta el documento y lo guarda en el sobre 1",
+   "Le niega el voto porque no está en las listas",
+   "Le da un voto por correo",
+   "Le deja votar sin dejar constancia"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Es una incorporación al censo: se indica en la lista numerada que acompaña la sentencia o certificación censal, que se incluye en el sobre 1 y se contabiliza en las actas.",
+  "tip": "Se deja constancia del documento y se conserva.",
+  "source": {
+   "doc": "mesa",
+   "page": 25,
+   "section": "Parte II · Incidencias y soluciones"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mesa-incidencias-012",
+  "doc": "mesa",
+  "topic": "incidencias",
+  "type": "single",
+  "question": "Una persona insiste ante la Mesa en una consulta que no tiene que ver con su voto. ¿Qué debe hacer la Presidencia?",
+  "options": [
+   "Invitarla a deponer su actitud y, si insiste, requerir a los Agentes de la Autoridad para que abandone el local",
+   "Contestarle todo lo que pregunte",
+   "Expulsarla directamente sin avisar",
+   "Pedir a los interventores que la atiendan"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "La Presidencia solo admite las consultas derivadas del ejercicio personal del voto y las de interventores y apoderados. Las demás se presentan ante la Junta Electoral de Zona.",
+  "tip": "Primero se invita, luego se pide apoyo.",
+  "source": {
+   "doc": "mesa",
+   "page": 27,
+   "section": "Parte II · Incidencias y soluciones"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-incidencias-013",
+  "doc": "mesa",
+  "topic": "incidencias",
+  "type": "single",
+  "question": "Un interventor presenta su nombramiento pero la Mesa duda de su autenticidad. ¿Qué debe hacer la Presidencia?",
+  "options": [
+   "Darle posesión si lo exige y anotarlo en el acta de constitución",
+   "Negarle la entrada al local",
+   "Pedirle que vuelva con otro documento más tarde",
+   "Expulsarlo por sospecha de fraude"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Ante dudas sobre nombramientos, copias no recibidas o identidad, se da posesión si lo exigen y se anota para su esclarecimiento posterior.",
+  "tip": "Se da posesión, pero se deja constancia.",
+  "source": {
+   "doc": "mesa",
+   "page": 24,
+   "section": "Parte II · Incidencias y soluciones"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-incidencias-014",
+  "doc": "mesa",
+  "topic": "incidencias",
+  "type": "single",
+  "question": "Se presentan tres interventores de la misma candidatura ante la Mesa. ¿A quiénes se da posesión?",
+  "options": [
+   "A los dos primeros que presenten las credenciales",
+   "A los tres",
+   "A quienes elija el partido",
+   "A ninguno hasta confirmarlo con la Junta"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Solo pueden actuar un máximo de dos interventores por candidatura; se da posesión a quienes primero hayan presentado las credenciales.",
+  "tip": "El criterio es el orden de llegada de las credenciales.",
+  "source": {
+   "doc": "mesa",
+   "page": 24,
+   "section": "Parte II · Incidencias y soluciones"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-incidencias-015",
+  "doc": "mesa",
+  "topic": "incidencias",
+  "type": "single",
+  "question": "Un elector llega con una certificación censal de corrección de errores (sus datos aparecían mal en la lista). ¿Qué efecto tiene?",
+  "options": [
+   "Permite identificarlo en la lista, pero no suma una persona nueva: solo se anota en el acta de sesión",
+   "Lo incorpora al censo y se cuenta también en el acta de escrutinio",
+   "No sirve para votar",
+   "Obliga a suspender la votación"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Estas certificaciones permiten a la Mesa identificar al votante, pero no modifican el número de personas del censo; por eso solo se incluye el caso en el acta de sesión y no en la de escrutinio.",
+  "tip": "Corregir datos no es añadir a nadie al censo.",
+  "source": {
+   "doc": "mesa",
+   "page": 26,
+   "section": "Parte II · Incidencias y soluciones"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mesa-incidencias-016",
+  "doc": "mesa",
+  "topic": "incidencias",
+  "type": "multi",
+  "question": "Marca todas las personas que NO pueden votar presencialmente aunque figuren en el censo de la Mesa.",
+  "options": [
+   "Quien ha solicitado el voto por correo (aparece con una C)",
+   "Interventores con acreditación ante otra Mesa",
+   "Interventores acreditados en esta Mesa e inscritos en la provincia",
+   "Quien figura en el censo y no ha pedido el voto por correo"
+  ],
+  "answer": [
+   0,
+   1
+  ],
+  "explanation": "No votan presencialmente quienes han pedido voto por correo ni los interventores acreditados en otra Mesa, y nadie puede votar dos veces.",
+  "tip": "Dos casos tienen otra vía de voto asignada.",
+  "source": {
+   "doc": "mesa",
+   "page": 26,
+   "section": "Parte II · Incidencias y soluciones"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-incidencias-017",
+  "doc": "mesa",
+  "topic": "incidencias",
+  "type": "multi",
+  "question": "Marca todos los motivos por los que un elector puede formular una reclamación.",
+  "options": [
+   "Dudas sobre la identidad de una persona que acude a votar",
+   "La negativa de la Mesa a acreditar que ha ejercido su derecho de voto",
+   "Desacuerdo con el contenido del programa de una candidatura",
+   "Consultas generales sobre los candidatos"
+  ],
+  "answer": [
+   0,
+   1
+  ],
+  "explanation": "El electorado solo puede reclamar por dudas sobre la identidad de quien vota o por la negativa de la Mesa a acreditar su voto. Otras consultas van a la Junta Electoral de Zona.",
+  "tip": "Solo dos motivos están relacionados con el acto de votar.",
+  "source": {
+   "doc": "mesa",
+   "page": 26,
+   "section": "Parte II · Incidencias y soluciones"
+  },
+  "difficulty": 2
+ },
+ {
+  "id": "mesa-incidencias-018",
+  "doc": "mesa",
+  "topic": "incidencias",
+  "type": "multi",
+  "question": "Marca todas las personas que pueden votar en la Mesa aun no figurando en su censo.",
+  "options": [
+   "Interventores acreditados en la Mesa e inscritos en alguna Mesa de la circunscripción",
+   "Personas con una sentencia judicial que reconoce su derecho",
+   "Personas con certificación censal de alta",
+   "Personas que solo llevan la tarjeta censal de otra Mesa",
+   "Cualquier persona con DNI"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Pueden votar aun sin figurar en las listas los interventores acreditados (si están inscritos en la circunscripción) y quienes aportan sentencia o certificación censal de alta.",
+  "tip": "Las excepciones requieren un documento o una acreditación concreta.",
+  "source": {
+   "doc": "mesa",
+   "page": 25,
+   "section": "Parte II · Incidencias y soluciones"
+  },
+  "difficulty": 3
+ },
+ {
+  "id": "mesa-breves-001",
+  "doc": "mesa",
+  "topic": "breves",
+  "type": "tf",
+  "question": "Según las instrucciones breves, el sobre 3 se entrega al empleado o empleada del servicio de correos.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "El esquema resume que se cierran, firman y entregan los sobres 1 y 2 en el Tribunal de Instancia o la Oficina de Justicia y el sobre 3 a correos.",
+  "tip": "Un sobre va a correos.",
+  "source": {
+   "doc": "mesa",
+   "page": 37,
+   "section": "Breves instrucciones (resumen gráfico)"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-breves-002",
+  "doc": "mesa",
+  "topic": "breves",
+  "type": "tf",
+  "question": "La votación se desarrolla de 8 a 9 de la mañana.",
+  "options": [
+   "Verdadero",
+   "Falso"
+  ],
+  "answer": [
+   1
+  ],
+  "explanation": "De 8 a 9 se reúne la Mesa, se comprueba el material y se constituye. La votación va de las 9:00 a las 20:00.",
+  "tip": "Esa hora es para constituir la Mesa.",
+  "source": {
+   "doc": "mesa",
+   "page": 36,
+   "section": "Breves instrucciones (resumen gráfico)"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-breves-003",
+  "doc": "mesa",
+  "topic": "breves",
+  "type": "single",
+  "question": "Según el esquema, ¿qué se hace justo después del cierre de la votación a las 20:00?",
+  "options": [
+   "Voto por correo",
+   "Escrutinio",
+   "Extender el acta de sesión",
+   "Entrega de los sobres"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Tras el cierre vienen el voto por correo, el voto de la Mesa, la firma de la lista numerada y el escrutinio.",
+  "tip": "El primer paso tras cerrar tiene que ver con los votos recibidos por otra vía.",
+  "source": {
+   "doc": "mesa",
+   "page": 36,
+   "section": "Breves instrucciones (resumen gráfico)"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-breves-004",
+  "doc": "mesa",
+  "topic": "breves",
+  "type": "single",
+  "question": "¿Qué sobres se entregan en el Tribunal de Instancia o la Oficina de Justicia?",
+  "options": [
+   "Los sobres 1 y 2",
+   "El sobre 3 únicamente",
+   "Los sobres 2 y 3",
+   "Los tres sobres"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "Los sobres 1 y 2 se cierran, firman y entregan en el Tribunal de Instancia o la Oficina de Justicia; el 3 va a correos.",
+  "tip": "Solo hay un sobre que no se entrega allí.",
+  "source": {
+   "doc": "mesa",
+   "page": 37,
+   "section": "Breves instrucciones (resumen gráfico)"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-breves-005",
+  "doc": "mesa",
+  "topic": "breves",
+  "type": "single",
+  "question": "¿Qué paso del esquema es previo a introducir la documentación en los sobres?",
+  "options": [
+   "Numerar los sobres (Sobre 1, 2 y 3)",
+   "Entregar el sobre 3 a correos",
+   "Cerrar y firmar los sobres",
+   "Entregar los sobres 1 y 2 al Tribunal"
+  ],
+  "answer": [
+   0
+  ],
+  "explanation": "El esquema indica numerar previamente los sobres e introducir la documentación correspondiente; después se cierran, firman y entregan.",
+  "tip": "Antes de llenar los sobres, hay que identificarlos.",
+  "source": {
+   "doc": "mesa",
+   "page": 37,
+   "section": "Breves instrucciones (resumen gráfico)"
+  },
+  "difficulty": 1
+ },
+ {
+  "id": "mesa-breves-006",
+  "doc": "mesa",
+  "topic": "breves",
+  "type": "multi",
+  "question": "Marca todo lo que lleva el sobre 1 según el esquema.",
+  "options": [
+   "Credenciales de los interventores",
+   "Lista numerada de votantes",
+   "Lista del censo electoral",
+   "Copias de las actas de sesión",
+   "Justificantes de asistencia de los suplentes"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "El sobre 1 lleva acta de constitución, actas de sesión y sus documentos: lista numerada, censo, certificaciones o sentencias, credenciales y solicitudes de reintegro. Las copias van en los sobres 2 y 3.",
+  "tip": "Las copias de actas corresponden a otros sobres.",
+  "source": {
+   "doc": "mesa",
+   "page": 37,
+   "section": "Breves instrucciones (resumen gráfico)"
+  },
+  "difficulty": 2
+ }
+]

@@ -55,9 +55,9 @@ Se publica con **GitHub Pages**. No hay paso de compilación: HTML + CSS + JS no
 - [x] Guardar en el móvil (localStorage) el historial y las preguntas falladas → modo "repasar fallos".
 
 ## Fase 5 — Mesa electoral
-- [ ] `data/mesa/summary.json`: resumen paso a paso (constitución de la mesa 8:00, votación 9:00–20:00, voto CERA/correo, escrutinio, actas, incidencias), con páginas.
-- [ ] Página **Mesa electoral**: línea temporal del día + listas de "qué hacer si…".
-- [ ] `data/questions/mesa.json` + su test (mismo motor de cuestionarios).
+- [x] `data/mesa/summary.json`: resumen paso a paso (constitución de la mesa 8:00, votación 9:00–20:00, voto CERA/correo, escrutinio, actas, incidencias), con páginas.
+- [x] Página **Mesa electoral**: línea temporal del día + listas de "qué hacer si…".
+- [x] `data/questions/mesa.json` + su test (mismo motor de cuestionarios).
 
 ## Fase 6 — Prueba de la versión preliminar
 - [ ] Probar en local y en el móvil (en la misma wifi: `http://<IP-del-PC>:8000`).
@@ -66,7 +66,7 @@ Se publica con **GitHub Pages**. No hay paso de compilación: HTML + CSS + JS no
 
 ## Fase 7 — Ampliar contenido
 - [ ] 100 preguntas por programa, repartidas entre todos los temas que trata (unas 8–15 por tema).
-- [ ] 100 preguntas del manual de mesa (solo de las páginas de instrucciones/procedimiento).
+- [x] 100 preguntas del manual de mesa (solo de las páginas de instrucciones/procedimiento).
 - [ ] `tools/validate.py`: comprueba el esquema, que no haya ids repetidos, que las páginas existan y que la respuesta aparezca cerca de la página citada.
 
 ## Fase 8 — Conexión con NotebookLM (explorar)
