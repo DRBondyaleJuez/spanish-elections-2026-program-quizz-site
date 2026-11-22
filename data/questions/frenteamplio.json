@@ -70,5 +70,2300 @@
       "section": "Energía"
     },
     "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-vivienda-002",
+    "doc": "frenteamplio",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Cuántas viviendas públicas quiere sumar el Frente Amplio en 12 años con el plan estatal de alquiler asequible?",
+    "options": [
+      "500.000",
+      "1 millón",
+      "1,5 millones",
+      "3 millones"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El programa destina el 1 % del PIB al año (unos 17.000 millones) para sumar 1,5 millones de viviendas públicas y llegar al 20 % del parque total en 2035.",
+    "tip": "El objetivo es un 20 % del parque de viviendas en 2035.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 10,
+      "section": "Un gran parque público y asequible de vivienda"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteamplio-vivienda-003",
+    "doc": "frenteamplio",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Según el Frente Amplio, la cuota máxima del alquiler en zonas tensionadas sería el 40 % de la renta neta media de la zona.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La propuesta fija un tope del 25 % de la renta neta media de la zona (una zona tensionada es aquella donde el precio del alquiler es muy alto). El programa calcula que los precios bajarían un 35 % de media.",
+    "tip": "El porcentaje es menor de lo que muchos esperarían: un cuarto de la renta.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 13,
+      "section": "Un gran parque público y asequible de vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-vivienda-004",
+    "doc": "frenteamplio",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "El Frente Amplio propone extinguir en un máximo de 3 años las licencias de pisos turísticos en edificios residenciales de zonas tensionadas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es una de sus medidas contra los pisos turísticos: la extinción de las licencias en un máximo de 3 años, y además cobrarles el IVA general del 21 %.",
+    "tip": "Se plantea un plazo máximo, no una prohibición inmediata.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 12,
+      "section": "Erradicación de pisos turísticos y alquileres de temporada fraudulentos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-vivienda-005",
+    "doc": "frenteamplio",
+    "topic": "vivienda",
+    "type": "multi",
+    "question": "Marca todas las medidas sobre los contratos de alquiler que propone el Frente Amplio.",
+    "options": [
+      "Hacer indefinidos los contratos de alquiler por defecto",
+      "Prórroga obligatoria de 5 años durante la transición (7 si el casero es una empresa)",
+      "Eliminar cualquier prórroga obligatoria para dar libertad al propietario",
+      "Topar la cuota máxima en zonas tensionadas"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "El programa propone contratos indefinidos por defecto, con prórroga obligatoria de 5 años (7 con casero empresa) mientras dura la transición, y un tope de precio en zonas tensionadas. No plantea eliminar las prórrogas.",
+    "tip": "Una de las cuatro va en dirección contraria a la protección del inquilino.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 14,
+      "section": "Un gran parque público y asequible de vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-vivienda-006",
+    "doc": "frenteamplio",
+    "topic": "vivienda",
+    "type": "which_party",
+    "question": "¿Qué partido propone subir un 200 % el impuesto de transmisiones por comprar una segunda vivienda y un 1.000 % desde la tercera?",
+    "options": [
+      "pp",
+      "frenteamplio",
+      "vox",
+      "salf"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es una propuesta del Frente Amplio, que también eliminaría ese impuesto para quien compre su primera vivienda habitual.",
+    "tip": "Quien compra una sola vivienda para vivir pagaría menos.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 19,
+      "section": "Un gran parque público y asequible de vivienda"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-vivienda-007",
+    "doc": "frenteamplio",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "El Frente Amplio propone reformar la Constitución para que la vivienda sea un derecho fundamental exigible ante los tribunales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Que sea \"exigible ante los tribunales\" significa que una persona podría reclamar su derecho a una vivienda ante un juez. También se protegería de forma permanente el parque público de la venta.",
+    "tip": "Implica cambiar la norma más alta del país.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 19,
+      "section": "Un gran parque público y asequible de vivienda"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteamplio-vivienda-008",
+    "doc": "frenteamplio",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "El impuesto del 10 % sobre el valor de los pisos se aplicaría a los particulares desde el primer inmueble que posean.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El impuesto del 10 % se aplicaría a las empresas desde el primer inmueble, pero a los particulares solo desde el cuarto. Quedan exentos los pisos alquilados a precio asequible.",
+    "tip": "Hay una diferencia entre empresas y particulares.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 18,
+      "section": "Un gran parque público y asequible de vivienda"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-empleo-001",
+    "doc": "frenteamplio",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Cuántas horas semanales alcanzaría la jornada laboral que propone el Frente Amplio tras reducirla de forma progresiva sin bajar el sueldo?",
+    "options": [
+      "30 horas",
+      "32 horas",
+      "35 horas",
+      "37,5 horas"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La propuesta es llegar a 32 horas semanales, empezando por 37,5 horas en 2026, y a 35 horas en el sector público.",
+    "tip": "Es menos que las 35 horas del sector público.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 56,
+      "section": "Salarios y pensiones dignos y precios asequibles"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteamplio-empleo-002",
+    "doc": "frenteamplio",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "El Frente Amplio propone que el SMI sea siempre, al menos, el 60 % del salario medio neto y que no pueda absorberse con pluses.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El SMI es el Salario Mínimo Interprofesional. \"Absorberse\" significa que la empresa lo cubra reduciendo complementos (pluses) que ya se cobraban; el programa lo prohibiría.",
+    "tip": "Se calcula sobre el salario medio neto, no el bruto.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 51,
+      "section": "Salarios que deben crecer, más tiempo para la vida"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-empleo-003",
+    "doc": "frenteamplio",
+    "topic": "empleo",
+    "type": "which_party",
+    "question": "¿Qué partido propone repartir obligatoriamente el 10 % del beneficio entre la plantilla en empresas de 50 o más trabajadores?",
+    "options": [
+      "pp",
+      "vox",
+      "frenteamplio",
+      "salf"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una propuesta del Frente Amplio dentro del capítulo de democracia en las empresas, junto con la representación de las plantillas en los consejos de administración.",
+    "tip": "Se acompaña de trabajadores sentados en los consejos de administración.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 115,
+      "section": "Democracia en las empresas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-empleo-004",
+    "doc": "frenteamplio",
+    "topic": "empleo",
+    "type": "multi",
+    "question": "Marca todas las medidas laborales que están en el programa del Frente Amplio.",
+    "options": [
+      "Cláusulas de revisión salarial ligadas al IPC en los convenios",
+      "Presunción de relación laboral en el trabajo de plataformas digitales",
+      "Autorización administrativa previa en los despidos colectivos",
+      "Abaratar el despido improcedente para dar flexibilidad a las empresas"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa plantea revisión salarial con el IPC, la \"Ley Rider universal\" y recuperar la autorización administrativa previa (permiso de la administración laboral) en despidos colectivos. Propone reformar el despido improcedente para que repare el daño real, no abaratarlo.",
+    "tip": "Una de las opciones iría en contra de endurecer el despido.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 53,
+      "section": "Salarios que deben crecer, más tiempo para la vida"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-empleo-005",
+    "doc": "frenteamplio",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "El Frente Amplio propone subir la prestación contributiva por desempleo del 70 % al 90 % de la base durante los seis primeros meses.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La subida propuesta es del 70 % al 80 % de la base reguladora durante los seis primeros meses, además de subir un 25 % los topes máximos.",
+    "tip": "La subida es de diez puntos.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 53,
+      "section": "Salarios que deben crecer, más tiempo para la vida"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-empleo-006",
+    "doc": "frenteamplio",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "El Frente Amplio propone permitir hasta 3 días seguidos de ausencia justificada (6 al año) por problemas leves de salud, con declaración responsable.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La \"declaración responsable\" es que la persona trabajadora lo declara sin necesidad de un justificante médico. Se consideraría un permiso remunerado.",
+    "tip": "No hace falta parte médico en estos casos leves.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 54,
+      "section": "Salarios que deben crecer, más tiempo para la vida"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-economia-002",
+    "doc": "frenteamplio",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué tipo mínimo efectivo propone el Frente Amplio en el Impuesto sobre Sociedades para las grandes empresas y grupos?",
+    "options": [
+      "10 %",
+      "15 %",
+      "20 %",
+      "25 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Se impondría un tipo mínimo efectivo del 20 % sobre el resultado contable ajustado, sin subir la carga a las pymes. \"Efectivo\" es lo que de verdad se paga tras deducciones.",
+    "tip": "Es la quinta parte del resultado.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 44,
+      "section": "Que las grandes empresas paguen lo que les corresponde"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteamplio-economia-003",
+    "doc": "frenteamplio",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone la \"Tasa Zucman\": un 3 % anual sobre patrimonios individuales de más de 50 millones de euros?",
+    "options": [
+      "frenteamplio",
+      "pp",
+      "vox",
+      "salf"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es una propuesta del Frente Amplio, que además plantea que los patrimonios de más de 1 millón de euros paguen al menos un 2 %.",
+    "tip": "Su nombre viene de un economista que defiende gravar a los más ricos.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 45,
+      "section": "Más contribución de los grandes patrimonios"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-economia-004",
+    "doc": "frenteamplio",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone crear una banca pública estatal uniendo el ICO, la red de Correos y el peso público en CaixaBank?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "frenteamplio"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta del Frente Amplio. El ICO es el Instituto de Crédito Oficial y Correos ofrecería servicios bancarios en su red de oficinas (Banco Postal).",
+    "tip": "Combina una entidad de crédito oficial con las oficinas de Correos.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 84,
+      "section": "Banca pública"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-economia-005",
+    "doc": "frenteamplio",
+    "topic": "economia",
+    "type": "tf",
+    "question": "El Frente Amplio propone que la tarifa plana de autónomos de 88 euros se limite a dos años.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone lo contrario: mantener la tarifa plana de 88 euros mientras los ingresos del autónomo sean inferiores al SMI anual, en lugar de limitarla a dos años.",
+    "tip": "Plantea condicionarla a los ingresos, no al tiempo.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 92,
+      "section": "Simplificación burocrática, digitalización, protección a las pymes y fiscalidad"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-economia-006",
+    "doc": "frenteamplio",
+    "topic": "economia",
+    "type": "tf",
+    "question": "El Frente Amplio propone un IVA de la luz progresivo: del 0 % para consumos bajos al 21 % en los tramos altos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Un IVA progresivo significa que el tipo sube a medida que aumenta el consumo, de modo que los hogares con poco consumo no pagarían IVA de la luz.",
+    "tip": "El tipo depende de cuánta luz se consume.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 47,
+      "section": "Un IVA más justo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-economia-007",
+    "doc": "frenteamplio",
+    "topic": "economia",
+    "type": "multi",
+    "question": "Marca todas las medidas del programa sobre el IRPF y las herencias.",
+    "options": [
+      "Bajar el IRPF a las rentas del trabajo de hasta 27.000 euros",
+      "Subir los tipos máximos hasta el 52 % a partir de 300.000 euros",
+      "Crear un impuesto estatal sobre grandes herencias, hasta un 34 % marginal",
+      "Eliminar el impuesto de sucesiones en todo el Estado"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El IRPF bajaría para rentas del trabajo de hasta 27.000 euros y subiría hasta el 52 % desde 300.000. También crearía un impuesto estatal sobre grandes herencias (hasta un 34 % de tipo marginal), no eliminaría el de sucesiones.",
+    "tip": "Una opción contradice la idea de gravar más a los grandes patrimonios.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 46,
+      "section": "Que las rentas del capital tributen como las del trabajo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-economia-008",
+    "doc": "frenteamplio",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿A qué operadores prohibiría el Frente Amplio operar en los mercados de futuros de productos alimenticios?",
+    "options": [
+      "A todo el que no esté acreditado como productor directo",
+      "A los bancos extranjeros",
+      "A las cooperativas agrarias",
+      "A las grandes cadenas de supermercados"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La medida busca frenar la especulación financiera con los alimentos: los mercados de futuros (donde se compran y venden cosechas a un precio pactado de antemano) quedarían reservados a quienes producen directamente.",
+    "tip": "La prohibición afecta a quien no produce los alimentos.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 56,
+      "section": "Precios asequibles y control de márgenes"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-pensiones-001",
+    "doc": "frenteamplio",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿A qué edad propone el Frente Amplio devolver la edad de jubilación, con posibilidad de jubilarse a los 60 en oficios penosos?",
+    "options": [
+      "63 años",
+      "65 años",
+      "66 años",
+      "67 años"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone volver a los 65 años y permitir la jubilación a los 60 en oficios penosos como la construcción, la limpieza, la ayuda a domicilio, las camareras de piso o la pesca.",
+    "tip": "Es la edad que había antes de los retrasos progresivos.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 58,
+      "section": "Pensiones públicas dignas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteamplio-pensiones-002",
+    "doc": "frenteamplio",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "El Frente Amplio propone una Prestación Universal por Crianza de 200 euros al mes por cada menor de 18 años.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Sería automática (sin tener que pedirla) y se aprobaría en tres fases durante la legislatura.",
+    "tip": "Se paga por cada hijo o hija menor de edad.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 21,
+      "section": "Reducir la desigualdad y acabar con la pobreza"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteamplio-pensiones-003",
+    "doc": "frenteamplio",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "El Frente Amplio propone subir la inversión en dependencia del 0,8 % al 3 % del PIB en 2030.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La propuesta es subir del 0,8 % al 1,7 % del PIB en 2030, además de reconocer por ley un derecho al respiro de al menos un mes al año para las personas cuidadoras.",
+    "tip": "El objetivo final está por debajo del 2 %.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 23,
+      "section": "Derecho a cuidar y a recibir cuidados"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-pensiones-004",
+    "doc": "frenteamplio",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Hasta qué suelo propone subir el Frente Amplio el IPREM, actualizándolo cada año con el IPC?",
+    "options": [
+      "600 euros",
+      "700 euros",
+      "800 euros",
+      "900 euros"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El IPREM (indicador usado para fijar el acceso a ayudas) subiría 100 euros hasta un suelo de 700 euros.",
+    "tip": "Es 100 euros más que el valor actual aproximado.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 21,
+      "section": "Reducir la desigualdad y acabar con la pobreza"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-pensiones-005",
+    "doc": "frenteamplio",
+    "topic": "pensiones",
+    "type": "multi",
+    "question": "Marca todas las medidas sobre el Ingreso Mínimo Vital (IMV) que propone el Frente Amplio.",
+    "options": [
+      "Concederlo de oficio, sin que haya que pedirlo",
+      "Alcanzar el 60 % de la renta mediana de cada comunidad",
+      "Extenderlo a jóvenes de 18 a 30 años",
+      "Exigir tres años de empadronamiento para cobrarlo"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El IMV es la prestación estatal para hogares con pocos recursos. El programa lo reformaría para que se conceda de oficio, con el objetivo de alcanzar el 60 % de la renta mediana de cada comunidad, y lo extendería a jóvenes de 18 a 30 años. No plantea endurecer el acceso.",
+    "tip": "Tres medidas amplían el acceso; una lo restringiría.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 22,
+      "section": "Reducir la desigualdad y acabar con la pobreza"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-pensiones-006",
+    "doc": "frenteamplio",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "El Frente Amplio propone ampliar el permiso por nacimiento hasta 20 semanas por progenitor, intransferibles.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "\"Intransferibles\" significa que cada progenitor disfruta de su permiso y no puede cederlo al otro. Además se retribuiría el permiso parental hasta 10 semanas.",
+    "tip": "Se dirige a cada madre y a cada padre por separado.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 24,
+      "section": "Derecho a cuidar y a recibir cuidados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-pensiones-007",
+    "doc": "frenteamplio",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Qué garantizaría el Frente Amplio en la reforma de la Constitución sobre las pensiones?",
+    "options": [
+      "Su revalorización automática con el IPC",
+      "Una edad de jubilación fija de 67 años",
+      "Que su gestión pase a entidades privadas",
+      "Que todas se calculen con un plan de ahorro individual"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa reformaría la Constitución para garantizar la pensión pública, su revalorización automática con el IPC, que ninguna sea inferior al SMI y que su gestión no se privatice.",
+    "tip": "Se protege el poder adquisitivo y el carácter público.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 57,
+      "section": "Pensiones públicas dignas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteamplio-empleo-007",
+    "doc": "frenteamplio",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué derecho propone el Frente Amplio ante los despidos decididos por algoritmos?",
+    "options": [
+      "El derecho a una revisión humana",
+      "El derecho a que la empresa no deba justificarlos",
+      "El derecho a una indemnización fija de 10 días",
+      "El derecho a ser readmitido de forma automática"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Junto con la presunción de relación laboral para el trabajo en plataformas digitales (la llamada \"Ley Rider\" universal), propone que una persona pueda exigir que un ser humano revise un despido decidido por un algoritmo.",
+    "tip": "Se trata de que no decida solo una máquina.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 52,
+      "section": "Salarios que deben crecer, más tiempo para la vida"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-sanidad-001",
+    "doc": "frenteamplio",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué porcentaje del PIB fijaría el Frente Amplio como gasto sanitario público mínimo?",
+    "options": [
+      "5 %",
+      "6,5 %",
+      "8 %",
+      "10 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone un gasto sanitario público de al menos el 8 % del PIB y destinar el 25 % del presupuesto sanitario a Atención Primaria (el primer nivel de atención: centros de salud y médicos de cabecera).",
+    "tip": "Es más que el 6-7 % habitual.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 26,
+      "section": "Una sanidad pública más fuerte"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteamplio-sanidad-002",
+    "doc": "frenteamplio",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "El Frente Amplio propone derogar la Ley 15/1997, que permitió la gestión sanitaria con entidades privadas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Esa ley abrió la puerta a nuevas formas de gestión indirecta. El programa quiere que sea excepcional y planificar la vuelta a la gestión pública de los servicios privatizados.",
+    "tip": "Se quiere recuperar la gestión directa.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 26,
+      "section": "Una sanidad pública más fuerte"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-sanidad-003",
+    "doc": "frenteamplio",
+    "topic": "sanidad",
+    "type": "which_party",
+    "question": "¿Qué partido propone crear una industria farmacéutica con participación 100 % pública?",
+    "options": [
+      "pp",
+      "frenteamplio",
+      "vox",
+      "salf"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es una propuesta del Frente Amplio, para reforzar la producción de medicamentos y evitar desabastecimientos.",
+    "tip": "Busca que no falten medicamentos por depender de empresas privadas.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 29,
+      "section": "Una sanidad pública más fuerte"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-sanidad-004",
+    "doc": "frenteamplio",
+    "topic": "sanidad",
+    "type": "multi",
+    "question": "Marca todas las prestaciones que el Frente Amplio quiere ampliar o financiar en la sanidad pública.",
+    "options": [
+      "Salud bucodental, hasta cubrir al menos al 50 % de la población",
+      "Gafas y lentillas gratuitas universales",
+      "Audífonos públicos",
+      "Copago farmacéutico para todas las personas jubiladas"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa amplía la salud bucodental (dentista), universaliza gafas y lentillas gratuitas y financia audífonos públicos. No incluye ningún copago nuevo.",
+    "tip": "Una de las opciones supone pagar más, no menos.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 27,
+      "section": "Una sanidad pública más fuerte"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-sanidad-005",
+    "doc": "frenteamplio",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Cuántos profesionales de salud mental por cada 100.000 habitantes propone el Frente Amplio?",
+    "options": [
+      "4",
+      "7",
+      "10",
+      "20"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone subir hasta 10 profesionales de salud mental por cada 100.000 habitantes y desarrollar la estrategia \"Cero Contenciones\", que busca evitar sujeciones físicas o farmacológicas a pacientes.",
+    "tip": "Es una cifra de dos dígitos, pero baja.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 28,
+      "section": "Una sanidad pública más fuerte"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-sanidad-006",
+    "doc": "frenteamplio",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "El Frente Amplio propone reformar el artículo 43 de la Constitución para incluir el derecho al aborto.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El artículo 43 es el que reconoce el derecho a la protección de la salud. También garantizaría el aborto en centros públicos de todas las comunidades.",
+    "tip": "Se hace a través del artículo sobre la salud.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 28,
+      "section": "Una sanidad pública más fuerte"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-sanidad-007",
+    "doc": "frenteamplio",
+    "topic": "sanidad",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del Frente Amplio?",
+    "options": [
+      "Aprobar el decreto de listas de espera, que cuenta desde la indicación médica",
+      "Prohibir las listas de espera paralelas",
+      "Planificar la vuelta a la gestión pública de servicios privatizados",
+      "Derivar pacientes a la sanidad privada concertada para reducir las listas de espera"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El Frente Amplio quiere reducir la gestión privada, no ampliarla. Derivar pacientes a centros privados concertados para acortar las listas es una idea defendida por otros partidos como Vox o SALF.",
+    "tip": "Tres opciones refuerzan la sanidad pública; una la complementa con centros privados.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 29,
+      "section": "Una sanidad pública más fuerte"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-educacion-001",
+    "doc": "frenteamplio",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿A qué porcentaje del PIB garantizaría llegar la Ley de Financiación Educativa del Frente Amplio en 2030?",
+    "options": [
+      "5 %",
+      "6 %",
+      "7 %",
+      "9 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "La ley garantizaría llegar al 7 % del PIB en gasto educativo público en 2030.",
+    "tip": "La cifra queda entre el 6 y el 8 %.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 31,
+      "section": "Una educación pública para la igualdad de oportunidades"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteamplio-educacion-002",
+    "doc": "frenteamplio",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "Según el Frente Amplio, la ratio máxima por aula sería de 25 alumnos en Primaria.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La ley fijaría 15 alumnos en Primaria y FP, 20 en Secundaria y 23 en Bachillerato, además de ratios de 4, 6 y 8 en cada curso de 0 a 3 años. \"Ratio\" es el número máximo de alumnos por aula.",
+    "tip": "En Primaria sería la cifra más baja de las etapas obligatorias.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 31,
+      "section": "Una educación pública para la igualdad de oportunidades"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-educacion-003",
+    "doc": "frenteamplio",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "El Frente Amplio propone gratuidad total del comedor escolar en Infantil y Primaria de la red pública.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "También plantea plazas públicas gratuitas de 0 a 3 años para toda familia que lo pida.",
+    "tip": "Se refiere solo a los centros públicos.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 22,
+      "section": "Reducir la desigualdad y acabar con la pobreza"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteamplio-educacion-004",
+    "doc": "frenteamplio",
+    "topic": "educacion",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO propone el Frente Amplio en educación?",
+    "options": [
+      "Prohibir las cuotas obligatorias en centros concertados",
+      "Limitar las horas lectivas docentes por ley",
+      "Cheque escolar para que las familias elijan colegio con dinero público",
+      "Aprobar un Estatuto del Docente"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El cheque escolar (dar dinero a las familias para elegir centro) es una idea de otros partidos. El Frente Amplio propone avanzar hacia que el 100 % de los fondos públicos vaya a la educación pública.",
+    "tip": "Una opción destina fondos públicos a elegir centro privado.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 31,
+      "section": "Una educación pública para la igualdad de oportunidades"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-educacion-005",
+    "doc": "frenteamplio",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Cuántas horas lectivas docentes como máximo propone fijar por ley en Secundaria, Bachillerato y FP?",
+    "options": [
+      "16 horas",
+      "18 horas",
+      "20 horas",
+      "23 horas"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone 18 horas lectivas en esas etapas y 23 en Infantil y Primaria, y aprobar un Estatuto del Docente.",
+    "tip": "En Infantil y Primaria sería una cifra más alta.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 32,
+      "section": "Una educación pública para la igualdad de oportunidades"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-educacion-006",
+    "doc": "frenteamplio",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "El Frente Amplio propone subir las becas postobligatorias hasta el 0,44 % del PIB.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Además plantea duplicar las becas en las etapas obligatorias para familias vulnerables.",
+    "tip": "Es una cifra inferior al 0,5 %.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 32,
+      "section": "Una educación pública para la igualdad de oportunidades"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-igualdad-001",
+    "doc": "frenteamplio",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "El Frente Amplio propone destinar por ley al menos el 5 % del presupuesto no financiero del Estado a igualdad.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "\"Presupuesto no financiero\" es el gasto del Estado sin contar los intereses y amortizaciones de la deuda. También subiría un 10 % adicional cada año la partida contra la violencia machista.",
+    "tip": "Es una cifra pequeña expresada en porcentaje.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 38,
+      "section": "Feminismo que pone la vida en el centro"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-igualdad-002",
+    "doc": "frenteamplio",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "El Frente Amplio propone subir un 20 % adicional cada año la partida contra la violencia machista.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La subida propuesta es de un 10 % adicional cada año.",
+    "tip": "Es la mitad de lo que dice la frase.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 38,
+      "section": "Feminismo que pone la vida en el centro"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-igualdad-003",
+    "doc": "frenteamplio",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Cuántos millones de euros destinaría como mínimo el Frente Amplio a atender a víctimas de trata y explotación sexual?",
+    "options": [
+      "50 millones",
+      "100 millones",
+      "250 millones",
+      "500 millones"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El programa asigna al menos 250 millones a esta atención y plantea eliminar toda norma que penalice a quienes ejercen la prostitución.",
+    "tip": "Es un cuarto de millar de millones.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 39,
+      "section": "Feminismo que pone la vida en el centro"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-igualdad-004",
+    "doc": "frenteamplio",
+    "topic": "igualdad",
+    "type": "multi",
+    "question": "Marca todas las medidas LGTBI que figuran en el programa del Frente Amplio.",
+    "options": [
+      "Desplegar la Ley Trans",
+      "Reconocer a las personas no binarias",
+      "Crear un Observatorio contra la LGTBIfobia",
+      "Derogar la Ley Trans"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa propone desplegar la Ley Trans, reconocer a las personas no binarias, crear un Observatorio contra la LGTBIfobia y proteger la autonomía corporal de las personas intersexuales.",
+    "tip": "Una opción contradice a las demás.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 123,
+      "section": "Despliegue de la Ley Trans e identidades no binarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-igualdad-005",
+    "doc": "frenteamplio",
+    "topic": "igualdad",
+    "type": "which_not",
+    "question": "¿Cuál de estas posturas NO está en el programa del Frente Amplio?",
+    "options": [
+      "Eliminar toda norma que penalice a quienes ejercen la prostitución",
+      "Hacer del consentimiento explícito el eje de la ley de agresiones sexuales",
+      "Completar la directiva europea de transparencia salarial",
+      "Abolir la prostitución castigando la compra de sexo"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El Frente Amplio no plantea abolir la prostitución: propone eliminar las normas que penalicen a quienes la ejercen. El abolicionismo (castigar la compra de sexo) lo defienden otros partidos como el PSOE o Compromís.",
+    "tip": "Una opción va en dirección contraria a la postura del programa sobre la prostitución.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 39,
+      "section": "Feminismo que pone la vida en el centro"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-igualdad-006",
+    "doc": "frenteamplio",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Qué medida propone el Frente Amplio con el progenitor investigado por violencia machista?",
+    "options": [
+      "Suspender de forma cautelar y automática las visitas",
+      "Mantener las visitas hasta que haya sentencia",
+      "Imponer siempre la custodia compartida",
+      "Obligarle a asistir a mediación familiar"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Junto con el consentimiento explícito como eje de la ley de agresiones sexuales (\"solo sí es sí\"), propone suspender las visitas de forma cautelar y automática (mientras se investiga, sin esperar a un juicio).",
+    "tip": "La medida opera desde el inicio de la investigación.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 38,
+      "section": "Feminismo que pone la vida en el centro"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-inmigracion-001",
+    "doc": "frenteamplio",
+    "topic": "inmigracion",
+    "type": "which_party",
+    "question": "¿Qué partido propone cerrar los Centros de Internamiento de Extranjeros (CIE) y eliminar la lista nacional de países seguros?",
+    "options": [
+      "pp",
+      "vox",
+      "frenteamplio",
+      "salf"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una propuesta del Frente Amplio. Los CIE son centros donde se retiene a personas extranjeras en situación irregular antes de una posible expulsión. También prohibiría las devoluciones encubiertas en frontera.",
+    "tip": "Plantea acabar con el internamiento de personas migrantes.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 127,
+      "section": "Migraciones y antirracismo: procedimientos estables de regularización y vías legales"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteamplio-inmigracion-002",
+    "doc": "frenteamplio",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "El Frente Amplio propone garantizar cita en las oficinas de extranjería en un máximo de quince días naturales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El plazo máximo propuesto es de siete días naturales.",
+    "tip": "El plazo es de una semana.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 126,
+      "section": "Migraciones y antirracismo: procedimientos estables de regularización y vías legales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-inmigracion-003",
+    "doc": "frenteamplio",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "El Frente Amplio propone resolver las solicitudes de reagrupación familiar en seis meses, con silencio administrativo negativo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La propuesta es resolverlas en tres meses y con silencio administrativo positivo: si la administración no responde en plazo, la solicitud se entiende concedida.",
+    "tip": "Tanto el plazo como el sentido del silencio son distintos de lo que dice la frase.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 128,
+      "section": "Migraciones y antirracismo: procedimientos estables de regularización y vías legales"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-inmigracion-004",
+    "doc": "frenteamplio",
+    "topic": "inmigracion",
+    "type": "multi",
+    "question": "Marca todas las medidas del programa del Frente Amplio sobre extranjería y asilo.",
+    "options": [
+      "Un procedimiento estable y permanente de regularización",
+      "Derogar el \"rechazo en frontera\" de la Ley de Extranjería",
+      "Resolver todas las solicitudes de la regularización extraordinaria de 2026",
+      "Ampliar el \"rechazo en frontera\" a más supuestos"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa propone reformar la Ley de Extranjería para crear un procedimiento permanente de regularización, resolver las solicitudes de 2026 y derogar el \"rechazo en frontera\" (devolver a una persona en el momento de cruzar sin examinar su caso). No lo ampliaría.",
+    "tip": "Una opción refuerza el control fronterizo, algo que el programa rechaza.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 126,
+      "section": "Migraciones y antirracismo: procedimientos estables de regularización y vías legales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-inmigracion-005",
+    "doc": "frenteamplio",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿En qué elecciones propone el Frente Amplio ampliar el voto de las personas migrantes residentes, con derecho a votar y a ser elegidas?",
+    "options": [
+      "Municipales",
+      "Autonómicas",
+      "Generales",
+      "Europeas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone ampliar el voto de las personas migrantes residentes en las elecciones municipales, tanto como electoras como elegibles.",
+    "tip": "Es el nivel de gobierno más cercano a la vecindad.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 128,
+      "section": "Migraciones y antirracismo: procedimientos estables de regularización y vías legales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-inmigracion-006",
+    "doc": "frenteamplio",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Qué órgano propone crear el Frente Amplio para tramitar las solicitudes de protección internacional?",
+    "options": [
+      "Una Agencia de Asilo unificada",
+      "Un Ministerio de Fronteras",
+      "Una Policía de Inmigración",
+      "Un Consejo Europeo de Acogida"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone una Agencia de Asilo unificada, junto con resolver la reagrupación familiar en tres meses.",
+    "tip": "Su nombre contiene la palabra \"asilo\".",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 128,
+      "section": "Migraciones y antirracismo: procedimientos estables de regularización y vías legales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-medioambiente-002",
+    "doc": "frenteamplio",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone cerrar las centrales nucleares de Almaraz I y II en los plazos previstos (2027-2028)?",
+    "options": [
+      "frenteamplio",
+      "pp",
+      "vox",
+      "cc"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es una propuesta del Frente Amplio, que además retiraría progresivamente los ciclos combinados de gas hasta 2045.",
+    "tip": "Se trata de centrales nucleares situadas en Cáceres.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 64,
+      "section": "Energía limpia, pública y al alcance de todas las familias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-medioambiente-003",
+    "doc": "frenteamplio",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone prohibir los vuelos nacionales cuando existe una alternativa en tren de 2,5 horas?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "frenteamplio"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta del Frente Amplio, junto con un abono único estatal de transporte público y Cercanías a 20 euros al mes.",
+    "tip": "Se aplica solo si el tren tarda poco.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 68,
+      "section": "Transporte público asequible y seguro"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-medioambiente-004",
+    "doc": "frenteamplio",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone prohibir la publicidad de las empresas de combustibles fósiles, como se hizo con el tabaco?",
+    "options": [
+      "pp",
+      "frenteamplio",
+      "vox",
+      "salf"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es una propuesta del Frente Amplio, que también retiraría sus logotipos de eventos deportivos y patrocinios.",
+    "tip": "Se compara con una prohibición que ya existe para un producto dañino para la salud.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 61,
+      "section": "Continuar el impulso hacia una transición ecológica justa"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-medioambiente-005",
+    "doc": "frenteamplio",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué porcentaje del PIB al año fijaría el Frente Amplio por ley para invertir en transición ecológica?",
+    "options": [
+      "1,5 %",
+      "2 %",
+      "3,5 %",
+      "5 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El programa propone una inversión del 3,5 % del PIB anual y reducir las emisiones un 38 % en 2035 y un 85 % en 2040 respecto a 1990.",
+    "tip": "Es más de 3 puntos del PIB.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 60,
+      "section": "Continuar el impulso hacia una transición ecológica justa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-medioambiente-006",
+    "doc": "frenteamplio",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "El Frente Amplio propone llegar al 100 % de generación renovable en 2030.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El calendario propuesto es 81 % en 2030, 90 % en 2035 y 100 % en 2040.",
+    "tip": "El 100 % se alcanzaría diez años después.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 60,
+      "section": "Continuar el impulso hacia una transición ecológica justa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-medioambiente-007",
+    "doc": "frenteamplio",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "El Frente Amplio propone reconocer el derecho humano al agua, gestionar el ciclo del agua de forma 100 % pública y prohibir los cortes por motivos económicos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Prohibir los cortes por motivos económicos significa que ningún hogar se quedaría sin agua por no poder pagar la factura.",
+    "tip": "Combina un derecho con gestión pública.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 73,
+      "section": "Agua como bien público"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteamplio-medioambiente-008",
+    "doc": "frenteamplio",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "Marca todas las medidas del Frente Amplio sobre las redes y la comercialización de la energía.",
+    "options": [
+      "Hacer públicas las redes de distribución eléctrica y de gas",
+      "Crear una comercializadora pública de referencia",
+      "Vender las redes eléctricas a inversores privados",
+      "Aumentar la producción de los ciclos combinados de gas"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "explanation": "El programa propone redes de distribución públicas y una comercializadora pública de referencia para romper el oligopolio (pocas empresas que dominan el mercado). Retiraría los ciclos combinados de gas progresivamente.",
+    "tip": "Las dos medidas correctas van en la línea del control público.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 63,
+      "section": "Energía limpia, pública y al alcance de todas las familias"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-medioambiente-009",
+    "doc": "frenteamplio",
+    "topic": "medioambiente",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del Frente Amplio?",
+    "options": [
+      "Reducir las emisiones un 38 % en 2035 respecto a 1990",
+      "Crear un abono único estatal de transporte público",
+      "Gestionar el ciclo del agua de forma 100 % pública",
+      "Alargar la vida de las centrales nucleares"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El Frente Amplio quiere cerrar las nucleares de Almaraz en 2027-2028. Alargar la vida de las centrales nucleares lo defienden otros partidos, como el PP y Vox.",
+    "tip": "Una de las propuestas es lo contrario del calendario de cierre nuclear.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 64,
+      "section": "Energía limpia, pública y al alcance de todas las familias"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteamplio-rural-001",
+    "doc": "frenteamplio",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué porcentaje de superficie agraria en ecológico quiere alcanzar el Frente Amplio en 2030?",
+    "options": [
+      "10 %",
+      "25 %",
+      "40 %",
+      "60 %"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone al menos un 25 % de superficie agraria en ecológico en 2030 y el 100 % en 2050, y reducir de forma vinculante plaguicidas y fertilizantes sintéticos.",
+    "tip": "En 2050 sería el total.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 88,
+      "section": "Agricultura, ganadería y pesca: sostenibilidad económica y social"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-rural-002",
+    "doc": "frenteamplio",
+    "topic": "rural",
+    "type": "tf",
+    "question": "El Frente Amplio propone garantizar por ley que los servicios públicos básicos estén a menos de 30 minutos de cualquier persona del medio rural.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La medida busca fijar población en los pueblos (\"lucha contra la despoblación\"), asegurando acceso a servicios básicos como sanidad o educación.",
+    "tip": "El tiempo se mide desde donde vive la persona.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 97,
+      "section": "Lucha contra la despoblación: garantizar empleo y servicios públicos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-rural-003",
+    "doc": "frenteamplio",
+    "topic": "rural",
+    "type": "tf",
+    "question": "El Frente Amplio propone mantener las ayudas de la PAC basadas en derechos históricos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone lo contrario: reformar la PAC (Política Agraria Común de la UE) para dirigir el dinero a explotaciones familiares pequeñas y medianas, eliminando progresivamente las ayudas basadas en derechos históricos.",
+    "tip": "El programa quiere cambiar el criterio de reparto.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 87,
+      "section": "Agricultura, ganadería y pesca: sostenibilidad económica y social"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-rural-004",
+    "doc": "frenteamplio",
+    "topic": "rural",
+    "type": "multi",
+    "question": "Marca todas las medidas agrarias que propone el Frente Amplio.",
+    "options": [
+      "Un banco público de tierras para facilitar el relevo generacional",
+      "Ceder suelo rústico de la SAREB a explotaciones ecológicas",
+      "Reducir de forma vinculante plaguicidas y fertilizantes sintéticos",
+      "Aumentar los fertilizantes sintéticos para ganar producción"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa propone un banco público de tierras, ceder suelo rústico de la SAREB (el \"banco malo\") a explotaciones ecológicas y reducir plaguicidas y fertilizantes sintéticos. Es un modelo agroecológico, no intensivo.",
+    "tip": "Una de las opciones iría contra el modelo agroecológico.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 88,
+      "section": "Agricultura, ganadería y pesca: sostenibilidad económica y social"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-rural-005",
+    "doc": "frenteamplio",
+    "topic": "rural",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del Frente Amplio?",
+    "options": [
+      "Un programa de vivienda rural solo para residencia permanente",
+      "Reducir progresivamente la flota pesquera industrial",
+      "Un Pacto de Estado para la agricultura, la ganadería y la alimentación",
+      "Un nuevo Plan Hidrológico Nacional con trasvases"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El Frente Amplio no propone nuevos trasvases: apuesta por la gestión pública del agua y la sostenibilidad. Los nuevos trasvases los defienden otros partidos como el PP y Vox.",
+    "tip": "Una de las ideas implica llevar agua de una cuenca a otra con grandes obras.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 97,
+      "section": "Agricultura, ganadería y pesca: sostenibilidad económica y social"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-rural-006",
+    "doc": "frenteamplio",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué propone el Frente Amplio para la flota pesquera industrial?",
+    "options": [
+      "Reducirla progresivamente a favor de la pesca artesanal",
+      "Duplicarla para aumentar las capturas",
+      "Subvencionar nuevos barcos de gran tamaño",
+      "Mantenerla como está"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Propone reducir progresivamente la flota industrial a favor de la pesca artesanal y de menor impacto, y restringir la acuicultura industrial intensiva.",
+    "tip": "Se prioriza el pequeño tamaño y el menor impacto.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 89,
+      "section": "Agricultura, ganadería y pesca: sostenibilidad económica y social"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteamplio-territorio-001",
+    "doc": "frenteamplio",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué cantidad adicional aportaría la reforma de la financiación autonómica que propone el Frente Amplio?",
+    "options": [
+      "Al menos un 0,5 % del PIB",
+      "Al menos un 1 % del PIB",
+      "Al menos un 2,3 % del PIB (unos 38.000 millones al año)",
+      "Al menos un 5 % del PIB"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone reformar ya la financiación autonómica, caducada desde 2014, aportando al menos un 2,3 % del PIB adicional, unos 38.000 millones al año.",
+    "tip": "Se mide en porcentaje del PIB y en miles de millones.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 103,
+      "section": "Financiación autonómica y vertebración territorial"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-territorio-002",
+    "doc": "frenteamplio",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "El Frente Amplio propone que la participación de los ayuntamientos en los tributos del Estado llegue al 5 % del PIB.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La propuesta es aumentarla hasta el 2,5 % del PIB y condonar la deuda de los municipios más endeudados.",
+    "tip": "Es la mitad del dato de la frase.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 109,
+      "section": "Ayuntamientos con recursos y autonomía: un nuevo marco de financiación local"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-territorio-003",
+    "doc": "frenteamplio",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "El Frente Amplio propone completar la segunda fase de liberalización del ferrocarril de alta velocidad.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone lo contrario: restablecer la alta velocidad como servicio público de titularidad y operación exclusiva de Renfe y paralizar la segunda fase de liberalización.",
+    "tip": "La palabra clave es \"paralizar\".",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 105,
+      "section": "Infraestructuras e inversión en todo el territorio"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-territorio-004",
+    "doc": "frenteamplio",
+    "topic": "territorio",
+    "type": "multi",
+    "question": "Marca todas las condiciones o medidas que acompañan a la condonación de deuda autonómica que propone el Frente Amplio.",
+    "options": [
+      "No hacer dumping fiscal",
+      "No bajar impuestos a las rentas altas",
+      "Que los recursos extra vayan a servicios esenciales",
+      "Que la deuda se perdone sin ninguna condición"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "La condonación estaría condicionada a no hacer dumping fiscal (competir bajando impuestos entre comunidades), no bajar impuestos a las rentas altas y destinar los recursos extra a servicios esenciales.",
+    "tip": "Una opción no pone ningún requisito.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 104,
+      "section": "Condonación de deuda y prohibición del dumping fiscal"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-territorio-005",
+    "doc": "frenteamplio",
+    "topic": "territorio",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del Frente Amplio?",
+    "options": [
+      "Avanzar hacia una República Federal",
+      "Convertir el Senado en una cámara de representación territorial",
+      "Aprobar una ley del plurilingüismo",
+      "Devolver al Estado competencias de las comunidades autónomas"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El Frente Amplio defiende un pacto territorial que respete las competencias autonómicas. Recentralizar competencias lo proponen partidos como Vox o SALF.",
+    "tip": "Una opción va en sentido contrario al federalismo.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 140,
+      "section": "Hacia una República Federal para alcanzar la democracia real"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-territorio-006",
+    "doc": "frenteamplio",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué permitiría la ley del plurilingüismo que propone el Frente Amplio?",
+    "options": [
+      "Relacionarse con las instituciones del Estado en las lenguas cooficiales",
+      "Eliminar el castellano de la administración",
+      "Que cada comunidad tenga su propio idioma oficial único",
+      "Estudiar solo en la lengua de cada comunidad"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La ley garantizaría los derechos lingüísticos para que la ciudadanía pueda relacionarse con las instituciones del Estado en las lenguas cooficiales.",
+    "tip": "Se trata de que las lenguas se puedan usar ante el Estado.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 141,
+      "section": "Hacia una República Federal para alcanzar la democracia real"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-instituciones-001",
+    "doc": "frenteamplio",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone derogar los delitos de ofensas a símbolos, de injurias a la Corona o a instituciones y contra los sentimientos religiosos?",
+    "options": [
+      "frenteamplio",
+      "pp",
+      "vox",
+      "salf"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es una propuesta del Frente Amplio, junto con la derogación completa de la Ley Mordaza (Ley de Seguridad Ciudadana).",
+    "tip": "Se relaciona con la libertad de expresión.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 142,
+      "section": "Acabar con la criminalización de la protesta social"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-instituciones-002",
+    "doc": "frenteamplio",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "El Frente Amplio propone impedir contratar con el sector público durante diez años a personas y empresas condenadas por corrupción.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El plazo propuesto es de veinte años. También crearía una Oficina Independiente contra la Corrupción.",
+    "tip": "El plazo es el doble de lo que dice la frase.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 142,
+      "section": "Transparencia, lucha contra la corrupción y dimensión ética de la gestión pública"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-instituciones-003",
+    "doc": "frenteamplio",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "El Frente Amplio propone modificar el artículo 135 de la Constitución, que prioriza el pago de la deuda sobre cualquier otro gasto.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La reforma impediría aplicar las sendas de estabilidad presupuestaria cuando pusieran en riesgo la \"estabilidad social\", por ejemplo si el desempleo o la pobreza superan la media de los cinco países de la UE con menores tasas.",
+    "tip": "Es el artículo de la Constitución sobre estabilidad presupuestaria.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 141,
+      "section": "Hacia una democracia avanzada"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-instituciones-004",
+    "doc": "frenteamplio",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿A cuántas firmas propone el Frente Amplio reducir las necesarias para una iniciativa legislativa popular (ILP)?",
+    "options": [
+      "100.000",
+      "250.000",
+      "350.000",
+      "500.000"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Se rebajarían a la mitad, de 500.000 a 250.000. Una ILP es una propuesta de ley que presenta la ciudadanía recogiendo firmas.",
+    "tip": "Es la mitad de la cifra actual.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 141,
+      "section": "Hacia una democracia avanzada"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-instituciones-005",
+    "doc": "frenteamplio",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Qué prohibiría el Frente Amplio dentro del control democrático de la actuación policial?",
+    "options": [
+      "Las pelotas de goma",
+      "Las esposas",
+      "El uso de uniforme",
+      "Las patrullas a pie"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Prohibiría las pelotas de goma, regularía el uso de la fuerza y de las cámaras corporales y crearía un órgano externo e independiente que investigue abusos policiales.",
+    "tip": "Es un tipo de munición antidisturbios.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 145,
+      "section": "Deberes y derechos de las Fuerzas y Cuerpos de Seguridad del Estado"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteamplio-instituciones-006",
+    "doc": "frenteamplio",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "Marca todas las medidas del Frente Amplio sobre la laicidad del Estado.",
+    "options": [
+      "Revisar los Acuerdos de 1979 con la Santa Sede",
+      "Eliminar la financiación pública a confesiones religiosas",
+      "Recuperar para el Estado los bienes inmatriculados por la Iglesia católica",
+      "Ampliar la financiación pública a la Iglesia católica"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Los bienes inmatriculados son inmuebles que la Iglesia católica registró a su nombre sin título de propiedad. El programa propone recuperarlos, revisar los acuerdos con la Santa Sede y eliminar la financiación pública a confesiones religiosas.",
+    "tip": "Tres opciones recortan privilegios; una los amplía.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 150,
+      "section": "Laicidad del Estado"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-instituciones-007",
+    "doc": "frenteamplio",
+    "topic": "instituciones",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del Frente Amplio?",
+    "options": [
+      "Una Oficina Independiente contra la Corrupción",
+      "Desmilitarizar la Guardia Civil",
+      "Derogar por completo la Ley Mordaza",
+      "Que los jueces elijan a la mayoría del CGPJ"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El Frente Amplio propone reformar la ley del Poder Judicial para que ningún partido bloquee la renovación del CGPJ (órgano de gobierno de los jueces), no que los jueces elijan a la mayoría. Esa idea la defienden PP, Vox y SALF.",
+    "tip": "Tres propuestas se refieren a anticorrupción, policía y libertades; la otra al gobierno de los jueces.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 148,
+      "section": "Modernización, renovación y democratización del acceso al sistema judicial"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-exterior-001",
+    "doc": "frenteamplio",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido rechaza el compromiso de la OTAN de destinar el 5 % del PIB a gasto militar y propone reorientar esos recursos a protección civil, sanidad y educación?",
+    "options": [
+      "pp",
+      "frenteamplio",
+      "vox",
+      "cc"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es una propuesta del Frente Amplio, dentro de su apuesta por la seguridad humana y el derecho internacional.",
+    "tip": "Propone destinar el dinero a servicios civiles.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 130,
+      "section": "Apostar por la seguridad humana frente al discurso belicista"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-exterior-002",
+    "doc": "frenteamplio",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone firmar y ratificar el Tratado de Prohibición de las Armas Nucleares?",
+    "options": [
+      "pp",
+      "vox",
+      "frenteamplio",
+      "cc"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una propuesta del Frente Amplio, en el apartado de desarme nuclear y nuevo control de armas.",
+    "tip": "Su nombre trata del desarme.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 130,
+      "section": "Apostar por la seguridad humana frente al discurso belicista"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-exterior-003",
+    "doc": "frenteamplio",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿A qué porcentaje de la renta nacional bruta propone el Frente Amplio subir la ayuda oficial al desarrollo, desde el 0,27 % actual?",
+    "options": [
+      "0,5 %",
+      "0,7 %",
+      "1 %",
+      "1,5 %"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La ayuda oficial al desarrollo (la cooperación internacional del Estado con países más pobres) subiría del 0,27 % al 0,7 % de la renta nacional bruta.",
+    "tip": "Es un objetivo que fijó la ONU hace décadas.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 133,
+      "section": "Cooperación internacional y ayuda al desarrollo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-exterior-004",
+    "doc": "frenteamplio",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "El Frente Amplio propone reformar los tratados del Banco Central Europeo para prohibirle financiar directamente a los Estados miembros.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone lo contrario: ampliar su mandato y permitirle financiar directamente a los Estados miembros. También quiere superar el Pacto de Estabilidad y Crecimiento.",
+    "tip": "Se trata de dar más poder al BCE.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 137,
+      "section": "Hacia una Europa de los pueblos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-exterior-005",
+    "doc": "frenteamplio",
+    "topic": "exterior",
+    "type": "multi",
+    "question": "Marca todas las medidas que propone el Frente Amplio en relación con Israel y la justicia internacional.",
+    "options": [
+      "Una ley de embargo integral, total y permanente de armas a Israel",
+      "Apoyar a la Corte Penal Internacional",
+      "Mantener excepciones autorizables por el Gobierno",
+      "Aumentar la venta de armas a países en conflicto"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "explanation": "El programa plantea un embargo de armas a Israel sin excepciones autorizables por el Gobierno y un apoyo político y financiero a la Corte Penal Internacional.",
+    "tip": "La clave es que no habría excepciones.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 131,
+      "section": "Apostar por la seguridad humana frente al discurso belicista"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-exterior-006",
+    "doc": "frenteamplio",
+    "topic": "exterior",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del Frente Amplio?",
+    "options": [
+      "Superar el Pacto de Estabilidad y Crecimiento de la UE",
+      "Aprobar una ley de embargo de armas a Israel",
+      "Defender un referéndum de autodeterminación en el Sáhara Occidental",
+      "Apoyar el plan de autonomía marroquí para el Sáhara Occidental"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El Frente Amplio propone retirar el apoyo del Gobierno al plan de autonomía marroquí y defender un referéndum de autodeterminación para el Sáhara Occidental.",
+    "tip": "Una opción es lo contrario de otra de las opciones.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 132,
+      "section": "Apostar por la seguridad humana frente al discurso belicista"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-cultura-001",
+    "doc": "frenteamplio",
+    "topic": "cultura",
+    "type": "which_party",
+    "question": "¿Qué partido propone derogar la Ley 18/2013, que protege la tauromaquia como patrimonio cultural, y suprimir las subvenciones estatales a los toros?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "frenteamplio"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta del Frente Amplio, dentro del apartado de bienestar animal.",
+    "tip": "Afecta a una actividad que algunos partidos defienden como tradición.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 76,
+      "section": "Bienestar animal"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteamplio-cultura-002",
+    "doc": "frenteamplio",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿Qué porcentaje del gasto público total quiere destinar el Frente Amplio a cultura durante la legislatura?",
+    "options": [
+      "0,5 %",
+      "1 %",
+      "2 %",
+      "5 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone llegar al 2 % del gasto público total en cultura y aprobar una Ley del Sistema Público de la Cultura con un suelo mínimo de inversión estatal.",
+    "tip": "Es una cifra muy pequeña en porcentaje.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 34,
+      "section": "La cultura como derecho"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-cultura-003",
+    "doc": "frenteamplio",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿Qué medida propone el Frente Amplio para proteger a las librerías frente a las grandes plataformas?",
+    "options": [
+      "Exigir un coste mínimo de envío en la venta de libros a distancia",
+      "Prohibir la venta de libros por internet",
+      "Bajar a cero el IVA solo para las plataformas",
+      "Obligar a las librerías a vender por internet"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La medida evita que el envío gratuito sea una ventaja desleal de las grandes plataformas frente a las librerías.",
+    "tip": "Actúa sobre el precio del envío.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 36,
+      "section": "La cultura como derecho"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-cultura-004",
+    "doc": "frenteamplio",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿Qué inversión en I+D+i propone el Frente Amplio alcanzar en 2030?",
+    "options": [
+      "1,5 % del PIB",
+      "2 % del PIB",
+      "3 % del PIB",
+      "5 % del PIB"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Propone el 3 % del PIB en 2030 y el 4 % en la década siguiente. I+D+i significa investigación, desarrollo e innovación.",
+    "tip": "Después subiría un punto más.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 80,
+      "section": "Una nueva política industrial y soberanía tecnológica"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-cultura-005",
+    "doc": "frenteamplio",
+    "topic": "cultura",
+    "type": "multi",
+    "question": "Marca todas las medidas del Frente Amplio sobre el entorno digital y los medios.",
+    "options": [
+      "Prohibir los chatbots que simulen vínculos sentimentales",
+      "Prohibir las cajas de recompensa en videojuegos al alcance de menores",
+      "Crear un registro público con la propiedad de los medios y su inversión publicitaria",
+      "Permitir la propiedad cruzada de medios sin límites"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Las cajas de recompensa (loot boxes) son mecánicas de azar encubiertas en videojuegos. La propiedad cruzada es que un mismo grupo controle medios de distintos tipos: el programa le pondría límites.",
+    "tip": "Una opción deja el control mediático sin límites.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 121,
+      "section": "Poder digital: transparencia algorítmica, autonomía del usuario, interoperabilidad y privacidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-cultura-006",
+    "doc": "frenteamplio",
+    "topic": "cultura",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del Frente Amplio?",
+    "options": [
+      "Llegar al 2 % del gasto público total en cultura",
+      "Un coste mínimo de envío en la venta de libros a distancia",
+      "Un registro público de la propiedad de los medios",
+      "Mantener las subvenciones estatales a los toros"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El Frente Amplio propone suprimir las subvenciones estatales a los toros y derogar la ley que protege la tauromaquia como patrimonio cultural.",
+    "tip": "Una opción es lo contrario de lo que propone sobre tauromaquia.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 76,
+      "section": "Bienestar animal"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteamplio-otros-001",
+    "doc": "frenteamplio",
+    "topic": "otros",
+    "type": "which_party",
+    "question": "¿Qué partido propone impulsar el cierre de las granjas peleteras y acabar con la cautividad de los cetáceos?",
+    "options": [
+      "pp",
+      "vox",
+      "frenteamplio",
+      "salf"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una propuesta del Frente Amplio, que además no autorizaría nuevas macrogranjas.",
+    "tip": "Se prohibiría la cría de animales para obtener pieles.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 77,
+      "section": "Bienestar animal"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-otros-002",
+    "doc": "frenteamplio",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Para qué menores propone eliminar el Frente Amplio el acogimiento residencial en 2030, priorizando el acogimiento familiar?",
+    "options": [
+      "Menores de 3 años",
+      "Menores de 6 años",
+      "Menores de 10 años",
+      "Menores de 14 años"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Prohibiría el acogimiento residencial (centros) para menores de 6 años desde el inicio y lo eliminaría para menores de 10 en 2030, con el objetivo de llegar al 70 % de acogimiento familiar.",
+    "tip": "Antes del 2030 la prohibición ya cubre a los más pequeños.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 41,
+      "section": "Infancia, adolescencia y juventud"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "frenteamplio-otros-003",
+    "doc": "frenteamplio",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Hasta qué porcentaje del PIB quiere subir el Frente Amplio la inversión estatal en protección a la infancia y las familias, desde el 1,5 %?",
+    "options": [
+      "1,8 %",
+      "2,4 %",
+      "3 %",
+      "4 %"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone subirla del 1,5 % actual al 2,4 % del PIB y extender el modelo Barnahus para atender a víctimas de violencia sexual infantil.",
+    "tip": "Es casi un punto más.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 40,
+      "section": "Infancia, adolescencia y juventud"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "frenteamplio-otros-004",
+    "doc": "frenteamplio",
+    "topic": "otros",
+    "type": "multi",
+    "question": "Marca todas las medidas dirigidas a la juventud que propone el Frente Amplio.",
+    "options": [
+      "La primera Ley estatal de Juventud",
+      "Un plan de emancipación juvenil",
+      "El derecho al voto a partir de los 16 años",
+      "Retrasar la edad de emancipación"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa plantea la primera Ley estatal de Juventud, un plan de emancipación juvenil (para facilitar que los jóvenes se independicen) y el voto a los 16 años.",
+    "tip": "Una opción va contra la emancipación.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 42,
+      "section": "Infancia, adolescencia y juventud"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "frenteamplio-otros-005",
+    "doc": "frenteamplio",
+    "topic": "otros",
+    "type": "multi",
+    "question": "Marca todas las medidas de bienestar animal que propone el Frente Amplio.",
+    "options": [
+      "Garantizar una opción de menú 100 % vegetal en todos los comedores públicos",
+      "Eliminar las peleas de gallos en todo el Estado",
+      "Autorizar nuevas macrogranjas",
+      "Mantener la cautividad de los cetáceos"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "explanation": "El programa incluye un menú vegetal en comedores públicos y la eliminación de las peleas de gallos. No autorizaría nuevas macrogranjas y acabaría con la cautividad de los cetáceos.",
+    "tip": "Dos opciones contradicen lo que defiende el programa.",
+    "source": {
+      "doc": "frenteamplio",
+      "page": 78,
+      "section": "Bienestar animal"
+    },
+    "difficulty": 2
   }
 ]

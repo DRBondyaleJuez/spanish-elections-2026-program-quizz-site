@@ -68,5 +68,2317 @@
       "section": "Menores y redes sociales"
     },
     "difficulty": 2
+  },
+  {
+    "id": "pp-vivienda-002",
+    "doc": "pp",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "El PP propone que las licencias de obra nueva y de rehabilitación se resuelvan en tres meses, con silencio positivo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El silencio positivo significa que, si la Administración no responde en el plazo fijado, la licencia se entiende concedida. El PP lo plantea para acelerar la construcción de vivienda.",
+    "tip": "Piensa en qué ocurre cuando la Administración no contesta a tiempo.",
+    "source": {
+      "doc": "pp",
+      "page": 41,
+      "section": "4.1 Se construirá un millón de viviendas más en España"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-vivienda-003",
+    "doc": "pp",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Según el PP, el aval público para comprar vivienda cubriría hasta el 50% del valor de la vivienda.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El aval público que propone ampliar el PP cubre hasta el 20% del valor de la vivienda y se extendería a los menores de 40 años. Un aval es una garantía que da el Estado para que el banco conceda la hipoteca.",
+    "tip": "La cifra es bastante menor que la mitad.",
+    "source": {
+      "doc": "pp",
+      "page": 43,
+      "section": "4.1 Se construirá un millón de viviendas más en España"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-vivienda-004",
+    "doc": "pp",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿En cuánto tiempo propone el PP que el propietario pueda recuperar una vivienda ocupada, por orden judicial?",
+    "options": [
+      "En un mes",
+      "En 48 horas",
+      "En 7 días",
+      "En 15 días"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa plantea una ley para recuperar la vivienda en 48 horas desde el primer día y declarar nulo el empadronamiento del ocupante. Ocupar una vivienda es entrar y vivir en ella sin permiso del propietario.",
+    "tip": "Es un plazo de pocas horas, no de días.",
+    "source": {
+      "doc": "pp",
+      "page": 43,
+      "section": "4.1 Se construirá un millón de viviendas más en España"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-vivienda-005",
+    "doc": "pp",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "En el plan «Tres años+», ¿qué debe hacer el propietario particular para recibir una deducción en el IRPF?",
+    "options": [
+      "Renovar el contrato tres años más subiendo la renta por debajo del IPC",
+      "Bajar la renta un 30% al renovar",
+      "Vender la vivienda a su inquilino",
+      "Congelar la renta durante cinco años"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El propietario que, al vencer un contrato de vivienda habitual, lo renueve tres años más con una subida inferior al IPC (índice de precios al consumo, que mide la inflación) tendría una deducción o un crédito fiscal. Los inquilinos tendrían además su propia deducción.",
+    "tip": "El nombre del plan indica cuántos años se renuevan; la clave está en cómo se actualiza la renta.",
+    "source": {
+      "doc": "pp",
+      "page": 43,
+      "section": "4.1 Se construirá un millón de viviendas más en España"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-vivienda-006",
+    "doc": "pp",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿A qué porcentaje propone el PP reducir el IVA de la compra de primera vivienda para menores de 40 años?",
+    "options": [
+      "Del 10% al 0%",
+      "Del 21% al 10%",
+      "Del 21% al 4%",
+      "Del 10% al 4%"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PP propone bajar el IVA del 10% al 4% para menores de 40 años y permitir pagarlo de forma fraccionada al ritmo de la hipoteca.",
+    "tip": "Es el mismo tipo reducido que propone para la rehabilitación de vivienda habitual.",
+    "source": {
+      "doc": "pp",
+      "page": 43,
+      "section": "4.1 Se construirá un millón de viviendas más en España"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-vivienda-007",
+    "doc": "pp",
+    "topic": "vivienda",
+    "type": "multi",
+    "question": "Marca todas las medidas de vivienda que propone el PP.",
+    "options": [
+      "Restringir los pisos turísticos",
+      "Limitar la compra de viviendas por fondos de inversión",
+      "Aprobar una nueva Ley del Suelo",
+      "Publicar todas las parcelas públicas destinadas a vivienda",
+      "Topar por ley los alquileres"
+    ],
+    "answer": [
+      2,
+      3
+    ],
+    "explanation": "El PP propone una nueva Ley del Suelo para agilizar el planeamiento urbanístico y publicar las parcelas públicas para que promotores y cooperativas las conozcan. Su programa no incluye limitar a los fondos de inversión, restringir pisos turísticos ni topar alquileres.",
+    "tip": "Sus medidas se centran en que haya más suelo disponible para construir.",
+    "source": {
+      "doc": "pp",
+      "page": 41,
+      "section": "4.1 Se construirá un millón de viviendas más en España"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-vivienda-008",
+    "doc": "pp",
+    "topic": "vivienda",
+    "type": "which_party",
+    "question": "¿Qué partido propone crear la «Hucha Hogar Joven», una cuenta de ahorro para la primera vivienda con deducción del 20%?",
+    "options": [
+      "psoe",
+      "podemos",
+      "pp",
+      "erc"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PP propone que los menores de 40 años aporten hasta 2.000 euros al año (hasta 40.000 acumulados) con una deducción fiscal del 20%. Los rendimientos están exentos si el ahorro va a la primera vivienda.",
+    "tip": "Es una medida de incentivo fiscal al ahorro joven, no de gasto público directo.",
+    "source": {
+      "doc": "pp",
+      "page": 43,
+      "section": "4.1 Se construirá un millón de viviendas más en España"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-vivienda-009",
+    "doc": "pp",
+    "topic": "vivienda",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa del PP en materia de vivienda?",
+    "options": [
+      "Topar por ley el precio del alquiler en zonas tensionadas",
+      "Una nueva Ley del Suelo",
+      "Rehabilitación de vivienda habitual con IVA del 4%",
+      "Vivienda social en suelo dotacional"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PP propone justo lo contrario: derogar la Ley de Vivienda y eliminar las zonas tensionadas. Estas zonas son áreas donde se pueden aplicar límites al precio del alquiler.",
+    "tip": "Una de las opciones supone más intervención en los precios, lo contrario de su planteamiento.",
+    "source": {
+      "doc": "pp",
+      "page": 42,
+      "section": "4.1 Se construirá un millón de viviendas más en España"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-empleo-001",
+    "doc": "pp",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "El PP propone que los nuevos autónomos no paguen cuota a la Seguridad Social durante su primer año.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Además, tampoco la pagarían el segundo año si sus ingresos no llegan al salario mínimo. La cuota de autónomos es la cantidad mensual que pagan a la Seguridad Social.",
+    "tip": "El incentivo busca facilitar el inicio de la actividad.",
+    "source": {
+      "doc": "pp",
+      "page": 46,
+      "section": "4.3 En España siempre merecerá la pena trabajar, emprender y arriesgar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-empleo-002",
+    "doc": "pp",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "Según el PP, los autónomos que facturen menos de 100.000 euros no tendrían que cobrar ni declarar el IVA.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El umbral que propone el PP es de 85.000 euros de facturación. Por encima de esa cifra seguirían las reglas habituales del IVA.",
+    "tip": "La cifra es inferior a los 100.000 euros.",
+    "source": {
+      "doc": "pp",
+      "page": 46,
+      "section": "4.3 En España siempre merecerá la pena trabajar, emprender y arriesgar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-empleo-003",
+    "doc": "pp",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué bonificación propone el PP por contratar a un primer trabajador?",
+    "options": [
+      "El 100% de las cotizaciones empresariales durante un año",
+      "El 75% de las cotizaciones empresariales durante un año",
+      "El 50% de las cotizaciones empresariales durante tres años",
+      "El 100% de las cotizaciones empresariales durante dos años"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PP propone bonificar el 100% de las cotizaciones empresariales del primer trabajador durante un año y el 50% por el segundo. Las cotizaciones son lo que paga la empresa a la Seguridad Social por cada empleado.",
+    "tip": "El segundo trabajador tendría una bonificación menor que el primero.",
+    "source": {
+      "doc": "pp",
+      "page": 46,
+      "section": "4.3 En España siempre merecerá la pena trabajar, emprender y arriesgar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-empleo-004",
+    "doc": "pp",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Cómo se financiaría el cheque de formación que propone el PP para cada trabajador?",
+    "options": [
+      "Con una subida de las cotizaciones sociales",
+      "Solo con fondos europeos",
+      "Con las cuotas de formación que ya pagan empresas y trabajadores",
+      "Con un nuevo impuesto sobre las empresas de inteligencia artificial"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PP plantea financiarlo con las cuotas de formación que ya se pagan, sin imponer nuevas cargas. El cheque lo conservaría cada trabajador aunque cambie de empresa, para formarse donde elija, incluida la adaptación a la inteligencia artificial.",
+    "tip": "El programa insiste en no crear cargas nuevas.",
+    "source": {
+      "doc": "pp",
+      "page": 45,
+      "section": "4.3 En España siempre merecerá la pena trabajar, emprender y arriesgar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-empleo-005",
+    "doc": "pp",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué beneficio propone el PP para las empresas que mantengan plantillas más estables que la media de su sector?",
+    "options": [
+      "Exención total de cuotas a la Seguridad Social",
+      "Cotizar menos por desempleo",
+      "Subvenciones directas por trabajador",
+      "Una deducción en el Impuesto de Sociedades"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Las empresas con plantillas más estables que la media cotizarían menos por desempleo. El programa añade publicar cada mes cuántos fijos discontinuos no están trabajando, para conocer el dato real del paro.",
+    "tip": "El incentivo se aplica a una cotización concreta, la de desempleo.",
+    "source": {
+      "doc": "pp",
+      "page": 46,
+      "section": "4.3 En España siempre merecerá la pena trabajar, emprender y arriesgar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-empleo-006",
+    "doc": "pp",
+    "topic": "empleo",
+    "type": "multi",
+    "question": "Marca todas las medidas laborales que propone el PP.",
+    "options": [
+      "Publicar cada mes cuántos fijos discontinuos no están trabajando",
+      "Reducir la jornada laboral máxima a 37,5 horas",
+      "Un cheque de formación para cada trabajador",
+      "Subir el salario mínimo al 60% del salario medio",
+      "Declaraciones semestrales en lugar de trimestrales para autónomos"
+    ],
+    "answer": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "El PP propone el cheque de formación, publicar el dato de fijos discontinuos y pasar de cuatro declaraciones trimestrales a dos semestrales para autónomos. No propone reducir la jornada legal ni fijar el SMI en un porcentaje del salario medio.",
+    "tip": "Sus medidas se orientan a la contratación y al trabajo autónomo, no a cambiar la jornada o el salario mínimo.",
+    "source": {
+      "doc": "pp",
+      "page": 46,
+      "section": "4.3 En España siempre merecerá la pena trabajar, emprender y arriesgar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-economia-001",
+    "doc": "pp",
+    "topic": "economia",
+    "type": "tf",
+    "question": "El PP propone que los jóvenes de 18 a 35 años no paguen IRPF el primer año en que tributen y que la reducción baje progresivamente durante los tres siguientes.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. La reducción sería del 100% el primer año, del 75% el segundo, del 50% el tercero y del 25% el cuarto. El IRPF es el impuesto sobre la renta de las personas.",
+    "tip": "La rebaja va disminuyendo año a año.",
+    "source": {
+      "doc": "pp",
+      "page": 47,
+      "section": "4.4 Los españoles pagarán menos impuestos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-economia-002",
+    "doc": "pp",
+    "topic": "economia",
+    "type": "tf",
+    "question": "Por cada norma nueva que apruebe, el PP propone eliminar una norma vigente.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La propuesta es eliminar tres normas innecesarias, obsoletas o duplicadas por cada nueva, además de reducir las cargas administrativas un 25% (35% para pymes) antes de 2029.",
+    "tip": "La proporción es mayor que uno a uno.",
+    "source": {
+      "doc": "pp",
+      "page": 13,
+      "section": "1.2 El Estado dejará de asfixiar al que cumple y de subvencionar al que se aprovecha"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-economia-003",
+    "doc": "pp",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Para qué propone el PP deflactar la tarifa del IRPF?",
+    "options": [
+      "Para que la inflación no funcione como una subida encubierta de impuestos",
+      "Para igualar el IRPF en todas las comunidades",
+      "Para eliminar el IRPF autonómico",
+      "Para subir el impuesto a las rentas altas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Deflactar es actualizar los tramos y parámetros del impuesto según la inflación. Así, si los salarios suben solo por la subida de precios, no se paga un tipo mayor sin que haya más poder adquisitivo.",
+    "tip": "Tiene que ver con los precios y no con la cuantía de los sueldos reales.",
+    "source": {
+      "doc": "pp",
+      "page": 47,
+      "section": "4.4 Los españoles pagarán menos impuestos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-economia-004",
+    "doc": "pp",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué proyectos propone el PP declarar estratégicos de interés nacional, con tramitación prioritaria?",
+    "options": [
+      "Los del sector energético",
+      "Los de empresas públicas",
+      "Los que creen al menos cien empleos",
+      "Los que inviertan más de 1.000 millones de euros"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Los proyectos que creen al menos cien empleos tendrían dirección única, tramitación prioritaria y un único trámite digital para las autorizaciones del Estado.",
+    "tip": "El criterio es el empleo creado, no el sector ni el dinero invertido.",
+    "source": {
+      "doc": "pp",
+      "page": 48,
+      "section": "4.5 España cerrará la brecha de productividad con Europa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-economia-005",
+    "doc": "pp",
+    "topic": "economia",
+    "type": "multi",
+    "question": "Marca todas las medidas fiscales que propone el PP.",
+    "options": [
+      "Un impuesto a las grandes fortunas",
+      "Elevar los mínimos personales y familiares del IRPF",
+      "Trato fiscal equivalente para las distintas formas de ahorro",
+      "Un Estatuto del Contribuyente con derecho al error",
+      "Un impuesto especial a banca y energéticas"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "El programa incluye el Estatuto del Contribuyente (derecho a equivocarse sin sanción y sin cambios de criterio retroactivos), subir los mínimos del IRPF y un trato fiscal equivalente para el ahorro. No propone nuevos impuestos a grandes fortunas ni a banca o energéticas.",
+    "tip": "Las propuestas van en la línea de bajar o simplificar impuestos.",
+    "source": {
+      "doc": "pp",
+      "page": 47,
+      "section": "4.4 Los españoles pagarán menos impuestos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-economia-006",
+    "doc": "pp",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone un IVA del 0% en alimentos básicos (incluidos carne, pescado y conservas) mientras dure la crisis de inflación?",
+    "options": [
+      "psoe",
+      "pp",
+      "compromis",
+      "frenteamplio"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El PP propone el IVA del 0% en alimentos básicos de forma temporal, mientras persista la crisis de inflación y de poder adquisitivo. IVA es el impuesto que se paga al consumir.",
+    "tip": "Es una medida temporal ligada a la subida de precios.",
+    "source": {
+      "doc": "pp",
+      "page": 47,
+      "section": "4.4 Los españoles pagarán menos impuestos"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-economia-007",
+    "doc": "pp",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone ampliar la «libertad de amortización», para que lo invertido en maquinaria, digitalización o IA se descuente entero en el Impuesto de Sociedades el mismo año?",
+    "options": [
+      "psoe",
+      "frenteamplio",
+      "compromis",
+      "pp"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "La libertad de amortización permite deducir la inversión de golpe en lugar de repartirla en varios años. El PP la plantea para que las empresas que invierten paguen menos Impuesto sobre Sociedades.",
+    "tip": "Es un incentivo a invertir pensado para las empresas.",
+    "source": {
+      "doc": "pp",
+      "page": 47,
+      "section": "4.4 Los españoles pagarán menos impuestos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pp-economia-008",
+    "doc": "pp",
+    "topic": "economia",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa del PP?",
+    "options": [
+      "Compra pública innovadora a startups y pymes tecnológicas",
+      "Subir el IRPF a las rentas altas",
+      "Un test de productividad antes de aprobar normas económicas",
+      "Tributar al 20% durante seis años para profesionales de grandes proyectos tecnológicos"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El PP propone bajar el IRPF a rentas medias y bajas y a las familias, no subirlo a las rentas altas. Las otras tres medidas sí están en el programa, en el bloque de productividad e innovación.",
+    "tip": "Una de las opciones va en dirección contraria a su idea de bajar impuestos.",
+    "source": {
+      "doc": "pp",
+      "page": 48,
+      "section": "4.5 España cerrará la brecha de productividad con Europa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-pensiones-001",
+    "doc": "pp",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "El PP propone reconstruir el Pacto de Toledo y asegurar que las pensiones suban cada año con el IPC.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El Pacto de Toledo es el acuerdo parlamentario sobre el sistema de pensiones. El PP lo plantea como un compromiso de Estado y añade que las futuras pensiones de los jóvenes también mantengan su poder adquisitivo.",
+    "tip": "Habla de acuerdo entre partidos y de mantener el poder de compra.",
+    "source": {
+      "doc": "pp",
+      "page": 34,
+      "section": "Reconstruiremos el pacto entre generaciones"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-pensiones-002",
+    "doc": "pp",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "Según el PP, el Estado aportaría el 30% del coste público del sistema de dependencia.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PP propone un Pacto de Estado por la Dependencia que haga efectiva la aportación estatal del 50% del coste público. La dependencia es la situación de quien necesita ayuda de otras personas para actividades básicas.",
+    "tip": "La cifra propuesta es la mitad.",
+    "source": {
+      "doc": "pp",
+      "page": 35,
+      "section": "Fortaleceremos el pacto entre personas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-pensiones-003",
+    "doc": "pp",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Qué propone el PP para quien deje de trabajar o reduzca su jornada para cuidar a un familiar dependiente?",
+    "options": [
+      "Que el Estado cotice por esa persona",
+      "Una subvención de 1.000 euros mensuales",
+      "Una pensión no contributiva vitalicia",
+      "Un permiso retribuido de un año"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El Estado cotizaría por esa persona, cobre o no la prestación por cuidados en el entorno familiar. Cotizar significa pagar a la Seguridad Social, lo que cuenta para futuras prestaciones y pensión.",
+    "tip": "La medida afecta a la futura protección social de quien cuida.",
+    "source": {
+      "doc": "pp",
+      "page": 35,
+      "section": "Fortaleceremos el pacto entre personas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-pensiones-004",
+    "doc": "pp",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Qué propone el PP respecto a las pensiones de discapacidad?",
+    "options": [
+      "Fusionarlas con las pensiones de jubilación",
+      "Convertirlas en una prestación temporal",
+      "Subirlas un 30%",
+      "Hacerlas compatibles con el empleo"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa propone hacer compatibles las pensiones de discapacidad con el empleo y ampliar la jubilación anticipada a personas con síndrome de Down. Así se puede cobrar la pensión y trabajar a la vez.",
+    "tip": "Busca que cobrar la pensión no impida trabajar.",
+    "source": {
+      "doc": "pp",
+      "page": 35,
+      "section": "Fortaleceremos el pacto entre personas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-pensiones-005",
+    "doc": "pp",
+    "topic": "pensiones",
+    "type": "multi",
+    "question": "Marca todas las medidas que propone el PP en pensiones y protección a mayores.",
+    "options": [
+      "Incentivar la jubilación activa con deducciones en el IRPF",
+      "Subir de forma importante las pensiones mínimas",
+      "Que las familias deduzcan el 40% de la atención profesional a un mayor dependiente",
+      "Modernizar el IMSERSO",
+      "Facilitar la jubilación anticipada sin penalización para carreras largas"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "El PP propone incentivar la jubilación activa, una deducción del 40% por atención profesional a dependientes y modernizar el IMSERSO. No incluye subir las mínimas ni jubilación anticipada para carreras largas.",
+    "tip": "Fíjate en medidas de deducciones y modernización, no de nuevas subidas específicas.",
+    "source": {
+      "doc": "pp",
+      "page": 35,
+      "section": "Reconstruiremos el pacto entre generaciones"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pp-pensiones-006",
+    "doc": "pp",
+    "topic": "pensiones",
+    "type": "which_party",
+    "question": "¿Qué partido propone blindar por ley la caja única de la Seguridad Social, para que las cotizaciones financien las pensiones en toda España sin dividirse por territorios?",
+    "options": [
+      "erc",
+      "pnv",
+      "pp"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PP propone blindar legalmente la caja única: las cotizaciones seguirán financiando pensiones y prestaciones en toda España sin dividir los recursos por territorios.",
+    "tip": "Es una propuesta de unidad del sistema, no de gestión por territorios.",
+    "source": {
+      "doc": "pp",
+      "page": 15,
+      "section": "1.3 El Estado estará presente en toda España"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-sanidad-001",
+    "doc": "pp",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "El PP propone incorporar al menos 4.500 médicos más en Atención Primaria.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. La Atención Primaria es el primer nivel de la sanidad, el de los centros de salud y los médicos de familia. El PP propone reforzar las plantillas en coordinación con las comunidades autónomas.",
+    "tip": "Se trata del primer nivel de atención sanitaria.",
+    "source": {
+      "doc": "pp",
+      "page": 52,
+      "section": "4.8 Seremos referente mundial en sanidad y cuidados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-sanidad-002",
+    "doc": "pp",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "El Plan Nacional de Salud Mental que propone el PP abarcaría el periodo 2025-2035.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El plan propuesto es el Plan Nacional de Salud Mental 2027-2037, con financiación garantizada, y prestaría especial atención a la infancia, la adolescencia y la prevención del suicidio.",
+    "tip": "Las fechas empiezan y terminan dos años más tarde.",
+    "source": {
+      "doc": "pp",
+      "page": 53,
+      "section": "4.8 Seremos referente mundial en sanidad y cuidados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-sanidad-003",
+    "doc": "pp",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué podrían deducirse en el IRPF las familias con un enfermo de cáncer, ELA u otra enfermedad grave, según el PP?",
+    "options": [
+      "Una cantidad fija de 1.000 euros al año",
+      "Solo los gastos de hospitalización",
+      "Los gastos acreditados derivados del tratamiento y los cuidados",
+      "El 100% de las primas de seguros privados"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PP propone una deducción en el IRPF de los gastos acreditados del tratamiento y los cuidados. También plantea una deducción para las personas celíacas y mantener la prestación CUME para el cuidado de hijos con cáncer o enfermedad grave.",
+    "tip": "Se refiere a gastos reales que se puedan justificar, no a una cifra fija.",
+    "source": {
+      "doc": "pp",
+      "page": 53,
+      "section": "4.8 Seremos referente mundial en sanidad y cuidados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-sanidad-004",
+    "doc": "pp",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué permitiría la tarjeta y el historial clínico y social únicos que propone el PP?",
+    "options": [
+      "Compartir los datos con aseguradoras privadas",
+      "Sustituir la tarjeta sanitaria europea",
+      "Elegir médico fuera de la sanidad pública",
+      "Consultar la historia clínica y social desde cualquier servicio asistencial de cualquier comunidad"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El objetivo es que un paciente que se desplace sea atendido con su historia clínica y social completa en toda España, con garantías de privacidad y seguridad y en coordinación con las comunidades autónomas.",
+    "tip": "Se busca que nada falle cuando un paciente viaja o se traslada de comunidad.",
+    "source": {
+      "doc": "pp",
+      "page": 31,
+      "section": "3.1 Una ciudadanía común"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-sanidad-005",
+    "doc": "pp",
+    "topic": "sanidad",
+    "type": "multi",
+    "question": "Marca todas las medidas de sanidad que propone el PP.",
+    "options": [
+      "Revertir las privatizaciones y reducir los conciertos con la sanidad privada",
+      "Ley nacional de cuidados paliativos",
+      "Incluir la salud bucodental (dentista) en la sanidad pública",
+      "Fondo Estatal de Innovación en Enfermedades Raras y Terapias Avanzadas",
+      "Plan Nacional de Salud Mental 2027-2037"
+    ],
+    "answer": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "El programa incluye el plan de salud mental, una ley nacional de cuidados paliativos y un fondo para enfermedades raras y terapias avanzadas. No propone incluir el dentista en la sanidad pública ni reducir los conciertos con la sanidad privada.",
+    "tip": "Las medidas se centran en planes y fondos específicos, no en cambiar el modelo de gestión.",
+    "source": {
+      "doc": "pp",
+      "page": 53,
+      "section": "4.8 Seremos referente mundial en sanidad y cuidados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-sanidad-006",
+    "doc": "pp",
+    "topic": "sanidad",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa del PP en sanidad?",
+    "options": [
+      "Un Pacto de Estado por la Sanidad Pública con las comunidades autónomas",
+      "Un plan sanitario propio para Ceuta y Melilla",
+      "Crear una empresa pública que fabrique medicamentos",
+      "Una deducción en el IRPF para las personas celíacas"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PP propone defender el modelo farmacéutico español y la red de farmacias comunitarias. No incluye una empresa pública de medicamentos. Sí propone el Pacto de Estado, el plan para Ceuta y Melilla y la deducción para celíacos.",
+    "tip": "Una de las opciones supone un cambio de modelo que el programa no plantea; el PP dice defender el actual.",
+    "source": {
+      "doc": "pp",
+      "page": 53,
+      "section": "4.8 Seremos referente mundial en sanidad y cuidados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-educacion-001",
+    "doc": "pp",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "El PP propone que, en la ESO, el alumno que vaya mal tenga refuerzo obligatorio antes de tener que repetir curso.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El PP quiere recuperar la exigencia para pasar de etapa y, a la vez, dar apoyo a quien tenga dificultades. La ESO es la Educación Secundaria Obligatoria.",
+    "tip": "La propuesta combina exigencia y apoyo.",
+    "source": {
+      "doc": "pp",
+      "page": 52,
+      "section": "4.7 España tendrá su mejor resultado en PISA en cuatro años"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-educacion-002",
+    "doc": "pp",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "Según el PP, los conciertos educativos durarían al menos tres años en todas las etapas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PP propone conciertos de al menos seis años en todas las etapas y que ninguno se elimine donde haya demanda suficiente. Un concierto es el acuerdo por el que la Administración financia plazas en colegios privados, de modo que sean gratuitas.",
+    "tip": "La duración mínima propuesta es el doble de la cifra de la frase.",
+    "source": {
+      "doc": "pp",
+      "page": 51,
+      "section": "4.7 España tendrá su mejor resultado en PISA en cuatro años"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-educacion-003",
+    "doc": "pp",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Qué exigiría el PP para acceder al grado de Magisterio?",
+    "options": [
+      "Una nota mínima",
+      "Una entrevista personal",
+      "Un máster previo",
+      "Un año de prácticas previas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PP propone exigir una nota mínima para acceder a Magisterio, además de incentivos para atraer a los mejores a materias como matemáticas, física o tecnología. También plantea defender jurídicamente al docente que sea agredido.",
+    "tip": "Es un requisito basado en el expediente académico.",
+    "source": {
+      "doc": "pp",
+      "page": 51,
+      "section": "4.7 España tendrá su mejor resultado en PISA en cuatro años"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-educacion-004",
+    "doc": "pp",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Qué propone el PP para quien elija un ciclo de FP de alta demanda de empleo?",
+    "options": [
+      "Prioridad en el acceso a vivienda",
+      "Un coche gratis",
+      "No pagar matrícula",
+      "Un sueldo durante los estudios"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El programa propone que quien elija un ciclo de Formación Profesional (FP) con alta demanda de empleo no pague matrícula. También plantea ampliar plazas de FP guiadas por un Mapa Nacional de la FP.",
+    "tip": "Se trata de una ayuda económica ligada a la matrícula.",
+    "source": {
+      "doc": "pp",
+      "page": 52,
+      "section": "4.7 España tendrá su mejor resultado en PISA en cuatro años"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-educacion-005",
+    "doc": "pp",
+    "topic": "educacion",
+    "type": "multi",
+    "question": "Marca todas las medidas educativas que propone el PP.",
+    "options": [
+      "Sacar la asignatura de religión del horario escolar",
+      "Bajar o eliminar las tasas de la universidad pública",
+      "Un Mapa Nacional de la FP",
+      "Un protocolo nacional contra el acoso escolar",
+      "La beca como derecho por ley para quien la necesite y apruebe"
+    ],
+    "answer": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "El PP propone el Mapa Nacional de la FP, la beca como derecho por ley y un protocolo nacional contra el acoso escolar acordado con las comunidades. No propone sacar la religión del horario ni eliminar las tasas universitarias.",
+    "tip": "Las medidas buscan más exigencia, orientación laboral y protección del alumno.",
+    "source": {
+      "doc": "pp",
+      "page": 52,
+      "section": "4.7 España tendrá su mejor resultado en PISA en cuatro años"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-educacion-006",
+    "doc": "pp",
+    "topic": "educacion",
+    "type": "which_party",
+    "question": "¿Qué partido propone implantar una Prueba de Acceso a la Universidad (PAU) común en todo el territorio nacional?",
+    "options": [
+      "psoe",
+      "erc",
+      "compromis",
+      "pp"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PP plantea una PAU común cuyas condiciones básicas se acordarían con las comunidades autónomas y las universidades, para garantizar la igualdad de oportunidades.",
+    "tip": "Persigue que el examen de acceso sea el mismo en toda España.",
+    "source": {
+      "doc": "pp",
+      "page": 32,
+      "section": "3.1 Una ciudadanía común"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-educacion-007",
+    "doc": "pp",
+    "topic": "educacion",
+    "type": "which_party",
+    "question": "¿Qué partido propone garantizar el derecho a recibir enseñanza en castellano en todas las etapas del sistema educativo y en toda España?",
+    "options": [
+      "frenteamplio",
+      "erc",
+      "pp",
+      "compromis"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PP lo plantea como un derecho constitucional, desde el respeto a las lenguas cooficiales de cada comunidad y en cumplimiento de las sentencias judiciales.",
+    "tip": "Se presenta como un derecho de las familias y no como una prohibición de otras lenguas.",
+    "source": {
+      "doc": "pp",
+      "page": 32,
+      "section": "3.1 Una ciudadanía común"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-igualdad-001",
+    "doc": "pp",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "El PP propone que la gestión del sistema de pulseras de alejamiento pase a las comunidades autónomas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PP propone lo contrario: que el sistema de dispositivos de vigilancia de las órdenes de alejamiento dependa del Ministerio del Interior, con supervisión continua de las fuerzas de seguridad.",
+    "tip": "La propuesta busca centralizar la responsabilidad.",
+    "source": {
+      "doc": "pp",
+      "page": 17,
+      "section": "1.4 Se hará cumplir la ley en todo el territorio"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-igualdad-002",
+    "doc": "pp",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "El PP propone integrar los servicios asistenciales autonómicos y municipales en el sistema VioGen.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. VioGen es el sistema de seguimiento de la violencia de género. El objetivo es que Policía, Justicia y asistencia actúen de forma coordinada, sin dejar espacios de desprotección.",
+    "tip": "Busca coordinar a distintos niveles de la Administración.",
+    "source": {
+      "doc": "pp",
+      "page": 17,
+      "section": "1.4 Se hará cumplir la ley en todo el territorio"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pp-igualdad-003",
+    "doc": "pp",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Qué propone el PP respecto al Pacto de Estado contra la Violencia de Género?",
+    "options": [
+      "Rendir cuentas de su cumplimiento cada año",
+      "Reducir su presupuesto",
+      "Derogarlo y sustituirlo por una ley nueva",
+      "Transferirlo a las comunidades autónomas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PP propone que cada año se rinda cuentas del cumplimiento del Pacto de Estado y dotar de más medios y especialización a las secciones de violencia sobre la mujer de los tribunales.",
+    "tip": "La propuesta se refiere a transparencia y seguimiento anual.",
+    "source": {
+      "doc": "pp",
+      "page": 17,
+      "section": "1.4 Se hará cumplir la ley en todo el territorio"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-igualdad-004",
+    "doc": "pp",
+    "topic": "igualdad",
+    "type": "multi",
+    "question": "Marca todas las medidas de igualdad y protección que propone el PP.",
+    "options": [
+      "Un protocolo en puertos, aeropuertos y fronteras para identificar viajes de riesgo de mutilación genital",
+      "Abolir la prostitución",
+      "Una ley integral contra la trata de seres humanos",
+      "Más medios y especialización en las secciones de violencia sobre la mujer de los tribunales",
+      "Garantizar el aborto en la sanidad pública"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "El programa incluye el protocolo de viajes de riesgo, una ley integral contra la trata y más especialización judicial en violencia sobre la mujer. No incluye abolir la prostitución ni garantizar el aborto en la sanidad pública.",
+    "tip": "Las medidas se centran en protección frente a la violencia y la trata.",
+    "source": {
+      "doc": "pp",
+      "page": 17,
+      "section": "1.4 Se hará cumplir la ley en todo el territorio"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pp-igualdad-005",
+    "doc": "pp",
+    "topic": "igualdad",
+    "type": "which_party",
+    "question": "¿Qué partido propone eliminar la libre autodeterminación registral del sexo y que el sexo biológico sea el criterio en las categorías deportivas femeninas?",
+    "options": [
+      "psoe",
+      "podemos",
+      "pp",
+      "erc"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PP propone revisar la Ley Trans, eliminar la libre autodeterminación registral del sexo (poder cambiarlo en el registro por decisión propia) y usar el sexo biológico en las categorías deportivas femeninas.",
+    "tip": "Plantea revisar una ley aprobada por el actual Gobierno.",
+    "source": {
+      "doc": "pp",
+      "page": 35,
+      "section": "Fortaleceremos el pacto entre personas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-igualdad-006",
+    "doc": "pp",
+    "topic": "igualdad",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del PP?",
+    "options": [
+      "Combatir la discriminación por origen, sexo, edad, discapacidad, orientación sexual o religión",
+      "Seguir luchando contra la LGTBIfobia",
+      "Eliminar los obstáculos a la carrera profesional de las mujeres",
+      "Ampliar la Ley Trans y la libre determinación del género"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PP propone justo lo contrario: revisar la Ley Trans y eliminar la libre autodeterminación registral del sexo. Las otras tres propuestas sí aparecen en su programa.",
+    "tip": "Una de las opciones contradice lo que el PP propone sobre la Ley Trans.",
+    "source": {
+      "doc": "pp",
+      "page": 35,
+      "section": "Fortaleceremos el pacto entre personas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-inmigracion-001",
+    "doc": "pp",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "El PP propone identificar en un máximo de siete días a quienes entren irregularmente por la frontera.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. En ese plazo se comprobaría la identidad y si suponen un riesgo para la seguridad, y después se tramitaría con rapidez el asilo o la devolución.",
+    "tip": "El plazo es de una semana.",
+    "source": {
+      "doc": "pp",
+      "page": 18,
+      "section": "1.5 Nuestro país recuperará el control de sus fronteras"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-inmigracion-002",
+    "doc": "pp",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "Según el PP, la determinación de la edad de los menores migrantes se resolvería en un máximo de 15 días.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PP propone resolver en un máximo de 72 horas los procedimientos de determinación de la edad, reforzando los medios de la Fiscalía.",
+    "tip": "El plazo es de pocos días, no de dos semanas.",
+    "source": {
+      "doc": "pp",
+      "page": 20,
+      "section": "1.5 Nuestro país recuperará el control de sus fronteras"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-inmigracion-003",
+    "doc": "pp",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Qué debería firmar quien quiera renovar su residencia temporal en el régimen general, según el PP?",
+    "options": [
+      "Una declaración de arraigo",
+      "Un compromiso de integración",
+      "Un seguro médico privado",
+      "Un contrato de trabajo indefinido"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El compromiso de integración obligaría a aprender español, conocer la Constitución y los valores de la Unión Europea y, cuando corresponda, formarse para el empleo. Su cumplimiento debería acreditarse para renovar el permiso.",
+    "tip": "Se trata de un compromiso mutuo con contenido de idioma y valores.",
+    "source": {
+      "doc": "pp",
+      "page": 19,
+      "section": "1.6 Vivir en España será un compromiso mutuo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-inmigracion-004",
+    "doc": "pp",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿En función de qué propone el PP revisar cada año los cupos de inmigración laboral?",
+    "options": [
+      "Del paro y los puestos sin cubrir, ajustados a la capacidad de vivienda, servicios y empleo",
+      "Del número de solicitudes recibidas",
+      "De los acuerdos con cada comunidad autónoma",
+      "De la población de cada país de origen"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Los cupos anuales determinarían cuántos trabajadores pueden venir y para qué sectores. Además, solo participarían los países que colaboren en los retornos y en el control de la inmigración irregular.",
+    "tip": "El criterio combina datos del mercado laboral con la capacidad de acogida.",
+    "source": {
+      "doc": "pp",
+      "page": 19,
+      "section": "1.6 Vivir en España será un compromiso mutuo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pp-inmigracion-005",
+    "doc": "pp",
+    "topic": "inmigracion",
+    "type": "multi",
+    "question": "Marca todas las medidas de inmigración que propone el PP.",
+    "options": [
+      "Una regularización extraordinaria de inmigrantes",
+      "Prohibir por ley las regularizaciones masivas e indiscriminadas",
+      "Cerrar los Centros de Internamiento de Extranjeros (CIE)",
+      "Acuerdos para crear centros de retorno en terceros países",
+      "Una autoridad única para toda la política migratoria"
+    ],
+    "answer": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "El PP propone una autoridad única, prohibir por ley las regularizaciones masivas y centros de retorno en terceros países. Además, quiere ampliar el tiempo de permanencia en los centros de internamiento, no cerrarlos.",
+    "tip": "Las medidas apuntan a más control y a ejecutar los retornos.",
+    "source": {
+      "doc": "pp",
+      "page": 19,
+      "section": "1.6 Vivir en España será un compromiso mutuo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-inmigracion-006",
+    "doc": "pp",
+    "topic": "inmigracion",
+    "type": "which_party",
+    "question": "¿Qué partido propone implantar visados por puntos que valoren la formación, la experiencia, el idioma y la integración?",
+    "options": [
+      "psoe",
+      "podemos",
+      "erc",
+      "pp"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PP propone que solo funcione la vía legal de acceso: visados por puntos y, para trabajar en sectores con falta de trabajadores, un contrato firmado en origen o un visado temporal para buscar empleo.",
+    "tip": "El sistema reparte puntos según el perfil de la persona solicitante.",
+    "source": {
+      "doc": "pp",
+      "page": 19,
+      "section": "1.6 Vivir en España será un compromiso mutuo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-inmigracion-007",
+    "doc": "pp",
+    "topic": "inmigracion",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa del PP?",
+    "options": [
+      "Prohibir el burka y el niqab en espacios públicos",
+      "Que el empadronamiento por sí solo no dé acceso a ayudas no urgentes",
+      "Una nueva Ley de Nacionalidad con más requisitos",
+      "Repartir obligatoriamente a los menores no acompañados entre comunidades"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PP propone sustituir el reparto como respuesta principal por un modelo de protección individualizada con retorno a la familia, y que el Estado asuma la atención inicial. Las otras tres medidas sí están en su programa.",
+    "tip": "El PP plantea otro modelo para los menores distinto del reparto entre comunidades.",
+    "source": {
+      "doc": "pp",
+      "page": 20,
+      "section": "1.5 Nuestro país recuperará el control de sus fronteras"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-medioambiente-001",
+    "doc": "pp",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "El PP propone eliminar de inmediato el impuesto del 7% a la producción eléctrica.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El PP lo plantea para reducir la carga fiscal del recibo de la luz, junto con una Tarifa Social Única para los hogares vulnerables.",
+    "tip": "Es una medida fiscal que afecta al precio de la electricidad.",
+    "source": {
+      "doc": "pp",
+      "page": 54,
+      "section": "4.9 España puede ser potencia energética de Europa"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-medioambiente-002",
+    "doc": "pp",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "El PP propone resolver en seis meses los problemas de acceso y conexión a la red eléctrica.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PP propone resolver en 18 meses, con un plan de choque, los problemas que frenan la conexión de proyectos industriales, logísticos, tecnológicos o de vivienda a la red.",
+    "tip": "El plazo es mayor que un año.",
+    "source": {
+      "doc": "pp",
+      "page": 54,
+      "section": "4.9 España puede ser potencia energética de Europa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-medioambiente-003",
+    "doc": "pp",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿En qué plazo propone el PP actualizar las reglas de funcionamiento del sistema eléctrico para evitar otro apagón?",
+    "options": [
+      "En tres años",
+      "En seis meses",
+      "En treinta días",
+      "En un año"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Además, aprobaría un plan nacional para reforzar su seguridad, supervisaría la red en tiempo real y publicaría un informe público de cada incidente grave. Las reglas del sistema eléctrico determinan cómo se produce y se estabiliza la electricidad.",
+    "tip": "Es un plazo corto, de unos pocos meses.",
+    "source": {
+      "doc": "pp",
+      "page": 54,
+      "section": "4.9 España puede ser potencia energética de Europa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-medioambiente-004",
+    "doc": "pp",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué plantea el PP sobre los ritmos de la lucha contra el cambio climático?",
+    "options": [
+      "Revisar los ritmos de cada sector según lo que ocurre en el mundo, la tecnología disponible y la demanda",
+      "Mantener todos los calendarios sin cambios",
+      "Abandonar la descarbonización",
+      "Adelantar todos los objetivos climáticos"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PP considera la lucha contra el cambio climático un objetivo irrenunciable, pero quiere revisar los ritmos y retirar obligaciones que perjudiquen a la industria o al empleo. La descarbonización es reducir las emisiones de CO2.",
+    "tip": "El programa acepta el objetivo, pero discute el calendario.",
+    "source": {
+      "doc": "pp",
+      "page": 55,
+      "section": "4.9 España puede ser potencia energética de Europa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-medioambiente-005",
+    "doc": "pp",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "Marca todas las medidas de energía y medio ambiente que propone el PP.",
+    "options": [
+      "Publicar un informe de cada incidente grave del sistema eléctrico",
+      "Aprobar un Estatuto del Consumidor Energético",
+      "Prohibir los vuelos cortos si hay alternativa en tren",
+      "Eliminar el calendario de cierre de las centrales nucleares",
+      "Crear una empresa pública de energía"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "El PP propone ampliar la vida útil de las nucleares, un Estatuto del Consumidor Energético (derechos de información y reclamación) y un informe público de cada incidente grave. No propone empresa pública de energía ni prohibir vuelos cortos.",
+    "tip": "Combina más oferta de energía con más información para el consumidor.",
+    "source": {
+      "doc": "pp",
+      "page": 54,
+      "section": "4.9 España puede ser potencia energética de Europa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-medioambiente-006",
+    "doc": "pp",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone crear una Tarifa Social Única que sustituya a los actuales bonos eléctrico y térmico?",
+    "options": [
+      "psoe",
+      "podemos",
+      "compromis",
+      "pp"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "La Tarifa Social Única sería para los hogares más vulnerables y compatible con cualquier contrato de luz y gas. Sustituiría y mejoraría los actuales bonos eléctrico y térmico.",
+    "tip": "Unifica ayudas existentes en una sola.",
+    "source": {
+      "doc": "pp",
+      "page": 54,
+      "section": "4.9 España puede ser potencia energética de Europa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-medioambiente-007",
+    "doc": "pp",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone un Pacto Nacional del Agua que movilice hasta 40.000 millones de euros hasta 2030?",
+    "options": [
+      "psoe",
+      "pp",
+      "podemos",
+      "frenteamplio"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El Pacto formaría parte del Plan Nacional de Infraestructuras. Modernizaría regadíos y crearía recursos nuevos con infraestructuras, desalación y reutilización, además de centrales hidroeléctricas reversibles para almacenar energía.",
+    "tip": "La cifra incluye regadío, desalación y almacenamiento de energía.",
+    "source": {
+      "doc": "pp",
+      "page": 37,
+      "section": "3.3 Unas infraestructuras seguras que vertebren España"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pp-medioambiente-008",
+    "doc": "pp",
+    "topic": "medioambiente",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del PP?",
+    "options": [
+      "Adelantar el cierre de las centrales nucleares",
+      "Una estrategia nacional de energía nuclear",
+      "Facilitar contratos de electricidad a largo plazo",
+      "Participar en iniciativas europeas de reactores avanzados y pequeños reactores modulares"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PP propone eliminar el calendario de cierre de las nucleares y tramitar la ampliación de su vida útil. Las otras tres medidas aparecen en su programa de energía.",
+    "tip": "Una opción va en dirección contraria a la apuesta nuclear del programa.",
+    "source": {
+      "doc": "pp",
+      "page": 54,
+      "section": "4.9 España puede ser potencia energética de Europa"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-rural-001",
+    "doc": "pp",
+    "topic": "rural",
+    "type": "tf",
+    "question": "El PP propone que los jóvenes que se incorporen al campo cobren por anticipado hasta el 70% de la ayuda de la PAC a la incorporación.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. La PAC es la Política Agrícola Común de la Unión Europea. Además, tendrían ventajas fiscales especiales y se agilizaría la contratación de mano de obra en origen.",
+    "tip": "Es un adelanto de una ayuda europea para facilitar el relevo generacional.",
+    "source": {
+      "doc": "pp",
+      "page": 50,
+      "section": "4.6 El mundo rural volverá a ser atractivo y rentable"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-rural-002",
+    "doc": "pp",
+    "topic": "rural",
+    "type": "tf",
+    "question": "El PP propone derogar la Ley de Costas sin aprobar una nueva.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PP propone aprobar una nueva Ley de Costas, con reglas claras, que dé seguridad a quien tiene un negocio en la costa y soluciones legales a los núcleos históricos.",
+    "tip": "El programa habla de sustituir las reglas, no de dejar un vacío.",
+    "source": {
+      "doc": "pp",
+      "page": 51,
+      "section": "4.6 El mundo rural volverá a ser atractivo y rentable"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-rural-003",
+    "doc": "pp",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué crearía el PP para proteger los ingresos de agricultores y ganaderos ante alteraciones del mercado?",
+    "options": [
+      "Un seguro de ingresos y rentas",
+      "Una empresa pública de compra de cosechas",
+      "Un precio mínimo garantizado por ley",
+      "Un impuesto a las importaciones"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Mejoraría los seguros agrarios y crearía un seguro de ingresos y rentas. También reformaría la Ley de la Cadena Alimentaria para mejorar la información sobre costes y márgenes.",
+    "tip": "La herramienta es un seguro, no un precio fijado.",
+    "source": {
+      "doc": "pp",
+      "page": 49,
+      "section": "4.6 El mundo rural volverá a ser atractivo y rentable"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-rural-004",
+    "doc": "pp",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué propone el PP respecto al lobo para los ganaderos?",
+    "options": [
+      "Garantizar la protección de los ganaderos asegurando a la vez su conservación y equilibrio con criterios técnicos",
+      "Protegerlo sin cambios en la normativa actual",
+      "Eliminarlo de las zonas ganaderas",
+      "Declararlo especie cinegética sin límites"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa busca proteger al ganado frente al lobo sin renunciar a la conservación de la especie, con criterios técnicos. Especie cinegética es la que puede cazarse.",
+    "tip": "La propuesta busca compatibilizar dos objetivos a la vez.",
+    "source": {
+      "doc": "pp",
+      "page": 49,
+      "section": "4.6 El mundo rural volverá a ser atractivo y rentable"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-rural-005",
+    "doc": "pp",
+    "topic": "rural",
+    "type": "multi",
+    "question": "Marca todas las medidas para el mundo rural que propone el PP.",
+    "options": [
+      "Prohibir la caza",
+      "Reformar la Ley de Montes",
+      "Un Pacto Nacional para el campo, el mar y el monte",
+      "Exigir a los alimentos importados las mismas normas que a los productores españoles",
+      "Reformar la PAC para que las ayudas lleguen sobre todo a pequeños agricultores profesionales"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "El PP propone el Pacto Nacional, reformar la Ley de Montes para facilitar la prevención y exigir a las importaciones equivalentes normas de seguridad y producción. No propone prohibir la caza, sino defenderla.",
+    "tip": "Las medidas defienden las actividades del campo y la igualdad de normas con los productos importados.",
+    "source": {
+      "doc": "pp",
+      "page": 50,
+      "section": "4.6 El mundo rural volverá a ser atractivo y rentable"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-rural-006",
+    "doc": "pp",
+    "topic": "rural",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa del PP?",
+    "options": [
+      "Mantener la financiación de la PAC, la pesca y el programa POSEI sin recortes",
+      "Un programa nacional de mujer rural y del mar",
+      "Limitar la caza y reducir su papel en el medio rural",
+      "Permitir repartir entre varios años los ingresos de una buena cosecha"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PP propone lo contrario: defender la caza, reducir las trabas a la caza sostenible y respaldar su contribución a la economía rural. Las otras tres medidas sí aparecen en su programa.",
+    "tip": "Una opción restringe una actividad que el PP quiere defender.",
+    "source": {
+      "doc": "pp",
+      "page": 51,
+      "section": "4.6 El mundo rural volverá a ser atractivo y rentable"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-territorio-001",
+    "doc": "pp",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "El PP propone convocar la Conferencia de Presidentes al inicio de la legislatura para sentar las bases de un nuevo modelo de financiación autonómica.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El modelo se acordaría de forma multilateral en el Consejo de Política Fiscal y Financiera y se llevaría a las Cortes. Multilateral significa acordado entre todas las partes, no uno a uno.",
+    "tip": "El acuerdo se plantea con todas las comunidades a la vez.",
+    "source": {
+      "doc": "pp",
+      "page": 33,
+      "section": "Reconstruiremos el pacto territorial"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-territorio-002",
+    "doc": "pp",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "El PP propone permitir nuevos regímenes singulares de financiación negociados bilateralmente entre el Estado y cada comunidad.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PP propone que ninguna comunidad salga del régimen común y que no haya nuevos regímenes singulares negociados bilateralmente. Lo que es de todos se decidiría en foros multilaterales.",
+    "tip": "El programa defiende reglas iguales para todas las comunidades.",
+    "source": {
+      "doc": "pp",
+      "page": 33,
+      "section": "Reconstruiremos el pacto territorial"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-territorio-003",
+    "doc": "pp",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿A qué municipios destinaría el PP ayudas directas para sostener sus servicios básicos e infraestructuras?",
+    "options": [
+      "A los de menos de 100 habitantes",
+      "A los de menos de 250 habitantes",
+      "A los de menos de 5.000 habitantes",
+      "A los de menos de 1.000 habitantes"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Las ayudas reforzarían el abastecimiento de agua, la recogida de residuos y el alumbrado, y atenderían los aumentos de población en vacaciones. Además, se aprobaría el Estatuto de los Pequeños Municipios para reducir su burocracia.",
+    "tip": "Es un umbral de población bastante bajo.",
+    "source": {
+      "doc": "pp",
+      "page": 34,
+      "section": "Reconstruiremos el pacto territorial"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-territorio-004",
+    "doc": "pp",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué lengua propone el PP que sea de trabajo en el Congreso de los Diputados?",
+    "options": [
+      "La lengua elegida por cada diputado",
+      "El inglés",
+      "El castellano",
+      "El castellano y las lenguas cooficiales a partes iguales"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PP propone reformar el Reglamento del Congreso para que los debates se desarrollen en castellano, y mantiene la posibilidad de usar las lenguas cooficiales en el Senado. Las lenguas cooficiales son las que tienen estatus oficial junto al castellano en algunas comunidades.",
+    "tip": "La propuesta distingue entre el Congreso y el Senado.",
+    "source": {
+      "doc": "pp",
+      "page": 37,
+      "section": "3.4 Recuperar lo que compartimos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-territorio-005",
+    "doc": "pp",
+    "topic": "territorio",
+    "type": "multi",
+    "question": "Marca todas las medidas territoriales que propone el PP.",
+    "options": [
+      "Una financiación singular tipo concierto económico para algunos territorios",
+      "El Estatuto de los Pequeños Municipios",
+      "Un fondo de nivelación transitorio financiado por el Estado",
+      "Un referéndum de autodeterminación",
+      "Que cada comunidad responda de su deuda, con una reestructuración multilateral"
+    ],
+    "answer": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "El PP propone un fondo de nivelación hasta que entre en vigor el nuevo sistema, que cada comunidad responda de su deuda y el Estatuto de los Pequeños Municipios. No propone financiación singular ni referéndum de autodeterminación.",
+    "tip": "Las medidas defienden reglas comunes y no tratos bilaterales.",
+    "source": {
+      "doc": "pp",
+      "page": 33,
+      "section": "Reconstruiremos el pacto territorial"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-territorio-006",
+    "doc": "pp",
+    "topic": "territorio",
+    "type": "which_party",
+    "question": "¿Qué partido propone recuperar en el Código Penal el delito de sedición y el de convocatoria de referéndum ilegal?",
+    "options": [
+      "psoe",
+      "erc",
+      "podemos",
+      "pp"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PP propone recuperar el delito de sedición, adaptado a la legislación contemporánea, y el de convocatoria de referéndum ilegal. La sedición consiste en alzarse públicamente contra el orden constitucional.",
+    "tip": "Se presenta como defensa de la unidad de España y del orden constitucional.",
+    "source": {
+      "doc": "pp",
+      "page": 15,
+      "section": "1.3 El Estado estará presente en toda España"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-territorio-007",
+    "doc": "pp",
+    "topic": "territorio",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del PP?",
+    "options": [
+      "Que ninguna comunidad salga del régimen común",
+      "Reconocer el derecho de autodeterminación mediante un referéndum",
+      "Un Plan Nacional de Presencia del Estado",
+      "Un nuevo sistema de financiación local"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El PP propone recuperar el delito de convocatoria de referéndum ilegal y defender la unidad de España. Las otras tres medidas sí aparecen en su programa.",
+    "tip": "Una opción contradice la defensa de la unidad territorial que hace el programa.",
+    "source": {
+      "doc": "pp",
+      "page": 33,
+      "section": "Reconstruiremos el pacto territorial"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-instituciones-002",
+    "doc": "pp",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "El PP propone que dos prórrogas presupuestarias consecutivas obliguen a convocar elecciones.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El PP quiere reformar las normas para que una segunda prórroga consecutiva de los presupuestos provoque la disolución de las Cortes. Prorrogar un presupuesto es mantener el del año anterior por no aprobar uno nuevo.",
+    "tip": "Una segunda prórroga tendría consecuencias políticas directas.",
+    "source": {
+      "doc": "pp",
+      "page": 26,
+      "section": "2.2 Nadie gobernará sin presupuestos ni gastará sin control"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-instituciones-003",
+    "doc": "pp",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "Según el PP, el fiscal general del Estado tendría un mandato único de diez años.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PP propone un mandato único de cinco años y que no cese con el Gobierno que lo propuso. Además, su procesamiento conllevaría el cese inmediato y automático.",
+    "tip": "El mandato propuesto es la mitad de esa duración.",
+    "source": {
+      "doc": "pp",
+      "page": 26,
+      "section": "2.3 El poder no controlará a quien lo vigila"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-instituciones-004",
+    "doc": "pp",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Quién elegiría, según el PP, a los doce vocales judiciales del Consejo General del Poder Judicial (CGPJ)?",
+    "options": [
+      "El Senado",
+      "El Congreso de los Diputados",
+      "Los jueces y magistrados de todas las categorías",
+      "El Gobierno"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El CGPJ es el órgano de gobierno de los jueces. El PP mantendría la evaluación pública de méritos de los ocho juristas designados por las Cortes y adaptaría la renovación para impedir el bloqueo parlamentario.",
+    "tip": "La propuesta se resume en que los jueces elijan a los jueces.",
+    "source": {
+      "doc": "pp",
+      "page": 27,
+      "section": "2.3 El poder no controlará a quien lo vigila"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-instituciones-005",
+    "doc": "pp",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿En cuántos días propone el PP que se resuelvan los recursos de inconstitucionalidad contra leyes que afecten a derechos fundamentales?",
+    "options": [
+      "En treinta días",
+      "En un año",
+      "En dos años",
+      "En noventa días"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PP propone que estos recursos se resuelvan en noventa días y ampliar el recurso previo de inconstitucionalidad a las leyes orgánicas sobre los poderes del Estado. Un recurso de inconstitucionalidad es el que pide al Tribunal Constitucional anular una ley.",
+    "tip": "Es un plazo de pocos meses.",
+    "source": {
+      "doc": "pp",
+      "page": 26,
+      "section": "2.3 El poder no controlará a quien lo vigila"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pp-instituciones-006",
+    "doc": "pp",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "Marca todas las medidas de transparencia y control que propone el PP.",
+    "options": [
+      "Crear un Registro Nacional público y obligatorio de lobbies",
+      "Un referéndum sobre monarquía o república",
+      "Publicar íntegramente los acuerdos de investidura y de apoyo parlamentario",
+      "Sustituir la Ley de Secretos Oficiales de 1968",
+      "Eliminar el Senado"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "El PP propone publicar los pactos de gobierno sin anexos reservados, un Registro Nacional de lobbies (grupos de presión) y una nueva ley de secretos oficiales con plazos de desclasificación. No propone un referéndum ni eliminar el Senado.",
+    "tip": "Las medidas buscan que los pactos y las influencias sean públicos.",
+    "source": {
+      "doc": "pp",
+      "page": 29,
+      "section": "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-instituciones-007",
+    "doc": "pp",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone refundar el CIS, con dirección científica y profesional y un presidente con mandato propio?",
+    "options": [
+      "psoe",
+      "podemos",
+      "pp",
+      "erc"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El CIS es el Centro de Investigaciones Sociológicas, que hace encuestas públicas. El PP propone auditar su actividad desde 2018, reducir puestos de confianza y darle más transparencia en métodos, muestras y datos.",
+    "tip": "Se plantea devolverle su independencia y su prestigio técnico.",
+    "source": {
+      "doc": "pp",
+      "page": 27,
+      "section": "2.3 El poder no controlará a quien lo vigila"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-exterior-001",
+    "doc": "pp",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "El PP propone reconocer a las Fuerzas Armadas como profesión de riesgo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El PP propone aumentar los efectivos, reconocerlos como profesión de riesgo y mejorar sus retribuciones. También plantea una ley de programación y financiación de la defensa.",
+    "tip": "El mismo reconocimiento se propone para Policía Nacional y Guardia Civil.",
+    "source": {
+      "doc": "pp",
+      "page": 21,
+      "section": "1.8 España tendrá medios para su defensa"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-exterior-002",
+    "doc": "pp",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "El PP propone fundir la PAC y los fondos de cohesión europeos en un único plan por país.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La Comisión Europea propone ese plan único, pero el PP defenderá que la PAC y la cohesión sigan siendo políticas propias, con fondos propios y sin recortes para España en el presupuesto europeo 2028-2034.",
+    "tip": "El PP se posiciona en contra de una idea que atribuye a la Comisión.",
+    "source": {
+      "doc": "pp",
+      "page": 56,
+      "section": "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pp-exterior-003",
+    "doc": "pp",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Cómo define el programa del PP a China?",
+    "options": [
+      "Como socio estratégico preferente",
+      "Como un socio, un competidor y un rival sistémico",
+      "Como un aliado en materia de defensa",
+      "Como un adversario con el que se rompen relaciones comerciales"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El PP propone reducir dependencias exteriores, diversificar suministros y defender en Europa una política comercial que proteja a las empresas españolas de la competencia desleal. Un rival sistémico es un competidor con un modelo político y económico distinto.",
+    "tip": "La definición combina tres calificativos distintos.",
+    "source": {
+      "doc": "pp",
+      "page": 57,
+      "section": "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-exterior-004",
+    "doc": "pp",
+    "topic": "exterior",
+    "type": "multi",
+    "question": "Marca todas las medidas de defensa y acción exterior que propone el PP.",
+    "options": [
+      "Reforzar los contingentes españoles en la OTAN cuando sea necesario",
+      "Una ley de programación y financiación de la defensa",
+      "Reforzar el despliegue militar en Ceuta, Melilla y Canarias",
+      "Romper relaciones con Israel",
+      "Salir de la OTAN"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El PP propone una ley de programación de la defensa, reforzar el despliegue militar en Ceuta, Melilla y Canarias y reforzar los contingentes en la OTAN. No propone salir de la OTAN ni romper relaciones con Israel.",
+    "tip": "Las propuestas refuerzan la defensa y las alianzas actuales.",
+    "source": {
+      "doc": "pp",
+      "page": 21,
+      "section": "1.8 España tendrá medios para su defensa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-exterior-005",
+    "doc": "pp",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone mantener el apoyo político, económico, militar y humanitario a Ucrania y las sanciones contra Rusia mientras dure su agresión?",
+    "options": [
+      "podemos",
+      "pp",
+      "frenteamplio"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El PP lo plantea como una cuestión de toda Europa y respalda el derecho de Ucrania a decidir su futuro y a avanzar hacia la Unión Europea conforme a los procedimientos establecidos.",
+    "tip": "La propuesta incluye apoyo militar y sanciones a un país concreto.",
+    "source": {
+      "doc": "pp",
+      "page": 56,
+      "section": "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-exterior-006",
+    "doc": "pp",
+    "topic": "exterior",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa del PP?",
+    "options": [
+      "Apoyar la transición a la democracia en Cuba, Nicaragua y Venezuela",
+      "Hacer de Iberoamérica un socio prioritario de España y de la Unión Europea",
+      "Auditar y redirigir la cooperación al desarrollo",
+      "Apoyar el derecho de autodeterminación del Sáhara Occidental"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "En el Sáhara Occidental el PP propone apoyar los esfuerzos de Naciones Unidas para una solución política justa, duradera y mutuamente aceptable para las partes, sin hablar de autodeterminación. Las otras tres medidas sí están en su programa.",
+    "tip": "En una de las opciones el programa habla de una solución negociada bajo Naciones Unidas.",
+    "source": {
+      "doc": "pp",
+      "page": 56,
+      "section": "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pp-cultura-002",
+    "doc": "pp",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "El PP propone restituir el Premio Nacional de Tauromaquia.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El PP propone proteger los folclores, fiestas y tradiciones populares, empezando por la restitución del Premio Nacional de Tauromaquia, y reforzar su presencia dentro y fuera de España.",
+    "tip": "Forma parte de su apuesta por las tradiciones populares.",
+    "source": {
+      "doc": "pp",
+      "page": 38,
+      "section": "3.4 Recuperar lo que compartimos"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-cultura-003",
+    "doc": "pp",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿Con quién propone el PP elaborar los currículos de Historia de los colegios?",
+    "options": [
+      "Con las Reales Academias y las sociedades científicas",
+      "Con las comunidades autónomas por separado",
+      "Con los sindicatos docentes",
+      "Con el Gobierno de turno"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PP propone que los alumnos estudien la Constitución, la Transición y el daño causado por el terrorismo. Un currículo es el conjunto de contenidos que se enseñan en cada etapa.",
+    "tip": "La idea es que no los fije el Gobierno de cada momento.",
+    "source": {
+      "doc": "pp",
+      "page": 38,
+      "section": "3.4 Recuperar lo que compartimos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-cultura-004",
+    "doc": "pp",
+    "topic": "cultura",
+    "type": "multi",
+    "question": "Marca todas las propuestas de cultura, ciencia y tradiciones que incluye el PP.",
+    "options": [
+      "Reducir o privatizar RTVE",
+      "Zonas de innovación estratégica con trato fiscal más favorable durante siete años",
+      "Derogar la Ley de Memoria Democrática y aprobar una ley de concordia",
+      "Bajar el IVA de la cultura",
+      "Una nueva Ley de Mecenazgo"
+    ],
+    "answer": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "El PP propone derogar la ley de memoria democrática y sustituirla por una ley de concordia, una nueva Ley de Mecenazgo y zonas de innovación con trato fiscal favorable. No propone bajar el IVA cultural ni privatizar RTVE, sino reformarla.",
+    "tip": "Fíjate en medidas de incentivos y de leyes sustitutivas, no en cambios de impuestos específicos.",
+    "source": {
+      "doc": "pp",
+      "page": 38,
+      "section": "3.4 Recuperar lo que compartimos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-cultura-005",
+    "doc": "pp",
+    "topic": "cultura",
+    "type": "which_party",
+    "question": "¿Qué partido propone reforzar el liderazgo del Instituto Cervantes, con nuevas Residencias de Artistas inspiradas en la Real Academia de España en Roma?",
+    "options": [
+      "psoe",
+      "podemos",
+      "pp",
+      "erc"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PP plantea hacer de España el mejor lugar del mundo para crear en español, con el Instituto Cervantes abierto a la participación de los países hispanohablantes.",
+    "tip": "El objetivo es proyectar la lengua española en el mundo.",
+    "source": {
+      "doc": "pp",
+      "page": 38,
+      "section": "3.4 Recuperar lo que compartimos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pp-otros-001",
+    "doc": "pp",
+    "topic": "otros",
+    "type": "tf",
+    "question": "El PP propone un Plan Nacional de Infraestructuras de más de 300.000 millones de euros en 15 años, junto al sector privado.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El plan impulsaría autovías y redes viarias, Alta Velocidad, Cercanías e infraestructuras hidráulicas y energéticas.",
+    "tip": "La inversión se plantea a largo plazo y con participación privada.",
+    "source": {
+      "doc": "pp",
+      "page": 36,
+      "section": "3.3 Unas infraestructuras seguras que vertebren España"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-otros-002",
+    "doc": "pp",
+    "topic": "otros",
+    "type": "tf",
+    "question": "El PP propone que la escuela infantil de 0 a 3 años sea gratuita desde el primer año de legislatura.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La etapa sería gratuita al terminar la legislatura, con el Estado financiando la mitad del coste de cada plaza y las comunidades la otra mitad.",
+    "tip": "La gratuidad llegaría al final del periodo, no al principio.",
+    "source": {
+      "doc": "pp",
+      "page": 44,
+      "section": "4.2 España será el mejor país de Europa para formar una familia"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-otros-003",
+    "doc": "pp",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué propone hacer el PP con las deducciones familiares del IRPF?",
+    "options": [
+      "Refundirlas en una sola, reembolsable y con abono mensual",
+      "Eliminarlas y sustituirlas por una ayuda fija",
+      "Pagarlas solo una vez al año",
+      "Limitarlas a las familias numerosas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Una deducción reembolsable se cobra aunque no haya cuota suficiente de IRPF. El PP quiere un único trámite y abono mensual, y ampliar el acceso a las familias sin cuota suficiente.",
+    "tip": "La clave es que llegue cada mes y a todas las familias.",
+    "source": {
+      "doc": "pp",
+      "page": 43,
+      "section": "4.2 España será el mejor país de Europa para formar una familia"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-otros-004",
+    "doc": "pp",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué propone crear el PP para dirigir las emergencias de alcance nacional?",
+    "options": [
+      "Un mando único de protección civil y emergencias",
+      "Un ministerio de Emergencias",
+      "Una milicia voluntaria",
+      "Una agencia europea de emergencias"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El mando único tendría competencias y medios para planificar y dirigir las emergencias de alcance nacional y coordinar todos los medios del Estado. Protección civil es el sistema público de prevención y respuesta ante catástrofes.",
+    "tip": "Se trata de un único mando que coordina medios de distintas administraciones.",
+    "source": {
+      "doc": "pp",
+      "page": 20,
+      "section": "1.7 El Gobierno llegará el primero cuando haya una emergencia"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pp-otros-005",
+    "doc": "pp",
+    "topic": "otros",
+    "type": "multi",
+    "question": "Marca todas las medidas de transporte e infraestructuras que propone el PP.",
+    "options": [
+      "Hacer efectivas las indemnizaciones por retrasos del AVE",
+      "Transporte público gratuito para todos",
+      "Un programa de conservación de los más de 26.500 kilómetros de carreteras estatales",
+      "Un plan de atención urgente a los pasajeros cuando un tren quede detenido",
+      "Nacionalizar las concesiones de autopistas"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "El PP propone atención urgente a los pasajeros, conservar la red estatal de carreteras y cumplir las indemnizaciones por retrasos de la alta velocidad. No propone transporte gratuito ni nacionalizar concesiones.",
+    "tip": "Las medidas se centran en mantenimiento y atención al viajero.",
+    "source": {
+      "doc": "pp",
+      "page": 36,
+      "section": "3.3 Unas infraestructuras seguras que vertebren España"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pp-otros-006",
+    "doc": "pp",
+    "topic": "otros",
+    "type": "which_party",
+    "question": "¿Qué partido propone una Ley de Reconstrucción que deje preparadas las ayudas antes de cada catástrofe, con una primera ayuda inmediata exenta de tributación?",
+    "options": [
+      "psoe",
+      "podemos",
+      "erc",
+      "pp"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "La ley agilizaría la declaración de zonas gravemente afectadas y la concesión de ayudas. La primera ayuda quedaría sujeta a comprobación posterior, y habría anticipos para quienes no puedan adelantar el dinero.",
+    "tip": "El nombre de la ley indica que las ayudas estarían previstas antes de que ocurra la emergencia.",
+    "source": {
+      "doc": "pp",
+      "page": 21,
+      "section": "1.7 El Gobierno llegará el primero cuando haya una emergencia"
+    },
+    "difficulty": 2
   }
 ]

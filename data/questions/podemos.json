@@ -68,5 +68,2305 @@
       "section": "Pensiones"
     },
     "difficulty": 2
+  },
+  {
+    "id": "podemos-vivienda-002",
+    "doc": "podemos",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Podemos propone que los contratos de alquiler de vivienda habitual pasen a ser, por defecto, de duración indefinida.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. Con un contrato indefinido nadie tendría que irse de casa solo porque venza el plazo del contrato.",
+    "tip": "Piensa en qué problema de los inquilinos resolvería que el contrato no caducara.",
+    "source": {
+      "doc": "podemos",
+      "page": 8,
+      "section": "Las casas son para vivir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-vivienda-003",
+    "doc": "podemos",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "Según el programa de Podemos, ¿durante cuántos años tras la compra deberían destinarse las viviendas adquiridas a residencia habitual o a segunda residencia de uso propio, sin poder estar vacías ni alquilarse?",
+    "options": [
+      "1 año",
+      "2 años",
+      "4 años",
+      "10 años"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El programa prohíbe comprar y acumular viviendas que no sean para vivir: durante los cuatro años posteriores a la compra deben usarse como residencia habitual (propia o de un familiar) o como segunda residencia propia, salvo excepciones como el alquiler social.",
+    "tip": "Es un plazo intermedio: más largo que un par de años, pero lejos de una década.",
+    "source": {
+      "doc": "podemos",
+      "page": 8,
+      "section": "Las casas son para vivir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-vivienda-004",
+    "doc": "podemos",
+    "topic": "vivienda",
+    "type": "which_party",
+    "question": "¿Qué partido propone crear una inmobiliaria pública que gestione los alquileres de los propietarios que se adhieran, con una renta máxima del 30 % de la renta media del municipio?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "podemos"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta de Podemos: la inmobiliaria pública haría de intermediaria entre propietarios e inquilinos y asumiría la gestión de los arrendamientos a cambio de garantizar alquileres asequibles.",
+    "tip": "Busca el partido que quiere un operador público intermediando en el mercado del alquiler.",
+    "source": {
+      "doc": "podemos",
+      "page": 10,
+      "section": "Las casas son para vivir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "podemos-vivienda-005",
+    "doc": "podemos",
+    "topic": "vivienda",
+    "type": "multi",
+    "question": "Marca todas las medidas fiscales sobre vivienda que propone Podemos.",
+    "options": [
+      "Bajar al 4 % el IVA de la primera vivienda",
+      "Crear un impuesto contra el flipping inmobiliario",
+      "Subir al 21 % el IVA de los pisos turísticos",
+      "Eliminar el régimen fiscal de las SOCIMI"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "Podemos propone gravar los pisos turísticos con el 21 % de IVA, crear un impuesto contra el flipping (comprar para revender rápido con beneficio) y eliminar el régimen fiscal de las SOCIMI (sociedades que invierten en inmuebles con ventajas fiscales). Bajar el IVA de la primera vivienda no figura entre sus medidas.",
+    "tip": "Tres medidas buscan desincentivar la inversión inmobiliaria; la otra la abarataría.",
+    "source": {
+      "doc": "podemos",
+      "page": 22,
+      "section": "Los precios tienen que bajar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-vivienda-006",
+    "doc": "podemos",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Podemos propone crear un cheque energético anual de 500 euros para los hogares con ingresos bajos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La cuantía propuesta es de 300 euros anuales, para unidades de convivencia cuyos ingresos no superen el SMI multiplicado por el número de miembros.",
+    "tip": "La cifra real es menor que la que se plantea en la pregunta.",
+    "source": {
+      "doc": "podemos",
+      "page": 13,
+      "section": "Las casas son para vivir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-vivienda-007",
+    "doc": "podemos",
+    "topic": "vivienda",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO figura en el programa de Podemos sobre vivienda?",
+    "options": [
+      "Incorporar al parque público los activos de la SAREB",
+      "Prohibir la venta y subasta de vivienda pública",
+      "Facilitar los desalojos rápidos de viviendas ocupadas y endurecer las penas",
+      "Prohibir los desalojos extrajudiciales e ilegalizar las empresas de desokupación"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Podemos propone justo lo contrario en materia de desalojos: prohibir los desalojos extrajudiciales y las empresas de desokupación. La SAREB es el llamado 'banco malo', creado para gestionar activos inmobiliarios de los bancos rescatados.",
+    "tip": "Una de las opciones va en dirección contraria al resto del bloque.",
+    "source": {
+      "doc": "podemos",
+      "page": 9,
+      "section": "Las casas son para vivir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-vivienda-008",
+    "doc": "podemos",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué propone Podemos para los hogares con ingresos bajos que tienen una hipoteca a tipo variable?",
+    "options": [
+      "Limitar el interés a euríbor más 2 % mientras el euríbor supere el 0,1 %",
+      "Limitar el interés a euríbor más 0,1 % mientras el euríbor supere el 2 %",
+      "Aplazar las cuotas durante doce meses",
+      "Convertir todas las hipotecas a tipo fijo del 1 %"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Se establecería un tope al diferencial de las hipotecas variables sobre vivienda habitual de hogares con ingresos bajos, de modo que, mientras el euríbor siga por encima del 2 %, el interés aplicado sea el euríbor más un 0,1 %, con el coste a cargo de los bancos. El euríbor es el índice de referencia al que se ligan muchas hipotecas.",
+    "tip": "Fíjate en cuál es la cifra del diferencial y cuál la del umbral del euríbor.",
+    "source": {
+      "doc": "podemos",
+      "page": 13,
+      "section": "Las casas son para vivir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "podemos-empleo-001",
+    "doc": "podemos",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Hasta qué cantidad mensual propone Podemos elevar el salario mínimo interprofesional (SMI) en una legislatura?",
+    "options": [
+      "1.500 euros",
+      "1.650 euros",
+      "1.800 euros",
+      "2.000 euros"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Podemos propone subir el SMI hasta 1.800 euros mensuales y fijar por ley que nunca sea inferior al 75 % del salario mediano.",
+    "tip": "Es una cifra redonda entre 1.600 y 2.000.",
+    "source": {
+      "doc": "podemos",
+      "page": 41,
+      "section": "Trabajar menos para vivir mejor"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-empleo-002",
+    "doc": "podemos",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "Podemos propone reducir la jornada laboral a 32 horas semanales sin bajar los sueldos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La propuesta es llegar a 30 horas semanales durante la legislatura, empezando por 35, con posibilidad de semana de cuatro días y teletrabajo dos días a la semana donde sea posible.",
+    "tip": "Otra fuerza de izquierdas propone un número distinto de horas; aquí la cifra es aún menor.",
+    "source": {
+      "doc": "podemos",
+      "page": 41,
+      "section": "Trabajar menos para vivir mejor"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-empleo-003",
+    "doc": "podemos",
+    "topic": "empleo",
+    "type": "which_party",
+    "question": "¿Qué partido propone aprobar una 'Ley Kellys' para que las empresas contratistas y subcontratistas apliquen las mismas condiciones laborales que la empresa principal?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "podemos"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta de Podemos. Se llama así por las camareras de piso, un sector donde la subcontratación está muy extendida y empeora las condiciones laborales.",
+    "tip": "Busca el partido que quiere limitar la externalización como vía para rebajar condiciones.",
+    "source": {
+      "doc": "podemos",
+      "page": 43,
+      "section": "Trabajar menos para vivir mejor"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "podemos-empleo-004",
+    "doc": "podemos",
+    "topic": "empleo",
+    "type": "multi",
+    "question": "Marca todas las medidas laborales que propone Podemos.",
+    "options": [
+      "Sustituir la indemnización por despido por un fondo de capitalización individual (mochila austriaca)",
+      "Aprobar la 'Ley Kellys' sobre subcontratas",
+      "Restablecer la indemnización de 45 días por año en los despidos ilegales",
+      "Que cada 2 meses cotizados den derecho a 1 mes de paro"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "Podemos quiere restablecer los 45 días por año en despidos ilegales (con derecho a elegir entre indemnización o readmisión), cambiar el acceso al paro para que cada 2 meses cotizados computen un mes de prestación y aprobar la Ley Kellys. La mochila austriaca no figura en su programa.",
+    "tip": "Una de las opciones iría en el sentido de reducir las garantías frente al despido.",
+    "source": {
+      "doc": "podemos",
+      "page": 42,
+      "section": "Trabajar menos para vivir mejor"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-empleo-005",
+    "doc": "podemos",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué reformas laborales querría dejar sin efecto el nuevo Estatuto de los Trabajadores y Trabajadoras que propone Podemos?",
+    "options": [
+      "Las de 2010 y 2012",
+      "Las de 2012 y 2021",
+      "Las de 2002 y 2012",
+      "Solo la de 2021"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Podemos propone elaborar un nuevo Estatuto de los Trabajadores y Trabajadoras que derogue los efectos de las reformas laborales de 2010 y 2012.",
+    "tip": "Son dos reformas consecutivas de principios de la década de 2010.",
+    "source": {
+      "doc": "podemos",
+      "page": 42,
+      "section": "Trabajar menos para vivir mejor"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-empleo-006",
+    "doc": "podemos",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "Podemos propone que los salarios se actualicen siempre con el coste de la vida, incluso cuando el convenio colectivo ya pacte mejoras.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La actualización automática se aplicaría cuando no exista un pacto en la negociación colectiva que establezca mejoras; funcionaría como garantía si el convenio no protege el poder adquisitivo.",
+    "tip": "Fíjate en la condición: ¿qué tiene que pasar en el convenio para que se aplique?",
+    "source": {
+      "doc": "podemos",
+      "page": 41,
+      "section": "Trabajar menos para vivir mejor"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "podemos-empleo-007",
+    "doc": "podemos",
+    "topic": "empleo",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO figura en el programa de Podemos en materia laboral?",
+    "options": [
+      "Reducir la jornada a 30 horas semanales durante la legislatura",
+      "Prohibir las horas extra y perseguir penalmente su realización ilegal",
+      "Recuperar los salarios de tramitación en despidos declarados ilegales",
+      "Abaratar el despido improcedente con una indemnización de 20 días por año"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Podemos propone lo contrario: restablecer los 45 días por año en despidos ilegales. Los salarios de tramitación son los que se devengan entre la fecha del despido y la sentencia que lo declara ilegal.",
+    "tip": "Una opción abarataría el despido, justo lo opuesto a lo que defiende el programa.",
+    "source": {
+      "doc": "podemos",
+      "page": 42,
+      "section": "Trabajar menos para vivir mejor"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-economia-001",
+    "doc": "podemos",
+    "topic": "economia",
+    "type": "tf",
+    "question": "Podemos propone un impuesto permanente sobre los beneficios extraordinarios de la gran banca para que al menos el 20 % de sus beneficios revierta en las arcas públicas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La cifra del programa es de al menos el 50 %. Además, Podemos pide a las entidades financieras la devolución íntegra del dinero público destinado a su rescate.",
+    "tip": "La cifra real es bastante más alta.",
+    "source": {
+      "doc": "podemos",
+      "page": 17,
+      "section": "Los precios tienen que bajar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-economia-002",
+    "doc": "podemos",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿A qué porcentaje propone Podemos subir el tipo mínimo efectivo del Impuesto de Sociedades, que hoy es del 15 %?",
+    "options": [
+      "17 %",
+      "19 %",
+      "21 %",
+      "25 %"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa propone subir el tipo mínimo efectivo del 15 % al 19 % y fijar un 29 % mínimo efectivo (35 % nominal) para las empresas en régimen de oligopolio, es decir, de mercados dominados por muy pocas empresas.",
+    "tip": "Es una subida de solo unos puntos, no un salto enorme.",
+    "source": {
+      "doc": "podemos",
+      "page": 21,
+      "section": "Los precios tienen que bajar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-economia-003",
+    "doc": "podemos",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone crear una Banca Pública que integre el ICO, el CDTI y ENISA, y con la que operen en exclusiva las administraciones públicas?",
+    "options": [
+      "pp",
+      "vox",
+      "podemos",
+      "psoe"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una propuesta de Podemos. El ICO, el CDTI y ENISA son instituciones públicas de financiación y apoyo a empresas e innovación.",
+    "tip": "Busca el partido que quiere un banco de titularidad pública con operatividad exclusiva para las administraciones.",
+    "source": {
+      "doc": "podemos",
+      "page": 17,
+      "section": "Los precios tienen que bajar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-economia-004",
+    "doc": "podemos",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué característica tendría la red pública de supermercados que propone Podemos?",
+    "options": [
+      "Funcionaría solo en zonas rurales",
+      "Fijaría un único precio para todos los productos",
+      "No aplicaría margen de beneficio al precio de venta",
+      "Vendería solo productos importados"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El operador público no repercutiría margen de beneficio sobre el precio de venta, ayudaría a controlar precios en contextos de inflación y priorizaría la compra de proximidad a pequeñas explotaciones.",
+    "tip": "Piensa en cómo conseguiría precios más bajos un supermercado sin ánimo de lucro.",
+    "source": {
+      "doc": "podemos",
+      "page": 17,
+      "section": "Los precios tienen que bajar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-economia-005",
+    "doc": "podemos",
+    "topic": "economia",
+    "type": "multi",
+    "question": "Marca todas las medidas de reforma del IRPF que propone Podemos.",
+    "options": [
+      "Subir el tipo hasta el 28,5 % a partir de 500.000 euros",
+      "Aplicar un tipo único (flat tax) del 15 %",
+      "Equiparar la tributación de las rentas del capital con las del trabajo",
+      "Bajar el tipo mínimo del 9,5 % al 9 %"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "Podemos propone reducir el tipo mínimo, elevar los tipos desde los 60.000 euros hasta el 28,5 % a partir de 500.000 euros y equiparar las rentas del capital y del trabajo. Un tipo único iría en contra de la progresividad que defiende.",
+    "tip": "Una de las opciones eliminaría la progresividad, que es lo que el programa quiere reforzar.",
+    "source": {
+      "doc": "podemos",
+      "page": 21,
+      "section": "Los precios tienen que bajar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "podemos-economia-006",
+    "doc": "podemos",
+    "topic": "economia",
+    "type": "tf",
+    "question": "Podemos propone derogar la llamada 'Ley Beckham', que permite a quienes se trasladan a trabajar a España tributar durante seis años mucho menos que el resto de contribuyentes.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. Podemos propone derogarla por completo para que esas personas tributen como los demás.",
+    "tip": "El régimen especial afecta a personas que se trasladan a España por trabajo.",
+    "source": {
+      "doc": "podemos",
+      "page": 21,
+      "section": "Los precios tienen que bajar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-economia-007",
+    "doc": "podemos",
+    "topic": "economia",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO figura en el programa de Podemos?",
+    "options": [
+      "Suprimir los impuestos de Sucesiones, Donaciones y Patrimonio",
+      "Derogar la reforma constitucional del artículo 135",
+      "Cotización de autónomos como porcentaje progresivo del beneficio",
+      "Prohibir la contratación pública con elusores y evasores fiscales"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Podemos defiende justo lo contrario: convertir el impuesto a las grandes fortunas en un impuesto estatal permanente con las características del Impuesto del Patrimonio.",
+    "tip": "Una opción reduciría impuestos a quienes más tienen; el programa propone subirlos.",
+    "source": {
+      "doc": "podemos",
+      "page": 17,
+      "section": "Los precios tienen que bajar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-economia-008",
+    "doc": "podemos",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué artículo de la Constitución propone Podemos dejar de aplicar derogando su reforma, para que el pago de la deuda deje de tener preferencia sobre la inversión social?",
+    "options": [
+      "El artículo 15",
+      "El artículo 128",
+      "El artículo 135",
+      "El artículo 155"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El artículo 135 fija la prioridad del pago de la deuda y limita el déficit. Podemos quiere derogar esa reforma constitucional y las limitaciones en la financiación de los servicios públicos.",
+    "tip": "Es el artículo vinculado a la estabilidad presupuestaria.",
+    "source": {
+      "doc": "podemos",
+      "page": 23,
+      "section": "Los precios tienen que bajar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "podemos-pensiones-002",
+    "doc": "podemos",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "Podemos propone eliminar, también con efecto retroactivo, las penalizaciones por jubilación anticipada para quienes acrediten 40 años o más de cotización.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. La reforma incluiría revisar las pensiones ya reconocidas para quienes tengan largas carreras de cotización.",
+    "tip": "Fíjate en el adjetivo 'retroactivo': afecta también a quienes ya se han jubilado.",
+    "source": {
+      "doc": "podemos",
+      "page": 41,
+      "section": "Trabajar menos para vivir mejor"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-pensiones-003",
+    "doc": "podemos",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿A qué porcentaje del SMI propone Podemos fijar la pensión no contributiva?",
+    "options": [
+      "60 %",
+      "70 %",
+      "80 %",
+      "100 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Podemos propone equiparar la pensión mínima contributiva al SMI y fijar la pensión no contributiva en el 80 % del SMI. La no contributiva es la que se cobra sin haber cotizado lo suficiente.",
+    "tip": "Es menos que el SMI pero más de tres cuartas partes de él.",
+    "source": {
+      "doc": "podemos",
+      "page": 44,
+      "section": "Trabajar menos para vivir mejor"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "podemos-pensiones-004",
+    "doc": "podemos",
+    "topic": "pensiones",
+    "type": "which_party",
+    "question": "¿Qué partido propone eliminar las desgravaciones del IRPF por planes de pensiones privados, incluidos los planes de empleo?",
+    "options": [
+      "pp",
+      "podemos",
+      "salf",
+      "pnv"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es una propuesta de Podemos, que la plantea para reforzar el sistema público de pensiones frente a su privatización.",
+    "tip": "Busca el partido que quiere reforzar el sistema público quitando ventajas fiscales a los planes privados.",
+    "source": {
+      "doc": "podemos",
+      "page": 21,
+      "section": "Los precios tienen que bajar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-pensiones-005",
+    "doc": "podemos",
+    "topic": "pensiones",
+    "type": "multi",
+    "question": "Marca todas las medidas sobre pensiones y protección social que propone Podemos.",
+    "options": [
+      "Convertir el Ingreso Mínimo Vital en una renta universal incondicionada",
+      "Integrar en la Seguridad Social las mutualidades alternativas al RETA",
+      "Eliminar el tope máximo de las bases de cotización",
+      "Crear un sistema de capitalización individual para las pensiones"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Podemos propone suprimir el tope de cotización (con cotizaciones progresivas), potenciar el Ingreso Mínimo Vital hasta una renta universal incondicionada e integrar las mutualidades alternativas al RETA. La capitalización individual iría en contra de su modelo público.",
+    "tip": "Tres medidas amplían el sistema público; la otra lo sustituiría por cuentas individuales.",
+    "source": {
+      "doc": "podemos",
+      "page": 44,
+      "section": "Trabajar menos para vivir mejor"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "podemos-pensiones-006",
+    "doc": "podemos",
+    "topic": "pensiones",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO figura en el programa de Podemos?",
+    "options": [
+      "Suprimir el tope máximo de las bases de cotización",
+      "Impulsar los planes de pensiones privados con ventajas fiscales",
+      "Reconocer una prestación a quien cuida a una persona dependiente",
+      "Adelantar la edad ordinaria de jubilación a los 63 años"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Podemos propone justo lo contrario: eliminar las desgravaciones del IRPF por planes de pensiones privados.",
+    "tip": "Una opción refuerza la previsión privada, que Podemos rechaza.",
+    "source": {
+      "doc": "podemos",
+      "page": 21,
+      "section": "Los precios tienen que bajar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-sanidad-001",
+    "doc": "podemos",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Hasta qué cantidad por habitante y año propone Podemos subir la financiación sanitaria, frente a los 2.247 euros actuales?",
+    "options": [
+      "2.500 euros",
+      "2.700 euros",
+      "2.900 euros",
+      "3.200 euros"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Podemos propone alcanzar al menos 2.900 euros por habitante y año, en torno al 8 % del PIB, para converger con los países de su entorno, y crear un fondo estatal para financiar la gestión pública directa.",
+    "tip": "Es una cifra cercana a los 3.000 euros, pero sin llegar a ellos.",
+    "source": {
+      "doc": "podemos",
+      "page": 89,
+      "section": "Servicios públicos para garantizar vidas dignas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-sanidad-002",
+    "doc": "podemos",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "La Ley General de Salud Mental que propone Podemos fijaría ratios mínimas de 18 psiquiatras, 18 psicólogos clínicos y 23 enfermeros especialistas por cada 100.000 habitantes.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. Además, la ley incluiría tiempos máximos de acceso, derechos de los pacientes, menos institucionalización y el fin de la contención mecánica (sujetar físicamente a una persona a la cama).",
+    "tip": "Las cifras son parecidas entre profesiones: dos iguales y una algo mayor.",
+    "source": {
+      "doc": "podemos",
+      "page": 91,
+      "section": "Servicios públicos para garantizar vidas dignas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "podemos-sanidad-003",
+    "doc": "podemos",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "Podemos propone que el tiempo en lista de espera se cuente desde la primera indicación clínica.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. Es decir, desde que un profesional indica la prueba o la intervención, no desde que se da la cita. Además, el programa propone cumplir los tiempos máximos acordados y eliminar las listas de espera no estructurales.",
+    "tip": "Piensa en cuándo empieza realmente la espera de un paciente.",
+    "source": {
+      "doc": "podemos",
+      "page": 90,
+      "section": "Servicios públicos para garantizar vidas dignas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-sanidad-004",
+    "doc": "podemos",
+    "topic": "sanidad",
+    "type": "which_party",
+    "question": "¿Qué partido propone crear una industria sanitaria y farmacéutica pública que diseñe, produzca y almacene material como mascarillas o respiradores?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "podemos"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta de Podemos: un conglomerado industrial público para garantizar el abastecimiento de material y tecnología sanitaria.",
+    "tip": "Busca el partido que quiere producción pública de material sanitario.",
+    "source": {
+      "doc": "podemos",
+      "page": 88,
+      "section": "Servicios públicos para garantizar vidas dignas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-sanidad-005",
+    "doc": "podemos",
+    "topic": "sanidad",
+    "type": "multi",
+    "question": "Marca todas las medidas sanitarias que propone Podemos.",
+    "options": [
+      "Derivar a la privada a quien supere los plazos máximos de espera",
+      "Incluir el dentista (empastes, ortodoncias, prótesis) en la sanidad pública",
+      "Hacer el copago farmacéutico proporcional a la renta",
+      "Garantizar atención psicológica pública y gratuita"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "Podemos propone ampliar la cartera de servicios con el dentista público, hacer el copago (la parte del precio de un medicamento que paga el paciente) proporcional a la renta y garantizar atención psicológica pública. Derivar pacientes a centros privados no figura en su programa, que defiende la gestión pública directa.",
+    "tip": "Tres medidas amplían lo público; la otra recurre a la sanidad privada.",
+    "source": {
+      "doc": "podemos",
+      "page": 92,
+      "section": "Servicios públicos para garantizar vidas dignas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-sanidad-006",
+    "doc": "podemos",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué propone Podemos para garantizar el derecho a una muerte digna?",
+    "options": [
+      "Exigir un informe judicial previo en todos los casos",
+      "Derogar la ley de eutanasia",
+      "Dejar la decisión a cada comunidad autónoma",
+      "Reforzar los medios de las Comisiones de Garantía y Evaluación y agilizar los trámites"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Podemos propone reforzar los recursos humanos y materiales de las Comisiones de Garantía y Evaluación y de los equipos sanitarios, con vías prioritarias para quienes lo necesiten, evitando que la objeción de conciencia lo bloquee.",
+    "tip": "Se trata de agilizar y reforzar, no de restringir.",
+    "source": {
+      "doc": "podemos",
+      "page": 94,
+      "section": "Servicios públicos para garantizar vidas dignas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-educacion-001",
+    "doc": "podemos",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Cuál sería, según Podemos, la ratio máxima de alumnos por aula en Educación Primaria?",
+    "options": [
+      "15 alumnos",
+      "20 alumnos",
+      "23 alumnos",
+      "25 alumnos"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Podemos propone ratios máximas de 15 alumnos en Primaria, 20 en Secundaria y 23 en Bachillerato, y 13 por profesional en Infantil de 3 a 6 años.",
+    "tip": "Las ratios propuestas son más bajas cuanto menor es la edad del alumnado.",
+    "source": {
+      "doc": "podemos",
+      "page": 79,
+      "section": "Servicios públicos para garantizar vidas dignas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-educacion-002",
+    "doc": "podemos",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "En la etapa de 0 a 3 años, Podemos propone una ratio máxima de 8 bebés menores de un año por profesional.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El programa fija un máximo de 3 bebés menores de un año, 5 niños de 1 a 2 años y 6 de 2 a 3 años por profesional, además de garantizar la pareja educativa en todas las aulas.",
+    "tip": "La cifra real es muy inferior: se trata de bebés que necesitan mucha atención individual.",
+    "source": {
+      "doc": "podemos",
+      "page": 79,
+      "section": "Servicios públicos para garantizar vidas dignas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "podemos-educacion-003",
+    "doc": "podemos",
+    "topic": "educacion",
+    "type": "which_party",
+    "question": "¿Qué partido propone suprimir la enseñanza de cualquier religión en cualquier colegio?",
+    "options": [
+      "psoe",
+      "pp",
+      "vox",
+      "podemos"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta de Podemos. La alta inspección educativa vigilaría su cumplimiento, con retirada de licencia a los centros que no lo cumplan.",
+    "tip": "Busca el partido que quiere un sistema educativo completamente laico.",
+    "source": {
+      "doc": "podemos",
+      "page": 83,
+      "section": "Servicios públicos para garantizar vidas dignas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-educacion-004",
+    "doc": "podemos",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿En qué porcentaje propone Podemos subir los salarios del personal de los centros públicos?",
+    "options": [
+      "10 %",
+      "20 %",
+      "30 %",
+      "40 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Podemos propone subir un 30 % los salarios del personal de los centros públicos, actualizarlos cada año según el coste de la vida y cubrir las vacantes en un máximo de siete días.",
+    "tip": "Es una subida de casi un tercio.",
+    "source": {
+      "doc": "podemos",
+      "page": 81,
+      "section": "Servicios públicos para garantizar vidas dignas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-educacion-005",
+    "doc": "podemos",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "Podemos propone crear una asignatura obligatoria de Educación Sexual y en Igualdad en todas las etapas educativas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. La asignatura abordaría la prevención de infecciones de transmisión sexual, los métodos anticonceptivos y la igualdad, libre de violencias y discriminación.",
+    "tip": "Piensa en si sería voluntaria u obligatoria y en cuántas etapas cubriría.",
+    "source": {
+      "doc": "podemos",
+      "page": 83,
+      "section": "Servicios públicos para garantizar vidas dignas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-educacion-006",
+    "doc": "podemos",
+    "topic": "educacion",
+    "type": "multi",
+    "question": "Marca todas las medidas sobre educación que propone Podemos.",
+    "options": [
+      "Un cheque escolar válido en centros públicos, concertados y privados",
+      "Un Plan Estatal de Gratuidad y Reutilización de libros de texto",
+      "Una moratoria indefinida a la creación de nuevas universidades privadas",
+      "La gratuidad universal progresiva de los comedores escolares"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "Podemos propone una moratoria indefinida de nuevas universidades privadas, comedores escolares gratuitos y universales de forma progresiva y un plan para que libros y material escolar sean gratuitos. El cheque escolar es una fórmula que no figura en su programa, que apuesta por reforzar la red pública.",
+    "tip": "Tres medidas refuerzan lo público; la otra repartiría dinero entre todo tipo de centros.",
+    "source": {
+      "doc": "podemos",
+      "page": 86,
+      "section": "Servicios públicos para garantizar vidas dignas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-educacion-007",
+    "doc": "podemos",
+    "topic": "educacion",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO figura en el programa de Podemos sobre educación?",
+    "options": [
+      "Reducir las ratios máximas de alumnos por aula en todas las etapas",
+      "Permitir que las familias veten contenidos de educación afectivo-sexual (pin parental)",
+      "Crear un fondo estatal para reforzar exclusivamente la educación pública de gestión directa",
+      "Garantizar la gratuidad universal de libros y material escolar"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Podemos propone justo lo contrario: implantar una asignatura obligatoria de Educación Sexual y en Igualdad en todas las etapas. El 'pin parental' es un mecanismo para que los padres puedan excluir a sus hijos de ciertos contenidos.",
+    "tip": "Una opción restringiría contenidos que el programa quiere reforzar.",
+    "source": {
+      "doc": "podemos",
+      "page": 83,
+      "section": "Servicios públicos para garantizar vidas dignas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-igualdad-001",
+    "doc": "podemos",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿De cuántos euros sería el fondo de contingencia que propone Podemos para financiar de forma estable las políticas contra las violencias machistas?",
+    "options": [
+      "100 millones",
+      "500 millones",
+      "1.000 millones",
+      "2.000 millones"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El fondo sería de mil millones de euros y garantizaría una financiación estable y a largo plazo mediante la reforma de la Ley General Presupuestaria.",
+    "tip": "Es la segunda cantidad más alta de las opciones.",
+    "source": {
+      "doc": "podemos",
+      "page": 51,
+      "section": "Vidas que merezcan la pena ser vividas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-igualdad-002",
+    "doc": "podemos",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "Podemos propone eliminar del Código Penal las referencias al aborto consentido e incluir expresamente el derecho al aborto en la Constitución, dentro del artículo 15.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. El programa plantea blindar el derecho al aborto sacándolo del Código Penal e incorporándolo a la Constitución como derecho fundamental.",
+    "tip": "El artículo 15 es el que protege el derecho a la vida y a la integridad física.",
+    "source": {
+      "doc": "podemos",
+      "page": 51,
+      "section": "Vidas que merezcan la pena ser vividas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-igualdad-003",
+    "doc": "podemos",
+    "topic": "igualdad",
+    "type": "which_party",
+    "question": "¿Qué partido propone crear una prestación universal por crianza del 15 % del SMI mensual por cada hijo o hija desde el nacimiento hasta los 21 años?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "podemos"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta de Podemos, pensada para garantizar el bienestar de la infancia y aliviar la carga económica de las familias.",
+    "tip": "Busca el partido que plantea una ayuda por hijo hasta la veintena.",
+    "source": {
+      "doc": "podemos",
+      "page": 60,
+      "section": "Vidas que merezcan la pena ser vividas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-igualdad-004",
+    "doc": "podemos",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Cuántas semanas por progenitor, intransferibles y remuneradas, propone Podemos para los permisos por nacimiento, adopción y acogimiento?",
+    "options": [
+      "16 semanas",
+      "20 semanas",
+      "26 semanas",
+      "32 semanas"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Podemos propone ampliar los permisos a 26 semanas por progenitor (unos 6 meses cada uno) y duplicar su duración en las familias monomarentales.",
+    "tip": "Es una cifra intermedia entre 20 y 32.",
+    "source": {
+      "doc": "podemos",
+      "page": 60,
+      "section": "Vidas que merezcan la pena ser vividas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-igualdad-005",
+    "doc": "podemos",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "Podemos propone una prestación equivalente al SMI durante 12 meses, sin posibilidad de prórroga, para las mujeres que salen de la violencia machista.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La prestación sería equivalente al SMI durante 6 meses prorrogables, y aumentaría según las personas a cargo de cada mujer. Se acompañaría de una alternativa habitacional digna e inmediata.",
+    "tip": "Fíjate tanto en el plazo como en que sea o no ampliable.",
+    "source": {
+      "doc": "podemos",
+      "page": 53,
+      "section": "Vidas que merezcan la pena ser vividas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "podemos-igualdad-006",
+    "doc": "podemos",
+    "topic": "igualdad",
+    "type": "multi",
+    "question": "Marca todas las medidas LGTBIQA+ y de salud sexual y reproductiva que propone Podemos.",
+    "options": [
+      "Un cupo laboral trans en el empleo público",
+      "Retirar la libre determinación de género de la Ley Trans",
+      "Reproducción asistida pública para todas las mujeres, incluidas lesbianas, bisexuales y personas trans",
+      "La opción de género no binario en documentos oficiales"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "El programa incluye género no binario en los documentos, cupo laboral trans en el empleo público y extender la reproducción asistida pública a todas las mujeres. Retirar la libre determinación de género iría en sentido contrario.",
+    "tip": "Una de las opciones reduciría derechos que las demás amplían.",
+    "source": {
+      "doc": "podemos",
+      "page": 52,
+      "section": "Vidas que merezcan la pena ser vividas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-igualdad-007",
+    "doc": "podemos",
+    "topic": "igualdad",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO figura en el programa de Podemos?",
+    "options": [
+      "Crear un Sistema Estatal de Cuidados y Conciliación como cuarto pilar del Estado del Bienestar",
+      "Hacer gratuitos todos los anticonceptivos, incluidos los de urgencia",
+      "Ampliar los permisos por nacimiento a 26 semanas por progenitor",
+      "Revisar la Ley Trans para eliminar la libre autodeterminación registral del sexo"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Podemos propone mantener y ampliar los derechos LGTBIQA+, incluida la opción de género no binario en documentos oficiales. El 'cuarto pilar' se refiere a que los cuidados se sumarían a sanidad, educación y pensiones.",
+    "tip": "Una opción restringe derechos que el programa amplía.",
+    "source": {
+      "doc": "podemos",
+      "page": 52,
+      "section": "Vidas que merezcan la pena ser vividas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-inmigracion-001",
+    "doc": "podemos",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿A qué plazo propone Podemos reducir la solicitud de la nacionalidad para quienes acrediten arraigo efectivo y continuado?",
+    "options": [
+      "Un año",
+      "Dos años",
+      "Tres años",
+      "Cinco años"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Podemos propone reformar el artículo 22 del Código Civil para reducir a un año el plazo de residencia para quienes acrediten arraigo efectivo y continuado, y ampliar los supuestos de adquisición por opción.",
+    "tip": "Es el plazo más breve posible de las opciones.",
+    "source": {
+      "doc": "podemos",
+      "page": 66,
+      "section": "Vidas que merezcan la pena ser vividas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-inmigracion-002",
+    "doc": "podemos",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "Podemos propone mantener los Centros de Internamiento de Extranjeros (CIE) pero reduciendo el tiempo máximo de internamiento.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Podemos propone cerrar todos los CIE y sustituir la privación de libertad por alternativas comunitarias y procedimientos individualizados. Los CIE son centros donde se retiene a personas extranjeras en situación irregular.",
+    "tip": "El programa va más allá de reformar: propone eliminarlos.",
+    "source": {
+      "doc": "podemos",
+      "page": 65,
+      "section": "Vidas que merezcan la pena ser vividas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-inmigracion-003",
+    "doc": "podemos",
+    "topic": "inmigracion",
+    "type": "which_party",
+    "question": "¿Qué partido propone que sean españoles de origen los nacidos en España de padres extranjeros si alguno de ellos llevaba al menos un año de estancia legal en España antes del nacimiento?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "podemos"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta de Podemos, que plantea ampliar el ius soli (derecho a la nacionalidad por nacer en el país) modificando el artículo 17.1 del Código Civil.",
+    "tip": "Busca el partido que amplía la nacionalidad por nacimiento en España.",
+    "source": {
+      "doc": "podemos",
+      "page": 66,
+      "section": "Vidas que merezcan la pena ser vividas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "podemos-inmigracion-004",
+    "doc": "podemos",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Qué propone Podemos para atender a los menores migrantes no acompañados?",
+    "options": [
+      "Un sistema estatal obligatorio de distribución con corresponsabilidad de todas las comunidades",
+      "Devolverlos a su país de origen",
+      "Que cada comunidad decida voluntariamente si los acoge",
+      "Que los acoja solo la comunidad donde lleguen"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Podemos propone un sistema estatal obligatorio, con criterios objetivos de población, capacidad de acogida y necesidades de protección, y financiación suficiente.",
+    "tip": "Se habla de un reparto obligatorio, no voluntario.",
+    "source": {
+      "doc": "podemos",
+      "page": 69,
+      "section": "Vidas que merezcan la pena ser vividas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-inmigracion-005",
+    "doc": "podemos",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "Podemos propone que el derecho a residir legalmente en España dependa exclusivamente de disponer de un contrato de trabajo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Podemos propone un procedimiento permanente de regularización que reconozca el arraigo social, familiar y comunitario, sin hacer depender el derecho a residir exclusivamente de un contrato de trabajo.",
+    "tip": "Lee bien la palabra 'exclusivamente' y qué propone el programa en su lugar.",
+    "source": {
+      "doc": "podemos",
+      "page": 67,
+      "section": "Vidas que merezcan la pena ser vividas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-inmigracion-006",
+    "doc": "podemos",
+    "topic": "inmigracion",
+    "type": "multi",
+    "question": "Marca todas las medidas migratorias que propone Podemos.",
+    "options": [
+      "Aumentar las expulsiones de migrantes en situación irregular",
+      "Derogar el Pacto Europeo de Migración y Asilo",
+      "Crear un visado de búsqueda de empleo",
+      "Acabar con los acuerdos de cooperación migratoria que externalizan fronteras"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "Podemos propone derogar el actual Pacto Europeo, crear nuevas vías legales de entrada (con un visado de búsqueda de empleo) y poner fin a los acuerdos con terceros países que externalizan las fronteras. Aumentar las expulsiones no figura en su programa.",
+    "tip": "Una opción endurecería el control, al contrario que las demás.",
+    "source": {
+      "doc": "podemos",
+      "page": 32,
+      "section": "Vidas que merezcan la pena ser vividas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-inmigracion-007",
+    "doc": "podemos",
+    "topic": "inmigracion",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO figura en el programa de Podemos?",
+    "options": [
+      "Endurecer los requisitos para obtener la nacionalidad española",
+      "Derogar la Ley de Extranjería (LO 4/2000)",
+      "Crear un procedimiento permanente de regularización",
+      "Cerrar todos los Centros de Internamiento de Extranjeros"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Podemos propone justo lo contrario: facilitar la nacionalidad, reduciendo a un año el plazo para quien acredite arraigo y eliminando tasas de los procedimientos.",
+    "tip": "Una opción hace más difícil el acceso a la nacionalidad, justo lo opuesto a lo que plantea el programa.",
+    "source": {
+      "doc": "podemos",
+      "page": 65,
+      "section": "Vidas que merezcan la pena ser vividas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-medioambiente-001",
+    "doc": "podemos",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "Podemos propone hacer gratuito todo el transporte público de viajeros, con una tarjeta única válida en todo el Estado.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. La gratuidad incluiría autobús, metro, tranvía, cercanías y media y larga distancia ferroviaria, y se financiaría con fiscalidad verde y tasas a vuelos privados.",
+    "tip": "Es una de las propuestas más llamativas del programa en movilidad.",
+    "source": {
+      "doc": "podemos",
+      "page": 19,
+      "section": "Los precios tienen que bajar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-medioambiente-002",
+    "doc": "podemos",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿En qué año propone Podemos alcanzar al menos un 95 % de generación eléctrica renovable?",
+    "options": [
+      "2030",
+      "2035",
+      "2040",
+      "2050"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa fija reducir a la mitad la energía primaria fósil en 2030, llegar al menos al 95 % de electricidad renovable en 2035 y a un sistema completamente descarbonizado en 2040.",
+    "tip": "Es un año intermedio entre el primer hito (2030) y el último (2040).",
+    "source": {
+      "doc": "podemos",
+      "page": 98,
+      "section": "Planeta solo hay uno"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-medioambiente-003",
+    "doc": "podemos",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone prohibir los vuelos cortos cuando exista una alternativa en tren de menos de tres horas?",
+    "options": [
+      "psoe",
+      "pp",
+      "vox",
+      "podemos"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta de Podemos, que pone el ejemplo de lo hecho en Francia. También plantea avanzar hacia la prohibición de los jets privados de uso no esencial.",
+    "tip": "Busca el partido que quiere limitar la aviación frente al ferrocarril.",
+    "source": {
+      "doc": "podemos",
+      "page": 104,
+      "section": "Planeta solo hay uno"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-medioambiente-004",
+    "doc": "podemos",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "Podemos propone revisar el calendario de cierre de las centrales nucleares para ampliar su funcionamiento.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Podemos propone cumplir el calendario de cierre nuclear, empezando por Almaraz, con planes de transición justa para los territorios afectados.",
+    "tip": "Fíjate en si el programa quiere acelerar, mantener o retrasar el cierre.",
+    "source": {
+      "doc": "podemos",
+      "page": 103,
+      "section": "Planeta solo hay uno"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-medioambiente-005",
+    "doc": "podemos",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué participación propone Podemos que adquiera el Estado en Repsol a través de la Empresa Pública de Energía?",
+    "options": [
+      "El 100 % del capital",
+      "Una minoría de bloqueo",
+      "La mayoría absoluta del accionariado",
+      "El 10 % del capital"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El Estado adquiriría la mayoría absoluta del accionariado de Repsol a través de una Empresa Pública de Energía, que también gestionaría los saltos hidroeléctricos que reviertan al sector público.",
+    "tip": "Es más que la mitad, pero no necesariamente la totalidad.",
+    "source": {
+      "doc": "podemos",
+      "page": 18,
+      "section": "Los precios tienen que bajar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-medioambiente-006",
+    "doc": "podemos",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "Marca todas las medidas de energía, agua y transporte que propone Podemos.",
+    "options": [
+      "Renacionalizar el ferrocarril con un único operador público (Renfe y Adif juntos)",
+      "Alcanzar el 100 % del capital público de Red Eléctrica",
+      "Reconocer personalidad jurídica a Doñana",
+      "Renovar las concesiones de autopistas a las grandes empresas"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Podemos propone un único operador ferroviario público, personalidad jurídica para Doñana (con derecho a ser protegida y restaurada) y un 100 % de capital público en Red Eléctrica. Respecto a las autopistas, propone no renovar las concesiones.",
+    "tip": "Tres medidas amplían el control público; la otra lo reduciría.",
+    "source": {
+      "doc": "podemos",
+      "page": 105,
+      "section": "Planeta solo hay uno"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-medioambiente-007",
+    "doc": "podemos",
+    "topic": "medioambiente",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO figura en el programa de Podemos?",
+    "options": [
+      "Prohibir nuevos desarrollos urbanísticos en zonas inundables",
+      "Implantar un sistema de depósito, devolución y retorno de envases",
+      "Mantener subvenciones y contratos públicos para las empresas más contaminantes",
+      "Poner límites al consumo energético de los grandes centros de datos"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Podemos propone justo lo contrario: gravar con entre un 7 % y un 15 % los beneficios de las grandes empresas más contaminantes y prohibirles subvenciones y contratos públicos.",
+    "tip": "Una opción premiaría a quienes más contaminan; el programa propone lo contrario.",
+    "source": {
+      "doc": "podemos",
+      "page": 19,
+      "section": "Los precios tienen que bajar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-medioambiente-008",
+    "doc": "podemos",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "Podemos propone un impuesto de entre el 7 % y el 15 % sobre los beneficios de las grandes empresas más contaminantes.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. Además, esas empresas no podrían recibir subvenciones ni contratos públicos. Forma parte de su propuesta de fiscalidad verde.",
+    "tip": "El programa fija una horquilla, no una cifra única.",
+    "source": {
+      "doc": "podemos",
+      "page": 19,
+      "section": "Los precios tienen que bajar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-rural-001",
+    "doc": "podemos",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué crearía Podemos para facilitar el acceso a la tierra a jóvenes, cooperativas y proyectos agroecológicos?",
+    "options": [
+      "Un Seguro Agrario Público",
+      "Un Fondo Soberano de Agricultura",
+      "Una Agencia Estatal del Regadío",
+      "Un Banco Público de Tierras"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El Banco Público de Tierras facilitaría el acceso a la actividad agraria a jóvenes, cooperativas y proyectos agroecológicos, junto con limitar la concentración especulativa de suelo agrario.",
+    "tip": "Su nombre recuerda a una institución financiera, pero para la tierra.",
+    "source": {
+      "doc": "podemos",
+      "page": 110,
+      "section": "Planeta solo hay uno"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-rural-002",
+    "doc": "podemos",
+    "topic": "rural",
+    "type": "tf",
+    "question": "La Ley Jornalera de Podemos eliminaría el requisito de las peonadas para acceder al subsidio agrario y vincularía su cuantía al 50 % del SMI, con incrementos progresivos hasta alcanzar el SMI a partir de las 200 jornadas anuales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. Las peonadas son las jornadas trabajadas que hoy se exigen para cobrar el subsidio agrario. También condonaría cuotas de periodos de inactividad en Andalucía y Extremadura.",
+    "tip": "Los números están relacionados: más jornadas trabajadas, más cuantía.",
+    "source": {
+      "doc": "podemos",
+      "page": 46,
+      "section": "Trabajar menos para vivir mejor"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "podemos-rural-003",
+    "doc": "podemos",
+    "topic": "rural",
+    "type": "which_party",
+    "question": "¿Qué partido propone una moratoria indefinida a la apertura de nuevas macroexplotaciones y a la compra de tierras fértiles por fondos y grandes corporaciones?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "podemos"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta de Podemos, dentro de su idea de que la tierra sea para quien la trabaja y no para los fondos de inversión.",
+    "tip": "Busca el partido que quiere frenar a los grandes capitales en el campo.",
+    "source": {
+      "doc": "podemos",
+      "page": 111,
+      "section": "Planeta solo hay uno"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-rural-004",
+    "doc": "podemos",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué exigiría Podemos a los productos que entren de terceros países?",
+    "options": [
+      "Que se etiqueten con un código de colores",
+      "Que cumplan los mismos estándares de producción que los europeos",
+      "Que no puedan venderse en supermercados públicos",
+      "Que paguen un arancel fijo del 50 %"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa propone que los productos importados se equiparen a los estándares de la Unión Europea en bienestar animal, fitosanitarios (productos para proteger los cultivos), medio ambiente y condiciones fiscales y laborales, y que se rechacen si no los cumplen.",
+    "tip": "Se trata de igualar las reglas de juego entre productores de dentro y fuera.",
+    "source": {
+      "doc": "podemos",
+      "page": 115,
+      "section": "Planeta solo hay uno"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-rural-005",
+    "doc": "podemos",
+    "topic": "rural",
+    "type": "tf",
+    "question": "Podemos propone eliminar los derechos históricos de la PAC y limitar la concentración de ayudas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. Los derechos históricos son ayudas ligadas a lo cobrado en el pasado. Podemos quiere eliminarlos y apoyar más a las explotaciones familiares y profesionales.",
+    "tip": "El programa propone suprimir esos derechos, no mantenerlos.",
+    "source": {
+      "doc": "podemos",
+      "page": 111,
+      "section": "Planeta solo hay uno"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-rural-006",
+    "doc": "podemos",
+    "topic": "rural",
+    "type": "multi",
+    "question": "Marca todas las medidas para el medio rural que propone Podemos.",
+    "options": [
+      "Apoyo público a la agricultura y ganadería ecológicas",
+      "Obligar a las administraciones a comprar alimentos de proximidad",
+      "Reforzar la Ley de la Cadena Alimentaria para que los precios en origen cubran los costes",
+      "Facilitar la compra de tierras fértiles por fondos de inversión"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Podemos propone compra pública de alimentos de proximidad, una Ley de la Cadena Alimentaria reforzada para precios en origen que cubran costes y apoyo decidido a la producción ecológica. Facilitar la compra de tierra por fondos va en contra de su propuesta de moratoria.",
+    "tip": "Tres medidas favorecen a quien produce; la otra a quien invierte.",
+    "source": {
+      "doc": "podemos",
+      "page": 112,
+      "section": "Planeta solo hay uno"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-territorio-001",
+    "doc": "podemos",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué propone Podemos sobre la forma de Estado?",
+    "options": [
+      "Mantener la Constitución y reformar solo el Senado",
+      "Reforzar la monarquía parlamentaria",
+      "Una consulta solo en las comunidades con gobiernos independentistas",
+      "Un proceso constituyente hacia una república, con referéndum sobre la forma de Estado"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Podemos propone una constitución republicana y plantea una tercera república que reconozca la plurinacionalidad de España, con un referéndum sobre la forma de Estado.",
+    "tip": "Es un proceso que afecta a todo el Estado, no solo a una parte.",
+    "source": {
+      "doc": "podemos",
+      "page": 128,
+      "section": "España, república plurinacional"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-territorio-002",
+    "doc": "podemos",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué propone Podemos para el Senado?",
+    "options": [
+      "Convertirlo en una verdadera cámara territorial, con la misma representación para todas las comunidades autónomas",
+      "Suprimirlo",
+      "Que sus miembros los designe el Gobierno",
+      "Dar más senadores a las comunidades con más población"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Podemos propone una reforma federal del Senado: una cámara de representación territorial con igual representación para todas las comunidades y un sistema de elección proporcional.",
+    "tip": "Se busca igualdad entre territorios, no entre habitantes.",
+    "source": {
+      "doc": "podemos",
+      "page": 129,
+      "section": "España, república plurinacional"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-territorio-003",
+    "doc": "podemos",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "Según el programa, en Canarias los autónomos y las pymes pagan en torno al 4 % de sus ingresos en impuestos y las grandes empresas en torno al 20 %.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso: es al revés. Autónomos y pymes pagan en torno al 20 % y las grandes empresas porcentajes que bajan hasta el 4 %. Podemos propone reformar el régimen fiscal canario para que los primeros paguen menos y las grandes empresas más.",
+    "tip": "Fíjate en quién paga más, según el diagnóstico del programa.",
+    "source": {
+      "doc": "podemos",
+      "page": 23,
+      "section": "Los precios tienen que bajar"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "podemos-territorio-004",
+    "doc": "podemos",
+    "topic": "territorio",
+    "type": "multi",
+    "question": "Marca todas las propuestas de Podemos sobre organización territorial y lenguas.",
+    "options": [
+      "Reformar el Senado como cámara territorial",
+      "Abrir un proceso constituyente que reconozca la plurinacionalidad",
+      "Garantizar la enseñanza de las lenguas cooficiales y propias",
+      "Devolver competencias de las comunidades autónomas al Estado"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Podemos propone un Senado territorial, un proceso constituyente que reconozca la plurinacionalidad y la enseñanza de las lenguas cooficiales. Recentralizar competencias no figura en su programa.",
+    "tip": "Una opción iría en el sentido contrario al autogobierno.",
+    "source": {
+      "doc": "podemos",
+      "page": 128,
+      "section": "España, república plurinacional"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-instituciones-001",
+    "doc": "podemos",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "Podemos propone reconocer el derecho de voto a partir de los 16 años.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. El objetivo es ampliar la participación democrática y que la juventud tenga voz en las decisiones que afectan a su futuro.",
+    "tip": "Rebajaría la edad actual de voto, que es de 18.",
+    "source": {
+      "doc": "podemos",
+      "page": 129,
+      "section": "España, república plurinacional"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-instituciones-002",
+    "doc": "podemos",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "Podemos propone suprimir los aforamientos de los cargos políticos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. El aforamiento es el privilegio de ser juzgado por tribunales superiores. Podemos propone suprimirlo y reducir el peso político del Tribunal Supremo.",
+    "tip": "El programa propone eliminarlos, no matizarlos.",
+    "source": {
+      "doc": "podemos",
+      "page": 128,
+      "section": "España, república plurinacional"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-instituciones-003",
+    "doc": "podemos",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "Podemos propone prohibir la infiltración de agentes policiales en movimientos sociales pacíficos y crear un nuevo delito por usar estructuras de seguridad del Estado para delinquir.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. Forma parte de la propuesta de 'acabar con las cloacas del Estado', con penas agravadas por el uso de recursos públicos.",
+    "tip": "Se trata de limitar a las 'cloacas' del Estado.",
+    "source": {
+      "doc": "podemos",
+      "page": 132,
+      "section": "España, república plurinacional"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-instituciones-004",
+    "doc": "podemos",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Qué fórmula de reparto de escaños propone Podemos en lugar del método D'Hondt?",
+    "options": [
+      "Sainte-Laguë",
+      "Hare",
+      "Droop",
+      "Mayoría simple"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Podemos propone sustituir D'Hondt por Sainte-Laguë, adoptar la circunscripción autonómica y eliminar las barreras de entrada, para reducir la distancia entre porcentaje de votos y de escaños.",
+    "tip": "Es una fórmula de origen francés que reparte los restos de forma más proporcional.",
+    "source": {
+      "doc": "podemos",
+      "page": 129,
+      "section": "España, república plurinacional"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "podemos-instituciones-005",
+    "doc": "podemos",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Cuál sería el plazo máximo de desclasificación automática de los documentos secretos en la nueva Ley de Secretos Oficiales que propone Podemos?",
+    "options": [
+      "10 años",
+      "20 años",
+      "30 años",
+      "50 años"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La nueva ley fijaría un máximo de 20 años para la desclasificación automática, haría público por defecto todo documento de la administración y prohibiría clasificar información sobre violaciones de derechos humanos.",
+    "tip": "Es un plazo largo, pero mucho más corto que el actual.",
+    "source": {
+      "doc": "podemos",
+      "page": 133,
+      "section": "España, república plurinacional"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "podemos-instituciones-006",
+    "doc": "podemos",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone un referéndum sobre la forma de Estado (monarquía o república) dentro de un proceso constituyente?",
+    "options": [
+      "pp",
+      "vox",
+      "podemos",
+      "salf"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una propuesta de Podemos, que plantea una tercera república con un referéndum separado sobre monarquía o república.",
+    "tip": "Busca el partido con horizonte republicano.",
+    "source": {
+      "doc": "podemos",
+      "page": 128,
+      "section": "España, república plurinacional"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-instituciones-007",
+    "doc": "podemos",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "Marca todas las medidas institucionales que propone Podemos.",
+    "options": [
+      "Derogar la Ley Mordaza",
+      "Suprimir la Audiencia Nacional",
+      "Elevar la barrera electoral mínima al 5 %",
+      "Eliminar la inviolabilidad del Rey"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "Podemos propone reformar el artículo 56.3 de la Constitución para eliminar la inviolabilidad del Rey, suprimir la Audiencia Nacional y derogar la Ley Mordaza (Ley de Seguridad Ciudadana). Quiere eliminar las barreras de entrada electorales, no elevarlas.",
+    "tip": "Una opción dificultaría la entrada de partidos pequeños, al revés que el programa.",
+    "source": {
+      "doc": "podemos",
+      "page": 128,
+      "section": "España, república plurinacional"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-instituciones-008",
+    "doc": "podemos",
+    "topic": "instituciones",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO figura en el programa de Podemos?",
+    "options": [
+      "Prohibir la financiación bancaria de las campañas electorales",
+      "Dos debates electorales obligatorios en los medios públicos",
+      "Reconocer el derecho de voto a partir de los 16 años",
+      "Ampliar la prisión permanente revisable y endurecer el Código Penal"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "No aparece en el programa de Podemos. Sus propuestas en justicia van por otro camino: suprimir aforamientos, democratizar el CGPJ o recuperar la justicia universal.",
+    "tip": "Una opción va hacia un mayor castigo penal, algo ajeno al programa.",
+    "source": {
+      "doc": "podemos",
+      "page": 129,
+      "section": "España, república plurinacional"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-exterior-002",
+    "doc": "podemos",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "Podemos propone rechazar el compromiso del Gobierno de elevar el gasto militar hasta el 5 % del PIB en 2035.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. Podemos propone revertir el aumento del gasto militar, congelarlo durante la legislatura y destinar esos recursos a servicios públicos, vivienda y paz.",
+    "tip": "El programa defiende priorizar la inversión en derechos sociales frente al rearme.",
+    "source": {
+      "doc": "podemos",
+      "page": 28,
+      "section": "Paz. Parar las guerras"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-exterior-003",
+    "doc": "podemos",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Qué cambio propone Podemos en el Consejo de Seguridad de la ONU?",
+    "options": [
+      "Sustituirlo por el G7",
+      "Ampliar el número de miembros permanentes con veto",
+      "Dar a la Unión Europea un asiento permanente",
+      "Eliminar el derecho de veto de los miembros permanentes"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Podemos propone reformar la ONU y su Consejo de Seguridad para eliminar los privilegios heredados del orden colonial y el derecho de veto de los miembros permanentes. Rechaza foros restringidos como el G7.",
+    "tip": "Se pretende evitar que una sola potencia pueda bloquear decisiones de todos.",
+    "source": {
+      "doc": "podemos",
+      "page": 30,
+      "section": "Paz. Parar las guerras"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-exterior-004",
+    "doc": "podemos",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone romper las relaciones diplomáticas, culturales y comerciales con Israel y promover un embargo de armas efectivo y sin excepciones?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "podemos"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta de Podemos, que plantea mantener la ruptura hasta el fin de la ocupación y coordinarla en el ámbito de la Unión Europea.",
+    "tip": "Busca el partido con la posición más dura frente a Israel.",
+    "source": {
+      "doc": "podemos",
+      "page": 34,
+      "section": "Paz. Parar las guerras"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-exterior-005",
+    "doc": "podemos",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "Podemos propone aceptar el acuerdo comercial entre la Unión Europea y Mercosur y revisar el CETA.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Podemos propone rechazar el acuerdo UE-Mercosur y revisar acuerdos como el CETA (entre la UE y Canadá), por anteponer los intereses de las multinacionales a los derechos sociales, laborales y medioambientales.",
+    "tip": "Podemos defiende que esos tratados favorecen a las grandes multinacionales.",
+    "source": {
+      "doc": "podemos",
+      "page": 37,
+      "section": "Paz. Parar las guerras"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-exterior-006",
+    "doc": "podemos",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Qué propone Podemos respecto al Sáhara Occidental?",
+    "options": [
+      "Promover el reconocimiento diplomático de la RASD",
+      "Mantener la posición actual sin cambios",
+      "Apoyar un plan de autonomía bajo soberanía marroquí",
+      "Proponer un protectorado de la ONU sin referéndum"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Podemos propone promover el reconocimiento diplomático de la República Árabe Saharaui Democrática (RASD) y el referéndum de autodeterminación del pueblo saharaui.",
+    "tip": "Es la opción más favorable al Frente Polisario.",
+    "source": {
+      "doc": "podemos",
+      "page": 36,
+      "section": "Paz. Parar las guerras"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-exterior-007",
+    "doc": "podemos",
+    "topic": "exterior",
+    "type": "multi",
+    "question": "Marca todas las propuestas de política exterior de Podemos.",
+    "options": [
+      "Aumentar el envío de armas a Ucrania",
+      "Promover una solución diplomática y un alto el fuego en Ucrania",
+      "Adherirse al Tratado sobre la Prohibición de las Armas Nucleares (TPAN)",
+      "Eliminar el derecho de veto de los miembros permanentes de la ONU"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "Podemos propone adherirse al TPAN, impulsar un alto el fuego y una solución negociada en Ucrania y eliminar el veto en la ONU. Aumentar las armas enviadas no figura en su programa, que defiende la vía diplomática.",
+    "tip": "Una opción es militar y las demás diplomáticas o de desarme.",
+    "source": {
+      "doc": "podemos",
+      "page": 37,
+      "section": "Paz. Parar las guerras"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "podemos-exterior-008",
+    "doc": "podemos",
+    "topic": "exterior",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO figura en el programa de Podemos?",
+    "options": [
+      "Control democrático, transparencia y fiscalización del gasto militar",
+      "Cumplir el objetivo de la OTAN de gasto militar del 5 % del PIB en 2035",
+      "Excluir de la contratación pública a empresas vinculadas a vulneraciones del derecho internacional",
+      "Promover el reconocimiento diplomático de la RASD"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Podemos defiende justo lo contrario: rechazar ese objetivo, congelar el gasto militar y salir de la OTAN.",
+    "tip": "Una opción apoyaría lo que el programa rechaza.",
+    "source": {
+      "doc": "podemos",
+      "page": 28,
+      "section": "Paz. Parar las guerras"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-cultura-001",
+    "doc": "podemos",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿A qué tipo propone Podemos reducir el IVA de las entradas a espectáculos culturales en vivo (teatro, danza, circo, conciertos)?",
+    "options": [
+      "0 %",
+      "5 %",
+      "7 %",
+      "10 %"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Podemos propone bajar el IVA del 10 % al 5 % y extender el tipo reducido a los servicios artísticos prestados mediante cooperativas y sociedades de artistas, que hoy tributan al 21 %.",
+    "tip": "Hoy tributan al 10 %: es una rebaja a la mitad.",
+    "source": {
+      "doc": "podemos",
+      "page": 20,
+      "section": "Los precios tienen que bajar"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-cultura-002",
+    "doc": "podemos",
+    "topic": "cultura",
+    "type": "which_party",
+    "question": "¿Qué partido propone crear una red social pública bajo control democrático y subordinada al interés general?",
+    "options": [
+      "pp",
+      "vox",
+      "psoe",
+      "podemos"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta de Podemos, que considera que el control de las redes sociales por grandes transnacionales amenaza la privacidad y facilita la difusión de bulos y discursos de odio.",
+    "tip": "Busca el partido que quiere una alternativa pública a las plataformas privadas.",
+    "source": {
+      "doc": "podemos",
+      "page": 139,
+      "section": "España, república plurinacional"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-cultura-003",
+    "doc": "podemos",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "Podemos propone multiplicar por dos la partida de Cultura en los Presupuestos Generales del Estado a lo largo de una legislatura.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. El objetivo es facilitar el acceso a la cultura a todas las personas, con independencia de su origen u orientación.",
+    "tip": "La palabra clave es 'duplicar' y el plazo es una legislatura.",
+    "source": {
+      "doc": "podemos",
+      "page": 72,
+      "section": "Vidas que merezcan la pena ser vividas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-cultura-004",
+    "doc": "podemos",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "Podemos propone elevar la inversión pública en ciencia e innovación hasta el 5 % del PIB.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El objetivo del programa es alcanzar el 2 % del PIB, garantizando la ejecución íntegra de las ayudas directas a la investigación y controlando las subvenciones a empresas.",
+    "tip": "La cifra real es bastante menor.",
+    "source": {
+      "doc": "podemos",
+      "page": 87,
+      "section": "Servicios públicos para garantizar vidas dignas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-cultura-005",
+    "doc": "podemos",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿Para qué propone Podemos crear una imprenta pública?",
+    "options": [
+      "Para imprimir todos los libros de texto escolares",
+      "Para editar la prensa oficial del Estado",
+      "Para que las editoriales independientes no dependan de las fluctuaciones del precio del papel",
+      "Para distribuir libros por las bibliotecas rurales"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "La imprenta pública permitiría a editoriales independientes que cumplan criterios de diversidad, inclusión y derechos humanos hacer sus ediciones sin depender del contexto económico.",
+    "tip": "Está pensada para el sector editorial pequeño.",
+    "source": {
+      "doc": "podemos",
+      "page": 74,
+      "section": "Vidas que merezcan la pena ser vividas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-cultura-006",
+    "doc": "podemos",
+    "topic": "cultura",
+    "type": "multi",
+    "question": "Marca todas las medidas de cultura y medios que propone Podemos.",
+    "options": [
+      "Una Agencia Estatal de Música",
+      "Privatizar RTVE",
+      "Una ley orgánica contra la desinformación que limite la concentración de medios",
+      "Cuotas de edad y género en la selección de directores y creadores en instalaciones públicas"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "Podemos propone una ley orgánica por el derecho a la información veraz con límites a la concentración mediática, una Agencia Estatal de Música y cuotas de edad (menores de 35 años) y género en instalaciones públicas. Privatizar RTVE no figura en su programa.",
+    "tip": "Una opción reduciría el papel público, justo al revés que las demás.",
+    "source": {
+      "doc": "podemos",
+      "page": 74,
+      "section": "Vidas que merezcan la pena ser vividas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-otros-001",
+    "doc": "podemos",
+    "topic": "otros",
+    "type": "which_party",
+    "question": "¿Qué partido propone despenalizar el cannabis y legalizar su uso con fines medicinales y recreativos, regulando los clubes sociales de cannabis?",
+    "options": [
+      "pp",
+      "vox",
+      "psoe",
+      "podemos"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta de Podemos, que plantea un proceso armonizado y garantista para la despenalización del cultivo y la tenencia en los ámbitos personal y colectivo.",
+    "tip": "Busca el partido que quiere legalizar también el uso recreativo.",
+    "source": {
+      "doc": "podemos",
+      "page": 133,
+      "section": "España, república plurinacional"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-otros-002",
+    "doc": "podemos",
+    "topic": "otros",
+    "type": "tf",
+    "question": "Podemos propone renegociar el Concordato con la Santa Sede manteniendo los acuerdos de 1979.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Podemos propone denunciar el Concordato con la Santa Sede y los acuerdos de 1979 y aprobar una Ley de Libertad de Conciencia para un Estado plenamente laico.",
+    "tip": "El programa habla de 'denunciar', es decir, romper los acuerdos, no de renegociarlos.",
+    "source": {
+      "doc": "podemos",
+      "page": 134,
+      "section": "España, república plurinacional"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "podemos-otros-003",
+    "doc": "podemos",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué propone Podemos respecto a la tauromaquia?",
+    "options": [
+      "Derogar la ley que la declara patrimonio cultural y eliminar las ayudas a espectáculos con maltrato animal",
+      "Mantener las ayudas pero prohibirla a menores",
+      "Declararla Bien de Interés Cultural en toda España",
+      "Regularla con una ley estatal única sin cambios"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa propone derogar la Ley 18/2013, que declara la tauromaquia patrimonio cultural, eliminar ayudas y promoción institucional, y permitir que los territorios decidan democráticamente sobre su celebración.",
+    "tip": "Se trata de quitarle el reconocimiento y el apoyo público.",
+    "source": {
+      "doc": "podemos",
+      "page": 124,
+      "section": "Planeta solo hay uno"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "podemos-otros-004",
+    "doc": "podemos",
+    "topic": "otros",
+    "type": "multi",
+    "question": "Marca todas las propuestas de Podemos sobre laicidad y memoria.",
+    "options": [
+      "Transformar el Valle de Cuelgamuros dentro del cumplimiento de la Ley de Memoria Democrática",
+      "Eliminar la exención del IBI de la Iglesia católica",
+      "Mantener los acuerdos económicos con la Santa Sede",
+      "Recuperar el patrimonio público inmatriculado indebidamente por la Iglesia católica"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "Podemos propone recuperar los bienes públicos inmatriculados (inscritos a nombre de la Iglesia sin título claro), eliminar la exención del IBI (impuesto sobre bienes inmuebles) y cumplir la Ley de Memoria Democrática, incluida la transformación de Cuelgamuros. Propone denunciar los acuerdos, no mantenerlos.",
+    "tip": "Tres medidas reducen privilegios o repasan el pasado; la otra mantiene el statu quo.",
+    "source": {
+      "doc": "podemos",
+      "page": 134,
+      "section": "España, república plurinacional"
+    },
+    "difficulty": 2
   }
 ]

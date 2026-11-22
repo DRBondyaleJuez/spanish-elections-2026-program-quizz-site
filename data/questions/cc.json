@@ -68,5 +68,2320 @@
       "section": "Ciencia"
     },
     "difficulty": 1
+  },
+  {
+    "id": "cc-vivienda-001",
+    "doc": "cc",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Coalición Canaria propone un fondo estatal de cuatro años para cofinanciar vivienda pública y asequible.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El fondo estatal que propone CC sería de ocho años y serviría para construir, adquirir y rehabilitar viviendas, además de comprar suelo y edificios.",
+    "tip": "Piensa en una financiación plurianual larga, que supera el ciclo de una legislatura.",
+    "source": {
+      "doc": "cc",
+      "page": 10,
+      "section": "Defender el derecho a vivir y permanecer en Canarias"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cc-vivienda-002",
+    "doc": "cc",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Para qué serviría la Ley Canaria de Residencia que CC quiere hacer viable con reformas estatales y europeas?",
+    "options": [
+      "Para ordenar el crecimiento de la población y respetar los límites del territorio",
+      "Para cobrar una tasa de entrada a todos los visitantes",
+      "Para conceder la nacionalidad a quienes lleven diez años en las islas",
+      "Para cerrar el empadronamiento a las personas de otras comunidades"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "CC plantea que una Ley Canaria de Residencia permita ordenar el crecimiento poblacional y respetar los límites del territorio. Requeriría reformas del Estado y de la UE.",
+    "tip": "El objetivo que se cita es de planificación demográfica, no de recaudación.",
+    "source": {
+      "doc": "cc",
+      "page": 11,
+      "section": "Defender el derecho a vivir y permanecer en Canarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-vivienda-003",
+    "doc": "cc",
+    "topic": "vivienda",
+    "type": "which_party",
+    "question": "¿Qué partido propone hacer viable una Ley Canaria de Residencia para ordenar el crecimiento poblacional?",
+    "options": [
+      "vox",
+      "psoe",
+      "cc",
+      "podemos"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una propuesta de Coalición Canaria, que la une a limitar la compra de vivienda por extranjeros y a defender ante la UE un régimen específico para Canarias como región ultraperiférica (RUP).",
+    "tip": "Es una norma pensada solo para el archipiélago.",
+    "source": {
+      "doc": "cc",
+      "page": 11,
+      "section": "Defender el derecho a vivir y permanecer en Canarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-vivienda-004",
+    "doc": "cc",
+    "topic": "vivienda",
+    "type": "multi",
+    "question": "Marca todas las medidas de alquiler y vivienda vacía que propone CC.",
+    "options": [
+      "Incentivos fiscales para pequeños propietarios que alquilen de forma asequible",
+      "Garantías públicas de cobro y conservación para esos propietarios",
+      "Una regulación estatal estable que facilite el alquiler de larga duración",
+      "Expropiar todas las viviendas vacías",
+      "Fijar por ley un tope de precio en todo el alquiler"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "CC quiere incentivos y garantías públicas para quien incorpore voluntariamente su vivienda al alquiler asequible, y una regulación estatal estable que proteja a inquilinos y propietarios. No propone expropiar ni topar precios.",
+    "tip": "El enfoque es voluntario y de incentivos, no de obligación.",
+    "source": {
+      "doc": "cc",
+      "page": 11,
+      "section": "Defender el derecho a vivir y permanecer en Canarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-vivienda-005",
+    "doc": "cc",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "En la vivienda vacacional, ¿qué distinción quiere CC que haga la normativa?",
+    "options": [
+      "Entre el uso ocasional de una vivienda y su explotación profesional o intensiva",
+      "Entre viviendas de islas capitalinas y no capitalinas",
+      "Entre turistas nacionales y extranjeros",
+      "Entre viviendas nuevas y antiguas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "CC pide cobertura legal para que Canarias y sus municipios limiten los usos turísticos donde haya presión acreditada sobre la vivienda residencial, diferenciando el uso ocasional de la explotación intensiva.",
+    "tip": "Un particular que alquila su casa unas semanas no es lo mismo que un negocio.",
+    "source": {
+      "doc": "cc",
+      "page": 11,
+      "section": "Defender el derecho a vivir y permanecer en Canarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-vivienda-006",
+    "doc": "cc",
+    "topic": "vivienda",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa de CC?",
+    "options": [
+      "Un plan estatal de reposición y regeneración de barrios",
+      "Incentivos fiscales a la primera vivienda para jóvenes y familias de rentas medias y bajas",
+      "Un inventario de suelos y edificios del Estado aptos para vivienda asequible",
+      "Congelar todos los alquileres de Canarias durante cinco años"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "CC propone regenerar barrios, incentivar la primera vivienda y hacer un inventario de suelos y edificios del Estado. No propone congelar alquileres.",
+    "tip": "Una de las opciones es una medida de control de precios que CC no menciona.",
+    "source": {
+      "doc": "cc",
+      "page": 11,
+      "section": "Defender el derecho a vivir y permanecer en Canarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-vivienda-007",
+    "doc": "cc",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "CC propone acortar los plazos de la vivienda protegida, manteniendo las garantías ambientales, urbanísticas y de seguridad.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. CC quiere reformar procedimientos estatales e informes sectoriales para ir más rápido, sin renunciar a esas garantías.",
+    "tip": "Menos trámites no significa menos protección.",
+    "source": {
+      "doc": "cc",
+      "page": 11,
+      "section": "Defender el derecho a vivir y permanecer en Canarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-vivienda-008",
+    "doc": "cc",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué beneficio atribuye CC al apoyo a la construcción industrializada de vivienda protegida?",
+    "options": [
+      "Reducir los costes y los plazos de construcción",
+      "Aumentar el precio de venta",
+      "Evitar la rehabilitación de edificios",
+      "Limitar la vivienda a una sola isla"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La construcción industrializada fabrica parte de la vivienda en taller. CC la apoya para abaratar y acelerar la vivienda protegida.",
+    "tip": "Piensa en dinero y tiempo.",
+    "source": {
+      "doc": "cc",
+      "page": 11,
+      "section": "Defender el derecho a vivir y permanecer en Canarias"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cc-vivienda-009",
+    "doc": "cc",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "CC pide ayudas estatales para que los hogares con menos recursos puedan adaptar su vivienda al calor (protección solar, aislamiento, ventilación o climatización eficiente).",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. CC defiende que adaptar la casa al calor esté al alcance de quienes más lo necesitan.",
+    "tip": "La medida se dirige a hogares con pocos recursos.",
+    "source": {
+      "doc": "cc",
+      "page": 11,
+      "section": "Defender el derecho a vivir y permanecer en Canarias"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cc-vivienda-010",
+    "doc": "cc",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué colectivo cita CC entre los destinatarios de las fórmulas residenciales de su línea de vivienda para la emancipación?",
+    "options": [
+      "Alumnado de formación profesional",
+      "Militares en activo",
+      "Jubilados extranjeros",
+      "Altos cargos de la administración"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La línea estatal de vivienda joven, alquiler asequible y cooperativas incluiría fórmulas para estudiantes, alumnado de FP, jóvenes investigadores y trabajadores.",
+    "tip": "Se habla de gente que se forma o empieza a trabajar.",
+    "source": {
+      "doc": "cc",
+      "page": 11,
+      "section": "Defender el derecho a vivir y permanecer en Canarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-empleo-001",
+    "doc": "cc",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Hasta cuándo pide CC que el Estado financie el Plan Integral de Empleo de Canarias y los programas de empleo del REF?",
+    "options": [
+      "Mientras el empleo en Canarias siga en clara desventaja respecto a la media estatal",
+      "Durante una única legislatura",
+      "Hasta que el paro baje del 5 %",
+      "Mientras haya fondos europeos disponibles"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El REF es el Régimen Económico y Fiscal de Canarias. CC condiciona la financiación a que persista la desventaja del empleo canario frente a la media estatal.",
+    "tip": "La condición se mide comparando con el resto del Estado.",
+    "source": {
+      "doc": "cc",
+      "page": 12,
+      "section": "Defender a quienes levantan Canarias cada día"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-empleo-002",
+    "doc": "cc",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "CC reclama la aportación estatal a un plan de empleo de dos años para menores de 35 años.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El plan que cita CC, previsto en la propuesta de Decreto Canarias, es cuatrienal (de cuatro años).",
+    "tip": "El nombre del plan indica su duración.",
+    "source": {
+      "doc": "cc",
+      "page": 14,
+      "section": "Defender el futuro de nuestros jóvenes y el conocimiento"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-empleo-003",
+    "doc": "cc",
+    "topic": "empleo",
+    "type": "which_party",
+    "question": "¿Qué partido reclama la aportación estatal a un plan cuatrienal de empleo para menores de 35 años previsto en la propuesta de Decreto Canarias?",
+    "options": [
+      "pp",
+      "cc",
+      "vox",
+      "salf"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es una propuesta de CC. El Decreto Canarias es la propuesta que el Gobierno canario ha trasladado al Estado con medidas y financiación para las islas.",
+    "tip": "El plan está ligado a una propuesta del Gobierno canario.",
+    "source": {
+      "doc": "cc",
+      "page": 14,
+      "section": "Defender el futuro de nuestros jóvenes y el conocimiento"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-empleo-004",
+    "doc": "cc",
+    "topic": "empleo",
+    "type": "multi",
+    "question": "¿Hacia qué sectores quiere CC orientar la formación profesional y la cualificación?",
+    "options": [
+      "Energías renovables",
+      "Economía azul",
+      "Sector audiovisual",
+      "Minería del carbón",
+      "Fabricación de tabaco"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "CC orienta la cualificación hacia renovables, almacenamiento energético, economía azul, industria, digitalización, audiovisual, rehabilitación, cuidados y combustibles sostenibles.",
+    "tip": "Son sectores vinculados a las islas y a la transición energética.",
+    "source": {
+      "doc": "cc",
+      "page": 14,
+      "section": "Defender el futuro de nuestros jóvenes y el conocimiento"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-empleo-005",
+    "doc": "cc",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "CC propone reforzar las ayudas estatales a quienes empiezan como autónomos y a los autónomos con menores rendimientos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Pide que los instrumentos de apoyo se ajusten a las condiciones en las que se trabaja y se emprende en las islas.",
+    "tip": "Se centra en autónomos con menos ingresos.",
+    "source": {
+      "doc": "cc",
+      "page": 12,
+      "section": "Defender a quienes levantan Canarias cada día"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cc-empleo-006",
+    "doc": "cc",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Con quién dice CC que se acordaría el diseño de las medidas de mejora salarial que reclama al Estado?",
+    "options": [
+      "Con el Gobierno de Canarias y los agentes sociales",
+      "Solo con las patronales",
+      "Únicamente con el Ministerio de Hacienda",
+      "Con los cabildos exclusivamente"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "CC pide incentivos fiscales y bonificaciones en las cotizaciones ligados a mejoras salariales pactadas y a la productividad, con diseño acordado con el Gobierno canario y los agentes sociales (sindicatos y patronal).",
+    "tip": "Participan quienes representan a trabajadores y empresas.",
+    "source": {
+      "doc": "cc",
+      "page": 12,
+      "section": "Defender a quienes levantan Canarias cada día"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "cc-economia-001",
+    "doc": "cc",
+    "topic": "economia",
+    "type": "tf",
+    "question": "CC propone mantener el diferencial fiscal canario para la producción audiovisual.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Forma parte de su orientación del REF hacia la actividad productiva, junto a la industria y las actividades tecnológicas y creativas.",
+    "tip": "Es una ventaja fiscal para un sector creativo.",
+    "source": {
+      "doc": "cc",
+      "page": 12,
+      "section": "Defender a quienes levantan Canarias cada día"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-economia-002",
+    "doc": "cc",
+    "topic": "economia",
+    "type": "single",
+    "question": "CC pide corregir los cobros indebidos de IVA en el comercio electrónico cuando corresponda aplicar otro impuesto. ¿Cuál?",
+    "options": [
+      "El IGIC",
+      "El IRPF",
+      "El Impuesto de Sociedades",
+      "El Impuesto de Patrimonio"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El IGIC (Impuesto General Indirecto Canario) es el impuesto sobre el consumo que se aplica en Canarias en lugar del IVA.",
+    "tip": "Es el equivalente canario del IVA.",
+    "source": {
+      "doc": "cc",
+      "page": 12,
+      "section": "Defender a quienes levantan Canarias cada día"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-economia-003",
+    "doc": "cc",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué porcentaje de deducción en el IRPF defiende CC mantener en La Palma y extender a La Gomera y El Hierro?",
+    "options": [
+      "20 %",
+      "40 %",
+      "60 %",
+      "80 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una medida de la propuesta de Decreto Canarias que CC defiende para sostener el empleo, la actividad económica y la población en las islas verdes.",
+    "tip": "Es algo más de la mitad.",
+    "source": {
+      "doc": "cc",
+      "page": 13,
+      "section": "Defender a quienes levantan Canarias cada día"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-economia-004",
+    "doc": "cc",
+    "topic": "economia",
+    "type": "tf",
+    "question": "CC reclama una bonificación del 25 % de las cuotas empresariales de la Seguridad Social en La Palma, La Gomera y El Hierro para los contratos previstos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La bonificación que pide es del 50 %.",
+    "tip": "Es la mitad de la cuota, no un cuarto.",
+    "source": {
+      "doc": "cc",
+      "page": 13,
+      "section": "Defender a quienes levantan Canarias cada día"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-economia-005",
+    "doc": "cc",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido defiende extender a La Gomera y El Hierro la deducción del 60 % en el IRPF que ya existe en La Palma?",
+    "options": [
+      "pp",
+      "vox",
+      "psoe",
+      "cc"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta de CC, tomada de la propuesta de Decreto Canarias, para las tres islas denominadas verdes.",
+    "tip": "Se refiere a islas concretas del archipiélago.",
+    "source": {
+      "doc": "cc",
+      "page": 13,
+      "section": "Defender a quienes levantan Canarias cada día"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cc-economia-006",
+    "doc": "cc",
+    "topic": "economia",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO propone CC?",
+    "options": [
+      "Orientar el REF hacia la industria y las actividades tecnológicas y creativas",
+      "Adaptar los programas de digitalización a la microempresa canaria",
+      "Un acuerdo con el Estado y la UE para eliminar costes abusivos en el comercio electrónico",
+      "Bajar el IGIC general a la mitad en todas las islas"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "CC habla de orientar el REF, adaptar programas a la microempresa y mejorar el comercio electrónico. No propone una bajada general del IGIC.",
+    "tip": "Una opción es una rebaja general de impuestos, que no aparece.",
+    "source": {
+      "doc": "cc",
+      "page": 12,
+      "section": "Defender a quienes levantan Canarias cada día"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-economia-007",
+    "doc": "cc",
+    "topic": "economia",
+    "type": "single",
+    "question": "En las inversiones para renovar destinos turísticos maduros, ¿qué población dice CC que se debe tener en cuenta?",
+    "options": [
+      "La población real, incluida la no empadronada",
+      "Solo la población empadronada",
+      "Solo los turistas alojados",
+      "La población de la capital insular"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "CC pide que las inversiones consideren la población real de esos territorios, también la que no está empadronada, y que mejoren las condiciones de vida de sus residentes.",
+    "tip": "No basta con el padrón.",
+    "source": {
+      "doc": "cc",
+      "page": 12,
+      "section": "Defender a quienes levantan Canarias cada día"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "cc-pensiones-001",
+    "doc": "cc",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Qué pide CC sobre los complementos de renta que establezca Canarias y las pensiones no contributivas?",
+    "options": [
+      "Que sean compatibles, estén exentos de tributación y no reduzcan ni retiren la prestación",
+      "Que sustituyan a las pensiones no contributivas",
+      "Que solo los cobren quienes no tengan pensión",
+      "Que tributen igual que un salario"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Las pensiones no contributivas son las que se cobran sin haber cotizado lo suficiente. CC quiere que las ayudas canarias mejoren de verdad los ingresos de quien las recibe.",
+    "tip": "La ayuda canaria debe sumar, no restar.",
+    "source": {
+      "doc": "cc",
+      "page": 10,
+      "section": "Defender nuestros servicios públicos y los cuidados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-pensiones-002",
+    "doc": "cc",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "CC propone un sistema de cooperación para que Canarias tramite el ingreso mínimo vital, con participación de cabildos y ayuntamientos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El ingreso mínimo vital es una prestación estatal para hogares vulnerables. CC quiere además evitar que aceptar un empleo provoque una pérdida brusca de protección.",
+    "tip": "La gestión se acercaría a las administraciones canarias.",
+    "source": {
+      "doc": "cc",
+      "page": 10,
+      "section": "Defender nuestros servicios públicos y los cuidados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-pensiones-003",
+    "doc": "cc",
+    "topic": "pensiones",
+    "type": "multi",
+    "question": "CC propone abrir un debate para una política común de protección de la infancia. ¿Cuáles de estas medidas cita?",
+    "options": [
+      "Ayudas a la crianza",
+      "Mayor acceso a la vivienda en hogares con menores",
+      "Protección infantil frente a la violencia digital",
+      "Un cheque escolar universal",
+      "Eliminar las ayudas a las familias numerosas"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Entre las medidas citadas están las ayudas a la crianza, la vivienda para hogares con menores y la protección frente a la violencia digital, además de salud mental y educación inclusiva.",
+    "tip": "Piensa en apoyo económico, vivienda y entorno digital.",
+    "source": {
+      "doc": "cc",
+      "page": 10,
+      "section": "Defender nuestros servicios públicos y los cuidados"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "cc-pensiones-004",
+    "doc": "cc",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "CC defiende programas estatales específicos contra la pobreza infantil mientras Canarias mantenga indicadores de pobreza superiores a la media.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Ese es el criterio que fija el programa para mantener esos programas específicos.",
+    "tip": "La condición compara a Canarias con la media.",
+    "source": {
+      "doc": "cc",
+      "page": 9,
+      "section": "Defender nuestros servicios públicos y los cuidados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-sanidad-001",
+    "doc": "cc",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué compensación reclama CC al Estado en materia sanitaria?",
+    "options": [
+      "Una compensación específica y actualizada por los sobrecostes sanitarios de la insularidad y la lejanía",
+      "La gestión estatal de todos los hospitales",
+      "Un copago por cada isla visitada",
+      "La eliminación de la atención primaria"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "CC pide una financiación que reconozca el coste de atender a la población de ocho islas, además de una compensación específica y actualizada por la insularidad.",
+    "tip": "Se habla de costes añadidos por ser un archipiélago.",
+    "source": {
+      "doc": "cc",
+      "page": 9,
+      "section": "Defender nuestros servicios públicos y los cuidados"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cc-sanidad-002",
+    "doc": "cc",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "CC propone apoyo estatal para que los especialistas se desplacen a las islas cuando resulte más eficiente mover al profesional que al paciente.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. También estudia una cobertura reforzada de los desplazamientos interinsulares.",
+    "tip": "Se trata de acercar el servicio a las personas.",
+    "source": {
+      "doc": "cc",
+      "page": 9,
+      "section": "Defender nuestros servicios públicos y los cuidados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-sanidad-003",
+    "doc": "cc",
+    "topic": "sanidad",
+    "type": "multi",
+    "question": "¿Cuáles de estas medidas sanitarias propone CC?",
+    "options": [
+      "Una compensación estatal específica por los sobrecostes de la insularidad",
+      "Que la formación sanitaria especializada responda a las necesidades de Canarias",
+      "Apoyo a la movilidad de especialistas entre islas",
+      "Introducir un copago en las urgencias",
+      "Cerrar los hospitales de las islas menores"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "CC defiende compensación, formación de especialistas ajustada a las necesidades canarias y movilidad de profesionales. No propone copagos ni cierres.",
+    "tip": "Ninguna de las medidas correctas reduce servicios.",
+    "source": {
+      "doc": "cc",
+      "page": 9,
+      "section": "Defender nuestros servicios públicos y los cuidados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-sanidad-004",
+    "doc": "cc",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿En qué instrumento pide CC que se refuercen las partidas de salud mental para Canarias?",
+    "options": [
+      "En los Presupuestos Generales del Estado",
+      "En una ley de bases de la sanidad privada",
+      "En los fondos de pensiones",
+      "En los presupuestos de cada ayuntamiento"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "CC también pide mejorar la atención primaria y los servicios especializados y evaluar la atención que reciben las personas.",
+    "tip": "El Estado es quien debe aportar los fondos.",
+    "source": {
+      "doc": "cc",
+      "page": 9,
+      "section": "Defender nuestros servicios públicos y los cuidados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-sanidad-005",
+    "doc": "cc",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "CC propone adaptar hospitales y centros de salud al calor protegiendo la continuidad asistencial y manteniendo la eficiencia energética.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Esta medida forma parte de su plan de adaptación de los equipamientos públicos al calor.",
+    "tip": "La atención no debe interrumpirse durante las obras.",
+    "source": {
+      "doc": "cc",
+      "page": 17,
+      "section": "Defender nuestra tierra y nuestros recursos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-educacion-001",
+    "doc": "cc",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Qué oferta quiere reforzar CC en la educación infantil de cero a tres años?",
+    "options": [
+      "Plazas públicas, gratuitas y de calidad",
+      "Plazas concertadas de pago",
+      "Solo plazas en las islas capitalinas",
+      "Una educación a domicilio"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "CC plantea también que esta educación facilite compartir en igualdad las responsabilidades familiares.",
+    "tip": "Tres adjetivos: público, gratuito y de calidad.",
+    "source": {
+      "doc": "cc",
+      "page": 9,
+      "section": "Defender nuestros servicios públicos y los cuidados"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cc-educacion-002",
+    "doc": "cc",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "CC pide recuperar programas estatales de inversión para corregir los déficits de las infraestructuras educativas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. CC defiende instalaciones adecuadas y recursos planificables con estabilidad.",
+    "tip": "Se trata de obras y equipamientos en los centros.",
+    "source": {
+      "doc": "cc",
+      "page": 10,
+      "section": "Defender nuestros servicios públicos y los cuidados"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cc-educacion-003",
+    "doc": "cc",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "CC propone financiación plurianual del Estado para modernizar las universidades privadas de Canarias.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La propuesta se refiere a las universidades públicas canarias.",
+    "tip": "Mira el adjetivo: público o privado.",
+    "source": {
+      "doc": "cc",
+      "page": 14,
+      "section": "Defender el futuro de nuestros jóvenes y el conocimiento"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-educacion-004",
+    "doc": "cc",
+    "topic": "educacion",
+    "type": "which_party",
+    "question": "¿Qué partido exige cumplir y reforzar las previsiones del REF sobre becas para quien debe desplazarse porque sus estudios no se ofrecen en su isla?",
+    "options": [
+      "psoe",
+      "pp",
+      "cc",
+      "podemos"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una propuesta de CC: la distancia entre islas no debe reducir las posibilidades de elegir una formación.",
+    "tip": "Está ligada al REF, el régimen fiscal canario.",
+    "source": {
+      "doc": "cc",
+      "page": 14,
+      "section": "Defender el futuro de nuestros jóvenes y el conocimiento"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-educacion-005",
+    "doc": "cc",
+    "topic": "educacion",
+    "type": "multi",
+    "question": "¿Qué áreas quiere reforzar CC en las universidades públicas canarias?",
+    "options": [
+      "Astrofísica",
+      "Ciencias marinas",
+      "Biotecnología",
+      "Minería",
+      "Aeronáutica militar"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "CC defiende financiación plurianual del Estado para modernizar las universidades y reforzar las áreas ligadas a la posición de las islas: astrofísica, ciencias marinas y biotecnología.",
+    "tip": "Las áreas tienen relación con el cielo, el mar y la vida.",
+    "source": {
+      "doc": "cc",
+      "page": 14,
+      "section": "Defender el futuro de nuestros jóvenes y el conocimiento"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-educacion-006",
+    "doc": "cc",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Qué quiere CC que tengan los centros educativos para afrontar el calor?",
+    "options": [
+      "Sombra, patios verdes, aislamiento, ventilación y climatización eficiente",
+      "Solo ventiladores portátiles",
+      "Horario reducido en verano",
+      "Aulas prefabricadas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es parte de su plan de equipamientos públicos seguros ante el calor.",
+    "tip": "Hay medidas de arquitectura y de vegetación.",
+    "source": {
+      "doc": "cc",
+      "page": 17,
+      "section": "Defender nuestra tierra y nuestros recursos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-igualdad-001",
+    "doc": "cc",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "CC reclama financiación estatal suficiente para aplicar el Pacto de Estado contra la violencia de género en todas las islas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Quiere reforzar la prevención y proteger a las víctimas y a sus hijos e hijas.",
+    "tip": "Se pide aplicar un pacto ya existente.",
+    "source": {
+      "doc": "cc",
+      "page": 10,
+      "section": "Defender nuestros servicios públicos y los cuidados"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cc-igualdad-002",
+    "doc": "cc",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Qué debe tener en cuenta la financiación contra la violencia de género según CC?",
+    "options": [
+      "La dispersión territorial, para facilitar el acceso desde cualquier municipio",
+      "Solo la población de cada isla",
+      "El número de turistas",
+      "El gasto de las últimas diez legislaturas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Al ser un archipiélago, los recursos deben llegar a todos los municipios, no solo a los de las islas mayores.",
+    "tip": "Se piensa en la geografía.",
+    "source": {
+      "doc": "cc",
+      "page": 10,
+      "section": "Defender nuestros servicios públicos y los cuidados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-igualdad-003",
+    "doc": "cc",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Qué incorporarán los programas estatales y europeos de vivienda, transporte, empleo y servicios para Canarias según CC?",
+    "options": [
+      "Las necesidades de las personas con discapacidad (accesibilidad universal)",
+      "Cuotas de género en las empresas",
+      "Un reparto por edades",
+      "Una renta básica"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La accesibilidad universal debe formar parte del diseño de las actuaciones y de su financiación.",
+    "tip": "Se trata de diseñar sin barreras.",
+    "source": {
+      "doc": "cc",
+      "page": 10,
+      "section": "Defender nuestros servicios públicos y los cuidados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-inmigracion-001",
+    "doc": "cc",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Quién debe asumir los costes extraordinarios del salvamento y la acogida en la frontera atlántica según CC?",
+    "options": [
+      "El Estado y la Unión Europea",
+      "Solo el Gobierno de Canarias",
+      "Las organizaciones no gubernamentales",
+      "Los países de origen"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "CC reclama financiación previsible y respeto a los derechos humanos.",
+    "tip": "Piden compartir el coste en dos niveles.",
+    "source": {
+      "doc": "cc",
+      "page": 18,
+      "section": "Defender una política migratoria solidaria y europea"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cc-inmigracion-002",
+    "doc": "cc",
+    "topic": "inmigracion",
+    "type": "which_party",
+    "question": "¿Qué partido exige solidaridad territorial obligatoria y automática, con traslados sin negociar caso a caso cuando un territorio supere ciertos umbrales?",
+    "options": [
+      "vox",
+      "pp",
+      "cc",
+      "salf"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una propuesta de CC: indicadores, plazos y financiación conocidos, con los cambios legales necesarios.",
+    "tip": "Se habla de un mecanismo automático entre comunidades.",
+    "source": {
+      "doc": "cc",
+      "page": 19,
+      "section": "Defender una política migratoria solidaria y europea"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-inmigracion-003",
+    "doc": "cc",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "CC defiende que el interés superior del menor guíe los traslados y las condiciones de atención de los menores extranjeros no acompañados.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. También pide financiación suficiente y previsible del Estado y continuidad educativa y sanitaria.",
+    "tip": "El criterio central es el bienestar del menor.",
+    "source": {
+      "doc": "cc",
+      "page": 19,
+      "section": "Defender una política migratoria solidaria y europea"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-inmigracion-004",
+    "doc": "cc",
+    "topic": "inmigracion",
+    "type": "multi",
+    "question": "¿Con qué países propone CC reforzar la cooperación estable en materia migratoria?",
+    "options": [
+      "Mauritania",
+      "Senegal",
+      "Cabo Verde",
+      "Argelia",
+      "Libia"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "CC cita Mauritania, Senegal, Marruecos y Cabo Verde, además de otros países de origen y tránsito, e incluye la lucha contra las redes que se lucran con las personas.",
+    "tip": "Son países de la fachada atlántica africana.",
+    "source": {
+      "doc": "cc",
+      "page": 19,
+      "section": "Defender una política migratoria solidaria y europea"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-inmigracion-005",
+    "doc": "cc",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "CC propone que los traslados entre comunidades se negocien caso a caso con cada una.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Pide justo lo contrario: que se activen automáticamente cuando se superen los umbrales.",
+    "tip": "Su propuesta busca eliminar la negociación puntual.",
+    "source": {
+      "doc": "cc",
+      "page": 19,
+      "section": "Defender una política migratoria solidaria y europea"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-inmigracion-006",
+    "doc": "cc",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "Según CC, ¿qué competencia relacionada con personas extranjeras debería incluirse entre las competencias canarias del Estatuto de Autonomía?",
+    "options": [
+      "Las autorizaciones de trabajo",
+      "La concesión de la nacionalidad",
+      "El control de fronteras",
+      "La concesión de asilo"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El Estatuto de Autonomía es la ley que regula el autogobierno canario. CC pide completar los traspasos pendientes, incluidas las autorizaciones de trabajo que prevé.",
+    "tip": "Es un permiso relacionado con el empleo.",
+    "source": {
+      "doc": "cc",
+      "page": 8,
+      "section": "Defender los derechos de Canarias"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "cc-inmigracion-007",
+    "doc": "cc",
+    "topic": "inmigracion",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO propone CC?",
+    "options": [
+      "Financiar programas de integración y convivencia intercultural",
+      "Combatir los discursos racistas y el uso del miedo para dividir",
+      "Cooperación estable con Mauritania, Senegal y Cabo Verde",
+      "Cerrar la frontera atlántica con barreras militares"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "CC pide recursos, solidaridad entre territorios y cooperación con países de origen. No propone cerrar la frontera con barreras.",
+    "tip": "Una opción es una medida de fuerza que no se cita.",
+    "source": {
+      "doc": "cc",
+      "page": 19,
+      "section": "Defender una política migratoria solidaria y europea"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-territorio-002",
+    "doc": "cc",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué exige CC respecto al Estatuto de Autonomía?",
+    "options": [
+      "Un calendario verificable para completar los traspasos y desarrollos pendientes, con medios suficientes",
+      "Su derogación",
+      "Su sustitución por una ley estatal",
+      "Que las competencias vuelvan al Estado"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El Estatuto de Autonomía es la norma que regula el autogobierno canario. CC se opone a la recentralización.",
+    "tip": "Se pide plazos concretos y comprobables.",
+    "source": {
+      "doc": "cc",
+      "page": 8,
+      "section": "Defender los derechos de Canarias"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cc-territorio-003",
+    "doc": "cc",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "CC defiende que una eventual reforma de la Constitución recoja las singularidades derivadas de la lejanía, la insularidad y la ultraperiferia.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Así las garantías para Canarias no dependerían de los cambios de Gobierno.",
+    "tip": "Es una petición a largo plazo y de rango constitucional.",
+    "source": {
+      "doc": "cc",
+      "page": 8,
+      "section": "Defender los derechos de Canarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-territorio-004",
+    "doc": "cc",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué factores debería tener en cuenta el sistema de financiación autonómica según CC?",
+    "options": [
+      "La población efectiva, la fragmentación territorial, la pobreza y el envejecimiento",
+      "Solo el PIB",
+      "Solo la superficie",
+      "La población de 1990"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "CC quiere un sistema suficiente y estable que reconozca el coste real de prestar servicios en un archipiélago.",
+    "tip": "Incluye la geografía, no solo el número de habitantes.",
+    "source": {
+      "doc": "cc",
+      "page": 8,
+      "section": "Defender los derechos de Canarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-territorio-005",
+    "doc": "cc",
+    "topic": "territorio",
+    "type": "which_party",
+    "question": "¿Qué partido propone mejorar el Registro Especial de Buques de Canarias y negociar su gestión por la comunidad autónoma?",
+    "options": [
+      "vox",
+      "pp",
+      "psoe",
+      "cc"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta de CC, junto a actualizar las inversiones en los aeropuertos no capitalinos.",
+    "tip": "Se trata de un registro marítimo de las islas.",
+    "source": {
+      "doc": "cc",
+      "page": 9,
+      "section": "Defender los derechos de Canarias"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "cc-territorio-006",
+    "doc": "cc",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "CC acepta reformas unilaterales del Estado sobre el REF sin contar con el Gobierno ni el Parlamento de Canarias.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El REF es el Régimen Económico y Fiscal de Canarias y CC rechaza las reformas unilaterales que no cuenten con ellos.",
+    "tip": "La palabra clave es unilaterales.",
+    "source": {
+      "doc": "cc",
+      "page": 8,
+      "section": "Defender los derechos de Canarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-territorio-007",
+    "doc": "cc",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué estabilidad pide CC para municipios y cabildos?",
+    "options": [
+      "En su participación en los tributos del Estado y en el Fondo de Compensación Interterritorial",
+      "En el sueldo de sus alcaldes",
+      "En su número de concejales",
+      "En la duración del mandato"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Los cabildos son los gobiernos de cada isla. CC también reclama recursos suficientes y competencias claras.",
+    "tip": "Se refiere a su financiación.",
+    "source": {
+      "doc": "cc",
+      "page": 20,
+      "section": "Defender nuestra capacidad para decidir y exigir resultados"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "cc-territorio-008",
+    "doc": "cc",
+    "topic": "territorio",
+    "type": "multi",
+    "question": "¿Qué propone CC sobre aeropuertos y buques?",
+    "options": [
+      "Aplicar de forma efectiva el régimen específico de los aeropuertos canarios",
+      "Actualizar las inversiones en los aeropuertos no capitalinos",
+      "Mejorar el Registro Especial de Buques de Canarias",
+      "Privatizar los aeropuertos canarios",
+      "Cerrar los aeropuertos de las islas menores"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "CC busca más capacidad canaria en la gestión de infraestructuras clave.",
+    "tip": "Las medidas correctas mejoran o aplican lo que ya hay.",
+    "source": {
+      "doc": "cc",
+      "page": 9,
+      "section": "Defender los derechos de Canarias"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "cc-territorio-009",
+    "doc": "cc",
+    "topic": "territorio",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO propone CC?",
+    "options": [
+      "Mecanismos de acuerdo sobre infraestructuras científicas estratégicas",
+      "Participación efectiva de las instituciones canarias en decisiones de impacto singular",
+      "Un calendario verificable de traspasos del Estatuto",
+      "Sustituir el REF por el régimen fiscal común del Estado"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "CC defiende el REF y lo quiere actualizar, no eliminar.",
+    "tip": "Una de las medidas supondría renunciar a un instrumento que CC defiende.",
+    "source": {
+      "doc": "cc",
+      "page": 8,
+      "section": "Defender los derechos de Canarias"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "cc-territorio-010",
+    "doc": "cc",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué convenios cuyo cumplimiento reclama CC cita el programa?",
+    "options": [
+      "Carreteras, vivienda, agua, costas e infraestructuras educativas y turísticas",
+      "Solo de carreteras",
+      "Solo de turismo",
+      "Solo de sanidad"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "CC pide que cada obligación tenga financiación y plazos verificables, para que lo anunciado se convierta en obras.",
+    "tip": "Es una lista larga de convenios.",
+    "source": {
+      "doc": "cc",
+      "page": 8,
+      "section": "Defender los derechos de Canarias"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "cc-medioambiente-001",
+    "doc": "cc",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone impulsar la eólica marina en Gran Canaria con subastas adaptadas a los sistemas insulares?",
+    "options": [
+      "pnv",
+      "cc",
+      "psoe",
+      "vox"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es una propuesta de CC, que exige consenso social, político e institucional y compatibilidad ambiental para cualquier proyecto.",
+    "tip": "Habla de energía eólica en el mar y una isla concreta.",
+    "source": {
+      "doc": "cc",
+      "page": 15,
+      "section": "Defender nuestra tierra y nuestros recursos"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cc-medioambiente-002",
+    "doc": "cc",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "CC condiciona cualquier proyecto de eólica marina en las islas a un consenso social, político e institucional suficiente, además de a su compatibilidad ambiental y territorial.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. La eólica marina es la que se instala en el mar y CC la impulsa en Gran Canaria solo con esas garantías.",
+    "tip": "El respaldo social se pide expresamente.",
+    "source": {
+      "doc": "cc",
+      "page": 15,
+      "section": "Defender nuestra tierra y nuestros recursos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-medioambiente-003",
+    "doc": "cc",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "¿Qué tipos de almacenamiento de energía quiere apoyar CC?",
+    "options": [
+      "Baterías en baja y media tensión",
+      "Bombeo de agua de mar en ciclo abierto",
+      "Proyectos de gran capacidad y larga duración",
+      "Una central nuclear",
+      "Más centrales de carbón"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Los proyectos de bombeo de agua de mar se apoyarían cuando sean viables técnica, económica, territorial y ambientalmente. El agua se bombea a un depósito elevado con energía sobrante y genera electricidad al bajar.",
+    "tip": "Ninguna opción correcta usa combustibles fósiles ni nuclear.",
+    "source": {
+      "doc": "cc",
+      "page": 15,
+      "section": "Defender nuestra tierra y nuestros recursos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-medioambiente-004",
+    "doc": "cc",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "CC propone mantener sin cambios la retribución actual de los sistemas eléctricos no peninsulares.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. CC propone reformarla para valorar el almacenamiento, la flexibilidad, la gestión de la demanda y la reducción real de combustibles fósiles.",
+    "tip": "El verbo que usa el programa es reformar.",
+    "source": {
+      "doc": "cc",
+      "page": 15,
+      "section": "Defender nuestra tierra y nuestros recursos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "cc-medioambiente-005",
+    "doc": "cc",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué son los SAF que CC quiere producir en Canarias?",
+    "options": [
+      "Combustibles sostenibles de aviación",
+      "Sistemas de almacenamiento fotovoltaico",
+      "Subvenciones de ahorro familiar",
+      "Sistemas de alerta de fenómenos extremos"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "SAF viene del inglés Sustainable Aviation Fuel. CC pide incentivos para producirlos en las islas y abastecer progresivamente los aeropuertos.",
+    "tip": "Tienen que ver con los aviones.",
+    "source": {
+      "doc": "cc",
+      "page": 16,
+      "section": "Defender nuestra tierra y nuestros recursos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-medioambiente-006",
+    "doc": "cc",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone que los barcos puedan conectarse a la electricidad en puerto y apagar sus motores auxiliares, dentro de corredores marítimos verdes?",
+    "options": [
+      "pp",
+      "vox",
+      "cc",
+      "erc"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una propuesta de CC para reducir emisiones en los puertos canarios y conectarlos con Europa, África y América.",
+    "tip": "Habla de puertos y emisiones.",
+    "source": {
+      "doc": "cc",
+      "page": 16,
+      "section": "Defender nuestra tierra y nuestros recursos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-medioambiente-007",
+    "doc": "cc",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "CC propone que los aeropuertos reserven potencia y espacio para la recarga rápida de vehículos particulares, taxis, vehículos de alquiler y flotas de servicio.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Forma parte de su propuesta de red de recarga para vehículos eléctricos.",
+    "tip": "Se refiere a infraestructuras de recarga.",
+    "source": {
+      "doc": "cc",
+      "page": 16,
+      "section": "Defender nuestra tierra y nuestros recursos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "cc-medioambiente-008",
+    "doc": "cc",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Cuál es la prioridad de CC en saneamiento y depuración?",
+    "options": [
+      "Eliminar vertidos sin tratamiento suficiente y adecuar emisarios e instalaciones de depuración",
+      "Construir más hoteles frente al mar",
+      "Ampliar los puertos",
+      "Privatizar el agua"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "CC pide un programa estatal plurianual para acelerar las obras prioritarias y corregir los déficits históricos.",
+    "tip": "El objetivo es no verter agua sin tratar.",
+    "source": {
+      "doc": "cc",
+      "page": 16,
+      "section": "Defender nuestra tierra y nuestros recursos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-medioambiente-009",
+    "doc": "cc",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "¿Qué elementos cita CC para preparar pueblos y ciudades para el calor?",
+    "options": [
+      "Arbolado y corredores verdes",
+      "Refugios climáticos",
+      "Pavimentos permeables y drenaje urbano sostenible",
+      "Ampliar los aparcamientos",
+      "Asfaltar las plazas"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "CC propone un fondo estatal para estas medidas, que ayudan a dar sombra y a absorber la lluvia.",
+    "tip": "Piensa en verde, sombra y suelos que absorban agua.",
+    "source": {
+      "doc": "cc",
+      "page": 17,
+      "section": "Defender nuestra tierra y nuestros recursos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-medioambiente-010",
+    "doc": "cc",
+    "topic": "medioambiente",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa de CC?",
+    "options": [
+      "Un programa estatal plurianual de saneamiento y depuración",
+      "Compensaciones por el sobrecoste del agua desalada y regenerada",
+      "Restaurar dunas, playas, humedales y barrancos",
+      "Construir una central nuclear en las islas"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "CC propone mejoras de agua y costas, no energía nuclear.",
+    "tip": "Una opción es una tecnología energética que CC no menciona.",
+    "source": {
+      "doc": "cc",
+      "page": 16,
+      "section": "Defender nuestra tierra y nuestros recursos"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cc-rural-001",
+    "doc": "cc",
+    "topic": "rural",
+    "type": "which_party",
+    "question": "¿Qué partido exige reclamar cada año el 100 % de la aportación estatal a las ayudas adicionales autorizadas por la UE al sector primario de las regiones ultraperiféricas?",
+    "options": [
+      "psoe",
+      "vox",
+      "cc",
+      "podemos"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una propuesta de CC, que pide además que España defienda íntegramente el POSEI, el programa europeo de apoyo al sector agrario y pesquero de las regiones ultraperiféricas (RUP), en el nuevo presupuesto europeo.",
+    "tip": "Está ligada a ayudas adicionales para el agro de las RUP.",
+    "source": {
+      "doc": "cc",
+      "page": 13,
+      "section": "Defender a quienes levantan Canarias cada día"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-rural-002",
+    "doc": "cc",
+    "topic": "rural",
+    "type": "tf",
+    "question": "CC reclama cada año el 50 % de la aportación estatal a las ayudas adicionales autorizadas por la UE dentro del POSEI.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Reclama el 100 %.",
+    "tip": "El programa pide el total.",
+    "source": {
+      "doc": "cc",
+      "page": 13,
+      "section": "Defender a quienes levantan Canarias cada día"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "cc-rural-003",
+    "doc": "cc",
+    "topic": "rural",
+    "type": "multi",
+    "question": "¿Frente a qué sobrecostes pide CC actualizar las medidas estatales para producir alimentos en las islas?",
+    "options": [
+      "Energía",
+      "Alimentación animal",
+      "Fertilizantes",
+      "Seguros del automóvil",
+      "Equipos informáticos"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Cita también el transporte. Además pide apoyo a los seguros agrarios y financiación contra las plagas.",
+    "tip": "Todas son costes de producción agraria.",
+    "source": {
+      "doc": "cc",
+      "page": 13,
+      "section": "Defender a quienes levantan Canarias cada día"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-rural-004",
+    "doc": "cc",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué especies cita CC al pedir posibilidades de pesca suficientes para la flota artesanal?",
+    "options": [
+      "Atún rojo y patudo",
+      "Sardina y boquerón",
+      "Merluza y bacalao",
+      "Pulpo y calamar"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "CC pide reglas adaptadas a la flota artesanal canaria y acceso efectivo a los fondos europeos.",
+    "tip": "Son dos túnidos.",
+    "source": {
+      "doc": "cc",
+      "page": 13,
+      "section": "Defender a quienes levantan Canarias cada día"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-rural-005",
+    "doc": "cc",
+    "topic": "rural",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO propone CC?",
+    "options": [
+      "Financiación estatal para prevenir y combatir las plagas agrarias",
+      "Financiación estatal y europea para incorporar jóvenes a la agricultura, la ganadería y la pesca",
+      "Reglas adaptadas a la flota artesanal canaria",
+      "Eliminar las ayudas del POSEI al sector primario"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "CC defiende el POSEI íntegro y su dotación, no su eliminación.",
+    "tip": "Una opción va en sentido contrario a lo que CC exige a España.",
+    "source": {
+      "doc": "cc",
+      "page": 13,
+      "section": "Defender a quienes levantan Canarias cada día"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-instituciones-001",
+    "doc": "cc",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido pide que el Estado financie las 1.400 plazas del Cuerpo General de la Policía Canaria?",
+    "options": [
+      "vox",
+      "pp",
+      "cc",
+      "erc"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una propuesta de CC, tomada de la propuesta de Decreto Canarias, con despliegue progresivo y coordinado con las fuerzas del Estado.",
+    "tip": "Se trata de una policía propia de la comunidad.",
+    "source": {
+      "doc": "cc",
+      "page": 10,
+      "section": "Defender nuestros servicios públicos y los cuidados"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cc-instituciones-002",
+    "doc": "cc",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "CC propone un informe público semestral sobre las obligaciones del Estado con Canarias.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El informe sería anual y distinguiría las cantidades presupuestadas, transferidas y efectivamente ejecutadas.",
+    "tip": "Se publicaría una vez al año.",
+    "source": {
+      "doc": "cc",
+      "page": 21,
+      "section": "Defender nuestra capacidad para decidir y exigir resultados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-instituciones-003",
+    "doc": "cc",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "CC propone que Canarias pueda solicitar la activación temprana de la Unidad Militar de Emergencias (UME) en incendios de nivel 1 cuando se cumplan criterios objetivos de riesgo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. También propone acordar protocolos para desplazar preventivamente medios estatales ante episodios extremos.",
+    "tip": "La insularidad puede retrasar la llegada de medios.",
+    "source": {
+      "doc": "cc",
+      "page": 17,
+      "section": "Defender nuestra tierra y nuestros recursos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-instituciones-004",
+    "doc": "cc",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "¿Qué debería distinguir el informe anual sobre las obligaciones del Estado con Canarias?",
+    "options": [
+      "Las cantidades presupuestadas",
+      "Las cantidades transferidas",
+      "Las cantidades efectivamente ejecutadas",
+      "Las cantidades recaudadas por el IGIC",
+      "Las ayudas de la UE no gastadas"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El informe también explicaría qué leyes, convenios y competencias se han cambiado o transferido.",
+    "tip": "Se sigue el camino de un presupuesto desde la previsión a la ejecución.",
+    "source": {
+      "doc": "cc",
+      "page": 21,
+      "section": "Defender nuestra capacidad para decidir y exigir resultados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-instituciones-005",
+    "doc": "cc",
+    "topic": "instituciones",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO propone CC?",
+    "options": [
+      "Un informe público anual sobre las obligaciones del Estado con Canarias",
+      "Exigir el cumplimiento íntegro de la Agenda Canaria y del Decreto Canarias",
+      "Que el Instituto Canario de Estadística acceda a datos tributarios para evaluar el REF",
+      "Crear una fiscalía anticorrupción propia de Canarias"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "CC propone rendición de cuentas sobre lo que el Estado debe a las islas, pero no medidas generales de justicia o corrupción.",
+    "tip": "Una opción trata de justicia, un ámbito que el programa no desarrolla.",
+    "source": {
+      "doc": "cc",
+      "page": 21,
+      "section": "Defender nuestra capacidad para decidir y exigir resultados"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "cc-exterior-001",
+    "doc": "cc",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone promover el reconocimiento estratégico europeo de la Macaronesia (Canarias, Madeira y Azores)?",
+    "options": [
+      "pnv",
+      "erc",
+      "cc",
+      "compromis"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una propuesta de CC, que incluye energía, océanos, biodiversidad, protección civil, conectividad y ciencia.",
+    "tip": "Es una región atlántica de archipiélagos.",
+    "source": {
+      "doc": "cc",
+      "page": 20,
+      "section": "Defender nuestra identidad y nuestra posición en el Atlántico"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-exterior-002",
+    "doc": "cc",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone recuperar para uso civil el campo de tiro de Pájara, en Fuerteventura?",
+    "options": [
+      "pnv",
+      "vox",
+      "psoe",
+      "cc"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta de CC, que quiere negociar el cese de la actividad militar, la cesión a administraciones canarias y la recuperación ambiental.",
+    "tip": "Se refiere a un terreno militar concreto en una isla.",
+    "source": {
+      "doc": "cc",
+      "page": 9,
+      "section": "Defender los derechos de Canarias"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cc-exterior-003",
+    "doc": "cc",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "CC defiende que Canarias esté presente en la formación de la posición española y en las negociaciones con Marruecos sobre delimitación de espacios marítimos, recursos naturales y migración.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Propone también una solución al conflicto del Sáhara Occidental conforme a las resoluciones de la ONU.",
+    "tip": "Se trata de participar en decisiones que afectan al archipiélago.",
+    "source": {
+      "doc": "cc",
+      "page": 20,
+      "section": "Defender nuestra identidad y nuestra posición en el Atlántico"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-exterior-004",
+    "doc": "cc",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Qué pide CC que se aplique de forma efectiva respecto a las regiones ultraperiféricas (RUP)?",
+    "options": [
+      "El artículo 349 del tratado de la UE",
+      "El artículo 155 de la Constitución",
+      "La directiva de servicios",
+      "El Pacto de Estabilidad"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El artículo 349 permite adaptar normas y políticas europeas a las RUP cuando causan impactos desproporcionados en transporte, energía, emisiones, agricultura, residuos o industria.",
+    "tip": "Es un artículo del derecho europeo.",
+    "source": {
+      "doc": "cc",
+      "page": 20,
+      "section": "Defender nuestra identidad y nuestra posición en el Atlántico"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-exterior-005",
+    "doc": "cc",
+    "topic": "exterior",
+    "type": "multi",
+    "question": "¿Qué territorios o regiones cita CC al hablar de cooperación territorial europea y atlántica?",
+    "options": [
+      "Madeira",
+      "Azores",
+      "África occidental",
+      "Baleares",
+      "Cerdeña"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "INTERREG son programas europeos de cooperación territorial que conectan Canarias con Madeira, las Azores y África occidental. CC defiende su continuidad.",
+    "tip": "Son vecinos de Canarias en el Atlántico.",
+    "source": {
+      "doc": "cc",
+      "page": 20,
+      "section": "Defender nuestra identidad y nuestra posición en el Atlántico"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-exterior-006",
+    "doc": "cc",
+    "topic": "exterior",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO propone CC?",
+    "options": [
+      "Defender los fondos específicos de las RUP en el próximo marco financiero europeo",
+      "Mantener y reforzar INTERREG",
+      "Facilitar el acceso de universidades y empresas canarias al programa Horizon",
+      "Retirar a Canarias del estatus de región ultraperiférica de la UE"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "CC defiende la condición de RUP y quiere que se aplique de forma efectiva, no abandonarla.",
+    "tip": "Una opción renuncia a un estatus que CC valora.",
+    "source": {
+      "doc": "cc",
+      "page": 20,
+      "section": "Defender nuestra identidad y nuestra posición en el Atlántico"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-cultura-002",
+    "doc": "cc",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿Qué es PLOCAN, que CC propone reforzar?",
+    "options": [
+      "La Plataforma Oceánica de Canarias, una infraestructura científica y tecnológica",
+      "Un plan de cultura audiovisual",
+      "Una universidad privada",
+      "Un puerto de cruceros"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Investiga, ensaya y demuestra tecnologías marinas. CC quiere reforzarla como infraestructura española y europea.",
+    "tip": "Sus siglas hacen referencia al océano.",
+    "source": {
+      "doc": "cc",
+      "page": 14,
+      "section": "Defender el futuro de nuestros jóvenes y el conocimiento"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-cultura-003",
+    "doc": "cc",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "CC propone mantener ayudas estatales específicas para los desplazamientos de artistas y compañías canarias a circuitos estatales e internacionales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. También pide eliminar obstáculos administrativos y fiscales a la circulación de sus obras.",
+    "tip": "Las ayudas compensan la lejanía.",
+    "source": {
+      "doc": "cc",
+      "page": 19,
+      "section": "Defender nuestra identidad y nuestra posición en el Atlántico"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cc-cultura-004",
+    "doc": "cc",
+    "topic": "cultura",
+    "type": "multi",
+    "question": "¿Qué ámbitos de la economía azul cita CC para sus programas estatales?",
+    "options": [
+      "Energías marinas",
+      "Biotecnología azul",
+      "Robótica submarina",
+      "Minería submarina",
+      "Pesca de arrastre industrial"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "También cita observación oceánica y acuicultura sostenible. Quiere ampliar la base productiva y el empleo.",
+    "tip": "Piensa en el mar como fuente de energía y conocimiento.",
+    "source": {
+      "doc": "cc",
+      "page": 14,
+      "section": "Defender el futuro de nuestros jóvenes y el conocimiento"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "cc-otros-002",
+    "doc": "cc",
+    "topic": "otros",
+    "type": "tf",
+    "question": "CC propone reforzar la supervisión y la transparencia para detectar subidas artificiales de tarifas que absorban la ayuda del descuento a residentes.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Protege la bonificación del 75 % y combate los precios abusivos.",
+    "tip": "La ayuda no debe quedarse en manos de las compañías.",
+    "source": {
+      "doc": "cc",
+      "page": 17,
+      "section": "Defender las ocho islas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-otros-003",
+    "doc": "cc",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué deben garantizar las obligaciones de servicio público (OSP) en las rutas esenciales, según CC?",
+    "options": [
+      "Frecuencias, capacidad suficiente y precios razonables",
+      "Billetes gratuitos para todos",
+      "Un único operador",
+      "Rutas solo diurnas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Las OSP permiten exigir un servicio mínimo en las rutas necesarias. CC pide revisarlas y defiende las conexiones directas entre La Palma, La Gomera y El Hierro.",
+    "tip": "Tres garantías: cuándo, cuántos y a qué precio.",
+    "source": {
+      "doc": "cc",
+      "page": 18,
+      "section": "Defender las ocho islas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "cc-otros-004",
+    "doc": "cc",
+    "topic": "otros",
+    "type": "which_party",
+    "question": "¿Qué partido reclama mantener la gratuidad de guaguas y tranvías con financiación estatal estable?",
+    "options": [
+      "vox",
+      "pp",
+      "salf",
+      "cc"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta de CC, que también pide financiar el 50 % de proyectos de transporte público por carretera en Lanzarote y Fuerteventura.",
+    "tip": "Las guaguas son los autobuses canarios.",
+    "source": {
+      "doc": "cc",
+      "page": 18,
+      "section": "Defender las ocho islas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cc-otros-005",
+    "doc": "cc",
+    "topic": "otros",
+    "type": "tf",
+    "question": "CC reclama que el Estado financie el 75 % de los proyectos de transporte público por carretera en Lanzarote y Fuerteventura.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Reclama el 50 %. El 75 % es el descuento de residentes en transporte aéreo y marítimo.",
+    "tip": "No confundas dos cifras de la misma sección.",
+    "source": {
+      "doc": "cc",
+      "page": 18,
+      "section": "Defender las ocho islas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-otros-006",
+    "doc": "cc",
+    "topic": "otros",
+    "type": "which_party",
+    "question": "¿Qué partido propone un convenio estatal de diez años para ejecutar el Tren de Gran Canaria?",
+    "options": [
+      "pnv",
+      "vox",
+      "cc",
+      "pp"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una propuesta de CC, con un tratamiento equivalente para los proyectos ferroviarios de Tenerife.",
+    "tip": "Es un tren local en una isla.",
+    "source": {
+      "doc": "cc",
+      "page": 18,
+      "section": "Defender las ocho islas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "cc-otros-007",
+    "doc": "cc",
+    "topic": "otros",
+    "type": "tf",
+    "question": "CC pide actualizar las compensaciones estatales para cubrir el 100 % del coste real y efectivo subvencionable del transporte de mercancías, incluido el trayecto hasta la isla de destino final.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Reconoce así la doble insularidad: la situación de islas que dependen de otra isla para llegar al continente.",
+    "tip": "Cubre todo el coste real.",
+    "source": {
+      "doc": "cc",
+      "page": 18,
+      "section": "Defender las ocho islas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-otros-008",
+    "doc": "cc",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué pide CC para la recuperación de La Palma tras la erupción, además de financiación sostenida?",
+    "options": [
+      "Continuidad del plan especial de empleo y reintegro de lo adelantado por Canarias",
+      "El traslado de la población a Tenerife",
+      "La paralización de la reconstrucción",
+      "Un nuevo impuesto insular"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "También reclama un seguimiento efectivo de las inversiones y mantener las medidas hasta que se cumplan los compromisos de recuperación.",
+    "tip": "Se habla de empleo y de devolver dinero adelantado.",
+    "source": {
+      "doc": "cc",
+      "page": 18,
+      "section": "Defender las ocho islas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-otros-009",
+    "doc": "cc",
+    "topic": "otros",
+    "type": "multi",
+    "question": "¿Qué medidas incluye CC para la reconstrucción de La Palma?",
+    "options": [
+      "Continuidad del plan especial de empleo",
+      "Reintegro de las aportaciones adelantadas por Canarias",
+      "Procedimientos de contratación de emergencia cuando la seguridad lo permita",
+      "Declarar la isla zona de exclusión permanente",
+      "Eliminar el seguimiento de las inversiones"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "CC quiere que las medidas respondan a las necesidades de la población afectada por la erupción, con continuidad hasta que se cumplan los compromisos.",
+    "tip": "Todas las correctas aceleran o sostienen la recuperación.",
+    "source": {
+      "doc": "cc",
+      "page": 18,
+      "section": "Defender las ocho islas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "cc-otros-010",
+    "doc": "cc",
+    "topic": "otros",
+    "type": "multi",
+    "question": "¿Qué propone CC en el transporte aéreo y marítimo?",
+    "options": [
+      "Proteger la bonificación del 75 % para residentes",
+      "Revisar las obligaciones de servicio público de las rutas esenciales",
+      "Reforzar la supervisión para detectar subidas artificiales de tarifas",
+      "Suprimir el descuento para residentes",
+      "Limitar los vuelos entre islas"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Las obligaciones de servicio público permiten exigir un servicio mínimo en las rutas necesarias.",
+    "tip": "Las correctas protegen a los residentes y las conexiones.",
+    "source": {
+      "doc": "cc",
+      "page": 17,
+      "section": "Defender las ocho islas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "cc-otros-011",
+    "doc": "cc",
+    "topic": "otros",
+    "type": "which_party",
+    "question": "¿Qué partido propone desarrollar la quinta libertad aérea prevista en el REF para crear conexiones directas entre Canarias y terceros países?",
+    "options": [
+      "psoe",
+      "vox",
+      "pnv",
+      "cc"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta de CC. El REF es el Régimen Económico y Fiscal de Canarias.",
+    "tip": "Está ligada al régimen especial canario.",
+    "source": {
+      "doc": "cc",
+      "page": 18,
+      "section": "Defender las ocho islas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "cc-otros-012",
+    "doc": "cc",
+    "topic": "otros",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO propone CC?",
+    "options": [
+      "Mantener la bonificación del 75 % para residentes en transporte aéreo y marítimo",
+      "Mantener la gratuidad de guaguas y tranvías con financiación estatal",
+      "Un convenio de diez años para el Tren de Gran Canaria",
+      "Billetes gratuitos entre islas para todos los pasajeros"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "CC defiende el descuento a residentes y la gratuidad del transporte público terrestre para los beneficiarios, no un billete gratuito general.",
+    "tip": "Una opción amplía a todo el mundo lo que CC reserva a residentes.",
+    "source": {
+      "doc": "cc",
+      "page": 18,
+      "section": "Defender las ocho islas"
+    },
+    "difficulty": 2
   }
 ]

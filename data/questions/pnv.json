@@ -71,5 +71,2314 @@
       "section": "Empleo"
     },
     "difficulty": 2
+  },
+  {
+    "id": "pnv-vivienda-001",
+    "doc": "pnv",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "El PNV propone movilizar viviendas vacías y rehabilitar edificios para aumentar la oferta residencial.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Dentro de su objetivo de aumentar la oferta de viviendas, el PNV plantea movilizar pisos vacíos (ofreciendo seguridad a los propietarios) y rehabilitar edificios.",
+    "tip": "Piensa en cómo se puede aumentar la oferta sin construir solo obra nueva.",
+    "source": {
+      "doc": "pnv",
+      "page": 7,
+      "section": "1.1 Vivienda: acabar con los abusos y construir más viviendas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pnv-vivienda-002",
+    "doc": "pnv",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué propone el PNV respecto a los contratos de temporada?",
+    "options": [
+      "Equipararlos siempre a los alquileres turísticos",
+      "Prohibirlos por completo",
+      "Evitar que se utilicen de forma fraudulenta para eludir las garantías del alquiler de vivienda habitual",
+      "Limitar su duración máxima a tres meses"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PNV quiere evitar el uso fraudulento de los contratos de temporada para esquivar las garantías del alquiler de vivienda habitual, y regular los alquileres de temporada y turísticos para que no resten viviendas al alquiler residencial.",
+    "tip": "La propuesta habla de impedir un uso fraudulento, no de eliminar la figura.",
+    "source": {
+      "doc": "pnv",
+      "page": 8,
+      "section": "1.1 Vivienda: acabar con los abusos y construir más viviendas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-vivienda-003",
+    "doc": "pnv",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "El PNV propone que el alquiler protegido sea la vía principal para que las personas jóvenes se emancipen.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PNV pide que las políticas de vivienda contemplen distintas opciones de emancipación, evitando que el alquiler protegido sea la única alternativa disponible para la gente joven.",
+    "tip": "Fíjate en si el programa quiere ampliar las opciones o reducirlas a una.",
+    "source": {
+      "doc": "pnv",
+      "page": 8,
+      "section": "1.2 Emanciparse en Euskadi debe ser posible"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-vivienda-004",
+    "doc": "pnv",
+    "topic": "vivienda",
+    "type": "which_not",
+    "question": "¿Cuál NO está en el programa del PNV en materia de vivienda?",
+    "options": [
+      "Dar seguridad jurídica a inquilinos y pequeños propietarios",
+      "Reducir las prácticas especulativas que encarecen la vivienda",
+      "Limitar por ley el precio del alquiler en zonas tensionadas",
+      "Agilizar los trámites urbanísticos para construir más viviendas"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PNV no propone topar el precio del alquiler. Esa medida la defienden otros partidos como PSOE o Podemos. El PNV se centra en más oferta, reglas claras y seguridad jurídica.",
+    "tip": "Tres opciones hablan de oferta y seguridad; una interviene directamente el precio.",
+    "source": {
+      "doc": "pnv",
+      "page": 8,
+      "section": "1.1 Vivienda: acabar con los abusos y construir más viviendas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-vivienda-005",
+    "doc": "pnv",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "En el programa del PNV, ¿qué se plantea respecto a las familias vulnerables y los pequeños propietarios?",
+    "options": [
+      "Obligar a los pequeños propietarios a alquilar a precio tasado",
+      "Ofrecer alternativas habitacionales a las familias vulnerables sin trasladar toda la responsabilidad a los pequeños propietarios",
+      "Que la administración compre todas las viviendas de pequeños propietarios",
+      "Desalojar con rapidez a cualquier ocupante sin vivienda alternativa"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El PNV quiere dar seguridad jurídica a inquilinos y pequeños propietarios y, a la vez, ofrecer alternativas habitacionales a familias vulnerables sin cargar sobre los pequeños propietarios toda la responsabilidad social.",
+    "tip": "La clave es repartir la responsabilidad, no dejarla en una sola parte.",
+    "source": {
+      "doc": "pnv",
+      "page": 8,
+      "section": "1.1 Vivienda: acabar con los abusos y construir más viviendas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-vivienda-006",
+    "doc": "pnv",
+    "topic": "vivienda",
+    "type": "multi",
+    "question": "Marca todas las propuestas del PNV para la juventud en vivienda y emancipación:",
+    "options": [
+      "Una renta universal de emancipación para todas las personas menores de 30 años",
+      "Políticas de emancipación estables y con financiación suficiente, complementarias a las de las instituciones vascas",
+      "Medidas específicas para facilitar el acceso a la primera vivienda, en alquiler o en propiedad",
+      "Incorporar la emancipación juvenil como prioridad en las reformas estatales de vivienda, empleo, salarios y protección social",
+      "Prohibir la compra de vivienda a personas no residentes"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "El PNV plantea ayudas a la primera vivienda (alquiler o propiedad), tener en cuenta a la juventud en las reformas estatales y financiar políticas estables que complementen las vascas. No menciona una renta universal ni prohibir compras a no residentes.",
+    "tip": "Las correctas hablan de acceso a la vivienda y de estabilidad de las políticas.",
+    "source": {
+      "doc": "pnv",
+      "page": 8,
+      "section": "1.2 Emanciparse en Euskadi debe ser posible"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-empleo-002",
+    "doc": "pnv",
+    "topic": "empleo",
+    "type": "which_party",
+    "question": "¿Qué partido propone ampliar la prestación por desempleo hasta un máximo de 36 meses, vinculada a procesos de mejora de la empleabilidad?",
+    "options": [
+      "psoe",
+      "pp",
+      "vox",
+      "pnv"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta del PNV: ampliar la cobertura de la prestación por desempleo hasta 36 meses (tres años), ligándola a procesos de mejora de la empleabilidad y reforzando la protección de quienes más dificultades tienen para volver a trabajar.",
+    "tip": "La cifra equivale a tres años exactos.",
+    "source": {
+      "doc": "pnv",
+      "page": 9,
+      "section": "1.3 Mejores salarios, empleo digno y derechos laborales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-empleo-003",
+    "doc": "pnv",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "El PNV propone reforzar la Inspección de Trabajo para combatir el fraude laboral, las falsas personas autónomas y la economía sumergida.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Forma parte de su apartado sobre cumplimiento de los derechos laborales: detectar y sancionar mejor los abusos reforzando la Inspección de Trabajo.",
+    "tip": "Es una medida de control, no de nuevas prestaciones.",
+    "source": {
+      "doc": "pnv",
+      "page": 9,
+      "section": "1.3 Mejores salarios, empleo digno y derechos laborales"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pnv-empleo-004",
+    "doc": "pnv",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "Según el PNV, los convenios colectivos vascos deben prevalecer siempre, aunque establezcan peores condiciones que otros convenios.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PNV propone proteger la prevalencia de los convenios colectivos vascos cuando establezcan condiciones más favorables para las personas trabajadoras, en los términos previstos legalmente.",
+    "tip": "Hay una condición sobre cómo han de ser las condiciones del convenio.",
+    "source": {
+      "doc": "pnv",
+      "page": 9,
+      "section": "1.3 Mejores salarios, empleo digno y derechos laborales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-empleo-005",
+    "doc": "pnv",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Con quién propone el PNV analizar la productividad laboral, el absentismo, la competitividad y los salarios?",
+    "options": [
+      "Solo con las organizaciones empresariales",
+      "Con las administraciones, los sindicatos y las organizaciones empresariales",
+      "Únicamente con el Gobierno del Estado",
+      "Con un comité de personas expertas sin participación de agentes sociales"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El análisis que propone el PNV es tripartito: administraciones, sindicatos y organizaciones empresariales, para proponer medidas de prevención y control y mejorar el bienestar físico y mental de las personas trabajadoras.",
+    "tip": "Es un enfoque de diálogo social con varios actores.",
+    "source": {
+      "doc": "pnv",
+      "page": 10,
+      "section": "1.3 Mejores salarios, empleo digno y derechos laborales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-empleo-006",
+    "doc": "pnv",
+    "topic": "empleo",
+    "type": "multi",
+    "question": "Marca todo lo que el PNV propone en materia de derechos laborales:",
+    "options": [
+      "Reducir la jornada laboral a 37,5 horas semanales sin bajar el sueldo",
+      "Encarecer el despido improcedente",
+      "Facilitar la formación continua y la recualificación profesional",
+      "Asegurar la aplicación de la normativa europea de transparencia retributiva",
+      "Garantizar protocolos eficaces contra el acoso laboral, sexual y discriminatorio"
+    ],
+    "answer": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "El PNV propone transparencia retributiva (para corregir la desigualdad salarial entre mujeres y hombres), protocolos contra el acoso y formación continua. La reducción de jornada o el encarecimiento del despido no aparecen en su programa.",
+    "tip": "Las correctas se refieren a igualdad, prevención y formación.",
+    "source": {
+      "doc": "pnv",
+      "page": 9,
+      "section": "1.3 Mejores salarios, empleo digno y derechos laborales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-empleo-007",
+    "doc": "pnv",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué propone el PNV sobre las prácticas formativas?",
+    "options": [
+      "Prohibirlas en todos los casos",
+      "Dejarlas sin regulación para no perjudicar a las empresas",
+      "Convertirlas automáticamente en contratos indefinidos",
+      "Regularlas para garantizar los derechos del alumnado, preservando su carácter educativo y la Formación Profesional Dual"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PNV quiere una regulación que garantice los derechos del alumnado y mantenga su carácter educativo, respetando las competencias de Euskadi y el funcionamiento de la FP Dual (formación que combina centro educativo y empresa).",
+    "tip": "Busca equilibrar derechos del alumnado y funcionamiento de la FP.",
+    "source": {
+      "doc": "pnv",
+      "page": 9,
+      "section": "1.3 Mejores salarios, empleo digno y derechos laborales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-empleo-008",
+    "doc": "pnv",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué medida propone el PNV para que las mejoras salariales pactadas no pongan en riesgo servicios públicos contratados a empresas?",
+    "options": [
+      "Prohibir la externalización de los servicios públicos",
+      "Permitir, en casos estratégicos y justificados, actualizar el precio de los contratos",
+      "Crear un impuesto especial para las empresas adjudicatarias",
+      "Congelar los salarios del sector"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El PNV plantea actualizar el precio de los contratos públicos en casos estratégicos y justificados para cubrir los costes de las mejoras salariales y garantizar tanto el empleo como la continuidad del servicio.",
+    "tip": "La solución afecta al precio de los contratos, no al salario.",
+    "source": {
+      "doc": "pnv",
+      "page": 10,
+      "section": "1.3 Mejores salarios, empleo digno y derechos laborales"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-empleo-009",
+    "doc": "pnv",
+    "topic": "empleo",
+    "type": "which_not",
+    "question": "¿Cuál NO está en el programa del PNV en materia de empleo?",
+    "options": [
+      "Proteger la prevalencia de los convenios colectivos vascos más favorables",
+      "Reducir la jornada laboral máxima sin bajar el sueldo",
+      "Ampliar la prestación por desempleo hasta 36 meses",
+      "Reforzar la prevención de riesgos laborales y la salud mental en el trabajo"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El PNV no propone reducir la jornada máxima. Esa medida la defienden, por ejemplo, PSOE, Podemos o ERC. Las otras tres opciones sí figuran en su programa.",
+    "tip": "Una de las opciones es una medida estatal muy debatida que el PNV no recoge.",
+    "source": {
+      "doc": "pnv",
+      "page": 9,
+      "section": "1.3 Mejores salarios, empleo digno y derechos laborales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-economia-002",
+    "doc": "pnv",
+    "topic": "economia",
+    "type": "tf",
+    "question": "El PNV propone que ayuntamientos, diputaciones forales y Gobierno Vasco puedan utilizar sus superávits para inversiones prioritarias.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El PNV quiere evitar que recursos disponibles (superávits, es decir, dinero sobrante tras cubrir los gastos) permanezcan bloqueados por restricciones generales de estabilidad presupuestaria.",
+    "tip": "Se refiere a dinero que sobra en las cuentas públicas.",
+    "source": {
+      "doc": "pnv",
+      "page": 21,
+      "section": "2.7 Una fiscalidad que favorezca la actividad económica y permita invertir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-economia-003",
+    "doc": "pnv",
+    "topic": "economia",
+    "type": "tf",
+    "question": "El PNV propone eliminar de inmediato el IVA de todos los alimentos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PNV plantea estudiar tipos cero o superreducidos para determinados alimentos básicos (pescado, carne, entre otros) y productos específicos (por ejemplo, para personas celíacas), dentro del marco europeo.",
+    "tip": "Observa los verbos: estudiar y determinados.",
+    "source": {
+      "doc": "pnv",
+      "page": 21,
+      "section": "2.7 Una fiscalidad que favorezca la actividad económica y permita invertir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-economia-004",
+    "doc": "pnv",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué alimentos cita el PNV como ejemplo para estudiar tipos de IVA cero o superreducidos?",
+    "options": [
+      "Únicamente los productos ecológicos",
+      "Pescado y carne, entre otros",
+      "Solo frutas y verduras",
+      "Solo pan y leche"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa menciona alimentos básicos como el pescado y la carne, y productos alimenticios específicos como los destinados a personas celíacas, además de revisar la tributación de suministros esenciales y el transporte público.",
+    "tip": "Son dos alimentos de origen animal.",
+    "source": {
+      "doc": "pnv",
+      "page": 21,
+      "section": "2.7 Una fiscalidad que favorezca la actividad económica y permita invertir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-economia-005",
+    "doc": "pnv",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué comarca cita el PNV como ejemplo de zona industrial afectada por procesos de crisis o transformación que necesita protección?",
+    "options": [
+      "Busturialdea",
+      "Debagoiena",
+      "Tolosaldea",
+      "Aiaraldea"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PNV propone proteger el futuro industrial de comarcas afectadas por crisis o transformación, como Aiaraldea (Álava), mediante inversiones, innovación, descarbonización, suelo industrial y diálogo con los agentes implicados.",
+    "tip": "Es una comarca de Álava cuya capital comarcal es Llodio.",
+    "source": {
+      "doc": "pnv",
+      "page": 14,
+      "section": "2.1 Industria fuerte y centros de decisión en Euskadi"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-economia-006",
+    "doc": "pnv",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone facilitar que las plantillas se hagan cargo de empresas viables como cooperativas o sociedades laborales, usando la capitalización de la prestación por desempleo?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "pnv"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta del PNV, dentro de su apartado sobre relevo generacional y continuidad empresarial: que los trabajadores puedan continuar una empresa viable capitalizando (cobrando de una vez) su prestación por desempleo.",
+    "tip": "Se relaciona con el modelo cooperativo muy arraigado en Euskadi.",
+    "source": {
+      "doc": "pnv",
+      "page": 15,
+      "section": "2.2 Apoyar a quienes emprenden, generan empleo y mantienen vivos nuestros negocios"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-economia-007",
+    "doc": "pnv",
+    "topic": "economia",
+    "type": "tf",
+    "question": "El PNV propone permitir que las personas autónomas compatibilicen temporalmente la prestación por cese de actividad con el inicio de un nuevo proyecto empresarial.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El objetivo es favorecer que las personas autónomas puedan volver a emprender, además de acercar progresivamente su protección a la prestación por desempleo.",
+    "tip": "Busca facilitar un segundo intento emprendedor.",
+    "source": {
+      "doc": "pnv",
+      "page": 15,
+      "section": "2.2 Apoyar a quienes emprenden, generan empleo y mantienen vivos nuestros negocios"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-economia-008",
+    "doc": "pnv",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué instrumentos propone reforzar el PNV para mejorar el acceso de pymes y autónomos a la financiación?",
+    "options": [
+      "Únicamente los fondos europeos Next Generation",
+      "Subvenciones directas universales a todas las pymes",
+      "Las líneas del Instituto de Crédito Oficial y los instrumentos públicos de garantía",
+      "Un banco público vasco de nueva creación"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PNV propone reforzar las líneas del ICO (Instituto de Crédito Oficial, entidad pública estatal de financiación) y los instrumentos públicos de garantía para invertir, modernizar instalaciones y ampliar la actividad.",
+    "tip": "Se trata de herramientas ya existentes que habría que reforzar.",
+    "source": {
+      "doc": "pnv",
+      "page": 14,
+      "section": "2.2 Apoyar a quienes emprenden, generan empleo y mantienen vivos nuestros negocios"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-economia-009",
+    "doc": "pnv",
+    "topic": "economia",
+    "type": "multi",
+    "question": "Marca todas las propuestas del PNV para la industria y las empresas:",
+    "options": [
+      "Proteger y promover el modelo cooperativo vasco en la legislación estatal",
+      "Crear una banca pública estatal",
+      "Reducir el gasto público y el tamaño de la administración",
+      "Reducir la burocracia y eliminar duplicidades administrativas",
+      "Reforzar el apoyo a la internacionalización de las empresas vascas"
+    ],
+    "answer": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "El PNV propone menos burocracia, proteger las cooperativas y apoyar la internacionalización. La banca pública la plantean otros partidos y la reducción del tamaño de la administración, partidos como PP, Vox o SALF; no figuran en el programa del PNV.",
+    "tip": "Las correctas buscan facilitar la actividad empresarial sin cambiar el modelo de administración.",
+    "source": {
+      "doc": "pnv",
+      "page": 14,
+      "section": "2.1 Industria fuerte y centros de decisión en Euskadi"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-economia-010",
+    "doc": "pnv",
+    "topic": "economia",
+    "type": "which_not",
+    "question": "¿Cuál NO propone el PNV en materia de fiscalidad?",
+    "options": [
+      "Flexibilizar la normativa de estabilidad presupuestaria",
+      "Bajar el IRPF de forma general",
+      "Ampliar la capacidad normativa de las Haciendas Forales en IVA e impuestos especiales",
+      "Revisar el IVA cultural para favorecer a artistas y galerías"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El PNV no propone una bajada general del IRPF. Sí plantea revisar el IVA cultural, flexibilizar las reglas de gasto y ampliar la capacidad normativa de las Haciendas Forales (las haciendas de los tres territorios históricos).",
+    "tip": "Una de las opciones es una rebaja general del impuesto sobre la renta.",
+    "source": {
+      "doc": "pnv",
+      "page": 21,
+      "section": "2.7 Una fiscalidad que favorezca la actividad económica y permita invertir"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-economia-011",
+    "doc": "pnv",
+    "topic": "economia",
+    "type": "tf",
+    "question": "Según el PNV, la mayor capacidad normativa de las Haciendas Forales en el IVA debe ejercerse sin tener en cuenta los límites de armonización de la Unión Europea.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PNV pide más capacidad normativa en IVA e Impuestos Especiales dentro de los límites de armonización fiscal establecidos por la UE, mediante la actualización del Concierto Económico.",
+    "tip": "Hay una referencia a un marco superior que se respeta.",
+    "source": {
+      "doc": "pnv",
+      "page": 21,
+      "section": "2.7 Una fiscalidad que favorezca la actividad económica y permita invertir"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-economia-012",
+    "doc": "pnv",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué quiere asegurar el PNV respecto a las reformas fiscales y presupuestarias del Estado?",
+    "options": [
+      "Que el Estado fije el cupo cada año sin negociación",
+      "Que respeten el Concierto Económico y la autonomía financiera de las instituciones vascas",
+      "Que sustituyan al Concierto Económico por un sistema común",
+      "Que se apliquen igual en todo el Estado sin excepciones"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El Concierto Económico es el sistema por el que las instituciones vascas recaudan la mayoría de impuestos y pagan al Estado una cantidad (el cupo) por las competencias que este ejerce. El PNV quiere que las reformas estatales lo respeten.",
+    "tip": "Quiere proteger un sistema que ya existe, no sustituirlo.",
+    "source": {
+      "doc": "pnv",
+      "page": 21,
+      "section": "2.7 Una fiscalidad que favorezca la actividad económica y permita invertir"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pnv-pensiones-001",
+    "doc": "pnv",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "El PNV propone revalorizar las pensiones cada año conforme al IPC para proteger su poder adquisitivo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El IPC (índice de precios al consumo) mide la subida del coste de la vida; revalorizar las pensiones según el IPC evita que pierdan poder adquisitivo.",
+    "tip": "Se vincula a la evolución del coste de la vida.",
+    "source": {
+      "doc": "pnv",
+      "page": 31,
+      "section": "4.1 Pensiones dignas y justicia para las largas carreras de cotización"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pnv-pensiones-002",
+    "doc": "pnv",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "El PNV propone que los planes de previsión social de empleo sustituyan progresivamente a las pensiones públicas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PNV propone extender los sistemas de previsión social de empleo, sobre todo mediante la negociación colectiva, pero como complemento y nunca como sustitución de las pensiones públicas.",
+    "tip": "Fíjate en la expresión «complemento y nunca...».",
+    "source": {
+      "doc": "pnv",
+      "page": 31,
+      "section": "4.1 Pensiones dignas y justicia para las largas carreras de cotización"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-pensiones-003",
+    "doc": "pnv",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿A partir de cuántos años cotizados propone el PNV eliminar las penalizaciones de la jubilación anticipada?",
+    "options": [
+      "Más de 35 años",
+      "Más de 40 años",
+      "Más de 30 años",
+      "Más de 45 años"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El PNV propone eliminar las penalizaciones de la jubilación anticipada para quienes han cotizado más de 40 años, y promover medidas para corregir las penalizaciones que afectan también a quienes ya están jubilados.",
+    "tip": "Es una carrera laboral de cuatro décadas.",
+    "source": {
+      "doc": "pnv",
+      "page": 31,
+      "section": "4.1 Pensiones dignas y justicia para las largas carreras de cotización"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pnv-pensiones-004",
+    "doc": "pnv",
+    "topic": "pensiones",
+    "type": "which_party",
+    "question": "¿Qué partido propone coeficientes reductores de la edad de jubilación para las personas cuidadoras no profesionales acogidas al convenio especial de la Seguridad Social?",
+    "options": [
+      "psoe",
+      "pp",
+      "vox",
+      "pnv"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta del PNV: reconocer el desgaste físico y emocional de los cuidados prolongados mediante una jubilación a edad reducida para quienes cuidan a familiares dependientes.",
+    "tip": "Se refiere a quienes cuidan a familiares sin ser profesionales.",
+    "source": {
+      "doc": "pnv",
+      "page": 31,
+      "section": "4.1 Pensiones dignas y justicia para las largas carreras de cotización"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-pensiones-005",
+    "doc": "pnv",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Qué transferencia en materia de pensiones propone culminar el PNV, conforme al Estatuto de Gernika?",
+    "options": [
+      "La fijación de la edad ordinaria de jubilación",
+      "La gestión del régimen económico de la Seguridad Social",
+      "La recaudación de cotizaciones sin solidaridad con el resto del Estado",
+      "La creación de una caja de pensiones vasca separada del sistema estatal"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El Estatuto de Gernika (1979) es la norma básica de autogobierno vasco. El PNV pide completar la transferencia de la gestión del régimen económico de la Seguridad Social, respetando el carácter unitario del sistema y el principio de solidaridad.",
+    "tip": "El propio programa pide respetar el carácter unitario del sistema.",
+    "source": {
+      "doc": "pnv",
+      "page": 31,
+      "section": "4.1 Pensiones dignas y justicia para las largas carreras de cotización"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-pensiones-006",
+    "doc": "pnv",
+    "topic": "pensiones",
+    "type": "which_not",
+    "question": "¿Cuál NO propone el PNV en materia de pensiones?",
+    "options": [
+      "Subir la edad ordinaria de jubilación a 70 años",
+      "Reducir la brecha de género compensando las lagunas de cotización por cuidados",
+      "Promover acuerdos estables en el marco del Pacto de Toledo",
+      "Mejorar progresivamente las pensiones mínimas y no contributivas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PNV no plantea retrasar la edad de jubilación. Sí propone mejorar las mínimas y no contributivas, reducir la brecha de género y buscar acuerdos estables en el Pacto de Toledo (la comisión parlamentaria que debate el sistema de pensiones).",
+    "tip": "Una opción es una medida que endurece el acceso a la jubilación.",
+    "source": {
+      "doc": "pnv",
+      "page": 31,
+      "section": "4.1 Pensiones dignas y justicia para las largas carreras de cotización"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-pensiones-007",
+    "doc": "pnv",
+    "topic": "pensiones",
+    "type": "multi",
+    "question": "Marca todas las propuestas del PNV sobre pensiones y cuidados:",
+    "options": [
+      "Pasar a un sistema de capitalización individual",
+      "Reducir las pensiones máximas",
+      "Reconocer en la Seguridad Social los periodos dedicados a cuidados familiares, tanto para acceder a la jubilación como para calcular la cuantía",
+      "Promover medidas para corregir las penalizaciones que afectan a quienes ya están jubilados tras largas carreras",
+      "Extender los sistemas de previsión social de empleo mediante la negociación colectiva, como complemento de las pensiones públicas"
+    ],
+    "answer": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "El PNV plantea reconocer los cuidados en la Seguridad Social, ampliar la previsión social de empleo como complemento y corregir las penalizaciones de las largas carreras, incluso para personas ya jubiladas. No propone capitalización individual ni recortar las máximas.",
+    "tip": "Las correctas buscan proteger carreras largas y cuidados dentro del sistema público.",
+    "source": {
+      "doc": "pnv",
+      "page": 31,
+      "section": "4.1 Pensiones dignas y justicia para las largas carreras de cotización"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-pensiones-008",
+    "doc": "pnv",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Qué propone el PNV respecto a la prestación por cuidado de menores afectados por cáncer u otras enfermedades graves (CUME)?",
+    "options": [
+      "Suprimirla y sustituirla por una ayuda general",
+      "Limitarla a las familias con ingresos bajos",
+      "Evaluarla anualmente para corregir las dificultades de acceso, y estudiar extenderla al personal funcionario",
+      "Reducir su duración máxima a seis meses"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "La CUME es una prestación para que progenitores reduzcan o dejen su trabajo para cuidar a hijos con cáncer u otra enfermedad grave. El PNV propone evaluarla cada año, corregir los obstáculos y estudiar su extensión al personal funcionario público.",
+    "tip": "El programa habla de evaluar con periodicidad anual.",
+    "source": {
+      "doc": "pnv",
+      "page": 34,
+      "section": "4.4 Protección efectiva ante las enfermedades graves y la dependencia"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-sanidad-001",
+    "doc": "pnv",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué sistema propone adaptar el PNV para ajustar las plazas de formación de especialistas a las necesidades reales?",
+    "options": [
+      "El sistema de oposiciones de médicos de familia",
+      "El sistema de becas universitarias de Medicina",
+      "El sistema de libre elección de médico",
+      "El sistema MIR"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El MIR (Médico Interno Residente) es el sistema por el que los médicos se forman como especialistas en hospitales. El PNV quiere adecuar la oferta de plazas a las necesidades, evitar vacantes y agilizar la acreditación de nuevas unidades docentes.",
+    "tip": "Son las siglas del sistema de formación de especialistas.",
+    "source": {
+      "doc": "pnv",
+      "page": 32,
+      "section": "4.2 Una sanidad pública que responda cuando la necesitamos"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pnv-sanidad-002",
+    "doc": "pnv",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "El PNV propone permitir que se valore el conocimiento de las lenguas oficiales en el acceso a la formación sanitaria especializada en territorios con más de una lengua oficial.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Esta medida, pensada para territorios con dos lenguas oficiales como Euskadi, aparece entre sus propuestas sobre profesionales y formación especializada.",
+    "tip": "Afecta a territorios con más de una lengua oficial.",
+    "source": {
+      "doc": "pnv",
+      "page": 32,
+      "section": "4.2 Una sanidad pública que responda cuando la necesitamos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-sanidad-003",
+    "doc": "pnv",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "El PNV propone que los Gobiernos Vasco y Navarro dejen de participar en los órganos estatales que autorizan y fijan el precio de los medicamentos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PNV propone justo lo contrario: asegurar su participación permanente en esos órganos, para incorporar las necesidades de sus sistemas sanitarios a la toma de decisiones.",
+    "tip": "Pide más presencia, no menos.",
+    "source": {
+      "doc": "pnv",
+      "page": 32,
+      "section": "4.2 Una sanidad pública que responda cuando la necesitamos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-sanidad-004",
+    "doc": "pnv",
+    "topic": "sanidad",
+    "type": "which_party",
+    "question": "¿Qué partido propone aprobar un Real Decreto de Electrodependencia que proteja a las personas que usan dispositivos médicos eléctricos esenciales para su supervivencia?",
+    "options": [
+      "psoe",
+      "pp",
+      "vox",
+      "pnv"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta del PNV. Incluye proteger a las personas electrodependientes frente a cortes de suministro y facilitar su acceso al bono social como consumidoras vulnerables severas.",
+    "tip": "Afecta a quien necesita electricidad para mantener su vida.",
+    "source": {
+      "doc": "pnv",
+      "page": 33,
+      "section": "4.4 Protección efectiva ante las enfermedades graves y la dependencia"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-sanidad-005",
+    "doc": "pnv",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué ley quiere el PNV que se cumpla íntegramente y con financiación suficiente para las personas con esclerosis lateral amiotrófica?",
+    "options": [
+      "La Ley de Dependencia de 2006",
+      "La Ley ELA",
+      "La Ley de Cuidados Paliativos",
+      "La Ley General de Sanidad de 1986"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La Ley ELA reconoce prestaciones, atención y apoyos a las personas con esclerosis lateral amiotrófica y otras enfermedades de alta complejidad y curso irreversible. El PNV pide cumplirla íntegramente y financiarla.",
+    "tip": "Lleva el nombre de la propia enfermedad, por sus siglas.",
+    "source": {
+      "doc": "pnv",
+      "page": 33,
+      "section": "4.4 Protección efectiva ante las enfermedades graves y la dependencia"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pnv-sanidad-006",
+    "doc": "pnv",
+    "topic": "sanidad",
+    "type": "multi",
+    "question": "Marca todas las propuestas del PNV en sanidad:",
+    "options": [
+      "Reducir los conciertos con la sanidad privada",
+      "Favorecer la investigación y la atención de enfermedades raras y neurodegenerativas, incluido el Alzheimer",
+      "Incluir la salud bucodental en la cartera pública",
+      "Impulsar que la reforma del Estatuto Marco de las profesiones sanitarias se negocie con profesionales, sindicatos y comunidades autónomas",
+      "Favorecer la regulación del uso medicinal del cannabis"
+    ],
+    "answer": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "El PNV propone regular el cannabis medicinal, investigar enfermedades raras y neurodegenerativas y negociar el Estatuto Marco (la norma básica del personal sanitario). La salud bucodental pública y reducir los conciertos con la privada no figuran en su programa.",
+    "tip": "Las correctas tratan de regulación, investigación y diálogo con profesionales.",
+    "source": {
+      "doc": "pnv",
+      "page": 32,
+      "section": "4.2 Una sanidad pública que responda cuando la necesitamos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-sanidad-007",
+    "doc": "pnv",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Cuál de estas es una de las transferencias sanitarias pendientes que cita el PNV?",
+    "options": [
+      "La regulación de la receta electrónica",
+      "La gestión de los hospitales universitarios",
+      "El control sanitario de las incapacidades laborales",
+      "La vacunación infantil"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PNV pide culminar transferencias en formación sanitaria especializada, acreditación de plazas, control sanitario de las incapacidades laborales y sanidad exterior.",
+    "tip": "Está relacionada con las bajas laborales por enfermedad.",
+    "source": {
+      "doc": "pnv",
+      "page": 32,
+      "section": "4.2 Una sanidad pública que responda cuando la necesitamos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-educacion-001",
+    "doc": "pnv",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "El PNV defiende la capacidad normativa del Sistema Vasco de Becas para mantener una política propia de apoyo al estudio.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El PNV quiere conservar una política de becas propia, adaptada a la realidad de Euskadi, frente a posibles interferencias estatales.",
+    "tip": "Habla de mantener un sistema propio.",
+    "source": {
+      "doc": "pnv",
+      "page": 10,
+      "section": "1.4 Una educación que abra oportunidades"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pnv-educacion-002",
+    "doc": "pnv",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Qué tipo de educación propone impulsar el PNV?",
+    "options": [
+      "Única y centralizada para todo el Estado",
+      "Basada en que las familias puedan vetar contenidos",
+      "Inclusiva, plurilingüe e intercultural",
+      "Exclusivamente en una sola lengua"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PNV propone una educación inclusiva, plurilingüe e intercultural que garantice los derechos de la infancia y la adolescencia y la igualdad de oportunidades, además de reforzar la coeducación y la educación afectivo-sexual.",
+    "tip": "Fíjate en los tres adjetivos que empiezan por i, pluri e inter.",
+    "source": {
+      "doc": "pnv",
+      "page": 10,
+      "section": "1.4 Una educación que abra oportunidades"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pnv-educacion-003",
+    "doc": "pnv",
+    "topic": "educacion",
+    "type": "which_not",
+    "question": "¿Cuál NO propone el PNV en educación?",
+    "options": [
+      "Favorecer la colaboración entre universidades y empresas",
+      "Que las familias puedan vetar contenidos de educación afectivo-sexual (pin parental)",
+      "Reforzar la coeducación y la educación afectivo-sexual",
+      "Fortalecer la Formación Profesional Dual"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El PNV propone reforzar la educación afectivo-sexual en igualdad, no permitir el veto de las familias. El llamado pin parental no figura en su programa.",
+    "tip": "Una opción contradice la propuesta de reforzar la educación afectivo-sexual.",
+    "source": {
+      "doc": "pnv",
+      "page": 10,
+      "section": "1.4 Una educación que abra oportunidades"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-educacion-004",
+    "doc": "pnv",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "El PNV propone que las competencias educativas pasen al Estado para unificar el modelo educativo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PNV quiere preservar las competencias educativas de Euskadi, evitando interferencias estatales en los ámbitos que corresponden a las instituciones vascas.",
+    "tip": "El programa habla de preservar, no de ceder.",
+    "source": {
+      "doc": "pnv",
+      "page": 10,
+      "section": "1.4 Una educación que abra oportunidades"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pnv-educacion-005",
+    "doc": "pnv",
+    "topic": "educacion",
+    "type": "which_party",
+    "question": "¿Qué partido propone defender la capacidad de Euskadi para decidir sobre la gobernanza de sus universidades e impulsar su participación en proyectos universitarios europeos?",
+    "options": [
+      "psoe",
+      "pp",
+      "vox",
+      "pnv"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta del PNV, que busca que las universidades vascas puedan decidir sobre su organización y participar en redes universitarias europeas, además de colaborar más con las empresas.",
+    "tip": "Combina autogobierno universitario y apertura a Europa.",
+    "source": {
+      "doc": "pnv",
+      "page": 10,
+      "section": "1.4 Una educación que abra oportunidades"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-igualdad-001",
+    "doc": "pnv",
+    "topic": "igualdad",
+    "type": "which_party",
+    "question": "¿Qué partido propone modificar la Ley de Seguridad Ciudadana para establecer perímetros de protección de al menos 150 metros alrededor de los centros donde se practica la interrupción voluntaria del embarazo?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "pnv"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta del PNV, que plantea medidas proporcionadas para impedir el acoso a las mujeres y proteger su intimidad y su libertad en los centros donde se practica la interrupción voluntaria del embarazo (IVE).",
+    "tip": "Busca proteger a las mujeres de la presión a la entrada de las clínicas.",
+    "source": {
+      "doc": "pnv",
+      "page": 26,
+      "section": "3.3 Igualdad real y una vida libre de violencia machista"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-igualdad-002",
+    "doc": "pnv",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Qué organismo vasco de igualdad cita el PNV al hablar de la transposición de las directivas europeas sobre organismos de igualdad?",
+    "options": [
+      "Ararteko",
+      "Gogora",
+      "Kontseilua",
+      "Emakunde"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Emakunde es el Instituto Vasco de la Mujer. El PNV pide respetar sus competencias y funciones. El Ararteko es el defensor del pueblo vasco y Gogora, el Instituto de la Memoria.",
+    "tip": "Su nombre se refiere a las mujeres.",
+    "source": {
+      "doc": "pnv",
+      "page": 26,
+      "section": "3.3 Igualdad real y una vida libre de violencia machista"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-igualdad-003",
+    "doc": "pnv",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "El PNV propone regular y reconocer la profesión de agente de igualdad.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El programa pide garantizar el reconocimiento de la formación universitaria especializada y de la experiencia profesional acreditada de estas personas.",
+    "tip": "Es una profesión relacionada con las políticas de igualdad.",
+    "source": {
+      "doc": "pnv",
+      "page": 26,
+      "section": "3.3 Igualdad real y una vida libre de violencia machista"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-igualdad-004",
+    "doc": "pnv",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "El PNV pide cumplir íntegramente las medidas estatales del Pacto de Estado contra la Violencia de Género renovado en 2019.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El Pacto de Estado al que se refiere el PNV es el renovado en 2025, y subraya la violencia digital, la económica y la protección de las víctimas.",
+    "tip": "Es un pacto renovado muy recientemente.",
+    "source": {
+      "doc": "pnv",
+      "page": 26,
+      "section": "3.3 Igualdad real y una vida libre de violencia machista"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-igualdad-005",
+    "doc": "pnv",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿En qué ciudades pide el PNV reforzar las secciones de Violencia sobre la Mujer con medios humanos y materiales suficientes?",
+    "options": [
+      "Bilbao y Donostia-San Sebastián",
+      "Donostia-San Sebastián e Irun",
+      "Vitoria-Gasteiz y Barakaldo",
+      "Getxo y Eibar"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PNV pide nuevos órganos judiciales especializados y reforzar las secciones de Violencia sobre la Mujer en Euskadi, especialmente en Vitoria-Gasteiz y Barakaldo.",
+    "tip": "Una es capital administrativa de Euskadi y la otra está en la margen izquierda de la ría.",
+    "source": {
+      "doc": "pnv",
+      "page": 26,
+      "section": "3.3 Igualdad real y una vida libre de violencia machista"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-igualdad-006",
+    "doc": "pnv",
+    "topic": "igualdad",
+    "type": "multi",
+    "question": "Marca todas las propuestas del PNV en derechos LGTBIQ+ y lucha contra la discriminación:",
+    "options": [
+      "Derogar la Ley Trans",
+      "Asegurar el desarrollo del artículo 50 de la Ley 4/2023 para adecuar la documentación de las personas extranjeras trans",
+      "Favorecer la tipificación penal de las prácticas de conversión o aversión",
+      "Abolir la prostitución",
+      "Exigir a las plataformas digitales el cumplimiento del Reglamento europeo de Servicios Digitales frente al odio y la discriminación"
+    ],
+    "answer": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "El PNV propone castigar penalmente las terapias de conversión, exigir a las plataformas que combatan los contenidos de odio y desarrollar el art. 50 de la Ley 4/2023 para personas extranjeras trans. No plantea derogar la Ley Trans ni abolir la prostitución.",
+    "tip": "Las correctas se centran en proteger derechos y combatir el odio.",
+    "source": {
+      "doc": "pnv",
+      "page": 27,
+      "section": "3.4 Defender los derechos de las personas LGTBIQ+ y combatir la discriminación"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-igualdad-007",
+    "doc": "pnv",
+    "topic": "igualdad",
+    "type": "which_not",
+    "question": "¿Cuál NO propone el PNV en materia de violencia machista?",
+    "options": [
+      "Favorecer una regulación que reconozca y defina la violencia vicaria",
+      "Sustituir la legislación sobre violencia de género por una ley de violencia intrafamiliar",
+      "Hacer compatibles las indemnizaciones judiciales con las pensiones no contributivas",
+      "Equiparar las ayudas económicas estatales para víctimas de violencia de género y de violencias sexuales"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El PNV defiende reforzar la protección frente a la violencia machista, no sustituir la legislación específica. Esa sustitución es una idea de Vox, no del PNV.",
+    "tip": "Una opción borra el concepto de violencia machista de la ley.",
+    "source": {
+      "doc": "pnv",
+      "page": 26,
+      "section": "3.3 Igualdad real y una vida libre de violencia machista"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-inmigracion-001",
+    "doc": "pnv",
+    "topic": "inmigracion",
+    "type": "which_party",
+    "question": "¿Qué partido propone rechazar la implantación de grandes centros de acogida de solicitantes de protección internacional, como el previsto en Arana (Vitoria-Gasteiz)?",
+    "options": [
+      "psoe",
+      "pp",
+      "vox",
+      "pnv"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta del PNV: prioriza un modelo de acogida descentralizado, con un acuerdo entre el Estado y las instituciones vascas que garantice coordinación, financiación suficiente y atención digna.",
+    "tip": "Cita un barrio concreto de una capital vasca.",
+    "source": {
+      "doc": "pnv",
+      "page": 25,
+      "section": "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-inmigracion-002",
+    "doc": "pnv",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "El PNV reclama que Euskadi sea reconocida y tenida en cuenta como frontera norte en la planificación y gestión migratoria.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El PNV pide que esa condición de frontera norte se traduzca en recursos y coordinación adecuados.",
+    "tip": "Hace referencia a la posición geográfica de Euskadi.",
+    "source": {
+      "doc": "pnv",
+      "page": 24,
+      "section": "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-inmigracion-003",
+    "doc": "pnv",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "El PNV propone que los procedimientos de residencia y trabajo se gestionen exclusivamente desde el Estado.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PNV propone ampliar la capacidad de gestión de Euskadi en los procedimientos de residencia y trabajo para reducir plazos de tramitación y responder a las necesidades laborales y sociales del país.",
+    "tip": "El programa busca más gestión desde Euskadi.",
+    "source": {
+      "doc": "pnv",
+      "page": 25,
+      "section": "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-inmigracion-004",
+    "doc": "pnv",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Qué idioma destaca el PNV como herramienta de integración y convivencia de las personas migrantes?",
+    "options": [
+      "El árabe",
+      "El euskera",
+      "El inglés",
+      "El francés"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El PNV propone promover la integración social y laboral de las personas migrantes, favoreciendo su autonomía, su participación en la sociedad vasca y el aprendizaje del euskera como herramienta de integración y convivencia.",
+    "tip": "Es la lengua propia de Euskadi.",
+    "source": {
+      "doc": "pnv",
+      "page": 25,
+      "section": "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pnv-inmigracion-005",
+    "doc": "pnv",
+    "topic": "inmigracion",
+    "type": "multi",
+    "question": "Marca todas las propuestas del PNV en materia de migración:",
+    "options": [
+      "Favorecer la contratación en origen vinculada a las necesidades del mercado laboral vasco",
+      "Dar prioridad a los españoles en ayudas y vivienda",
+      "Avanzar en los procesos de regularización previstos en la legislación",
+      "Expulsar a las personas en situación irregular",
+      "Agilizar la homologación de titulaciones y cualificaciones profesionales extranjeras"
+    ],
+    "answer": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "El PNV propone contratación en origen, agilizar la homologación de títulos y avanzar en la regularización prevista legalmente. No plantea expulsiones generales ni la llamada prioridad nacional.",
+    "tip": "Las correctas facilitan la incorporación de personas migrantes al empleo.",
+    "source": {
+      "doc": "pnv",
+      "page": 25,
+      "section": "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-inmigracion-006",
+    "doc": "pnv",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Qué propone el PNV en el ámbito europeo sobre migración y asilo?",
+    "options": [
+      "Que cada Estado decida sin coordinar con los demás",
+      "Trasladar los trámites de asilo a países fuera de la UE",
+      "Una política común basada en la solidaridad, con una distribución equilibrada de solicitantes y de menores migrantes no acompañados",
+      "Cerrar las fronteras exteriores de la UE"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PNV impulsa una política europea común de migración y asilo basada en la solidaridad y la responsabilidad compartida, con reparto equilibrado de solicitantes de protección internacional y de menores migrantes no acompañados.",
+    "tip": "La palabra clave es responsabilidad compartida.",
+    "source": {
+      "doc": "pnv",
+      "page": 25,
+      "section": "3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-medioambiente-001",
+    "doc": "pnv",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone asegurar un régimen transitorio de apoyo a la cogeneración industrial de alta eficiencia e impulsar nuevas subastas?",
+    "options": [
+      "psoe",
+      "pp",
+      "vox",
+      "pnv"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta del PNV. La cogeneración produce a la vez electricidad y calor útil en la propia industria; el PNV quiere dar continuidad y modernizar esas instalaciones.",
+    "tip": "Se refiere a una forma de generar electricidad y calor en las fábricas.",
+    "source": {
+      "doc": "pnv",
+      "page": 16,
+      "section": "2.3 Energía competitiva para nuestra industria y asequible para los hogares"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-medioambiente-002",
+    "doc": "pnv",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿A qué porcentaje propone el PNV reducir de forma permanente el Impuesto Especial sobre la Electricidad, dentro de los límites de la normativa europea?",
+    "options": [
+      "5,11 %",
+      "1 %",
+      "2,5 %",
+      "0,5 %"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa propone rebajar este impuesto al 0,5 %, dentro de lo que permita la normativa europea, para abaratar la energía de industria y hogares.",
+    "tip": "Es una cifra inferior a uno.",
+    "source": {
+      "doc": "pnv",
+      "page": 16,
+      "section": "2.3 Energía competitiva para nuestra industria y asequible para los hogares"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-medioambiente-003",
+    "doc": "pnv",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "El PNV propone dejar de mantener los bonos sociales eléctrico y térmico para las personas consumidoras vulnerables.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PNV propone mantener la protección de las personas consumidoras de energía vulnerables, incluidos los bonos sociales eléctrico y térmico, y preservar la Tarifa de Último Recurso del gas natural.",
+    "tip": "El verbo del programa es mantener.",
+    "source": {
+      "doc": "pnv",
+      "page": 16,
+      "section": "2.3 Energía competitiva para nuestra industria y asequible para los hogares"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pnv-medioambiente-004",
+    "doc": "pnv",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué propone el PNV sobre la Ley de Costas?",
+    "options": [
+      "Derogarla sin sustituirla",
+      "Mantenerla sin cambios",
+      "Transferir todo el litoral a gestión privada",
+      "Una reforma integral que aporte seguridad jurídica, permita adaptar el litoral al cambio climático y respete las competencias de Euskadi"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "La Ley de Costas regula el uso y la protección del litoral. El PNV propone reformarla de forma integral y que Euskadi pueda programar y ejecutar las inversiones de interés general para proteger su costa.",
+    "tip": "Es una reforma, no una derogación.",
+    "source": {
+      "doc": "pnv",
+      "page": 17,
+      "section": "2.4 Una transición ecológica que proteja el medio ambiente y genere oportunidades"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-medioambiente-005",
+    "doc": "pnv",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "El PNV propone un plan de adaptación y protección de la costa vasca frente a la erosión, los temporales, las inundaciones y la subida del nivel del mar.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Forma parte del apartado de protección del litoral y del agua, junto con más inversión en abastecimiento, saneamiento y depuración.",
+    "tip": "Está pensado para riesgos climáticos en el litoral.",
+    "source": {
+      "doc": "pnv",
+      "page": 17,
+      "section": "2.4 Una transición ecológica que proteja el medio ambiente y genere oportunidades"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-medioambiente-006",
+    "doc": "pnv",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "Marca todas las propuestas del PNV en energía y clima:",
+    "options": [
+      "Crear una empresa pública de energía",
+      "Mantener los bonos sociales eléctrico y térmico",
+      "Favorecer el biometano y el hidrógeno renovable, con una fiscalidad incentivadora",
+      "Alargar la vida de las centrales nucleares",
+      "Facilitar el autoconsumo compartido y las comunidades energéticas"
+    ],
+    "answer": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "El PNV propone combustibles de bajas emisiones, autoconsumo compartido y mantener los bonos sociales. No menciona la energía nuclear ni una empresa pública de energía.",
+    "tip": "Las correctas son medidas renovables o de protección a consumidores.",
+    "source": {
+      "doc": "pnv",
+      "page": 16,
+      "section": "2.3 Energía competitiva para nuestra industria y asequible para los hogares"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-medioambiente-007",
+    "doc": "pnv",
+    "topic": "medioambiente",
+    "type": "which_not",
+    "question": "¿Cuál NO propone el PNV en materia de energía?",
+    "options": [
+      "Agilizar el acceso y la conexión a las redes, priorizando proyectos industriales viables",
+      "Acelerar las inversiones en redes eléctricas",
+      "Alargar la vida útil de las centrales nucleares",
+      "Favorecer el almacenamiento energético"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El programa del PNV no menciona la energía nuclear. Sí propone redes eléctricas, agilizar conexiones y almacenamiento para reforzar la estabilidad del sistema.",
+    "tip": "Una de las opciones trata de una tecnología que no aparece en el programa.",
+    "source": {
+      "doc": "pnv",
+      "page": 15,
+      "section": "2.3 Energía competitiva para nuestra industria y asequible para los hogares"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-medioambiente-008",
+    "doc": "pnv",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Para qué propone el PNV destinar el máximo permitido por la normativa europea en materia de CO₂?",
+    "options": [
+      "Subvencionar la compra de combustibles fósiles a los hogares",
+      "Financiar solo el transporte público",
+      "Reducir el IVA de la electricidad",
+      "Compensar los costes indirectos del CO₂ de la industria"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Los costes indirectos del CO₂ son el sobrecoste que paga la industria en la electricidad por el comercio de emisiones. El PNV quiere compensarlos al máximo legal para preservar su competitividad.",
+    "tip": "Se trata de ayudar a la industria con un coste ligado a las emisiones.",
+    "source": {
+      "doc": "pnv",
+      "page": 16,
+      "section": "2.3 Energía competitiva para nuestra industria y asequible para los hogares"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-rural-001",
+    "doc": "pnv",
+    "topic": "rural",
+    "type": "which_party",
+    "question": "¿Qué partido propone que la Política Agraria Común 2028-2034 reconozca un Plan Estratégico propio para Euskadi, gestionado desde las instituciones vascas?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "pnv"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta del PNV. La PAC (Política Agraria Común) es el sistema de ayudas agrarias de la UE; el PNV quiere capacidad de gestión, programación y control propia, con financiación diferenciada.",
+    "tip": "Conecta la agricultura con el autogobierno.",
+    "source": {
+      "doc": "pnv",
+      "page": 17,
+      "section": "2.5 Futuro para nuestros pueblos, el campo y la pesca"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-rural-002",
+    "doc": "pnv",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué medida propone el PNV para facilitar el relevo generacional en la agricultura y la ganadería?",
+    "options": [
+      "Un impuesto especial a las explotaciones grandes",
+      "La compra pública de todas las tierras en venta",
+      "Una jubilación forzosa a los 60 años",
+      "Cotizaciones reducidas para jóvenes que se incorporen al sector, junto con medidas para transmitir explotaciones y apoyos al acceso a la tierra"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PNV propone cotizaciones reducidas para jóvenes que empiecen en el campo, medidas para la transmisión de explotaciones y apoyos para acceder a la tierra.",
+    "tip": "Es una ayuda a quienes inician la actividad.",
+    "source": {
+      "doc": "pnv",
+      "page": 17,
+      "section": "2.5 Futuro para nuestros pueblos, el campo y la pesca"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pnv-rural-003",
+    "doc": "pnv",
+    "topic": "rural",
+    "type": "tf",
+    "question": "El PNV propone proteger el futuro de Rioja Alavesa reforzando la diferenciación de su origen en el etiquetado y la identificación de los vinos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Junto con medidas de rentabilidad y comercialización, el PNV pide reforzar la identificación del origen de los vinos de Rioja Alavesa.",
+    "tip": "Se refiere a una comarca vitivinícola de Álava.",
+    "source": {
+      "doc": "pnv",
+      "page": 18,
+      "section": "2.5 Futuro para nuestros pueblos, el campo y la pesca"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-rural-004",
+    "doc": "pnv",
+    "topic": "rural",
+    "type": "tf",
+    "question": "El PNV propone revisar las restricciones europeas a la pesca de fondo en 27 zonas del Atlántico nororiental.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El programa habla de las 87 zonas del Atlántico nororiental afectadas por el Reglamento (UE) 2022/1614, y pide revisarlas con evaluaciones científicas actualizadas y el conocimiento de los arrantzales (pescadores).",
+    "tip": "La cifra es mayor de 80.",
+    "source": {
+      "doc": "pnv",
+      "page": 18,
+      "section": "2.5 Futuro para nuestros pueblos, el campo y la pesca"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-rural-005",
+    "doc": "pnv",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué propone el PNV sobre las cuotas pesqueras?",
+    "options": [
+      "Venderlas en subasta al mejor postor",
+      "Eliminarlas por completo",
+      "Repartirlas a partes iguales entre todos los Estados de la UE",
+      "Un reparto justo y mayor flexibilidad en su gestión, atendiendo a las capturas históricas y a las distintas modalidades de pesca"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Las cuotas son los límites de captura asignados a cada flota. El PNV quiere un reparto justo, con mayor flexibilidad, atendiendo a capturas históricas y a las necesidades de las distintas modalidades de pesca.",
+    "tip": "Tiene en cuenta lo que se ha pescado históricamente.",
+    "source": {
+      "doc": "pnv",
+      "page": 18,
+      "section": "2.5 Futuro para nuestros pueblos, el campo y la pesca"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-rural-006",
+    "doc": "pnv",
+    "topic": "rural",
+    "type": "multi",
+    "question": "Marca todas las propuestas del PNV para el campo y la pesca:",
+    "options": [
+      "Reconocer coeficientes reductores de jubilación para las personas autónomas de la pesca y la comercialización",
+      "Prohibir la caza deportiva",
+      "Hacer nuevos trasvases entre cuencas fluviales",
+      "Apoyar la modernización del sector forestal y de la industria de la madera",
+      "Establecer ayudas ante incrementos extraordinarios de los costes energéticos, vedas y paralizaciones pesqueras"
+    ],
+    "answer": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "El PNV propone coeficientes reductores de jubilación en la pesca, ayudas ante costes energéticos y paralizaciones, y modernizar el sector forestal. No propone prohibir la caza ni trasvases.",
+    "tip": "Las correctas mejoran la protección y la modernización de los sectores productivos.",
+    "source": {
+      "doc": "pnv",
+      "page": 18,
+      "section": "2.5 Futuro para nuestros pueblos, el campo y la pesca"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-rural-007",
+    "doc": "pnv",
+    "topic": "rural",
+    "type": "which_not",
+    "question": "¿Cuál NO propone el PNV para el sector primario?",
+    "options": [
+      "Reforzar la Ley de la Cadena Alimentaria para que los precios cubran los costes de producción",
+      "Hacer nuevos trasvases entre cuencas fluviales",
+      "Asegurar financiación para la sanidad animal y los seguros agrarios",
+      "Impulsar condiciones comerciales equivalentes para los productos importados"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Los trasvases no figuran en el programa del PNV. Sí propone la Ley de la Cadena Alimentaria, exigencias equivalentes a lo importado y financiación para sanidad animal y seguros agrarios.",
+    "tip": "Una opción trata de gestión del agua entre cuencas, no de comercio ni de precios.",
+    "source": {
+      "doc": "pnv",
+      "page": 18,
+      "section": "2.5 Futuro para nuestros pueblos, el campo y la pesca"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-instituciones-001",
+    "doc": "pnv",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone impulsar la creación de un Consejo Vasco de Justicia con funciones de gobierno del Poder Judicial en Euskadi?",
+    "options": [
+      "psoe",
+      "pp",
+      "vox",
+      "pnv"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta del PNV, dentro de su apartado sobre una justicia más cercana: un órgano propio con las funciones de gobierno judicial que le atribuya el nuevo marco jurídico.",
+    "tip": "Es un órgano de gobierno de los jueces con ámbito vasco.",
+    "source": {
+      "doc": "pnv",
+      "page": 39,
+      "section": "5.3 Una justicia más cercana y con capacidad de decisión desde Euskadi"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-instituciones-002",
+    "doc": "pnv",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "El PNV propone que la organización judicial culmine en el Tribunal Superior de Justicia del País Vasco, con la única excepción de la jurisdicción reservada al Tribunal Supremo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El PNV quiere que en el TSJ del País Vasco se agoten las sucesivas instancias procesales, incluidos los recursos de casación o la última instancia que proceda.",
+    "tip": "Hay una excepción para el tribunal más alto del Estado.",
+    "source": {
+      "doc": "pnv",
+      "page": 39,
+      "section": "5.3 Una justicia más cercana y con capacidad de decisión desde Euskadi"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-instituciones-003",
+    "doc": "pnv",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Qué reconocimiento propone el PNV para la Ertzaintza en el ámbito de la justicia?",
+    "options": [
+      "Policía militar",
+      "Policía judicial en el ámbito vasco, con capacidad plena para ejercer sus funciones",
+      "Policía de fronteras exteriores de la UE",
+      "Cuerpo auxiliar de la Policía Nacional"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La Ertzaintza es la policía autonómica del País Vasco. La Policía judicial es la que investiga delitos por encargo de jueces y fiscales; el PNV quiere que la Ertzaintza la ejerza plenamente en Euskadi.",
+    "tip": "Se trata de colaborar con jueces y fiscales en la investigación de delitos.",
+    "source": {
+      "doc": "pnv",
+      "page": 39,
+      "section": "5.3 Una justicia más cercana y con capacidad de decisión desde Euskadi"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-instituciones-004",
+    "doc": "pnv",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "El PNV propone mantener la prisión permanente revisable.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PNV propone rechazar la prisión permanente revisable y defender un sistema penitenciario orientado a la reeducación y la reinserción, respetuoso con los derechos de las personas privadas de libertad.",
+    "tip": "El programa defiende la reinserción como objetivo penitenciario.",
+    "source": {
+      "doc": "pnv",
+      "page": 28,
+      "section": "3.5 Derechos humanos y libertades sin retrocesos"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pnv-instituciones-005",
+    "doc": "pnv",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone rechazar la prisión permanente revisable y defender un sistema penitenciario orientado a la reeducación y la reinserción?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "pnv"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una posición del PNV. La prisión permanente revisable es una pena de cárcel de duración indeterminada sujeta a revisión; PP y Vox defienden mantenerla o endurecer el Código Penal.",
+    "tip": "Aquí la reeducación pesa más que el endurecimiento de penas.",
+    "source": {
+      "doc": "pnv",
+      "page": 28,
+      "section": "3.5 Derechos humanos y libertades sin retrocesos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-instituciones-006",
+    "doc": "pnv",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Qué suceso ocurrido en Vitoria-Gasteiz cita el PNV al pedir la desclasificación de documentos oficiales para contribuir al esclarecimiento y a la reparación de las víctimas?",
+    "options": [
+      "Los disturbios de Mayo de 1968",
+      "El golpe de Estado del 23 de febrero de 1981",
+      "La explosión del polígono de Júndiz en 1995",
+      "Los sucesos del 3 de marzo de 1976"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PNV pide desclasificar los documentos sobre los sucesos del 3 de marzo de 1976 en Vitoria-Gasteiz, además de documentación sobre otros hechos como la muerte de Mikel Zabalza.",
+    "tip": "La fecha es de la etapa de la Transición.",
+    "source": {
+      "doc": "pnv",
+      "page": 40,
+      "section": "5.4 Verdad, justicia y reparación. Una democracia que rinde cuentas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-instituciones-007",
+    "doc": "pnv",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "Marca todas las propuestas del PNV en transparencia, verdad y memoria:",
+    "options": [
+      "Derogar la Ley de Memoria Democrática",
+      "Eliminar la Ley de Transparencia",
+      "Promover la desclasificación de la documentación sobre el atentado del bar Aldana de Alonsotegi (20 de enero de 1980)",
+      "Aprobar una nueva Ley de Secretos Oficiales con plazos de desclasificación automática",
+      "Asegurar el esclarecimiento de las circunstancias de la muerte de Mikel Zabalza"
+    ],
+    "answer": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "El PNV propone una nueva ley de secretos oficiales con plazos automáticos, esclarecer hechos como la muerte de Mikel Zabalza y el atentado del bar Aldana, y aplicar íntegramente la legislación de memoria. No propone derogar la ley de memoria ni la de transparencia.",
+    "tip": "Las correctas buscan conocer la verdad, no limitar la información o la memoria.",
+    "source": {
+      "doc": "pnv",
+      "page": 40,
+      "section": "5.4 Verdad, justicia y reparación. Una democracia que rinde cuentas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-instituciones-008",
+    "doc": "pnv",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "El PNV propone reformar el Código Penal en los delitos relacionados con la expresión de opiniones sobre la Corona, las instituciones y los símbolos del Estado.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El PNV propone adecuar la legislación a los estándares europeos de libertad de expresión, y reformar la llamada ley mordaza (Ley de Seguridad Ciudadana).",
+    "tip": "Se vincula con la libertad de expresión.",
+    "source": {
+      "doc": "pnv",
+      "page": 27,
+      "section": "3.5 Derechos humanos y libertades sin retrocesos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-territorio-002",
+    "doc": "pnv",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué propone el PNV para evitar el incumplimiento, el vaciamiento o la modificación unilateral de los acuerdos entre Euskadi y el Estado?",
+    "options": [
+      "Eliminar los acuerdos y regirse por la ley general",
+      "Que el Tribunal Supremo decida siempre en caso de conflicto",
+      "Un referéndum anual en Euskadi",
+      "Mecanismos de prevención y resolución de conflictos con garantías imparciales"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Parte de su propuesta de Concierto Político: unas reglas de pacto y bilateralidad (relación de igual a igual) con mecanismos de prevención y resolución de conflictos y garantías imparciales.",
+    "tip": "Se trata de mecanismos imparciales ante los conflictos.",
+    "source": {
+      "doc": "pnv",
+      "page": 39,
+      "section": "5.2 Defender el Concierto Económico. Avanzar hacia un nuevo pacto político"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-territorio-003",
+    "doc": "pnv",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "El PNV propone defender, junto a Compromís, el Amejoramiento del Fuero, el Convenio Económico y las instituciones propias de Navarra.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PNV propone defenderlos junto a Geroa Bai, la coalición navarra. El Amejoramiento del Fuero es la norma que regula el régimen foral de Navarra.",
+    "tip": "Es una coalición política de Navarra, no valenciana.",
+    "source": {
+      "doc": "pnv",
+      "page": 38,
+      "section": "5.1 Lo pactado se cumple. Más capacidad para decidir aquí"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-territorio-004",
+    "doc": "pnv",
+    "topic": "territorio",
+    "type": "which_party",
+    "question": "¿Qué partido apoya el derecho de la ciudadanía de Trebiño y Villaverde Turtzioz a pronunciarse democráticamente sobre su futuro, incluida la posible incorporación al territorio histórico correspondiente de Euskadi?",
+    "options": [
+      "psoe",
+      "pp",
+      "vox",
+      "pnv"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta del PNV, mediante los procedimientos legales y el diálogo institucional. Trebiño es un enclave burgalés rodeado de territorio alavés y Villaverde Turtzioz es un municipio cántabro.",
+    "tip": "Hablamos de enclaves y municipios cercanos al País Vasco.",
+    "source": {
+      "doc": "pnv",
+      "page": 38,
+      "section": "5.1 Lo pactado se cumple. Más capacidad para decidir aquí"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-territorio-005",
+    "doc": "pnv",
+    "topic": "territorio",
+    "type": "which_not",
+    "question": "¿Cuál NO está en el programa del PNV en materia de autogobierno?",
+    "options": [
+      "Convocar un referéndum de independencia",
+      "Establecer mecanismos bilaterales de negociación y seguimiento de los acuerdos con el Estado",
+      "Asegurar el cumplimiento íntegro del Estatuto de Gernika",
+      "Proteger los Derechos Históricos del Pueblo Vasco"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PNV plantea cumplir el Estatuto de Gernika, establecer mecanismos bilaterales y proteger los derechos históricos. Habla de reconocimiento nacional y de respeto a la voluntad democrática, pero no propone convocar un referéndum de independencia.",
+    "tip": "Una opción es una medida de mucha mayor ruptura que las otras tres.",
+    "source": {
+      "doc": "pnv",
+      "page": 38,
+      "section": "5.1 Lo pactado se cumple. Más capacidad para decidir aquí"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-territorio-006",
+    "doc": "pnv",
+    "topic": "territorio",
+    "type": "multi",
+    "question": "Marca todo lo que propone el PNV en materia de autogobierno:",
+    "options": [
+      "Abandonar el Concierto Económico para integrarse en el régimen común",
+      "Rechazar cualquier intento de recentralización, invasión o vaciamiento de competencias vascas",
+      "Devolver al Estado competencias hoy transferidas",
+      "Proteger los Derechos Históricos del Pueblo Vasco y el reconocimiento nacional de Euskadi",
+      "Establecer mecanismos bilaterales de negociación y seguimiento de los acuerdos"
+    ],
+    "answer": [
+      1,
+      3,
+      4
+    ],
+    "explanation": "El PNV defiende ampliar y proteger las competencias, no devolverlas. El Concierto Económico lo defiende y quiere actualizarlo. La bilateralidad (negociar de igual a igual) es el principio central.",
+    "tip": "Las correctas defienden más capacidad de decisión para Euskadi.",
+    "source": {
+      "doc": "pnv",
+      "page": 38,
+      "section": "5.1 Lo pactado se cumple. Más capacidad para decidir aquí"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-exterior-001",
+    "doc": "pnv",
+    "topic": "exterior",
+    "type": "multi",
+    "question": "Marca todas las propuestas del PNV en relación con Europa:",
+    "options": [
+      "Asegurar el cumplimiento de los plazos de las redes transeuropeas de transporte, sobre todo ferroviarias transfronterizas",
+      "Crear un ejército europeo común",
+      "Favorecer el reconocimiento y la representación de las realidades nacionales en las instituciones europeas, incluido el Parlamento Europeo",
+      "Promover la oficialidad del euskera, el catalán y el gallego en la Unión Europea",
+      "Abandonar el euro"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "El PNV propone representación para las realidades nacionales, oficialidad de las lenguas cooficiales y cumplimiento de plazos de las redes transeuropeas de transporte. No plantea un ejército común ni salir del euro.",
+    "tip": "Las correctas se relacionan con representación, lenguas y conexiones ferroviarias.",
+    "source": {
+      "doc": "pnv",
+      "page": 41,
+      "section": "5.5 Euskadi con voz propia en Europa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-exterior-002",
+    "doc": "pnv",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Qué periodo del Marco Financiero Plurianual de la UE cita el PNV para pedir la participación efectiva de Euskadi en su elaboración y gestión?",
+    "options": [
+      "2025-2030",
+      "2030-2036",
+      "2028-2034",
+      "2021-2027"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El Marco Financiero Plurianual es el presupuesto de la UE a varios años. El PNV quiere que Euskadi intervenga en la definición de prioridades, el reparto de recursos y la toma de decisiones del de 2028-2034.",
+    "tip": "Es el mismo periodo que menciona para la PAC.",
+    "source": {
+      "doc": "pnv",
+      "page": 41,
+      "section": "5.6 Los fondos europeos deben llegar a Euskadi y gestionarse desde Euskadi"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pnv-exterior-003",
+    "doc": "pnv",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "El PNV propone que el Estado centralice la gestión de los fondos europeos para evitar desigualdades entre territorios.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PNV impulsa la gestión descentralizada de los fondos europeos, respetando las competencias de las instituciones vascas y evitando su recentralización por parte del Estado.",
+    "tip": "El programa rechaza la recentralización.",
+    "source": {
+      "doc": "pnv",
+      "page": 41,
+      "section": "5.6 Los fondos europeos deben llegar a Euskadi y gestionarse desde Euskadi"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-cultura-001",
+    "doc": "pnv",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿Qué propone el PNV sobre la verificación de edad en las plataformas digitales para proteger a la infancia?",
+    "options": [
+      "Prohibir cualquier red social a menores de 16 años",
+      "Favorecer mecanismos proporcionados de verificación de edad, denuncia y retirada de contenidos ilícitos, respetando la privacidad de las personas menores",
+      "Dejar la regulación en manos de las propias empresas",
+      "Obligar a todo el mundo a identificarse con el DNI"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El PNV pide reforzar las obligaciones de las plataformas frente al ciberacoso, la violencia sexual digital y el uso indebido de datos e imágenes, con mecanismos proporcionados que respeten los derechos y la privacidad.",
+    "tip": "La palabra clave es proporcionados.",
+    "source": {
+      "doc": "pnv",
+      "page": 35,
+      "section": "4.6 Proteger a la infancia y garantizar el bienestar de todas las generaciones"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-cultura-002",
+    "doc": "pnv",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "El PNV propone apoyar la incorporación de soluciones digitales e inteligencia artificial en las pymes.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Forma parte de su apartado sobre industria: favorecer la modernización tecnológica de las pymes con soluciones digitales, inteligencia artificial y procesos más eficientes y sostenibles.",
+    "tip": "Combina tecnología y pequeñas empresas.",
+    "source": {
+      "doc": "pnv",
+      "page": 14,
+      "section": "2.1 Industria fuerte y centros de decisión en Euskadi"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pnv-otros-001",
+    "doc": "pnv",
+    "topic": "otros",
+    "type": "which_party",
+    "question": "¿Qué partido propone terminar la Y vasca sin más demoras, con un calendario de ejecución verificable?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "pnv"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta del PNV. La «Y vasca» es la red ferroviaria de alta velocidad que une Bilbao, Vitoria-Gasteiz y San Sebastián con forma de Y; el PNV exige respetar los accesos soterrados a Bilbao y Vitoria-Gasteiz y la conexión con Iruñea.",
+    "tip": "Tiene el nombre de una letra por su forma en el mapa.",
+    "source": {
+      "doc": "pnv",
+      "page": 19,
+      "section": "2.6 Infraestructuras: fechas, inversiones y resultados"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "pnv-otros-002",
+    "doc": "pnv",
+    "topic": "otros",
+    "type": "tf",
+    "question": "El PNV propone terminar la Y vasca respetando los acuerdos sobre los accesos soterrados a Bilbao y Vitoria-Gasteiz y garantizando su conexión con Iruñea.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Pide un calendario de ejecución verificable y el cumplimiento de lo acordado sobre los accesos soterrados (por debajo del suelo urbano) a las dos ciudades.",
+    "tip": "Incluye la conexión con la capital navarra.",
+    "source": {
+      "doc": "pnv",
+      "page": 19,
+      "section": "2.6 Infraestructuras: fechas, inversiones y resultados"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-otros-003",
+    "doc": "pnv",
+    "topic": "otros",
+    "type": "which_party",
+    "question": "¿Qué partido afirma en su programa que nunca facilitará un gobierno que dependa de Vox ni dará cheques en blanco a ningún partido estatal?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "pnv"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una declaración del PNV, que añade que dialogará y negociará acuerdos cuando sean buenos para Euskadi, gobierne quien gobierne en Madrid.",
+    "tip": "Su fórmula es defender, acordar, exigir.",
+    "source": {
+      "doc": "pnv",
+      "page": 3,
+      "section": "Lo que te importa. Lo que vamos a defender."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-otros-004",
+    "doc": "pnv",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Cuántos días cita el PNV entre el 30 de noviembre y las siguientes elecciones para presentar iniciativas, negociar y rendir cuentas?",
+    "options": [
+      "730 días",
+      "1.825 días",
+      "1.000 días",
+      "1.461 días"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa dice que el 29 de noviembre se elige a quien asumirá la responsabilidad y el 30 empieza el trabajo: 1.461 días, es decir, cuatro años (incluido un año bisiesto).",
+    "tip": "Equivale a cuatro años completos.",
+    "source": {
+      "doc": "pnv",
+      "page": 4,
+      "section": "Defender. Acordar. Exigir."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "pnv-otros-005",
+    "doc": "pnv",
+    "topic": "otros",
+    "type": "which_not",
+    "question": "¿Cuál NO propone el PNV en materia de infraestructuras?",
+    "options": [
+      "Cerrar el aeropuerto de Foronda para concentrar los vuelos en Bilbao",
+      "Asegurar la ejecución prioritaria de la Variante Sur Ferroviaria de Bilbao",
+      "Culminar la transferencia de las infraestructuras ferroviarias de cercanías que discurren íntegramente por Euskadi",
+      "Favorecer la Plataforma Multimodal de Jundiz"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PNV propone más inversión y capacidad de desarrollo para el aeropuerto de Foronda (Vitoria-Gasteiz), no su cierre. Las otras tres medidas sí aparecen en el programa.",
+    "tip": "Una opción contradice el interés del programa por el aeropuerto alavés.",
+    "source": {
+      "doc": "pnv",
+      "page": 19,
+      "section": "2.6 Infraestructuras: fechas, inversiones y resultados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "pnv-otros-006",
+    "doc": "pnv",
+    "topic": "otros",
+    "type": "multi",
+    "question": "Marca todas las propuestas del PNV en movilidad y transporte por carretera:",
+    "options": [
+      "Hacer gratuitos los peajes de todas las autopistas",
+      "Mantener ayudas estables para comprar vehículos electrificados, con aplicación directa en el momento de la compra",
+      "Modificar la Ley 15/2009 para que los peajes puedan repercutirse a los clientes del transporte",
+      "Acelerar el despliegue de puntos de recarga eléctrica en corredores estratégicos y áreas industriales",
+      "Prohibir los vuelos cortos cuando exista alternativa en tren"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "El PNV propone ayudas a los vehículos electrificados, que los peajes se repercutan a los clientes del transporte (la Ley 15/2009 regula el contrato de transporte de mercancías por carretera) y más puntos de recarga.",
+    "tip": "Las correctas se centran en vehículos eléctricos y en costes del transporte profesional.",
+    "source": {
+      "doc": "pnv",
+      "page": 20,
+      "section": "2.6 Infraestructuras: fechas, inversiones y resultados"
+    },
+    "difficulty": 3
   }
 ]

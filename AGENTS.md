@@ -21,6 +21,7 @@ Web estática en **español** para preparar las Elecciones Generales del **29/11
 - Programas en catalán/valenciano: resumir en castellano.
 - Cuando aparezca un término técnico, añadirlo al `glossary` del resumen (o a `data/glossary_extra.json`) y ejecutar `python tools/build_glossary.py`, que genera `data/glossary.json`. La web subraya esos términos automáticamente.
 - Validar siempre con `python tools/validate.py [id]`.
+- Tras añadir contenido, ejecutar `python tools/check_pages.py [id]`: marca citas cuya página no encaja con el texto (heurística; en programas en catalán/valenciano da falsos positivos, revisar a mano).
 
 - **Temas claro/oscuro**: nunca escribir colores fijos en `style.css` ni en el JS; usar las variables de `:root` (`--bg --fg --card --border --accent --on-accent --warn --shadow --s2…`). Cada variable nueva se define en los tres bloques (claro, `[data-theme="dark"]` y `@media (prefers-color-scheme: dark)`). El botón 🌙/☀️ de la cabecera guarda la elección en `localStorage('theme')`; sin elección se sigue el tema del sistema.
 - Toda página que muestre resúmenes, posturas o porcentajes incluye `reviewNote()` (invita a consultar el documento original).
@@ -112,6 +113,7 @@ En Claude Code Desktop: `preview_start` con el nombre `site` (`.claude/launch.js
 - **Sonnet / esfuerzo medio**: resúmenes y preguntas, **un partido por subagente** (que lea solo `extracted/<id>/`). Darle este archivo y el esquema.
 - **Haiku / poco esfuerzo**: tareas mecánicas (validar JSON, comprobar páginas, formato).
 - Leer el texto de `extracted/`, nunca volver a abrir los PDF. Leer solo las páginas del `topicMap` del tema que toca.
+- Los subagentes en paralelo comparten la carpeta temporal (scratchpad): cada uno debe trabajar en su propia subcarpeta (`scratchpad/<id>/`) para no pisarse scripts.
 - Crear las preguntas por tandas (p. ej. 25 por tema y partido) y pasar `tools/validate.py` al acabar cada tanda.
 
 ## 9. Git

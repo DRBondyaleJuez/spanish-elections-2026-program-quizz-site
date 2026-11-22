@@ -60,14 +60,14 @@ Se publica con **GitHub Pages**. No hay paso de compilación: HTML + CSS + JS no
 - [x] `data/questions/mesa.json` + su test (mismo motor de cuestionarios).
 
 ## Fase 6 — Prueba de la versión preliminar
-- [ ] Probar en local y en el móvil (en la misma wifi: `http://<IP-del-PC>:8000`).
-- [ ] Activar GitHub Pages (rama `main`, carpeta raíz) y probar desde el móvil con datos.
-- [ ] Revisar las respuestas: comprobar 5 al azar por partido contra el PDF.
+- [x] Probar en local y en el móvil (en la misma wifi: `http://<IP-del-PC>:8000`).
+- [x] Activar GitHub Pages (rama `main`, carpeta raíz) y probar desde el móvil con datos. → https://drbondyalejuez.github.io/spanish-elections-2026-program-quizz-site/
+- [x] Revisar las respuestas: comprobar 5 al azar por partido contra el PDF. Hecho con `tools/check_pages.py` (marca citas cuya página no encaja con el texto) + revisión manual; corregidas ~15 páginas de los resúmenes.
 
 ## Fase 7 — Ampliar contenido
-- [ ] 100 preguntas por programa, repartidas entre todos los temas que trata (unas 8–15 por tema).
+- [x] 100 preguntas por programa, repartidas entre todos los temas que trata (unas 8–15 por tema). (1.000 preguntas: 100 × 10 partidos).
 - [x] 100 preguntas del manual de mesa (solo de las páginas de instrucciones/procedimiento).
-- [ ] `tools/validate.py`: comprueba el esquema, que no haya ids repetidos, que las páginas existan y que la respuesta aparezca cerca de la página citada.
+- [x] `tools/validate.py`: comprueba el esquema, que no haya ids repetidos, que las páginas existan y que la respuesta aparezca cerca de la página citada.
 
 ## Fase 8 — Conexión con NotebookLM (explorar)
 Objetivo: aprovechar el cuaderno de NotebookLM del proyecto (con los mismos PDFs) para compartir su material y, si es posible, preguntarle desde la web. *El enlace del cuaderno no se guarda en este repositorio (es público); se mantiene en privado.*
@@ -78,6 +78,8 @@ Opciones, de la más fácil a la más difícil:
 - [ ] **C. Chat integrado en la web** (difícil / dudoso): NotebookLM para particulares **no tiene API pública**; solo parece haber API en la versión Enterprise de Google Cloud (a verificar), que necesita proyecto de pago y servidor. Una web estática en GitHub Pages no puede llamar a NotebookLM directamente ni guardar claves de forma segura.
 - [ ] **D. Alternativa propia a C** (medio-difícil): un chat "pregunta al programa" con nuestro propio texto (`extracted/`) usando la API de Claude a través de un servicio intermedio gratuito/barato (Cloudflare Workers o similar) que guarde la clave. Habría que definir límites de uso/coste, respuestas siempre con cita de página y enlace al PDF, y un aviso de que puede equivocarse.
 - [ ] **Decisión**: probar A (30 min) y B; dejar C/D solo si después del 29N sigue interesando (el valor mayor está antes de las elecciones).
+
+- [ ] Pendiente de revisión humana: algunos distractores de "¿Qué partido…?" se eligieron porque el resumen del otro partido no lo menciona (no porque lo rechace). Si un usuario detecta un fallo, corregir la pregunta.
 
 ## Extras hechos
 - [x] Modo oscuro con botón en la cabecera (recuerda tu elección; por defecto sigue el tema del móvil/PC).

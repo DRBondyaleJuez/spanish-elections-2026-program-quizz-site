@@ -71,5 +71,2316 @@
       "section": "Un Estado de bienestar para todos los hogares y todas las edades"
     },
     "difficulty": 2
+  },
+  {
+    "id": "psoe-vivienda-001",
+    "doc": "psoe",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "El PSOE propone movilizar cada año el 1 % del PIB para vivienda asequible.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. El programa plantea destinar el 1 % del PIB cada año a vivienda asequible, es decir, una parte fija de toda la riqueza que produce el país.",
+    "tip": "Piensa en un porcentaje pequeño pero fijo y anual.",
+    "source": {
+      "doc": "psoe",
+      "page": 27,
+      "section": "Recursos públicos históricos para un parque público equiparable a nuestros referentes europeos con protección permanente"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "psoe-vivienda-002",
+    "doc": "psoe",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Según el PSOE, el parque público estatal de vivienda a través de CASA 47 llegaría a 500.000 viviendas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El programa habla de un parque público estatal de 100.000 viviendas a través de CASA 47, que se sumarían a las de comunidades y ayuntamientos.",
+    "tip": "Compara la cifra con las viviendas que ya tienen comunidades y ayuntamientos.",
+    "source": {
+      "doc": "psoe",
+      "page": 28,
+      "section": "Consolidar CASA 47 como un actor clave en el mercado de la vivienda asequible"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "psoe-vivienda-003",
+    "doc": "psoe",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Hasta qué importe máximo llegarían los préstamos sin intereses del programa TUCASA para comprar la primera vivienda?",
+    "options": [
+      "20.000 euros",
+      "30.000 euros",
+      "50.000 euros",
+      "100.000 euros"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PSOE mantendría TUCASA con préstamos de hasta 50.000 euros sin intereses para la primera vivienda, con una dotación de 10.000 millones ampliables.",
+    "tip": "Es una cifra redonda que está entre 30.000 y 100.000.",
+    "source": {
+      "doc": "psoe",
+      "page": 31,
+      "section": "Más ayudas, estabilidad y protección a personas inquilinas y pequeños propietarios y propietarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-vivienda-004",
+    "doc": "psoe",
+    "topic": "vivienda",
+    "type": "which_party",
+    "question": "¿Qué partido propone mantener TUCASA, un programa de préstamos sin intereses de hasta 50.000 euros para comprar la primera vivienda?",
+    "options": [
+      "vox",
+      "psoe",
+      "pp",
+      "cc"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "TUCASA es un programa que defiende el PSOE: son préstamos sin intereses para comprar la primera vivienda, con 10.000 millones de dotación ampliables.",
+    "tip": "Es una ayuda pública directa a la compra, con nombre propio de programa.",
+    "source": {
+      "doc": "psoe",
+      "page": 31,
+      "section": "Más ayudas, estabilidad y protección a personas inquilinas y pequeños propietarios y propietarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-vivienda-005",
+    "doc": "psoe",
+    "topic": "vivienda",
+    "type": "multi",
+    "question": "Marca todas las medidas de vivienda que propone el PSOE:",
+    "options": [
+      "Permitir que los ayuntamientos cobren un recargo a las pernoctaciones en viviendas turísticas",
+      "Crear un registro de precios de los contratos de alquiler",
+      "Ampliar la duración de los contratos de alquiler",
+      "Eliminar las zonas tensionadas",
+      "Hacer que el coste de proteger a familias vulnerables lo asuma el pequeño propietario"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El PSOE propone un recargo municipal a las pernoctaciones turísticas, un registro de precios de alquiler y contratos más largos. Mantiene las zonas tensionadas y quiere que el coste de la protección frente a desahucios lo asuman las administraciones, no el pequeño propietario.",
+    "tip": "Dos de las opciones incorrectas hacen lo contrario de lo que busca el programa: regular el mercado y no cargar al pequeño propietario.",
+    "source": {
+      "doc": "psoe",
+      "page": 33,
+      "section": "Freno a la especulación y regulación del mercado para garantizar la función social y el carácter residencial de la vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-vivienda-006",
+    "doc": "psoe",
+    "topic": "vivienda",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa del PSOE sobre vivienda?",
+    "options": [
+      "Un parque público estatal de 100.000 viviendas a través de CASA 47",
+      "Congelar temporalmente las rentas que superen los índices de referencia en zonas tensionadas",
+      "Un impuesto progresivo sobre viviendas vacías de grandes propietarios y fondos",
+      "Liberalizar el uso del suelo para construir sin restricciones urbanísticas"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PSOE apuesta por construir vivienda pública, regular el alquiler y gravar la acumulación especulativa, no por liberalizar el suelo. Las otras tres medidas sí aparecen en su programa.",
+    "tip": "El programa busca más regulación pública del mercado, no menos.",
+    "source": {
+      "doc": "psoe",
+      "page": 30,
+      "section": "Freno a la especulación y regulación del mercado para garantizar la función social y el carácter residencial de la vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-vivienda-007",
+    "doc": "psoe",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué reforma de la Constitución propone el PSOE en materia de vivienda?",
+    "options": [
+      "Que sea un derecho fundamental que la ciudadanía pueda exigir a los poderes públicos",
+      "Que sea solo un principio orientativo sin exigibilidad ante los tribunales",
+      "Que la competencia en vivienda pase en exclusiva a las comunidades autónomas",
+      "Que se garantice una vivienda en propiedad a todos los mayores de 30 años"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Un derecho fundamental es el que se puede reclamar directamente ante los poderes públicos. El PSOE quiere elevar la vivienda a esa categoría, no dejarla como simple principio orientativo.",
+    "tip": "Piensa en la diferencia entre un derecho que se puede exigir y uno que solo se declara.",
+    "source": {
+      "doc": "psoe",
+      "page": 27,
+      "section": "Recursos públicos históricos para un parque público equiparable a nuestros referentes europeos con protección permanente"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-vivienda-008",
+    "doc": "psoe",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "Con el Plan Estatal de Vivienda 2026-2030, ¿qué proporción mínima de las viviendas nuevas debería ser pública o protegida con carácter permanente?",
+    "options": [
+      "Una décima parte",
+      "Una cuarta parte",
+      "La mitad",
+      "Tres cuartas partes"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El plan busca que al menos una cuarta parte de las viviendas nuevas sean públicas o protegidas de forma permanente, es decir, que no pasen a precio libre con el tiempo.",
+    "tip": "Es una fracción menor que la mitad pero mayor que una décima parte.",
+    "source": {
+      "doc": "psoe",
+      "page": 27,
+      "section": "Recursos públicos históricos para un parque público equiparable a nuestros referentes europeos con protección permanente"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-empleo-002",
+    "doc": "psoe",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Por encima de qué porcentaje del salario medio quiere blindar por ley el PSOE el Salario Mínimo Interprofesional (SMI)?",
+    "options": [
+      "50 %",
+      "55 %",
+      "60 %",
+      "70 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PSOE propone blindar por ley que el SMI esté siempre por encima del 60 % del salario medio, que se actualice periódicamente y que no se absorba con complementos.",
+    "tip": "Es el umbral que usan habitualmente las referencias europeas.",
+    "source": {
+      "doc": "psoe",
+      "page": 37,
+      "section": "Coste de vida y poder adquisitivo"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "psoe-empleo-003",
+    "doc": "psoe",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "Según el PSOE, un contrato a tiempo parcial que supere el 60 % de la jornada ordinaria se considerará de jornada completa.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El umbral que propone el programa es el 80 % de la jornada ordinaria (contando las horas complementarias), no el 60 %.",
+    "tip": "Fíjate en el porcentaje exacto que fija el programa.",
+    "source": {
+      "doc": "psoe",
+      "page": 43,
+      "section": "Trabajo digno"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-empleo-004",
+    "doc": "psoe",
+    "topic": "empleo",
+    "type": "which_party",
+    "question": "¿Qué partido propone el Plan Nuevo Rumbo, con incentivos para contratar a mayores de 45 años?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "psoe"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El Plan Nuevo Rumbo es una propuesta del PSOE para favorecer el empleo de los mayores de 45 años, junto con la garantía de la cuota de reserva del 2 % para personas con discapacidad.",
+    "tip": "Es un plan con nombre propio dirigido a una franja de edad concreta.",
+    "source": {
+      "doc": "psoe",
+      "page": 43,
+      "section": "Trabajo digno"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-empleo-005",
+    "doc": "psoe",
+    "topic": "empleo",
+    "type": "multi",
+    "question": "Marca todo lo que el PSOE propone para los becarios y las personas jóvenes en prácticas:",
+    "options": [
+      "Aprobar un Estatuto del Becario",
+      "Dar a los becarios protección por desempleo",
+      "Crear un plan de inserción y emprendimiento juvenil",
+      "Prohibir las prácticas remuneradas",
+      "Excluir a los becarios de la Seguridad Social"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa incluye un Estatuto del Becario, protección por desempleo y un plan de inserción y emprendimiento juvenil. Además quiere blindar las prácticas remuneradas, no prohibirlas.",
+    "tip": "Se trata de ampliar derechos, no de recortarlos.",
+    "source": {
+      "doc": "psoe",
+      "page": 42,
+      "section": "Trabajo digno"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-empleo-006",
+    "doc": "psoe",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "El PSOE propone reformar el despido improcedente para que la indemnización sea disuasoria y recuperar los salarios de tramitación en los casos que fije la ley.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. El despido improcedente es el que un juez declara sin causa justificada, y los salarios de tramitación son los que se cobran mientras dura el proceso judicial.",
+    "tip": "Es una reforma que busca que despedir sin motivo resulte más caro.",
+    "source": {
+      "doc": "psoe",
+      "page": 41,
+      "section": "Trabajo digno"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-empleo-007",
+    "doc": "psoe",
+    "topic": "empleo",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa del PSOE sobre empleo?",
+    "options": [
+      "Completar la reducción de la jornada legal a 37,5 horas",
+      "Implantar un registro horario digital fiable",
+      "Garantizar la cuota de reserva del 2 % de empleo para personas con discapacidad",
+      "Implantar por ley la semana laboral de cuatro días"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PSOE propone la jornada legal de 37,5 horas y que los convenios avancen hacia las 35, pero no una semana de cuatro días fijada por ley. Las otras tres medidas sí están en su programa.",
+    "tip": "El programa habla de horas por semana, no de días de trabajo.",
+    "source": {
+      "doc": "psoe",
+      "page": 41,
+      "section": "Trabajo digno"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-empleo-008",
+    "doc": "psoe",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué sello propone el PSOE para las empresas que reparten beneficios y mejoras de productividad con sus plantillas?",
+    "options": [
+      "Empresa con Productividad Compartida",
+      "Empresa Socialmente Responsable",
+      "Sello Pyme Justa",
+      "Marca Trabajo Digno"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa fomenta que las empresas compartan beneficios y mejoras de productividad con sus trabajadores y crearía un sello de Empresa con Productividad Compartida.",
+    "tip": "El nombre del sello recoge la idea de repartir lo que se gana por trabajar mejor.",
+    "source": {
+      "doc": "psoe",
+      "page": 38,
+      "section": "Coste de vida y poder adquisitivo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-economia-002",
+    "doc": "psoe",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Cuándo presentaría el PSOE un nuevo Plan Fiscal y Estructural a medio plazo?",
+    "options": [
+      "En el otoño de 2026",
+      "En la primavera de 2027",
+      "A comienzos de 2028",
+      "Al final de la legislatura"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El PSOE plantea presentar en la primavera de 2027 un nuevo Plan Fiscal y Estructural a medio plazo, el documento que fija la senda de déficit y deuda ante la Unión Europea.",
+    "tip": "Es poco después del inicio de la legislatura, no antes de las elecciones.",
+    "source": {
+      "doc": "psoe",
+      "page": 47,
+      "section": "Senda y responsabilidad fiscal"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-economia-003",
+    "doc": "psoe",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Por debajo de qué importe serían vinculantes las resoluciones de la Autoridad de Defensa del Cliente Financiero que propone el PSOE?",
+    "options": [
+      "5.000 euros",
+      "10.000 euros",
+      "20.000 euros",
+      "50.000 euros"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "La Autoridad resolvería reclamaciones gratuitas en 90 días, y sus resoluciones serían vinculantes (obligatorias para el banco) por debajo de 20.000 euros.",
+    "tip": "Es una cifra de dos dígitos en miles, más cercana a 10.000 que a 50.000.",
+    "source": {
+      "doc": "psoe",
+      "page": 39,
+      "section": "Coste de vida y poder adquisitivo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-economia-004",
+    "doc": "psoe",
+    "topic": "economia",
+    "type": "tf",
+    "question": "El PSOE propone subir la tasa Tobin, el impuesto sobre ciertas operaciones financieras, del 0,2 % al 0,6 %.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La propuesta es duplicar la tasa Tobin: pasar del 0,2 % al 0,4 %.",
+    "tip": "Piensa en «duplicar» el tipo actual.",
+    "source": {
+      "doc": "psoe",
+      "page": 49,
+      "section": "Fiscalidad justa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-economia-005",
+    "doc": "psoe",
+    "topic": "economia",
+    "type": "tf",
+    "question": "El PSOE propone subir la tributación de las rentas del capital a partir de 50.000 euros, con un tipo máximo del 35 % para las rentas superiores a 300.000 euros.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. Las rentas del capital son los beneficios de ahorros e inversiones, como dividendos o plusvalías. El programa las gravaría más desde 50.000 euros.",
+    "tip": "Hay dos umbrales de renta y un tipo máximo.",
+    "source": {
+      "doc": "psoe",
+      "page": 48,
+      "section": "Fiscalidad justa"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-economia-006",
+    "doc": "psoe",
+    "topic": "economia",
+    "type": "multi",
+    "question": "Marca todos los nuevos impuestos o tasas que propone el PSOE:",
+    "options": [
+      "Un impuesto a las grandes tecnológicas",
+      "Un impuesto a la inteligencia artificial",
+      "Una tasa a los viajes de lujo (megayates, jets privados y billetes business)",
+      "Un impuesto sobre la vivienda habitual",
+      "Un IVA general del 25 %"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa crearía impuestos a grandes tecnológicas y a la IA, y una tasa a los viajes de lujo. No plantea gravar la vivienda habitual ni subir el IVA general al 25 %.",
+    "tip": "Los nuevos impuestos que propone apuntan a grandes patrimonios y grandes empresas.",
+    "source": {
+      "doc": "psoe",
+      "page": 48,
+      "section": "Fiscalidad justa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-economia-007",
+    "doc": "psoe",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone crear el Fondo España Crece para movilizar 120.000 millones de euros de inversión productiva cuando terminen los fondos europeos Next Generation?",
+    "options": [
+      "pp",
+      "vox",
+      "psoe",
+      "salf"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El Fondo España Crece es una propuesta del PSOE para dar continuidad a la inversión productiva cuando acaben los fondos europeos Next Generation.",
+    "tip": "Es un fondo público con nombre propio pensado para sustituir una fuente de financiación que termina.",
+    "source": {
+      "doc": "psoe",
+      "page": 13,
+      "section": "Un modelo económico para el crecimiento y la prosperidad compartida"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-economia-008",
+    "doc": "psoe",
+    "topic": "economia",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa del PSOE sobre economía e impuestos?",
+    "options": [
+      "Una Ley de Industria y Autonomía Estratégica",
+      "Un Fondo España Crece de 120.000 millones de euros",
+      "Subir la tasa Tobin al 0,4 %",
+      "Bajar el impuesto de sociedades a todas las empresas por igual"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PSOE propone aumentar la tributación de grandes empresas y patrimonios (por ejemplo, con la Ley de Salarios Justos), no bajar el impuesto de sociedades para todas.",
+    "tip": "El programa busca más recaudación de quienes más tienen.",
+    "source": {
+      "doc": "psoe",
+      "page": 48,
+      "section": "Fiscalidad justa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-pensiones-002",
+    "doc": "psoe",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "El PSOE propone blindar en la Constitución el sistema público de pensiones y su revalorización con el IPC.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. Revalorizar con el IPC significa subir las pensiones cada año según la inflación para mantener su poder de compra.",
+    "tip": "Es una protección que subiría de la ley a la norma más alta.",
+    "source": {
+      "doc": "psoe",
+      "page": 40,
+      "section": "Pensiones"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "psoe-pensiones-003",
+    "doc": "psoe",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "El PSOE propone reconocer dos años extra de cotización por cada hijo o hija para reducir la brecha de género en las pensiones.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La propuesta reconoce un año extra de cotización por cada hijo o hija, además de reforzar el complemento por hijos.",
+    "tip": "Fíjate en cuántos años se reconocen por hijo.",
+    "source": {
+      "doc": "psoe",
+      "page": 40,
+      "section": "Pensiones"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-pensiones-004",
+    "doc": "psoe",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Qué porcentaje de la base reguladora cobrarían desde el primer día las personas con cáncer en la incapacidad temporal especial que propone el PSOE?",
+    "options": [
+      "50 %",
+      "60 %",
+      "75 %",
+      "100 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "La base reguladora es la cantidad sobre la que se calcula una prestación. En esta incapacidad temporal especial se cobraría el 75 % desde el primer día.",
+    "tip": "Es más de la mitad pero menos que el sueldo completo.",
+    "source": {
+      "doc": "psoe",
+      "page": 40,
+      "section": "Pensiones"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-pensiones-005",
+    "doc": "psoe",
+    "topic": "pensiones",
+    "type": "which_party",
+    "question": "¿Qué partido propone el Plan A Tu Lado, con ayudas para ascensores y quitar barreras y una visita periódica a domicilio desde los 80 años?",
+    "options": [
+      "psoe",
+      "pp",
+      "vox",
+      "cc"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El Plan A Tu Lado es una propuesta del PSOE para la «nueva longevidad»: adaptar las viviendas y acompañar a las personas mayores.",
+    "tip": "Es un plan dirigido a personas mayores que viven en su propia casa.",
+    "source": {
+      "doc": "psoe",
+      "page": 58,
+      "section": "Nueva longevidad: vivir más, vivir mejor"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-pensiones-006",
+    "doc": "psoe",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "En el plan para personas mayores del PSOE, ¿qué tipo de visita periódica a domicilio habría desde los 80 años?",
+    "options": [
+      "De enfermería o trabajo social",
+      "De un médico especialista",
+      "De la policía local",
+      "De una persona voluntaria del vecindario"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa propone, desde los 80 años, una visita periódica a domicilio de enfermería o trabajo social para detectar necesidades y ofrecer apoyo.",
+    "tip": "Son profesionales de los servicios sanitarios y sociales.",
+    "source": {
+      "doc": "psoe",
+      "page": 58,
+      "section": "Nueva longevidad: vivir más, vivir mejor"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-pensiones-007",
+    "doc": "psoe",
+    "topic": "pensiones",
+    "type": "multi",
+    "question": "Marca todo lo que incluye la prestación estatal por crianza que propone el PSOE:",
+    "options": [
+      "Se dirige a todos los hogares con menores",
+      "Da más protección a los hogares de renta baja",
+      "Se financiaría con la tributación de grandes patrimonios y capital",
+      "Solo la cobrarían las familias numerosas"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El PSOE plantea una prestación por crianza universal para hogares con menores, con más ayuda a los de renta baja y financiada con más tributación de grandes patrimonios y del capital.",
+    "tip": "Es una prestación pensada para todos los hogares con hijos.",
+    "source": {
+      "doc": "psoe",
+      "page": 56,
+      "section": "Infancia, adolescencia y familias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-pensiones-008",
+    "doc": "psoe",
+    "topic": "pensiones",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa del PSOE sobre pensiones y protección social?",
+    "options": [
+      "Reforzar el complemento por hijos",
+      "Acelerar la cuota de solidaridad",
+      "Crear una incapacidad temporal especial para el cáncer",
+      "Elevar la edad legal de jubilación a 68 años"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa busca blindar y reforzar las pensiones públicas, pero no propone retrasar la edad legal de jubilación. Las demás medidas sí figuran en él.",
+    "tip": "Piensa cuál de ellas sería un recorte, no una mejora.",
+    "source": {
+      "doc": "psoe",
+      "page": 40,
+      "section": "Pensiones"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "psoe-sanidad-001",
+    "doc": "psoe",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué porcentaje del PIB quiere el PSOE consolidar como financiación pública de la sanidad para acabar con las listas de espera?",
+    "options": [
+      "Alrededor del 5 %",
+      "Alrededor del 6 %",
+      "Alrededor del 7 %",
+      "Alrededor del 9 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PIB es el valor de todo lo que produce el país en un año. El PSOE propone consolidar una financiación pública de la sanidad en torno al 7 % del PIB.",
+    "tip": "Es un porcentaje de una sola cifra, más cerca de 6 que de 9.",
+    "source": {
+      "doc": "psoe",
+      "page": 49,
+      "section": "La sanidad pública, la gran prioridad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "psoe-sanidad-002",
+    "doc": "psoe",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "Con el Plan Sonríe, el PSOE daría mientras tanto una ayuda de hasta 500 euros al año por persona a rentas medias y bajas para tratamientos dentales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La ayuda sería de hasta 200 euros al año por persona, mientras los tratamientos dentales básicos de adultos se incorporan a la sanidad pública.",
+    "tip": "Fíjate en el importe anual de la ayuda transitoria.",
+    "source": {
+      "doc": "psoe",
+      "page": 49,
+      "section": "La sanidad pública, la gran prioridad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-sanidad-003",
+    "doc": "psoe",
+    "topic": "sanidad",
+    "type": "which_party",
+    "question": "¿Qué partido propone el Plan Sonríe, para incluir los tratamientos dentales básicos de adultos en la sanidad pública?",
+    "options": [
+      "salf",
+      "pp",
+      "psoe",
+      "vox"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El Plan Sonríe es una propuesta del PSOE: incluiría en la sanidad pública los tratamientos dentales básicos de adultos y, mientras tanto, daría una ayuda a rentas medias y bajas.",
+    "tip": "El nombre del plan hace referencia a la salud bucodental.",
+    "source": {
+      "doc": "psoe",
+      "page": 49,
+      "section": "La sanidad pública, la gran prioridad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-sanidad-004",
+    "doc": "psoe",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "El PSOE propone garantizar atención psicológica gratuita en la sanidad pública, con una primera consulta en un máximo de 30 días.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. El programa fija un plazo máximo de 30 días para la primera consulta de atención psicológica en la sanidad pública.",
+    "tip": "El plazo se mide en días, no en meses.",
+    "source": {
+      "doc": "psoe",
+      "page": 50,
+      "section": "La sanidad pública, la gran prioridad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-sanidad-005",
+    "doc": "psoe",
+    "topic": "sanidad",
+    "type": "multi",
+    "question": "Marca todo lo que propone el PSOE sobre vapeadores y bolsas de nicotina:",
+    "options": [
+      "Informar de sus componentes",
+      "Fijar una dosis máxima de nicotina",
+      "Prohibir los sabores agradables",
+      "Prohibir su venta a todas las personas menores de 40 años",
+      "Gravarlos con un impuesto especial del 50 %"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa busca regular estos productos con información de componentes, una dosis máxima de nicotina y la prohibición de sabores agradables, que los hacen más atractivos para jóvenes.",
+    "tip": "Las medidas ciertas son de regulación de producto, no de prohibición por edades altas ni de impuestos.",
+    "source": {
+      "doc": "psoe",
+      "page": 51,
+      "section": "La sanidad pública, la gran prioridad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-sanidad-006",
+    "doc": "psoe",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué modalidad de gestión quiere el PSOE que sea la preferente en la sanidad pública para limitar la privatización?",
+    "options": [
+      "La concesión a empresas privadas",
+      "La gestión directa",
+      "Los conciertos con clínicas privadas",
+      "La colaboración público-privada"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La gestión directa significa que la administración pública gestiona los centros con sus propios medios, sin delegar en una empresa privada. El PSOE la haría preferente y aprobaría una Ley de Buen Gobierno del Sistema Nacional de Salud.",
+    "tip": "Es la opción en la que lo público gestiona directamente.",
+    "source": {
+      "doc": "psoe",
+      "page": 49,
+      "section": "La sanidad pública, la gran prioridad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-sanidad-007",
+    "doc": "psoe",
+    "topic": "sanidad",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa del PSOE sobre sanidad?",
+    "options": [
+      "Incluir los tratamientos dentales básicos de adultos en la sanidad pública",
+      "Garantizar atención psicológica gratuita",
+      "Aprobar una Ley de Salud Digital con receta electrónica común",
+      "Ampliar la concesión de hospitales públicos a empresas privadas"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PSOE quiere limitar la privatización y hacer preferente la gestión directa, por lo que no propone ampliar las concesiones a empresas privadas. Las otras tres medidas sí aparecen en su programa.",
+    "tip": "El programa pretende reducir la privatización, no aumentarla.",
+    "source": {
+      "doc": "psoe",
+      "page": 49,
+      "section": "La sanidad pública, la gran prioridad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-educacion-001",
+    "doc": "psoe",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Cuántos estudiantes por orientador pretende alcanzar el PSOE con su propuesta de reforzar la orientación educativa?",
+    "options": [
+      "Un orientador por cada 100 estudiantes",
+      "Un orientador por cada 250 estudiantes",
+      "Un orientador por cada 500 estudiantes",
+      "Un orientador por cada 1.000 estudiantes"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa propone llegar a un orientador por cada 250 estudiantes, junto con el Estatuto del Docente y la reducción del abandono escolar temprano.",
+    "tip": "Es una ratio intermedia, más baja que 500.",
+    "source": {
+      "doc": "psoe",
+      "page": 52,
+      "section": "La educación pública: motor de progreso e igualdad"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-educacion-002",
+    "doc": "psoe",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "El PSOE se marca como objetivo bajar el abandono escolar temprano por debajo del 10 % antes de 2030.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. El abandono escolar temprano es el de quienes dejan los estudios sin pasar de la ESO. El programa se propone reducirlo por debajo del 10 % antes de 2030.",
+    "tip": "Se fija un porcentaje de dos cifras y una fecha concreta.",
+    "source": {
+      "doc": "psoe",
+      "page": 52,
+      "section": "La educación pública: motor de progreso e igualdad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-educacion-003",
+    "doc": "psoe",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "Las becas Erasmus que propone el PSOE serían de entre 300 y 500 euros al mes según los ingresos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El programa propone becas Erasmus de entre 1.000 y 1.500 euros al mes, según los ingresos, además de impulsar la gratuidad de la matrícula del primer curso de grado en universidades públicas.",
+    "tip": "Piensa en lo que cuesta vivir un mes en otro país.",
+    "source": {
+      "doc": "psoe",
+      "page": 54,
+      "section": "Universidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-educacion-004",
+    "doc": "psoe",
+    "topic": "educacion",
+    "type": "which_party",
+    "question": "¿Qué partido propone una Ley de Equidad en el Acceso a la Universidad Pública, con financiación plurianual vinculante?",
+    "options": [
+      "vox",
+      "pp",
+      "salf",
+      "psoe"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "La financiación plurianual vincula las inversiones a varios años seguidos. La Ley de Equidad en el Acceso a la Universidad Pública es una propuesta del PSOE.",
+    "tip": "Es una ley para asegurar el acceso a la universidad pública con fondos asegurados durante varios años.",
+    "source": {
+      "doc": "psoe",
+      "page": 54,
+      "section": "Universidad"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-educacion-005",
+    "doc": "psoe",
+    "topic": "educacion",
+    "type": "multi",
+    "question": "Marca todo lo que propone el PSOE para la Formación Profesional (FP):",
+    "options": [
+      "Ampliar las plazas públicas de FP Media y Superior",
+      "Crear titulaciones en inteligencia artificial y ciberseguridad",
+      "Crear titulaciones en transición energética",
+      "Cobrar matrícula en la FP Básica",
+      "Reducir las plazas públicas de FP Superior"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El PSOE plantea más plazas públicas de FP Media y Superior y nuevas titulaciones vinculadas a la IA, la ciberseguridad y la transición energética.",
+    "tip": "El programa habla de ampliar la FP y adaptarla a nuevos sectores.",
+    "source": {
+      "doc": "psoe",
+      "page": 53,
+      "section": "Formación Profesional"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-educacion-006",
+    "doc": "psoe",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿A quién garantizaría el PSOE el comedor escolar gratuito?",
+    "options": [
+      "A todo el alumnado de todas las etapas",
+      "Solo al alumnado de Secundaria",
+      "Al alumnado en situación de pobreza o exclusión social",
+      "Solo al alumnado de zonas rurales"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El programa garantiza comedor escolar gratuito a todo el alumnado en situación de pobreza o exclusión social, no a todo el alumnado sin distinción.",
+    "tip": "Fíjate en el criterio de la necesidad económica.",
+    "source": {
+      "doc": "psoe",
+      "page": 53,
+      "section": "Educación Infantil, Primaria, Secundaria y Bachillerato"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-educacion-007",
+    "doc": "psoe",
+    "topic": "educacion",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa del PSOE sobre educación?",
+    "options": [
+      "Aprobar el Estatuto del Docente",
+      "Becas Erasmus de entre 1.000 y 1.500 euros al mes",
+      "Garantizar comedor escolar gratuito al alumnado en situación de pobreza",
+      "Introducir un cheque escolar para financiar plazas en centros privados"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PSOE defiende una educación pública gratuita y la mejora de sus recursos, no un cheque escolar para centros privados. Las demás medidas aparecen en su programa.",
+    "tip": "El programa se centra en reforzar la educación pública.",
+    "source": {
+      "doc": "psoe",
+      "page": 52,
+      "section": "La educación pública: motor de progreso e igualdad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-igualdad-001",
+    "doc": "psoe",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "El PSOE propone reformar el artículo 43 de la Constitución para blindar el derecho a la interrupción voluntaria del embarazo en todo el territorio.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. El artículo 43 recoge el derecho a la protección de la salud. El PSOE quiere reformarlo para blindar el derecho al aborto.",
+    "tip": "Es una reforma constitucional vinculada a los derechos reproductivos.",
+    "source": {
+      "doc": "psoe",
+      "page": 81,
+      "section": "Más salud, más libertad para decidir: en defensa de los derechos sexuales y reproductivos de las mujeres y de una sanidad sin sesgos de género"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "psoe-igualdad-002",
+    "doc": "psoe",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "El PSOE propone regular y legalizar la gestación por sustitución en España.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El programa propone reforzar la prohibición de la gestación por sustitución y perseguir a quien intermedie o la promocione.",
+    "tip": "Fíjate en que se habla de reforzar una prohibición.",
+    "source": {
+      "doc": "psoe",
+      "page": 81,
+      "section": "Más salud, más libertad para decidir: en defensa de los derechos sexuales y reproductivos de las mujeres y de una sanidad sin sesgos de género"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "psoe-igualdad-003",
+    "doc": "psoe",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Hasta qué edad querría el PSOE ampliar las ayudas a huérfanos y huérfanas de la violencia de género?",
+    "options": [
+      "18 años",
+      "21 años",
+      "26 años",
+      "30 años"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El programa propone ampliar las ayudas a huérfanos de la violencia de género hasta los 26 años, además de hacer obligatorias la coeducación y la educación afectivo-sexual.",
+    "tip": "Es una edad que llega hasta la juventud, más allá de la mayoría de edad.",
+    "source": {
+      "doc": "psoe",
+      "page": 82,
+      "section": "El negacionismo mata: por una sociedad libre de violencias machistas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-igualdad-004",
+    "doc": "psoe",
+    "topic": "igualdad",
+    "type": "which_party",
+    "question": "¿Qué partido propone una Ley Orgánica Abolicionista del Sistema Prostitucional que prohíba el proxenetismo en todas sus formas?",
+    "options": [
+      "pp",
+      "vox",
+      "psoe",
+      "salf"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El abolicionismo busca eliminar la prostitución prohibiendo a quien se lucra de ella. La propuesta de una Ley Orgánica Abolicionista es del PSOE.",
+    "tip": "Es una ley orgánica con un enfoque «abolicionista».",
+    "source": {
+      "doc": "psoe",
+      "page": 83,
+      "section": "El negacionismo mata: por una sociedad libre de violencias machistas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-igualdad-005",
+    "doc": "psoe",
+    "topic": "igualdad",
+    "type": "multi",
+    "question": "Marca todo lo que propone el PSOE para los cuidados y el tiempo de trabajo:",
+    "options": [
+      "Aprobar una Ley de Usos del Tiempo de Trabajo con horarios racionales",
+      "Garantizar la desconexión digital",
+      "Retribuir los permisos parentales y por cuidados",
+      "Que los permisos parentales no se retribuyan",
+      "Obligar a todas las empresas a ofrecer horarios partidos"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa incluye una Ley de Usos del Tiempo de Trabajo (horarios racionales y desconexión digital) y propone retribuir los permisos parentales y por cuidados.",
+    "tip": "Se trata de facilitar la conciliación, no de dificultarla.",
+    "source": {
+      "doc": "psoe",
+      "page": 80,
+      "section": "Más corresponsabilidad y más tiempo para vivir en igualdad: por el derecho a unos cuidados dignos, compartidos y garantizados"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-igualdad-006",
+    "doc": "psoe",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Qué norma quiere reformar el PSOE para penalizar las llamadas terapias de conversión?",
+    "options": [
+      "El Código Penal",
+      "El Código Civil",
+      "La Ley de Enjuiciamiento Criminal",
+      "El Estatuto de los Trabajadores"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Las terapias de conversión pretenden cambiar la orientación sexual o la identidad de género de una persona. El PSOE quiere culminar la reforma del Código Penal para penalizarlas.",
+    "tip": "Es la norma que define los delitos y sus penas.",
+    "source": {
+      "doc": "psoe",
+      "page": 97,
+      "section": "Seguir liderando los derechos LGTBI"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-igualdad-007",
+    "doc": "psoe",
+    "topic": "igualdad",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa del PSOE sobre igualdad?",
+    "options": [
+      "Una ley orgánica contra la violencia vicaria",
+      "Una ley orgánica contra la trata",
+      "Un Pacto de Estado contra los discursos y delitos de odio",
+      "Crear un Ministerio de la Familia"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "La violencia vicaria es la que se ejerce sobre hijos o allegados para dañar a la madre. El PSOE propone leyes orgánicas contra la violencia vicaria y la trata y un Pacto de Estado contra el odio, pero no un Ministerio de la Familia.",
+    "tip": "Tres medidas son leyes o pactos contra violencias y discriminaciones.",
+    "source": {
+      "doc": "psoe",
+      "page": 83,
+      "section": "El negacionismo mata: por una sociedad libre de violencias machistas"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-inmigracion-001",
+    "doc": "psoe",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Qué dotación inicial tendría el Plan de Integración y Ciudadanía 2026-2030 que propone el PSOE?",
+    "options": [
+      "100 millones de euros",
+      "250 millones de euros",
+      "500 millones de euros",
+      "1.000 millones de euros"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El programa propone desplegar el Plan de Integración y Ciudadanía 2026-2030 con una dotación inicial de 500 millones de euros.",
+    "tip": "Es una cifra media, más baja que mil millones.",
+    "source": {
+      "doc": "psoe",
+      "page": 92,
+      "section": "Impulsar una política migratoria regular, humana y eficaz"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-inmigracion-002",
+    "doc": "psoe",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "El PSOE propone simplificar trámites, impulsar la contratación en origen y agilizar la homologación de títulos para facilitar el acceso al empleo de las personas migrantes.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. La contratación en origen es la que se hace en el país de procedencia antes de que la persona viaje. La homologación de títulos es el reconocimiento oficial de estudios extranjeros.",
+    "tip": "Las medidas buscan hacer más ágil y legal el acceso al trabajo.",
+    "source": {
+      "doc": "psoe",
+      "page": 92,
+      "section": "Impulsar una política migratoria regular, humana y eficaz"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "psoe-inmigracion-003",
+    "doc": "psoe",
+    "topic": "inmigracion",
+    "type": "which_party",
+    "question": "¿Qué partido propone crear una Unidad de Apoyo a la Infancia Migrante para reforzar la acogida de menores que llegan solos?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "psoe"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PSOE propone reforzar la acogida y protección de los menores que llegan solos con el interés superior del menor como criterio, y crear una Unidad de Apoyo a la Infancia Migrante.",
+    "tip": "Es una unidad específica dedicada a la infancia que migra.",
+    "source": {
+      "doc": "psoe",
+      "page": 57,
+      "section": "Infancia, adolescencia y familias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-inmigracion-004",
+    "doc": "psoe",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Qué criterio deberá guiar, según el PSOE, la acogida y protección de los menores que llegan solos?",
+    "options": [
+      "El interés superior del menor",
+      "La seguridad de las fronteras",
+      "El reparto proporcional entre países de la UE",
+      "La procedencia del menor"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El interés superior del menor es un principio jurídico que obliga a decidir siempre pensando en lo que mejor protege al menor.",
+    "tip": "Es un principio centrado en la persona menor.",
+    "source": {
+      "doc": "psoe",
+      "page": 93,
+      "section": "Impulsar una política migratoria regular, humana y eficaz"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "psoe-inmigracion-005",
+    "doc": "psoe",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "En la Unión Europea, el PSOE defiende una política migratoria basada únicamente en el control de fronteras.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PSOE defiende una política ordenada y solidaria que combine la lucha contra las mafias con asilo, fronteras y vías legales y seguras.",
+    "tip": "Piensa en que el programa habla de varias herramientas a la vez.",
+    "source": {
+      "doc": "psoe",
+      "page": 110,
+      "section": "Avanzar hacia una Unión Europea más integrada y democrática"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "psoe-medioambiente-001",
+    "doc": "psoe",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué porcentaje de generación eléctrica renovable quiere alcanzar el PSOE en 2030?",
+    "options": [
+      "61 %",
+      "71 %",
+      "81 %",
+      "100 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El programa fija el objetivo del 81 % de generación eléctrica renovable en 2030, priorizando las Zonas de Aceleración Renovable, donde se agilizan los permisos de nuevas instalaciones.",
+    "tip": "No es todavía un sistema 100 % renovable.",
+    "source": {
+      "doc": "psoe",
+      "page": 65,
+      "section": "Energía renovable para una vida asequible, una industria competitiva y un país más seguro"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "psoe-medioambiente-002",
+    "doc": "psoe",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "El PSOE propone mantener el calendario de cierre de las centrales nucleares hasta 2030.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El calendario de cierre que quiere mantener el PSOE llega hasta 2035, con proyectos de transición justa en las comarcas afectadas.",
+    "tip": "Fíjate en el año final del calendario.",
+    "source": {
+      "doc": "psoe",
+      "page": 66,
+      "section": "Energía renovable para una vida asequible, una industria competitiva y un país más seguro"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-medioambiente-003",
+    "doc": "psoe",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone mantener el calendario de cierre de las centrales nucleares hasta 2035, con proyectos de transición justa en las comarcas afectadas?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "psoe"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Una transición justa busca que las zonas que dependen de una actividad que se cierra reciban alternativas de empleo. El PSOE mantiene el calendario de cierre nuclear hasta 2035.",
+    "tip": "Es el partido que apoya el cierre programado, al contrario que quienes quieren alargar la vida de las centrales.",
+    "source": {
+      "doc": "psoe",
+      "page": 66,
+      "section": "Energía renovable para una vida asequible, una industria competitiva y un país más seguro"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-medioambiente-004",
+    "doc": "psoe",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Por debajo de qué porcentaje quiere el PSOE reducir el vertido de residuos en 2030?",
+    "options": [
+      "10 %",
+      "20 %",
+      "30 %",
+      "50 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PSOE propone reducir el vertido de residuos por debajo del 30 % en 2030 y reconocer el derecho a la reparación con un Fondo de Reparación pagado por los productores.",
+    "tip": "Es un porcentaje de dos cifras, menor que la mitad.",
+    "source": {
+      "doc": "psoe",
+      "page": 66,
+      "section": "Economía circular para reducir desechos y proteger la justicia social"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-medioambiente-005",
+    "doc": "psoe",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "El PSOE propone garantizar el acceso universal al agua potable con un mínimo vital para hogares vulnerables, blindado en la Constitución.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. El mínimo vital de agua es una cantidad que se garantiza a los hogares vulnerables. El programa también crearía bancos públicos de agua en las confederaciones hidrográficas.",
+    "tip": "El agua aparece como un derecho que se quiere proteger al máximo nivel.",
+    "source": {
+      "doc": "psoe",
+      "page": 68,
+      "section": "Agua garantizada en cantidad y en calidad en un clima cambiante"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-medioambiente-006",
+    "doc": "psoe",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "Marca todo lo que propone el PSOE para proteger la biodiversidad:",
+    "options": [
+      "Proteger al menos el 30 % de los ecosistemas",
+      "Proteger de forma estricta hasta el 10 % de las áreas marinas",
+      "Culminar la restauración de Doñana y el Mar Menor",
+      "Abrir Doñana a nuevas explotaciones agrícolas",
+      "Reducir al 10 % la superficie de espacios protegidos"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa propone proteger al menos el 30 % de los ecosistemas y hasta el 10 % de las áreas marinas con protección estricta, y culminar la restauración de Doñana, el Mar Menor y otros espacios.",
+    "tip": "Las medidas ciertas amplían la protección, no la reducen.",
+    "source": {
+      "doc": "psoe",
+      "page": 72,
+      "section": "Proteger la biodiversidad, cuidar la naturaleza"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-medioambiente-007",
+    "doc": "psoe",
+    "topic": "medioambiente",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa del PSOE sobre medio ambiente?",
+    "options": [
+      "Impulsar las Zonas de Bajas Emisiones",
+      "Aprobar una Ley de Adaptación al Cambio Climático",
+      "Tolerancia cero al maltrato animal",
+      "Prorrogar indefinidamente la vida de las centrales nucleares"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PSOE mantiene el calendario de cierre nuclear hasta 2035, así que no propone alargar su vida de forma indefinida. Las demás medidas sí están en su programa.",
+    "tip": "Una de ellas contradice el calendario de cierre nuclear.",
+    "source": {
+      "doc": "psoe",
+      "page": 67,
+      "section": "Resiliencia climática"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-rural-001",
+    "doc": "psoe",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué evitaría la Ley de Agricultura Familiar y Profesional que propone el PSOE?",
+    "options": [
+      "Que los fondos de inversión concentren las tierras fértiles",
+      "Que los jóvenes se incorporen al campo",
+      "Que se usen seguros agrarios",
+      "Que las explotaciones familiares reciban ayudas de la PAC"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La ley busca proteger a las explotaciones familiares frente a la concentración de tierras fértiles en manos de fondos de inversión, con apoyo a jóvenes y mujeres y seguros agrarios.",
+    "tip": "Es una ley para proteger a quienes trabajan la tierra frente a grandes inversores.",
+    "source": {
+      "doc": "psoe",
+      "page": 69,
+      "section": "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-rural-002",
+    "doc": "psoe",
+    "topic": "rural",
+    "type": "tf",
+    "question": "El PSOE defiende exigir en la Unión Europea reciprocidad en estándares ambientales, sanitarios y laborales a las importaciones agrarias.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. La reciprocidad significa exigir a los productos que llegan de fuera de la UE las mismas normas que se aplican a los agricultores europeos. El PSOE también defiende una PAC fuerte para explotaciones profesionales, familiares y pequeñas.",
+    "tip": "Se trata de que las normas sean las mismas para los productos de dentro y de fuera.",
+    "source": {
+      "doc": "psoe",
+      "page": 69,
+      "section": "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-rural-003",
+    "doc": "psoe",
+    "topic": "rural",
+    "type": "tf",
+    "question": "La política nacional de bancos de tierras que propone el PSOE estaría dirigida a que grandes inversores accedan a explotaciones.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Los bancos de tierras servirían para que jóvenes y nuevos agricultores accedan a explotaciones viables.",
+    "tip": "Fíjate en quién se quiere que acceda a la tierra.",
+    "source": {
+      "doc": "psoe",
+      "page": 69,
+      "section": "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-rural-004",
+    "doc": "psoe",
+    "topic": "rural",
+    "type": "which_party",
+    "question": "¿Qué partido propone avanzar hacia el País de los 30 minutos para garantizar servicios básicos y movilidad en todo el territorio?",
+    "options": [
+      "pp",
+      "vox",
+      "psoe",
+      "salf"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El País de los 30 minutos es una propuesta del PSOE: que los servicios básicos estén a un máximo de media hora de cualquier lugar del territorio, con un Plan de Empleo Verde Rural.",
+    "tip": "El nombre del plan hace referencia a un tiempo máximo de desplazamiento.",
+    "source": {
+      "doc": "psoe",
+      "page": 70,
+      "section": "Un mundo rural conectado y con futuro"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-rural-005",
+    "doc": "psoe",
+    "topic": "rural",
+    "type": "multi",
+    "question": "Marca todo lo que propone el PSOE para el medio rural y el sector primario:",
+    "options": [
+      "Recompensar la ganadería extensiva y la agricultura regenerativa con certificación y compensaciones",
+      "Un Plan de Transición Justa para la pesca",
+      "Un Plan de Empleo Verde Rural",
+      "Subvencionar la instalación de macrogranjas intensivas",
+      "Eliminar las ayudas a las explotaciones pequeñas"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "La ganadería extensiva es la que aprovecha los pastos y cría los animales al aire libre. El PSOE la recompensa, junto con la agricultura regenerativa, y propone un Plan de Transición Justa para la pesca y un Plan de Empleo Verde Rural.",
+    "tip": "Las medidas ciertas favorecen modelos sostenibles y pequeños.",
+    "source": {
+      "doc": "psoe",
+      "page": 70,
+      "section": "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-rural-006",
+    "doc": "psoe",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué propone el PSOE para facilitar la vivienda asequible en el medio rural?",
+    "options": [
+      "Alquiler para nuevos residentes y rehabilitación de viviendas vacías",
+      "Prohibir la compra de segundas residencias",
+      "Construir solo viviendas de lujo en pueblos pequeños",
+      "Trasladar las viviendas públicas a las capitales de provincia"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa plantea facilitar vivienda asequible en el medio rural con alquiler para nuevos residentes y rehabilitación de viviendas vacías, además de proteger la escuela rural.",
+    "tip": "Se aprovechan casas que ya existen para atraer población.",
+    "source": {
+      "doc": "psoe",
+      "page": 71,
+      "section": "Un mundo rural conectado y con futuro"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-territorio-001",
+    "doc": "psoe",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Cuántos millones de euros adicionales aportaría el nuevo sistema de financiación autonómica que el PSOE quiere impulsar?",
+    "options": [
+      "6.000",
+      "12.000",
+      "21.000",
+      "40.000"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "La financiación autonómica es el reparto de dinero entre el Estado y las comunidades. El PSOE quiere impulsar el nuevo sistema, aprobado en el Consejo de Política Fiscal y Financiera, que aportaría 21.000 millones de euros adicionales.",
+    "tip": "Es una cifra de decenas de miles de millones, pero menor que 40.000.",
+    "source": {
+      "doc": "psoe",
+      "page": 60,
+      "section": "Financiación territorial justa para garantizar los servicios públicos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-territorio-002",
+    "doc": "psoe",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Cómo se organizarían las circunscripciones electorales del Senado reformado que propone el PSOE?",
+    "options": [
+      "Coincidirían con las comunidades autónomas",
+      "Coincidirían con las provincias actuales",
+      "Serían una única circunscripción estatal",
+      "Se dividirían por municipios"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PSOE quiere que el Senado sea una auténtica cámara territorial, con circunscripciones que coincidan con las comunidades autónomas.",
+    "tip": "El objetivo es que el Senado represente a los territorios.",
+    "source": {
+      "doc": "psoe",
+      "page": 91,
+      "section": "Un Estado autonómico que funciona: cooperación, autogobierno y cohesión"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-territorio-003",
+    "doc": "psoe",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "El PSOE propone que el Estado asuma de forma parcial 38.000 millones de euros de la deuda autonómica.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El programa plantea avanzar en la asunción parcial por el Estado de 83.000 millones de euros de deuda autonómica.",
+    "tip": "Las dos cifras usan los mismos dígitos en orden distinto.",
+    "source": {
+      "doc": "psoe",
+      "page": 61,
+      "section": "Financiación territorial justa para garantizar los servicios públicos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-territorio-004",
+    "doc": "psoe",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "El PSOE propone institucionalizar la Conferencia de Presidentes con reuniones periódicas y aprobar una ley de cooperación interadministrativa.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. La Conferencia de Presidentes reúne al presidente del Gobierno con los presidentes autonómicos. El PSOE quiere que se reúna con regularidad y que exista una ley que regule la cooperación entre administraciones.",
+    "tip": "Va en la línea de más cooperación entre administraciones.",
+    "source": {
+      "doc": "psoe",
+      "page": 91,
+      "section": "Un Estado autonómico que funciona: cooperación, autogobierno y cohesión"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-territorio-005",
+    "doc": "psoe",
+    "topic": "territorio",
+    "type": "multi",
+    "question": "Marca todo lo que propone el PSOE sobre el modelo territorial:",
+    "options": [
+      "Consolidar el uso de las lenguas cooficiales en las Cortes Generales",
+      "Desarrollar el Régimen Económico y Fiscal de Canarias",
+      "Aprobar un plan integral para Ceuta y Melilla",
+      "Suprimir las diputaciones provinciales",
+      "Eliminar la Conferencia de Presidentes"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Las lenguas cooficiales son las que son oficiales en una comunidad junto al castellano. El PSOE quiere consolidar su uso en las Cortes, desarrollar el Régimen Económico y Fiscal de Canarias y aprobar un plan integral para Ceuta y Melilla.",
+    "tip": "Las medidas ciertas refuerzan el autogobierno y la cooperación, no la recentralización.",
+    "source": {
+      "doc": "psoe",
+      "page": 91,
+      "section": "Un Estado autonómico que funciona: cooperación, autogobierno y cohesión"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-instituciones-001",
+    "doc": "psoe",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Cuántos años duraría el mandato de la Fiscalía General que propone el PSOE?",
+    "options": [
+      "Tres años",
+      "Cuatro años",
+      "Cinco años",
+      "Seis años"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El PSOE propone dar a la Fiscalía General un mandato de cinco años y prohibir instrucciones del Gobierno en casos concretos.",
+    "tip": "Es un mandato más largo que el de cuatro años de una legislatura.",
+    "source": {
+      "doc": "psoe",
+      "page": 100,
+      "section": "Impulsar una justicia de calidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-instituciones-002",
+    "doc": "psoe",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "El PSOE propone rebajar la edad de voto a 16 años.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. La reforma plantea bajar la edad mínima de voto de los 18 a los 16 años, junto con otras medidas como suprimir los aforamientos por delitos ajenos al cargo.",
+    "tip": "Está relacionada con la participación política de la juventud.",
+    "source": {
+      "doc": "psoe",
+      "page": 90,
+      "section": "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "psoe-instituciones-003",
+    "doc": "psoe",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "El PSOE propone lograr juicios por despido y desahucio en un máximo de seis meses.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El objetivo del programa es lograr juicios por despido y desahucio en un máximo de tres meses, y el desalojo de viviendas ocupadas en 48 horas.",
+    "tip": "Fíjate en el plazo máximo: es un trimestre.",
+    "source": {
+      "doc": "psoe",
+      "page": 100,
+      "section": "Impulsar una justicia de calidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-instituciones-004",
+    "doc": "psoe",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone crear un escaño ciudadano sin voto en el Congreso y en el Senado?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "psoe"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El escaño ciudadano sin voto permitiría a la ciudadanía participar en las cámaras con voz pero sin voto. Es una propuesta del PSOE.",
+    "tip": "Es una figura de participación ciudadana dentro de las cámaras legislativas.",
+    "source": {
+      "doc": "psoe",
+      "page": 90,
+      "section": "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-instituciones-005",
+    "doc": "psoe",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "Marca todo lo que propone el PSOE sobre seguridad ciudadana:",
+    "options": [
+      "Una nueva Ley de Seguridad Ciudadana que sustituya a la de 2015",
+      "Cámaras corporales en la Policía Nacional y la Guardia Civil",
+      "Un servicio estatal para víctimas de ciberestafas",
+      "Mantener la Ley de Seguridad Ciudadana de 2015 sin cambios",
+      "Reducir la responsabilidad de bancos y operadoras ante ciberestafas"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Una ciberestafa es un fraude cometido por internet o por teléfono. El PSOE propone una nueva ley que sustituya a la de 2015, cámaras corporales y un servicio estatal de apoyo a víctimas, ampliando la responsabilidad de bancos y operadoras.",
+    "tip": "Las medidas ciertas son nuevas, no mantienen lo existente.",
+    "source": {
+      "doc": "psoe",
+      "page": 99,
+      "section": "Fomentar una seguridad ciudadana democrática"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-instituciones-006",
+    "doc": "psoe",
+    "topic": "instituciones",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa del PSOE sobre instituciones y transparencia?",
+    "options": [
+      "Una Agencia Independiente de Integridad",
+      "Un registro obligatorio de grupos de interés (lobbies)",
+      "Suprimir los aforamientos por delitos ajenos al cargo",
+      "Elegir por sufragio universal a los vocales del CGPJ"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Los aforamientos son un fuero especial por el que algunos cargos son juzgados por tribunales superiores. El PSOE propone suprimirlos en delitos ajenos al cargo, pero no la elección directa de los vocales del Consejo General del Poder Judicial.",
+    "tip": "Tres opciones están relacionadas con integridad y transparencia.",
+    "source": {
+      "doc": "psoe",
+      "page": 102,
+      "section": "Ampliar la democracia, transparencia e integridad pública"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-instituciones-007",
+    "doc": "psoe",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Qué garantía propone el PSOE en la relación de la ciudadanía con las administraciones?",
+    "options": [
+      "Que ninguna administración pida un documento que ya tiene",
+      "Que la cita previa sea obligatoria en todas las oficinas",
+      "Que los trámites solo puedan hacerse de forma presencial",
+      "Que cada trámite tenga una tasa adicional"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PSOE propone atender a cualquier persona sin cita previa en oficinas del Estado y garantizar que ninguna administración pida un documento que ya tiene.",
+    "tip": "Se trata de simplificar la vida de las personas.",
+    "source": {
+      "doc": "psoe",
+      "page": 101,
+      "section": "Alcanzar una administración pública de calidad para unos servicios públicos mejores"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "psoe-exterior-001",
+    "doc": "psoe",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Qué porcentaje de la renta nacional bruta (RNB) quiere destinar el PSOE a la Ayuda Oficial al Desarrollo?",
+    "options": [
+      "El 0,3 %",
+      "El 0,5 %",
+      "El 0,7 %",
+      "El 1 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "La Ayuda Oficial al Desarrollo es el dinero público que un país dedica a cooperar con países más pobres. El PSOE propone alcanzar el 0,7 % de la renta nacional bruta.",
+    "tip": "Es el objetivo que durante décadas ha recomendado Naciones Unidas.",
+    "source": {
+      "doc": "psoe",
+      "page": 107,
+      "section": "Defender el multilateralismo y la reforma de la gobernanza internacional"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-exterior-002",
+    "doc": "psoe",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "El PSOE propone elevar el gasto militar al 5 % del PIB.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El PSOE rechaza elevar el gasto militar al 5 % del PIB y defiende una defensa moderna sin ese aumento, con mayor participación en proyectos y compras conjuntas europeas.",
+    "tip": "Piensa en lo que el PSOE dice sobre el riesgo para el Estado del bienestar.",
+    "source": {
+      "doc": "psoe",
+      "page": 105,
+      "section": "España en Europa y en el mundo"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "psoe-exterior-003",
+    "doc": "psoe",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone que España participe como Estado observador en el Tratado de Prohibición de las Armas Nucleares?",
+    "options": [
+      "vox",
+      "pp",
+      "salf",
+      "psoe"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Un Estado observador participa en las reuniones de un tratado sin ser parte de él. El PSOE propone esta participación para reforzar el compromiso de España con el desarme.",
+    "tip": "La propuesta se enmarca en el desarme y la paz.",
+    "source": {
+      "doc": "psoe",
+      "page": 108,
+      "section": "Defender la paz, la seguridad, los derechos humanos y la justicia climática"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-exterior-004",
+    "doc": "psoe",
+    "topic": "exterior",
+    "type": "multi",
+    "question": "Marca todo lo que propone el PSOE para la Unión Europea:",
+    "options": [
+      "Hacer de la UE una unión política y fiscal",
+      "Superar los bloqueos de la unanimidad en las decisiones",
+      "Ampliar la UE a los Balcanes Occidentales",
+      "Abandonar la moneda única",
+      "Reducir las competencias del Parlamento Europeo"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "La unanimidad obliga a que todos los Estados estén de acuerdo para decidir, y permite bloqueos. El PSOE propone superarla, avanzar hacia una unión política y fiscal y ampliar la UE a los Balcanes Occidentales, reforzando el Parlamento Europeo.",
+    "tip": "El programa busca más integración, no menos.",
+    "source": {
+      "doc": "psoe",
+      "page": 109,
+      "section": "Avanzar hacia una Unión Europea más integrada y democrática"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-exterior-005",
+    "doc": "psoe",
+    "topic": "exterior",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa del PSOE sobre política exterior?",
+    "options": [
+      "Promover la solución de los dos Estados en Israel y Palestina",
+      "Participar como Estado observador en el Tratado de Prohibición de las Armas Nucleares",
+      "Impulsar la Unión Europea de la defensa",
+      "Reducir la ayuda al desarrollo por debajo del 0,3 % de la renta nacional bruta"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PSOE propone aumentar la ayuda al desarrollo hasta el 0,7 % de la renta nacional bruta, no reducirla. Las demás medidas sí están en su programa.",
+    "tip": "El programa plantea aumentar la cooperación, no recortarla.",
+    "source": {
+      "doc": "psoe",
+      "page": 109,
+      "section": "Avanzar hacia una Unión Europea más integrada y democrática"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-exterior-006",
+    "doc": "psoe",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "El PSOE propone estudiar una Circunscripción Exterior propia para elegir representantes de las personas españolas residentes fuera del país.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. Una circunscripción es el territorio por el que se elige a los representantes. El programa estudia crear una propia para quienes viven en el extranjero, junto con la simplificación del voto exterior.",
+    "tip": "Se trata de que quienes viven fuera tengan representantes propios.",
+    "source": {
+      "doc": "psoe",
+      "page": 112,
+      "section": "Garantizar la igualdad de derechos de los españoles en el mundo: ciudadanía con todos los derechos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-cultura-001",
+    "doc": "psoe",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿Qué porcentaje del PIB quiere alcanzar el PSOE en inversión pública en I+D en 2035?",
+    "options": [
+      "El 1,25 %",
+      "El 1,5 %",
+      "El 2 %",
+      "El 3 %"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "I+D significa investigación y desarrollo. El PSOE plantea llegar al 1,25 % del PIB y aumentar la ambición hasta el 1,5 % en 2035.",
+    "tip": "Es una cifra algo superior al objetivo inicial del 1,25 %.",
+    "source": {
+      "doc": "psoe",
+      "page": 16,
+      "section": "Ciencia e innovación para mejorar el futuro"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-cultura-002",
+    "doc": "psoe",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "El PSOE propone un abono de cine de 15 euros al mes para menores de 18 años.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El abono de cine de 15 euros al mes sería para menores de 25 años, junto con el refuerzo del Bono Cultural Joven.",
+    "tip": "Fíjate en el límite de edad del abono.",
+    "source": {
+      "doc": "psoe",
+      "page": 103,
+      "section": "Impulsar la cultura, un bien esencial de la gente, un deber público"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-cultura-003",
+    "doc": "psoe",
+    "topic": "cultura",
+    "type": "which_party",
+    "question": "¿Qué partido propone aprobar un marco pionero de protección de los neuroderechos?",
+    "options": [
+      "pp",
+      "psoe",
+      "vox",
+      "cc"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Los neuroderechos protegen la actividad cerebral y los datos mentales frente al uso de neurotecnologías. Esta propuesta aparece en el programa del PSOE junto con la Ley de Actividades Espaciales.",
+    "tip": "Tiene que ver con la protección del cerebro y de la información mental de las personas.",
+    "source": {
+      "doc": "psoe",
+      "page": 16,
+      "section": "Ciencia e innovación para mejorar el futuro"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "psoe-cultura-004",
+    "doc": "psoe",
+    "topic": "cultura",
+    "type": "multi",
+    "question": "Marca todo lo que propone el PSOE sobre inteligencia artificial:",
+    "options": [
+      "Una ley de gobernanza de la IA con supervisión humana",
+      "Etiquetar los contenidos generados con IA",
+      "Sanciones de hasta 35 millones de euros",
+      "Prohibir el uso de la IA en las universidades",
+      "Eximir a las plataformas de responsabilidad sobre sus algoritmos"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "La gobernanza de la IA es el conjunto de reglas que regulan su uso. El PSOE propone supervisión humana, etiquetado de contenidos generados con IA y sanciones de hasta 35 millones de euros.",
+    "tip": "Las medidas ciertas buscan controlar y hacer transparente la IA.",
+    "source": {
+      "doc": "psoe",
+      "page": 96,
+      "section": "Derechos en la era de la inteligencia artificial"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-cultura-005",
+    "doc": "psoe",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "El PSOE propone establecer los 16 años como edad mínima para usar redes sociales, con verificación obligatoria de la edad.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. El programa también plantea restringir los algoritmos adictivos y que los directivos respondan por los delitos que toleren sus plataformas.",
+    "tip": "Es una medida para proteger a la infancia y la juventud en entornos digitales.",
+    "source": {
+      "doc": "psoe",
+      "page": 95,
+      "section": "Proteger a la infancia y la juventud en los entornos digitales"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "psoe-cultura-006",
+    "doc": "psoe",
+    "topic": "cultura",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa del PSOE sobre cultura?",
+    "options": [
+      "Aprobar una Ley General de Cultura",
+      "Culminar el Estatuto del Artista",
+      "Reforzar el Bono Cultural Joven",
+      "Un abono de teatro gratuito para mayores de 65 años"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El PSOE propone una Ley General de Cultura, el Estatuto del Artista y reforzar el Bono Cultural Joven, pero no un abono de teatro gratuito para mayores de 65 años.",
+    "tip": "Tres de las medidas son leyes o ayudas ya mencionadas para creadores y jóvenes.",
+    "source": {
+      "doc": "psoe",
+      "page": 103,
+      "section": "Impulsar la cultura, un bien esencial de la gente, un deber público"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-cultura-007",
+    "doc": "psoe",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿Qué hoja de ruta de telecomunicaciones plantea aprobar el PSOE junto con un plan de ayudas a la banda ancha?",
+    "options": [
+      "Una Hoja de Ruta del 6G",
+      "Una Hoja de Ruta del 3G",
+      "Una Hoja de Ruta del wifi gratuito universal",
+      "Una Hoja de Ruta de la telefonía fija"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El 6G es la futura generación de redes móviles. El PSOE plantea aprobar su hoja de ruta junto con ayudas a la banda ancha y una ventanilla digital única.",
+    "tip": "Es la generación que sigue a la 5G.",
+    "source": {
+      "doc": "psoe",
+      "page": 18,
+      "section": "Una IA y una digitalización al servicio de la economía y las personas"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "psoe-otros-001",
+    "doc": "psoe",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿A qué organismo estaría vinculada la figura del Defensor de las Generaciones Futuras que propone el PSOE?",
+    "options": [
+      "Al Consejo de la Juventud de España",
+      "Al Defensor del Pueblo",
+      "Al Tribunal de Cuentas",
+      "Al Consejo de Estado"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El PSOE propone crear el Defensor de las Generaciones Futuras, vinculado al Consejo de la Juventud de España, y regular por ley los consejos de juventud.",
+    "tip": "El nombre del organismo recoge el sector de población al que representa.",
+    "source": {
+      "doc": "psoe",
+      "page": 90,
+      "section": "Juventud"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-otros-002",
+    "doc": "psoe",
+    "topic": "otros",
+    "type": "tf",
+    "question": "El PSOE propone desplegar el Estatuto del Deportista y extender la receta deportiva en la atención primaria.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdad. La receta deportiva es la recomendación de actividad física que prescribe el personal sanitario, como si fuera un tratamiento. Forma parte de una estrategia contra el sedentarismo.",
+    "tip": "Combina una norma para quienes compiten y una medida de salud pública.",
+    "source": {
+      "doc": "psoe",
+      "page": 55,
+      "section": "Deporte, fuente de bienestar"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-otros-003",
+    "doc": "psoe",
+    "topic": "otros",
+    "type": "which_party",
+    "question": "¿Qué partido propone culminar la resignificación del Valle de Cuelgamuros mediante la puesta en marcha de su Centro de Interpretación?",
+    "options": [
+      "pp",
+      "vox",
+      "salf",
+      "psoe"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "La resignificación consiste en dar un nuevo sentido a un lugar de memoria. El PSOE propone culminarla con un Centro de Interpretación en el Valle de Cuelgamuros.",
+    "tip": "Está relacionado con la memoria democrática.",
+    "source": {
+      "doc": "psoe",
+      "page": 98,
+      "section": "Proteger la memoria democrática"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "psoe-otros-004",
+    "doc": "psoe",
+    "topic": "otros",
+    "type": "multi",
+    "question": "Marca todo lo que propone el PSOE en memoria democrática:",
+    "options": [
+      "Completar el Plan de Exhumaciones",
+      "Ampliar la red de Lugares de Memoria Democrática y retirar la simbología franquista",
+      "Impulsar la memoria democrática en la educación y la investigación, con más cátedras universitarias",
+      "Cerrar el Centro de la Memoria Democrática",
+      "Suprimir el Censo de las Víctimas de la Guerra y la Dictadura"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Las exhumaciones son la recuperación e identificación de víctimas enterradas en fosas. El PSOE propone completar el plan, ampliar los lugares de memoria y reforzar la memoria democrática en educación e investigación.",
+    "tip": "Las medidas ciertas amplían y completan lo ya iniciado.",
+    "source": {
+      "doc": "psoe",
+      "page": 98,
+      "section": "Proteger la memoria democrática"
+    },
+    "difficulty": 3
   }
 ]

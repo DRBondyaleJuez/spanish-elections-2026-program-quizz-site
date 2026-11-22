@@ -68,5 +68,2305 @@
       "section": "Pensiones"
     },
     "difficulty": 2
+  },
+  {
+    "id": "erc-vivienda-001",
+    "doc": "erc",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "ERC propone que el Estado dedique al menos el 1,5 % del PIB a políticas de vivienda.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es una propuesta de ERC: multiplicar el gasto actual en vivienda y transferir esos fondos a las comunidades para ampliar el parque público de alquiler.",
+    "tip": "Es una cifra pequeña en apariencia, pero mucho mayor que el gasto actual.",
+    "source": {
+      "doc": "erc",
+      "page": 19,
+      "section": "Vivienda"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-vivienda-002",
+    "doc": "erc",
+    "topic": "vivienda",
+    "type": "which_party",
+    "question": "¿Qué partido propone delegar en la Generalitat la facultad de legislar sobre alquileres mediante el artículo 150.1 de la Constitución?",
+    "options": [
+      "erc",
+      "psoe",
+      "vox",
+      "cc"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El art. 150.1 permite al Estado delegar en las comunidades la facultad de legislar en materias de su competencia mediante una ley marco. ERC lo usaría para una ley de arrendamientos urbanos catalana.",
+    "tip": "Se trata de una delegación legislativa del Estado, no de una reforma de la Constitución.",
+    "source": {
+      "doc": "erc",
+      "page": 19,
+      "section": "Vivienda"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-vivienda-003",
+    "doc": "erc",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué propone ERC hacer con los inmuebles de la Sareb y de Casa 47?",
+    "options": [
+      "Venderlos a fondos de inversión para reducir el déficit",
+      "Traspasarlos de forma inmediata y gratuita a la Generalitat, con recursos para rehabilitarlos como vivienda protegida",
+      "Mantenerlos en manos del Estado y ampliar su alquiler social",
+      "Cederlos a los ayuntamientos a cambio de una compensación económica"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La Sareb era el llamado banco malo, que heredó pisos de la crisis inmobiliaria. ERC quiere que su patrimonio pase gratis a la Generalitat para convertirlo en vivienda protegida.",
+    "tip": "Hay dos palabras clave: inmediato y gratuito.",
+    "source": {
+      "doc": "erc",
+      "page": 19,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-vivienda-004",
+    "doc": "erc",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "ERC propone bajar el IVA y el ITP a quien compre una vivienda para uso turístico.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es lo contrario: ERC propone subir el IVA y el ITP en la compra para uso turístico, alquiler de temporada, segunda residencia o vivienda vacía, y bajarlos solo para la primera residencia.",
+    "tip": "Piensa en qué uso quiere penalizar fiscalmente el programa.",
+    "source": {
+      "doc": "erc",
+      "page": 19,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-vivienda-005",
+    "doc": "erc",
+    "topic": "vivienda",
+    "type": "multi",
+    "question": "Marca todas las compras de vivienda en las que ERC propone subir el IVA y el ITP.",
+    "options": [
+      "Vivienda para uso turístico",
+      "Segunda residencia",
+      "Primera residencia",
+      "Vivienda vacía"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "ERC quiere subir estos impuestos en usos turísticos, de temporada, segunda residencia o vivienda vacía, y bajarlos en la primera residencia. El ITP es el impuesto de transmisiones patrimoniales.",
+    "tip": "Para la vivienda habitual, el programa propone justo lo contrario.",
+    "source": {
+      "doc": "erc",
+      "page": 19,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-vivienda-006",
+    "doc": "erc",
+    "topic": "vivienda",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en las propuestas de vivienda de ERC?",
+    "options": [
+      "Venta o sustitución forzosa del suelo si el propietario no construye en plazo",
+      "Obligar a la Agencia Tributaria a publicar datos de compraventas y alquileres",
+      "Prohibir la compra de vivienda a personas no residentes",
+      "Nuevas limitaciones fiscales a fondos buitre y grandes tenedores"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "ERC propone gravar y limitar a los grandes tenedores y exigir datos públicos, pero no plantea prohibir la compra a no residentes.",
+    "tip": "Tres medidas buscan controlar a grandes propietarios y dar transparencia; una prohíbe una compra por residencia.",
+    "source": {
+      "doc": "erc",
+      "page": 20,
+      "section": "Vivienda"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-empleo-002",
+    "doc": "erc",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "ERC propone reducir la jornada máxima semanal a 37,5 horas sin bajar el sueldo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es una propuesta de ERC, junto con reforzar el registro horario digital y el derecho a la desconexión digital.",
+    "tip": "Es una reducción moderada respecto a las 40 horas actuales.",
+    "source": {
+      "doc": "erc",
+      "page": 26,
+      "section": "Derechos laborales"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-empleo-003",
+    "doc": "erc",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "ERC propone subir el SMI estatal hasta el 80 % del salario medio bruto.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa plantea llegar al 60 % del salario medio bruto (el SMI es el salario mínimo interprofesional). Además, quiere que Cataluña pueda fijar uno propio de 1.460 euros.",
+    "tip": "La cifra es menor que ese 80 %: ronda las tres quintas partes.",
+    "source": {
+      "doc": "erc",
+      "page": 20,
+      "section": "Empleo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-empleo-004",
+    "doc": "erc",
+    "topic": "empleo",
+    "type": "single",
+    "question": "Sobre el despido improcedente, ¿qué indemnización quiere recuperar ERC?",
+    "options": [
+      "20 días por año trabajado con un máximo de 12 mensualidades",
+      "33 días por año con un máximo de 24 mensualidades",
+      "45 días por año con un máximo de 42 mensualidades",
+      "60 días por año sin máximo"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "ERC propone derogar lo que sigue vigente de las reformas laborales de 2010 y 2012 y recuperar los 45 días por año (máximo 42 mensualidades) y la autorización previa en despidos colectivos.",
+    "tip": "Es la cifra más alta del sistema anterior a 2012.",
+    "source": {
+      "doc": "erc",
+      "page": 26,
+      "section": "Derechos laborales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-empleo-005",
+    "doc": "erc",
+    "topic": "empleo",
+    "type": "multi",
+    "question": "Marca todas las medidas para autónomos que propone ERC.",
+    "options": [
+      "Cotización según ingresos reales",
+      "Cuota reducida si ganan menos que el SMI",
+      "Cuota cero en caso de enfermedad grave",
+      "Una tarifa única fija igual para todos los autónomos"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "ERC plantea que quien menos gana menos cotice, con nuevos tramos para ingresos altos. Lo contrario de una cuota única igual para todos.",
+    "tip": "El principio general es que la cuota dependa de lo que se gana.",
+    "source": {
+      "doc": "erc",
+      "page": 26,
+      "section": "Derechos laborales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-empleo-006",
+    "doc": "erc",
+    "topic": "empleo",
+    "type": "which_party",
+    "question": "¿Qué partido propone eliminar el tope de la indemnización por despidos sin causa, siguiendo una decisión del Comité Europeo de Derechos Sociales?",
+    "options": [
+      "erc",
+      "pp",
+      "vox",
+      "cc"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El Comité Europeo de Derechos Sociales consideró que una indemnización con tope puede no ser disuasoria. ERC propone quitar ese tope para que lo sea.",
+    "tip": "Su argumento es que el despido debe resultar caro para las empresas.",
+    "source": {
+      "doc": "erc",
+      "page": 26,
+      "section": "Derechos laborales"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-empleo-007",
+    "doc": "erc",
+    "topic": "empleo",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO figura en el programa de ERC en materia laboral?",
+    "options": [
+      "Representación de los trabajadores en los consejos de administración",
+      "Facilitar demandas contra falsos autónomos",
+      "Un contrato único con indemnización creciente en lugar de los contratos actuales",
+      "Derecho a la desconexión digital"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "ERC plantea reforzar derechos con representación en consejos, defensa frente a falsos autónomos y desconexión digital, pero no propone un contrato único.",
+    "tip": "Tres medidas amplían derechos concretos; la otra cambiaría todo el sistema de contratos.",
+    "source": {
+      "doc": "erc",
+      "page": 27,
+      "section": "Derechos laborales"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-empleo-008",
+    "doc": "erc",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué propone ERC sobre las camareras de piso de los hoteles?",
+    "options": [
+      "Prohibir externalizar sus tareas ordinarias",
+      "Reducir su jornada a 30 horas",
+      "Pagarles un plus fijo de peligrosidad",
+      "Permitir que se contraten solo por temporadas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Las camareras de piso suelen ser contratadas a través de empresas externas. ERC quiere prohibir esa externalización para las tareas ordinarias.",
+    "tip": "Se trata de quién las contrata, no de cuánto cobran.",
+    "source": {
+      "doc": "erc",
+      "page": 28,
+      "section": "Condiciones laborales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-economia-001",
+    "doc": "erc",
+    "topic": "economia",
+    "type": "tf",
+    "question": "ERC propone acabar con la ley Beckham, que permite tributar como no residente durante seis años a quien llega del extranjero.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa propone eliminarla, y también el régimen fiscal favorable a teletrabajadores internacionales.",
+    "tip": "Es una propuesta de ERC, en la línea de más impuestos a rentas altas.",
+    "source": {
+      "doc": "erc",
+      "page": 22,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-economia-002",
+    "doc": "erc",
+    "topic": "economia",
+    "type": "single",
+    "question": "ERC propone subir el tipo máximo sobre las ganancias de capital del 30 % a:",
+    "options": [
+      "32 %",
+      "35 %",
+      "40 %",
+      "45 %"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es parte de su reforma social del IRPF (impuesto sobre la renta): subir el tipo a ganancias de capital y bajar los del trabajo para rentas inferiores a 35.000 euros.",
+    "tip": "Son cinco puntos porcentuales más.",
+    "source": {
+      "doc": "erc",
+      "page": 21,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-economia-003",
+    "doc": "erc",
+    "topic": "economia",
+    "type": "tf",
+    "question": "ERC propone que el impuesto extraordinario a la banca se mantenga solo de forma temporal.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa propone convertirlo en permanente, igual que el impuesto de solidaridad a las grandes fortunas, y recuperar el de las grandes energéticas.",
+    "tip": "Mira el adjetivo con el que el programa lo describe: no es provisional.",
+    "source": {
+      "doc": "erc",
+      "page": 22,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-economia-004",
+    "doc": "erc",
+    "topic": "economia",
+    "type": "multi",
+    "question": "Marca todos los impuestos o gravámenes que ERC propone hacer permanentes o recuperar.",
+    "options": [
+      "Impuesto de solidaridad a las grandes fortunas",
+      "Impuesto a las grandes energéticas",
+      "Impuesto extraordinario a la banca",
+      "Impuesto de sociedades reducido al 15 % para todas las empresas"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "ERC plantea hacer permanentes los de grandes fortunas y banca, y recuperar el de las energéticas. No propone una rebaja general de sociedades.",
+    "tip": "Los tres se aplican a grandes patrimonios o grandes empresas.",
+    "source": {
+      "doc": "erc",
+      "page": 22,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-economia-005",
+    "doc": "erc",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone completar la licencia bancaria plena del Instituto Catalán de Finanzas?",
+    "options": [
+      "erc",
+      "psoe",
+      "pp",
+      "vox"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El Institut Català de Finances es el banco público de la Generalitat. ERC quiere que obtenga una licencia bancaria plena, junto con un servicio bancario universal.",
+    "tip": "Es una entidad financiera pública de una comunidad concreta.",
+    "source": {
+      "doc": "erc",
+      "page": 22,
+      "section": "Servicios financieros"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-economia-006",
+    "doc": "erc",
+    "topic": "economia",
+    "type": "which_not",
+    "question": "¿Cuál NO es una propuesta económica de ERC?",
+    "options": [
+      "Contratación pública dividida en lotes para facilitar la participación de pymes",
+      "Morosidad cero: cumplir los plazos de pago",
+      "Eliminar el impuesto de solidaridad a las grandes fortunas",
+      "Servicio bancario universal con efectivo y atención presencial en cada municipio"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "ERC propone hacer permanente ese impuesto y subir su tipo a patrimonios de más de 10 millones, no eliminarlo.",
+    "tip": "Una de las opciones contradice la línea fiscal del programa.",
+    "source": {
+      "doc": "erc",
+      "page": 22,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-economia-007",
+    "doc": "erc",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Con qué plantea ERC sustituir los PERTE, que acaban en 2026?",
+    "options": [
+      "Con ayudas directas a todas las grandes empresas",
+      "Con proyectos estratégicos descentralizados dentro de una política industrial activa",
+      "Con una rebaja general del impuesto de sociedades",
+      "Con un plan estatal centralizado de inversión pública"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Los PERTE son proyectos estratégicos de recuperación y transformación económica ligados a fondos europeos. ERC pide sustituirlos por proyectos descentralizados, con apoyo al vehículo eléctrico y al clúster químico de Tarragona.",
+    "tip": "Lo importante es quién decide y gestiona: no es un plan centralizado.",
+    "source": {
+      "doc": "erc",
+      "page": 29,
+      "section": "Política industrial"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-economia-008",
+    "doc": "erc",
+    "topic": "economia",
+    "type": "tf",
+    "question": "ERC propone obligar a ofrecer servicio bancario universal, con efectivo y atención presencial en cada municipio.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es una propuesta de ERC pensada para evitar que los municipios pequeños se queden sin oficinas ni cajeros.",
+    "tip": "Se refiere a que ningún municipio quede sin servicio financiero básico.",
+    "source": {
+      "doc": "erc",
+      "page": 22,
+      "section": "Servicios financieros"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-pensiones-002",
+    "doc": "erc",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿A qué colectivo cita especialmente ERC al proponer la jubilación anticipada sin penalización en profesiones penosas o peligrosas?",
+    "options": [
+      "Conductores profesionales de transporte por carretera",
+      "Personal docente universitario",
+      "Empleados de banca",
+      "Funcionarios de administración local"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "ERC pide jubilación anticipada sin penalización para oficios penosos o peligrosos, en especial conductores profesionales, y aprobar de inmediato la de los Agentes Rurales.",
+    "tip": "Es un colectivo que pasa muchas horas en la carretera.",
+    "source": {
+      "doc": "erc",
+      "page": 26,
+      "section": "Pensiones"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-pensiones-003",
+    "doc": "erc",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "ERC propone una prestación universal por crianza de 1.000 euros por familia, igual en todos los territorios.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La propuesta es una prestación desde 200 euros por familia, más alta en territorios con mayor coste de vida.",
+    "tip": "El programa cita una cifra mucho menor y añade que varía según el territorio.",
+    "source": {
+      "doc": "erc",
+      "page": 21,
+      "section": "Prestación por crianza"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-pensiones-004",
+    "doc": "erc",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Qué propone ERC para los mutualistas?",
+    "options": [
+      "Que tengan una pensión no contributiva",
+      "Garantizar su integración en el RETA reconociendo todos los años aportados como cotizados",
+      "Que cobren la pensión mínima sin condiciones",
+      "Trasladar sus cotizaciones a un plan privado"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Los mutualistas cotizaron a mutualidades profesionales; el RETA es el régimen especial de trabajadores autónomos. ERC quiere que todos esos años cuenten como cotizados.",
+    "tip": "Se busca que no pierdan años de cotización al integrarse.",
+    "source": {
+      "doc": "erc",
+      "page": 27,
+      "section": "Pensiones"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-pensiones-005",
+    "doc": "erc",
+    "topic": "pensiones",
+    "type": "which_party",
+    "question": "¿Qué partido propone adaptar el ingreso mínimo vital al coste de la vida en Cataluña?",
+    "options": [
+      "erc",
+      "pp",
+      "vox",
+      "cc"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El ingreso mínimo vital (IMV) es la prestación estatal contra la pobreza. ERC quiere ajustarlo al coste de la vida catalán y prohibir de forma permanente cortes de suministro a hogares vulnerables.",
+    "tip": "Se trata de ajustar una ayuda estatal a un territorio concreto.",
+    "source": {
+      "doc": "erc",
+      "page": 28,
+      "section": "Protección social"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-pensiones-006",
+    "doc": "erc",
+    "topic": "pensiones",
+    "type": "multi",
+    "question": "Marca todas las medidas de protección social que propone ERC.",
+    "options": [
+      "Blindar la revalorización de las pensiones con la inflación",
+      "Crear una prestación universal por crianza",
+      "Hacer permanente la prohibición de cortes de suministro a hogares vulnerables",
+      "Elevar la edad legal de jubilación a 69 años"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Las tres primeras están en el programa. ERC no propone retrasar la edad de jubilación.",
+    "tip": "Una de las opciones recortaría derechos, y el programa defiende lo contrario.",
+    "source": {
+      "doc": "erc",
+      "page": 26,
+      "section": "Pensiones"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-pensiones-007",
+    "doc": "erc",
+    "topic": "pensiones",
+    "type": "which_not",
+    "question": "¿Cuál NO propone ERC sobre las pensiones?",
+    "options": [
+      "Revalorizar según el IPC de cada territorio",
+      "Jubilación anticipada para los Agentes Rurales",
+      "Reconocer todos los años aportados por los mutualistas",
+      "Introducir un sistema de capitalización individual en lugar del actual"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "ERC defiende un sistema público reforzado, sin recortes ni privatización. La capitalización individual iría en dirección contraria.",
+    "tip": "El programa habla de sistema público sin privatización.",
+    "source": {
+      "doc": "erc",
+      "page": 26,
+      "section": "Pensiones"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-sanidad-001",
+    "doc": "erc",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "ERC propone garantizar la financiación de la Ley de Dependencia con 2.018 millones adicionales en 2026 y 7.200 millones en 2027, con el 50 % a cargo del Estado.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La Ley de Dependencia financia la atención a personas que no pueden valerse por sí mismas. ERC pide que el Estado asuma la mitad del coste y fija esas cantidades.",
+    "tip": "Las cifras de 2027 son bastante mayores que las de 2026.",
+    "source": {
+      "doc": "erc",
+      "page": 41,
+      "section": "Sanidad y dependencia"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-sanidad-002",
+    "doc": "erc",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué propone ERC en relación con la vista dentro de la cartera pública de servicios de salud?",
+    "options": [
+      "Incluir la atención oftalmológica y optométrica y financiar gafas graduadas y lentillas",
+      "Pagar solo las gafas a menores de 14 años",
+      "Mantener estos servicios fuera de la sanidad pública",
+      "Financiar únicamente las operaciones de cataratas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "ERC quiere incorporar la atención oftalmológica y optométrica a la cartera común del Sistema Nacional de Salud y financiar gafas y lentillas con acceso universal.",
+    "tip": "Acceso universal significa para todo el mundo, sin distinguir edad.",
+    "source": {
+      "doc": "erc",
+      "page": 42,
+      "section": "Prestaciones sanitarias"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-sanidad-003",
+    "doc": "erc",
+    "topic": "sanidad",
+    "type": "which_party",
+    "question": "¿Qué partido propone atención dental integral y gratuita (revisiones, caries, endodoncias y prótesis) dentro del sistema público?",
+    "options": [
+      "erc",
+      "pp",
+      "vox",
+      "cc"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Una endodoncia es el tratamiento del nervio de un diente. ERC quiere que el Estado asuma el coste de la ampliación de recursos humanos y materiales.",
+    "tip": "Es una ampliación de lo que cubre hoy la sanidad pública.",
+    "source": {
+      "doc": "erc",
+      "page": 42,
+      "section": "Prestaciones sanitarias"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-sanidad-004",
+    "doc": "erc",
+    "topic": "sanidad",
+    "type": "multi",
+    "question": "Marca todas las prestaciones que ERC propone incluir en la sanidad pública.",
+    "options": [
+      "Gafas graduadas y lentillas",
+      "Atención dental integral y gratuita",
+      "Atención psicológica y salud mental con acceso universal",
+      "Un copago por cada consulta de atención primaria"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "ERC propone ampliar prestaciones con acceso universal. Un copago iría en contra de su defensa de una sanidad pública universal.",
+    "tip": "Una de las opciones obligaría a pagar por usar el servicio.",
+    "source": {
+      "doc": "erc",
+      "page": 42,
+      "section": "Prestaciones sanitarias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-sanidad-005",
+    "doc": "erc",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "ERC propone que el Estado asuma el 30 % de la financiación de la Ley de Dependencia.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La propuesta es que el Estado asuma el 50 % del coste, no el 30 %.",
+    "tip": "Es la mitad del total.",
+    "source": {
+      "doc": "erc",
+      "page": 41,
+      "section": "Sanidad y dependencia"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-sanidad-006",
+    "doc": "erc",
+    "topic": "sanidad",
+    "type": "which_not",
+    "question": "¿Cuál NO es una propuesta de ERC en materia de sanidad?",
+    "options": [
+      "Blindar las competencias de la Generalitat en salud e impedir la recentralización",
+      "Aumentar de forma estructural la financiación estatal a las administraciones sanitarias",
+      "Frenar la privatización de la sanidad y reducir las listas de espera",
+      "Crear un seguro sanitario privado obligatorio para toda la población"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "ERC defiende una sanidad pública universal y de gestión pública, y quiere frenar la privatización.",
+    "tip": "Tres opciones refuerzan lo público; una lo sustituiría.",
+    "source": {
+      "doc": "erc",
+      "page": 41,
+      "section": "Sanidad y dependencia"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-educacion-001",
+    "doc": "erc",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "ERC propone destinar el 6 % del PIB estatal a educación.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El objetivo es reforzar la escuela pública, reducir ratios (alumnos por aula) y mejorar los salarios del profesorado.",
+    "tip": "Es una cifra de un solo dígito expresada como porcentaje del PIB.",
+    "source": {
+      "doc": "erc",
+      "page": 11,
+      "section": "Educación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-educacion-002",
+    "doc": "erc",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Qué propone ERC para la educación de 0 a 3 años?",
+    "options": [
+      "Una plaza pública y gratuita para todos los niños, financiada por el Estado, con implantación progresiva",
+      "Ayudas fiscales solo para familias con rentas altas",
+      "Dejarla exclusivamente en manos de la iniciativa privada",
+      "Hacerla obligatoria desde los dos años"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "ERC pide que el Estado financie una plaza educativa pública y gratuita para todos los niños de esa edad, con un calendario progresivo.",
+    "tip": "El programa habla de universalidad y gratuidad.",
+    "source": {
+      "doc": "erc",
+      "page": 11,
+      "section": "Educación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-educacion-003",
+    "doc": "erc",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "ERC propone aumentar la inversión estatal en universidades hasta el 3 % del PIB en 2030.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La cifra del programa es el 1 % del PIB en 2030 para universidades, y el 1,5 % del PIB para investigación, según prevén las leyes universitaria y de ciencia.",
+    "tip": "El objetivo para universidades es mucho menor que el que se destina a educación en general.",
+    "source": {
+      "doc": "erc",
+      "page": 45,
+      "section": "Universidades e investigación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-educacion-004",
+    "doc": "erc",
+    "topic": "educacion",
+    "type": "which_party",
+    "question": "¿Qué partido propone eliminar el distrito único universitario y dar a la agencia catalana AQU las competencias de evaluación y acreditación que hoy tiene la ANECA?",
+    "options": [
+      "erc",
+      "psoe",
+      "pp",
+      "vox"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La ANECA es la agencia estatal que acredita al profesorado y los títulos. ERC quiere que esas funciones las ejerza la agencia catalana AQU.",
+    "tip": "Se trata de pasar funciones de una agencia estatal a una catalana.",
+    "source": {
+      "doc": "erc",
+      "page": 45,
+      "section": "Universidades e investigación"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-educacion-005",
+    "doc": "erc",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Qué quiere impedir ERC con un cambio de la ley estatal en materia lingüística escolar?",
+    "options": [
+      "Que se impongan porcentajes lingüísticos a los centros",
+      "Que se enseñe castellano en la escuela",
+      "Que haya clases en inglés",
+      "Que los centros elijan su calendario"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "ERC defiende el catalán como lengua vehicular y la inmersión lingüística, y quiere cambiar la ley estatal para evitar cuotas de lengua impuestas a los centros.",
+    "tip": "Lo que se quiere evitar viene del Estado, no de los centros.",
+    "source": {
+      "doc": "erc",
+      "page": 11,
+      "section": "Escuela catalana"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-educacion-006",
+    "doc": "erc",
+    "topic": "educacion",
+    "type": "multi",
+    "question": "Marca todas las medidas ERC sobre el personal investigador y docente universitario.",
+    "options": [
+      "Reducir la precariedad",
+      "Acelerar la contratación indefinida",
+      "Eliminar las tasas de reposición",
+      "Crear un examen estatal único para acceder a las plazas"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "La tasa de reposición limita cuántas plazas pueden cubrirse al jubilarse alguien. ERC propone eliminarla para dar estabilidad al personal.",
+    "tip": "Las tres medidas reducen la inestabilidad laboral.",
+    "source": {
+      "doc": "erc",
+      "page": 45,
+      "section": "Universidades e investigación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-educacion-007",
+    "doc": "erc",
+    "topic": "educacion",
+    "type": "which_not",
+    "question": "¿Cuál NO es una propuesta educativa de ERC?",
+    "options": [
+      "Competencias exclusivas en educación para la Generalitat",
+      "Que la Generalitat elabore los currículums de las etapas obligatorias",
+      "Un sistema único de formación profesional gestionado por la Generalitat",
+      "Introducir un cheque escolar para elegir centro con financiación pública"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "ERC defiende un modelo de escuela pública, laica, gratuita y de calidad y no propone un cheque escolar.",
+    "tip": "El cheque escolar financia centros elegidos por las familias, lo contrario de reforzar la red pública.",
+    "source": {
+      "doc": "erc",
+      "page": 11,
+      "section": "Educación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-educacion-008",
+    "doc": "erc",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Qué propone ERC para la formación profesional (FP)?",
+    "options": [
+      "Integrar la FP del sistema educativo, la del empleo y la de la empresa en un único sistema gestionado por la Generalitat",
+      "Que sea gestionada íntegramente por el Estado",
+      "Eliminar la FP dual",
+      "Trasladarla por completo a las empresas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Hoy la FP está repartida entre educación, empleo y empresas. ERC la unificaría y la conectaría con universidad e investigación.",
+    "tip": "Aparecen tres ámbitos que se unen en uno.",
+    "source": {
+      "doc": "erc",
+      "page": 27,
+      "section": "Formación profesional"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-igualdad-001",
+    "doc": "erc",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "ERC propone crear un permiso laboral retribuido por duelo gestacional entre la semana 6 y el día 179 de gestación.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Desde el día 180 plantea igualar los derechos de ambos progenitores ante la pérdida gestacional.",
+    "tip": "Se refiere a una pérdida gestacional anterior a la semana 26.",
+    "source": {
+      "doc": "erc",
+      "page": 24,
+      "section": "Igualdad"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-igualdad-002",
+    "doc": "erc",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Qué propone ERC sobre la violencia vicaria?",
+    "options": [
+      "Aprobar una regulación específica y reformar la LO 1/2004 para proteger frente a todas las violencias machistas",
+      "Incluirla solo en el Código Civil",
+      "Derogar la LO 1/2004",
+      "Dejarla fuera de las leyes contra la violencia de género"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La violencia vicaria es el daño a hijos u otras personas queridas para hacer sufrir a la mujer. La LO 1/2004 es la ley de violencia de género.",
+    "tip": "Se propone una norma propia además de la reforma de la ley existente.",
+    "source": {
+      "doc": "erc",
+      "page": 24,
+      "section": "Igualdad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-igualdad-003",
+    "doc": "erc",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "ERC propone penalizar también el acompañamiento psicológico voluntario en las terapias de conversión.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "ERC propone perseguir penalmente los casos graves o coercitivos, sin penalizar el acompañamiento psicológico voluntario.",
+    "tip": "La propuesta distingue entre coerción y acompañamiento voluntario.",
+    "source": {
+      "doc": "erc",
+      "page": 24,
+      "section": "Igualdad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-igualdad-004",
+    "doc": "erc",
+    "topic": "igualdad",
+    "type": "which_party",
+    "question": "¿Qué partido propone reconocer legalmente las identidades no binarias, sin requisitos patologizantes?",
+    "options": [
+      "erc",
+      "pp",
+      "vox",
+      "cc"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Patologizante significa tratar una identidad como una enfermedad. ERC pide un reconocimiento legal sin esos requisitos.",
+    "tip": "Se trata de un reconocimiento en la ley, no solo social.",
+    "source": {
+      "doc": "erc",
+      "page": 24,
+      "section": "Igualdad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-igualdad-005",
+    "doc": "erc",
+    "topic": "igualdad",
+    "type": "multi",
+    "question": "Marca todas las medidas de apoyo a las familias que propone ERC.",
+    "options": [
+      "Equiparar las familias monoparentales a las numerosas",
+      "Cotizaciones públicas para personas cuidadoras familiares no profesionales",
+      "Permiso retribuido por duelo gestacional",
+      "Reducir el permiso de nacimiento a 12 semanas"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Las tres primeras están en el programa. ERC no propone recortar permisos.",
+    "tip": "Una opción recortaría derechos de cuidado.",
+    "source": {
+      "doc": "erc",
+      "page": 24,
+      "section": "Igualdad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-igualdad-006",
+    "doc": "erc",
+    "topic": "igualdad",
+    "type": "which_not",
+    "question": "¿Cuál NO propone ERC?",
+    "options": [
+      "Una ley integral contra la trata y la explotación de seres humanos",
+      "Combatir la discriminación racial en el empleo y la vivienda",
+      "Igualar los derechos de ambos progenitores ante la pérdida gestacional",
+      "Eliminar la ley de violencia de género e integrarla en una ley de violencia familiar"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "ERC quiere reformar y ampliar la protección frente a las violencias machistas, no eliminar la ley.",
+    "tip": "Una opción sustituiría la perspectiva de género.",
+    "source": {
+      "doc": "erc",
+      "page": 24,
+      "section": "Igualdad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-igualdad-007",
+    "doc": "erc",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Qué exige ERC a las plataformas digitales en la lucha contra el racismo?",
+    "options": [
+      "Más responsabilidad frente al odio",
+      "Que cierren las cuentas anónimas",
+      "Que cobren una tasa por cada mensaje",
+      "Que no moderen ningún contenido"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "ERC propone combatir la discriminación racial, perseguir a las organizaciones racistas y exigir más responsabilidad a las plataformas frente a los discursos de odio.",
+    "tip": "Es una exigencia de responsabilidad, no una prohibición general.",
+    "source": {
+      "doc": "erc",
+      "page": 25,
+      "section": "Antirracismo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-inmigracion-001",
+    "doc": "erc",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "ERC propone traspasar a Cataluña las competencias integrales en migración y asilo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Esto incluiría acogida, evaluación de necesidades e integración con enfoque de derechos humanos.",
+    "tip": "Es coherente con su demanda de más competencias para la Generalitat.",
+    "source": {
+      "doc": "erc",
+      "page": 14,
+      "section": "Inmigración"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-inmigracion-002",
+    "doc": "erc",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Qué propone ERC sobre el Reglamento europeo de Retorno?",
+    "options": [
+      "Condicionar su aplicación a garantías de derechos fundamentales y rechazar centros de retorno en terceros países",
+      "Aplicarlo sin cambios",
+      "Derogarlo en toda la UE de inmediato",
+      "Aplicarlo solo en Cataluña"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El reglamento regula el retorno de personas sin permiso de residencia. ERC quiere evitar deportaciones automáticas.",
+    "tip": "Las palabras clave son condicionar y garantías.",
+    "source": {
+      "doc": "erc",
+      "page": 14,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-inmigracion-003",
+    "doc": "erc",
+    "topic": "inmigracion",
+    "type": "which_party",
+    "question": "¿Qué partido propone rechazar la creación de centros de retorno en países terceros?",
+    "options": [
+      "erc",
+      "pp",
+      "vox",
+      "salf"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Los centros de retorno enviarían a personas migrantes a países distintos del suyo. ERC los rechaza.",
+    "tip": "El partido que lo propone defiende un enfoque de derechos humanos.",
+    "source": {
+      "doc": "erc",
+      "page": 14,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-inmigracion-004",
+    "doc": "erc",
+    "topic": "inmigracion",
+    "type": "multi",
+    "question": "Marca todas las propuestas de ERC en materia de asilo y fronteras.",
+    "options": [
+      "Acabar con la externalización de las fronteras",
+      "Una nueva ley de asilo que impida tramitar solicitudes en países terceros sin vínculo con el solicitante",
+      "Ampliar las vías legales y seguras de migración",
+      "Ampliar los centros de internamiento de extranjeros"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "ERC apuesta por vías legales y seguras y contra externalizar fronteras. No propone ampliar los CIE.",
+    "tip": "Ninguna de las tres primeras supone más internamientos.",
+    "source": {
+      "doc": "erc",
+      "page": 17,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-inmigracion-005",
+    "doc": "erc",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "ERC propone que las solicitudes de asilo puedan tramitarse en países terceros sin vínculo con la persona solicitante.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es lo contrario: ERC propone una nueva ley de asilo que lo impida.",
+    "tip": "Piensa en si el programa quiere externalizar o evitar la externalización.",
+    "source": {
+      "doc": "erc",
+      "page": 17,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-medioambiente-001",
+    "doc": "erc",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "ERC propone cumplir una reducción de emisiones de CO2 de al menos el 65 % en 2030 y el 95 % en 2040 respecto a 1990.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Son los objetivos climáticos que el programa propone cumplir, tomando como año de referencia 1990.",
+    "tip": "El objetivo de 2040 es casi la eliminación total de emisiones.",
+    "source": {
+      "doc": "erc",
+      "page": 32,
+      "section": "Clima"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-medioambiente-002",
+    "doc": "erc",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "ERC propone ampliar el autoconsumo compartido hasta 50 km en cualquier territorio.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La propuesta es ampliarlo hasta 10 km con carácter general y hasta 20 km en áreas rurales. El autoconsumo compartido permite que varios consumidores usen la energía de una misma instalación.",
+    "tip": "Las distancias del programa son mucho más cortas y dependen de la zona.",
+    "source": {
+      "doc": "erc",
+      "page": 30,
+      "section": "Energía"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-medioambiente-003",
+    "doc": "erc",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿A cuántas hectáreas propone ERC ampliar la ZEPA del Delta del Llobregat, que hoy tiene 935?",
+    "options": [
+      "1.200 hectáreas",
+      "2.372 hectáreas",
+      "5.000 hectáreas",
+      "10.000 hectáreas"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Una ZEPA es una zona de especial protección para las aves, figura de protección europea. ERC propone ampliar la del Delta del Llobregat de 935 a 2.372 hectáreas.",
+    "tip": "Más que duplica la superficie actual, pero no llega a las 3.000 hectáreas.",
+    "source": {
+      "doc": "erc",
+      "page": 32,
+      "section": "Biodiversidad y agua"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-medioambiente-004",
+    "doc": "erc",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Cuántos puntos de recarga de más de 350 kW propone ERC conseguir antes de 2030?",
+    "options": [
+      "500",
+      "1.000",
+      "4.000",
+      "20.000"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Son puntos de recarga ultrarrápida, pensados para vehículos pesados. El programa también propone ayudas para camiones de cero emisiones.",
+    "tip": "Es una cifra de millar bajo, no de decenas de miles.",
+    "source": {
+      "doc": "erc",
+      "page": 31,
+      "section": "Movilidad sostenible"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-medioambiente-005",
+    "doc": "erc",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "Marca todas las medidas de energía y fiscalidad ambiental que propone ERC.",
+    "options": [
+      "Traspasar a la Generalitat las centrales hidroeléctricas cuando caduquen las concesiones",
+      "Condicionar las líneas de muy alta tensión a un informe favorable de biodiversidad de la Generalitat",
+      "Eliminar las exenciones fiscales al combustible de aviación y navegación",
+      "Construir nuevas centrales nucleares"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "ERC propone más peso de la Generalitat en energía y fiscalidad verde. Además, habla de un Fondo de Transición Nuclear, no de construir nuevas centrales.",
+    "tip": "Una de las opciones va en dirección contraria a un modelo 100 % renovable.",
+    "source": {
+      "doc": "erc",
+      "page": 30,
+      "section": "Energía"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-medioambiente-006",
+    "doc": "erc",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone que el Estado aporte al Fondo de Transición Nuclear de la Generalitat una cantidad equivalente a la catalana?",
+    "options": [
+      "erc",
+      "pp",
+      "vox",
+      "psoe"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El fondo se nutre de la recaudación del impuesto sobre instalaciones con impacto ambiental. ERC pide que el Estado aporte lo mismo que Cataluña.",
+    "tip": "El fondo es de una administración autonómica concreta.",
+    "source": {
+      "doc": "erc",
+      "page": 31,
+      "section": "Transición energética"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-medioambiente-007",
+    "doc": "erc",
+    "topic": "medioambiente",
+    "type": "which_not",
+    "question": "¿Cuál NO es una propuesta de ERC sobre medio ambiente y energía?",
+    "options": [
+      "Un modelo energético 100 % renovable, distribuido y de proximidad",
+      "Compartir el autoconsumo hasta 10 km en general y 20 km en zonas rurales",
+      "Prolongar la vida útil de las centrales nucleares",
+      "Modificar el Plan Hidrológico del Ebro para garantizar caudales ecológicos"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "ERC apuesta por renovables y por un fondo para la transición nuclear, no por alargar la vida de las centrales.",
+    "tip": "Tres opciones son coherentes con un modelo renovable.",
+    "source": {
+      "doc": "erc",
+      "page": 29,
+      "section": "Energía"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-medioambiente-008",
+    "doc": "erc",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué plan propone modificar ERC para garantizar caudales ecológicos y proteger el Delta?",
+    "options": [
+      "El Plan Hidrológico del Ebro",
+      "El Plan Nacional de Carreteras",
+      "El Plan de Vivienda 2026-2030",
+      "El Plan Estratégico de la PAC"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Los caudales ecológicos son el agua mínima que debe llevar un río para mantener sus ecosistemas, en este caso el Delta del Ebro.",
+    "tip": "El nombre del río y el del delta coinciden.",
+    "source": {
+      "doc": "erc",
+      "page": 31,
+      "section": "Biodiversidad y agua"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-rural-001",
+    "doc": "erc",
+    "topic": "rural",
+    "type": "tf",
+    "question": "ERC propone que el Gobierno español rechace ratificar el acuerdo de libre comercio entre la UE y Mercosur.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "ERC pide además cláusulas de salvaguarda y reciprocidad de normas para los productos importados.",
+    "tip": "Se trata de proteger a los productores europeos de competencia con normas distintas.",
+    "source": {
+      "doc": "erc",
+      "page": 32,
+      "section": "Agricultura y pesca"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-rural-002",
+    "doc": "erc",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué propone ERC sobre la Ley de la cadena alimentaria?",
+    "options": [
+      "Reformarla para garantizar precios que cubran los costes de producción",
+      "Derogarla",
+      "Limitar los precios de venta al consumidor",
+      "Eximir a las grandes cadenas de sus obligaciones"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "ERC propone metodologías objetivas por sector y observatorios de costes, para que los agricultores no vendan por debajo del coste.",
+    "tip": "El foco está en el precio que recibe quien produce.",
+    "source": {
+      "doc": "erc",
+      "page": 33,
+      "section": "Agricultura y pesca"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-rural-003",
+    "doc": "erc",
+    "topic": "rural",
+    "type": "which_party",
+    "question": "¿Qué partido propone financiación estatal para modernizar los regadíos, priorizando los Canales de Urgell?",
+    "options": [
+      "erc",
+      "pp",
+      "vox",
+      "psoe"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Los Canales de Urgell son un sistema histórico de riego en Lleida. ERC pide modernizarlos con financiación estatal.",
+    "tip": "El regadío citado está en una comarca catalana concreta.",
+    "source": {
+      "doc": "erc",
+      "page": 33,
+      "section": "Agricultura y pesca"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-rural-004",
+    "doc": "erc",
+    "topic": "rural",
+    "type": "multi",
+    "question": "Marca todas las propuestas de ERC para el sector primario.",
+    "options": [
+      "Descentralizar la PAC y los fondos europeos agrarios y pesqueros",
+      "Un fondo estatal para municipios propietarios de bosques",
+      "Regularizar la potencia real de los motores de la flota pesquera",
+      "Eliminar las ayudas estatales a los seguros agrarios"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "La PAC es la política agraria común de la UE. ERC pide más aportación estatal a ENESA para abaratar los seguros, no eliminarla.",
+    "tip": "Una de las opciones contradice lo que dice el programa sobre ENESA.",
+    "source": {
+      "doc": "erc",
+      "page": 33,
+      "section": "Agricultura y pesca"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-rural-005",
+    "doc": "erc",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Para qué propone ERC aumentar la aportación estatal a ENESA?",
+    "options": [
+      "Para abaratar los seguros agrarios",
+      "Para financiar la flota pesquera",
+      "Para subvencionar el combustible agrícola",
+      "Para comprar maquinaria forestal"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "ENESA es la entidad estatal de seguros agrarios combinados. Más aportación significa más subvenciones a las primas.",
+    "tip": "Es un tema de seguros, no de maquinaria ni de combustible.",
+    "source": {
+      "doc": "erc",
+      "page": 33,
+      "section": "Agricultura y pesca"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-rural-006",
+    "doc": "erc",
+    "topic": "rural",
+    "type": "which_not",
+    "question": "¿Cuál NO figura en las propuestas de ERC para el mundo rural?",
+    "options": [
+      "Descentralizar la PAC",
+      "Exigir recursos diferenciados para el sector primario en el marco financiero europeo 2028-2034",
+      "Reformar la Ley de la cadena alimentaria",
+      "Suprimir las ayudas europeas a la flota pesquera"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "ERC pide una reforma del régimen sancionador para que la pérdida de ayudas europeas sea proporcional, no suprimirlas.",
+    "tip": "El programa quiere más apoyo al sector, no menos.",
+    "source": {
+      "doc": "erc",
+      "page": 32,
+      "section": "Agricultura y pesca"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-rural-007",
+    "doc": "erc",
+    "topic": "rural",
+    "type": "tf",
+    "question": "ERC propone que la flota pesquera pierda todas las ayudas europeas de forma automática ante cualquier sanción.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone reformar el régimen sancionador para que la pérdida de ayudas europeas sea proporcional a la infracción.",
+    "tip": "La clave de la propuesta es la proporcionalidad.",
+    "source": {
+      "doc": "erc",
+      "page": 33,
+      "section": "Agricultura y pesca"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-territorio-002",
+    "doc": "erc",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "ERC propone condonar de forma efectiva los más de 17.100 millones del FLA.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El FLA (Fondo de Liquidez Autonómico) es el mecanismo por el que el Estado presta dinero a las comunidades. ERC calcula que la condonación ahorraría unos 1.500 millones anuales en intereses.",
+    "tip": "Es la deuda de la Generalitat con el Estado.",
+    "source": {
+      "doc": "erc",
+      "page": 12,
+      "section": "Financiación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-territorio-003",
+    "doc": "erc",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿En qué se basa el nuevo modelo de financiación que propone ERC?",
+    "options": [
+      "En el cobro directo de impuestos y en la ordinalidad",
+      "En un fondo común repartido por habitantes",
+      "En mantener el sistema actual con ajustes menores",
+      "En un impuesto único estatal"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La ordinalidad significa que una comunidad no baje en el ranking de recursos por habitante tras aportar a la solidaridad. Según el programa, el acuerdo de enero de 2026 daría a Cataluña 4.700 millones adicionales al año.",
+    "tip": "Combina recaudar directamente y no perder posición tras el reparto.",
+    "source": {
+      "doc": "erc",
+      "page": 12,
+      "section": "Financiación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-territorio-004",
+    "doc": "erc",
+    "topic": "territorio",
+    "type": "which_party",
+    "question": "¿Qué partido propone traspasar a la Agencia Tributaria de Cataluña la recaudación de todos los impuestos generados en Cataluña, empezando por el IRPF?",
+    "options": [
+      "erc",
+      "pp",
+      "vox",
+      "cc"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El IRPF es el impuesto sobre la renta de las personas físicas. ERC se refiere a un acuerdo bilateral de julio de 2025.",
+    "tip": "Es una agencia tributaria autonómica, no estatal.",
+    "source": {
+      "doc": "erc",
+      "page": 14,
+      "section": "Más soberanía y competencias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-territorio-005",
+    "doc": "erc",
+    "topic": "territorio",
+    "type": "which_not",
+    "question": "¿Cuál NO es una propuesta de ERC sobre autogobierno y financiación?",
+    "options": [
+      "Derogar la LRSAL",
+      "Permitir que los ayuntamientos se endeuden para inversiones hasta el 50 % de sus ingresos corrientes",
+      "Constituir el Consorcio de la Zona Franca con mayoría de instituciones catalanas",
+      "Que la Agencia Tributaria estatal recaude todos los impuestos catalanes y los reparta después"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "La LRSAL es la ley de racionalización y sostenibilidad de la administración local. ERC quiere derogarla y que las instituciones catalanas controlen su financiación.",
+    "tip": "Una opción centralizaría la recaudación, lo contrario del programa.",
+    "source": {
+      "doc": "erc",
+      "page": 44,
+      "section": "Municipios"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-territorio-006",
+    "doc": "erc",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "ERC propone que el Consorcio de la Zona Franca tenga mayoría de instituciones estatales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone constituirlo con mayoría de instituciones catalanas. El programa dice que representa casi el 4 % del PIB catalán.",
+    "tip": "Piensa en quién debería controlarlo para ERC.",
+    "source": {
+      "doc": "erc",
+      "page": 12,
+      "section": "Financiación"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-territorio-007",
+    "doc": "erc",
+    "topic": "territorio",
+    "type": "multi",
+    "question": "Marca todas las propuestas de ERC sobre instituciones y competencias en Cataluña.",
+    "options": [
+      "Traspasar a la Generalitat todos los inmuebles de la Administración General del Estado en Cataluña",
+      "Traspasar la Inspección de Trabajo y Seguridad Social",
+      "Crear un Consejo de Justicia de Cataluña",
+      "Reducir las competencias de la Generalitat en sanidad y educación"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Las tres primeras apuntan a más autogobierno. La cuarta es lo contrario de lo que pide el programa.",
+    "tip": "Una opción reduce autogobierno; el resto lo amplían.",
+    "source": {
+      "doc": "erc",
+      "page": 15,
+      "section": "Más soberanía y competencias"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-territorio-008",
+    "doc": "erc",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Qué reclama ERC sobre las selecciones deportivas catalanas?",
+    "options": [
+      "Su oficialidad y su reconocimiento internacional",
+      "Que sean disueltas",
+      "Que compitan solo en torneos catalanes",
+      "Que se integren en la selección española"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa reclama que puedan competir oficialmente a nivel internacional.",
+    "tip": "Pide reconocimiento, no limitación.",
+    "source": {
+      "doc": "erc",
+      "page": 14,
+      "section": "Más soberanía y competencias"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-instituciones-001",
+    "doc": "erc",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "ERC propone derogar la Ley mordaza (Ley Orgánica 4/2015).",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La Ley mordaza es la ley de seguridad ciudadana. ERC propone derogarla y revisar el marco normativo que restringe la protesta, la movilización y la libertad de expresión.",
+    "tip": "Es una propuesta sobre derechos de protesta y expresión.",
+    "source": {
+      "doc": "erc",
+      "page": 8,
+      "section": "Libertades y derechos"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-instituciones-002",
+    "doc": "erc",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "ERC propone mantener la exención del IBI para las confesiones religiosas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone aplicar el IBI (impuesto sobre bienes inmuebles) a todas las propiedades de las confesiones religiosas, sin excepciones, y dejar sin efecto los acuerdos de 1979 con la Santa Sede.",
+    "tip": "El programa plantea que no haya excepciones.",
+    "source": {
+      "doc": "erc",
+      "page": 8,
+      "section": "Libertades y derechos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-instituciones-003",
+    "doc": "erc",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Qué propone ERC sobre los Mossos d'Esquadra?",
+    "options": [
+      "Garantizar su competencia como policía integral, también en puertos y aeropuertos, y su acceso a Interpol y Europol",
+      "Integrarlos en la Policía Nacional",
+      "Limitar sus funciones a la seguridad vial",
+      "Reducir su plantilla"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Policía integral significa que realiza todas las funciones policiales en su territorio. ERC quiere que tenga acceso a bases de datos en igualdad con otros cuerpos.",
+    "tip": "Lo que se pide es ampliar su ámbito de actuación, no reducirlo.",
+    "source": {
+      "doc": "erc",
+      "page": 42,
+      "section": "Seguridad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-instituciones-004",
+    "doc": "erc",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone suprimir del Código Penal los delitos de injurias y calumnias contra la Corona y de ofensa a los sentimientos religiosos?",
+    "options": [
+      "erc",
+      "pp",
+      "vox",
+      "cc"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa también propone fiscalizar al rey y a la casa real y apoyar la eliminación de sus privilegios.",
+    "tip": "Es una propuesta de ampliar la libertad de expresión.",
+    "source": {
+      "doc": "erc",
+      "page": 8,
+      "section": "Libertades y derechos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-instituciones-005",
+    "doc": "erc",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "Marca todas las medidas de memoria y reconocimiento que propone ERC.",
+    "options": [
+      "Convertir la comisaría de Vía Laietana en un centro de memoria",
+      "Aprobar una ley sobre desaparición forzosa de menores",
+      "Reconocer a las víctimas del servicio militar obligatorio (1976-2001)",
+      "Mantener los acuerdos de 1979 con la Santa Sede"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "ERC propone dejar sin efecto los acuerdos de 1979 con la Santa Sede, no mantenerlos.",
+    "tip": "Una de las opciones contradice otra propuesta de ERC.",
+    "source": {
+      "doc": "erc",
+      "page": 8,
+      "section": "Libertades y derechos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-instituciones-006",
+    "doc": "erc",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "Marca todas las propuestas de ERC sobre derechos y participación política.",
+    "options": [
+      "Promover el voto a partir de los 16 años",
+      "Una Ley Electoral Europea sin umbrales que bloqueen a las minorías nacionales",
+      "Derogar la Ley mordaza",
+      "Reinstaurar el servicio militar obligatorio"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "ERC propone ampliar derechos de participación. Reconoce a las víctimas del servicio militar obligatorio, pero no lo reinstaura.",
+    "tip": "Una de las opciones no tiene relación con ampliar derechos.",
+    "source": {
+      "doc": "erc",
+      "page": 17,
+      "section": "Unión Europea"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-exterior-001",
+    "doc": "erc",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "ERC propone promover un embargo completo de armas a Israel.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "También pide que la UE suspenda su acuerdo de asociación con ese país mientras duren lo que el programa llama genocidio y ocupación ilegal de Palestina.",
+    "tip": "Es una propuesta de política exterior basada en derechos humanos.",
+    "source": {
+      "doc": "erc",
+      "page": 16,
+      "section": "Política exterior"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-exterior-002",
+    "doc": "erc",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Qué propone ERC sobre el Sáhara Occidental?",
+    "options": [
+      "Revertir la posición española de 2022 y condicionar los acuerdos con Marruecos al respeto de los derechos humanos",
+      "Reconocer la soberanía de Marruecos",
+      "No pronunciarse",
+      "Instalar una base militar española"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "En 2022 el Gobierno español apoyó el plan marroquí de autonomía para el Sáhara. ERC pide revertir esa posición.",
+    "tip": "Se pide un cambio respecto al giro de 2022.",
+    "source": {
+      "doc": "erc",
+      "page": 16,
+      "section": "Política exterior"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-exterior-003",
+    "doc": "erc",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone que el catalán, el occitano y la lengua de signos catalana sean oficiales en la UE?",
+    "options": [
+      "erc",
+      "pp",
+      "vox",
+      "cc"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Hoy el catalán no es lengua oficial de la UE, aunque se puede usar en algunas gestiones. ERC también quiere que la Generalitat participe en tratados internacionales de su ámbito.",
+    "tip": "Se mencionan tres lenguas, una de ellas de signos.",
+    "source": {
+      "doc": "erc",
+      "page": 9,
+      "section": "Lengua"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-exterior-004",
+    "doc": "erc",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "ERC propone que la política de defensa europea se integre plenamente dentro de la OTAN.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Propone una UE con estrategia de seguridad propia basada en la diplomacia y autónoma de la OTAN en defensa.",
+    "tip": "El programa habla de autonomía en defensa.",
+    "source": {
+      "doc": "erc",
+      "page": 16,
+      "section": "Unión Europea"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-exterior-005",
+    "doc": "erc",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Qué plantea ERC sobre los recursos de la Unión Europea?",
+    "options": [
+      "Un presupuesto común más ambicioso y un impuesto digital propio",
+      "Reducir el presupuesto común",
+      "Que cada Estado pague sus propios gastos",
+      "Eliminar el impuesto digital"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Un impuesto digital propio daría ingresos directos a la UE gravando a grandes empresas tecnológicas.",
+    "tip": "Más recursos propios para la UE.",
+    "source": {
+      "doc": "erc",
+      "page": 17,
+      "section": "Unión Europea"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-cultura-001",
+    "doc": "erc",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿Qué contiene la Ley del plurilingüismo que propone ERC?",
+    "options": [
+      "Relacionarse con todas las instituciones del Estado en cualquier lengua oficial, exigir su conocimiento al personal público estatal y fijar cuotas de radio",
+      "Convertir el inglés en lengua oficial",
+      "Suprimir el castellano",
+      "Permitir solo una lengua por comunidad"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Lengua cooficial es la que comparte oficialidad con el castellano en una comunidad. La ley quiere que se puedan usar en todo el Estado.",
+    "tip": "Se centra en el uso de todas las lenguas oficiales ante las instituciones del Estado.",
+    "source": {
+      "doc": "erc",
+      "page": 9,
+      "section": "Lengua"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-cultura-002",
+    "doc": "erc",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "ERC propone territorializar el 2 % cultural, para que lo generado por obras públicas estatales en Cataluña vaya a un fondo catalán de patrimonio.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El 2 % cultural es la parte del presupuesto de obras públicas que se destina a conservar el patrimonio. ERC quiere que se quede en Cataluña, y también completar el Estatuto del Artista.",
+    "tip": "La propuesta busca que el dinero se quede en el territorio donde se genera.",
+    "source": {
+      "doc": "erc",
+      "page": 13,
+      "section": "Cultura"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-cultura-003",
+    "doc": "erc",
+    "topic": "cultura",
+    "type": "multi",
+    "question": "Marca todas las propuestas del Plan de Soberanía Cultural y medidas relacionadas de ERC.",
+    "options": [
+      "Culminar el traspaso de museos y equipamientos culturales",
+      "Que los murales de Sixena no salgan del MNAC",
+      "Completar el Estatuto del Artista",
+      "Privatizar los museos estatales"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El MNAC es el Museu Nacional d'Art de Catalunya. ERC no propone privatizar museos.",
+    "tip": "Una de las opciones va en contra de la gestión pública.",
+    "source": {
+      "doc": "erc",
+      "page": 13,
+      "section": "Cultura"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-cultura-004",
+    "doc": "erc",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿Qué exige ERC en relación con la inteligencia artificial?",
+    "options": [
+      "Transparencia y supervisión humana",
+      "Prohibirla en las escuelas",
+      "Que solo la use el Estado",
+      "Dejarla sin regulación"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa también quiere proteger a menores en el entorno digital y combatir diseños manipuladores o adictivos de las plataformas.",
+    "tip": "El programa pide control humano y claridad sobre cómo funciona.",
+    "source": {
+      "doc": "erc",
+      "page": 35,
+      "section": "Digital"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-cultura-005",
+    "doc": "erc",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "ERC propone que en TVE al menos el 50 % de las obras emitidas sean en lenguas distintas del castellano.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "La propuesta es reservar al menos el 50 % del tiempo de emisión de obras europeas a obras en lenguas oficiales del Estado, y un mínimo del 25 % de ellas en lenguas distintas del castellano.",
+    "tip": "La segunda cifra es la mitad de la primera.",
+    "source": {
+      "doc": "erc",
+      "page": 13,
+      "section": "Cultura"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-otros-001",
+    "doc": "erc",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué línea de Rodalies propone ERC traspasar primero a la Generalitat?",
+    "options": [
+      "La R1",
+      "La R4",
+      "La R2 Norte",
+      "La R16"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Rodalies es el servicio de trenes de cercanías en Cataluña. ERC propone culminar el traspaso integral empezando por la R1 y siguiendo con R2 Sud, R3, R4 Norte y R16.",
+    "tip": "Es la línea que lleva el número más bajo.",
+    "source": {
+      "doc": "erc",
+      "page": 40,
+      "section": "Infraestructuras"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "erc-otros-002",
+    "doc": "erc",
+    "topic": "otros",
+    "type": "tf",
+    "question": "ERC propone garantizar el Plan de Rodalies 2026-2030, incluidos 1.400 millones adicionales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "También propone acabar el Corredor Mediterráneo y la Línea Orbital Ferroviaria.",
+    "tip": "El plan cubre cinco años.",
+    "source": {
+      "doc": "erc",
+      "page": 40,
+      "section": "Infraestructuras"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-otros-003",
+    "doc": "erc",
+    "topic": "otros",
+    "type": "which_party",
+    "question": "¿Qué partido propone constituir un Consorcio de Inversiones de Catalunya con participación paritaria Estado-Generalitat?",
+    "options": [
+      "erc",
+      "pp",
+      "vox",
+      "psoe"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Paritaria significa a partes iguales. ERC propone el consorcio para ejecutar las inversiones estatales en Cataluña, que describe como crónicamente poco ejecutadas.",
+    "tip": "Es un órgano compartido a partes iguales.",
+    "source": {
+      "doc": "erc",
+      "page": 38,
+      "section": "Infraestructuras"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-otros-004",
+    "doc": "erc",
+    "topic": "otros",
+    "type": "multi",
+    "question": "Marca todas las propuestas de ERC sobre aeropuertos y carreteras.",
+    "options": [
+      "Gestionar desde Cataluña los aeropuertos de Girona, Reus y Sabadell",
+      "Conectar Girona y Reus con la alta velocidad",
+      "Implantar la viñeta en las vías de alta capacidad catalanas",
+      "Cerrar el aeropuerto de Girona"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "La viñeta es un sistema único de pago por uso de autopistas y autovías. ERC propone gestionarla con un consorcio Estado-Generalitat.",
+    "tip": "Todo lo que se propone sobre Girona es potenciarlo.",
+    "source": {
+      "doc": "erc",
+      "page": 38,
+      "section": "Infraestructuras"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "erc-otros-005",
+    "doc": "erc",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿A quién propone ERC hacer contribuir especialmente en el sistema de la viñeta?",
+    "options": [
+      "Al transporte pesado de paso",
+      "A los turismos de menos de 5 años",
+      "A los autobuses urbanos",
+      "A los residentes de cada comarca"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El transporte de paso es el que cruza Cataluña sin parar en ella. ERC quiere que contribuya especialmente.",
+    "tip": "Se trata de camiones que atraviesan el territorio.",
+    "source": {
+      "doc": "erc",
+      "page": 38,
+      "section": "Infraestructuras"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "erc-otros-006",
+    "doc": "erc",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Cómo propone ERC reconocer la violencia contra animales de compañía?",
+    "options": [
+      "Como una forma de violencia vicaria",
+      "Como una falta administrativa leve",
+      "Como una infracción fiscal",
+      "No propone reconocerla"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La violencia vicaria es el daño a seres queridos para hacer sufrir a otra persona. ERC también quiere endurecer el Código Penal contra el maltrato animal.",
+    "tip": "Se vincula con un concepto del ámbito de la violencia machista.",
+    "source": {
+      "doc": "erc",
+      "page": 36,
+      "section": "Protección animal"
+    },
+    "difficulty": 2
   }
 ]

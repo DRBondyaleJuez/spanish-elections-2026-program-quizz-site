@@ -71,5 +71,2329 @@
       "section": "Unión Europea"
     },
     "difficulty": 1
+  },
+  {
+    "id": "salf-vivienda-002",
+    "doc": "salf",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Según SALF, el comprador de una primera vivienda pagaría por ley, como mínimo, un 50 % menos que hoy.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El compromiso de SALF es que quien compre su primera vivienda pague, como mínimo, un 35 % menos, mediante ITP y AJD al 0 %, IVA del 4 % devuelto en la renta, licencia en plazo y suelo público sin coste.",
+    "tip": "Piensa en el ejemplo del piso de 300.000 euros que baja a 195.000.",
+    "source": {
+      "doc": "salf",
+      "page": 5,
+      "section": "Vivienda"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-vivienda-003",
+    "doc": "salf",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "Con denuncia y título de propiedad, ¿en cuánto tiempo propone SALF que la Policía desaloje a un okupa?",
+    "options": [
+      "30 días",
+      "48 horas",
+      "24 horas",
+      "7 días"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "SALF propone que, con denuncia y título de propiedad, la Policía desaloje en 48 horas. Los 30 días se refieren a otro caso: el inquilino que deja de pagar.",
+    "tip": "Dos plazos distintos aparecen en el programa: uno para el okupa y otro para el inquilino moroso.",
+    "source": {
+      "doc": "salf",
+      "page": 5,
+      "section": "Vivienda"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-vivienda-004",
+    "doc": "salf",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Para el inquilino que deja de pagar, SALF propone juicio verbal y lanzamiento en 30 días, sin tener en cuenta excusas de vulnerabilidad.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El programa plantea juicio verbal y lanzamiento en 30 días, y dice que a las personas vulnerables las atendería el Estado, no el propietario.",
+    "tip": "El programa distingue entre quién atiende a los vulnerables y quién es el propietario.",
+    "source": {
+      "doc": "salf",
+      "page": 5,
+      "section": "Vivienda"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-vivienda-005",
+    "doc": "salf",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué ocurriría, según SALF, si el ayuntamiento no concede la licencia dentro del plazo?",
+    "options": [
+      "La licencia se deniega y hay que empezar de nuevo",
+      "El promotor paga una tasa adicional por el retraso",
+      "El expediente pasa a la comunidad autónoma",
+      "La licencia se concede por silencio positivo y el ayuntamiento paga el retraso"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "SALF fija un mes para obra menor, dos para obra mayor y tres para grandes desarrollos. Pasado el plazo, la licencia se considera concedida y el ayuntamiento paga el retraso.",
+    "tip": "El incumplimiento del plazo perjudica a la administración, no al ciudadano.",
+    "source": {
+      "doc": "salf",
+      "page": 6,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-vivienda-006",
+    "doc": "salf",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿En cuántos días propone SALF conceder la licencia automática para vivienda industrializada en suelo público y urbano consolidado?",
+    "options": [
+      "30 días",
+      "5 días",
+      "60 días",
+      "15 días"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Para construir rápido, SALF plantea licencia automática en 15 días con un estándar técnico único para toda España.",
+    "tip": "No es el plazo de un mes de la obra menor: es todavía más corto.",
+    "source": {
+      "doc": "salf",
+      "page": 7,
+      "section": "Vivienda"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-vivienda-007",
+    "doc": "salf",
+    "topic": "vivienda",
+    "type": "multi",
+    "question": "Marca todas las medidas de SALF sobre alquiler y acceso a la vivienda:",
+    "options": [
+      "Topes al precio del alquiler fijados por el Estado",
+      "Registro único de alquiler turístico, sin prohibiciones",
+      "Seguro público de impago que garantiza 12 meses de renta al propietario",
+      "Aval público del 20 % de la entrada para menores de 40 en su primera vivienda",
+      "Prohibir la compra de vivienda a personas no residentes"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "SALF propone un seguro de impago de 12 meses, un aval del 20 % de la entrada para menores de 40 y un registro único de alquiler turístico sin prohibiciones. No propone topes de precio ni prohibir comprar a no residentes.",
+    "tip": "Tres de las medidas facilitan alquilar o comprar; las otras dos limitan precios o compradores.",
+    "source": {
+      "doc": "salf",
+      "page": 7,
+      "section": "Vivienda"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-vivienda-008",
+    "doc": "salf",
+    "topic": "vivienda",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO propone SALF en materia de vivienda?",
+    "options": [
+      "ITP y AJD al 0 % en la primera vivienda",
+      "Pasar a concurso todo el suelo de la Sareb y del Estado",
+      "Fijar topes al precio del alquiler",
+      "Silencio positivo en las licencias de obra"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "SALF no propone topes de precio. Su enfoque es aumentar el suelo y la construcción, acortar licencias y eliminar impuestos a la primera vivienda.",
+    "tip": "Fíjate en cuáles de las medidas buscan construir más y cuál intervendría el precio.",
+    "source": {
+      "doc": "salf",
+      "page": 6,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-vivienda-009",
+    "doc": "salf",
+    "topic": "vivienda",
+    "type": "which_party",
+    "question": "¿Qué partido propone eliminar por completo el IBI para todos, sin compensar a los ayuntamientos?",
+    "options": [
+      "salf",
+      "compromis",
+      "psoe",
+      "podemos"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es una propuesta de SALF: el IBI desaparece para todos y los ayuntamientos lo absorben con ahorro, con unos 13.400 M€ al año menos de ingresos municipales.",
+    "tip": "Es una medida muy poco habitual: suprime un impuesto municipal clave sin compensación.",
+    "source": {
+      "doc": "salf",
+      "page": 7,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-instituciones-002",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "SALF propone prisión permanente revisable para la violación a menores o con lesiones graves.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Dentro de su política de cumplimiento íntegro de las penas, SALF plantea prisión permanente revisable en esos casos y prisión sin suspensión tras tres condenas.",
+    "tip": "Se enmarca en un paquete de cumplimiento íntegro de penas.",
+    "source": {
+      "doc": "salf",
+      "page": 8,
+      "section": "Seguridad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-instituciones-003",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "Marca todas las medidas de SALF para los agresores sexuales:",
+    "options": [
+      "Pulsera telemática de por vida",
+      "Castración química voluntaria como condición de cualquier beneficio penitenciario",
+      "Reducción automática de la pena por buena conducta",
+      "Terapia obligatoria en lugar de prisión",
+      "Registro público de reincidentes"
+    ],
+    "answer": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "SALF propone registro público de reincidentes, pulsera de por vida y castración química voluntaria como condición de cualquier beneficio. Lo contrario de reducir condenas: plantea cumplimiento íntegro.",
+    "tip": "Dos opciones suavizan la pena y no encajan con el cumplimiento íntegro.",
+    "source": {
+      "doc": "salf",
+      "page": 8,
+      "section": "Seguridad"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-instituciones-004",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone una macrocárcel de máxima seguridad, sin permisos ni tercer grado, para asesinos, violadores, narcos y corruptos?",
+    "options": [
+      "salf",
+      "podemos",
+      "psoe",
+      "erc",
+      "pnv"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es una propuesta de SALF: régimen cerrado de máxima seguridad sin permisos, sin teléfono y sin tercer grado, con una obra de unos 3.000 M€ pagada con lo decomisado al crimen organizado.",
+    "tip": "Se llama \"modelo de macrocárcel\" en el programa del partido.",
+    "source": {
+      "doc": "salf",
+      "page": 8,
+      "section": "Seguridad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-instituciones-005",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "Según SALF, los extranjeros condenados cumplirían la pena en cárceles españolas de máxima dureza antes de ser expulsados.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. SALF propone convenios con terceros países para que los extranjeros condenados cumplan la pena allí, y después un veto de por vida de acceso a España.",
+    "tip": "Fíjate dónde se cumpliría la pena según el programa.",
+    "source": {
+      "doc": "salf",
+      "page": 9,
+      "section": "Seguridad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-instituciones-006",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Con qué cuerpo propone SALF equiparar el sueldo de la Guardia Civil y la Policía?",
+    "options": [
+      "La Ertzaintza",
+      "Las Fuerzas Armadas",
+      "La Policía Local de Madrid",
+      "Los Mossos d'Esquadra"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa pide el mismo sueldo que un mosso, en dos años, con jubilación a los 60 sin penalización y reconocimiento de profesión de riesgo. Hoy dice que cobran 7.500 euros menos al año.",
+    "tip": "El cuerpo elegido es una policía autonómica.",
+    "source": {
+      "doc": "salf",
+      "page": 9,
+      "section": "Seguridad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-instituciones-007",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "SALF propone una mili voluntaria de entre seis y doce meses para jóvenes de 18 a 30 años.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. La mili voluntaria de SALF duraría de seis a doce meses, con 1.600 euros netos al mes, y estaría abierta a jóvenes de 18 a 30 años.",
+    "tip": "Revisa el límite superior de la duración.",
+    "source": {
+      "doc": "salf",
+      "page": 9,
+      "section": "Seguridad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-instituciones-008",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿A cuántos jueces y fiscales más propone SALF incorporar para acelerar la justicia penal?",
+    "options": [
+      "3.000 jueces y 2.000 fiscales",
+      "2.000 jueces y 1.500 fiscales",
+      "500 jueces y 500 fiscales",
+      "1.000 jueces y 1.000 fiscales"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "SALF plantea 2.000 jueces y 1.500 fiscales más, juicios rápidos en 72 horas para multirreincidentes y delitos flagrantes y un expediente digital único. Coste: unos 400 M€ al año.",
+    "tip": "Hay más jueces que fiscales.",
+    "source": {
+      "doc": "salf",
+      "page": 10,
+      "section": "Seguridad"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-instituciones-009",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone una presunción legal de legítima defensa en la vivienda o negocio, incluido el uso de armas de fuego legalmente tenidas?",
+    "options": [
+      "salf",
+      "podemos",
+      "compromis",
+      "psoe",
+      "pnv"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es una propuesta de SALF: quien irrumpe por la fuerza o de noche asume las consecuencias y la acusación tendría que probar el exceso. Incluye una licencia de arma para defensa del domicilio sin trabas para personas sin antecedentes.",
+    "tip": "Cambia quién tiene que demostrar el exceso de defensa.",
+    "source": {
+      "doc": "salf",
+      "page": 10,
+      "section": "Seguridad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-instituciones-010",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "SALF propone que la injerencia política sobre un agente de policía judicial que investiga a un político sea delito.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El programa quiere una policía judicial blindada: el agente que investiga a un político obedece al juez, no al ministro, y la injerencia política sería delito.",
+    "tip": "Propone blindar a los investigadores frente al Gobierno.",
+    "source": {
+      "doc": "salf",
+      "page": 10,
+      "section": "Seguridad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-instituciones-011",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "En el plan 2027-2029 de SALF, ¿a cuántos agentes se ampliaría la UCO, que hoy tiene 580 plazas?",
+    "options": [
+      "3.000 agentes",
+      "1.200 agentes",
+      "1.000 agentes",
+      "1.800 agentes"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El plan sube la UCO de 580 a 1.800 agentes y la UDEF de 320 a 1.000, con 1.200 más en la UDYCO y Vigilancia Aduanera. En total, 3.000 investigadores más.",
+    "tip": "El total de 3.000 incluye otras unidades además de la UCO.",
+    "source": {
+      "doc": "salf",
+      "page": 10,
+      "section": "Seguridad"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-instituciones-012",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "SALF propone que agredir a un vigilante de seguridad se castigue como atentado, igual que agredir a un bombero o a un sanitario.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El programa propone un estatuto de colaborador de la seguridad pública con la misma protección penal que bomberos y personal sanitario, sin que los vigilantes sean agentes de la autoridad.",
+    "tip": "Los equipara a otros profesionales con protección penal reforzada.",
+    "source": {
+      "doc": "salf",
+      "page": 11,
+      "section": "Seguridad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-instituciones-013",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "SALF propone que los delitos de corrupción cometidos por cargos públicos sean imprescriptibles.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Cohecho, malversación, prevaricación, tráfico de influencias y financiación ilegal cometidos por cargos públicos no prescribirían nunca. Hoy prescriben entre 5 y 15 años.",
+    "tip": "El programa dice que \"no hay reloj para el corrupto\".",
+    "source": {
+      "doc": "salf",
+      "page": 25,
+      "section": "Corrupción"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-instituciones-014",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "SALF propone que quien sea condenado por corrupción devuelva el triple de lo robado.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. SALF propone responsabilidad civil del triple, decomiso de todo patrimonio no justificado y ningún beneficio hasta restituir.",
+    "tip": "Fíjate en el multiplicador que aparece en el lema del apartado.",
+    "source": {
+      "doc": "salf",
+      "page": 26,
+      "section": "Corrupción"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-instituciones-015",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Qué porcentaje de lo recuperado cobraría, según SALF, quien denuncie un caso de corrupción?",
+    "options": [
+      "5 %",
+      "25 %",
+      "15 %",
+      "10 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El denunciante cobraría el 15 % de lo recuperado, libre de impuestos, con anonimato, protección laboral y una autoridad independiente con capacidad de sancionar.",
+    "tip": "Está en el propio título de la sección de corrupción.",
+    "source": {
+      "doc": "salf",
+      "page": 26,
+      "section": "Corrupción"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-instituciones-016",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "Marca todas las reformas constitucionales que plantea SALF en materia de justicia y corrupción:",
+    "options": [
+      "Eliminar los aforamientos",
+      "Limitar la acción popular a las víctimas directas",
+      "Blindar la acción popular en la Constitución",
+      "Prohibir expresamente las amnistías",
+      "Mantener el Tribunal Constitucional con más magistrados elegidos por el Gobierno"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "SALF propone prohibir las amnistías, acabar con los 17.621 aforamientos y blindar la acción popular. Las otras dos opciones van en sentido contrario: SALF quiere suprimir el Tribunal Constitucional y ampliar, no limitar, la acción popular.",
+    "tip": "Dos opciones recortarían la acción popular o reforzarían al Gobierno, lo contrario de lo que se propone.",
+    "source": {
+      "doc": "salf",
+      "page": 28,
+      "section": "Corrupción"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-instituciones-017",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "SALF propone reducir los ministerios de 22 a 10.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. SALF propone pasar de 22 a 10 ministerios: doce desaparecen el primer día y sus funciones útiles pasan a los diez que quedan. También reduce las vicepresidencias de 3 a 1.",
+    "tip": "Si desaparecen doce y hoy hay 22, hacen falta menos de los que se dice.",
+    "source": {
+      "doc": "salf",
+      "page": 3,
+      "section": "El Gobierno"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-instituciones-018",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Cómo propone SALF elegir al Fiscal General del Estado?",
+    "options": [
+      "Por tres quintos del Congreso, entre fiscales con 25 años de carrera",
+      "Por el Gobierno a propuesta del ministro de Justicia",
+      "Por el Consejo General del Poder Judicial",
+      "Por sorteo entre todos los fiscales"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "SALF propone que lo elija una mayoría de tres quintos del Congreso entre fiscales con 25 años de carrera, con un mandato de seis años no coincidente con la legislatura.",
+    "tip": "El mandato no coincide con la legislatura para evitar vínculos con el Gobierno.",
+    "source": {
+      "doc": "salf",
+      "page": 27,
+      "section": "Corrupción"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-instituciones-019",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "Marca todos los ministerios que existirían en la estructura de diez ministerios que propone SALF:",
+    "options": [
+      "Vivienda",
+      "Defensa",
+      "Transición Ecológica",
+      "Igualdad",
+      "Interior y Justicia"
+    ],
+    "answer": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "En el esquema de SALF existen Vivienda, Defensa e Interior y Justicia. Igualdad y Transición Ecológica desaparecen como ministerios propios: Energía y Medio Ambiente pasan a Infraestructuras, Energía e Industria.",
+    "tip": "Dos de los ministerios actuales no figuran en el organigrama de diez.",
+    "source": {
+      "doc": "salf",
+      "page": 3,
+      "section": "El Gobierno"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-instituciones-020",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone una mili voluntaria de 6 a 12 meses, con 1.600 euros netos al mes, para jóvenes de 18 a 30 años?",
+    "options": [
+      "podemos",
+      "compromis",
+      "psoe",
+      "erc",
+      "salf"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "Es una propuesta de SALF, con formación oficial, puntos en las oposiciones, vivienda protegida preferente y 5.000 euros al terminar. Coste: unos 1.200 M€ al año para 30.000 plazas.",
+    "tip": "Es un servicio voluntario y remunerado, con ventajas fiscales posteriores.",
+    "source": {
+      "doc": "salf",
+      "page": 9,
+      "section": "Seguridad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-instituciones-021",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO propone SALF en materia de corrupción?",
+    "options": [
+      "Responsabilidad civil del triple de lo robado",
+      "Un 15 % de lo recuperado para quien denuncie",
+      "Permitir el indulto a los corruptos que devuelvan lo robado",
+      "Declarar imprescriptible la corrupción de cargos públicos"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "SALF propone prohibir en todo caso los indultos a políticos corruptos, sin excepciones, y cumplimiento íntegro sin tercer grado.",
+    "tip": "Piensa en qué sucede con el indulto en el programa: se prohíbe, no se condiciona.",
+    "source": {
+      "doc": "salf",
+      "page": 26,
+      "section": "Corrupción"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-instituciones-022",
+    "doc": "salf",
+    "topic": "instituciones",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de SALF sobre la estructura del Estado?",
+    "options": [
+      "Suprimir el Senado",
+      "Convertir el Senado en una cámara de representación territorial",
+      "Suprimir las diputaciones provinciales",
+      "Suprimir el Consejo de Estado"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "SALF propone suprimir el Senado, el Consejo de Estado y las diputaciones provinciales. No plantea reformar el Senado, sino eliminarlo.",
+    "tip": "La propuesta de SALF es eliminar, no transformar.",
+    "source": {
+      "doc": "salf",
+      "page": 29,
+      "section": "Corrupción"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-economia-001",
+    "doc": "salf",
+    "topic": "economia",
+    "type": "tf",
+    "question": "SALF propone bajar el IVA de la luz del 21 % al 4 %.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. SALF propone un IVA del 4 % para la luz (hoy 21 %) y para el agua (hoy 10 %), además de suprimir el impuesto a la producción eléctrica.",
+    "tip": "Es el mismo tipo reducido que se aplica a otros bienes básicos.",
+    "source": {
+      "doc": "salf",
+      "page": 13,
+      "section": "Impuestos"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-economia-002",
+    "doc": "salf",
+    "topic": "economia",
+    "type": "tf",
+    "question": "SALF condiciona la regla de oro a alcanzar déficit cero en 2026.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La regla de oro exige un ahorro estructural certificado por la AIReF antes de cada bajada de impuestos, y el objetivo de déficit cero es para 2030.",
+    "tip": "El calendario de las rebajas fiscales llega hasta 2030.",
+    "source": {
+      "doc": "salf",
+      "page": 13,
+      "section": "Impuestos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-economia-003",
+    "doc": "salf",
+    "topic": "economia",
+    "type": "tf",
+    "question": "SALF propone sumar 5.000 euros al mínimo exento de IRPF por cada hijo, para cada uno de los progenitores.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Cada hijo suma 5.000 euros al mínimo exento de cada progenitor. Por ejemplo, una pareja con dos hijos no pagaría IRPF hasta 45.000 euros cada uno.",
+    "tip": "El importe se aplica a cada progenitor, no a la familia en conjunto.",
+    "source": {
+      "doc": "salf",
+      "page": 12,
+      "section": "Impuestos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-economia-004",
+    "doc": "salf",
+    "topic": "economia",
+    "type": "tf",
+    "question": "SALF propone el derecho a pagar y cobrar en efectivo sin límite de importe y que el euro digital nunca sustituya al efectivo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. SALF propone derogar el tope de 1.000 euros, vetar el límite de 10.000 que impone Bruselas desde 2027 y penar a quien se niegue a aceptar efectivo.",
+    "tip": "Es una de las pocas propuestas en las que SALF habla de un derecho constitucional.",
+    "source": {
+      "doc": "salf",
+      "page": 15,
+      "section": "Impuestos"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-economia-005",
+    "doc": "salf",
+    "topic": "economia",
+    "type": "single",
+    "question": "Según el calendario de SALF, ¿qué mínimo exento de IRPF habría en 2028?",
+    "options": [
+      "15.000 euros",
+      "22.000 euros",
+      "35.000 euros",
+      "28.000 euros"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El calendario es: 15.000 en 2027, 22.000 en 2028, 28.000 en 2029 y 35.000 en 2030, con reducción gradual hasta 50.000 para que ganar un euro más nunca cueste dinero.",
+    "tip": "Está entre el primer año y el tercero del calendario.",
+    "source": {
+      "doc": "salf",
+      "page": 12,
+      "section": "Impuestos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-economia-006",
+    "doc": "salf",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué tipo del Impuesto sobre Sociedades propone SALF para el beneficio reinvertido?",
+    "options": [
+      "25 %",
+      "10 %",
+      "20 %",
+      "15 %"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El tipo general bajaría del 25 al 20 % en dos años. El 15 % se aplica al beneficio reinvertido y el 10 % a los tres primeros años de empresas nuevas.",
+    "tip": "Es un tipo intermedio entre el de las startups y el general.",
+    "source": {
+      "doc": "salf",
+      "page": 13,
+      "section": "Impuestos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-economia-007",
+    "doc": "salf",
+    "topic": "economia",
+    "type": "multi",
+    "question": "Marca todas las propuestas de SALF sobre la relación con Hacienda:",
+    "options": [
+      "Intereses de demora distintos para el contribuyente y para Hacienda",
+      "Obligar al contribuyente a probar su inocencia",
+      "Renta en una página",
+      "Carga de la prueba para la Administración",
+      "Liquidación en 30 días"
+    ],
+    "answer": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "SALF propone renta en una página, liquidación en 30 días, carga de la prueba para la Administración e intereses de demora simétricos. Lo contrario de las dos últimas opciones.",
+    "tip": "Dos opciones darían más poder a Hacienda frente al contribuyente.",
+    "source": {
+      "doc": "salf",
+      "page": 13,
+      "section": "Impuestos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-economia-008",
+    "doc": "salf",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone un mínimo exento de IRPF de 35.000 euros, aplicado gradualmente hasta 2030?",
+    "options": [
+      "psoe",
+      "pnv",
+      "podemos",
+      "salf",
+      "compromis"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta de SALF: Nadie pagaría IRPF por los primeros 35.000 euros (hoy 5.550). Coste estimado: unos 43.000 M€ al año en 2030.",
+    "tip": "La cifra es varias veces el mínimo actual.",
+    "source": {
+      "doc": "salf",
+      "page": 12,
+      "section": "Impuestos"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-economia-009",
+    "doc": "salf",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone suprimir los impuestos de Sucesiones, Donaciones y Patrimonio?",
+    "options": [
+      "psoe",
+      "salf",
+      "podemos",
+      "erc",
+      "compromis"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es una propuesta de SALF. Su coste estimado es de unos 3.500 M€ al año; el programa argumenta que no se debe pagar dos veces por el mismo euro.",
+    "tip": "Incluye el impuesto a las grandes fortunas.",
+    "source": {
+      "doc": "salf",
+      "page": 13,
+      "section": "Impuestos"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-economia-010",
+    "doc": "salf",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone una Ley de Devolución del Rescate, por la que cinco entidades pagarían 4.700 millones al año durante 15 años?",
+    "options": [
+      "psoe",
+      "pp",
+      "salf",
+      "pnv",
+      "cc"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una propuesta de SALF: CaixaBank, BBVA, Sabadell, Unicaja y Abanca pagarían en proporción a las ayudas que absorbieron de las cajas rescatadas, con tope del 40 % de su beneficio anual.",
+    "tip": "Se refiere a la factura del rescate de las cajas.",
+    "source": {
+      "doc": "salf",
+      "page": 15,
+      "section": "Impuestos"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-economia-011",
+    "doc": "salf",
+    "topic": "economia",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO propone SALF en materia de impuestos?",
+    "options": [
+      "Actualizar el IRPF cada año con el IPC",
+      "Crear un impuesto a las grandes fortunas",
+      "Suprimir los impuestos de Sucesiones y Donaciones",
+      "Exigir tres quintos del Congreso para subir impuestos"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "SALF propone lo contrario: suprimir el impuesto de Patrimonio, el que grava las grandes fortunas.",
+    "tip": "Una de las opciones iría en dirección contraria a la bajada de impuestos del programa.",
+    "source": {
+      "doc": "salf",
+      "page": 13,
+      "section": "Impuestos"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-empleo-001",
+    "doc": "salf",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "SALF propone un contrato único indefinido con una indemnización fija de 20 días por año trabajado.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La indemnización del contrato único de SALF sería creciente, de 12 a 33 días, y se complementa con la mochila del 1,53 % del salario.",
+    "tip": "La indemnización cambia con el tiempo, no es una cifra fija.",
+    "source": {
+      "doc": "salf",
+      "page": 30,
+      "section": "Empleo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-empleo-002",
+    "doc": "salf",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "SALF propone reducir a la mitad la cuota de autónomos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. SALF propone cuota cero, total y para siempre, con un coste de unos 12.000 M€ al año (lo que hoy recauda el RETA), más IVA de caja y licencia de actividad en 24 horas.",
+    "tip": "La propuesta es más drástica que una rebaja parcial.",
+    "source": {
+      "doc": "salf",
+      "page": 30,
+      "section": "Empleo"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-empleo-003",
+    "doc": "salf",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "SALF propone que un trabajador fijo discontinuo cuente como parado cuando no está trabajando.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Según el programa, los fijos discontinuos reducen falsamente las cifras de paro: 640.900 personas sin actividad no aparecen como paradas.",
+    "tip": "El programa habla de una \"trampa estadística\" en las cifras de paro.",
+    "source": {
+      "doc": "salf",
+      "page": 32,
+      "section": "Empleo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-empleo-004",
+    "doc": "salf",
+    "topic": "empleo",
+    "type": "single",
+    "question": "Si alguien trabaja y cobra un euro más, ¿cuánto bajaría el Ingreso Mínimo según SALF?",
+    "options": [
+      "10 céntimos",
+      "50 céntimos",
+      "25 céntimos",
+      "1 euro"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "SALF propone un complemento salarial para que el Ingreso Mínimo baje 50 céntimos por cada euro ganado, no uno a uno. Quien rechace dos ofertas adecuadas pierde la prestación.",
+    "tip": "La idea es que trabajar siempre deje más que la ayuda.",
+    "source": {
+      "doc": "salf",
+      "page": 32,
+      "section": "Empleo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-empleo-005",
+    "doc": "salf",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Quién pagaría las bajas por enfermedad desde el primer día, según SALF?",
+    "options": [
+      "Un fondo de garantía salarial",
+      "La empresa",
+      "Las mutuas",
+      "La Seguridad Social"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "SALF propone que las pague la Seguridad Social desde el primer día, no la empresa, que hoy carga con los primeros quince. Se compensaría con la reducción del absentismo.",
+    "tip": "El objetivo es que proteger al trabajador no encarezca contratarlo.",
+    "source": {
+      "doc": "salf",
+      "page": 31,
+      "section": "Empleo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-empleo-006",
+    "doc": "salf",
+    "topic": "empleo",
+    "type": "multi",
+    "question": "Marca todas las propuestas de SALF sobre formación y contratación de jóvenes y mayores:",
+    "options": [
+      "FP dual con contrato y salario del 50 % del convenio",
+      "Cotización cero durante dos años por contratar a mayores de 50",
+      "Cotización cero durante dos años por contratar a menores de 30",
+      "Contrato de formación sin salario durante el primer año",
+      "Salario mínimo juvenil más bajo que el general"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "SALF propone FP dual con contrato (salario del 50 % del convenio, pagado a medias por empresa y Estado) y cotización cero durante dos años al contratar a menores de 30 y mayores de 50.",
+    "tip": "El programa se titula \"Aprendiz pagado, no becario gratis\".",
+    "source": {
+      "doc": "salf",
+      "page": 31,
+      "section": "Empleo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-empleo-007",
+    "doc": "salf",
+    "topic": "empleo",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO propone SALF en materia de empleo?",
+    "options": [
+      "Cuota de autónomos cero",
+      "Licencia de actividad en 24 horas por declaración responsable",
+      "Reducir la jornada laboral semanal",
+      "Un único contrato indefinido"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "SALF no propone reducir la jornada. Sí propone cuña fiscal del 29 %, contrato único, cuota cero y licencia de actividad en 24 horas.",
+    "tip": "El programa se centra en bajar costes y cargas, no en cambiar el horario.",
+    "source": {
+      "doc": "salf",
+      "page": 30,
+      "section": "Empleo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-empleo-008",
+    "doc": "salf",
+    "topic": "empleo",
+    "type": "which_party",
+    "question": "¿Qué partido propone la regla \"una norma entra, dos salen\": por cada regulación nueva que afecte a empresas, derogar dos?",
+    "options": [
+      "compromis",
+      "psoe",
+      "pnv",
+      "salf",
+      "podemos"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta de SALF, junto con la unidad de mercado real: lo que vale en una comunidad valdría en todas.",
+    "tip": "Es una regla para reducir la carga normativa de las empresas.",
+    "source": {
+      "doc": "salf",
+      "page": 31,
+      "section": "Empleo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-pensiones-001",
+    "doc": "salf",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "SALF propone que con 30 años cotizados se pueda jubilar cualquiera sin penalización.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La jubilación libre sin penalización sería con 40 años cotizados. Además, SALF propone jubilación activa total: cobrar el 100 % de la pensión y seguir trabajando.",
+    "tip": "Fíjate en cuántos años pide el programa para la libertad de jubilarse.",
+    "source": {
+      "doc": "salf",
+      "page": 20,
+      "section": "Pensiones"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-pensiones-002",
+    "doc": "salf",
+    "topic": "pensiones",
+    "type": "multi",
+    "question": "Marca todas las propuestas de SALF sobre pensiones:",
+    "options": [
+      "Pasar el Fondo de Reserva a un fondo soberano de gestión independiente",
+      "Enviar cada año una carta con la pensión estimada y el saldo de la cuenta individual",
+      "Pasar las pensiones actuales a cuentas individuales",
+      "Revalorizar las pensiones con el IPC, con rango constitucional",
+      "Ampliar el periodo de cálculo de la pensión a toda la vida laboral"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "SALF propone revalorización con el IPC blindada en la Constitución, el sobre naranja anual y un fondo soberano independiente. No propone cambiar el cálculo ni tocar las pensiones actuales: \"a quien ya cobra no se le toca un euro\".",
+    "tip": "El programa protege a quienes ya cobran; los cambios de modelo afectan a los menores de 45.",
+    "source": {
+      "doc": "salf",
+      "page": 21,
+      "section": "Pensiones"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-pensiones-003",
+    "doc": "salf",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Qué porcentaje del salario de los menores de 45 años iría a una cuenta individual obligatoria y heredable, según SALF?",
+    "options": [
+      "5 %",
+      "0,9 %",
+      "2 %",
+      "1,53 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El sistema mixto de SALF destina el 2 % del salario de los menores de 45 años a una cuenta individual, con comisión máxima del 0,3 %. El 1,53 % corresponde a otra medida: la mochila austriaca.",
+    "tip": "No confundas esta cifra con la que aporta la empresa en la mochila.",
+    "source": {
+      "doc": "salf",
+      "page": 20,
+      "section": "Pensiones"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-pensiones-004",
+    "doc": "salf",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "En la mochila austriaca de SALF, ¿quién paga el 1,53 % del salario que va a la cuenta del trabajador?",
+    "options": [
+      "La empresa",
+      "El Estado",
+      "El trabajador",
+      "Se reparte a partes iguales entre empresa y trabajador"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La empresa aporta el 1,53 % del salario a la cuenta del trabajador desde el primer día. El trabajador se la lleva al cambiar de empleo y la cobra al jubilarse si no la usa.",
+    "tip": "Es una aportación que el trabajador no ve reducida de su sueldo.",
+    "source": {
+      "doc": "salf",
+      "page": 20,
+      "section": "Pensiones"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-pensiones-005",
+    "doc": "salf",
+    "topic": "pensiones",
+    "type": "which_party",
+    "question": "¿Qué partido propone una mochila austriaca: el 1,53 % del salario a una cuenta del trabajador, que se la lleva al cambiar de empleo?",
+    "options": [
+      "erc",
+      "compromis",
+      "salf",
+      "podemos",
+      "psoe"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Es una propuesta de SALF. La mochila financia también la indemnización del contrato único y puede cobrarse al jubilarse si no se ha usado.",
+    "tip": "El nombre de la medida hace referencia a un país europeo.",
+    "source": {
+      "doc": "salf",
+      "page": 20,
+      "section": "Pensiones"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-pensiones-006",
+    "doc": "salf",
+    "topic": "pensiones",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO propone SALF en materia de pensiones?",
+    "options": [
+      "Eliminar las pensiones vitalicias de los políticos",
+      "Pensión mínima de 1.000 euros en 14 pagas con 35 años cotizados",
+      "Elevar la edad legal de jubilación a 70 años",
+      "Jubilación activa total, con el 100 % de la pensión trabajando"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "SALF no propone subir la edad de jubilación. Propone jubilación libre sin penalización con 40 años cotizados, pensión mínima de 1.000 euros y fin de privilegios vitalicios de políticos.",
+    "tip": "El programa habla de ampliar la libertad de jubilarse, no de retrasar la edad.",
+    "source": {
+      "doc": "salf",
+      "page": 21,
+      "section": "Pensiones"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-sanidad-001",
+    "doc": "salf",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "SALF propone un plazo máximo de 90 días para una cirugía en la sanidad pública.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El plazo máximo sería de 60 días para cirugía, 30 para especialista y 7 para pruebas prioritarias. Superado el plazo, el paciente elige centro público o privado y lo paga la sanidad pública.",
+    "tip": "El título del apartado lo dice: \"60 días para operarte\".",
+    "source": {
+      "doc": "salf",
+      "page": 22,
+      "section": "Sanidad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-sanidad-002",
+    "doc": "salf",
+    "topic": "sanidad",
+    "type": "multi",
+    "question": "Marca todas las propuestas de SALF sobre la gestión sanitaria:",
+    "options": [
+      "Gerentes de hospital elegidos por concurso, con mandato de cinco años",
+      "Cuentas, listas de espera y resultados de cada hospital públicos en tiempo real",
+      "Negar la atención de urgencias a quien no tenga tarjeta sanitaria",
+      "Test de paternidad gratuito e inmediato en el hospital, salvo renuncia de ambos progenitores",
+      "Eliminar la atención en salud mental de los centros de salud"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "SALF propone gerentes por concurso, datos hospitalarios públicos en tiempo real y test de paternidad gratuito al nacer. Mantiene urgencias para todos, siempre, y refuerza la salud mental con un psicólogo clínico por cada 10.000 habitantes.",
+    "tip": "Dos de las opciones recortarían derechos que el programa dice mantener o reforzar.",
+    "source": {
+      "doc": "salf",
+      "page": 24,
+      "section": "Sanidad"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-sanidad-003",
+    "doc": "salf",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué ahorro estima SALF con la central de compras sanitaria única, que iría íntegro para sueldos y plazas?",
+    "options": [
+      "15 %",
+      "5 %",
+      "30 %",
+      "10 %"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "SALF estima un ahorro del 15 % (unos 6.000 M€ al año) con una única central de compras obligatoria, en lugar de diecisiete, que compra a precios netos públicos.",
+    "tip": "El 40 % del gasto sanitario son compras; se ahorra una parte de ese gasto.",
+    "source": {
+      "doc": "salf",
+      "page": 22,
+      "section": "Sanidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-sanidad-004",
+    "doc": "salf",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Cuánto subiría el sueldo de los médicos en cuatro años, según SALF?",
+    "options": [
+      "Un 30 %",
+      "Un 10 %",
+      "Un 20 %",
+      "Un 5 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "SALF propone subir un 20 % el sueldo de los médicos y un 10 % el de enfermería y el resto de profesionales sanitarios, con 30.000 euros de complemento en plazas rurales.",
+    "tip": "Los médicos suben más que el resto de profesionales.",
+    "source": {
+      "doc": "salf",
+      "page": 22,
+      "section": "Sanidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-sanidad-005",
+    "doc": "salf",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué ocurriría, según SALF, si el paciente no consigue cita con su médico de familia en 48 horas?",
+    "options": [
+      "Pagaría el paciente una consulta privada",
+      "Se ampliaría el horario del centro de salud sin más",
+      "Consulta privada pagada por el Sistema",
+      "Se derivará a urgencias hospitalarias"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Si no hay cita en 48 horas (hoy, 10 días), SALF propone consulta privada pagada por el Sistema. Incluye telemedicina para crónicos y enfermería que prescribe.",
+    "tip": "El coste lo asumiría la sanidad pública, no el paciente.",
+    "source": {
+      "doc": "salf",
+      "page": 23,
+      "section": "Sanidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-sanidad-006",
+    "doc": "salf",
+    "topic": "sanidad",
+    "type": "which_party",
+    "question": "¿Qué partido propone una única central de compras sanitaria obligatoria, en lugar de diecisiete?",
+    "options": [
+      "podemos",
+      "compromis",
+      "erc",
+      "psoe",
+      "salf"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "Es una propuesta de SALF: hoy diecisiete servicios de salud compran lo mismo a precios distintos, y el ahorro iría íntegro a sueldos y plazas.",
+    "tip": "Se refiere al 40 % del gasto sanitario que son compras.",
+    "source": {
+      "doc": "salf",
+      "page": 22,
+      "section": "Sanidad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-sanidad-007",
+    "doc": "salf",
+    "topic": "sanidad",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO propone SALF en materia de sanidad?",
+    "options": [
+      "10.000 camas más en cuatro años",
+      "Suprimir los conciertos con la sanidad privada",
+      "Una tarjeta sanitaria, una historia clínica y una receta válidas en toda España",
+      "Copago cero para pensiones mínimas y enfermos crónicos"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "SALF permite al paciente elegir centro público o privado si se supera el plazo máximo, pagado por la sanidad pública. No propone suprimir los conciertos.",
+    "tip": "Una opción restringiría la elección entre público y privado, algo que el programa abre.",
+    "source": {
+      "doc": "salf",
+      "page": 23,
+      "section": "Sanidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-educacion-001",
+    "doc": "salf",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "SALF propone una selectividad distinta en cada comunidad autónoma.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. SALF propone una selectividad única y en castellano en toda España, con contenidos mínimos comunes y evaluaciones externas al final de cada etapa.",
+    "tip": "El adjetivo \"única\" aparece en el programa.",
+    "source": {
+      "doc": "salf",
+      "page": 33,
+      "section": "Educación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-educacion-002",
+    "doc": "salf",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "SALF propone una beca-salario de 2.000 euros al mes para FP superior en sectores con déficit.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La beca-salario sería de 2.000 euros al año, para FP superior en sectores como industria, construcción, energía, sanidad o digital. Su coste estimado es de unos 400 M€ al año.",
+    "tip": "Revisa la unidad de tiempo de la cifra.",
+    "source": {
+      "doc": "salf",
+      "page": 34,
+      "section": "Educación"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-educacion-003",
+    "doc": "salf",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Qué mayoría parlamentaria exigiría SALF para aprobar y cambiar su ley educativa de 20 años?",
+    "options": [
+      "Dos tercios",
+      "Mayoría absoluta",
+      "Tres quintos",
+      "Mayoría simple"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La ley educativa sería aprobada por dos tercios y blindada: no se cambiaría sin la misma mayoría. El programa dice que se han aprobado 8 leyes educativas en 45 años.",
+    "tip": "Es una mayoría superior a la que exige el programa para subir impuestos.",
+    "source": {
+      "doc": "salf",
+      "page": 33,
+      "section": "Educación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-educacion-004",
+    "doc": "salf",
+    "topic": "educacion",
+    "type": "multi",
+    "question": "Marca todas las propuestas de SALF sobre contenidos y neutralidad en la educación:",
+    "options": [
+      "Prohibir la propaganda de partidos y sindicatos en horario lectivo",
+      "Que el Gobierno de turno fije los contenidos mínimos cada legislatura",
+      "Un Consejo Académico independiente que fije los contenidos",
+      "El mismo temario de Historia de España para todo el país",
+      "Eliminar las evaluaciones externas al final de cada etapa"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "SALF propone un Consejo Académico independiente, neutralidad ideológica obligatoria con prohibición de propaganda y un temario común de Historia. Las otras dos opciones contradicen su plan: evaluaciones externas y contenidos fijados fuera del Gobierno.",
+    "tip": "El programa quiere sacar los contenidos del control del Gobierno de turno.",
+    "source": {
+      "doc": "salf",
+      "page": 34,
+      "section": "Educación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-educacion-005",
+    "doc": "salf",
+    "topic": "educacion",
+    "type": "which_party",
+    "question": "¿Qué partido propone un cheque escolar con el mismo importe por alumno, válido en centros públicos, concertados y privados?",
+    "options": [
+      "salf",
+      "podemos",
+      "psoe",
+      "erc",
+      "compromis"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es una propuesta de SALF bajo el lema \"el dinero sigue al alumno\", con resultados públicos de cada centro. Se cifra en 8.293 euros por alumno.",
+    "tip": "El lema del apartado dice a dónde va el dinero.",
+    "source": {
+      "doc": "salf",
+      "page": 34,
+      "section": "Educación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-educacion-006",
+    "doc": "salf",
+    "topic": "educacion",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO propone SALF en educación?",
+    "options": [
+      "Certificación B2 de inglés pagada por el Estado al acabar Bachillerato",
+      "MIR docente con dos años de prácticas remuneradas",
+      "Suprimir la Alta Inspección educativa del Estado",
+      "Derecho exigible a estudiar en castellano en toda España"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "SALF propone reforzar la Alta Inspección estatal para sancionar y garantizar el derecho a estudiar en castellano. No propone suprimirla.",
+    "tip": "El programa da más poder, no menos, a la inspección estatal.",
+    "source": {
+      "doc": "salf",
+      "page": 33,
+      "section": "Educación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-inmigracion-001",
+    "doc": "salf",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "SALF propone ejecutar el 100 % de las órdenes de expulsión en 30 días.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. SALF propone identificación, orden y salida en 48 horas, y ejecutar el 100 % de las órdenes en 90 días, con internamiento hasta la expulsión. Según el programa, hoy se ejecuta el 10 %.",
+    "tip": "Hay dos plazos: uno corto para la salida y otro, más largo, para el 100 %.",
+    "source": {
+      "doc": "salf",
+      "page": 17,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-inmigracion-002",
+    "doc": "salf",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "SALF propone prohibir el velo integral únicamente en los colegios.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. SALF propone prohibir el burka y el niqab en el espacio público, como ya ocurre, según el programa, en seis países europeos.",
+    "tip": "El alcance de la prohibición es más amplio que un solo tipo de lugar.",
+    "source": {
+      "doc": "salf",
+      "page": 19,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-inmigracion-003",
+    "doc": "salf",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿En cuántas horas deben readmitir a sus nacionales los países para no perder ayudas, visados ni preferencias comerciales, según SALF?",
+    "options": [
+      "24 horas",
+      "48 horas",
+      "72 horas",
+      "7 días"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "SALF propone no dar ni un euro, ni un visado, ni una preferencia comercial a Marruecos, Argelia, Senegal o Mauritania si no readmiten a sus nacionales en 72 horas.",
+    "tip": "No es el plazo de 48 horas que se plantea para la expulsión.",
+    "source": {
+      "doc": "salf",
+      "page": 17,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-inmigracion-004",
+    "doc": "salf",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Cuántos años de residencia legal y cotización exigiría SALF para acceder a prestaciones no contributivas, ayudas al alquiler y vivienda pública?",
+    "options": [
+      "Cinco años",
+      "Dos años",
+      "Diez años",
+      "Un año"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "SALF propone que ninguna prestación no contributiva, ayuda al alquiler ni vivienda pública se conceda sin cinco años de residencia legal y cotización. Estima un ahorro de unos 1.000 M€ al año.",
+    "tip": "Es la mitad de los años que exige para la nacionalidad.",
+    "source": {
+      "doc": "salf",
+      "page": 19,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-inmigracion-005",
+    "doc": "salf",
+    "topic": "inmigracion",
+    "type": "multi",
+    "question": "Marca todos los requisitos de nacionalidad que propone SALF:",
+    "options": [
+      "Sin antecedentes penales y sin depender de ayudas",
+      "Cinco años de residencia legal para todos los solicitantes",
+      "Renunciar a la nacionalidad de origen",
+      "Diez años de residencia legal",
+      "Examen de cultura y Constitución"
+    ],
+    "answer": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "SALF propone nacionalidad a los diez años de residencia legal, con examen de cultura y Constitución, sin antecedentes y sin depender de ayudas, con cupos preferentes para Hispanoamérica.",
+    "tip": "Los cinco años del programa aparecen en otra medida: las ayudas.",
+    "source": {
+      "doc": "salf",
+      "page": 18,
+      "section": "Inmigración"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-inmigracion-006",
+    "doc": "salf",
+    "topic": "inmigracion",
+    "type": "which_party",
+    "question": "¿Qué partido propone una tasa del 2 % a las remesas hacia países que no readmiten a sus nacionales?",
+    "options": [
+      "psoe",
+      "podemos",
+      "erc",
+      "salf"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Es una propuesta de SALF, dentro de su paquete \"Sin papeles, sin ayudas\", junto con cinco años de residencia y cotización para ayudas.",
+    "tip": "Se aplica a los envíos de dinero al extranjero.",
+    "source": {
+      "doc": "salf",
+      "page": 19,
+      "section": "Inmigración"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-inmigracion-007",
+    "doc": "salf",
+    "topic": "inmigracion",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO propone SALF en materia de inmigración?",
+    "options": [
+      "Moratoria a la inmigración de países que no colaboran contra las mafias",
+      "Prohibir por ley orgánica cualquier regularización masiva",
+      "Prueba radiológica y dental de edad antes de entrar en un centro de menores",
+      "Una regularización extraordinaria de personas sin papeles"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "SALF propone derogar la regularización de 2026, revisar las concesiones y prohibir cualquier regularización masiva. Dice que \"cada regularización es una invitación\".",
+    "tip": "El programa propone lo contrario: prohibir las regularizaciones masivas.",
+    "source": {
+      "doc": "salf",
+      "page": 17,
+      "section": "Inmigración"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-exterior-002",
+    "doc": "salf",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "SALF respalda el tratado de 2026 sobre Gibraltar que abre la Verja.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. SALF critica ese tratado porque abre la Verja sin tocar la soberanía ni el privilegio fiscal. Propone negociación bilateral con Londres con la cosoberanía como primer paso y el fin del paraíso fiscal.",
+    "tip": "El programa pone \"la soberanía, sobre la mesa\".",
+    "source": {
+      "doc": "salf",
+      "page": 37,
+      "section": "Geopolítica"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-exterior-003",
+    "doc": "salf",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "SALF propone aplicar la ley antiterrorista, con penas máximas, por la mera pertenencia a los Hermanos Musulmanes.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. SALF plantea persecución, bloqueo económico y aplicación de la ley antiterrorista con sus penas máximas por la pertenencia a esa y otras redes de radicalización islámica.",
+    "tip": "Se menciona en el título del apartado sobre los Hermanos Musulmanes.",
+    "source": {
+      "doc": "salf",
+      "page": 35,
+      "section": "Geopolítica"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-exterior-004",
+    "doc": "salf",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Cuántos militares más propone SALF para Ceuta y Melilla, además de 1.000 guardias civiles?",
+    "options": [
+      "5.000 militares",
+      "2.500 militares",
+      "10.000 militares",
+      "1.000 militares"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "SALF plantea 5.000 militares y 1.000 guardias civiles más en las dos ciudades, con una brigada completa en cada una y la V Bandera de la Legión recuperada. Coste: unos 500 M€ al año.",
+    "tip": "El programa pide una cifra mayor para militares que para guardias civiles.",
+    "source": {
+      "doc": "salf",
+      "page": 37,
+      "section": "Geopolítica"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-exterior-005",
+    "doc": "salf",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Qué propone SALF sobre el Sáhara Occidental?",
+    "options": [
+      "Volver a la posición de la ONU",
+      "Mantener la posición actual del Gobierno",
+      "Reconocer la independencia inmediata del Sáhara",
+      "Reconocer el plan de autonomía marroquí"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "SALF propone retirar el giro unilateral de 2022 a favor de Rabat, volver a la posición de la ONU, firmar un tratado de amistad con Argelia y contratos de gas a largo plazo.",
+    "tip": "Propone deshacer el cambio de 2022.",
+    "source": {
+      "doc": "salf",
+      "page": 38,
+      "section": "Geopolítica"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-exterior-006",
+    "doc": "salf",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿En qué ciudad propone SALF celebrar una cumbre anual de la Comunidad Hispánica de naciones?",
+    "options": [
+      "Madrid",
+      "Lima",
+      "Ciudad de México",
+      "Bruselas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "SALF propone libre comercio, reconocimiento de títulos y cupos preferentes con las naciones hispanas que lo quieran, y una cumbre anual en Madrid.",
+    "tip": "Es una cumbre organizada desde España.",
+    "source": {
+      "doc": "salf",
+      "page": 38,
+      "section": "Geopolítica"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-exterior-007",
+    "doc": "salf",
+    "topic": "exterior",
+    "type": "multi",
+    "question": "Marca todas las situaciones que, según SALF, activarían un bloqueo comercial a Marruecos:",
+    "options": [
+      "Que use la inmigración como ataque híbrido en la frontera sur",
+      "Que mantenga la exigencia de soberanía sobre Ceuta, Melilla, Canarias u otro territorio español",
+      "Que firme acuerdos de pesca con la UE",
+      "Que bloquee un puerto español",
+      "Que compita con España en exportaciones agrícolas"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "SALF propone bloqueo comercial total si Marruecos bloquea un puerto español, mantiene la exigencia de soberanía sobre territorio español o utiliza la inmigración como ataque híbrido.",
+    "tip": "Las tres situaciones tienen que ver con soberanía, puertos y frontera, no con comercio corriente.",
+    "source": {
+      "doc": "salf",
+      "page": 36,
+      "section": "Geopolítica"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-exterior-008",
+    "doc": "salf",
+    "topic": "exterior",
+    "type": "multi",
+    "question": "Marca todas las condiciones que SALF impondría para mantener la ayuda oficial al desarrollo:",
+    "options": [
+      "Readmisión de nacionales en 72 horas",
+      "Cooperación contra el narcotráfico y el yihadismo",
+      "Respeto a la soberanía de España",
+      "Que el país receptor reduzca sus emisiones de CO2",
+      "Que el país receptor celebre elecciones libres"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "SALF recorta la ayuda salvo emergencias y programas con retorno para España: readmisión en 72 horas, respeto a la soberanía (quien reclame Ceuta, Melilla o Canarias no cobra) y cooperación contra narcotráfico y yihadismo.",
+    "tip": "Las condiciones del programa se refieren a intereses de seguridad y soberanía de España.",
+    "source": {
+      "doc": "salf",
+      "page": 39,
+      "section": "Geopolítica"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-exterior-009",
+    "doc": "salf",
+    "topic": "exterior",
+    "type": "multi",
+    "question": "Marca todas las medidas de refuerzo de la defensa de Ceuta, Melilla y Canarias que propone SALF:",
+    "options": [
+      "Baterías antiaéreas y red antidrón en Ceuta, Melilla y cada isla canaria",
+      "Retirar la Legión de Ceuta y Melilla",
+      "Cerrar definitivamente la frontera de Ceuta con Marruecos",
+      "1.000 guardias civiles más en las dos ciudades",
+      "5.000 militares más en Ceuta y Melilla"
+    ],
+    "answer": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "SALF propone más militares y guardias civiles, y baterías antiaéreas y antidrón. Además quiere recuperar la V Bandera de la Legión, no retirarla, aunque no habla de cerrar la frontera de forma definitiva.",
+    "tip": "El programa refuerza la presencia militar: no la reduce.",
+    "source": {
+      "doc": "salf",
+      "page": 37,
+      "section": "Geopolítica"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-exterior-010",
+    "doc": "salf",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone una ley de agentes extranjeros por la que quien trabaje para un gobierno, fundación o empresa extranjera debe inscribirse o comete delito?",
+    "options": [
+      "podemos",
+      "psoe",
+      "compromis",
+      "erc",
+      "salf"
+    ],
+    "answer": [
+      4
+    ],
+    "explanation": "Es una propuesta de SALF, junto con la prohibición de financiación extranjera de partidos, fundaciones políticas, medios y ONG que hagan política.",
+    "tip": "Se justifica con las 108 actuaciones de espionaje extranjero detectadas por el CNI en 2025.",
+    "source": {
+      "doc": "salf",
+      "page": 39,
+      "section": "Geopolítica"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-exterior-011",
+    "doc": "salf",
+    "topic": "exterior",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de SALF en materia de exterior y defensa?",
+    "options": [
+      "Mantener el gasto de Defensa en el 2 % del PIB con prioridad a la industria nacional",
+      "Un tratado de amistad con Argelia",
+      "Equiparar las retribuciones de los militares a las de la Guardia Civil",
+      "Subir el gasto en Defensa al 3,5 % del PIB"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "SALF mantiene el gasto de Defensa en el 2 % del PIB: sus mejoras para los militares (unos 1.200 M€ al año) se pagan dentro de ese 2 %.",
+    "tip": "El programa insiste en que las mejoras salen \"dentro del 2 %\".",
+    "source": {
+      "doc": "salf",
+      "page": 38,
+      "section": "Geopolítica"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-territorio-001",
+    "doc": "salf",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "SALF propone condonar la deuda de las comunidades autónomas con mayor déficit.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. SALF se opone a las condonaciones de deuda entre administraciones, salvo en caso de catástrofe, y defiende una financiación autonómica con criterios objetivos e iguales para todas las comunidades.",
+    "tip": "Una de las medidas del apartado es \"0 € de condonaciones\".",
+    "source": {
+      "doc": "salf",
+      "page": 14,
+      "section": "Impuestos"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-territorio-002",
+    "doc": "salf",
+    "topic": "territorio",
+    "type": "multi",
+    "question": "Marca todas las medidas de SALF para Canarias:",
+    "options": [
+      "Eliminar la Zona Especial Canaria",
+      "Suprimir el descuento de residente en avión y barco",
+      "75 % de descuento de residente en avión y barco, pagado a las compañías en 30 días",
+      "Deducción de 1.000 euros en la cuota del IRPF para los residentes",
+      "Zona Especial Canaria al 0 % de Sociedades para la empresa que cree cinco empleos"
+    ],
+    "answer": [
+      2,
+      3,
+      4
+    ],
+    "explanation": "SALF propone una deducción de 1.000 euros en el IRPF, ZEC al 0 % de Sociedades y pagar a las compañías en 30 días el descuento de residente del 75 %. No suprime la ZEC ni el descuento: los refuerza.",
+    "tip": "Dos de las opciones eliminarían beneficios que el programa quiere ampliar.",
+    "source": {
+      "doc": "salf",
+      "page": 36,
+      "section": "Geopolítica"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-territorio-003",
+    "doc": "salf",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿En qué municipios propone SALF la gestión mancomunada obligatoria?",
+    "options": [
+      "Se exige en municipios de menos de 20.000 habitantes",
+      "Se exige en municipios de menos de 1.000 habitantes",
+      "Se exige en municipios de menos de 10.000 habitantes",
+      "Se exige en municipios de menos de 5.000 habitantes"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "SALF propone gestión mancomunada obligatoria en municipios de menos de 5.000 habitantes (ahorro: 3.000 M€ al año), además de suprimir las diputaciones provinciales (1.500 M€).",
+    "tip": "Es un umbral de pueblos pequeños, no de ciudades medianas.",
+    "source": {
+      "doc": "salf",
+      "page": 16,
+      "section": "Cómo se paga"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-territorio-004",
+    "doc": "salf",
+    "topic": "territorio",
+    "type": "which_party",
+    "question": "¿Qué partido propone convertir Ceuta y Melilla en plaza franca, con 0 % de IRPF, 0 % de Sociedades y 0 % de cotizaciones empresariales para siempre?",
+    "options": [
+      "erc",
+      "salf",
+      "psoe",
+      "podemos",
+      "compromis"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es una propuesta de SALF. Hoy la bonificación es del 60 % en IRPF y Sociedades y del 75 % en cotizaciones. Coste: unos 280 M€ al año.",
+    "tip": "Se presenta junto con un puerto franco y aduana comercial abierta por España.",
+    "source": {
+      "doc": "salf",
+      "page": 36,
+      "section": "Geopolítica"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-medioambiente-001",
+    "doc": "salf",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué ministerio absorbería Energía y Medio Ambiente en la estructura de SALF?",
+    "options": [
+      "Infraestructuras, Energía e Industria",
+      "Presidencia y Administraciones Públicas",
+      "Sanidad y Seguridad Social",
+      "Agricultura, Pesca y Alimentación"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El Ministerio de Transición Ecológica desaparece como tal: Energía y Medio Ambiente pasan a un nuevo ministerio de Infraestructuras, Energía e Industria, que también absorbe Transportes, Industria y Turismo.",
+    "tip": "El nombre del nuevo ministerio ya incluye una de las áreas.",
+    "source": {
+      "doc": "salf",
+      "page": 3,
+      "section": "El Gobierno"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-rural-001",
+    "doc": "salf",
+    "topic": "rural",
+    "type": "single",
+    "question": "Según SALF, ¿cuántos millones de euros al año quita al campo español el recorte del 20 % de la PAC?",
+    "options": [
+      "1.877 millones",
+      "177 millones",
+      "877 millones",
+      "477 millones"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "SALF propone vetar en el Consejo de la UE el acuerdo con Mercosur, el recorte de la PAC (877 M€ al año) y el Pacto Verde, bajo el lema \"lo que se come en España se produce en España\".",
+    "tip": "Es una cifra de cientos de millones, no de miles.",
+    "source": {
+      "doc": "salf",
+      "page": 35,
+      "section": "Geopolítica"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-cultura-001",
+    "doc": "salf",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "SALF propone suprimir la publicidad institucional.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. SALF suprime la publicidad institucional, junto con las subvenciones a sindicatos y patronal y el Senado, y prohíbe la financiación extranjera de medios que hagan política.",
+    "tip": "Entre los recortes está el dinero público que va a medios de comunicación.",
+    "source": {
+      "doc": "salf",
+      "page": 29,
+      "section": "Corrupción"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-otros-001",
+    "doc": "salf",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Dónde quedaría bloqueado el sueldo público de Alvise Pérez según la cláusula de penalización de SALF?",
+    "options": [
+      "En una cuenta del Tribunal de Cuentas",
+      "En una cuenta del Banco de España",
+      "En una notaría",
+      "En el Tesoro Público"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El 100 % de su sueldo público queda bloqueado desde el primer día en una cuenta del Banco de España. Si en junio de 2030 no se cumple el 100 % de las medidas, el dinero se lo queda España.",
+    "tip": "El nombre de la institución incluye la palabra \"España\".",
+    "source": {
+      "doc": "salf",
+      "page": 4,
+      "section": "Cláusula de penalización"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-otros-002",
+    "doc": "salf",
+    "topic": "otros",
+    "type": "tf",
+    "question": "Según SALF, la cláusula de penalización solo se aplicaría si el partido entrara en el Gobierno.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Si SALF no entra en el Gobierno, la multa se aplica igual en base a la actividad de voto en el Congreso de los Diputados.",
+    "tip": "El programa prevé el caso de no entrar en el Gobierno.",
+    "source": {
+      "doc": "salf",
+      "page": 4,
+      "section": "Cláusula de penalización"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "salf-otros-003",
+    "doc": "salf",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Cuántas medidas tiene el contrato electoral de SALF?",
+    "options": [
+      "119 medidas",
+      "150 medidas",
+      "99 medidas",
+      "29 medidas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El contrato electoral de SALF tiene 119 medidas y la cláusula de penalización compara su cumplimiento con los votos de Alvise Pérez en el Congreso.",
+    "tip": "Es una cifra algo superior a cien.",
+    "source": {
+      "doc": "salf",
+      "page": 4,
+      "section": "Cláusula de penalización"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-otros-004",
+    "doc": "salf",
+    "topic": "otros",
+    "type": "single",
+    "question": "Según el plan financiero de SALF, ¿cuántos millones de euros al año quedarían para reducir deuda?",
+    "options": [
+      "4.700 millones",
+      "1.700 millones",
+      "6.800 millones",
+      "8.000 millones"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "SALF calcula 88.500 M€ de ahorro e ingresos frente a 81.700 M€ de rebaja fiscal y nuevo gasto; la diferencia, 6.800 M€, iría a reducir deuda.",
+    "tip": "Es la diferencia entre dos cifras del cuadro.",
+    "source": {
+      "doc": "salf",
+      "page": 16,
+      "section": "Cómo se paga"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "salf-otros-005",
+    "doc": "salf",
+    "topic": "otros",
+    "type": "tf",
+    "question": "SALF invita al resto de partidos a firmar la misma cláusula de penalización.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El programa dice: \"el que no la firme ya te ha dicho cuánto vale su programa\".",
+    "tip": "La cláusula se presenta como un reto a otros partidos.",
+    "source": {
+      "doc": "salf",
+      "page": 4,
+      "section": "Cláusula de penalización"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "salf-otros-006",
+    "doc": "salf",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿En qué mes de 2030 se compararían las 119 medidas con los votos de Alvise Pérez en el Congreso?",
+    "options": [
+      "Diciembre",
+      "Marzo",
+      "Enero",
+      "Junio"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "La comparación se haría en junio de 2030. Si no se alcanza el 100 %, el dinero acumulado en la cuenta del Banco de España pasa a España.",
+    "tip": "Es a mitad del año, antes del final de la legislatura.",
+    "source": {
+      "doc": "salf",
+      "page": 4,
+      "section": "Cláusula de penalización"
+    },
+    "difficulty": 3
   }
 ]

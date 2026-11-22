@@ -73,5 +73,2315 @@
       "section": "Educación"
     },
     "difficulty": 3
+  },
+  {
+    "id": "vox-vivienda-001",
+    "doc": "vox",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Vox propone un tipo del 0% de IVA para la compra de la primera vivienda habitual de nueva construcción.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es cierto. El programa plantea IVA del 0% en la primera vivienda habitual nueva y una bonificación del 100% del ITP (impuesto de transmisiones patrimoniales) si es de segunda mano.",
+    "tip": "Fíjate en que la medida se limita a la primera vivienda habitual.",
+    "source": {
+      "doc": "vox",
+      "page": 24,
+      "section": "Vivienda"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-vivienda-002",
+    "doc": "vox",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Vox propone que la vivienda okupada se desaloje en un plazo máximo de 72 horas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso: el programa habla de desalojar la vivienda okupada en menos de 24 horas y de recuperar de inmediato la posesión por su titular.",
+    "tip": "El plazo del programa es bastante más corto que tres días.",
+    "source": {
+      "doc": "vox",
+      "page": 24,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-vivienda-003",
+    "doc": "vox",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Cómo propone Vox tipificar la «inquiocupación» en el Código Penal?",
+    "options": [
+      "Como delito de estafa",
+      "Como falta administrativa",
+      "Como delito de coacciones",
+      "Como delito de allanamiento de morada"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa propone tipificar la «inquiocupación» (cuando un inquilino deja de pagar y se queda en la vivienda) como delito de estafa, junto al endurecimiento del Código Penal.",
+    "tip": "Se trata de un delito ligado al engaño con el pago, no a la entrada en la casa.",
+    "source": {
+      "doc": "vox",
+      "page": 24,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-vivienda-004",
+    "doc": "vox",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "Para comprar como primera vivienda habitual una de segunda mano, Vox propone una bonificación del ITP de...",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa propone bonificar el 100% del ITP (impuesto que se paga al comprar una vivienda usada) en la primera vivienda habitual de segunda mano.",
+    "tip": "Es la cifra máxima posible para una bonificación.",
+    "source": {
+      "doc": "vox",
+      "page": 24,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-vivienda-005",
+    "doc": "vox",
+    "topic": "vivienda",
+    "type": "multi",
+    "question": "Marca todas las medidas de vivienda que están en el programa de Vox:",
+    "options": [
+      "Derogar la Ley de Vivienda",
+      "Reformar la Ley del Suelo para ampliar el suelo disponible",
+      "Limitar por ley el precio del alquiler en zonas tensionadas",
+      "Recuperar la deducción por inversión en vivienda habitual",
+      "Expropiar viviendas vacías de grandes propietarios"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "Vox plantea derogar la Ley de Vivienda, reformar la Ley del Suelo y recuperar la deducción por vivienda habitual. No incluye topar alquileres ni expropiar viviendas vacías.",
+    "tip": "Dos de las opciones suponen más intervención en el mercado del alquiler y de la propiedad.",
+    "source": {
+      "doc": "vox",
+      "page": 24,
+      "section": "Vivienda"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vox-vivienda-006",
+    "doc": "vox",
+    "topic": "vivienda",
+    "type": "which_party",
+    "question": "¿Qué partido propone exigir la verificación previa de la residencia legal como requisito para formalizar contratos de alquiler?",
+    "options": [
+      "psoe",
+      "vox",
+      "podemos",
+      "compromis"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Vox propone prohibir el arrendamiento a inmigrantes ilegales y exigir verificar la residencia legal antes de firmar un contrato de alquiler.",
+    "tip": "Es una medida que une vivienda e inmigración.",
+    "source": {
+      "doc": "vox",
+      "page": 24,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-vivienda-007",
+    "doc": "vox",
+    "topic": "vivienda",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa de Vox?",
+    "options": [
+      "Fiscalidad agravada para compradores no comunitarios y fondos especulativos",
+      "Regulación de la proliferación de viviendas de uso turístico (VUT)",
+      "IVA del 0% en la primera vivienda habitual nueva",
+      "Limitar por ley el precio del alquiler en zonas tensionadas"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Vox propone otras vías (más oferta, derogar la Ley de Vivienda, incentivos fiscales al alquiler de larga duración). El tope legal a los precios del alquiler es una propuesta de otras fuerzas.",
+    "tip": "Piensa en una medida que restringe precios en lugar de aumentar la oferta.",
+    "source": {
+      "doc": "vox",
+      "page": 25,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-vivienda-008",
+    "doc": "vox",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "Según Vox, ¿a qué se destinaría la recaudación de la fiscalidad agravada a compradores no comunitarios y operaciones especulativas?",
+    "options": [
+      "A bonificaciones para la compra de vivienda y a construir vivienda protegida",
+      "A reducir la deuda pública",
+      "A financiar las ayudas a las ONG de acogida",
+      "A rebajar el Impuesto de Sociedades"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa dice que lo recaudado con esa fiscalidad «agravada y disuasoria» se destinará a bonificaciones para comprar vivienda y a construir vivienda protegida.",
+    "tip": "El destino está dentro del propio ámbito de la vivienda.",
+    "source": {
+      "doc": "vox",
+      "page": 25,
+      "section": "Vivienda"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vox-empleo-001",
+    "doc": "vox",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "Vox propone derogar la legislación laboral aprobada por el Gobierno de Sánchez.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es cierto. El programa atribuye a esa legislación más precariedad y menos contratación, y propone derogarla.",
+    "tip": "Es uno de los puntos de las «derogaciones» que anuncia el programa.",
+    "source": {
+      "doc": "vox",
+      "page": 13,
+      "section": "Economía, industria y energía"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-empleo-002",
+    "doc": "vox",
+    "topic": "empleo",
+    "type": "single",
+    "question": "Vox propone una cuota de autónomos que, superado el umbral del SMI, sería progresiva y empezaría desde...",
+    "options": [
+      "30 euros",
+      "50 euros",
+      "100 euros",
+      "200 euros"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa fija cuota cero si los ingresos no llegan al Salario Mínimo Interprofesional (SMI) y, por encima, una cuota progresiva desde 50 euros.",
+    "tip": "Es una cifra baja y redonda, menor que 100.",
+    "source": {
+      "doc": "vox",
+      "page": 9,
+      "section": "Economía, industria y energía"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-empleo-003",
+    "doc": "vox",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "El programa de Vox plantea reducir la jornada laboral máxima a 37,5 horas semanales sin bajar el sueldo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Esa propuesta no aparece en el programa de Vox; sus medidas laborales son derogar la legislación laboral actual, bajar impuestos y apoyar a autónomos.",
+    "tip": "Pregúntate si encaja con las medidas de empleo que sí cita el programa.",
+    "source": {
+      "doc": "vox",
+      "page": 13,
+      "section": "Economía, industria y energía"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-empleo-004",
+    "doc": "vox",
+    "topic": "empleo",
+    "type": "multi",
+    "question": "Marca todo lo que el programa de Vox propone sobre inteligencia artificial (IA):",
+    "options": [
+      "Impulsar la IA en las empresas, especialmente pymes y autónomos",
+      "Formar a trabajadores y jóvenes para las nuevas oportunidades",
+      "Implantarla en las administraciones garantizando siempre la atención presencial",
+      "Prohibir su uso en la Administración Pública",
+      "Crear un impuesto específico a las empresas que usen IA"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa quiere «sumar a España a la carrera de la IA» para mejorar la productividad y reducir la burocracia, manteniendo la atención presencial.",
+    "tip": "Dos opciones frenarían el uso de la IA, justo lo contrario de «sumarse a la carrera».",
+    "source": {
+      "doc": "vox",
+      "page": 27,
+      "section": "Desregulación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-empleo-005",
+    "doc": "vox",
+    "topic": "empleo",
+    "type": "single",
+    "question": "¿Qué es la «brecha maternal» que el programa de Vox quiere combatir?",
+    "options": [
+      "Las dificultades de las madres que interrumpieron su carrera para volver a trabajar",
+      "La diferencia de sueldo entre hombres y mujeres en un mismo puesto",
+      "La caída de la natalidad en las zonas rurales",
+      "La falta de plazas de educación infantil de 0 a 3 años"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Vox propone facilitar la formación, permanencia, promoción y reincorporación al trabajo de las madres que interrumpieron su carrera por la maternidad o el cuidado de familiares.",
+    "tip": "El término se refiere a la vuelta al empleo, no a una cifra de salarios.",
+    "source": {
+      "doc": "vox",
+      "page": 52,
+      "section": "Familia y vida"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-economia-002",
+    "doc": "vox",
+    "topic": "economia",
+    "type": "tf",
+    "question": "Vox propone aplicar el silencio administrativo positivo como regla general, aunque con excepciones en nacionalidad, residencia y permisos de trabajo a extranjeros.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es cierto. Silencio positivo significa que, si la Administración no contesta en plazo, el ciudadano puede seguir adelante. El programa excluye materias de inmigración.",
+    "tip": "Fíjate en las excepciones: tienen que ver con quién entra y se queda en España.",
+    "source": {
+      "doc": "vox",
+      "page": 28,
+      "section": "Desregulación"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vox-economia-003",
+    "doc": "vox",
+    "topic": "economia",
+    "type": "tf",
+    "question": "El programa de Vox propone mantener las subvenciones a partidos, sindicatos y patronales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El programa propone reducirlas progresivamente hasta su eliminación total, también las de ONG y observatorios.",
+    "tip": "Va dentro de la «reducción radical de los gastos de la Administración».",
+    "source": {
+      "doc": "vox",
+      "page": 29,
+      "section": "Desregulación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-economia-004",
+    "doc": "vox",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿A quién se aplicaría la «fiscalidad mínima y diferenciada» en zonas en riesgo de despoblación, según Vox?",
+    "options": [
+      "Residentes españoles de esas zonas y españoles que se trasladen a ellas",
+      "Solo a empresas que se instalen en esas zonas",
+      "A todos los residentes, sean o no españoles",
+      "Solo a agricultores y ganaderos"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa prevé tipos mínimos, bonificaciones y deducciones reforzadas para los residentes españoles de estas zonas y para los españoles que decidan trasladarse a ellas.",
+    "tip": "Observa que la medida incluye un requisito de nacionalidad.",
+    "source": {
+      "doc": "vox",
+      "page": 10,
+      "section": "Economía, industria y energía"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vox-economia-005",
+    "doc": "vox",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿Qué problemas quiere contrarrestar el «Plan Nacional de Reindustrialización» de Vox?",
+    "options": [
+      "Las deslocalizaciones, la competencia desleal y la pérdida de empleo industrial",
+      "El exceso de turismo en las ciudades",
+      "La falta de vivienda para trabajadores industriales",
+      "La subida del precio del petróleo"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Una deslocalización es el traslado de una fábrica a otro país. El plan busca frenarlas, atraer inversiones estratégicas y aumentar el peso de la industria en el PIB.",
+    "tip": "El plan se centra en el sector industrial y su empleo.",
+    "source": {
+      "doc": "vox",
+      "page": 12,
+      "section": "Economía, industria y energía"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-economia-006",
+    "doc": "vox",
+    "topic": "economia",
+    "type": "multi",
+    "question": "Marca todas las rebajas de impuestos que propone Vox:",
+    "options": [
+      "Bajar y simplificar el IRPF, con un tipo menor según el número de hijos",
+      "Bajar el tipo reducido y el general del IVA, sobre todo en productos de primera necesidad",
+      "Reducir el tipo del Impuesto de Sociedades",
+      "Subir el impuesto sobre grandes fortunas",
+      "Crear un impuesto a la banca"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa plantea una «rebaja masiva de impuestos»: IRPF, IVA y Impuesto de Sociedades. Subir impuestos a grandes fortunas o a la banca no aparece.",
+    "tip": "Dos de las opciones consisten en subir impuestos en lugar de bajarlos.",
+    "source": {
+      "doc": "vox",
+      "page": 9,
+      "section": "Economía, industria y energía"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-economia-007",
+    "doc": "vox",
+    "topic": "economia",
+    "type": "multi",
+    "question": "Marca todas las medidas de simplificación administrativa que figuran en el programa de Vox:",
+    "options": [
+      "Ventanilla y dato único con un expediente digital centralizado",
+      "Fin de la cita previa en las oficinas públicas",
+      "Silencio administrativo positivo y declaración responsable como regla general",
+      "Obligar a pedir cita previa por internet en todos los trámites",
+      "Crear una tasa por cada trámite digital"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa propone un expediente digital único, atender presencialmente sin turno previo y aplicar el silencio positivo. Las otras dos opciones irían en sentido contrario.",
+    "tip": "Se busca reducir trámites, no añadir más.",
+    "source": {
+      "doc": "vox",
+      "page": 27,
+      "section": "Desregulación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-economia-008",
+    "doc": "vox",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone una «Ley de Unidad de Mercado» para que lo que es legal en una comunidad autónoma lo sea en toda España?",
+    "options": [
+      "psoe",
+      "podemos",
+      "compromis",
+      "vox"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Vox sostiene que «España es un solo mercado» y que una empresa o producto que opera legalmente en una comunidad pueda hacerlo en el resto sin trámites adicionales.",
+    "tip": "El eslogan del punto es «un solo mercado y una sola Nación».",
+    "source": {
+      "doc": "vox",
+      "page": 28,
+      "section": "Desregulación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-economia-009",
+    "doc": "vox",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone reducir progresivamente hasta eliminarlas las subvenciones a partidos, sindicatos, patronales, ONG y observatorios?",
+    "options": [
+      "psoe",
+      "podemos",
+      "vox",
+      "pnv"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Vox lo incluye dentro de su auditoría integral de las administraciones y el recorte de gastos «superfluos» para compensar la bajada de impuestos.",
+    "tip": "Son medidas de recorte del gasto público para financiar menos impuestos.",
+    "source": {
+      "doc": "vox",
+      "page": 29,
+      "section": "Desregulación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-economia-010",
+    "doc": "vox",
+    "topic": "economia",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa de Vox?",
+    "options": [
+      "Auditoría integral de las administraciones públicas",
+      "Fin de la cita previa en las oficinas públicas",
+      "Ventanilla y dato único en la Administración",
+      "Crear una banca pública"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Las tres primeras sí figuran en el programa. Crear una banca pública es una propuesta de otras fuerzas; Vox plantea reducir el tamaño de la Administración.",
+    "tip": "Una de las opciones aumentaría el papel del Estado en la economía.",
+    "source": {
+      "doc": "vox",
+      "page": 28,
+      "section": "Desregulación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-pensiones-001",
+    "doc": "vox",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "El programa de Vox propone reforzar el presupuesto en dependencia y aumentar las plazas en residencias.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es cierto. También incluye ayudas al cuidado en el hogar y más programas de atención a la soledad no deseada.",
+    "tip": "Está dentro del apartado de cuidado de mayores y dependientes.",
+    "source": {
+      "doc": "vox",
+      "page": 52,
+      "section": "Familia y vida"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-pensiones-002",
+    "doc": "vox",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "Según Vox, la sostenibilidad de las pensiones se garantizará principalmente subiendo las cotizaciones sociales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El programa la vincula a una economía más productiva, más empleo, mejores salarios y más natalidad, no a subir cotizaciones.",
+    "tip": "El programa insiste en crecer y en el empleo.",
+    "source": {
+      "doc": "vox",
+      "page": 10,
+      "section": "Economía, industria y energía"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-pensiones-003",
+    "doc": "vox",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "¿Para qué colectivo propone Vox que el Estado financie la cotización a la Seguridad Social?",
+    "options": [
+      "Españoles dedicados al cuidado de sus hijos",
+      "Cualquier persona desempleada",
+      "Jóvenes menores de 30 años",
+      "Autónomos con ingresos bajos"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La medida busca que criar a los hijos no penalice la jubilación: el Estado pagaría la cotización a los españoles dedicados al cuidado de sus hijos.",
+    "tip": "La medida pretende que criar hijos no perjudique la pensión futura.",
+    "source": {
+      "doc": "vox",
+      "page": 51,
+      "section": "Familia y vida"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-pensiones-004",
+    "doc": "vox",
+    "topic": "pensiones",
+    "type": "which_party",
+    "question": "¿Qué partido propone que el Ingreso Mínimo Vital (IMV) atienda únicamente a los españoles con menos recursos?",
+    "options": [
+      "frenteamplio",
+      "vox",
+      "psoe",
+      "podemos"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Vox propone limitar el IMV a españoles y promover el retorno de los inmigrantes que lo cobren, o cobren sus complementos autonómicos.",
+    "tip": "Es una aplicación del principio de «prioridad nacional».",
+    "source": {
+      "doc": "vox",
+      "page": 19,
+      "section": "Prioridad nacional"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vox-sanidad-001",
+    "doc": "vox",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "Vox propone una tarjeta sanitaria única con historia clínica compartida en todo el territorio nacional.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es cierto. Persigue que todos los españoles reciban la misma atención de calidad, con el historial médico accesible desde cualquier comunidad.",
+    "tip": "La idea es que el historial te acompañe si te trasladas de comunidad.",
+    "source": {
+      "doc": "vox",
+      "page": 37,
+      "section": "Sanidad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-sanidad-002",
+    "doc": "vox",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "El programa de Vox propone que los extranjeros en situación ilegal reciban la misma atención sanitaria que el resto.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone excluirlos de la sanidad salvo casos de urgencia grave y auditar el coste de la inmigración en la sanidad pública.",
+    "tip": "El programa pone una excepción solo para urgencias graves.",
+    "source": {
+      "doc": "vox",
+      "page": 19,
+      "section": "Prioridad nacional"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-sanidad-003",
+    "doc": "vox",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué estructura crearía Vox para reforzar la atención contra el cáncer?",
+    "options": [
+      "Una Red de Centros Nacionales de Oncología",
+      "Un Hospital Nacional único en Madrid",
+      "Una Agencia Estatal de Salud Pública",
+      "Un seguro privado obligatorio para pacientes oncológicos"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa prevé reforzar la Estrategia Nacional del Cáncer y crear una Red de Centros Nacionales de Oncología.",
+    "tip": "Su nombre incluye la especialidad médica y el adjetivo «Nacionales».",
+    "source": {
+      "doc": "vox",
+      "page": 38,
+      "section": "Sanidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-sanidad-004",
+    "doc": "vox",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "Para reducir las listas de espera, Vox propone fomentar la colaboración público-privada...",
+    "options": [
+      "cuando ayude efectivamente a reducir demoras, con transparencia y control del gasto",
+      "en cualquier caso, sustituyendo a la sanidad pública",
+      "solo en urgencias hospitalarias",
+      "únicamente para cirugía estética"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El plan nacional contra las listas de espera incluye colaboración público-privada condicionada a que reduzca de verdad las demoras, con evaluación de calidad e indicadores públicos.",
+    "tip": "La propuesta pone una condición explícita a esa colaboración.",
+    "source": {
+      "doc": "vox",
+      "page": 37,
+      "section": "Sanidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-sanidad-005",
+    "doc": "vox",
+    "topic": "sanidad",
+    "type": "multi",
+    "question": "Marca todas las medidas sobre profesionales sanitarios que aparecen en el programa de Vox:",
+    "options": [
+      "Incentivos para plazas rurales o de difícil cobertura",
+      "Un programa de retorno de sanitarios españoles que trabajan en el extranjero",
+      "Fin del turismo sanitario",
+      "Reducir los conciertos con la sanidad privada",
+      "Incluir la salud bucodental (dentista) en la sanidad pública"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa plantea incentivos para plazas de difícil cobertura, un plan de retorno de profesionales emigrados y acabar con el turismo sanitario (viajar a España solo para recibir tratamiento).",
+    "tip": "Dos de las opciones no se mencionan en el programa.",
+    "source": {
+      "doc": "vox",
+      "page": 38,
+      "section": "Sanidad"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vox-sanidad-006",
+    "doc": "vox",
+    "topic": "sanidad",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa de Vox?",
+    "options": [
+      "Tarjeta sanitaria única en toda España",
+      "Plan de retorno de sanitarios que se marcharon al extranjero",
+      "Refuerzo de la Estrategia Nacional de Salud Mental",
+      "Incluir el dentista en la sanidad pública"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Vox propone reforzar atención primaria, salud mental y oncología, pero el programa no contempla incluir la salud bucodental en la cartera pública.",
+    "tip": "Piensa en una prestación nueva que no se cita entre los refuerzos del apartado.",
+    "source": {
+      "doc": "vox",
+      "page": 38,
+      "section": "Sanidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-sanidad-007",
+    "doc": "vox",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "Vox propone que el desconocimiento de las lenguas regionales no sea un impedimento para...",
+    "options": [
+      "el acceso por oposición a plazas de personal sanitario",
+      "ser atendido en un hospital público",
+      "obtener la tarjeta sanitaria",
+      "cursar estudios de Medicina"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa quiere que no conocer una lengua regional no impida acceder por oposición a plazas sanitarias ni perjudique a los pacientes.",
+    "tip": "La medida afecta a la contratación de profesionales.",
+    "source": {
+      "doc": "vox",
+      "page": 37,
+      "section": "Sanidad"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vox-educacion-002",
+    "doc": "vox",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "Vox propone derogar la LOMLOE, la ley educativa vigente.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es cierto. El programa propone derogarla y recuperar una enseñanza basada en el esfuerzo, el mérito y la exigencia, potenciando matemáticas, lectura, humanidades y ciencias.",
+    "tip": "LOMLOE es el nombre de la ley educativa actual.",
+    "source": {
+      "doc": "vox",
+      "page": 41,
+      "section": "Educación, cultura y deporte"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-educacion-003",
+    "doc": "vox",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "Vox propone que cada comunidad autónoma fije su propio currículo, sus evaluaciones y su inspección educativa.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone lo contrario: unificar currículo, evaluaciones nacionales e inspección para toda España.",
+    "tip": "El programa busca igualar oportunidades con reglas comunes.",
+    "source": {
+      "doc": "vox",
+      "page": 41,
+      "section": "Educación, cultura y deporte"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-educacion-004",
+    "doc": "vox",
+    "topic": "educacion",
+    "type": "single",
+    "question": "Para el acceso a la universidad, Vox propone...",
+    "options": [
+      "Reválidas y una EVAU única",
+      "Una prueba distinta en cada comunidad",
+      "Suprimir las pruebas de acceso",
+      "Una prueba solo para alumnos de centros privados"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa habla de «reválidas y EVAU única» dentro de su idea de unificar currículo y evaluaciones. La EVAU es la prueba de acceso a la universidad.",
+    "tip": "El adjetivo clave es «única».",
+    "source": {
+      "doc": "vox",
+      "page": 41,
+      "section": "Educación, cultura y deporte"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-educacion-005",
+    "doc": "vox",
+    "topic": "educacion",
+    "type": "single",
+    "question": "Sobre los teléfonos móviles en los centros educativos, el programa de Vox propone...",
+    "options": [
+      "El fin de los móviles en clase",
+      "Permitirlos solo como herramienta didáctica",
+      "Que cada familia decida",
+      "Prohibirlos solo en primaria"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Se incluye en el bloque de «respeto en las aulas»: fin de los móviles en clase, refuerzo de la autoridad del profesor y plan contra el acoso escolar y el ciberacoso.",
+    "tip": "Se plantea como una prohibición general en clase.",
+    "source": {
+      "doc": "vox",
+      "page": 41,
+      "section": "Educación, cultura y deporte"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-educacion-006",
+    "doc": "vox",
+    "topic": "educacion",
+    "type": "which_party",
+    "question": "¿Qué partido propone fijar un número máximo de alumnos de otras culturas o con dominio insuficiente del español por aula?",
+    "options": [
+      "psoe",
+      "podemos",
+      "vox",
+      "compromis"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Vox lo combina con aulas específicas de nivelación para que esos alumnos alcancen el nivel requerido antes de integrarse en su clase.",
+    "tip": "Se vincula con la propuesta de aulas de nivelación.",
+    "source": {
+      "doc": "vox",
+      "page": 42,
+      "section": "Educación, cultura y deporte"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-educacion-007",
+    "doc": "vox",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Con qué finalidad crearía Vox «aulas específicas de nivelación»?",
+    "options": [
+      "Que los alumnos que se incorporan tarde alcancen el nivel requerido antes de integrarse en su clase",
+      "Reforzar a los alumnos con altas capacidades",
+      "Agrupar a los alumnos por rendimiento desde primaria",
+      "Atender solo a alumnos con discapacidad"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa dice que así se evita ralentizar al resto de la clase y se dan más posibilidades de éxito a los alumnos recién incorporados.",
+    "tip": "Se aplicaría a alumnos que llegan al sistema español más tarde que el resto.",
+    "source": {
+      "doc": "vox",
+      "page": 42,
+      "section": "Educación, cultura y deporte"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vox-educacion-008",
+    "doc": "vox",
+    "topic": "educacion",
+    "type": "multi",
+    "question": "¿En cuáles de estos ámbitos propone Vox aplicar la «prioridad nacional» en educación?",
+    "options": [
+      "Elección de centro para los hijos",
+      "Ayudas y subvenciones educativas",
+      "Plazas de guardería y becas de comedor y transporte",
+      "Notas de corte de la universidad",
+      "Plazas de oposiciones docentes"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa aplica la prioridad nacional a la elección de centro, las ayudas educativas y el acceso a guarderías y becas de comedor y transporte.",
+    "tip": "Los ámbitos citados se refieren a la elección de centro y a las ayudas.",
+    "source": {
+      "doc": "vox",
+      "page": 42,
+      "section": "Educación, cultura y deporte"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vox-educacion-009",
+    "doc": "vox",
+    "topic": "educacion",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Vox?",
+    "options": [
+      "Derogar la LOMLOE",
+      "Reválidas y EVAU única",
+      "Prohibir los móviles en clase",
+      "Sacar la asignatura de religión del horario escolar"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Las tres primeras figuran en el programa. Sacar la religión del horario escolar es una propuesta de otras fuerzas.",
+    "tip": "Una de las opciones trata sobre una asignatura concreta.",
+    "source": {
+      "doc": "vox",
+      "page": 41,
+      "section": "Educación, cultura y deporte"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-igualdad-001",
+    "doc": "vox",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "Vox propone que el deporte femenino se rija por «criterios biológicos y deportivos objetivos».",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es cierto. El programa se compromete con la defensa del deporte femenino con esos criterios para garantizar la igualdad real en la competición.",
+    "tip": "La frase aparece en el apartado de deporte.",
+    "source": {
+      "doc": "vox",
+      "page": 43,
+      "section": "Educación, cultura y deporte"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-igualdad-002",
+    "doc": "vox",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "En materia de violencia contra las mujeres, ¿qué propone el programa de Vox?",
+    "options": [
+      "Derogar las «leyes de género» e impulsar otras normas que protejan a las víctimas de violencia",
+      "Ampliar las leyes de género existentes",
+      "Mantener las leyes y crear más juzgados especializados",
+      "Aprobar una ley única contra todo tipo de violencia sin otras medidas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Vox sostiene que las leyes de género no han reducido el número de víctimas y propone sustituirlas por normas que protejan a las mujeres víctimas de violencia, en especial por maltrato.",
+    "tip": "El programa propone sustituir las leyes actuales.",
+    "source": {
+      "doc": "vox",
+      "page": 30,
+      "section": "Desregulación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-igualdad-003",
+    "doc": "vox",
+    "topic": "igualdad",
+    "type": "which_party",
+    "question": "¿Qué partido propone derogar las «leyes de género» y sustituirlas por normas de protección a las víctimas de violencia?",
+    "options": [
+      "psoe",
+      "podemos",
+      "vox",
+      "compromis"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Vox afirma que esas leyes han criminalizado a los hombres y propone nuevas normas de protección para las mujeres víctimas de violencia.",
+    "tip": "Es el partido que habla de «denuncias falsas» como fenómeno creciente.",
+    "source": {
+      "doc": "vox",
+      "page": 30,
+      "section": "Desregulación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-igualdad-004",
+    "doc": "vox",
+    "topic": "igualdad",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Vox?",
+    "options": [
+      "Derogar las «leyes de género»",
+      "Objeción de conciencia de sanitarios y farmacéuticos",
+      "Deporte femenino regido por criterios biológicos y deportivos objetivos",
+      "Garantizar el aborto en la sanidad pública"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa defiende «el derecho a la vida desde su concepción hasta la muerte natural» y la objeción de conciencia; no propone garantizar el aborto en la sanidad pública.",
+    "tip": "El programa habla del derecho a la vida desde la concepción.",
+    "source": {
+      "doc": "vox",
+      "page": 52,
+      "section": "Familia y vida"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-inmigracion-002",
+    "doc": "vox",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "El programa de Vox afirma que España no puede acoger a más inmigrantes después de recibir 5 millones de personas en 5 años.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es cierto. Es el punto «Ni uno más», que incluye prohibir las regularizaciones masivas.",
+    "tip": "El título del punto incluye la expresión «Ni uno más».",
+    "source": {
+      "doc": "vox",
+      "page": 15,
+      "section": "Inmigración"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-inmigracion-003",
+    "doc": "vox",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "Según el programa de Vox, quien entra de forma ilegal podrá regularizar su situación al cabo de unos años mediante el arraigo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Vox propone que quien entra de forma ilegal «jamás» podrá regularizar su situación y suprimir el arraigo.",
+    "tip": "El programa no admite excepciones para quien entre ilegalmente.",
+    "source": {
+      "doc": "vox",
+      "page": 15,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-inmigracion-004",
+    "doc": "vox",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Qué propone Vox sobre el «arraigo» y las «pasarelas rápidas» a la nacionalidad?",
+    "options": [
+      "Suprimir el arraigo y revocar las pasarelas rápidas",
+      "Endurecer el arraigo pero mantenerlo",
+      "Ampliar el arraigo a más casos",
+      "Sustituir el arraigo por un visado de búsqueda de empleo"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El arraigo es una vía para regularizar a quien lleva tiempo viviendo en España. Vox propone suprimirlo y revocar las vías rápidas de nacionalidad.",
+    "tip": "Se propone eliminar la figura, no modificarla.",
+    "source": {
+      "doc": "vox",
+      "page": 15,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-inmigracion-005",
+    "doc": "vox",
+    "topic": "inmigracion",
+    "type": "multi",
+    "question": "Marca todas las medidas sobre ONG y cooperación al desarrollo que aparecen en el programa de Vox:",
+    "options": [
+      "Eliminar subvenciones a ONG que promuevan o faciliten la inmigración ilegal",
+      "Terminar la cooperación al desarrollo con países que no colaboren en gestionar los flujos migratorios",
+      "Perseguir a ONG o redes que colaboren en la sustracción de menores",
+      "Aumentar la cooperación al desarrollo con los países de origen",
+      "Crear vías legales de migración circular"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa propone retirar subvenciones y convenios a ONG vinculadas a la inmigración ilegal y poner fin a la cooperación con países que no colaboren. No plantea más cooperación ni migración circular.",
+    "tip": "Dos opciones no son medidas restrictivas.",
+    "source": {
+      "doc": "vox",
+      "page": 16,
+      "section": "Inmigración"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vox-inmigracion-006",
+    "doc": "vox",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "Sobre los menores extranjeros no acompañados, Vox propone...",
+    "options": [
+      "Devolverlos a sus padres o a instituciones de tutela de su país de origen",
+      "Repartirlos obligatoriamente entre las comunidades autónomas",
+      "Regularizarlos al cumplir los 18 años",
+      "Acogerlos en centros estatales hasta la mayoría de edad"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa plantea devolverlos a sus familias o a instituciones de tutela de su país, «atendiendo al interés superior del menor».",
+    "tip": "El texto habla de devolver al menor a su familia o tutela de origen.",
+    "source": {
+      "doc": "vox",
+      "page": 15,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-inmigracion-007",
+    "doc": "vox",
+    "topic": "inmigracion",
+    "type": "which_party",
+    "question": "¿Qué partido propone un gravamen sobre las remesas al extranjero?",
+    "options": [
+      "psoe",
+      "podemos",
+      "vox",
+      "erc"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Las remesas son el dinero que los inmigrantes envían a sus países. Vox propone gravarlas para que el dinero generado aquí mejore la economía de quienes viven en España.",
+    "tip": "Es una de las medidas del bloque de «prioridad nacional».",
+    "source": {
+      "doc": "vox",
+      "page": 19,
+      "section": "Prioridad nacional"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-inmigracion-008",
+    "doc": "vox",
+    "topic": "inmigracion",
+    "type": "which_party",
+    "question": "¿Qué partido propone un plan de «remigración» para facilitar el retorno a sus países de extranjeros que no contribuyan o vivan de subsidios?",
+    "options": [
+      "frenteamplio",
+      "podemos",
+      "erc",
+      "vox"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Vox define la remigración como un plan para facilitar el retorno de extranjeros que no contribuyan o vivan de subsidios públicos.",
+    "tip": "El término empieza por el prefijo «re-» y se refiere a un retorno.",
+    "source": {
+      "doc": "vox",
+      "page": 15,
+      "section": "Inmigración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-inmigracion-009",
+    "doc": "vox",
+    "topic": "inmigracion",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa de Vox?",
+    "options": [
+      "Suprimir el arraigo",
+      "Gravamen sobre las remesas",
+      "Deportación de quienes cometan delitos graves",
+      "Una regularización extraordinaria de inmigrantes en situación irregular"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Vox propone prohibir las regularizaciones masivas; la regularización extraordinaria es una propuesta de otras fuerzas.",
+    "tip": "El programa prohíbe las regularizaciones masivas.",
+    "source": {
+      "doc": "vox",
+      "page": 15,
+      "section": "Inmigración"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-inmigracion-010",
+    "doc": "vox",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "Vox propone ampliar los supuestos de pérdida de la nacionalidad para los españoles no de origen en casos de delitos graves o reiterados.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es cierto. Forma parte del endurecimiento de los requisitos de adquisición de la nacionalidad, junto con la revisión de concesiones fraudulentas.",
+    "tip": "La medida diferencia entre españoles de origen y los que adquirieron la nacionalidad.",
+    "source": {
+      "doc": "vox",
+      "page": 15,
+      "section": "Inmigración"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vox-medioambiente-001",
+    "doc": "vox",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "Vox propone derogar el calendario de cierre de las centrales nucleares actuales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es cierto. El programa propone «recuperar el plan nuclear nacional» y garantizar la supervivencia de las centrales existentes.",
+    "tip": "El plan nuclear va junto a la idea de seguridad energética.",
+    "source": {
+      "doc": "vox",
+      "page": 12,
+      "section": "Economía, industria y energía"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-medioambiente-002",
+    "doc": "vox",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "Vox propone mantener la prohibición de los motores de combustión y los impuestos a las emisiones de CO2.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone revertir esas normativas, que atribuye al Pacto Verde Europeo y a la Agenda 2030.",
+    "tip": "El programa quiere revertir normas inspiradas en el Pacto Verde Europeo.",
+    "source": {
+      "doc": "vox",
+      "page": 12,
+      "section": "Economía, industria y energía"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-medioambiente-003",
+    "doc": "vox",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Dónde propone Vox realizar estudios para instalar nuevas centrales nucleares?",
+    "options": [
+      "En los emplazamientos disponibles adyacentes a las centrales actuales",
+      "En zonas costeras sin población",
+      "Únicamente en islas",
+      "En antiguas minas de carbón"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa promueve estudios urgentes para instalar centrales en los emplazamientos disponibles junto a las actuales y llevar a cabo los proyectos viables lo antes posible.",
+    "tip": "Se aprovecharían terrenos próximos a instalaciones ya existentes.",
+    "source": {
+      "doc": "vox",
+      "page": 12,
+      "section": "Economía, industria y energía"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vox-medioambiente-004",
+    "doc": "vox",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "Marca todas las propuestas energéticas que figuran en el programa de Vox:",
+    "options": [
+      "Bajada masiva de los impuestos de la electricidad",
+      "Fin del tope regulatorio a la inversión en redes eléctricas",
+      "Un «Plan Nacional de Soberanía Energética»",
+      "Crear una empresa pública de energía",
+      "Prohibir los vuelos cortos cuando exista alternativa en tren"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa propone abaratar la electricidad con menos impuestos, eliminar el tope a la inversión en redes y aprovechar los recursos energéticos propios. No contempla una empresa pública ni prohibir vuelos cortos.",
+    "tip": "Dos de las opciones aumentarían la intervención pública o las restricciones.",
+    "source": {
+      "doc": "vox",
+      "page": 11,
+      "section": "Economía, industria y energía"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-medioambiente-005",
+    "doc": "vox",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone acabar con las Zonas de Bajas Emisiones (ZBE) por considerar que limitan la libertad de circulación?",
+    "options": [
+      "psoe",
+      "podemos",
+      "vox",
+      "compromis"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Las ZBE son áreas urbanas donde se restringe la circulación de los vehículos más contaminantes. Vox propone acabar con ellas junto con otras «imposiciones climáticas».",
+    "tip": "Se enmarca en el rechazo al Pacto Verde.",
+    "source": {
+      "doc": "vox",
+      "page": 29,
+      "section": "Desregulación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-medioambiente-006",
+    "doc": "vox",
+    "topic": "medioambiente",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa de Vox?",
+    "options": [
+      "Eliminar las Zonas de Bajas Emisiones",
+      "Fin de las restricciones para explorar y explotar yacimientos minerales",
+      "Recuperar el plan nuclear nacional",
+      "Acelerar los objetivos de renovables y de lucha contra el cambio climático"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Vox propone revertir las políticas climáticas europeas, no acelerarlas.",
+    "tip": "Una opción va en sentido contrario al resto del bloque.",
+    "source": {
+      "doc": "vox",
+      "page": 12,
+      "section": "Economía, industria y energía"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-rural-001",
+    "doc": "vox",
+    "topic": "rural",
+    "type": "tf",
+    "question": "El programa de Vox rechaza de forma explícita el acuerdo comercial UE-Mercosur.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es cierto. Además propone cláusulas espejo, recuperar la preferencia comunitaria y aumentar los controles en frontera.",
+    "tip": "Se justifica por la competencia en desigualdad de condiciones.",
+    "source": {
+      "doc": "vox",
+      "page": 33,
+      "section": "Sector primario y mundo rural"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-rural-002",
+    "doc": "vox",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Qué principio propone recuperar Vox en el comercio agrario?",
+    "options": [
+      "La preferencia comunitaria",
+      "La libre importación sin aranceles",
+      "La soberanía fiscal autonómica",
+      "El precio mínimo garantizado"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "La preferencia comunitaria consiste en dar prioridad a los productos de la UE frente a los de terceros países. Va unida a las «cláusulas espejo».",
+    "tip": "El término se refiere a los productos de dentro de la Unión Europea.",
+    "source": {
+      "doc": "vox",
+      "page": 33,
+      "section": "Sector primario y mundo rural"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-rural-003",
+    "doc": "vox",
+    "topic": "rural",
+    "type": "tf",
+    "question": "Vox propone reducir el presupuesto de la Política Agraria Común (PAC) europea.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El programa expresa un «rechazo frontal» a la propuesta de reducir el presupuesto de la PAC.",
+    "tip": "El programa defiende al sector agrario frente a Bruselas.",
+    "source": {
+      "doc": "vox",
+      "page": 34,
+      "section": "Sector primario y mundo rural"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-rural-004",
+    "doc": "vox",
+    "topic": "rural",
+    "type": "multi",
+    "question": "Marca todas las medidas contra los incendios que figuran en el programa de Vox:",
+    "options": [
+      "Limpieza y aprovechamiento de los montes",
+      "Endurecimiento de las penas a los incendiarios",
+      "Revisión de las restricciones ambientales que obstaculizan la prevención",
+      "Transferir la prevención forestal a las comunidades autónomas",
+      "Prohibir el aprovechamiento de los montes"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa plantea limpiar y aprovechar los montes, más medios y coordinación, revisar restricciones ambientales y endurecer las penas.",
+    "tip": "Las dos opciones incorrectas van en sentido contrario al aprovechamiento de montes o a la coordinación.",
+    "source": {
+      "doc": "vox",
+      "page": 34,
+      "section": "Sector primario y mundo rural"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vox-rural-005",
+    "doc": "vox",
+    "topic": "rural",
+    "type": "multi",
+    "question": "Marca todas las propuestas sobre la PAC y la pesca que aparecen en el programa de Vox:",
+    "options": [
+      "Vincular el reparto de la PAC a una variable que prime la despoblación",
+      "Revisar la Política Pesquera Común y las cuotas",
+      "Apoyar la modernización de la flota y el relevo generacional",
+      "Eliminar la PAC",
+      "Aumentar las cuotas de pesca de países extracomunitarios"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa propone ligar fondos de la PAC a la despoblación, revisar la Política Pesquera Común (las reglas europeas de pesca) y apoyar la modernización de la flota.",
+    "tip": "Dos de las opciones perjudicarían al sector primario español.",
+    "source": {
+      "doc": "vox",
+      "page": 34,
+      "section": "Sector primario y mundo rural"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vox-rural-006",
+    "doc": "vox",
+    "topic": "rural",
+    "type": "which_party",
+    "question": "¿Qué partido propone un Plan Nacional del Agua con interconexión de todas las cuencas?",
+    "options": [
+      "psoe",
+      "vox",
+      "podemos",
+      "frenteamplio"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Vox lo plantea para gestionar el agua de forma más eficiente y reactivar económicamente territorios. Una cuenca es el territorio que recoge el agua de un río y sus afluentes.",
+    "tip": "Es un plan que une varias cuencas hidrográficas.",
+    "source": {
+      "doc": "vox",
+      "page": 61,
+      "section": "Infraestructuras y transportes"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-rural-007",
+    "doc": "vox",
+    "topic": "rural",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa de Vox?",
+    "options": [
+      "Defensa de la caza",
+      "Fondo de compensación frente a imposiciones de Bruselas",
+      "Declaración responsable y silencio positivo en trámites del medio rural",
+      "Prohibir la caza deportiva"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa defiende la caza como actividad esencial para controlar las poblaciones y proteger explotaciones agrícolas y ganaderas.",
+    "tip": "Una de las opciones contradice lo que dice el programa sobre las tradiciones rurales.",
+    "source": {
+      "doc": "vox",
+      "page": 35,
+      "section": "Sector primario y mundo rural"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-territorio-001",
+    "doc": "vox",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "Vox propone garantizar la calidad de los servicios públicos y la igualdad de derechos con independencia del lugar de residencia, sobre todo en educación, sanidad, seguridad y justicia.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es cierto. Forma parte de la defensa de la igualdad de los españoles entre territorios.",
+    "tip": "El énfasis está en que el lugar de residencia no cambie los derechos.",
+    "source": {
+      "doc": "vox",
+      "page": 20,
+      "section": "Prioridad nacional"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-territorio-002",
+    "doc": "vox",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "Vox propone que cada comunidad autónoma pueda fijar requisitos propios para el ejercicio de actividades económicas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone una Ley de Unidad de Mercado para que lo legal en una comunidad lo sea en toda España, sin requisitos distintos por territorio.",
+    "tip": "El programa defiende un único mercado nacional.",
+    "source": {
+      "doc": "vox",
+      "page": 28,
+      "section": "Desregulación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-territorio-003",
+    "doc": "vox",
+    "topic": "territorio",
+    "type": "single",
+    "question": "Vox propone prohibir los indultos en los delitos relacionados con...",
+    "options": [
+      "la corrupción política, la forma política del Estado o la integridad territorial",
+      "cualquier delito con pena de prisión",
+      "únicamente el terrorismo",
+      "los delitos económicos de menos de 100.000 euros"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El indulto es el perdón de una pena por parte del Gobierno. El programa lo prohíbe para esos tres tipos de delitos.",
+    "tip": "Entre los casos citados aparece la forma política del Estado.",
+    "source": {
+      "doc": "vox",
+      "page": 56,
+      "section": "Independencia de la justicia y lucha contra la corrupción"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vox-territorio-004",
+    "doc": "vox",
+    "topic": "territorio",
+    "type": "which_party",
+    "question": "¿Qué partido propone ilegalizar a los partidos y organizaciones que atenten contra la soberanía y la integridad territorial de España?",
+    "options": [
+      "psoe",
+      "vox",
+      "erc",
+      "podemos"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Vox plantea ilegalizar partidos, asociaciones u organizaciones que atenten contra la soberanía, independencia, unidad e integridad territorial de España.",
+    "tip": "Está junto a la propuesta de recuperar el delito de sedición.",
+    "source": {
+      "doc": "vox",
+      "page": 56,
+      "section": "Independencia de la justicia y lucha contra la corrupción"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-instituciones-001",
+    "doc": "vox",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "Según Vox, ¿quién elegiría a los doce vocales de procedencia judicial del CGPJ?",
+    "options": [
+      "Los propios jueces y magistrados, con voto personal, directo y secreto",
+      "El Congreso y el Senado por mayoría cualificada",
+      "El Gobierno a propuesta del Ministerio de Justicia",
+      "El Tribunal Supremo por sorteo"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El CGPJ es el órgano de gobierno de los jueces. Vox propone acabar con las cuotas partidistas en la elección de sus doce vocales judiciales.",
+    "tip": "Los electores serían los propios jueces y magistrados.",
+    "source": {
+      "doc": "vox",
+      "page": 55,
+      "section": "Independencia de la justicia y lucha contra la corrupción"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-instituciones-002",
+    "doc": "vox",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "Vox propone ampliar la prisión permanente revisable.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es cierto. El programa sostiene que quienes cometen los peores delitos deben recibir las máximas condenas.",
+    "tip": "Es una de las propuestas de endurecimiento penal.",
+    "source": {
+      "doc": "vox",
+      "page": 45,
+      "section": "Seguridad y defensa"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-instituciones-003",
+    "doc": "vox",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "Vox propone elevar la edad de responsabilidad penal del menor.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone reducirla y plantear la eliminación de la inimputabilidad para delitos violentos como homicidios o agresiones sexuales.",
+    "tip": "La propuesta va en la dirección de más severidad.",
+    "source": {
+      "doc": "vox",
+      "page": 45,
+      "section": "Seguridad y defensa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-instituciones-004",
+    "doc": "vox",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Qué organismo de lucha contra el narcotráfico propone restablecer Vox de forma inmediata?",
+    "options": [
+      "El OCON Sur",
+      "El CITCO",
+      "El Servicio de Vigilancia Aduanera",
+      "La Agencia Nacional del Narcotráfico"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El OCON Sur es el Organismo de Coordinación del Narcotráfico. Se propone restablecerlo junto con más medios contra la criminalidad organizada.",
+    "tip": "Es una sigla de cuatro letras que termina en el nombre de una zona geográfica.",
+    "source": {
+      "doc": "vox",
+      "page": 46,
+      "section": "Seguridad y defensa"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vox-instituciones-005",
+    "doc": "vox",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "Marca todos los colectivos que Vox propone reconocer como «profesión de riesgo»:",
+    "options": [
+      "Guardia Civil",
+      "Funcionarios de prisiones",
+      "Fuerzas Armadas",
+      "Policía local",
+      "Bomberos"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa propone reconocer como profesión de riesgo a la Guardia Civil, la Policía Nacional, los funcionarios de prisiones y las Fuerzas Armadas.",
+    "tip": "Las opciones incorrectas son cuerpos que dependen de ayuntamientos.",
+    "source": {
+      "doc": "vox",
+      "page": 46,
+      "section": "Seguridad y defensa"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vox-instituciones-006",
+    "doc": "vox",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone recuperar el delito de sedición?",
+    "options": [
+      "psoe",
+      "podemos",
+      "vox",
+      "erc"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Vox lo incluye en su respuesta frente a los ataques contra la Unidad Nacional, junto con agravar la malversación de caudales públicos.",
+    "tip": "Se plantea como una respuesta penal en defensa de la unidad nacional.",
+    "source": {
+      "doc": "vox",
+      "page": 56,
+      "section": "Independencia de la justicia y lucha contra la corrupción"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-instituciones-007",
+    "doc": "vox",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "Vox propone que todos los delitos cometidos por ETA se consideren...",
+    "options": [
+      "Crímenes de lesa humanidad, para que no prescriban nunca",
+      "Delitos comunes con penas reducidas",
+      "Delitos prescritos tras 20 años",
+      "Crímenes de guerra sin responsabilidad penal"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Un delito prescribe cuando pasa el plazo legal para perseguirlo. El programa propone la imprescriptibilidad de los delitos de terrorismo y el fin de privilegios penitenciarios a los condenados.",
+    "tip": "La consecuencia buscada es que los delitos nunca prescriban.",
+    "source": {
+      "doc": "vox",
+      "page": 57,
+      "section": "Independencia de la justicia y lucha contra la corrupción"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-instituciones-008",
+    "doc": "vox",
+    "topic": "instituciones",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa de Vox?",
+    "options": [
+      "Auditoría integral de las administraciones",
+      "Reforma de RTVE para informar con objetividad y pluralidad",
+      "Responsabilidad patrimonial de los cargos condenados por corrupción",
+      "Un referéndum sobre monarquía o república"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa propone máxima protección jurídica a símbolos como la Corona; no propone un referéndum sobre la forma de Estado.",
+    "tip": "El programa defiende la protección jurídica de los símbolos nacionales.",
+    "source": {
+      "doc": "vox",
+      "page": 57,
+      "section": "Independencia de la justicia y lucha contra la corrupción"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-instituciones-009",
+    "doc": "vox",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Qué propone Vox para RTVE?",
+    "options": [
+      "Una reforma integral para informar con objetividad y pluralidad",
+      "Su privatización completa",
+      "Su financiación exclusiva mediante publicidad",
+      "Reducir su programación a un único canal"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa propone «limpiar RTVE de comisarios políticos» y ponerla al servicio de los españoles con una reforma integral.",
+    "tip": "No se habla de venderla ni de reducirla.",
+    "source": {
+      "doc": "vox",
+      "page": 58,
+      "section": "Independencia de la justicia y lucha contra la corrupción"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-exterior-001",
+    "doc": "vox",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "Vox propone aplicar toda la presión internacional necesaria para recuperar la soberanía española sobre Gibraltar.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es cierto. Además propone desmantelar redes de contrabando y blanqueo de capitales y un plan de inversiones para el Campo de Gibraltar.",
+    "tip": "El punto menciona también al Campo de Gibraltar.",
+    "source": {
+      "doc": "vox",
+      "page": 48,
+      "section": "Seguridad y defensa"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-exterior-002",
+    "doc": "vox",
+    "topic": "exterior",
+    "type": "single",
+    "question": "Vox propone impulsar sanciones y revisar las relaciones diplomáticas con Marruecos hasta que...",
+    "options": [
+      "Marruecos respete las fronteras y la soberanía de España",
+      "Marruecos reconozca la españolidad del Sáhara",
+      "se firme un nuevo acuerdo pesquero",
+      "se revise el acuerdo de asociación con la UE"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa lo plantea en el apartado de Ceuta y Melilla, junto con suspender acuerdos internacionales con ese país.",
+    "tip": "La condición se refiere al respeto a las fronteras de España.",
+    "source": {
+      "doc": "vox",
+      "page": 7,
+      "section": "Ceuta y Melilla"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-exterior-003",
+    "doc": "vox",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "Vox propone reducir la inversión en Defensa para destinar más dinero a gasto social.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone aumentar la inversión en Defensa, mejorar los sueldos y dignificar la profesión militar.",
+    "tip": "El programa habla de «dignificar» la profesión militar.",
+    "source": {
+      "doc": "vox",
+      "page": 47,
+      "section": "Seguridad y defensa"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-exterior-004",
+    "doc": "vox",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone la militarización de la frontera de Ceuta y Melilla?",
+    "options": [
+      "psoe",
+      "podemos",
+      "vox",
+      "erc"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Vox propone militarizar la frontera para repeler cualquier intento futuro de invasión o ataque híbrido, y proteger sus aguas y espacio aéreo.",
+    "tip": "Se menciona la expresión «ataque híbrido».",
+    "source": {
+      "doc": "vox",
+      "page": 7,
+      "section": "Ceuta y Melilla"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-exterior-005",
+    "doc": "vox",
+    "topic": "exterior",
+    "type": "multi",
+    "question": "Marca todo lo que Vox propone para las Fuerzas Armadas:",
+    "options": [
+      "Aumentar la inversión en Defensa",
+      "Sueldos dignos y ayudas a la movilidad geográfica y a la vivienda",
+      "Reconocer su servicio como profesión de riesgo",
+      "Reducir el gasto en Defensa a favor del gasto social",
+      "Eliminar la participación de las Fuerzas Armadas en el control de fronteras"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa propone más inversión, mejores condiciones y reconocimiento como profesión de riesgo. También propone que participen en la protección permanente de las fronteras.",
+    "tip": "Dos de las opciones son recortes o retiradas de funciones.",
+    "source": {
+      "doc": "vox",
+      "page": 47,
+      "section": "Seguridad y defensa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-exterior-006",
+    "doc": "vox",
+    "topic": "exterior",
+    "type": "which_not",
+    "question": "¿Cuál de estas medidas NO está en el programa de Vox?",
+    "options": [
+      "Recuperar la soberanía sobre Gibraltar",
+      "Reforzar la ciberseguridad y la protección de infraestructuras críticas",
+      "Suspender la aplicación en España de acuerdos internacionales que impidan su desarrollo productivo",
+      "Avanzar hacia una Unión Europea más federal y con más poder"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Vox defiende la soberanía frente a injerencias y rechaza imposiciones de Bruselas; no propone una mayor integración europea.",
+    "tip": "El programa habla de defender la soberanía frente a injerencias extranjeras.",
+    "source": {
+      "doc": "vox",
+      "page": 47,
+      "section": "Seguridad y defensa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-cultura-001",
+    "doc": "vox",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "Vox propone una nueva Ley de Mecenazgo para elevar las deducciones del IRPF.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es cierto. La ley de mecenazgo regula los incentivos fiscales a quienes financian cultura. Se suma a la reducción de impuestos al arte y los espectáculos en vivo.",
+    "tip": "El programa incluye medidas fiscales para el arte.",
+    "source": {
+      "doc": "vox",
+      "page": 43,
+      "section": "Educación, cultura y deporte"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-cultura-002",
+    "doc": "vox",
+    "topic": "cultura",
+    "type": "which_party",
+    "question": "¿Qué partido propone la defensa y promoción de la tauromaquia?",
+    "options": [
+      "psoe",
+      "podemos",
+      "vox",
+      "erc"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Vox propone promover la difusión del arte taurino y las actividades alrededor de esa tradición.",
+    "tip": "Se enmarca en la defensa de las tradiciones.",
+    "source": {
+      "doc": "vox",
+      "page": 43,
+      "section": "Educación, cultura y deporte"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-cultura-003",
+    "doc": "vox",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿Frente a qué riesgos propone Vox proteger a los menores en los entornos digitales?",
+    "options": [
+      "La adicción al juego y la pornografía",
+      "La publicidad de alimentos",
+      "El uso de videojuegos en horario escolar",
+      "La falta de conectividad en zonas rurales"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa propone preservar «la inocencia de los menores» frente a riesgos digitales como la adicción al juego, la pornografía o ciertos delitos.",
+    "tip": "Los riesgos citados tienen que ver con el juego y los contenidos para adultos.",
+    "source": {
+      "doc": "vox",
+      "page": 52,
+      "section": "Familia y vida"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-cultura-004",
+    "doc": "vox",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "Vox propone que las comunidades autónomas puedan tener selecciones propias en competiciones internacionales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Propone despolitizar el deporte y garantizar que las selecciones nacionales representen a España.",
+    "tip": "Se vincula con reforzar la Unidad Nacional.",
+    "source": {
+      "doc": "vox",
+      "page": 43,
+      "section": "Educación, cultura y deporte"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-otros-001",
+    "doc": "vox",
+    "topic": "otros",
+    "type": "tf",
+    "question": "Vox propone limitar el importe de las multas de tráfico y estacionamiento en infracciones que no comprometan gravemente la seguridad vial.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es cierto. El programa pide que la cuantía responda a la gravedad de la infracción y no a criterios recaudatorios.",
+    "tip": "La justificación es que la cuantía no se base en la recaudación.",
+    "source": {
+      "doc": "vox",
+      "page": 29,
+      "section": "Desregulación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-otros-002",
+    "doc": "vox",
+    "topic": "otros",
+    "type": "tf",
+    "question": "Vox propone un plan de retorno para los españoles que se marcharon de España en los últimos años por falta de oportunidades.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es cierto. Aparece en el bloque de prioridad nacional: facilitar el regreso a quienes se fueron y desean volver.",
+    "tip": "Se refiere a españoles que emigraron, no a extranjeros.",
+    "source": {
+      "doc": "vox",
+      "page": 19,
+      "section": "Prioridad nacional"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "vox-otros-003",
+    "doc": "vox",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué propone Vox respecto a la Ley de Memoria Democrática?",
+    "options": [
+      "Superarla por considerarla una ley ideológica que divide a los españoles",
+      "Ampliarla con nuevas exhumaciones",
+      "Mantenerla sin cambios",
+      "Reformar solo sus artículos económicos"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa propone la «superación» de las leyes ideológicas que enfrentan a los españoles, como la de Memoria Democrática.",
+    "tip": "Habla de «superar», no de ampliar.",
+    "source": {
+      "doc": "vox",
+      "page": 30,
+      "section": "Desregulación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-otros-004",
+    "doc": "vox",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué propone Vox para los símbolos de la Nación (Bandera, Escudo, Himno y Corona)?",
+    "options": [
+      "Máxima protección jurídica y agravar las penas por ofensas y ultrajes",
+      "Retirarlos de los actos públicos",
+      "Mantenerlos con penas simbólicas",
+      "Someter su uso a referéndum"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa propone dotar de máxima protección jurídica a los símbolos de la Nación y agravar las penas por ofensas.",
+    "tip": "La protección propuesta es de tipo penal.",
+    "source": {
+      "doc": "vox",
+      "page": 56,
+      "section": "Independencia de la justicia y lucha contra la corrupción"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "vox-otros-005",
+    "doc": "vox",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué plan propone Vox en torno al patrimonio inmobiliario del Estado?",
+    "options": [
+      "Una auditoría y un Plan Nacional de Rehabilitación para vivienda y servicios públicos",
+      "Vender todos los inmuebles públicos",
+      "Ceder todos los inmuebles a las comunidades autónomas",
+      "Convertirlos exclusivamente en oficinas de la Administración"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa propone auditar el patrimonio inmobiliario del Estado y rehabilitarlo para vivienda o servicios públicos y crear empleo.",
+    "tip": "El destino de los inmuebles debe servir a la vivienda y los servicios públicos.",
+    "source": {
+      "doc": "vox",
+      "page": 57,
+      "section": "Independencia de la justicia y lucha contra la corrupción"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vox-otros-006",
+    "doc": "vox",
+    "topic": "otros",
+    "type": "multi",
+    "question": "Marca todas las medidas del plan nacional de natalidad de Vox:",
+    "options": [
+      "Extender las ayudas de familia numerosa a todas las familias desde el primer hijo",
+      "Bonificación del 100% de la ayuda en el hogar",
+      "Gratuidad real de la educación infantil de 0 a 3 años",
+      "Ampliar los permisos de nacimiento a 24 semanas",
+      "Una renta universal por hijo"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El plan incluye ayudas progresivas desde el primer hijo, bonificación de la ayuda en el hogar y gratuidad real de la educación infantil de 0 a 3 años.",
+    "tip": "Dos de las opciones no aparecen en el plan.",
+    "source": {
+      "doc": "vox",
+      "page": 51,
+      "section": "Familia y vida"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "vox-otros-007",
+    "doc": "vox",
+    "topic": "otros",
+    "type": "multi",
+    "question": "Marca todas las propuestas de infraestructuras que figuran en el programa de Vox:",
+    "options": [
+      "Un plan nacional de infraestructuras",
+      "Modernización y electrificación de las líneas ferroviarias convencionales",
+      "Obras contra las inundaciones y conservación de cauces",
+      "Peajes en todas las autovías",
+      "Cierre de las líneas ferroviarias poco rentables"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa propone un plan nacional, modernizar y electrificar líneas convencionales para conectar ciudades pequeñas y la España rural, y terminar las obras contra inundaciones.",
+    "tip": "Dos de las opciones reducirían la red o encarecerían su uso.",
+    "source": {
+      "doc": "vox",
+      "page": 61,
+      "section": "Infraestructuras y transportes"
+    },
+    "difficulty": 2
   }
 ]

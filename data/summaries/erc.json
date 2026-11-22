@@ -7,27 +7,45 @@
       "points": [
         {
           "text": "Delegar en la Generalitat la facultad de legislar sobre alquileres (una ley de arrendamientos urbanos catalana) mediante una ley estatal basada en el artículo 150.1 de la Constitución.",
-          "source": { "doc": "erc", "page": 19 }
+          "source": {
+            "doc": "erc",
+            "page": 19
+          }
         },
         {
           "text": "Que el Estado dedique al menos el 1,5 % del PIB a políticas de vivienda, multiplicando lo que gasta hoy, y lo transfiera a las comunidades para ampliar el parque público de alquiler.",
-          "source": { "doc": "erc", "page": 19 }
+          "source": {
+            "doc": "erc",
+            "page": 19
+          }
         },
         {
           "text": "Traspasar de forma inmediata y gratuita a la Generalitat todos los inmuebles de la Sareb y de Casa 47, junto con recursos para rehabilitarlos como vivienda protegida.",
-          "source": { "doc": "erc", "page": 19 }
+          "source": {
+            "doc": "erc",
+            "page": 19
+          }
         },
         {
           "text": "Subir el IVA y el ITP al comprar vivienda para uso turístico, alquiler de temporada, segunda residencia o vivienda vacía, y bajarlos si es primera residencia. El IVA del alquiler turístico subiría al 21 %.",
-          "source": { "doc": "erc", "page": 19 }
+          "source": {
+            "doc": "erc",
+            "page": 19
+          }
         },
         {
           "text": "Obligar a los propietarios a construir el suelo en los plazos previstos, con venta o sustitución forzosa si no lo hacen, para evitar que se retenga suelo que podría dedicarse a vivienda asequible.",
-          "source": { "doc": "erc", "page": 19 }
+          "source": {
+            "doc": "erc",
+            "page": 19
+          }
         },
         {
           "text": "Imponer nuevas limitaciones y obligaciones fiscales a fondos buitre y grandes tenedores que destinen pisos a usos distintos de la vivienda habitual, y obligar a la Agencia Tributaria a publicar datos de compraventas y alquileres.",
-          "source": { "doc": "erc", "page": 20 }
+          "source": {
+            "doc": "erc",
+            "page": 20
+          }
         }
       ]
     },
@@ -36,31 +54,52 @@
       "points": [
         {
           "text": "Subir el SMI estatal hasta el 60 % del salario medio bruto y permitir que Cataluña fije un salario mínimo propio de 1.460 euros, superior al estatal.",
-          "source": { "doc": "erc", "page": 20 }
+          "source": {
+            "doc": "erc",
+            "page": 20
+          }
         },
         {
           "text": "Reducir la jornada máxima semanal a 37,5 horas sin bajar el sueldo, reforzar el registro horario digital y el derecho a la desconexión digital.",
-          "source": { "doc": "erc", "page": 26 }
+          "source": {
+            "doc": "erc",
+            "page": 26
+          }
         },
         {
           "text": "Derogar lo que sigue vigente de las reformas laborales de 2010 y 2012: recuperar la indemnización por despido improcedente de 45 días por año (máximo 42 mensualidades) y la autorización previa para despidos colectivos.",
-          "source": { "doc": "erc", "page": 26 }
+          "source": {
+            "doc": "erc",
+            "page": 26
+          }
         },
         {
           "text": "Eliminar el tope en la indemnización por despidos sin causa, siguiendo una decisión del Comité Europeo de Derechos Sociales, para que sea realmente disuasoria para las empresas.",
-          "source": { "doc": "erc", "page": 26 }
+          "source": {
+            "doc": "erc",
+            "page": 26
+          }
         },
         {
           "text": "Cotización de autónomos según ingresos reales (quien menos gana, menos cotiza), cuota reducida si ganan menos que el SMI, nuevos tramos para ingresos de más de 6.000 euros al mes y cuota cero en caso de enfermedad grave.",
-          "source": { "doc": "erc", "page": 26 }
+          "source": {
+            "doc": "erc",
+            "page": 26
+          }
         },
         {
           "text": "Dar representación a los trabajadores en los consejos de administración de las empresas, con cuotas mínimas según su tamaño, y cambiar la ley para facilitar demandas contra falsos autónomos.",
-          "source": { "doc": "erc", "page": 26 }
+          "source": {
+            "doc": "erc",
+            "page": 27
+          }
         },
         {
           "text": "Prohibir externalizar las tareas ordinarias de las camareras de piso en hoteles y dignificar las condiciones del servicio de atención domiciliaria.",
-          "source": { "doc": "erc", "page": 28 }
+          "source": {
+            "doc": "erc",
+            "page": 28
+          }
         }
       ]
     },
@@ -69,31 +108,52 @@
       "points": [
         {
           "text": "Hacer permanente el impuesto de solidaridad a las grandes fortunas, subiendo el tipo a patrimonios de más de 10 millones y creando un tramo nuevo desde 100 millones de euros.",
-          "source": { "doc": "erc", "page": 22 }
+          "source": {
+            "doc": "erc",
+            "page": 22
+          }
         },
         {
           "text": "Recuperar el impuesto a las grandes energéticas y convertir en permanente el impuesto extraordinario a la banca.",
-          "source": { "doc": "erc", "page": 22 }
+          "source": {
+            "doc": "erc",
+            "page": 22
+          }
         },
         {
           "text": "Reforma social del IRPF: subir del 30 % al 35 % el tipo máximo sobre ganancias de capital y bajar los tipos del trabajo para rentas inferiores a 35.000 euros. También bajar el IVA de alimentos básicos e higiene.",
-          "source": { "doc": "erc", "page": 21 }
+          "source": {
+            "doc": "erc",
+            "page": 21
+          }
         },
         {
           "text": "Acabar con la ley Beckham, que permite a quien llega del extranjero tributar como no residente durante 6 años, y con el régimen fiscal favorable a teletrabajadores internacionales.",
-          "source": { "doc": "erc", "page": 22 }
+          "source": {
+            "doc": "erc",
+            "page": 22
+          }
         },
         {
           "text": "Obligar a ofrecer servicio bancario universal (efectivo y atención presencial en cada municipio) y completar la licencia bancaria plena del Instituto Catalán de Finanzas.",
-          "source": { "doc": "erc", "page": 22 }
+          "source": {
+            "doc": "erc",
+            "page": 22
+          }
         },
         {
           "text": "Plan de política industrial activa para sustituir los PERTE (que acaban en 2026) por proyectos estratégicos descentralizados, con apoyo al vehículo eléctrico y al clúster químico de Tarragona.",
-          "source": { "doc": "erc", "page": 29 }
+          "source": {
+            "doc": "erc",
+            "page": 29
+          }
         },
         {
           "text": "Fomentar pymes con financiación, morosidad cero (cumplir plazos de pago) y contratación pública dividida en lotes para facilitar su participación.",
-          "source": { "doc": "erc", "page": 23 }
+          "source": {
+            "doc": "erc",
+            "page": 23
+          }
         }
       ]
     },
@@ -102,27 +162,45 @@
       "points": [
         {
           "text": "Blindar la revalorización de las pensiones públicas con la inflación para que no pierdan poder adquisitivo.",
-          "source": { "doc": "erc", "page": 26 }
+          "source": {
+            "doc": "erc",
+            "page": 26
+          }
         },
         {
           "text": "Revalorizar las pensiones según el IPC de cada territorio, teniendo en cuenta las diferencias de coste de vida entre comunidades.",
-          "source": { "doc": "erc", "page": 26 }
+          "source": {
+            "doc": "erc",
+            "page": 26
+          }
         },
         {
           "text": "Reconocer la jubilación anticipada sin penalización en profesiones penosas o peligrosas, en especial a conductores profesionales de transporte por carretera, y aprobar de inmediato la de los Agentes Rurales.",
-          "source": { "doc": "erc", "page": 26 }
+          "source": {
+            "doc": "erc",
+            "page": 26
+          }
         },
         {
           "text": "Garantizar la integración de los mutualistas en el RETA reconociendo todos los años aportados como años cotizados.",
-          "source": { "doc": "erc", "page": 27 }
+          "source": {
+            "doc": "erc",
+            "page": 27
+          }
         },
         {
           "text": "Crear una prestación universal por crianza desde 200 euros por familia, más alta en territorios con mayor coste de vida. Según estudios citados, reduciría un 43 % la pobreza infantil extrema.",
-          "source": { "doc": "erc", "page": 21 }
+          "source": {
+            "doc": "erc",
+            "page": 21
+          }
         },
         {
           "text": "Adaptar el ingreso mínimo vital al coste de la vida en Cataluña y hacer permanente la prohibición de cortes de suministro a hogares vulnerables.",
-          "source": { "doc": "erc", "page": 28 }
+          "source": {
+            "doc": "erc",
+            "page": 28
+          }
         }
       ]
     },
@@ -131,27 +209,45 @@
       "points": [
         {
           "text": "Defender y reforzar el sistema sanitario público para reducir las listas de espera y frenar la privatización de la sanidad.",
-          "source": { "doc": "erc", "page": 41 }
+          "source": {
+            "doc": "erc",
+            "page": 41
+          }
         },
         {
           "text": "Aumentar de forma estructural la financiación estatal a las administraciones sanitarias para ampliar plantillas, mejorar sueldos y guardias y reforzar la atención primaria y hospitalaria.",
-          "source": { "doc": "erc", "page": 41 }
+          "source": {
+            "doc": "erc",
+            "page": 41
+          }
         },
         {
           "text": "Blindar las competencias de la Generalitat en salud, impedir cualquier recentralización y exigir el traspaso inmediato de las funciones aún pendientes.",
-          "source": { "doc": "erc", "page": 42 }
+          "source": {
+            "doc": "erc",
+            "page": 42
+          }
         },
         {
           "text": "Incluir en la cartera pública la atención oftalmológica y optométrica y financiar gafas graduadas y lentillas con acceso universal.",
-          "source": { "doc": "erc", "page": 42 }
+          "source": {
+            "doc": "erc",
+            "page": 42
+          }
         },
         {
           "text": "Incorporar la atención dental integral y gratuita (revisiones, caries, endodoncias, prótesis) y financiar el acceso universal a atención psicológica y salud mental.",
-          "source": { "doc": "erc", "page": 42 }
+          "source": {
+            "doc": "erc",
+            "page": 42
+          }
         },
         {
           "text": "Garantizar la financiación de la Ley de Dependencia: 2.018 millones adicionales en 2026 y 7.200 millones en 2027, con el 50 % a cargo del Estado.",
-          "source": { "doc": "erc", "page": 41 }
+          "source": {
+            "doc": "erc",
+            "page": 41
+          }
         }
       ]
     },
@@ -160,35 +256,59 @@
       "points": [
         {
           "text": "Blindar el modelo de escuela pública, laica, gratuita y de calidad con el catalán como lengua vehicular y la inmersión lingüística, y cambiar la ley estatal para impedir porcentajes lingüísticos impuestos a los centros.",
-          "source": { "doc": "erc", "page": 10 }
+          "source": {
+            "doc": "erc",
+            "page": 10
+          }
         },
         {
           "text": "Exigir competencias exclusivas en educación y que la Generalitat elabore los currículums de las etapas obligatorias y posobligatorias sin imposiciones del Estado.",
-          "source": { "doc": "erc", "page": 11 }
+          "source": {
+            "doc": "erc",
+            "page": 11
+          }
         },
         {
           "text": "Destinar el 6 % del PIB estatal a educación para reforzar la escuela pública, reducir ratios y mejorar los salarios del profesorado.",
-          "source": { "doc": "erc", "page": 11 }
+          "source": {
+            "doc": "erc",
+            "page": 11
+          }
         },
         {
           "text": "Financiar desde el Estado una plaza pública y gratuita de 0 a 3 años para todos los niños, con un calendario de implantación progresiva.",
-          "source": { "doc": "erc", "page": 11 }
+          "source": {
+            "doc": "erc",
+            "page": 11
+          }
         },
         {
           "text": "Aumentar la inversión estatal en universidades hasta el 1 % del PIB en 2030 y en investigación hasta el 1,5 % del PIB, según prevén las leyes universitaria y de ciencia.",
-          "source": { "doc": "erc", "page": 45 }
+          "source": {
+            "doc": "erc",
+            "page": 45
+          }
         },
         {
           "text": "Reducir la precariedad del personal investigador y docente, acelerar la contratación indefinida, eliminar las tasas de reposición y reformar las prácticas académicas para que no sustituyan empleos pagados.",
-          "source": { "doc": "erc", "page": 45 }
+          "source": {
+            "doc": "erc",
+            "page": 45
+          }
         },
         {
           "text": "Eliminar el distrito único universitario y dar a la agencia catalana AQU las competencias de evaluación y acreditación que hoy tiene la ANECA.",
-          "source": { "doc": "erc", "page": 45 }
+          "source": {
+            "doc": "erc",
+            "page": 45
+          }
         },
         {
           "text": "Integrar la formación profesional del sistema educativo, la del empleo y la de la empresa en un sistema único gestionado por la Generalitat, conectado con universidad e investigación.",
-          "source": { "doc": "erc", "page": 27 }
+          "source": {
+            "doc": "erc",
+            "page": 27
+          }
         }
       ]
     },
@@ -197,31 +317,52 @@
       "points": [
         {
           "text": "Reformar la Ley Orgánica 1/2004 para proteger frente a todas las violencias machistas (económica, vicaria y digital) y aprobar una regulación específica de la violencia vicaria.",
-          "source": { "doc": "erc", "page": 24 }
+          "source": {
+            "doc": "erc",
+            "page": 24
+          }
         },
         {
           "text": "Aprobar una ley integral contra la trata y explotación de seres humanos, con derechos de las víctimas independientemente de su situación administrativa y un fondo estatal para pagar indemnizaciones.",
-          "source": { "doc": "erc", "page": 24 }
+          "source": {
+            "doc": "erc",
+            "page": 24
+          }
         },
         {
           "text": "Reconocer legalmente las identidades no binarias, sin requisitos patologizantes, y garantizar la igualdad de las familias LGTBI+ en filiación y Registro Civil.",
-          "source": { "doc": "erc", "page": 24 }
+          "source": {
+            "doc": "erc",
+            "page": 24
+          }
         },
         {
           "text": "Reforzar la prohibición de las terapias de conversión y tipificar penalmente los casos graves o coercitivos, sin penalizar el acompañamiento psicológico voluntario.",
-          "source": { "doc": "erc", "page": 24 }
+          "source": {
+            "doc": "erc",
+            "page": 24
+          }
         },
         {
           "text": "Crear un permiso laboral retribuido por duelo gestacional (de la semana 6 al día 179) e igualar los derechos de ambos progenitores ante la pérdida gestacional desde el día 180.",
-          "source": { "doc": "erc", "page": 24 }
+          "source": {
+            "doc": "erc",
+            "page": 24
+          }
         },
         {
           "text": "Equiparar las familias monoparentales a las numerosas y garantizar cotizaciones públicas a las personas cuidadoras familiares no profesionales.",
-          "source": { "doc": "erc", "page": 24 }
+          "source": {
+            "doc": "erc",
+            "page": 24
+          }
         },
         {
           "text": "Combatir la discriminación racial en empleo y vivienda, perseguir a las organizaciones que promueven el racismo y exigir a las plataformas más responsabilidad frente al odio.",
-          "source": { "doc": "erc", "page": 25 }
+          "source": {
+            "doc": "erc",
+            "page": 25
+          }
         }
       ]
     },
@@ -230,23 +371,38 @@
       "points": [
         {
           "text": "Traspasar a Cataluña las competencias integrales en migración y asilo para gestionar acogida, evaluación de necesidades e integración con enfoque de derechos humanos.",
-          "source": { "doc": "erc", "page": 14 }
+          "source": {
+            "doc": "erc",
+            "page": 14
+          }
         },
         {
           "text": "Condicionar la aplicación del Reglamento europeo de Retorno a garantías de derechos fundamentales, evitar deportaciones automáticas y rechazar centros de retorno en países terceros.",
-          "source": { "doc": "erc", "page": 14 }
+          "source": {
+            "doc": "erc",
+            "page": 14
+          }
         },
         {
           "text": "Acabar con la externalización de las fronteras y aprobar una nueva ley de asilo que impida tramitar solicitudes en países terceros sin vínculo con la persona solicitante.",
-          "source": { "doc": "erc", "page": 17 }
+          "source": {
+            "doc": "erc",
+            "page": 17
+          }
         },
         {
           "text": "Abrir y ampliar vías legales y seguras de migración y protección internacional, con recursos suficientes.",
-          "source": { "doc": "erc", "page": 17 }
+          "source": {
+            "doc": "erc",
+            "page": 17
+          }
         },
         {
           "text": "Reformar la legislación de extranjería para garantizar derechos a las víctimas de trata independientemente de su situación administrativa.",
-          "source": { "doc": "erc", "page": 24 }
+          "source": {
+            "doc": "erc",
+            "page": 24
+          }
         }
       ]
     },
@@ -255,35 +411,59 @@
       "points": [
         {
           "text": "Transitar hacia un modelo energético 100 % renovable, distribuido y de proximidad, con más capacidad de decisión de la Generalitat sobre la red eléctrica.",
-          "source": { "doc": "erc", "page": 29 }
+          "source": {
+            "doc": "erc",
+            "page": 29
+          }
         },
         {
           "text": "Ampliar el autoconsumo compartido hasta 10 km en general y 20 km en zonas rurales, y apostar por el balance neto cero para el autoconsumo.",
-          "source": { "doc": "erc", "page": 30 }
+          "source": {
+            "doc": "erc",
+            "page": 30
+          }
         },
         {
           "text": "Cumplir una reducción de emisiones de CO2 de al menos el 65 % en 2030 y el 95 % en 2040 respecto a 1990.",
-          "source": { "doc": "erc", "page": 32 }
+          "source": {
+            "doc": "erc",
+            "page": 32
+          }
         },
         {
           "text": "Eliminar las exenciones fiscales al combustible de aviación y navegación y revisar la fiscalidad energética del gas.",
-          "source": { "doc": "erc", "page": 22 }
+          "source": {
+            "doc": "erc",
+            "page": 22
+          }
         },
         {
           "text": "Traspasar a la Generalitat las centrales hidroeléctricas a medida que caduquen las concesiones y condicionar las líneas de muy alta tensión al informe favorable de biodiversidad de la Generalitat.",
-          "source": { "doc": "erc", "page": 30 }
+          "source": {
+            "doc": "erc",
+            "page": 30
+          }
         },
         {
           "text": "Modificar el Plan Hidrológico del Ebro para garantizar caudales ecológicos y proteger el Delta; ampliar la ZEPA del Delta del Llobregat de 935 a 2.372 hectáreas.",
-          "source": { "doc": "erc", "page": 31 }
+          "source": {
+            "doc": "erc",
+            "page": 32
+          }
         },
         {
           "text": "Exigir que el Estado aporte al Fondo de Transición Nuclear de la Generalitat una cantidad equivalente a la catalana, con la recaudación del impuesto sobre instalaciones con impacto ambiental.",
-          "source": { "doc": "erc", "page": 31 }
+          "source": {
+            "doc": "erc",
+            "page": 31
+          }
         },
         {
           "text": "Conseguir 4.000 puntos de recarga de más de 350 kW antes de 2030 y programas de ayudas para camiones de cero emisiones.",
-          "source": { "doc": "erc", "page": 31 }
+          "source": {
+            "doc": "erc",
+            "page": 31
+          }
         }
       ]
     },
@@ -292,27 +472,45 @@
       "points": [
         {
           "text": "Descentralizar la PAC y los fondos europeos agrarios y pesqueros, y exigir que el marco financiero europeo 2028-2034 garantice recursos diferenciados para el sector primario.",
-          "source": { "doc": "erc", "page": 32 }
+          "source": {
+            "doc": "erc",
+            "page": 32
+          }
         },
         {
           "text": "Que el Gobierno rechace ratificar el acuerdo de libre comercio UE-Mercosur y exija cláusulas de salvaguarda y reciprocidad de normas para los productos importados.",
-          "source": { "doc": "erc", "page": 32 }
+          "source": {
+            "doc": "erc",
+            "page": 32
+          }
         },
         {
           "text": "Reformar la Ley de la cadena alimentaria para garantizar precios que cubran los costes de producción, con metodologías objetivas por sector y observatorios de costes.",
-          "source": { "doc": "erc", "page": 33 }
+          "source": {
+            "doc": "erc",
+            "page": 33
+          }
         },
         {
           "text": "Financiación estatal para modernizar los regadíos, priorizando los Canales de Urgell, y aumentar la aportación a ENESA para abaratar los seguros agrarios.",
-          "source": { "doc": "erc", "page": 33 }
+          "source": {
+            "doc": "erc",
+            "page": 33
+          }
         },
         {
           "text": "Regularizar la potencia real de los motores de la flota pesquera y reformar el régimen sancionador para que la pérdida de ayudas europeas sea proporcional.",
-          "source": { "doc": "erc", "page": 33 }
+          "source": {
+            "doc": "erc",
+            "page": 33
+          }
         },
         {
           "text": "Crear un fondo estatal para municipios propietarios de bosques que financie la gestión forestal sostenible y la prevención de grandes incendios.",
-          "source": { "doc": "erc", "page": 33 }
+          "source": {
+            "doc": "erc",
+            "page": 33
+          }
         }
       ]
     },
@@ -321,35 +519,59 @@
       "points": [
         {
           "text": "Negociar un referéndum de autodeterminación en Cataluña con acompañamiento internacional, con la UE y el Consejo de Europa como facilitadores.",
-          "source": { "doc": "erc", "page": 8 }
+          "source": {
+            "doc": "erc",
+            "page": 8
+          }
         },
         {
           "text": "Aprobar un nuevo modelo de financiación basado en el cobro directo de impuestos y en la ordinalidad, que daría a Cataluña 4.700 millones de euros adicionales al año según el acuerdo de enero de 2026.",
-          "source": { "doc": "erc", "page": 12 }
+          "source": {
+            "doc": "erc",
+            "page": 12
+          }
         },
         {
           "text": "Condonar de forma efectiva los más de 17.100 millones del FLA, la deuda de la Generalitat con el Estado, lo que ahorraría unos 1.500 millones anuales en intereses.",
-          "source": { "doc": "erc", "page": 12 }
+          "source": {
+            "doc": "erc",
+            "page": 12
+          }
         },
         {
           "text": "Traspasar a la Agencia Tributaria de Cataluña la recaudación de todos los impuestos generados en Cataluña, empezando por el IRPF según el acuerdo bilateral de julio de 2025.",
-          "source": { "doc": "erc", "page": 14 }
+          "source": {
+            "doc": "erc",
+            "page": 14
+          }
         },
         {
           "text": "Derogar la LRSAL y reformar la ley de estabilidad presupuestaria, y permitir que los ayuntamientos se endeuden para inversiones hasta el 50 % de sus ingresos corrientes.",
-          "source": { "doc": "erc", "page": 44 }
+          "source": {
+            "doc": "erc",
+            "page": 44
+          }
         },
         {
           "text": "Traspasar a la Generalitat todos los inmuebles de la Administración General del Estado en Cataluña y la Inspección de Trabajo y Seguridad Social.",
-          "source": { "doc": "erc", "page": 15 }
+          "source": {
+            "doc": "erc",
+            "page": 15
+          }
         },
         {
           "text": "Constituir el Consorcio de la Zona Franca con mayoría de instituciones catalanas, una entidad que según el programa representa casi el 4 % del PIB catalán.",
-          "source": { "doc": "erc", "page": 12 }
+          "source": {
+            "doc": "erc",
+            "page": 12
+          }
         },
         {
           "text": "Reclamar la oficialidad y reconocimiento internacional de las selecciones deportivas catalanas y crear un Consejo de Justicia de Cataluña.",
-          "source": { "doc": "erc", "page": 14 }
+          "source": {
+            "doc": "erc",
+            "page": 14
+          }
         }
       ]
     },
@@ -358,35 +580,59 @@
       "points": [
         {
           "text": "Derogar la Ley mordaza (Ley Orgánica 4/2015) y revisar el marco normativo que restringe los derechos de protesta, movilización y libertad de expresión.",
-          "source": { "doc": "erc", "page": 8 }
+          "source": {
+            "doc": "erc",
+            "page": 8
+          }
         },
         {
           "text": "Suprimir del Código Penal los delitos de ofensa a los sentimientos religiosos y de injurias y calumnias contra la Corona y las asambleas legislativas.",
-          "source": { "doc": "erc", "page": 8 }
+          "source": {
+            "doc": "erc",
+            "page": 8
+          }
         },
         {
           "text": "Impulsar iniciativas parlamentarias para fiscalizar al rey, la casa real y la familia real, y apoyar la eliminación de sus privilegios y mayor transparencia.",
-          "source": { "doc": "erc", "page": 8 }
+          "source": {
+            "doc": "erc",
+            "page": 8
+          }
         },
         {
           "text": "Aplicar el IBI a todas las propiedades de las confesiones religiosas, sin excepciones, y dejar sin efecto los acuerdos de 1979 con la Santa Sede.",
-          "source": { "doc": "erc", "page": 8 }
+          "source": {
+            "doc": "erc",
+            "page": 8
+          }
         },
         {
           "text": "Convertir la comisaría de Vía Laietana en un centro de memoria, aprobar una ley sobre desaparición forzosa de menores y reconocer a las víctimas del servicio militar obligatorio (1976-2001).",
-          "source": { "doc": "erc", "page": 8 }
+          "source": {
+            "doc": "erc",
+            "page": 8
+          }
         },
         {
           "text": "Garantizar la competencia de los Mossos d'Esquadra como policía integral, también en puertos y aeropuertos, y su acceso a bases de datos, Interpol y Europol en igualdad con otros cuerpos.",
-          "source": { "doc": "erc", "page": 42 }
+          "source": {
+            "doc": "erc",
+            "page": 42
+          }
         },
         {
           "text": "Incorporar 180 plazas de jueces en Cataluña entre 2026 y 2027 y endurecer las penas por tenencia ilícita de armas de fuego, armas blancas prohibidas y robo de cable.",
-          "source": { "doc": "erc", "page": 43 }
+          "source": {
+            "doc": "erc",
+            "page": 43
+          }
         },
         {
           "text": "Promover el voto a partir de los 16 años y una Ley Electoral Europea que no use umbrales como bloqueo a minorías nacionales.",
-          "source": { "doc": "erc", "page": 17 }
+          "source": {
+            "doc": "erc",
+            "page": 17
+          }
         }
       ]
     },
@@ -395,31 +641,52 @@
       "points": [
         {
           "text": "Promover un embargo completo de armas a Israel y pedir que la UE suspenda su acuerdo de asociación con ese país mientras duren el genocidio y la ocupación ilegal de Palestina.",
-          "source": { "doc": "erc", "page": 16 }
+          "source": {
+            "doc": "erc",
+            "page": 16
+          }
         },
         {
           "text": "Mantener el apoyo a Ucrania ante la agresión rusa, con ayuda desde la UE y vía diplomática y negociación.",
-          "source": { "doc": "erc", "page": 16 }
+          "source": {
+            "doc": "erc",
+            "page": 16
+          }
         },
         {
           "text": "Revertir la posición española de 2022 sobre el Sáhara Occidental y condicionar los acuerdos con Marruecos al respeto de los derechos humanos y de la soberanía saharaui.",
-          "source": { "doc": "erc", "page": 16 }
+          "source": {
+            "doc": "erc",
+            "page": 16
+          }
         },
         {
           "text": "Fomentar una UE con estrategia de seguridad propia basada en la diplomacia, autónoma de la OTAN en defensa y con un presupuesto común más ambicioso, con un impuesto digital propio.",
-          "source": { "doc": "erc", "page": 17 }
+          "source": {
+            "doc": "erc",
+            "page": 17
+          }
         },
         {
           "text": "Cumplir el 0,7 % de Ayuda Oficial al Desarrollo y canalizar un porcentaje vinculante mediante cooperación descentralizada y feminista.",
-          "source": { "doc": "erc", "page": 16 }
+          "source": {
+            "doc": "erc",
+            "page": 16
+          }
         },
         {
           "text": "Fiscalizar el modelo de defensa y los programas especiales de armamento, evitando ocultar gasto y denunciando contratos con empresas condenadas por corrupción.",
-          "source": { "doc": "erc", "page": 16 }
+          "source": {
+            "doc": "erc",
+            "page": 16
+          }
         },
         {
           "text": "Reclamar que el catalán, el occitano y la lengua de signos catalana sean oficiales en la UE y que la Generalitat participe en la negociación de tratados internacionales de su ámbito.",
-          "source": { "doc": "erc", "page": 17 }
+          "source": {
+            "doc": "erc",
+            "page": 9
+          }
         }
       ]
     },
@@ -428,27 +695,45 @@
       "points": [
         {
           "text": "Aprobar una Ley del plurilingüismo para poder relacionarse con todas las instituciones del Estado en cualquier lengua oficial, exigir su conocimiento a empleados públicos estatales y fijar cuotas de radio en lenguas cooficiales.",
-          "source": { "doc": "erc", "page": 9 }
+          "source": {
+            "doc": "erc",
+            "page": 9
+          }
         },
         {
           "text": "Reservar al menos el 50 % del tiempo de emisión de obras europeas a obras en lenguas oficiales del Estado y un mínimo del 25 % de ellas en lenguas distintas del castellano en TVE.",
-          "source": { "doc": "erc", "page": 13 }
+          "source": {
+            "doc": "erc",
+            "page": 13
+          }
         },
         {
           "text": "Aprobar un Plan de Soberanía Cultural para culminar el traspaso de museos y equipamientos culturales, y exigir que los murales de Sixena no salgan del MNAC.",
-          "source": { "doc": "erc", "page": 13 }
+          "source": {
+            "doc": "erc",
+            "page": 13
+          }
         },
         {
           "text": "Territorializar el 2 % cultural, de modo que lo generado por obras públicas estatales en Cataluña vaya a un fondo catalán de patrimonio, y completar el Estatuto del Artista.",
-          "source": { "doc": "erc", "page": 13 }
+          "source": {
+            "doc": "erc",
+            "page": 13
+          }
         },
         {
           "text": "Impulsar una estrategia de soberanía digital que reduzca la dependencia de las grandes tecnológicas, con contratación pública de soluciones europeas y abiertas.",
-          "source": { "doc": "erc", "page": 34 }
+          "source": {
+            "doc": "erc",
+            "page": 34
+          }
         },
         {
           "text": "Exigir transparencia y supervisión humana a la inteligencia artificial, proteger a menores en el entorno digital y combatir diseños manipuladores o adictivos de las plataformas.",
-          "source": { "doc": "erc", "page": 35 }
+          "source": {
+            "doc": "erc",
+            "page": 35
+          }
         }
       ]
     },
@@ -457,27 +742,45 @@
       "points": [
         {
           "text": "Culminar el traspaso integral de Rodalies a la Generalitat, empezando por la línea R1 y siguiendo con R2 Sud, R3, R4 Norte y R16.",
-          "source": { "doc": "erc", "page": 40 }
+          "source": {
+            "doc": "erc",
+            "page": 40
+          }
         },
         {
           "text": "Garantizar el Plan de Rodalies 2026-2030, incluidos 1.400 millones adicionales, y acabar el Corredor Mediterráneo y la Línea Orbital Ferroviaria.",
-          "source": { "doc": "erc", "page": 40 }
+          "source": {
+            "doc": "erc",
+            "page": 40
+          }
         },
         {
           "text": "Constituir el Consorcio de Inversiones de Catalunya con participación paritaria Estado-Generalitat para ejecutar las inversiones estatales, que en el programa se describen como crónicamente poco ejecutadas.",
-          "source": { "doc": "erc", "page": 38 }
+          "source": {
+            "doc": "erc",
+            "page": 38
+          }
         },
         {
           "text": "Gestionar desde Cataluña los aeropuertos de Girona, Reus y Sabadell y avanzar hacia el traspaso del de Barcelona-El Prat, además de conectar Girona y Reus con la alta velocidad.",
-          "source": { "doc": "erc", "page": 38 }
+          "source": {
+            "doc": "erc",
+            "page": 38
+          }
         },
         {
           "text": "Implantar la viñeta (sistema único de pago) en las vías de alta capacidad catalanas con un consorcio Estado-Generalitat, haciendo contribuir especialmente al transporte pesado de paso, y traspasar carreteras estatales.",
-          "source": { "doc": "erc", "page": 38 }
+          "source": {
+            "doc": "erc",
+            "page": 38
+          }
         },
         {
           "text": "Endurecer el Código Penal contra el maltrato animal y reconocer la violencia contra animales de compañía como forma de violencia vicaria.",
-          "source": { "doc": "erc", "page": 36 }
+          "source": {
+            "doc": "erc",
+            "page": 36
+          }
         }
       ]
     }
@@ -487,49 +790,73 @@
       "topic": "territorio",
       "text": "Negociar un referéndum de autodeterminación en Cataluña con la UE y el Consejo de Europa como facilitadores.",
       "why": "Es de los pocos partidos que incluye la independencia y un referéndum pactado como objetivo explícito de su programa estatal.",
-      "source": { "doc": "erc", "page": 8 }
+      "source": {
+        "doc": "erc",
+        "page": 8
+      }
     },
     {
       "topic": "empleo",
       "text": "Que Cataluña tenga un salario mínimo propio de 1.460 euros, superior al estatal.",
       "why": "Rompe con el modelo actual, en el que el SMI es único para toda España, al proponer un salario mínimo distinto por territorio según el coste de vida.",
-      "source": { "doc": "erc", "page": 20 }
+      "source": {
+        "doc": "erc",
+        "page": 20
+      }
     },
     {
       "topic": "vivienda",
       "text": "Delegar en la Generalitat la capacidad de legislar sobre alquileres mediante el artículo 150.1 de la Constitución.",
       "why": "Propone una vía jurídica concreta para que cada territorio tenga su propia ley de arrendamientos, algo que no existe hoy.",
-      "source": { "doc": "erc", "page": 19 }
+      "source": {
+        "doc": "erc",
+        "page": 19
+      }
     },
     {
       "topic": "pensiones",
       "text": "Actualizar las pensiones según el IPC de cada territorio.",
       "why": "Es una idea novedosa porque hoy las pensiones se revalorizan con un índice único estatal.",
-      "source": { "doc": "erc", "page": 26 }
+      "source": {
+        "doc": "erc",
+        "page": 26
+      }
     },
     {
       "topic": "economia",
       "text": "Hacer permanentes el impuesto a grandes fortunas, el de las energéticas y el de la banca, y subir del 30 % al 35 % el tipo máximo sobre ganancias de capital.",
       "why": "Es de los pocos programas que convierte en estructurales impuestos que nacieron como temporales.",
-      "source": { "doc": "erc", "page": 22 }
+      "source": {
+        "doc": "erc",
+        "page": 22
+      }
     },
     {
       "topic": "inmigracion",
       "text": "Traspasar a Cataluña las competencias integrales de migración y asilo, y rechazar los centros de retorno en terceros países.",
       "why": "Es de los pocos partidos que plantea que una comunidad autónoma gestione la migración y el asilo, hoy competencia exclusiva del Estado.",
-      "source": { "doc": "erc", "page": 14 }
+      "source": {
+        "doc": "erc",
+        "page": 14
+      }
     },
     {
       "topic": "instituciones",
       "text": "Suprimir los delitos de injurias a la Corona y de ofensa a sentimientos religiosos, y aplicar el IBI a todas las confesiones religiosas.",
       "why": "Va más allá de reformar y propone eliminar tipos penales que protegen a ciertas instituciones y dejar sin efecto los acuerdos con la Santa Sede de 1979.",
-      "source": { "doc": "erc", "page": 8 }
+      "source": {
+        "doc": "erc",
+        "page": 8
+      }
     },
     {
       "topic": "otros",
       "text": "Traspasar a la Generalitat toda la operación de Rodalies, incluyendo vías y estaciones, y gestionar desde Cataluña los aeropuertos.",
       "why": "Rompe con el modelo centralizado actual de gestión de infraestructuras (Adif, Renfe, Aena) al reclamar que las gestione Cataluña.",
-      "source": { "doc": "erc", "page": 40 }
+      "source": {
+        "doc": "erc",
+        "page": 40
+      }
     }
   ],
   "glossary": [

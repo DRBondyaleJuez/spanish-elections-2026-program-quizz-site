@@ -68,5 +68,2320 @@
       "section": "Política exterior y defensa"
     },
     "difficulty": 2
+  },
+  {
+    "id": "compromis-vivienda-001",
+    "doc": "compromis",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Compromís propone destinar cada año el 1 % del PIB a comprar viviendas o promover vivienda protegida.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El programa prevé dedicar el 1 % del PIB anual a adquirir viviendas o a promover vivienda protegida, pública o en colaboración con cooperativas y entidades sin ánimo especulativo.",
+    "tip": "Piensa en una fracción pequeña de toda la riqueza que produce el país en un año.",
+    "source": {
+      "doc": "compromis",
+      "page": 5,
+      "section": "Vivienda"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "compromis-vivienda-002",
+    "doc": "compromis",
+    "topic": "vivienda",
+    "type": "tf",
+    "question": "Compromís propone prohibir de forma permanente, en todo el país, que personas no residentes compren viviendas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La propuesta es una prohibición temporal y solo en las zonas tensionadas, es decir, las áreas donde los precios del alquiler están muy por encima de lo asequible.",
+    "tip": "Fíjate en dos matices: cuánto dura la prohibición y dónde se aplica.",
+    "source": {
+      "doc": "compromis",
+      "page": 5,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-vivienda-003",
+    "doc": "compromis",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "La ley de expropiación de grandes fondos y sociedades tenedoras que propone Compromís empezaría por quienes tengan más de 1.000 viviendas. ¿Hasta qué tamaño bajaría?",
+    "options": [
+      "Hasta quienes tengan 500 viviendas",
+      "Hasta quienes tengan 200 viviendas",
+      "Hasta quienes tengan 50 inmuebles",
+      "Hasta quienes tengan 10 inmuebles"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El programa propone empezar por los fondos con más de 1.000 viviendas y bajar progresivamente hasta los 50 inmuebles, para ampliar el parque público de vivienda. Expropiar es que la Administración adquiere un bien por razones de interés público, con compensación.",
+    "tip": "El umbral final es mucho más bajo que el inicial, pero sigue hablando de grandes tenedores.",
+    "source": {
+      "doc": "compromis",
+      "page": 5,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-vivienda-004",
+    "doc": "compromis",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "¿Qué porcentaje del valor catastral tendría el gravamen específico de Compromís sobre las viviendas a partir de la tercera propiedad?",
+    "options": [
+      "2 %",
+      "5 %",
+      "10 %",
+      "25 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Compromís propone un gravamen específico del 10 % sobre el valor catastral de los inmuebles adicionales a partir del tercero. El valor catastral es el valor que la Administración asigna a un inmueble a efectos de impuestos.",
+    "tip": "No es una cifra simbólica, pero tampoco llega a una cuarta parte del valor.",
+    "source": {
+      "doc": "compromis",
+      "page": 6,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-vivienda-005",
+    "doc": "compromis",
+    "topic": "vivienda",
+    "type": "single",
+    "question": "Compromís propone eximir del Impuesto de Transmisiones Patrimoniales la compra de una primera vivienda valorada en menos de…",
+    "options": [
+      "150.000 euros",
+      "250.000 euros",
+      "350.000 euros",
+      "500.000 euros"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "La exención del Impuesto de Transmisiones Patrimoniales (el que se paga al comprar una vivienda de segunda mano) se aplicaría a la primera vivienda valorada en menos de 350.000 euros.",
+    "tip": "Es un límite intermedio: más de un cuarto de millón, menos de medio millón.",
+    "source": {
+      "doc": "compromis",
+      "page": 6,
+      "section": "Vivienda"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-vivienda-006",
+    "doc": "compromis",
+    "topic": "vivienda",
+    "type": "multi",
+    "question": "Marca todas las medidas de vivienda que figuran en el programa de Compromís.",
+    "options": [
+      "Crear un Registro Estatal de Arrendamientos Urbanos obligatorio",
+      "Abolir los privilegios fiscales de las SOCIMIS y las EDAV",
+      "Realizar una encuesta para conocer el número real de viviendas vacías",
+      "Eliminar el IBI de la primera vivienda",
+      "Suprimir las zonas tensionadas"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa incluye el registro obligatorio de alquileres (también de temporada y de habitaciones), abolir los privilegios fiscales de las SOCIMIS (sociedades inmobiliarias cotizadas) y una encuesta de viviendas vacías. En cambio, plantea subir el IBI desde la tercera vivienda y dar a los ayuntamientos poder para declarar zonas tensionadas.",
+    "tip": "Las dos medidas incorrectas van en sentido contrario a la línea del programa: menos impuestos a propietarios y menos control del mercado.",
+    "source": {
+      "doc": "compromis",
+      "page": 6,
+      "section": "Vivienda"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-vivienda-007",
+    "doc": "compromis",
+    "topic": "vivienda",
+    "type": "which_party",
+    "question": "¿Qué partido propone vetar los algoritmos que fijan precios de alquiler, con multas de hasta el 10 % de los beneficios mundiales de las empresas?",
+    "options": [
+      "pp",
+      "vox",
+      "psoe",
+      "compromis"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Compromís plantea impedir el uso de algoritmos y programas de IA que coordinan los precios del alquiler con datos compartidos entre propietarios e inmobiliarias, con multas de hasta el 10 % de los beneficios mundiales. Los demás partidos propuestos no incluyen esa medida.",
+    "tip": "Es una medida muy concreta contra la fijación automática de precios.",
+    "source": {
+      "doc": "compromis",
+      "page": 5,
+      "section": "Vivienda"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-vivienda-008",
+    "doc": "compromis",
+    "topic": "vivienda",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Compromís?",
+    "options": [
+      "Ejercer el derecho de tanteo en la venta de promociones antiguas de vivienda protegida",
+      "Dar a los ayuntamientos competencias para declarar zonas tensionadas",
+      "Promover el alquiler indefinido como régimen ordinario",
+      "Desgravar al 100 % los intereses de la hipoteca de la vivienda habitual"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "La desgravación total de los intereses hipotecarios no aparece en el programa. Las otras tres sí: tanteo (la Administración puede comprar antes que nadie) en antiguas viviendas protegidas, competencias municipales sobre zonas tensionadas y alquiler indefinido como régimen ordinario.",
+    "tip": "Una de las opciones favorece a quien compra con hipoteca, y el capítulo se centra en frenar la especulación y proteger el alquiler.",
+    "source": {
+      "doc": "compromis",
+      "page": 5,
+      "section": "Vivienda"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-empleo-002",
+    "doc": "compromis",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "Compromís propone recuperar la indemnización de 45 días por año trabajado y los salarios de tramitación en los despidos improcedentes.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Los salarios de tramitación son los que se cobran mientras dura el proceso judicial por un despido improcedente, y la indemnización de 45 días por año era la que existía antes de la reforma laboral de 2012.",
+    "tip": "Se trata de volver a una indemnización por despido más alta.",
+    "source": {
+      "doc": "compromis",
+      "page": 7,
+      "section": "Salarios y condiciones laborales"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "compromis-empleo-003",
+    "doc": "compromis",
+    "topic": "empleo",
+    "type": "tf",
+    "question": "Compromís propone que la subida del salario mínimo (SMI) pueda absorber los complementos del sueldo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Compromís quiere garantizar por ley que el SMI llegue al 60 % del salario medio sin que esa subida pueda absorber los complementos retributivos, para que no se anule con ellos.",
+    "tip": "El objetivo es que la subida sea una mejora real en la nómina.",
+    "source": {
+      "doc": "compromis",
+      "page": 7,
+      "section": "Salarios y condiciones laborales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-empleo-004",
+    "doc": "compromis",
+    "topic": "empleo",
+    "type": "single",
+    "question": "Para reducir un 50 % los domingos y festivos laborables, ¿qué ley propone reformar Compromís?",
+    "options": [
+      "La Ley de horarios comerciales",
+      "El Estatuto de los Trabajadores en su totalidad",
+      "La Ley de Propiedad Horizontal",
+      "La Ley de Contratos del Sector Público"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa plantea reformar la Ley de horarios comerciales para reducir un 50 % los domingos y festivos laborables y restringir las Zonas de Gran Afluencia Turística, donde el comercio puede abrir sin las limitaciones habituales.",
+    "tip": "Es la ley que regula cuándo pueden abrir las tiendas.",
+    "source": {
+      "doc": "compromis",
+      "page": 7,
+      "section": "Salarios y condiciones laborales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-empleo-005",
+    "doc": "compromis",
+    "topic": "empleo",
+    "type": "multi",
+    "question": "Marca todas las medidas de protección de las personas autónomas que propone Compromís.",
+    "options": [
+      "Acceder a la prestación por cese de actividad acreditando solo un año de pérdidas",
+      "Bonificar toda la cuota de la Seguridad Social desde el primer día de baja por enfermedad grave",
+      "Eliminar el sistema de módulos en un periodo de 3 años",
+      "Una tarifa plana de 80 euros durante tres años para todas las personas autónomas",
+      "Mantener el sistema de módulos sin cambios"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Compromís propone exigir solo un año de pérdidas para cobrar el cese de actividad, bonificar toda la cuota desde el primer día de baja por enfermedad grave (hoy es desde el día 60) y sustituir los módulos por una estimación directa especial en 3 años. Los módulos son un sistema que calcula el impuesto con índices y no con los ingresos reales.",
+    "tip": "Tres medidas amplían la protección o cambian el régimen fiscal; las otras dos no están en el programa.",
+    "source": {
+      "doc": "compromis",
+      "page": 8,
+      "section": "Personas autónomas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-empleo-006",
+    "doc": "compromis",
+    "topic": "empleo",
+    "type": "which_party",
+    "question": "¿Qué partido propone reducir la jornada laboral a cuatro días (32 horas semanales) sin bajar el sueldo?",
+    "options": [
+      "pp",
+      "compromis",
+      "vox",
+      "psoe"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Compromís propone la semana de cuatro días y 32 horas sin pérdida de salario. El PSOE plantea completar la reducción a 37,5 horas, y el PP y Vox no incluyen una reducción de jornada de este tipo.",
+    "tip": "Hay una propuesta que va más lejos que simplemente llegar a 37,5 horas.",
+    "source": {
+      "doc": "compromis",
+      "page": 7,
+      "section": "Salarios y condiciones laborales"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "compromis-empleo-007",
+    "doc": "compromis",
+    "topic": "empleo",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Compromís?",
+    "options": [
+      "Reforzar la Inspección de Trabajo frente a las horas extraordinarias no declaradas",
+      "Condicionar ayudas y contratos públicos al mantenimiento del empleo",
+      "Introducir cláusulas de actualización salarial automática durante la ultraactividad de los convenios",
+      "Permitir el despido libre durante los primeros doce meses de contrato"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El despido libre no figura en el programa; Compromís propone lo contrario: recuperar la indemnización de 45 días. La ultraactividad es el periodo en que un convenio colectivo sigue vigente tras acabar su plazo, y Compromís quiere que los salarios se actualicen en él.",
+    "tip": "Una de las opciones debilitaría la protección de quien trabaja.",
+    "source": {
+      "doc": "compromis",
+      "page": 7,
+      "section": "Salarios y condiciones laborales"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-economia-001",
+    "doc": "compromis",
+    "topic": "economia",
+    "type": "tf",
+    "question": "Compromís propone mantener y ampliar el Impuesto a las Grandes Fortunas, acercándolo a la llamada tasa Zucman.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. La tasa Zucman es una propuesta internacional de gravar de forma progresiva los patrimonios más grandes. Compromís quiere acercar el Impuesto a las Grandes Fortunas a ese modelo.",
+    "tip": "Es un impuesto sobre patrimonios muy elevados, no sobre ingresos.",
+    "source": {
+      "doc": "compromis",
+      "page": 17,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-economia-002",
+    "doc": "compromis",
+    "topic": "economia",
+    "type": "tf",
+    "question": "Compromís propone deflactar el IRPF para las rentas inferiores a 60.000 euros.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El umbral es de 30.000 euros. Deflactar el IRPF es ajustar los tramos a la inflación para que subir el sueldo solo por el aumento de precios no suponga pagar más.",
+    "tip": "El límite es la mitad de la cifra que aparece en la afirmación.",
+    "source": {
+      "doc": "compromis",
+      "page": 17,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-economia-003",
+    "doc": "compromis",
+    "topic": "economia",
+    "type": "single",
+    "question": "Compromís propone eliminar los privilegios fiscales de la aviación (combustible, IVA…). ¿A qué destinaría los 6.000 millones anuales que recaudaría?",
+    "options": [
+      "A bajar el IRPF a todos los tramos",
+      "A reforzar el sector ferroviario",
+      "A amortizar deuda pública",
+      "A subvencionar las tarifas aéreas de residentes"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa propone dedicar esos 6.000 millones anuales a reforzar el ferrocarril, de modo que la fiscalidad de un medio de transporte contaminante financie otro más sostenible.",
+    "tip": "El dinero iría a otro medio de transporte.",
+    "source": {
+      "doc": "compromis",
+      "page": 17,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "compromis-economia-004",
+    "doc": "compromis",
+    "topic": "economia",
+    "type": "single",
+    "question": "¿A qué porcentaje propone Compromís reducir la deducción por amortización de inmuebles, que ahora es del 3 %?",
+    "options": [
+      "Al 0,5 %",
+      "Al 1 %",
+      "Al 2 %",
+      "Al 2,5 %"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Reducir la deducción del 3 % al 1 % aumentaría la recaudación en más de 465 millones de euros, según el programa. La amortización es la deducción que se aplica por el desgaste de un inmueble que genera rentas.",
+    "tip": "La rebaja sería de dos tercios de la deducción actual.",
+    "source": {
+      "doc": "compromis",
+      "page": 17,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-economia-005",
+    "doc": "compromis",
+    "topic": "economia",
+    "type": "single",
+    "question": "Compromís propone rebajar la deducción por arrendamiento de inmuebles destinados a vivienda del 50 % actual hasta un máximo de…",
+    "options": [
+      "El 40 %",
+      "El 30 %",
+      "El 20 %",
+      "El 10 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "La deducción bajaría hasta un máximo del 20 %, condicionada a que el alquiler sea igual o inferior al 85 % del alquiler medio de la comunidad autónoma, y se eliminaría para rentas de alquiler iguales o superiores a la media autonómica.",
+    "tip": "Quedaría en menos de la mitad de la deducción actual.",
+    "source": {
+      "doc": "compromis",
+      "page": 17,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-economia-006",
+    "doc": "compromis",
+    "topic": "economia",
+    "type": "multi",
+    "question": "Marca todos los productos o servicios cuyo IVA Compromís propone reducir.",
+    "options": [
+      "Productos de higiene femenina",
+      "Servicios de peluquería",
+      "Productos para personas celíacas",
+      "Gasolina y gasóleo",
+      "Servicios financieros"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa propone bajar el IVA de la higiene femenina, los servicios de peluquería, los productos para personas celíacas y los servicios y productos culturales, entre otros. Plantea subirlo en productos de lujo, contaminantes y nocivos para la salud pública.",
+    "tip": "Dos de las opciones se parecen más a lo que el programa quiere gravar que a lo que quiere abaratar.",
+    "source": {
+      "doc": "compromis",
+      "page": 18,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-economia-007",
+    "doc": "compromis",
+    "topic": "economia",
+    "type": "which_party",
+    "question": "¿Qué partido propone un impuesto o tasa a las empresas por el uso de robots que sustituyen mano de obra humana, para reforzar las pensiones?",
+    "options": [
+      "pp",
+      "vox",
+      "compromis",
+      "salf"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Compromís propone gravar la robotización del sector productivo y las cotizaciones a la Seguridad Social que se pierden, y destinar lo recaudado a reforzar el sistema público de pensiones. Esa medida no figura en los programas de los otros partidos propuestos.",
+    "tip": "Es una tasa sobre la automatización del trabajo.",
+    "source": {
+      "doc": "compromis",
+      "page": 18,
+      "section": "Fiscalidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-pensiones-001",
+    "doc": "compromis",
+    "topic": "pensiones",
+    "type": "tf",
+    "question": "Compromís propone mantener la desgravación fiscal de los planes de pensiones privados.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Compromís quiere suprimir toda desgravación fiscal a los planes de pensiones privados, para evitar que compitan con el sistema público.",
+    "tip": "El programa defiende reforzar el sistema público frente a los productos privados.",
+    "source": {
+      "doc": "compromis",
+      "page": 9,
+      "section": "Pensiones"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "compromis-pensiones-002",
+    "doc": "compromis",
+    "topic": "pensiones",
+    "type": "single",
+    "question": "Compromís quiere garantizar en la Constitución que las pensiones se revaloricen según…",
+    "options": [
+      "El coste de la vida",
+      "La media de los salarios",
+      "El crecimiento del PIB",
+      "La esperanza de vida"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa propone asegurar el poder adquisitivo de las pensiones y garantizar constitucionalmente su revalorización conforme al coste de la vida. Revalorizar es actualizar la cuantía cada año.",
+    "tip": "Se refiere a la evolución de los precios que paga la gente.",
+    "source": {
+      "doc": "compromis",
+      "page": 8,
+      "section": "Pensiones"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "compromis-pensiones-003",
+    "doc": "compromis",
+    "topic": "pensiones",
+    "type": "multi",
+    "question": "Marca todas las propuestas sobre jubilación y cotización que figuran en el programa de Compromís.",
+    "options": [
+      "Devolver la edad de jubilación a los 65 años",
+      "Eliminar los coeficientes reductores a quien se jubila anticipadamente tras 40 años cotizados",
+      "Acabar con el tope de la base máxima de cotización",
+      "Elevar la edad de jubilación a los 67 años",
+      "Crear un sistema de capitalización individual obligatoria"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Compromís propone volver a los 65 años, eliminar los coeficientes reductores (penalizaciones en la pensión) y acabar con el tope de la base máxima de cotización, para que las nóminas más altas coticen íntegramente. No propone retrasar la jubilación ni un sistema de capitalización.",
+    "tip": "Las dos opciones incorrectas apuntan a menos peso del sistema público actual.",
+    "source": {
+      "doc": "compromis",
+      "page": 8,
+      "section": "Pensiones"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-pensiones-004",
+    "doc": "compromis",
+    "topic": "pensiones",
+    "type": "which_party",
+    "question": "¿Qué partido propone subir las pensiones no contributivas hasta 800 euros?",
+    "options": [
+      "compromis",
+      "pp",
+      "vox",
+      "psoe"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Compromís plantea elevar las pensiones no contributivas hasta 800 euros. Estas pensiones son las que cobran personas que no han cotizado lo suficiente. Los otros partidos propuestos no fijan esa cifra.",
+    "tip": "La propuesta incluye una cantidad concreta en euros al mes.",
+    "source": {
+      "doc": "compromis",
+      "page": 9,
+      "section": "Pensiones"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-sanidad-001",
+    "doc": "compromis",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "Compromís propone derogar la Ley 15/1997 para impedir la privatización de la gestión de los servicios sanitarios públicos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. La Ley 15/1997 permite nuevas formas de gestión en el sistema sanitario público; Compromís quiere derogarla para blindar la gestión pública y evitar la mercantilización de la atención sanitaria.",
+    "tip": "La propuesta busca cerrar la puerta a la gestión privada de servicios públicos.",
+    "source": {
+      "doc": "compromis",
+      "page": 9,
+      "section": "Sanidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-sanidad-002",
+    "doc": "compromis",
+    "topic": "sanidad",
+    "type": "tf",
+    "question": "Compromís propone prohibir la venta de bebidas energéticas a menores de 18 años.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. La prohibición propuesta afecta a menores de 16 años. El programa la incluye entre sus medidas de salud pública, junto con la prohibición de fumar en terrazas y playas.",
+    "tip": "La edad límite es menor que la mayoría de edad.",
+    "source": {
+      "doc": "compromis",
+      "page": 10,
+      "section": "Salud pública"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-sanidad-003",
+    "doc": "compromis",
+    "topic": "sanidad",
+    "type": "single",
+    "question": "¿Qué especialidades y prestaciones propone Compromís incluir en el catálogo del Sistema Nacional de Salud?",
+    "options": [
+      "Oftalmología, podología, nutrición y odontología",
+      "Cirugía estética y tratamientos de belleza",
+      "Medicina alternativa y homeopatía",
+      "Solo especialidades pediátricas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Compromís quiere ampliar la cartera pública con oftalmología, podología, nutrición, odontología y estomatología. La cartera de servicios es el conjunto de prestaciones que el sistema público garantiza.",
+    "tip": "Son especialidades que hoy muchas personas pagan fuera del sistema público.",
+    "source": {
+      "doc": "compromis",
+      "page": 9,
+      "section": "Sanidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-sanidad-004",
+    "doc": "compromis",
+    "topic": "sanidad",
+    "type": "multi",
+    "question": "Marca todas las medidas sanitarias que figuran en el programa de Compromís.",
+    "options": [
+      "Suprimir el copago farmacéutico de los pensionistas",
+      "Fijar por ley una financiación mínima, ratios de población y listas de espera máximas en atención primaria",
+      "Aprobar un Pacto estatal por la salud mental",
+      "Introducir un copago por visita a urgencias",
+      "Ampliar los conciertos con la sanidad privada"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa incluye eliminar el copago farmacéutico de pensionistas (el copago es la parte del precio que paga la persona usuaria), reforzar la atención primaria con financiación mínima y un Pacto estatal por la salud mental. Las otras dos opciones van en dirección contraria a su defensa de la gestión pública.",
+    "tip": "Dos de las opciones aumentarían el peso del dinero privado en la sanidad.",
+    "source": {
+      "doc": "compromis",
+      "page": 9,
+      "section": "Sanidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-sanidad-005",
+    "doc": "compromis",
+    "topic": "sanidad",
+    "type": "which_party",
+    "question": "¿Qué partido propone crear una industria farmacéutica pública para producir medicamentos esenciales, genéricos y para enfermedades raras?",
+    "options": [
+      "pp",
+      "vox",
+      "compromis",
+      "psoe"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Compromís quiere una industria farmacéutica pública que investigue, produzca y comercialice medicamentos esenciales y genéricos, y reducir así la dependencia de las multinacionales. Los otros partidos propuestos no plantean una industria pública de este tipo.",
+    "tip": "La idea es producir medicamentos con una empresa del Estado.",
+    "source": {
+      "doc": "compromis",
+      "page": 10,
+      "section": "Salud pública"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-sanidad-006",
+    "doc": "compromis",
+    "topic": "sanidad",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Compromís?",
+    "options": [
+      "Garantizar el acceso universal a la sanidad pública sin discriminar por situación administrativa",
+      "Ampliar la red de centros de día y de terapia ambulatoria en salud mental",
+      "Aprobar un Pacto estatal por la salud mental",
+      "Ampliar la gestión privada de los hospitales públicos"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa defiende lo contrario: blindar la gestión pública y derogar la ley que facilita la privatización. Las otras tres medidas sí aparecen: acceso universal, centros de día de salud mental y Pacto estatal por la salud mental.",
+    "tip": "Una de las opciones choca con la defensa de la gestión pública.",
+    "source": {
+      "doc": "compromis",
+      "page": 9,
+      "section": "Sanidad"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-educacion-001",
+    "doc": "compromis",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "Compromís propone reconocer el comedor escolar como un servicio gratuito y universal.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Compromís plantea reformar la Ley Orgánica de Educación para que el comedor escolar sea parte de los programas educativos esenciales y, por tanto, gratuito y universal.",
+    "tip": "Se trataría de un servicio para todo el alumnado, no solo para quien lo necesite.",
+    "source": {
+      "doc": "compromis",
+      "page": 10,
+      "section": "Educación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "compromis-educacion-002",
+    "doc": "compromis",
+    "topic": "educacion",
+    "type": "tf",
+    "question": "Compromís propone que la red concertada sea la principal y que la pública quede como subsidiaria.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Es al revés: Compromís quiere modificar los conciertos educativos para que la red concertada sea subsidiaria de la pública. Subsidiaria significa que complementa a la otra y no la sustituye.",
+    "tip": "Fíjate en cuál de las dos redes aparece como complemento de la otra.",
+    "source": {
+      "doc": "compromis",
+      "page": 10,
+      "section": "Educación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-educacion-003",
+    "doc": "compromis",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Hacia qué porcentaje del PIB estatal quiere avanzar Compromís en inversión educativa?",
+    "options": [
+      "El 4 %",
+      "El 5 %",
+      "El 6 %",
+      "El 7 %"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa propone aumentar la inversión educativa estatal y las transferencias a las comunidades autónomas para llegar a un nivel equivalente al 7 % del PIB.",
+    "tip": "Es la cifra más alta de las cuatro.",
+    "source": {
+      "doc": "compromis",
+      "page": 10,
+      "section": "Educación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "compromis-educacion-004",
+    "doc": "compromis",
+    "topic": "educacion",
+    "type": "single",
+    "question": "¿Qué propone Compromís para la educación de 0 a 3 años?",
+    "options": [
+      "Ampliar la red pública y avanzar hacia su gratuidad",
+      "Dejarla solo en manos de la red privada",
+      "Hacerla obligatoria desde los seis meses",
+      "Financiarla solo con tasas de las familias"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Compromís defiende financiación estatal y acuerdos con las administraciones para ampliar la red pública de 0 a 3 años y avanzar hacia su gratuidad, con condiciones laborales dignas para el profesorado.",
+    "tip": "La propuesta combina ampliación de plazas públicas y gratuidad.",
+    "source": {
+      "doc": "compromis",
+      "page": 10,
+      "section": "Educación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "compromis-educacion-005",
+    "doc": "compromis",
+    "topic": "educacion",
+    "type": "multi",
+    "question": "Marca todas las propuestas universitarias que figuran en el programa de Compromís.",
+    "options": [
+      "Un nuevo sistema de tasas para que quien menos recursos tiene pague menos",
+      "Becas que se resuelvan y se ingresen a principio de curso",
+      "Un sistema de evaluación periódica del rendimiento de los recursos públicos",
+      "Subir las tasas hasta cubrir el coste real de la matrícula",
+      "Eliminar las becas basadas en la renta"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Compromís propone tasas más bajas para quien menos recursos tiene, becas resueltas y pagadas a principio de curso (para que las dificultades económicas no impidan seguir estudiando) y una evaluación periódica de las universidades. No plantea subir tasas ni eliminar becas.",
+    "tip": "Las dos opciones incorrectas dificultarían el acceso a quien tiene menos recursos.",
+    "source": {
+      "doc": "compromis",
+      "page": 16,
+      "section": "Universidades"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-educacion-006",
+    "doc": "compromis",
+    "topic": "educacion",
+    "type": "which_party",
+    "question": "¿Qué partido propone prohibir la cesión de suelo público para construir centros educativos privados?",
+    "options": [
+      "pp",
+      "compromis",
+      "vox",
+      "salf"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Compromís propone prohibir esa cesión de suelo público y cambiar los conciertos para que la red concertada sea subsidiaria de la pública. Los otros partidos propuestos no incluyen esa prohibición.",
+    "tip": "Es una medida sobre el uso de terrenos públicos para la enseñanza privada.",
+    "source": {
+      "doc": "compromis",
+      "page": 10,
+      "section": "Educación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-igualdad-001",
+    "doc": "compromis",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "Compromís propone garantizar el aborto en la red pública, pero dejar que cada hospital decida si ofrece el servicio.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El programa plantea garantizar la interrupción voluntaria del embarazo gratuita, segura y accesible en la red pública, y regular la objeción de conciencia para que no se convierta en una objeción institucional encubierta: ningún hospital público debería dejar de prestar el servicio por falta de planificación.",
+    "tip": "La objeción de conciencia es individual, no de los hospitales.",
+    "source": {
+      "doc": "compromis",
+      "page": 46,
+      "section": "Feminismo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-igualdad-002",
+    "doc": "compromis",
+    "topic": "igualdad",
+    "type": "tf",
+    "question": "Compromís propone un plan estatal de investigación en salud de las mujeres que prioriza enfermedades como la endometriosis.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El plan tendría financiación específica y estable, y priorizaría las enfermedades infradiagnosticadas, las etapas con cambios hormonales como la menopausia y las diferencias por sexo en enfermedades cardiovasculares, entre otras.",
+    "tip": "Se centra en problemas de salud que históricamente se han investigado poco.",
+    "source": {
+      "doc": "compromis",
+      "page": 45,
+      "section": "Feminismo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-igualdad-003",
+    "doc": "compromis",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿Qué propone Compromís respecto a la prostitución y la trata?",
+    "options": [
+      "Un plan estatal contra la explotación sexual con vivienda, ingresos y atención, sin sancionar a las personas prostituidas",
+      "Regular la prostitución como actividad laboral con alta en la Seguridad Social",
+      "Multar tanto a quien la ejerce como a quien la demanda",
+      "Mantener la regulación actual sin cambios"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa propone un plan estatal contra la explotación sexual y la trata, con financiación plurianual y apoyo a las víctimas, y mayores sanciones a quien la explota, evitando en todo caso sancionar a las personas prostituidas.",
+    "tip": "La respuesta combina ayuda a las víctimas y sanciones a quien se lucra.",
+    "source": {
+      "doc": "compromis",
+      "page": 48,
+      "section": "Lucha contra las violencias machistas"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-igualdad-004",
+    "doc": "compromis",
+    "topic": "igualdad",
+    "type": "single",
+    "question": "¿En qué centros propone Compromís repartir gratuitamente productos menstruales?",
+    "options": [
+      "Educativos, sanitarios y penitenciarios",
+      "Solo en centros educativos",
+      "Solo en centros sanitarios",
+      "En supermercados y farmacias"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa prevé un programa estatal de distribución gratuita de productos menstruales en centros educativos, sanitarios y penitenciarios, con especial atención a mujeres jóvenes en situación de vulnerabilidad.",
+    "tip": "La lista incluye tres tipos de centros distintos.",
+    "source": {
+      "doc": "compromis",
+      "page": 44,
+      "section": "Educación e igualdad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-igualdad-005",
+    "doc": "compromis",
+    "topic": "igualdad",
+    "type": "multi",
+    "question": "Marca todas las propuestas sobre derechos LGTBIQ+ que figuran en el programa de Compromís.",
+    "options": [
+      "Tipificar las terapias de conversión como delito",
+      "Formación obligatoria en diversidad y derechos LGTBIQ+ para quien trabaja en la Administración pública",
+      "Blindar la ley trans, la ley LGTBI y el matrimonio igualitario",
+      "Derogar la ley trans",
+      "Suprimir la formación sobre diversidad en los centros educativos"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Compromís propone tipificar las terapias de conversión (intentos de cambiar la orientación o identidad de una persona) como delito, formación obligatoria en la Administración y blindar las leyes ya aprobadas. Las otras dos opciones son contrarias a su programa.",
+    "tip": "Tres medidas amplían derechos o formación; las otras dos los reducirían.",
+    "source": {
+      "doc": "compromis",
+      "page": 49,
+      "section": "Derechos LGTBIQ+"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "compromis-igualdad-006",
+    "doc": "compromis",
+    "topic": "igualdad",
+    "type": "which_party",
+    "question": "¿Qué partido propone un plan estatal de investigación en salud de las mujeres, con atención a la endometriosis y la menopausia?",
+    "options": [
+      "compromis",
+      "pp",
+      "vox",
+      "psoe"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Compromís plantea ese plan estatal con financiación específica y estable, además de observatorios de sesgos de género en la atención sanitaria. Los otros partidos propuestos no incluyen un plan de este tipo en sus programas.",
+    "tip": "Es una propuesta específica de investigación sanitaria.",
+    "source": {
+      "doc": "compromis",
+      "page": 45,
+      "section": "Feminismo"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-igualdad-007",
+    "doc": "compromis",
+    "topic": "igualdad",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Compromís?",
+    "options": [
+      "Crear observatorios públicos de sesgos de género en la atención sanitaria",
+      "Reconocer los periodos de cuidados de criaturas y personas dependientes en las pensiones",
+      "Garantizar el aborto gratuito, seguro y accesible en la red pública",
+      "Suprimir el complemento para reducir la brecha de género en las pensiones"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Compromís propone justo lo contrario: revisar y reforzar el complemento que reduce la brecha de género en las pensiones, que compensa el perjuicio profesional derivado de la maternidad y los cuidados.",
+    "tip": "Una de las opciones debilitaría una ayuda que el programa quiere reforzar.",
+    "source": {
+      "doc": "compromis",
+      "page": 46,
+      "section": "Feminismo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-inmigracion-001",
+    "doc": "compromis",
+    "topic": "inmigracion",
+    "type": "tf",
+    "question": "Compromís propone ampliar el derecho al voto activo a las personas migrantes.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El sufragio activo es el derecho a votar (frente al pasivo, que es poder presentarse a las elecciones). Compromís propone ampliarlo a las personas migrantes.",
+    "tip": "Se refiere a votar, no a presentarse como candidato.",
+    "source": {
+      "doc": "compromis",
+      "page": 45,
+      "section": "Igualdad de trato"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-inmigracion-002",
+    "doc": "compromis",
+    "topic": "inmigracion",
+    "type": "single",
+    "question": "¿Qué propone Compromís sobre el empadronamiento de las personas extranjeras?",
+    "options": [
+      "Que los ayuntamientos empadronen obligatoriamente a todas las personas, sea cual sea su situación administrativa",
+      "Empadronar solo a quien tenga permiso de residencia",
+      "Empadronar solo tras cinco años de residencia",
+      "Dejar la decisión a cada ayuntamiento"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa propone hacer obligatorio que los ayuntamientos empadronen a todas las personas independientemente de su situación administrativa. El padrón es el registro municipal de vecinos y sirve, por ejemplo, para acceder a servicios públicos.",
+    "tip": "La propuesta no distingue por situación administrativa.",
+    "source": {
+      "doc": "compromis",
+      "page": 56,
+      "section": "Solidaridad global y migración"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "compromis-inmigracion-003",
+    "doc": "compromis",
+    "topic": "inmigracion",
+    "type": "multi",
+    "question": "Marca todas las propuestas sobre migración que figuran en el programa de Compromís.",
+    "options": [
+      "Abrir vías de regularización y facilitar documentación y permiso de trabajo",
+      "Prohibir las devoluciones ilegales encubiertas como retornos voluntarios",
+      "Pedir que el Gobierno lleve a la justicia de la UE los reglamentos del Pacto Europeo de Migración y Asilo",
+      "Ampliar la capacidad de los centros de internamiento (CIE)",
+      "Exigir cinco años de residencia para acceder a ayudas no contributivas"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Compromís propone regularizar, prohibir las devoluciones encubiertas y pedir que el Gobierno traslade al Tribunal de Justicia de la UE el Pacto Europeo de Migración y Asilo. En cambio, exige eliminar los CIE (centros de internamiento de extranjeros).",
+    "tip": "Dos de las opciones restringen derechos y no coinciden con el planteamiento del capítulo.",
+    "source": {
+      "doc": "compromis",
+      "page": 56,
+      "section": "Solidaridad global y migración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-inmigracion-004",
+    "doc": "compromis",
+    "topic": "inmigracion",
+    "type": "which_party",
+    "question": "¿Qué partido propone prohibir por ley las identificaciones policiales por perfil étnico?",
+    "options": [
+      "pp",
+      "vox",
+      "psoe",
+      "compromis"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Compromís plantea definir legalmente la identificación policial discriminatoria por perfil étnico y prohibirla, y exigir formularios de parada con el motivo y la identificación del agente. Los otros partidos propuestos no incluyen esa medida.",
+    "tip": "Es una medida sobre la actuación de la policía en la calle.",
+    "source": {
+      "doc": "compromis",
+      "page": 45,
+      "section": "Igualdad de trato"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-medioambiente-001",
+    "doc": "compromis",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "Compromís propone alcanzar el 100 % de titularidad pública de Red Eléctrica.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Red Eléctrica es la empresa que gestiona la red de transporte de electricidad. Compromís quiere recuperar el control estatal total de esa infraestructura estratégica.",
+    "tip": "Se refiere a la empresa que opera la red de alta tensión.",
+    "source": {
+      "doc": "compromis",
+      "page": 27,
+      "section": "Energía"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "compromis-medioambiente-002",
+    "doc": "compromis",
+    "topic": "medioambiente",
+    "type": "tf",
+    "question": "Compromís propone mantener la reforma de la Ley de Costas de 2013, que amplió las concesiones hasta 75 años.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Compromís propone revertir esa reforma, que según el programa alargó las concesiones hasta 75 años y rebajó la protección del litoral.",
+    "tip": "El programa menciona esa reforma como algo que hay que revertir.",
+    "source": {
+      "doc": "compromis",
+      "page": 29,
+      "section": "Territorio"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-medioambiente-003",
+    "doc": "compromis",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Con qué horizonte propone Compromís abandonar los combustibles fósiles?",
+    "options": [
+      "2030",
+      "2035",
+      "2040",
+      "2050"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El programa propone revisar la Ley de Cambio Climático para llegar al 100 % de electrificación del sistema en 2030 y abandonar los combustibles fósiles con horizonte 2040.",
+    "tip": "No coincide con el año de la electrificación total.",
+    "source": {
+      "doc": "compromis",
+      "page": 27,
+      "section": "Energía"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-medioambiente-004",
+    "doc": "compromis",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "¿Qué porcentaje de cobertura arbórea propone Compromís alcanzar en todos los núcleos urbanos en 2040?",
+    "options": [
+      "10 %",
+      "20 %",
+      "30 %",
+      "50 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Compromís propone un programa estatal de adaptación climática urbana, con el objetivo de llegar a un 30 % de cobertura arbórea en los núcleos urbanos en 2040, empezando por los barrios más vulnerables a la isla de calor.",
+    "tip": "Es menos de la mitad de la superficie.",
+    "source": {
+      "doc": "compromis",
+      "page": 29,
+      "section": "Modelo de ciudad y urbanismo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-medioambiente-005",
+    "doc": "compromis",
+    "topic": "medioambiente",
+    "type": "single",
+    "question": "Sobre la supervisión de la energía, ¿qué propone Compromís?",
+    "options": [
+      "Separarla de la CNMC con una nueva Comisión Nacional de la Energía",
+      "Unirla al Ministerio de Hacienda",
+      "Dejarla en manos de las compañías eléctricas",
+      "Transferirla a las comunidades autónomas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa propone crear una nueva Comisión Nacional de la Energía separada de la CNMC (el actual regulador de mercados y competencia), deshaciendo la fusión de 2013 que, según Compromís, diluyó la supervisión del sector.",
+    "tip": "Implica deshacer una fusión de organismos.",
+    "source": {
+      "doc": "compromis",
+      "page": 27,
+      "section": "Energía"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-medioambiente-006",
+    "doc": "compromis",
+    "topic": "medioambiente",
+    "type": "multi",
+    "question": "Marca todas las medidas energéticas que figuran en el programa de Compromís.",
+    "options": [
+      "Crear una empresa pública de generación, distribución y comercialización de energía",
+      "Contratos a largo plazo a precio fijo para las renovables",
+      "Sacar de la factura el impuesto eléctrico y los cargos de política energética",
+      "Ampliar la vida útil de las centrales nucleares",
+      "Subvencionar la compra de combustibles fósiles"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa propone una empresa pública de energía, contratos regulados a precio fijo para renovables (para reducir el peso del mercado marginalista, donde el precio lo fija la tecnología más cara) y financiar con los Presupuestos los cargos de la factura. No propone ampliar la vida de las nucleares ni subvencionar combustibles fósiles.",
+    "tip": "Las dos opciones incorrectas van contra la transición a las renovables.",
+    "source": {
+      "doc": "compromis",
+      "page": 26,
+      "section": "Energía"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-medioambiente-007",
+    "doc": "compromis",
+    "topic": "medioambiente",
+    "type": "which_party",
+    "question": "¿Qué partido propone prohibir por ley los patrocinios y anuncios de empresas de combustibles fósiles?",
+    "options": [
+      "compromis",
+      "pp",
+      "vox",
+      "salf"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Compromís plantea esa prohibición y crear un Observatorio de la Publicidad Verde Engañosa. Los otros partidos propuestos no incluyen una medida similar en sus programas.",
+    "tip": "Es una medida sobre la publicidad de un sector energético.",
+    "source": {
+      "doc": "compromis",
+      "page": 26,
+      "section": "Medio ambiente y biodiversidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-medioambiente-008",
+    "doc": "compromis",
+    "topic": "medioambiente",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Compromís?",
+    "options": [
+      "Reconocer por ley el confort climático como derecho social básico",
+      "Ejecutar un plan estatal contra la regresión de la costa valenciana",
+      "Promover el principio de Ocupación Neta Zero de suelo natural y agrario",
+      "Permitir nuevas construcciones en zonas amenazadas por la subida del nivel del mar"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa propone impedir nuevas construcciones en zonas amenazadas por la subida del nivel del mar, y no exigir ninguna gran obra en el litoral sin evaluar el riesgo a 2045 y 2100.",
+    "tip": "Una opción contradice la protección del litoral frente al cambio climático.",
+    "source": {
+      "doc": "compromis",
+      "page": 29,
+      "section": "Medio ambiente y biodiversidad"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-rural-001",
+    "doc": "compromis",
+    "topic": "rural",
+    "type": "single",
+    "question": "¿Hasta qué importe pide Compromís un régimen simplificado dentro de la PAC adaptada a la agricultura mediterránea?",
+    "options": [
+      "Hasta 1.000 euros",
+      "Hasta 2.500 euros",
+      "Hasta 5.000 euros",
+      "Hasta 10.000 euros"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "El programa reivindica una PAC adaptada a la agricultura mediterránea con regímenes simplificados hasta 5.000 euros. La PAC es la Política Agraria Común de la Unión Europea, que reparte ayudas al sector.",
+    "tip": "La cifra está entre dos y diez veces más alta que la primera opción.",
+    "source": {
+      "doc": "compromis",
+      "page": 21,
+      "section": "Agricultura y pesca"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-rural-002",
+    "doc": "compromis",
+    "topic": "rural",
+    "type": "tf",
+    "question": "Compromís propone crear un sistema de etiquetado que indique claramente qué parte del precio llega a quien produce.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El objetivo es que la persona consumidora sepa cuánto de lo que paga va a agricultores y ganaderos, y reforzar así la transparencia en la cadena alimentaria.",
+    "tip": "El etiquetado informaría sobre el reparto del precio, no solo sobre el origen.",
+    "source": {
+      "doc": "compromis",
+      "page": 21,
+      "section": "Agricultura y pesca"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "compromis-rural-003",
+    "doc": "compromis",
+    "topic": "rural",
+    "type": "tf",
+    "question": "Compromís propone que los trasvases entre cuencas sean la solución ordinaria para el agua, sin necesidad de acuerdo entre cuencas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Compromís propone que los trasvases sean una medida excepcional, con acuerdo entre cuencas, disponibilidad acreditada y respeto a los caudales ecológicos. Un trasvase es llevar agua de una cuenca fluvial a otra.",
+    "tip": "El programa pone condiciones y habla de un recurso excepcional.",
+    "source": {
+      "doc": "compromis",
+      "page": 22,
+      "section": "Agricultura y pesca"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-rural-004",
+    "doc": "compromis",
+    "topic": "rural",
+    "type": "multi",
+    "question": "Marca todas las medidas para el sector agroalimentario que figuran en el programa de Compromís.",
+    "options": [
+      "Reforzar la Ley de la cadena alimentaria para que los precios cubran los costes de producción",
+      "IVA reducido a los bienes y servicios necesarios para la producción agraria, incluida la maquinaria",
+      "Reforzar los controles a las importaciones de productos de fuera de la UE",
+      "Permitir acuerdos de precios de compra entre grandes distribuidoras",
+      "Retirar el etiquetado de origen de los productos agroalimentarios"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Compromís propone reforzar la Ley de la cadena alimentaria, un IVA reducido para insumos y maquinaria agraria y más controles a las importaciones extracomunitarias. Plantea perseguir la concertación de precios de compra y perseguir el etiquetado confuso del origen.",
+    "tip": "Las dos opciones incorrectas favorecerían a las grandes empresas frente a quien produce.",
+    "source": {
+      "doc": "compromis",
+      "page": 22,
+      "section": "Agricultura y pesca"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-rural-005",
+    "doc": "compromis",
+    "topic": "rural",
+    "type": "which_party",
+    "question": "¿Qué partido propone aprobar un Estatuto de las Personas Agricultoras y Ganaderas Profesionales?",
+    "options": [
+      "pp",
+      "compromis",
+      "vox",
+      "psoe"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Compromís propone ese estatuto para actualizar el marco de las explotaciones prioritarias y coordinar fiscalidad, protección social, transmisión de la explotación, financiación y simplificación. Los otros partidos propuestos no incluyen un estatuto con ese contenido.",
+    "tip": "Se trataría de una norma específica para quienes viven de la agricultura y la ganadería.",
+    "source": {
+      "doc": "compromis",
+      "page": 21,
+      "section": "Agricultura y pesca"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-rural-006",
+    "doc": "compromis",
+    "topic": "rural",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Compromís?",
+    "options": [
+      "Defender medidas compensatorias para el sector pesquero por la subida del combustible",
+      "Facilitar el relevo generacional sin hacer del patrimonio heredado una condición para empezar",
+      "Facilitar la compra pública con criterios sociales, ambientales y de temporada",
+      "Subvencionar la ampliación de la flota pesquera"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "El programa defiende apoyar la reconversión hacia una producción pesquera más sostenible, no ampliar la flota. Las otras tres propuestas sí aparecen en el capítulo de agricultura y pesca.",
+    "tip": "Una opción no encaja con la idea de una pesca más sostenible.",
+    "source": {
+      "doc": "compromis",
+      "page": 23,
+      "section": "Agricultura y pesca"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-territorio-002",
+    "doc": "compromis",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "Compromís propone un plan de modernización de Cercanías en el País Valenciano con una inversión de 1.500 millones de euros y 58 trenes nuevos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El plan incluiría un calendario verificable e información pública sobre el grado de ejecución. Cercanías (o rodalies) es la red ferroviaria de trenes de proximidad.",
+    "tip": "El plan combina una cifra de inversión con un número de trenes.",
+    "source": {
+      "doc": "compromis",
+      "page": 50,
+      "section": "Modelo de financiación y modelo de Estado"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-territorio-003",
+    "doc": "compromis",
+    "topic": "territorio",
+    "type": "tf",
+    "question": "Compromís propone mantener las diputaciones provinciales y reforzar sus competencias.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Compromís propone avanzar hacia la supresión de las diputaciones provinciales y redistribuir sus competencias, recursos y personal, manteniendo los servicios mediante un departamento de municipalismo en la Generalitat y los entes comarcales y metropolitanos.",
+    "tip": "El programa quiere superar la estructura provincial.",
+    "source": {
+      "doc": "compromis",
+      "page": 53,
+      "section": "Modelo de financiación y modelo de Estado"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "compromis-territorio-004",
+    "doc": "compromis",
+    "topic": "territorio",
+    "type": "single",
+    "question": "¿Cuál de estas competencias propone Compromís traspasar a la Generalitat Valenciana?",
+    "options": [
+      "El Ingreso Mínimo Vital",
+      "Las pensiones contributivas",
+      "La prestación por desempleo",
+      "La política exterior"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Entre las competencias que Compromís quiere traspasar están las costas y el litoral, puertos, aeropuertos, Cercanías, el Ingreso Mínimo Vital y la inspección de trabajo. El Ingreso Mínimo Vital es una prestación estatal para personas en situación de vulnerabilidad.",
+    "tip": "Es una prestación pensada para hogares con pocos ingresos.",
+    "source": {
+      "doc": "compromis",
+      "page": 52,
+      "section": "Modelo de financiación y modelo de Estado"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-territorio-005",
+    "doc": "compromis",
+    "topic": "territorio",
+    "type": "multi",
+    "question": "Marca todas las propuestas sobre financiación autonómica que figuran en el programa de Compromís.",
+    "options": [
+      "Un concierto económico responsable o un sistema en el que la Generalitat recaude la mayor parte de los tributos",
+      "Un fondo transitorio de nivelación mientras no se reforme el sistema",
+      "Que el Estado asuma el 50 % de la financiación de la Ley de Dependencia",
+      "Mantener el sistema de financiación actual sin cambios",
+      "Suprimir el Fondo de Garantía Asistencial (FOGA)"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Compromís propone un concierto económico responsable o recaudación directa por la Generalitat, un fondo transitorio de nivelación y que el Estado asuma el 50 % de la financiación de la Ley de Dependencia. En cambio, propone desarrollar el FOGA y reformar el sistema, no mantenerlo.",
+    "tip": "Dos de las opciones no suponen ningún cambio o recortan mecanismos existentes.",
+    "source": {
+      "doc": "compromis",
+      "page": 50,
+      "section": "Modelo de financiación y modelo de Estado"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-territorio-006",
+    "doc": "compromis",
+    "topic": "territorio",
+    "type": "which_party",
+    "question": "¿Qué partido propone avanzar hacia la supresión de las diputaciones provinciales?",
+    "options": [
+      "pp",
+      "vox",
+      "psoe",
+      "compromis"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Compromís plantea superar la estructura provincial, suprimir las diputaciones y reconocer jurídicamente las comarcas. Los otros partidos propuestos no incluyen esa supresión.",
+    "tip": "Se trata de una reforma del nivel de gobierno situado entre ayuntamientos y comunidades.",
+    "source": {
+      "doc": "compromis",
+      "page": 53,
+      "section": "Modelo de financiación y modelo de Estado"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-territorio-007",
+    "doc": "compromis",
+    "topic": "territorio",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Compromís?",
+    "options": [
+      "Impulsar una Ley de Sedes del Estado para descentralizar instituciones",
+      "Reformar el Senado para convertirlo en un espacio efectivo de representación territorial",
+      "Recuperar el derecho civil valenciano mediante reforma constitucional",
+      "Reducir la dotación del Fondo de Compensación Interterritorial"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Compromís propone lo contrario: ampliar la dotación del Fondo de Compensación Interterritorial y modificar su normativa para que busque la convergencia en renta per cápita de las comunidades.",
+    "tip": "Una de las opciones recortaría un fondo que el programa quiere reforzar.",
+    "source": {
+      "doc": "compromis",
+      "page": 52,
+      "section": "Modelo de Estado"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-instituciones-001",
+    "doc": "compromis",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "Compromís propone suprimir la Sala Penal de la Audiencia Nacional.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Compromís considera que es un órgano judicial excepcional propio de una etapa predemocrática y que juzgar en Madrid hechos de discutible peligrosidad supone un castigo añadido a quien vive lejos.",
+    "tip": "El argumento del programa menciona que se trata de un órgano de otra época.",
+    "source": {
+      "doc": "compromis",
+      "page": 37,
+      "section": "Justicia y seguridad ciudadana"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-instituciones-002",
+    "doc": "compromis",
+    "topic": "instituciones",
+    "type": "tf",
+    "question": "Compromís propone que el Fiscal General del Estado sea elegido por el Gobierno sin ratificación del Congreso.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Compromís propone que la elección del Fiscal General del Estado se ratifique en el Congreso de los Diputados, para reforzar su independencia.",
+    "tip": "La propuesta añade un control parlamentario, no lo quita.",
+    "source": {
+      "doc": "compromis",
+      "page": 37,
+      "section": "Justicia y seguridad ciudadana"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-instituciones-003",
+    "doc": "compromis",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿A qué edad propone Compromís ampliar el derecho de voto?",
+    "options": [
+      "14 años",
+      "16 años",
+      "17 años",
+      "18 años, pero con voto obligatorio"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa propone ampliar el derecho de voto a los 16 años, junto con el impulso de los referéndums y una ley de participación ciudadana.",
+    "tip": "Es dos años menos que la mayoría de edad.",
+    "source": {
+      "doc": "compromis",
+      "page": 35,
+      "section": "Transparencia y participación"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "compromis-instituciones-004",
+    "doc": "compromis",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Qué ley de 1977 propone derogar Compromís en el capítulo de memoria democrática?",
+    "options": [
+      "La Ley de Amnistía",
+      "La Ley de Partidos Políticos",
+      "La Ley de Seguridad Nacional",
+      "La Ley de Libertad Religiosa"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Compromís propone derogar la Ley de Amnistía de 1977, que impidió juzgar delitos cometidos durante la dictadura. También exige retirar símbolos franquistas y plantea modificar la Ley de Memoria Democrática.",
+    "tip": "Se aprobó durante la Transición y afecta a delitos de la dictadura.",
+    "source": {
+      "doc": "compromis",
+      "page": 38,
+      "section": "Memoria democrática"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-instituciones-005",
+    "doc": "compromis",
+    "topic": "instituciones",
+    "type": "single",
+    "question": "¿Qué propone Compromís sobre las declaraciones de bienes y actividades de los altos cargos?",
+    "options": [
+      "Publicarlas completas, y no solo un extracto como ahora",
+      "Mantenerlas secretas pero auditarlas",
+      "Publicarlas solo cada diez años",
+      "Publicar solo las de ministros"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa exige publicar las declaraciones de bienes y actividades completas de los altos cargos, y no solo un extracto. También pide publicar el nombre, currículum, sueldo y cargo del personal eventual.",
+    "tip": "La propuesta busca que la información sea completa y pública.",
+    "source": {
+      "doc": "compromis",
+      "page": 33,
+      "section": "Administración pública"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-instituciones-006",
+    "doc": "compromis",
+    "topic": "instituciones",
+    "type": "multi",
+    "question": "Marca todas las medidas anticorrupción que figuran en el programa de Compromís.",
+    "options": [
+      "Crear una oficina antifraude",
+      "Prohibir que la Administración se relacione con paraísos fiscales",
+      "Garantizar por ley el anonimato y la protección de las personas denunciantes de corrupción",
+      "Reducir los plazos de prescripción de los delitos de corrupción",
+      "Crear una agencia anticorrupción dependiente del Gobierno"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Compromís propone una oficina antifraude, prohibir que la Administración y la contratación pública se relacionen con paraísos fiscales y garantizar por ley el anonimato y la protección de quien denuncie, con una bandeja ciudadana anónima. No plantea acortar plazos de prescripción ni una agencia dependiente del Gobierno.",
+    "tip": "Las dos opciones incorrectas reducirían la independencia o la persecución del delito.",
+    "source": {
+      "doc": "compromis",
+      "page": 36,
+      "section": "Anticorrupción y calidad democrática"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-instituciones-007",
+    "doc": "compromis",
+    "topic": "instituciones",
+    "type": "which_party",
+    "question": "¿Qué partido propone sustituir la aconfesionalidad del Estado por el laicismo?",
+    "options": [
+      "pp",
+      "compromis",
+      "vox",
+      "cc"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Compromís propone sustituir la condición de aconfesionalidad del Estado (el Estado no tiene religión oficial) por la de laicismo, que implica una separación más estricta entre Estado y confesiones religiosas. Los otros partidos propuestos no lo plantean.",
+    "tip": "Es un cambio en cómo se define la relación entre Estado y religión.",
+    "source": {
+      "doc": "compromis",
+      "page": 39,
+      "section": "Laicismo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-instituciones-008",
+    "doc": "compromis",
+    "topic": "instituciones",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Compromís?",
+    "options": [
+      "Derogar la ley mordaza",
+      "Abolir el uso de las balas de goma",
+      "Reconocer el derecho de sindicación de las fuerzas de seguridad",
+      "Reforzar la justicia militar"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Compromís propone lo contrario: eliminar la justicia militar. La ley mordaza es la Ley de Protección de la Seguridad Ciudadana, y las otras tres medidas sí aparecen en el programa.",
+    "tip": "Una opción amplía un ámbito judicial que el programa quiere suprimir.",
+    "source": {
+      "doc": "compromis",
+      "page": 38,
+      "section": "Justicia y seguridad ciudadana"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-exterior-002",
+    "doc": "compromis",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "Compromís propone auditar todo el gasto en Defensa y publicar los resultados.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. La auditoría incluiría las partidas repartidas entre otros ministerios y los compromisos de pago plurianuales de los grandes programas de armamento.",
+    "tip": "El gasto militar no se limita a un solo ministerio.",
+    "source": {
+      "doc": "compromis",
+      "page": 55,
+      "section": "Política exterior y defensa"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "compromis-exterior-003",
+    "doc": "compromis",
+    "topic": "exterior",
+    "type": "tf",
+    "question": "Compromís propone que el presupuesto de la Unión Europea se reduzca hasta el 1 % de la renta nacional bruta.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Compromís propone reforzar el presupuesto de la UE hasta al menos el 2 % de la renta nacional bruta (RNB), que es el conjunto de ingresos de un país.",
+    "tip": "La propuesta es aumentar el presupuesto, no recortarlo.",
+    "source": {
+      "doc": "compromis",
+      "page": 56,
+      "section": "Unión Europea"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-exterior-004",
+    "doc": "compromis",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿En qué ciudad propone Compromís crear un Centro Internacional de Resolución de Disputas?",
+    "options": [
+      "Alicante",
+      "Valencia",
+      "Barcelona",
+      "Ginebra"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa propone crear en Alicante ese centro, como lugar de mediación y diplomacia para los conflictos entre estados y grupos humanos, con un papel activo en la prevención de conflictos armados.",
+    "tip": "Es una ciudad de la Comunitat Valenciana distinta de la capital autonómica.",
+    "source": {
+      "doc": "compromis",
+      "page": 54,
+      "section": "Política exterior y defensa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-exterior-005",
+    "doc": "compromis",
+    "topic": "exterior",
+    "type": "single",
+    "question": "¿Qué porcentaje de la renta propone Compromís blindar por ley para la cooperación al desarrollo?",
+    "options": [
+      "El 0,2 %",
+      "El 0,4 %",
+      "El 0,7 %",
+      "El 1 %"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Compromís propone recuperar las políticas de cooperación al desarrollo garantizando por ley el 0,7 %, un objetivo reconocido internacionalmente para la ayuda al desarrollo.",
+    "tip": "Es una cifra inferior a uno por ciento.",
+    "source": {
+      "doc": "compromis",
+      "page": 56,
+      "section": "Solidaridad global y migración"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-exterior-006",
+    "doc": "compromis",
+    "topic": "exterior",
+    "type": "multi",
+    "question": "Marca todas las propuestas de política exterior que figuran en el programa de Compromís.",
+    "options": [
+      "Aumentar el apoyo al pueblo palestino",
+      "Mantener el apoyo al pueblo ucraniano",
+      "Pedir la ratificación del Tratado sobre la No-Proliferación de Armas Nucleares",
+      "Aumentar el gasto militar hasta el 2 % del PIB",
+      "Reforzar el papel de la OTAN en la defensa europea"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa propone más apoyo al pueblo palestino, mantener el apoyo al pueblo ucraniano y pedir la ratificación del Tratado de No-Proliferación Nuclear. En cambio, plantea reducir duplicidades y gasto militar y una Unión Europea de la Defensa que pueda sustituir a la OTAN.",
+    "tip": "Dos de las opciones aumentarían el peso militar, contrario al capítulo.",
+    "source": {
+      "doc": "compromis",
+      "page": 54,
+      "section": "Política exterior y defensa"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-exterior-007",
+    "doc": "compromis",
+    "topic": "exterior",
+    "type": "which_party",
+    "question": "¿Qué partido propone romper las relaciones diplomáticas y comerciales con el Estado de Israel?",
+    "options": [
+      "pp",
+      "vox",
+      "compromis",
+      "cc"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Compromís propone romper relaciones diplomáticas y comerciales con países que no garantizan los derechos humanos y practican genocidios, como el Estado de Israel. Los otros partidos propuestos no incluyen esta medida.",
+    "tip": "Es una medida sobre las relaciones con un país concreto de Oriente Próximo.",
+    "source": {
+      "doc": "compromis",
+      "page": 55,
+      "section": "Derechos humanos y legalidad internacional"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-cultura-001",
+    "doc": "compromis",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "Compromís reivindica el retorno permanente de la Dama de Elche a Elche y del Llibre dels Repartiments a Orihuela para su exhibición.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. Son dos piezas del patrimonio histórico valenciano: la Dama de Elche, una escultura ibérica, y el Llibre dels Repartiments, un documento medieval sobre el reparto de tierras tras la conquista del reino de València.",
+    "tip": "Se trata de devolver piezas patrimoniales a ciudades valencianas concretas.",
+    "source": {
+      "doc": "compromis",
+      "page": 14,
+      "section": "Cultura"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-cultura-002",
+    "doc": "compromis",
+    "topic": "cultura",
+    "type": "tf",
+    "question": "Compromís propone que la inversión en ciencia supere el 5 % del PIB.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. El programa defiende una financiación suficiente, estable y sostenida que supere el 3 % del PIB, además de una cláusula de no retroceso para que la ciencia no sufra recortes reales en tiempos de crisis.",
+    "tip": "La cifra del programa es bastante inferior a la que aparece en la afirmación.",
+    "source": {
+      "doc": "compromis",
+      "page": 20,
+      "section": "Ciencia e innovación"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-cultura-003",
+    "doc": "compromis",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿A qué edades propone Compromís extender el Bono Cultural Joven?",
+    "options": [
+      "De 14 a 25 años",
+      "De 16 a 30 años",
+      "De 18 a 35 años",
+      "Solo a los 18 años"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa propone ampliar el acceso a la cultura con precios asequibles, ayudas para quien tiene menos recursos y la extensión del Bono Cultural Joven a la población de 16 a 30 años.",
+    "tip": "El tramo empieza a una edad en la que aún se estudia y termina en la treintena.",
+    "source": {
+      "doc": "compromis",
+      "page": 14,
+      "section": "Cultura"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-cultura-004",
+    "doc": "compromis",
+    "topic": "cultura",
+    "type": "single",
+    "question": "¿Qué órgano propone poner en marcha Compromís como regulador, supervisor y sancionador del sector audiovisual?",
+    "options": [
+      "El Consejo Estatal de Medios Audiovisuales (CEMA)",
+      "El Consejo de Administración de RTVE",
+      "El Defensor del Pueblo",
+      "El Tribunal de Cuentas"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Compromís propone poner en marcha el CEMA y un Estatuto de la Información, con sanciones graves a quien desinforme. Un regulador audiovisual vigila el cumplimiento de las normas por parte de las empresas de comunicación.",
+    "tip": "Sus siglas empiezan por la inicial de «consejo» y acaban con la de «audiovisuales».",
+    "source": {
+      "doc": "compromis",
+      "page": 16,
+      "section": "Modelo comunicativo y derechos digitales"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-cultura-005",
+    "doc": "compromis",
+    "topic": "cultura",
+    "type": "multi",
+    "question": "Marca todas las medidas sobre inteligencia artificial y entornos digitales que figuran en el programa de Compromís.",
+    "options": [
+      "Regular estrictamente los usos de la inteligencia artificial",
+      "Mejorar la protección frente a los deep fakes",
+      "Prohibir asistentes digitales que creen dependencia emocional",
+      "Prohibir toda inteligencia artificial generativa",
+      "Crear un registro público de todas las personas usuarias de redes sociales"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Compromís propone regular estrictamente la IA para que mejore la sociedad, proteger frente a los deep fakes (vídeos o audios falsos creados con IA) y prohibir asistentes digitales que generen dependencia emocional. No propone prohibir toda la IA ni un registro de usuarios.",
+    "tip": "Las dos opciones incorrectas son más extremas que lo que dice el programa.",
+    "source": {
+      "doc": "compromis",
+      "page": 16,
+      "section": "Modelo comunicativo y derechos digitales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-cultura-006",
+    "doc": "compromis",
+    "topic": "cultura",
+    "type": "which_party",
+    "question": "¿Qué partido propone avanzar hacia una programación completa en valenciano en el Centro Territorial de RTVE en el País Valenciano?",
+    "options": [
+      "pp",
+      "vox",
+      "compromis",
+      "psoe"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Compromís propone esa programación completa, compartida e intercambiada con otras comunidades del mismo dominio lingüístico, y la emisión de las televisiones autonómicas en todo el Estado. Los otros partidos propuestos no incluyen esa medida.",
+    "tip": "Es una medida sobre la lengua en un ente público de comunicación.",
+    "source": {
+      "doc": "compromis",
+      "page": 15,
+      "section": "Modelo comunicativo y derechos digitales"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-otros-001",
+    "doc": "compromis",
+    "topic": "otros",
+    "type": "tf",
+    "question": "Compromís propone suprimir los espectáculos taurinos con muerte y sufrimiento del animal y derogar la ley que los declara patrimonio cultural.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. El programa propone suprimir esos espectáculos, retirar subvenciones y ayudas públicas, y derogar la Ley 18/2013 que los recoge como patrimonio cultural.",
+    "tip": "Incluye tanto prohibir como retirar la financiación pública.",
+    "source": {
+      "doc": "compromis",
+      "page": 40,
+      "section": "Derechos animales"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "compromis-otros-002",
+    "doc": "compromis",
+    "topic": "otros",
+    "type": "tf",
+    "question": "Compromís propone una prestación universal por crianza de 200 euros mensuales por hijo o hija.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Es verdadero. La prestación se incrementaría en familias monoparentales y para hijos o hijas con una discapacidad superior al 60 %, con el objetivo de evitar la transmisión generacional del empobrecimiento.",
+    "tip": "Se paga cada mes por cada menor y es mayor en algunas familias.",
+    "source": {
+      "doc": "compromis",
+      "page": 41,
+      "section": "Infancia"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-otros-003",
+    "doc": "compromis",
+    "topic": "otros",
+    "type": "tf",
+    "question": "Compromís propone apoyar la ampliación norte del Puerto de València y las ampliaciones de los aeropuertos de València y Alicante.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Es falso. Compromís exige paralizar los proyectos de grandes infraestructuras que no estén justificados por su impacto ambiental o por criterios de movilidad real, citando precisamente esas ampliaciones.",
+    "tip": "El programa pide frenar esas obras, no impulsarlas.",
+    "source": {
+      "doc": "compromis",
+      "page": 12,
+      "section": "Movilidad sostenible"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-otros-004",
+    "doc": "compromis",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Qué propone Compromís sobre las macrogranjas?",
+    "options": [
+      "Una moratoria inmediata de nuevas macrogranjas, limitar su tamaño e impulsar su cierre",
+      "Autorizar solo las que superen un determinado número de animales",
+      "Prohibir únicamente las macrogranjas de porcino",
+      "Subvencionar su ampliación"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "El programa propone una moratoria inmediata de apertura de nuevas macrogranjas, limitar estrictamente sus dimensiones e impulsar su cierre. Una moratoria es una suspensión temporal de nuevas autorizaciones.",
+    "tip": "Incluye tres acciones: parar nuevas, limitar tamaño y cerrar las existentes.",
+    "source": {
+      "doc": "compromis",
+      "page": 40,
+      "section": "Derechos animales"
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "compromis-otros-005",
+    "doc": "compromis",
+    "topic": "otros",
+    "type": "single",
+    "question": "¿Hasta qué nivel de renta anual propone Compromís una deducción estatal en el IRPF para las personas jóvenes que viven de alquiler?",
+    "options": [
+      "Hasta 21.000 euros",
+      "Hasta 25.000 euros",
+      "Hasta 33.000 euros",
+      "Hasta 45.000 euros"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "La deducción en el IRPF se aplicaría a personas jóvenes con rentas anuales de hasta 33.000 euros, para reducir el esfuerzo económico del alquiler y facilitar la emancipación.",
+    "tip": "La cifra es mayor que el salario mínimo, pero lejos de un sueldo alto.",
+    "source": {
+      "doc": "compromis",
+      "page": 43,
+      "section": "Juventud"
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "compromis-otros-006",
+    "doc": "compromis",
+    "topic": "otros",
+    "type": "single",
+    "question": "Compromís propone limitar los vuelos nacionales cuando exista una alternativa ferroviaria competitiva de duración inferior a…",
+    "options": [
+      "1 hora",
+      "2 horas y media",
+      "4 horas",
+      "6 horas"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "El programa propone limitar de forma efectiva los vuelos nacionales cuando haya una alternativa de tren competitiva de menos de 2 horas y media, para reducir emisiones.",
+    "tip": "El límite es una duración intermedia entre una y cuatro horas.",
+    "source": {
+      "doc": "compromis",
+      "page": 13,
+      "section": "Movilidad sostenible"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-otros-007",
+    "doc": "compromis",
+    "topic": "otros",
+    "type": "multi",
+    "question": "Marca todas las medidas sobre turismo que figuran en el programa de Compromís.",
+    "options": [
+      "Regular los apartamentos turísticos",
+      "Regular la llegada masiva de cruceros",
+      "Modificar el artículo 42 del Estatuto de los Trabajadores para impedir que los hoteles subcontraten la limpieza de habitaciones",
+      "Liberalizar las licencias de VTC",
+      "Aumentar la promoción turística en el exterior"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "El programa impulsa un Pacto de Estado por un Turismo Justo y Sostenible: regula apartamentos turísticos y cruceros y busca mejorar las condiciones de las camareras de piso. Propone destinar los recursos de promoción turística a la reconversión ecológica y a I+D+i, y limitar las VTC.",
+    "tip": "Dos de las opciones apuntan a más turismo o más competencia, algo opuesto al enfoque del capítulo.",
+    "source": {
+      "doc": "compromis",
+      "page": 24,
+      "section": "Turismo"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-otros-008",
+    "doc": "compromis",
+    "topic": "otros",
+    "type": "which_party",
+    "question": "¿Qué partido propone prohibir la caza con perros y los espectáculos que usen animales?",
+    "options": [
+      "pp",
+      "compromis",
+      "vox",
+      "salf"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Compromís propone prohibir la caza con perros y los espectáculos que usen animales, además de incluir a los perros de caza en la protección de la ley de bienestar animal. Los otros partidos propuestos no incluyen esa prohibición.",
+    "tip": "Es una medida de protección animal, no de protección de espacios.",
+    "source": {
+      "doc": "compromis",
+      "page": 40,
+      "section": "Derechos animales"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "compromis-otros-009",
+    "doc": "compromis",
+    "topic": "otros",
+    "type": "which_not",
+    "question": "¿Cuál de estas propuestas NO está en el programa de Compromís?",
+    "options": [
+      "Implantar progresivamente la remuneración de las ocho semanas de permiso de cuidado de hijos e hijas",
+      "Reservar viviendas de alquiler por debajo del precio de mercado para jóvenes con ingresos limitados",
+      "Crear una línea estatal de microcréditos para proyectos empresariales de jóvenes",
+      "Suprimir el programa de Garantía Juvenil"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "Compromís propone lo contrario: mejorar la calidad de la Garantía Juvenil con un nuevo decreto que priorice ayudas a la contratación indefinida y a tiempo completo. La Garantía Juvenil es un programa europeo de inserción laboral para jóvenes.",
+    "tip": "Una opción eliminaría un programa que el programa quiere mejorar.",
+    "source": {
+      "doc": "compromis",
+      "page": 42,
+      "section": "Juventud y familias"
+    },
+    "difficulty": 3
   }
 ]

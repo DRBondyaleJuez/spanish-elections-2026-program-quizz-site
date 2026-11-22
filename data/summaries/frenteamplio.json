@@ -5,185 +5,839 @@
     "vivienda": {
       "summary": "Trata la vivienda como un derecho fundamental: construir un gran parque público de alquiler, limitar precios y frenar a los fondos y los pisos turísticos.",
       "points": [
-        { "text": "Destinar el 1 % del PIB al año (unos 17.000 millones) para sumar 1,5 millones de viviendas públicas en 12 años y llegar al 20 % del parque total en 2035.", "source": { "doc": "frenteamplio", "page": 10 } },
-        { "text": "Topar por ley el alquiler en zonas tensionadas: la cuota máxima sería el 25 % de la renta neta media de la zona. El programa calcula que bajaría los precios un 35 % de media.", "source": { "doc": "frenteamplio", "page": 13 } },
-        { "text": "Prohibir comprar viviendas a personas jurídicas con ánimo de lucro (fondos, SOCIMI, bancos), salvo para alquiler asequible regulado, y erradicar los desahucios de familias vulnerables sin alternativa de vivienda.", "source": { "doc": "frenteamplio", "page": 11 } },
-        { "text": "Extinguir en un máximo de 3 años las licencias de pisos turísticos en edificios residenciales de zonas tensionadas, y cobrarles el IVA general del 21 %.", "source": { "doc": "frenteamplio", "page": 12 } },
-        { "text": "Hacer indefinidos los contratos de alquiler por defecto; durante la transición, prórroga obligatoria de 5 años (7 si el casero es una empresa).", "source": { "doc": "frenteamplio", "page": 14 } },
-        { "text": "Crear un impuesto del 10 % sobre el valor de los pisos de empresas desde el primer inmueble y de particulares desde el cuarto, con exención para los alquilados a precio asequible.", "source": { "doc": "frenteamplio", "page": 18 } },
-        { "text": "Subir 200 % el impuesto de transmisiones por comprar una segunda vivienda y 1.000 % desde la tercera, y eliminarlo para quien compre su primera vivienda habitual.", "source": { "doc": "frenteamplio", "page": 19 } },
-        { "text": "Reformar la Constitución para que la vivienda sea derecho fundamental exigible ante los tribunales y proteger de forma permanente el parque público de la venta.", "source": { "doc": "frenteamplio", "page": 19 } }
+        {
+          "text": "Destinar el 1 % del PIB al año (unos 17.000 millones) para sumar 1,5 millones de viviendas públicas en 12 años y llegar al 20 % del parque total en 2035.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 10
+          }
+        },
+        {
+          "text": "Topar por ley el alquiler en zonas tensionadas: la cuota máxima sería el 25 % de la renta neta media de la zona. El programa calcula que bajaría los precios un 35 % de media.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 13
+          }
+        },
+        {
+          "text": "Prohibir comprar viviendas a personas jurídicas con ánimo de lucro (fondos, SOCIMI, bancos), salvo para alquiler asequible regulado, y erradicar los desahucios de familias vulnerables sin alternativa de vivienda.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 11
+          }
+        },
+        {
+          "text": "Extinguir en un máximo de 3 años las licencias de pisos turísticos en edificios residenciales de zonas tensionadas, y cobrarles el IVA general del 21 %.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 12
+          }
+        },
+        {
+          "text": "Hacer indefinidos los contratos de alquiler por defecto; durante la transición, prórroga obligatoria de 5 años (7 si el casero es una empresa).",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 14
+          }
+        },
+        {
+          "text": "Crear un impuesto del 10 % sobre el valor de los pisos de empresas desde el primer inmueble y de particulares desde el cuarto, con exención para los alquilados a precio asequible.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 18
+          }
+        },
+        {
+          "text": "Subir 200 % el impuesto de transmisiones por comprar una segunda vivienda y 1.000 % desde la tercera, y eliminarlo para quien compre su primera vivienda habitual.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 19
+          }
+        },
+        {
+          "text": "Reformar la Constitución para que la vivienda sea derecho fundamental exigible ante los tribunales y proteger de forma permanente el parque público de la venta.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 19
+          }
+        }
       ]
     },
     "empleo": {
       "summary": "Propone trabajar menos horas con salarios que suban con los precios, más poder para los sindicatos y participación de las plantillas en las empresas.",
       "points": [
-        { "text": "Reducir la jornada de forma progresiva hasta 32 horas semanales sin bajar el sueldo, empezando por 37,5 horas en 2026 y 35 horas en el sector público.", "source": { "doc": "frenteamplio", "page": 56 } },
-        { "text": "Fijar por ley que el SMI sea siempre al menos el 60 % del salario medio neto y prohibir que se absorba con pluses.", "source": { "doc": "frenteamplio", "page": 51 } },
-        { "text": "Obligar a que los convenios incluyan cláusulas de revisión salarial ligadas al IPC; si no las tienen, los salarios se revisarán con la inflación.", "source": { "doc": "frenteamplio", "page": 51 } },
-        { "text": "Reformar el despido improcedente para que repare el daño real y disuada, y recuperar la autorización administrativa previa en los despidos colectivos.", "source": { "doc": "frenteamplio", "page": 53 } },
-        { "text": "Presunción de relación laboral para todo el trabajo en plataformas digitales (Ley Rider universal) y derecho a revisión humana de despidos decididos por algoritmos.", "source": { "doc": "frenteamplio", "page": 52 } },
-        { "text": "Subir la prestación contributiva por desempleo del 70 % al 80 % de la base durante los seis primeros meses y un 25 % los topes máximos.", "source": { "doc": "frenteamplio", "page": 53 } },
-        { "text": "Reparto obligatorio del 10 % del beneficio entre la plantilla en empresas de 50 o más trabajadores y representación de las plantillas en los consejos de administración.", "source": { "doc": "frenteamplio", "page": 115 } },
-        { "text": "Permitir hasta 3 días seguidos (6 al año) de ausencia justificada con declaración responsable por problemas leves de salud, como permiso remunerado.", "source": { "doc": "frenteamplio", "page": 54 } }
+        {
+          "text": "Reducir la jornada de forma progresiva hasta 32 horas semanales sin bajar el sueldo, empezando por 37,5 horas en 2026 y 35 horas en el sector público.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 56
+          }
+        },
+        {
+          "text": "Fijar por ley que el SMI sea siempre al menos el 60 % del salario medio neto y prohibir que se absorba con pluses.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 51
+          }
+        },
+        {
+          "text": "Obligar a que los convenios incluyan cláusulas de revisión salarial ligadas al IPC; si no las tienen, los salarios se revisarán con la inflación.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 51
+          }
+        },
+        {
+          "text": "Reformar el despido improcedente para que repare el daño real y disuada, y recuperar la autorización administrativa previa en los despidos colectivos.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 53
+          }
+        },
+        {
+          "text": "Presunción de relación laboral para todo el trabajo en plataformas digitales (Ley Rider universal) y derecho a revisión humana de despidos decididos por algoritmos.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 52
+          }
+        },
+        {
+          "text": "Subir la prestación contributiva por desempleo del 70 % al 80 % de la base durante los seis primeros meses y un 25 % los topes máximos.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 53
+          }
+        },
+        {
+          "text": "Reparto obligatorio del 10 % del beneficio entre la plantilla en empresas de 50 o más trabajadores y representación de las plantillas en los consejos de administración.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 115
+          }
+        },
+        {
+          "text": "Permitir hasta 3 días seguidos (6 al año) de ausencia justificada con declaración responsable por problemas leves de salud, como permiso remunerado.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 54
+          }
+        }
       ]
     },
     "economia": {
       "summary": "Plantea una reforma fiscal que cargue el esfuerzo sobre grandes empresas y grandes fortunas, con más intervención pública en precios, industria y banca.",
       "points": [
-        { "text": "Imponer un tipo mínimo efectivo del 20 % en el Impuesto sobre Sociedades a las grandes empresas y grupos, sin subir la carga a las pymes.", "source": { "doc": "frenteamplio", "page": 44 } },
-        { "text": "Que los patrimonios de más de 1 millón de euros paguen al menos un 2 %, y crear la Tasa Zucman: un 3 % anual sobre patrimonios individuales de más de 50 millones.", "source": { "doc": "frenteamplio", "page": 45 } },
-        { "text": "Crear un impuesto estatal sobre grandes herencias (hasta un 34 % marginal) y limitar a 10 millones lo que puede heredar cada persona, con un 100 % sobre el exceso.", "source": { "doc": "frenteamplio", "page": 46 } },
-        { "text": "Bajar el IRPF a las rentas del trabajo de hasta 27.000 euros y subir los tipos máximos hasta el 52 % a partir de 300.000 euros.", "source": { "doc": "frenteamplio", "page": 46 } },
-        { "text": "Bajar el IVA de peluquerías y servicios veterinarios, y hacer progresivo el IVA de la luz: empieza en el 0 % para consumos bajos y llega al 21 % en tramos altos.", "source": { "doc": "frenteamplio", "page": 47 } },
-        { "text": "Fijar topes máximos de precio en alimentos básicos de la cesta saludable y dar a la CNMC poder para limitar precios en sectores estratégicos si hay márgenes abusivos.", "source": { "doc": "frenteamplio", "page": 56 } },
-        { "text": "Crear una banca pública estatal uniendo el ICO, la red de Correos (Banco Postal) y el peso público en CaixaBank.", "source": { "doc": "frenteamplio", "page": 84 } },
-        { "text": "Mantener la tarifa plana de autónomos de 88 euros mientras sus ingresos sean inferiores al SMI anual, en lugar de limitarla a dos años.", "source": { "doc": "frenteamplio", "page": 92 } }
+        {
+          "text": "Imponer un tipo mínimo efectivo del 20 % en el Impuesto sobre Sociedades a las grandes empresas y grupos, sin subir la carga a las pymes.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 44
+          }
+        },
+        {
+          "text": "Que los patrimonios de más de 1 millón de euros paguen al menos un 2 %, y crear la Tasa Zucman: un 3 % anual sobre patrimonios individuales de más de 50 millones.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 45
+          }
+        },
+        {
+          "text": "Crear un impuesto estatal sobre grandes herencias (hasta un 34 % marginal) y limitar a 10 millones lo que puede heredar cada persona, con un 100 % sobre el exceso.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 46
+          }
+        },
+        {
+          "text": "Bajar el IRPF a las rentas del trabajo de hasta 27.000 euros y subir los tipos máximos hasta el 52 % a partir de 300.000 euros.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 46
+          }
+        },
+        {
+          "text": "Bajar el IVA de peluquerías y servicios veterinarios, y hacer progresivo el IVA de la luz: empieza en el 0 % para consumos bajos y llega al 21 % en tramos altos.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 47
+          }
+        },
+        {
+          "text": "Fijar topes máximos de precio en alimentos básicos de la cesta saludable y dar a la CNMC poder para limitar precios en sectores estratégicos si hay márgenes abusivos.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 56
+          }
+        },
+        {
+          "text": "Crear una banca pública estatal uniendo el ICO, la red de Correos (Banco Postal) y el peso público en CaixaBank.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 84
+          }
+        },
+        {
+          "text": "Mantener la tarifa plana de autónomos de 88 euros mientras sus ingresos sean inferiores al SMI anual, en lugar de limitarla a dos años.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 92
+          }
+        }
       ]
     },
     "pensiones": {
       "summary": "Quiere blindar las pensiones en la Constitución y ampliar la protección social con una prestación por crianza, un ingreso mínimo más generoso y más dependencia.",
       "points": [
-        { "text": "Reformar la Constitución para garantizar la pensión pública, su revalorización automática con el IPC, que ninguna sea inferior al SMI y que su gestión no se privatice.", "source": { "doc": "frenteamplio", "page": 57 } },
-        { "text": "Devolver la edad de jubilación a los 65 años y permitir jubilarse a los 60 en oficios penosos (construcción, limpieza, ayuda a domicilio, camareras de piso, pesca).", "source": { "doc": "frenteamplio", "page": 58 } },
-        { "text": "Eliminar los coeficientes reductores a quienes se jubilan anticipadamente de forma involuntaria tras cotizar más de 40 años, y reducir la brecha de género en pensiones.", "source": { "doc": "frenteamplio", "page": 58 } },
-        { "text": "Aprobar una Prestación Universal por Crianza de 200 euros al mes por cada menor de 18 años, automática y en tres fases durante la legislatura.", "source": { "doc": "frenteamplio", "page": 21 } },
-        { "text": "Subir el IPREM 100 euros hasta un suelo de 700 euros y actualizarlo cada año con el IPC.", "source": { "doc": "frenteamplio", "page": 21 } },
-        { "text": "Reformar el Ingreso Mínimo Vital para que se conceda de oficio, con el objetivo de alcanzar el 60 % de la renta mediana de cada comunidad, y extenderlo a jóvenes de 18 a 30 años.", "source": { "doc": "frenteamplio", "page": 22 } },
-        { "text": "Subir la inversión en dependencia del 0,8 % al 1,7 % del PIB en 2030 y reconocer por ley un derecho al respiro de al menos un mes al año.", "source": { "doc": "frenteamplio", "page": 23 } },
-        { "text": "Ampliar el permiso por nacimiento hasta 20 semanas por progenitor, intransferibles, y retribuir el permiso parental hasta 10 semanas.", "source": { "doc": "frenteamplio", "page": 24 } }
+        {
+          "text": "Reformar la Constitución para garantizar la pensión pública, su revalorización automática con el IPC, que ninguna sea inferior al SMI y que su gestión no se privatice.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 57
+          }
+        },
+        {
+          "text": "Devolver la edad de jubilación a los 65 años y permitir jubilarse a los 60 en oficios penosos (construcción, limpieza, ayuda a domicilio, camareras de piso, pesca).",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 58
+          }
+        },
+        {
+          "text": "Eliminar los coeficientes reductores a quienes se jubilan anticipadamente de forma involuntaria tras cotizar más de 40 años, y reducir la brecha de género en pensiones.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 58
+          }
+        },
+        {
+          "text": "Aprobar una Prestación Universal por Crianza de 200 euros al mes por cada menor de 18 años, automática y en tres fases durante la legislatura.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 21
+          }
+        },
+        {
+          "text": "Subir el IPREM 100 euros hasta un suelo de 700 euros y actualizarlo cada año con el IPC.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 21
+          }
+        },
+        {
+          "text": "Reformar el Ingreso Mínimo Vital para que se conceda de oficio, con el objetivo de alcanzar el 60 % de la renta mediana de cada comunidad, y extenderlo a jóvenes de 18 a 30 años.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 22
+          }
+        },
+        {
+          "text": "Subir la inversión en dependencia del 0,8 % al 1,7 % del PIB en 2030 y reconocer por ley un derecho al respiro de al menos un mes al año.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 23
+          }
+        },
+        {
+          "text": "Ampliar el permiso por nacimiento hasta 20 semanas por progenitor, intransferibles, y retribuir el permiso parental hasta 10 semanas.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 24
+          }
+        }
       ]
     },
     "sanidad": {
       "summary": "Defiende una sanidad pública de gestión directa con un suelo de gasto del 8 % del PIB y más prestaciones (dentista, gafas, audífonos, salud mental).",
       "points": [
-        { "text": "Fijar un gasto sanitario público de al menos el 8 % del PIB y destinar el 25 % del presupuesto sanitario a Atención Primaria.", "source": { "doc": "frenteamplio", "page": 26 } },
-        { "text": "Derogar la Ley 15/1997, que permitió la gestión con entidades privadas, hacer excepcional la gestión indirecta y planificar la vuelta a la gestión pública de servicios privatizados.", "source": { "doc": "frenteamplio", "page": 26 } },
-        { "text": "Ampliar la salud bucodental hasta cubrir al menos al 50 % de la población, universalizar gafas y lentillas gratuitas y financiar audífonos públicos.", "source": { "doc": "frenteamplio", "page": 27 } },
-        { "text": "Subir los profesionales de salud mental hasta 10 por cada 100.000 habitantes y desarrollar la estrategia «Cero Contenciones».", "source": { "doc": "frenteamplio", "page": 28 } },
-        { "text": "Reformar el artículo 43 de la Constitución para incluir el derecho al aborto y garantizarlo en centros públicos de todas las comunidades.", "source": { "doc": "frenteamplio", "page": 28 } },
-        { "text": "Aprobar el decreto de listas de espera: cuenta desde la indicación médica, prohíbe las listas paralelas e incluye Atención Primaria y salud mental.", "source": { "doc": "frenteamplio", "page": 29 } },
-        { "text": "Crear una industria farmacéutica con participación 100 % pública para reforzar la producción y evitar desabastecimientos.", "source": { "doc": "frenteamplio", "page": 29 } },
-        { "text": "Prohibir fumar en terrazas y playas, imponer el paquete genérico, prohibir los vapeadores desechables y crear impuestos sobre refrescos azucarados y bebidas energéticas.", "source": { "doc": "frenteamplio", "page": 30 } }
+        {
+          "text": "Fijar un gasto sanitario público de al menos el 8 % del PIB y destinar el 25 % del presupuesto sanitario a Atención Primaria.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 26
+          }
+        },
+        {
+          "text": "Derogar la Ley 15/1997, que permitió la gestión con entidades privadas, hacer excepcional la gestión indirecta y planificar la vuelta a la gestión pública de servicios privatizados.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 26
+          }
+        },
+        {
+          "text": "Ampliar la salud bucodental hasta cubrir al menos al 50 % de la población, universalizar gafas y lentillas gratuitas y financiar audífonos públicos.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 27
+          }
+        },
+        {
+          "text": "Subir los profesionales de salud mental hasta 10 por cada 100.000 habitantes y desarrollar la estrategia «Cero Contenciones».",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 28
+          }
+        },
+        {
+          "text": "Reformar el artículo 43 de la Constitución para incluir el derecho al aborto y garantizarlo en centros públicos de todas las comunidades.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 28
+          }
+        },
+        {
+          "text": "Aprobar el decreto de listas de espera: cuenta desde la indicación médica, prohíbe las listas paralelas e incluye Atención Primaria y salud mental.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 29
+          }
+        },
+        {
+          "text": "Crear una industria farmacéutica con participación 100 % pública para reforzar la producción y evitar desabastecimientos.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 29
+          }
+        },
+        {
+          "text": "Prohibir fumar en terrazas y playas, imponer el paquete genérico, prohibir los vapeadores desechables y crear impuestos sobre refrescos azucarados y bebidas energéticas.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 30
+          }
+        }
       ]
     },
     "educacion": {
       "summary": "Apuesta por una educación pública gratuita de 0 años a la universidad, con más inversión, menos alumnos por aula y fin del dinero público a la privada.",
       "points": [
-        { "text": "Aprobar una Ley de Financiación Educativa que garantice llegar al 7 % del PIB en gasto educativo público en 2030.", "source": { "doc": "frenteamplio", "page": 31 } },
-        { "text": "Fijar por ley ratios máximas por aula: 15 alumnos en Primaria y FP, 20 en Secundaria y 23 en Bachillerato, además de 4, 6 y 8 en cada curso de 0 a 3 años.", "source": { "doc": "frenteamplio", "page": 31 } },
-        { "text": "Prohibir las cuotas obligatorias en centros concertados y avanzar hacia que el 100 % de los fondos públicos vaya a la educación pública.", "source": { "doc": "frenteamplio", "page": 31 } },
-        { "text": "Gratuidad total del comedor escolar en Infantil y Primaria de la red pública y plazas públicas gratuitas de 0 a 3 años para toda familia que lo pida.", "source": { "doc": "frenteamplio", "page": 22 } },
-        { "text": "Subir las becas postobligatorias hasta el 0,44 % del PIB y duplicar las becas en etapas obligatorias para familias vulnerables.", "source": { "doc": "frenteamplio", "page": 32 } },
-        { "text": "Limitar por ley las horas lectivas docentes a 18 en Secundaria, Bachillerato y FP, y a 23 en Infantil y Primaria, y aprobar un Estatuto del Docente.", "source": { "doc": "frenteamplio", "page": 32 } },
-        { "text": "Exigir a las universidades privadas los mismos requisitos que a las públicas, ampliar plazas públicas, reducir precios hacia la gratuidad y eliminar la figura del profesor sustituto.", "source": { "doc": "frenteamplio", "page": 33 } }
+        {
+          "text": "Aprobar una Ley de Financiación Educativa que garantice llegar al 7 % del PIB en gasto educativo público en 2030.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 31
+          }
+        },
+        {
+          "text": "Fijar por ley ratios máximas por aula: 15 alumnos en Primaria y FP, 20 en Secundaria y 23 en Bachillerato, además de 4, 6 y 8 en cada curso de 0 a 3 años.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 31
+          }
+        },
+        {
+          "text": "Prohibir las cuotas obligatorias en centros concertados y avanzar hacia que el 100 % de los fondos públicos vaya a la educación pública.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 31
+          }
+        },
+        {
+          "text": "Gratuidad total del comedor escolar en Infantil y Primaria de la red pública y plazas públicas gratuitas de 0 a 3 años para toda familia que lo pida.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 22
+          }
+        },
+        {
+          "text": "Subir las becas postobligatorias hasta el 0,44 % del PIB y duplicar las becas en etapas obligatorias para familias vulnerables.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 32
+          }
+        },
+        {
+          "text": "Limitar por ley las horas lectivas docentes a 18 en Secundaria, Bachillerato y FP, y a 23 en Infantil y Primaria, y aprobar un Estatuto del Docente.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 32
+          }
+        },
+        {
+          "text": "Exigir a las universidades privadas los mismos requisitos que a las públicas, ampliar plazas públicas, reducir precios hacia la gratuidad y eliminar la figura del profesor sustituto.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 33
+          }
+        }
       ]
     },
     "igualdad": {
       "summary": "Concibe el feminismo como proyecto de país: blindar el aborto, reforzar la lucha contra la violencia machista, avanzar en igualdad salarial y desplegar los derechos LGTBI.",
       "points": [
-        { "text": "Blindar en la Constitución el aborto libre y universal en la sanidad pública, y garantizarlo en todas las comunidades.", "source": { "doc": "frenteamplio", "page": 37 } },
-        { "text": "Destinar por ley al menos el 5 % del presupuesto no financiero del Estado a igualdad y subir un 10 % adicional cada año la partida contra la violencia machista.", "source": { "doc": "frenteamplio", "page": 38 } },
-        { "text": "Hacer del consentimiento explícito el eje de la ley sobre agresiones sexuales («solo sí es sí») y suspender de forma cautelar y automática las visitas del progenitor investigado por violencia machista.", "source": { "doc": "frenteamplio", "page": 38 } },
-        { "text": "Eliminar toda norma que penalice a quienes ejercen la prostitución y asignar al menos 250 millones a la atención de víctimas de trata y explotación sexual.", "source": { "doc": "frenteamplio", "page": 39 } },
-        { "text": "Completar la directiva europea de transparencia salarial y lanzar un plan de choque contra la precariedad en sectores feminizados como limpieza, cuidados, comercio y hostelería.", "source": { "doc": "frenteamplio", "page": 123 } },
-        { "text": "Desplegar la Ley Trans, reconocer a las personas no binarias, crear un Observatorio contra la LGTBIfobia y proteger la autonomía corporal de las personas intersexuales.", "source": { "doc": "frenteamplio", "page": 123 } }
+        {
+          "text": "Blindar en la Constitución el aborto libre y universal en la sanidad pública, y garantizarlo en todas las comunidades.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 37
+          }
+        },
+        {
+          "text": "Destinar por ley al menos el 5 % del presupuesto no financiero del Estado a igualdad y subir un 10 % adicional cada año la partida contra la violencia machista.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 38
+          }
+        },
+        {
+          "text": "Hacer del consentimiento explícito el eje de la ley sobre agresiones sexuales («solo sí es sí») y suspender de forma cautelar y automática las visitas del progenitor investigado por violencia machista.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 38
+          }
+        },
+        {
+          "text": "Eliminar toda norma que penalice a quienes ejercen la prostitución y asignar al menos 250 millones a la atención de víctimas de trata y explotación sexual.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 39
+          }
+        },
+        {
+          "text": "Completar la directiva europea de transparencia salarial y lanzar un plan de choque contra la precariedad en sectores feminizados como limpieza, cuidados, comercio y hostelería.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 123
+          }
+        },
+        {
+          "text": "Desplegar la Ley Trans, reconocer a las personas no binarias, crear un Observatorio contra la LGTBIfobia y proteger la autonomía corporal de las personas intersexuales.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 123
+          }
+        }
       ]
     },
     "inmigracion": {
       "summary": "Defiende regularizar y abrir vías legales y seguras, con más garantías de derechos y sin los instrumentos de control fronterizo actuales.",
       "points": [
-        { "text": "Reformar la Ley de Extranjería para crear un procedimiento estable y permanente de regularización, y resolver todas las solicitudes de la regularización extraordinaria de 2026.", "source": { "doc": "frenteamplio", "page": 126 } },
-        { "text": "Garantizar cita en las oficinas de extranjería en un máximo de siete días naturales.", "source": { "doc": "frenteamplio", "page": 126 } },
-        { "text": "Derogar el «rechazo en frontera» de la Ley de Extranjería por poner en riesgo el derecho de asilo.", "source": { "doc": "frenteamplio", "page": 126 } },
-        { "text": "Cerrar los Centros de Internamiento de Extranjeros (CIE), eliminar la lista nacional de países seguros y prohibir devoluciones encubiertas en frontera.", "source": { "doc": "frenteamplio", "page": 127 } },
-        { "text": "Crear una Agencia de Asilo unificada y resolver las solicitudes de reagrupación familiar en tres meses, con silencio administrativo positivo.", "source": { "doc": "frenteamplio", "page": 128 } },
-        { "text": "Ampliar el voto de las personas migrantes residentes en las elecciones municipales (derecho a votar y a ser elegidas).", "source": { "doc": "frenteamplio", "page": 128 } },
-        { "text": "Aprobar una Ley integral contra el racismo y un pacto contra los discursos de odio hacia personas migrantes y refugiadas.", "source": { "doc": "frenteamplio", "page": 126 } }
+        {
+          "text": "Reformar la Ley de Extranjería para crear un procedimiento estable y permanente de regularización, y resolver todas las solicitudes de la regularización extraordinaria de 2026.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 126
+          }
+        },
+        {
+          "text": "Garantizar cita en las oficinas de extranjería en un máximo de siete días naturales.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 126
+          }
+        },
+        {
+          "text": "Derogar el «rechazo en frontera» de la Ley de Extranjería por poner en riesgo el derecho de asilo.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 126
+          }
+        },
+        {
+          "text": "Cerrar los Centros de Internamiento de Extranjeros (CIE), eliminar la lista nacional de países seguros y prohibir devoluciones encubiertas en frontera.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 127
+          }
+        },
+        {
+          "text": "Crear una Agencia de Asilo unificada y resolver las solicitudes de reagrupación familiar en tres meses, con silencio administrativo positivo.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 128
+          }
+        },
+        {
+          "text": "Ampliar el voto de las personas migrantes residentes en las elecciones municipales (derecho a votar y a ser elegidas).",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 128
+          }
+        },
+        {
+          "text": "Aprobar una Ley integral contra el racismo y un pacto contra los discursos de odio hacia personas migrantes y refugiadas.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 126
+          }
+        }
       ]
     },
     "medioambiente": {
       "summary": "Propone una transición ecológica con mucha inversión pública, energía de control público y más renovables, electrificación y transporte público barato.",
       "points": [
-        { "text": "Fijar por ley una inversión del 3,5 % del PIB al año en transición ecológica y reducir las emisiones un 38 % en 2035 y un 85 % en 2040 respecto a 1990.", "source": { "doc": "frenteamplio", "page": 60 } },
-        { "text": "Llegar al 81 % de generación renovable en 2030, al 90 % en 2035 y al 100 % en 2040.", "source": { "doc": "frenteamplio", "page": 60 } },
-        { "text": "Prohibir la publicidad de empresas de combustibles fósiles, como se hizo con el tabaco, y retirar sus logotipos de eventos deportivos y patrocinios.", "source": { "doc": "frenteamplio", "page": 61 } },
-        { "text": "Hacer públicas las redes de distribución eléctrica y de gas, y crear una comercializadora pública de referencia para romper el oligopolio.", "source": { "doc": "frenteamplio", "page": 63 } },
-        { "text": "Ofrecer tres horas diarias de luz gratis en la franja solar a todos los hogares, con obligación para las grandes comercializadoras de incluirlas.", "source": { "doc": "frenteamplio", "page": 64 } },
-        { "text": "Cerrar las centrales nucleares de Almaraz I y II en los plazos previstos (2027-2028) y retirar progresivamente los ciclos combinados de gas hasta 2045.", "source": { "doc": "frenteamplio", "page": 64 } },
-        { "text": "Crear un abono único estatal de transporte público, con Cercanías a 20 euros al mes, y prohibir los vuelos nacionales con alternativa en tren de 2,5 horas.", "source": { "doc": "frenteamplio", "page": 65 } },
-        { "text": "Reconocer el derecho humano al agua, gestionar el ciclo del agua de forma 100 % pública y prohibir los cortes por motivos económicos.", "source": { "doc": "frenteamplio", "page": 73 } }
+        {
+          "text": "Fijar por ley una inversión del 3,5 % del PIB al año en transición ecológica y reducir las emisiones un 38 % en 2035 y un 85 % en 2040 respecto a 1990.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 60
+          }
+        },
+        {
+          "text": "Llegar al 81 % de generación renovable en 2030, al 90 % en 2035 y al 100 % en 2040.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 60
+          }
+        },
+        {
+          "text": "Prohibir la publicidad de empresas de combustibles fósiles, como se hizo con el tabaco, y retirar sus logotipos de eventos deportivos y patrocinios.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 61
+          }
+        },
+        {
+          "text": "Hacer públicas las redes de distribución eléctrica y de gas, y crear una comercializadora pública de referencia para romper el oligopolio.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 63
+          }
+        },
+        {
+          "text": "Ofrecer tres horas diarias de luz gratis en la franja solar a todos los hogares, con obligación para las grandes comercializadoras de incluirlas.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 64
+          }
+        },
+        {
+          "text": "Cerrar las centrales nucleares de Almaraz I y II en los plazos previstos (2027-2028) y retirar progresivamente los ciclos combinados de gas hasta 2045.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 64
+          }
+        },
+        {
+          "text": "Crear un abono único estatal de transporte público, con Cercanías a 20 euros al mes, y prohibir los vuelos nacionales con alternativa en tren de 2,5 horas.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 68
+          }
+        },
+        {
+          "text": "Reconocer el derecho humano al agua, gestionar el ciclo del agua de forma 100 % pública y prohibir los cortes por motivos económicos.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 73
+          }
+        }
       ]
     },
     "rural": {
       "summary": "Defiende un modelo agroecológico y de pequeña escala, con ganadería extensiva, pesca artesanal y servicios públicos que fijen población en los pueblos.",
       "points": [
-        { "text": "Aprobar un Pacto de Estado y una Ley de Futuro de la Agricultura, la Ganadería y la Alimentación para la transición hacia un modelo agroecológico.", "source": { "doc": "frenteamplio", "page": 87 } },
-        { "text": "Alcanzar al menos un 25 % de superficie agraria en ecológico en 2030 y el 100 % en 2050, y reducir de forma vinculante plaguicidas y fertilizantes sintéticos.", "source": { "doc": "frenteamplio", "page": 88 } },
-        { "text": "Reformar la PAC para dirigir el dinero público a explotaciones familiares pequeñas y medianas, eliminando progresivamente las ayudas basadas en derechos históricos.", "source": { "doc": "frenteamplio", "page": 87 } },
-        { "text": "Crear un banco público de tierras para regular el mercado de la tierra, facilitar el relevo generacional y ceder suelo rústico de la SAREB a explotaciones ecológicas.", "source": { "doc": "frenteamplio", "page": 88 } },
-        { "text": "Reducir progresivamente la flota pesquera industrial a favor de la pesca artesanal y de menor impacto, y restringir la acuicultura industrial intensiva.", "source": { "doc": "frenteamplio", "page": 89 } },
-        { "text": "Garantizar por ley que los servicios públicos básicos estén a menos de 30 minutos de cualquier persona del medio rural.", "source": { "doc": "frenteamplio", "page": 97 } },
-        { "text": "Poner en marcha un programa de vivienda rural, solo para residencia permanente y nunca para uso turístico.", "source": { "doc": "frenteamplio", "page": 97 } }
+        {
+          "text": "Aprobar un Pacto de Estado y una Ley de Futuro de la Agricultura, la Ganadería y la Alimentación para la transición hacia un modelo agroecológico.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 87
+          }
+        },
+        {
+          "text": "Alcanzar al menos un 25 % de superficie agraria en ecológico en 2030 y el 100 % en 2050, y reducir de forma vinculante plaguicidas y fertilizantes sintéticos.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 88
+          }
+        },
+        {
+          "text": "Reformar la PAC para dirigir el dinero público a explotaciones familiares pequeñas y medianas, eliminando progresivamente las ayudas basadas en derechos históricos.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 87
+          }
+        },
+        {
+          "text": "Crear un banco público de tierras para regular el mercado de la tierra, facilitar el relevo generacional y ceder suelo rústico de la SAREB a explotaciones ecológicas.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 88
+          }
+        },
+        {
+          "text": "Reducir progresivamente la flota pesquera industrial a favor de la pesca artesanal y de menor impacto, y restringir la acuicultura industrial intensiva.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 89
+          }
+        },
+        {
+          "text": "Garantizar por ley que los servicios públicos básicos estén a menos de 30 minutos de cualquier persona del medio rural.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 97
+          }
+        },
+        {
+          "text": "Poner en marcha un programa de vivienda rural, solo para residencia permanente y nunca para uso turístico.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 97
+          }
+        }
       ]
     },
     "territorio": {
       "summary": "Propone un nuevo modelo de financiación autonómica y local con más recursos, condonación de deuda y un horizonte de República Federal y plurinacional.",
       "points": [
-        { "text": "Reformar ya la financiación autonómica, caducada desde 2014, aportando al menos un 2,3 % del PIB adicional (unos 38.000 millones al año).", "source": { "doc": "frenteamplio", "page": 103 } },
-        { "text": "Condonar deuda autonómica con la condición de no hacer dumping fiscal ni bajar impuestos a las rentas altas, y exigir que los recursos extra vayan a servicios esenciales.", "source": { "doc": "frenteamplio", "page": 104 } },
-        { "text": "Aumentar la participación de los ayuntamientos en los tributos del Estado hasta el 2,5 % del PIB y condonar la deuda de los municipios más endeudados.", "source": { "doc": "frenteamplio", "page": 109 } },
-        { "text": "Restablecer la alta velocidad como servicio público de titularidad y operación exclusiva de Renfe y paralizar la segunda fase de liberalización.", "source": { "doc": "frenteamplio", "page": 105 } },
-        { "text": "Avanzar hacia una República Federal con un pacto territorial que respete las competencias autonómicas, y convertir el Senado en una cámara de representación territorial.", "source": { "doc": "frenteamplio", "page": 140 } },
-        { "text": "Aprobar una ley del plurilingüismo para poder relacionarse con las instituciones del Estado en las lenguas cooficiales.", "source": { "doc": "frenteamplio", "page": 141 } }
+        {
+          "text": "Reformar ya la financiación autonómica, caducada desde 2014, aportando al menos un 2,3 % del PIB adicional (unos 38.000 millones al año).",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 103
+          }
+        },
+        {
+          "text": "Condonar deuda autonómica con la condición de no hacer dumping fiscal ni bajar impuestos a las rentas altas, y exigir que los recursos extra vayan a servicios esenciales.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 104
+          }
+        },
+        {
+          "text": "Aumentar la participación de los ayuntamientos en los tributos del Estado hasta el 2,5 % del PIB y condonar la deuda de los municipios más endeudados.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 109
+          }
+        },
+        {
+          "text": "Restablecer la alta velocidad como servicio público de titularidad y operación exclusiva de Renfe y paralizar la segunda fase de liberalización.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 105
+          }
+        },
+        {
+          "text": "Avanzar hacia una República Federal con un pacto territorial que respete las competencias autonómicas, y convertir el Senado en una cámara de representación territorial.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 140
+          }
+        },
+        {
+          "text": "Aprobar una ley del plurilingüismo para poder relacionarse con las instituciones del Estado en las lenguas cooficiales.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 141
+          }
+        }
       ]
     },
     "instituciones": {
       "summary": "Plantea ampliar la democracia con reformas institucionales, medidas anticorrupción, derogación de la Ley Mordaza, control de la policía y laicidad del Estado.",
       "points": [
-        { "text": "Reformar el sistema electoral para lograr proporcionalidad directa a nivel nacional, rebajar a 250.000 las firmas de una iniciativa legislativa popular y reconocer el voto a los 16 años.", "source": { "doc": "frenteamplio", "page": 141 } },
-        { "text": "Crear una Oficina Independiente contra la Corrupción y el decomiso administrativo de bienes vinculados a delitos sin condena previa.", "source": { "doc": "frenteamplio", "page": 142 } },
-        { "text": "Impedir contratar con el sector público durante veinte años a empresas y personas condenadas por corrupción.", "source": { "doc": "frenteamplio", "page": 142 } },
-        { "text": "Derogar por completo la Ley Mordaza y los delitos de ofensas a símbolos, injurias a la Corona o a instituciones y contra los sentimientos religiosos.", "source": { "doc": "frenteamplio", "page": 142 } },
-        { "text": "Prohibir las pelotas de goma, regular el uso de la fuerza y de las cámaras corporales, y crear un órgano externo e independiente que investigue abusos policiales.", "source": { "doc": "frenteamplio", "page": 145 } },
-        { "text": "Desmilitarizar la Guardia Civil y derogar el Código Penal Militar en las tareas estrictamente policiales.", "source": { "doc": "frenteamplio", "page": 144 } },
-        { "text": "Reformar la ley del Poder Judicial para que ningún partido bloquee la renovación del CGPJ y aprobar un plan para igualar la media europea de jueces y fiscales.", "source": { "doc": "frenteamplio", "page": 148 } },
-        { "text": "Revisar los Acuerdos de 1979 con la Santa Sede, eliminar la financiación pública a confesiones religiosas y recuperar para el Estado los bienes inmatriculados por la Iglesia católica.", "source": { "doc": "frenteamplio", "page": 150 } }
+        {
+          "text": "Reformar el sistema electoral para lograr proporcionalidad directa a nivel nacional, rebajar a 250.000 las firmas de una iniciativa legislativa popular y reconocer el voto a los 16 años.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 141
+          }
+        },
+        {
+          "text": "Crear una Oficina Independiente contra la Corrupción y el decomiso administrativo de bienes vinculados a delitos sin condena previa.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 142
+          }
+        },
+        {
+          "text": "Impedir contratar con el sector público durante veinte años a empresas y personas condenadas por corrupción.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 142
+          }
+        },
+        {
+          "text": "Derogar por completo la Ley Mordaza y los delitos de ofensas a símbolos, injurias a la Corona o a instituciones y contra los sentimientos religiosos.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 142
+          }
+        },
+        {
+          "text": "Prohibir las pelotas de goma, regular el uso de la fuerza y de las cámaras corporales, y crear un órgano externo e independiente que investigue abusos policiales.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 145
+          }
+        },
+        {
+          "text": "Desmilitarizar la Guardia Civil y derogar el Código Penal Militar en las tareas estrictamente policiales.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 144
+          }
+        },
+        {
+          "text": "Reformar la ley del Poder Judicial para que ningún partido bloquee la renovación del CGPJ y aprobar un plan para igualar la media europea de jueces y fiscales.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 148
+          }
+        },
+        {
+          "text": "Revisar los Acuerdos de 1979 con la Santa Sede, eliminar la financiación pública a confesiones religiosas y recuperar para el Estado los bienes inmatriculados por la Iglesia católica.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 150
+          }
+        }
       ]
     },
     "exterior": {
       "summary": "Defiende una política exterior de seguridad humana y derecho internacional, con menos gasto militar, solidaridad con Palestina y Sáhara y una Europa más social.",
       "points": [
-        { "text": "Rechazar el compromiso de la OTAN de destinar el 5 % del PIB a gasto militar y reorientar esos recursos a protección civil, sanidad y educación.", "source": { "doc": "frenteamplio", "page": 130 } },
-        { "text": "Firmar y ratificar el Tratado de Prohibición de las Armas Nucleares.", "source": { "doc": "frenteamplio", "page": 130 } },
-        { "text": "Aprobar una ley de embargo integral, total y permanente de armas a Israel, sin excepciones autorizables, y apoyar a la Corte Penal Internacional.", "source": { "doc": "frenteamplio", "page": 131 } },
-        { "text": "Retirar el apoyo del Gobierno al plan de autonomía marroquí para el Sáhara Occidental y defender un referéndum de autodeterminación.", "source": { "doc": "frenteamplio", "page": 132 } },
-        { "text": "Subir la ayuda oficial al desarrollo del 0,27 % al 0,7 % de la renta nacional bruta.", "source": { "doc": "frenteamplio", "page": 133 } },
-        { "text": "Superar el Pacto de Estabilidad y Crecimiento de la UE y eliminar la austeridad como herramienta de ajuste.", "source": { "doc": "frenteamplio", "page": 136 } },
-        { "text": "Reformar los tratados del BCE para ampliar su mandato y permitirle financiar directamente a los Estados miembros.", "source": { "doc": "frenteamplio", "page": 137 } }
+        {
+          "text": "Rechazar el compromiso de la OTAN de destinar el 5 % del PIB a gasto militar y reorientar esos recursos a protección civil, sanidad y educación.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 130
+          }
+        },
+        {
+          "text": "Firmar y ratificar el Tratado de Prohibición de las Armas Nucleares.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 130
+          }
+        },
+        {
+          "text": "Aprobar una ley de embargo integral, total y permanente de armas a Israel, sin excepciones autorizables, y apoyar a la Corte Penal Internacional.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 131
+          }
+        },
+        {
+          "text": "Retirar el apoyo del Gobierno al plan de autonomía marroquí para el Sáhara Occidental y defender un referéndum de autodeterminación.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 132
+          }
+        },
+        {
+          "text": "Subir la ayuda oficial al desarrollo del 0,27 % al 0,7 % de la renta nacional bruta.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 133
+          }
+        },
+        {
+          "text": "Superar el Pacto de Estabilidad y Crecimiento de la UE y eliminar la austeridad como herramienta de ajuste.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 136
+          }
+        },
+        {
+          "text": "Reformar los tratados del BCE para ampliar su mandato y permitirle financiar directamente a los Estados miembros.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 137
+          }
+        }
       ]
     },
     "cultura": {
       "summary": "Trata la cultura como un derecho, con más inversión pública, apoyo a creadores y librerías, y regulación de las grandes plataformas digitales y la inteligencia artificial.",
       "points": [
-        { "text": "Llegar al 2 % del gasto público total en cultura y aprobar una Ley del Sistema Público de la Cultura con un suelo mínimo de inversión estatal.", "source": { "doc": "frenteamplio", "page": 34 } },
-        { "text": "Derogar la Ley 18/2013 que protege la tauromaquia como patrimonio cultural y suprimir las subvenciones estatales a los toros.", "source": { "doc": "frenteamplio", "page": 34 } },
-        { "text": "Exigir un coste mínimo de envío en la venta de libros a distancia para que el envío gratis de las grandes plataformas no perjudique a las librerías.", "source": { "doc": "frenteamplio", "page": 36 } },
-        { "text": "Alcanzar una inversión en I+D+i del 3 % del PIB en 2030 y del 4 % en la década siguiente.", "source": { "doc": "frenteamplio", "page": 80 } },
-        { "text": "Tipificar como delito la desobediencia de directivos de grandes plataformas a órdenes de retirar contenidos ilícitos, con penas de hasta 4 años en contextos de riesgo democrático.", "source": { "doc": "frenteamplio", "page": 119 } },
-        { "text": "Prohibir los chatbots que simulen vínculos sentimentales o dependencia emocional y las cajas de recompensa en videojuegos al alcance de menores.", "source": { "doc": "frenteamplio", "page": 121 } },
-        { "text": "Poner límites a la concentración y a la propiedad cruzada de medios y crear un registro público con su propiedad y su inversión publicitaria.", "source": { "doc": "frenteamplio", "page": 121 } }
+        {
+          "text": "Llegar al 2 % del gasto público total en cultura y aprobar una Ley del Sistema Público de la Cultura con un suelo mínimo de inversión estatal.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 34
+          }
+        },
+        {
+          "text": "Derogar la Ley 18/2013 que protege la tauromaquia como patrimonio cultural y suprimir las subvenciones estatales a los toros.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 34
+          }
+        },
+        {
+          "text": "Exigir un coste mínimo de envío en la venta de libros a distancia para que el envío gratis de las grandes plataformas no perjudique a las librerías.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 36
+          }
+        },
+        {
+          "text": "Alcanzar una inversión en I+D+i del 3 % del PIB en 2030 y del 4 % en la década siguiente.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 80
+          }
+        },
+        {
+          "text": "Tipificar como delito la desobediencia de directivos de grandes plataformas a órdenes de retirar contenidos ilícitos, con penas de hasta 4 años en contextos de riesgo democrático.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 119
+          }
+        },
+        {
+          "text": "Prohibir los chatbots que simulen vínculos sentimentales o dependencia emocional y las cajas de recompensa en videojuegos al alcance de menores.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 121
+          }
+        },
+        {
+          "text": "Poner límites a la concentración y a la propiedad cruzada de medios y crear un registro público con su propiedad y su inversión publicitaria.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 121
+          }
+        }
       ]
     },
     "otros": {
       "summary": "Incluye derechos de la infancia y la juventud y un amplio paquete de bienestar animal.",
       "points": [
-        { "text": "Subir la inversión estatal en protección a la infancia y las familias del 1,5 % al 2,4 % del PIB y extender el modelo Barnahus para atender a víctimas de violencia sexual infantil.", "source": { "doc": "frenteamplio", "page": 40 } },
-        { "text": "Prohibir el acogimiento residencial de menores de 6 años y eliminarlo para menores de 10 en 2030, priorizando el acogimiento familiar.", "source": { "doc": "frenteamplio", "page": 41 } },
-        { "text": "Aprobar la primera Ley estatal de Juventud, un plan de emancipación juvenil y el derecho al voto a partir de los 16 años.", "source": { "doc": "frenteamplio", "page": 42 } },
-        { "text": "Reformar la ley de bienestar animal para incluir a los perros de caza y de trabajo, y subir las penas por maltrato según la reincidencia.", "source": { "doc": "frenteamplio", "page": 75 } },
-        { "text": "Cerrar las granjas peleteras, no autorizar nuevas macrogranjas y acabar con la cautividad de los cetáceos.", "source": { "doc": "frenteamplio", "page": 77 } },
-        { "text": "Garantizar una opción de menú 100 % vegetal en todos los comedores públicos y eliminar las peleas de gallos.", "source": { "doc": "frenteamplio", "page": 78 } }
+        {
+          "text": "Subir la inversión estatal en protección a la infancia y las familias del 1,5 % al 2,4 % del PIB y extender el modelo Barnahus para atender a víctimas de violencia sexual infantil.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 40
+          }
+        },
+        {
+          "text": "Prohibir el acogimiento residencial de menores de 6 años y eliminarlo para menores de 10 en 2030, priorizando el acogimiento familiar.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 41
+          }
+        },
+        {
+          "text": "Aprobar la primera Ley estatal de Juventud, un plan de emancipación juvenil y el derecho al voto a partir de los 16 años.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 42
+          }
+        },
+        {
+          "text": "Reformar la ley de bienestar animal para incluir a los perros de caza y de trabajo, y subir las penas por maltrato según la reincidencia.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 75
+          }
+        },
+        {
+          "text": "Cerrar las granjas peleteras, no autorizar nuevas macrogranjas y acabar con la cautividad de los cetáceos.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 77
+          }
+        },
+        {
+          "text": "Garantizar una opción de menú 100 % vegetal en todos los comedores públicos y eliminar las peleas de gallos.",
+          "source": {
+            "doc": "frenteamplio",
+            "page": 78
+          }
+        }
       ]
     }
   },
@@ -192,66 +846,135 @@
       "topic": "vivienda",
       "text": "Aprobar una ley de expropiación progresiva de viviendas a grandes propietarios corporativos, empezando por quienes tienen más de 1.000 viviendas, y pasar el suelo y fincas de la SAREB a la empresa pública Casa 47.",
       "why": "Va más allá de topar precios o construir: propone transferir a manos públicas el parque de grandes tenedores, algo que no figura en el modelo actual.",
-      "source": { "doc": "frenteamplio", "page": 10 }
+      "source": {
+        "doc": "frenteamplio",
+        "page": 10
+      }
     },
     {
       "topic": "vivienda",
       "text": "Prohibir por ley comprar viviendas a cualquier persona jurídica con ánimo de lucro (fondos, SOCIMI, inmobiliarias, bancos) si no es para alquiler asequible regulado.",
       "why": "Rompe con el modelo actual de inversión inmobiliaria libre: cierra el mercado de compra de vivienda a las empresas con ánimo de lucro.",
-      "source": { "doc": "frenteamplio", "page": 11 }
+      "source": {
+        "doc": "frenteamplio",
+        "page": 11
+      }
     },
     {
       "topic": "economia",
       "text": "Limitar la herencia a un máximo de 10 millones de euros por heredero, con un tipo del 100 % sobre el exceso, y destinar lo recaudado a vivienda social.",
       "why": "Es de los pocos programas que propone un límite absoluto a la cantidad que se puede heredar, en lugar de solo subir el impuesto.",
-      "source": { "doc": "frenteamplio", "page": 46 }
+      "source": {
+        "doc": "frenteamplio",
+        "page": 46
+      }
     },
     {
       "topic": "empleo",
       "text": "Llevar a la ley que las plantillas tengan un tercio del consejo de administración (la mitad en empresas de más de 1.000 trabajadores) y que se reparta el 10 % del beneficio entre los trabajadores.",
       "why": "Introduce la cogestión y el reparto obligatorio de beneficios, modelos poco habituales en la legislación española actual.",
-      "source": { "doc": "frenteamplio", "page": 115 }
+      "source": {
+        "doc": "frenteamplio",
+        "page": 115
+      }
     },
     {
       "topic": "empleo",
       "text": "Reducir la jornada de forma progresiva hasta 32 horas semanales sin bajar el salario.",
       "why": "Es de los objetivos de jornada más ambiciosos entre los partidos: va más allá de las 37,5 horas, que también propone como paso inmediato.",
-      "source": { "doc": "frenteamplio", "page": 56 }
+      "source": {
+        "doc": "frenteamplio",
+        "page": 56
+      }
     },
     {
       "topic": "medioambiente",
       "text": "Dar tres horas de luz gratis al día en la franja solar a todos los hogares, con una comercializadora eléctrica pública y redes de distribución de titularidad pública.",
       "why": "Combina una tarifa gratuita por franjas con la entrada del Estado en la distribución y comercialización eléctrica, un cambio fuerte respecto al sistema actual.",
-      "source": { "doc": "frenteamplio", "page": 64 }
+      "source": {
+        "doc": "frenteamplio",
+        "page": 64
+      }
     },
     {
       "topic": "territorio",
       "text": "Avanzar hacia una República Federal en la que también se elija la Jefatura del Estado.",
       "why": "Propone sustituir la monarquía parlamentaria por una república federal, lo que implica reformar los fundamentos de la Constitución de 1978.",
-      "source": { "doc": "frenteamplio", "page": 140 }
+      "source": {
+        "doc": "frenteamplio",
+        "page": 140
+      }
     },
     {
       "topic": "exterior",
       "text": "Rechazar el objetivo del 5 % del PIB en gasto militar fijado en la OTAN y firmar el Tratado de Prohibición de las Armas Nucleares.",
       "why": "Es de los pocos programas que se opone abiertamente al aumento del gasto de defensa acordado en la OTAN y que propone ratificar ese tratado.",
-      "source": { "doc": "frenteamplio", "page": 130 }
+      "source": {
+        "doc": "frenteamplio",
+        "page": 130
+      }
     }
   ],
   "glossary": [
-    { "term": "SMI", "definition": "Salario Mínimo Interprofesional: el sueldo más bajo que se puede pagar por ley a jornada completa." },
-    { "term": "IPREM", "definition": "Indicador Público de Renta de Efectos Múltiples: cifra que el Estado usa como referencia para calcular ayudas, subsidios y becas." },
-    { "term": "IMV", "definition": "Ingreso Mínimo Vital: prestación estatal para hogares con muy pocos recursos." },
-    { "term": "SOCIMI", "definition": "Sociedad Anónima Cotizada de Inversión en el Mercado Inmobiliario: empresa que compra inmuebles para alquilarlos y que paga muy pocos impuestos si cumple ciertas condiciones." },
-    { "term": "SAREB", "definition": "Sociedad creada en 2012 (el «banco malo») para quedarse con los activos inmobiliarios problemáticos de los bancos rescatados." },
-    { "term": "Casa 47", "definition": "Empresa pública estatal de vivienda, cuyo nombre alude al artículo 47 de la Constitución, que reconoce el derecho a una vivienda digna." },
-    { "term": "Zona tensionada", "definition": "Zona donde el alquiler o la hipoteca pesan demasiado en los ingresos, lo que permite aplicar límites a los precios." },
-    { "term": "Tasa Zucman", "definition": "Impuesto mínimo anual sobre los patrimonios muy grandes, que lleva el nombre del economista que lo propuso." },
-    { "term": "CNMC", "definition": "Comisión Nacional de los Mercados y la Competencia: organismo que vigila que haya competencia y que no haya abusos en los mercados." },
-    { "term": "PAC", "definition": "Política Agraria Común: el conjunto de ayudas de la Unión Europea a la agricultura y la ganadería." },
-    { "term": "Dumping fiscal", "definition": "Bajar impuestos en un territorio para atraer a las rentas altas y empresas de otros." },
-    { "term": "CIE", "definition": "Centro de Internamiento de Extranjeros: lugar donde se retiene a personas migrantes en situación irregular antes de expulsarlas." },
-    { "term": "TPAN", "definition": "Tratado sobre la Prohibición de las Armas Nucleares, de Naciones Unidas." },
-    { "term": "BCE", "definition": "Banco Central Europeo: la institución que fija los tipos de interés y la política monetaria del euro." },
-    { "term": "Ley Mordaza", "definition": "Nombre popular de la Ley de Protección de la Seguridad Ciudadana (2015), que sanciona con multas ciertas protestas y conductas en la vía pública." }
+    {
+      "term": "SMI",
+      "definition": "Salario Mínimo Interprofesional: el sueldo más bajo que se puede pagar por ley a jornada completa."
+    },
+    {
+      "term": "IPREM",
+      "definition": "Indicador Público de Renta de Efectos Múltiples: cifra que el Estado usa como referencia para calcular ayudas, subsidios y becas."
+    },
+    {
+      "term": "IMV",
+      "definition": "Ingreso Mínimo Vital: prestación estatal para hogares con muy pocos recursos."
+    },
+    {
+      "term": "SOCIMI",
+      "definition": "Sociedad Anónima Cotizada de Inversión en el Mercado Inmobiliario: empresa que compra inmuebles para alquilarlos y que paga muy pocos impuestos si cumple ciertas condiciones."
+    },
+    {
+      "term": "SAREB",
+      "definition": "Sociedad creada en 2012 (el «banco malo») para quedarse con los activos inmobiliarios problemáticos de los bancos rescatados."
+    },
+    {
+      "term": "Casa 47",
+      "definition": "Empresa pública estatal de vivienda, cuyo nombre alude al artículo 47 de la Constitución, que reconoce el derecho a una vivienda digna."
+    },
+    {
+      "term": "Zona tensionada",
+      "definition": "Zona donde el alquiler o la hipoteca pesan demasiado en los ingresos, lo que permite aplicar límites a los precios."
+    },
+    {
+      "term": "Tasa Zucman",
+      "definition": "Impuesto mínimo anual sobre los patrimonios muy grandes, que lleva el nombre del economista que lo propuso."
+    },
+    {
+      "term": "CNMC",
+      "definition": "Comisión Nacional de los Mercados y la Competencia: organismo que vigila que haya competencia y que no haya abusos en los mercados."
+    },
+    {
+      "term": "PAC",
+      "definition": "Política Agraria Común: el conjunto de ayudas de la Unión Europea a la agricultura y la ganadería."
+    },
+    {
+      "term": "Dumping fiscal",
+      "definition": "Bajar impuestos en un territorio para atraer a las rentas altas y empresas de otros."
+    },
+    {
+      "term": "CIE",
+      "definition": "Centro de Internamiento de Extranjeros: lugar donde se retiene a personas migrantes en situación irregular antes de expulsarlas."
+    },
+    {
+      "term": "TPAN",
+      "definition": "Tratado sobre la Prohibición de las Armas Nucleares, de Naciones Unidas."
+    },
+    {
+      "term": "BCE",
+      "definition": "Banco Central Europeo: la institución que fija los tipos de interés y la política monetaria del euro."
+    },
+    {
+      "term": "Ley Mordaza",
+      "definition": "Nombre popular de la Ley de Protección de la Seguridad Ciudadana (2015), que sanciona con multas ciertas protestas y conductas en la vía pública."
+    }
   ]
 }
