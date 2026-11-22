@@ -1,0 +1,402 @@
+{
+ "viv-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-5": {
+  "v": 1,
+  "page": 7,
+  "note": "Propone reducir las prácticas especulativas que encarecen la vivienda, sin concretar medidas sobre fondos ni extranjeros."
+ },
+ "viv-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-7": {
+  "v": 1,
+  "page": 8,
+  "note": "Propone regular los alquileres turísticos y de temporada para que no resten viviendas al alquiler residencial."
+ },
+ "emp-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-5": {
+  "v": 2,
+  "page": 9,
+  "note": "Reclama la competencia plena para fijar un salario mínimo propio en Euskadi, siempre por encima del estatal, y proteger los convenios vascos."
+ },
+ "eco-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-1": {
+  "v": 2,
+  "page": 31,
+  "note": "Propone revalorizar las pensiones cada año conforme al IPC."
+ },
+ "pen-2": {
+  "v": 1,
+  "page": 31,
+  "note": "Propone mejorar progresivamente las pensiones mínimas y no contributivas, sin fijar cuantías."
+ },
+ "pen-3": {
+  "v": 2,
+  "page": 31,
+  "note": "Propone eliminar las penalizaciones de la jubilación anticipada con más de 40 años cotizados."
+ },
+ "pen-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-5": {
+  "v": 1,
+  "page": 31,
+  "note": "Favorece extender la previsión social de empleo por negociación colectiva, como complemento y no sustituto de las pensiones públicas."
+ },
+ "san-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-6": {
+  "v": -1,
+  "page": 10,
+  "note": "Propone reforzar la educación afectivo-sexual en igualdad; no plantea vetos de los padres."
+ },
+ "igu-1": {
+  "v": 2,
+  "page": 26,
+  "note": "Propone cumplir íntegramente el Pacto de Estado contra la Violencia de Género y regular la violencia vicaria."
+ },
+ "igu-2": {
+  "v": 1,
+  "page": 26,
+  "note": "Propone proteger el acceso libre y seguro de las mujeres a los servicios sanitarios de interrupción del embarazo y fijar perímetros de protección."
+ },
+ "igu-3": {
+  "v": 1,
+  "page": 27,
+  "note": "Propone garantizar los derechos LGTBIQ+ y desarrollar la Ley 4/2023 para documentación de personas extranjeras trans."
+ },
+ "igu-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-1": {
+  "v": 1,
+  "page": 25,
+  "note": "Propone avanzar en los procesos de regularización previstos en la ley para quienes cumplen los requisitos."
+ },
+ "inm-2": {
+  "v": -1,
+  "page": 28,
+  "note": "Propone alternativas a la privación de libertad en los CIE y reforzar las garantías de migrantes en frontera."
+ },
+ "inm-3": {
+  "v": 1,
+  "page": 28,
+  "note": "Propone promover alternativas a la privación de libertad en los CIE, sin pedir expresamente su cierre."
+ },
+ "inm-4": {
+  "v": 0,
+  "page": 25,
+  "note": "Pide una política europea de reparto equilibrado de menores no acompañados y acogida descentralizada pactada con el Estado."
+ },
+ "inm-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-2": {
+  "v": 1,
+  "page": 16,
+  "note": "Favorece almacenamiento, hidrógeno renovable, autoconsumo compartido y más redes eléctricas; apoya una Europa que afronte los retos climáticos."
+ },
+ "med-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-2": {
+  "v": 2,
+  "page": 18,
+  "note": "Propone reforzar la Ley de la Cadena Alimentaria y exigir a las importaciones condiciones equivalentes."
+ },
+ "rur-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-1": {
+  "v": 0,
+  "page": 39,
+  "note": "Defiende el respeto a la voluntad democrática de la sociedad vasca y la capacidad de decisión, sin mencionar referéndum de independencia."
+ },
+ "ter-2": {
+  "v": -2,
+  "page": 38,
+  "note": "Rechaza cualquier intento de recentralización o vaciamiento de las competencias vascas."
+ },
+ "ter-3": {
+  "v": 1,
+  "page": 39,
+  "note": "Propone un Concierto Político basado en el reconocimiento nacional vasco, el pacto y la bilateralidad, sin hablar de Estado federal."
+ },
+ "ter-4": {
+  "v": 2,
+  "page": 39,
+  "note": "Propone ampliar las capacidades financiero-fiscales vascas modificando la Ley del Concierto Económico y el Convenio."
+ },
+ "ter-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-6": {
+  "v": 2,
+  "page": 38,
+  "note": "Exige culminar todas las transferencias pendientes del Estatuto de Gernika."
+ },
+ "ins-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-3": {
+  "v": 2,
+  "page": 27,
+  "note": "Propone reformar la «ley mordaza» eliminando restricciones desproporcionadas a derechos y libertades."
+ },
+ "ins-4": {
+  "v": 0,
+  "page": 24,
+  "note": "Propone medidas contra la multirreincidencia, pero rechaza la prisión permanente revisable (p. 28)."
+ },
+ "ins-5": {
+  "v": 2,
+  "page": 40,
+  "note": "Propone la aplicación íntegra de la legislación de Memoria Histórica y Democrática."
+ },
+ "ins-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-4": {
+  "v": 1,
+  "page": 41,
+  "note": "Apoya una Europa más democrática, competitiva y social, con más presencia de Euskadi en sus instituciones."
+ },
+ "ext-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-1": {
+  "v": 1,
+  "page": 21,
+  "note": "Propone revisar el IVA cultural dentro de lo que permita la normativa europea."
+ },
+ "cul-2": {
+  "v": 1,
+  "page": 35,
+  "note": "Propone reforzar las obligaciones de las plataformas digitales para proteger a la infancia y cumplir el reglamento europeo de servicios digitales."
+ },
+ "cul-3": {
+  "v": 0,
+  "page": 35,
+  "note": "Propone verificación de edad proporcionada en plataformas, sin prohibir las redes sociales a menores."
+ },
+ "cul-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-6": {
+  "v": 2,
+  "page": 41,
+  "note": "Propone la oficialidad del euskera, el catalán y el gallego en la Unión Europea."
+ }
+}

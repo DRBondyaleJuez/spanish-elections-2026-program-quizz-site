@@ -1,0 +1,402 @@
+{
+ "viv-1": {
+  "v": 2,
+  "page": 30,
+  "note": "Propone congelar temporalmente las rentas que superen los índices de referencia en zonas tensionadas y alargar los contratos."
+ },
+ "viv-2": {
+  "v": -2,
+  "page": 31,
+  "note": "Propone aplicar y desarrollar la Ley de Vivienda (por ejemplo, publicando el mapa de zonas tensionadas), no derogarla."
+ },
+ "viv-3": {
+  "v": 2,
+  "page": 28,
+  "note": "Propone un parque público estatal de 100.000 viviendas con la entidad CASA 47, junto a las de comunidades y ayuntamientos."
+ },
+ "viv-4": {
+  "v": 1,
+  "page": 100,
+  "note": "Propone desalojo de viviendas ocupadas en 48 horas, juicios rápidos y seguir combatiendo las mafias de la ocupación."
+ },
+ "viv-5": {
+  "v": 2,
+  "page": 31,
+  "note": "Propone mantener la limitación de compra por fondos especulativos y un impuesto progresivo sobre viviendas de grandes propietarios y fondos."
+ },
+ "viv-6": {
+  "v": 2,
+  "page": 31,
+  "note": "Mantiene TUCASA (préstamos sin intereses de hasta 50.000 euros para la primera vivienda) y propone actualizar deducciones fiscales."
+ },
+ "viv-7": {
+  "v": 2,
+  "page": 32,
+  "note": "Propone que los ayuntamientos cobren un recargo a las pernoctaciones turísticas y prioriza el uso residencial frente al turístico."
+ },
+ "emp-1": {
+  "v": 2,
+  "page": 37,
+  "note": "Propone blindar por ley que el SMI esté siempre por encima del 60 % del salario medio."
+ },
+ "emp-2": {
+  "v": 2,
+  "page": 41,
+  "note": "Propone completar la reducción de jornada a 37,5 horas sin bajar el sueldo e incentivar las 35 horas en convenios."
+ },
+ "emp-3": {
+  "v": 2,
+  "page": 41,
+  "note": "Propone reformar el despido improcedente para que la indemnización sea disuasoria y recuperar salarios de tramitación en ciertos casos."
+ },
+ "emp-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-2": {
+  "v": 2,
+  "page": 48,
+  "note": "Propone subir la tributación de rentas del capital desde 50.000 euros (hasta el 35 %) y un impuesto mínimo global a grandes fortunas."
+ },
+ "eco-3": {
+  "v": 2,
+  "page": 48,
+  "note": "Propone más impuesto de sociedades a cotizadas con grandes brechas salariales y nuevos impuestos a grandes tecnológicas y a la IA."
+ },
+ "eco-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-1": {
+  "v": 2,
+  "page": 40,
+  "note": "Propone blindar en la Constitución el sistema público de pensiones y su revalorización con el IPC."
+ },
+ "pen-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-3": {
+  "v": 1,
+  "page": 40,
+  "note": "Propone evaluar mejorar los coeficientes reductores y reducir penalizaciones de la jubilación anticipada involuntaria, preservando el equilibrio del sistema."
+ },
+ "pen-4": {
+  "v": 2,
+  "page": 56,
+  "note": "Propone potenciar el IMV y crear una prestación estatal por crianza para todos los hogares con menores."
+ },
+ "pen-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-1": {
+  "v": 1,
+  "page": 49,
+  "note": "Propone limitar la privatización haciendo de la gestión directa la modalidad preferente."
+ },
+ "san-2": {
+  "v": 2,
+  "page": 49,
+  "note": "Plan Sonríe: incluir los tratamientos dentales básicos de adultos en la sanidad pública, con ayuda de hasta 200 euros mientras tanto."
+ },
+ "san-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-5": {
+  "v": 2,
+  "page": 50,
+  "note": "Propone garantizar atención psicológica gratuita en la sanidad pública, con primera consulta en un máximo de 30 días."
+ },
+ "edu-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-3": {
+  "v": 2,
+  "page": 51,
+  "note": "Propone universalizar la educación de 0 a 3 años con más escuelas infantiles públicas."
+ },
+ "edu-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-5": {
+  "v": 1,
+  "page": 54,
+  "note": "Propone impulsar la gratuidad de la matrícula del primer curso de grado en universidades públicas."
+ },
+ "edu-6": {
+  "v": -1,
+  "page": 83,
+  "note": "Propone hacer obligatorias la coeducación y la educación afectivo-sexual en todas las etapas; no menciona veto de los padres."
+ },
+ "igu-1": {
+  "v": 2,
+  "page": 83,
+  "note": "Propone leyes orgánicas contra la violencia vicaria y la trata y ampliar ayudas a huérfanos de la violencia de género hasta los 26 años."
+ },
+ "igu-2": {
+  "v": 2,
+  "page": 81,
+  "note": "Propone reformar el artículo 43 de la Constitución para blindar el derecho a la interrupción voluntaria del embarazo."
+ },
+ "igu-3": {
+  "v": 1,
+  "page": 97,
+  "note": "Propone garantizar la continuidad de los tratamientos hormonales de personas trans y su inclusión social y laboral."
+ },
+ "igu-4": {
+  "v": 2,
+  "page": 80,
+  "note": "Propone retribuir los permisos parentales y por cuidados y ampliar la reducción de jornada para cuidar menores hasta los 16 años."
+ },
+ "igu-5": {
+  "v": 2,
+  "page": 83,
+  "note": "Propone una Ley Orgánica Abolicionista del Sistema Prostitucional que prohíba el proxenetismo en todas sus formas."
+ },
+ "inm-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-1": {
+  "v": -2,
+  "page": 66,
+  "note": "Propone mantener el calendario de cierre de las centrales nucleares hasta 2035, con transición justa en las comarcas afectadas."
+ },
+ "med-2": {
+  "v": 2,
+  "page": 65,
+  "note": "Propone alcanzar el 81 % de generación eléctrica renovable en 2030 y una hoja de ruta para abandonar los combustibles fósiles."
+ },
+ "med-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-2": {
+  "v": 2,
+  "page": 69,
+  "note": "Propone exigir en la UE reciprocidad en estándares ambientales, sanitarios y laborales a las importaciones."
+ },
+ "rur-3": {
+  "v": 2,
+  "page": 69,
+  "note": "Propone una PAC orientada a explotaciones profesionales, familiares y pequeñas, y una Ley de Agricultura Familiar y Profesional."
+ },
+ "rur-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-5": {
+  "v": 2,
+  "page": 61,
+  "note": "Propone avanzar en la asunción parcial por el Estado de 83.000 millones de euros de deuda autonómica."
+ },
+ "ter-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-3": {
+  "v": 2,
+  "page": 99,
+  "note": "Propone una nueva Ley de Seguridad Ciudadana que sustituya a la de 2015, con cámaras corporales en policías."
+ },
+ "ins-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-5": {
+  "v": 2,
+  "page": 98,
+  "note": "Propone completar el Plan de Exhumaciones y el Censo de Víctimas y culminar la resignificación del Valle de Cuelgamuros."
+ },
+ "ins-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-7": {
+  "v": 2,
+  "page": 90,
+  "note": "Propone suprimir los aforamientos por delitos ajenos al cargo."
+ },
+ "ext-1": {
+  "v": 0,
+  "page": 110,
+  "note": "Rechaza el objetivo del 5 % del PIB, pero impulsa compras conjuntas europeas de defensa."
+ },
+ "ext-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-3": {
+  "v": 1,
+  "page": 105,
+  "note": "Recoge que España ha defendido el embargo de armas a Israel y propone sanciones de la UE a quien obstaculice los dos Estados."
+ },
+ "ext-4": {
+  "v": 2,
+  "page": 109,
+  "note": "Propone hacer de la UE una unión política y fiscal y superar la unanimidad en sus decisiones."
+ },
+ "ext-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-6": {
+  "v": 1,
+  "page": 105,
+  "note": "Recuerda que España ha defendido desde el primer día la soberanía e integridad territorial de Ucrania."
+ },
+ "cul-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-2": {
+  "v": 2,
+  "page": 96,
+  "note": "Propone una ley de gobernanza de la IA con etiquetado y sanciones, y transparencia algorítmica con auditorías independientes."
+ },
+ "cul-3": {
+  "v": 2,
+  "page": 95,
+  "note": "Propone fijar los 16 años como edad mínima para usar redes sociales, con verificación obligatoria de edad."
+ },
+ "cul-4": {
+  "v": 2,
+  "page": 16,
+  "note": "Propone aumentar la inversión pública en I+D hasta el 1,25 % del PIB y el 1,5 % en 2035."
+ },
+ "cul-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-6": {
+  "v": 2,
+  "page": 91,
+  "note": "Propone consolidar el uso de las lenguas cooficiales en las Cortes Generales y en la atención de la Administración del Estado."
+ }
+}

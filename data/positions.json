@@ -3,480 +3,2840 @@
   "id": "viv-1",
   "topic": "vivienda",
   "statement": "Limitar (topar) por ley el precio del alquiler en zonas con precios muy altos (zonas tensionadas).",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 30,
+    "note": "Propone congelar temporalmente las rentas que superen los índices de referencia en zonas tensionadas y alargar los contratos."
+   },
+   "pp": {
+    "v": -2,
+    "page": 42,
+    "note": "Propone eliminar las zonas tensionadas y el índice de precios del alquiler."
+   },
+   "vox": {
+    "v": -1,
+    "page": 23,
+    "note": "Propone derogar la Ley de Vivienda y recuperar una oferta de alquiler abundante; no plantea topar precios."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 8,
+    "note": "Propone bajar por ley un 40% los alquileres, también en contratos vigentes, con suelo del 60% del precio medio de la zona."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 13,
+    "note": "Propone topar por ley el alquiler en zonas tensionadas, con cuota máxima del 25 % de la renta neta media."
+   },
+   "compromis": {
+    "v": 1,
+    "page": 5,
+    "note": "Da competencias a ayuntamientos para declarar zonas tensionadas y propone control efectivo de precios de alquiler con registro estatal de arrendamientos."
+   }
+  }
  },
  {
   "id": "viv-2",
   "topic": "vivienda",
   "statement": "Derogar o cambiar a fondo la Ley de Vivienda de 2023.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": -2,
+    "page": 31,
+    "note": "Propone aplicar y desarrollar la Ley de Vivienda (por ejemplo, publicando el mapa de zonas tensionadas), no derogarla."
+   },
+   "pp": {
+    "v": 2,
+    "page": 42,
+    "note": "Propone derogar la Ley de Vivienda para recuperar la seguridad jurídica de propietarios e inquilinos."
+   },
+   "vox": {
+    "v": 2,
+    "page": 23,
+    "note": "Propone la derogación de la Ley de Vivienda y una reforma de la Ley del Suelo."
+   },
+   "frenteamplio": {
+    "v": -1,
+    "page": 13,
+    "note": "Toma la Ley de Vivienda como base y propone ampliarla, no derogarla."
+   }
+  }
  },
  {
   "id": "viv-3",
   "topic": "vivienda",
   "statement": "Crear un gran parque público de vivienda en alquiler asequible gestionado por el Estado.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 28,
+    "note": "Propone un parque público estatal de 100.000 viviendas con la entidad CASA 47, junto a las de comunidades y ayuntamientos."
+   },
+   "pp": {
+    "v": 0,
+    "page": 41,
+    "note": "Impulsa vivienda social en suelo dotacional y financiación para vivienda asequible, pero no plantea un gran parque estatal en alquiler."
+   },
+   "vox": {
+    "v": 1,
+    "page": 23,
+    "note": "Propone más inversión pública en vivienda protegida con colaboración público-privada, con prioridad para españoles; no un parque estatal de alquiler."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 10,
+    "note": "Ampliar el parque público de alquiler social con tanteo y retracto, activos de la Sareb y expropiación de uso a grandes tenedores."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 10,
+    "note": "Destina el 1 % del PIB anual a crear 1,5 millones de viviendas públicas en alquiler, hasta el 20 % del parque en 2035."
+   },
+   "salf": {
+    "v": -1,
+    "page": 6,
+    "note": "Propone vivienda protegida en propiedad a precio tasado sobre suelo público, no un parque estatal de alquiler."
+   },
+   "erc": {
+    "v": 2,
+    "page": 19,
+    "note": "Pide al Estado el 1,5 % del PIB en vivienda y transferirlo a las comunidades para ampliar el parque público de alquiler; gestión por la Generalitat."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 5,
+    "note": "Destina el 1% del PIB anual a comprar o promover vivienda protegida pública o cooperativa, y a expropiar a grandes fondos para ampliar el parque público."
+   },
+   "cc": {
+    "v": 1,
+    "page": 10,
+    "note": "Propone un fondo estatal de ocho años para cofinanciar vivienda pública y asequible (construir, comprar, rehabilitar)."
+   }
+  }
  },
  {
   "id": "viv-4",
   "topic": "vivienda",
   "statement": "Endurecer las medidas contra la okupación (desalojos rápidos y más penas).",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 1,
+    "page": 100,
+    "note": "Propone desalojo de viviendas ocupadas en 48 horas, juicios rápidos y seguir combatiendo las mafias de la ocupación."
+   },
+   "pp": {
+    "v": 2,
+    "page": 43,
+    "note": "Propone que el propietario recupere la vivienda ocupada en 48 horas por orden judicial y juicios rápidos."
+   },
+   "vox": {
+    "v": 2,
+    "page": 24,
+    "note": "Desalojo de la vivienda okupada en menos de 24 horas y endurecimiento del Código Penal, con la inquiocupación como estafa."
+   },
+   "podemos": {
+    "v": -2,
+    "page": 9,
+    "note": "Propone prohibir los desalojos extrajudiciales e ilegalizar las empresas de desokupación; suspender desahucios de personas vulnerables."
+   },
+   "frenteamplio": {
+    "v": -1,
+    "page": 15,
+    "note": "No trata la okupación; propone erradicar los desahucios de familias vulnerables sin alternativa habitacional."
+   },
+   "salf": {
+    "v": 2,
+    "page": 5,
+    "note": "Desalojo de okupas en 48 horas con denuncia y título; juicio verbal y lanzamiento en 30 días si el inquilino no paga."
+   },
+   "compromis": {
+    "v": -1,
+    "page": 6,
+    "note": "Propone prohibir por ley los desahucios sin alternativa habitacional, sobre todo de grandes tenedores; no menciona endurecer medidas contra la okupación."
+   }
+  }
  },
  {
   "id": "viv-5",
   "topic": "vivienda",
   "statement": "Limitar o gravar más la compra de viviendas por fondos de inversión, grandes propietarios o extranjeros no residentes.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 31,
+    "note": "Propone mantener la limitación de compra por fondos especulativos y un impuesto progresivo sobre viviendas de grandes propietarios y fondos."
+   },
+   "vox": {
+    "v": 2,
+    "page": 25,
+    "note": "Fiscalidad agravada y disuasoria para compradores no comunitarios y operaciones especulativas de fondos o sociedades."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 8,
+    "note": "Prohibir comprar y acumular viviendas que no sean residencia propia; medidas contra fondos y compradores extranjeros que especulan."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 11,
+    "note": "Prohíbe comprar vivienda a personas jurídicas con ánimo de lucro y grava con un 10 % grandes tenencias; incluye compras de no residentes."
+   },
+   "salf": {
+    "v": 1,
+    "page": 6,
+    "note": "Las SOCIMI con más de 100 viviendas en alquiler tributarían al 25 % y el Estado dejaría de contratar con los fondos."
+   },
+   "erc": {
+    "v": 1,
+    "page": 20,
+    "note": "Propone nuevas limitaciones y obligaciones fiscales a fondos buitre y grandes tenedores que destinen pisos a usos distintos de vivienda habitual."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 5,
+    "note": "Prohíbe la compra a fondos buitre y a no residentes en zonas tensionadas, limita la acumulación especulativa y grava la tercera vivienda."
+   },
+   "pnv": {
+    "v": 1,
+    "page": 7,
+    "note": "Propone reducir las prácticas especulativas que encarecen la vivienda, sin concretar medidas sobre fondos ni extranjeros."
+   },
+   "cc": {
+    "v": 2,
+    "page": 11,
+    "note": "Propone reformas para limitar la compra de vivienda en Canarias por extranjeros y una Ley Canaria de Residencia."
+   }
+  }
  },
  {
   "id": "viv-6",
   "topic": "vivienda",
   "statement": "Bajar los impuestos a la compra de vivienda o dar avales públicos para la primera vivienda.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 31,
+    "note": "Mantiene TUCASA (préstamos sin intereses de hasta 50.000 euros para la primera vivienda) y propone actualizar deducciones fiscales."
+   },
+   "pp": {
+    "v": 2,
+    "page": 43,
+    "note": "IVA del 4% en la primera vivienda para menores de 40 años y ampliación del aval público hasta el 20%."
+   },
+   "vox": {
+    "v": 2,
+    "page": 24,
+    "note": "IVA del 0 % en la primera vivienda nueva y 100 % de bonificación del ITP en la de segunda mano."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 19,
+    "note": "Propone eliminar el impuesto de transmisiones para la primera vivienda habitual y un sistema de avales y garantías."
+   },
+   "salf": {
+    "v": 2,
+    "page": 5,
+    "note": "ITP y AJD al 0 %, IVA del 4 % devuelto en la renta y aval público del 20 % de la entrada para menores de 40."
+   },
+   "erc": {
+    "v": 1,
+    "page": 19,
+    "note": "Propone bajar IVA e ITP si la compra es primera residencia (y subirlos en turística, segunda residencia o vacía); no habla de avales."
+   },
+   "compromis": {
+    "v": 1,
+    "page": 6,
+    "note": "Exime del ITP la primera vivienda de menos de 350.000 euros; no habla de avales públicos."
+   },
+   "cc": {
+    "v": 1,
+    "page": 11,
+    "note": "Apoya deducciones por primera vivienda para jóvenes y familias de rentas medias y bajas."
+   }
+  }
  },
  {
   "id": "viv-7",
   "topic": "vivienda",
   "statement": "Restringir más los pisos turísticos.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 32,
+    "note": "Propone que los ayuntamientos cobren un recargo a las pernoctaciones turísticas y prioriza el uso residencial frente al turístico."
+   },
+   "vox": {
+    "v": 1,
+    "page": 24,
+    "note": "Propone regular la proliferación masiva de viviendas de uso turístico y reforzar la inspección de las ilegales."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 9,
+    "note": "Eliminar progresivamente los pisos turísticos mientras dure la emergencia habitacional y prohibir nuevas licencias."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 12,
+    "note": "Extingue en tres años las licencias de pisos turísticos en edificios residenciales de zonas tensionadas y les aplica IVA general."
+   },
+   "salf": {
+    "v": -1,
+    "page": 7,
+    "note": "Propone un registro único de alquiler turístico con cumplimiento fiscal, 'sin prohibiciones'."
+   },
+   "erc": {
+    "v": 2,
+    "page": 19,
+    "note": "Propone subir el IVA del alquiler turístico al 21 % y encarecer la compra de vivienda para uso turístico."
+   },
+   "compromis": {
+    "v": 1,
+    "page": 24,
+    "note": "Propone regular los apartamentos turísticos dentro de un Pacto de Estado por un turismo justo y sostenible."
+   },
+   "pnv": {
+    "v": 1,
+    "page": 8,
+    "note": "Propone regular los alquileres turísticos y de temporada para que no resten viviendas al alquiler residencial."
+   },
+   "cc": {
+    "v": 1,
+    "page": 11,
+    "note": "Pide cobertura legal para limitar la vivienda vacacional donde haya presión sobre la vivienda residencial, distinguiendo uso ocasional e intensivo."
+   }
+  }
  },
  {
   "id": "emp-1",
   "topic": "empleo",
   "statement": "Subir el salario mínimo (SMI) de forma importante (al 60 % del salario medio o más).",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 37,
+    "note": "Propone blindar por ley que el SMI esté siempre por encima del 60 % del salario medio."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 41,
+    "note": "Subir el SMI a 1.800 euros en la legislatura y fijar por ley un mínimo del 75% del salario mediano."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 51,
+    "note": "Fija por ley que el SMI sea al menos el 60 % del salario medio neto."
+   },
+   "erc": {
+    "v": 2,
+    "page": 20,
+    "note": "Propone subir el SMI estatal al 60 % del salario medio bruto."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 7,
+    "note": "Garantiza por ley que el SMI llegue al 60% del salario medio."
+   }
+  }
  },
  {
   "id": "emp-2",
   "topic": "empleo",
   "statement": "Reducir la jornada laboral máxima (37,5 horas o menos) sin bajar el sueldo.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 41,
+    "note": "Propone completar la reducción de jornada a 37,5 horas sin bajar el sueldo e incentivar las 35 horas en convenios."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 41,
+    "note": "Reducir la jornada a 30 horas semanales durante la legislatura, empezando por 35, sin bajar salarios."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 56,
+    "note": "Reduce la jornada progresivamente hasta 32 horas semanales sin bajar el sueldo, empezando por 37,5."
+   },
+   "erc": {
+    "v": 2,
+    "page": 26,
+    "note": "Propone reducir la jornada máxima semanal a 37,5 horas sin bajar el sueldo."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 7,
+    "note": "Propone reducir la jornada a cuatro días (32 horas semanales) sin bajar el sueldo."
+   }
+  }
  },
  {
   "id": "emp-3",
   "topic": "empleo",
   "statement": "Encarecer el despido (más indemnización o más protección frente al despido injustificado).",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 41,
+    "note": "Propone reformar el despido improcedente para que la indemnización sea disuasoria y recuperar salarios de tramitación en ciertos casos."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 42,
+    "note": "Restablecer la indemnización de 45 días por año en despidos ilegales y recuperar la autorización administrativa en los ERE."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 53,
+    "note": "Reforma el despido improcedente para que repare el daño real y recupera la autorización administrativa en despidos colectivos."
+   },
+   "salf": {
+    "v": -1,
+    "page": 30,
+    "note": "Contrato indefinido único con indemnización creciente de 12 a 33 días y mochila, buscando no encarecer la contratación."
+   },
+   "erc": {
+    "v": 2,
+    "page": 26,
+    "note": "Propone recuperar los 45 días por año en despido improcedente y eliminar el tope de indemnización en despidos sin causa."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 7,
+    "note": "Recupera la indemnización de 45 días por año y los salarios de tramitación en el despido improcedente."
+   }
+  }
  },
  {
   "id": "emp-4",
   "topic": "empleo",
   "statement": "Rebajar las cotizaciones sociales o las cuotas de los autónomos.",
-  "stances": {}
+  "stances": {
+   "pp": {
+    "v": 2,
+    "page": 46,
+    "note": "Propone tarifa cero de cuota el primer año a nuevos autónomos y bonificar el 100% de cotizaciones del primer trabajador."
+   },
+   "vox": {
+    "v": 2,
+    "page": 9,
+    "note": "Cuota de autónomos de cero euros si no se llega al SMI y, por encima, cuota progresiva desde 50 euros."
+   },
+   "podemos": {
+    "v": 1,
+    "page": 23,
+    "note": "Cotización de autónomos como porcentaje progresivo del beneficio, con cuota cero si hay pérdidas; no rebaja general de cotizaciones."
+   },
+   "frenteamplio": {
+    "v": 1,
+    "page": 92,
+    "note": "Mantiene la tarifa plana de autónomos de 88 euros mientras sus ingresos sean inferiores al SMI anual."
+   },
+   "salf": {
+    "v": 2,
+    "page": 30,
+    "note": "Cuota de autónomos cero y reducción de la cuña fiscal del 41 % al 29 %, sin cotización del trabajador en el SMI."
+   },
+   "erc": {
+    "v": 1,
+    "page": 26,
+    "note": "Propone cotización de autónomos según ingresos reales, con cuota reducida para quien gane menos que el SMI y cuota cero en enfermedad grave."
+   },
+   "compromis": {
+    "v": 1,
+    "page": 8,
+    "note": "Propone bonificar toda la cuota de autónomos desde el primer día de baja por enfermedad grave; no plantea rebajas generales de cotizaciones."
+   },
+   "cc": {
+    "v": 1,
+    "page": 12,
+    "note": "Pide bonificaciones en cotizaciones ligadas a subidas salariales pactadas y más ayudas a autónomos con menos ingresos."
+   }
+  }
  },
  {
   "id": "emp-5",
   "topic": "empleo",
   "statement": "Que las comunidades autónomas puedan tener su propio salario mínimo o marco laboral.",
-  "stances": {}
+  "stances": {
+   "erc": {
+    "v": 2,
+    "page": 20,
+    "note": "Propone que Cataluña pueda fijar un salario mínimo propio de 1.460 euros, superior al estatal."
+   },
+   "pnv": {
+    "v": 2,
+    "page": 9,
+    "note": "Reclama la competencia plena para fijar un salario mínimo propio en Euskadi, siempre por encima del estatal, y proteger los convenios vascos."
+   }
+  }
  },
  {
   "id": "eco-1",
   "topic": "economia",
   "statement": "Bajar el IRPF de forma general.",
-  "stances": {}
+  "stances": {
+   "pp": {
+    "v": 1,
+    "page": 47,
+    "note": "Propone elevar los mínimos del IRPF y bajar el impuesto a rentas medias y bajas, y deflactar la tarifa."
+   },
+   "vox": {
+    "v": 2,
+    "page": 9,
+    "note": "Simplificación y bajada del IRPF, con un tipo menor según el número de hijos."
+   },
+   "podemos": {
+    "v": 0,
+    "page": 21,
+    "note": "Baja el tipo mínimo del IRPF del 9,5% al 9%, pero sube los tramos altos desde 60.000 euros; no es una bajada general."
+   },
+   "frenteamplio": {
+    "v": 0,
+    "page": 46,
+    "note": "Baja el IRPF solo a rentas del trabajo hasta 27.000 euros y sube los tipos a rentas altas."
+   },
+   "salf": {
+    "v": 2,
+    "page": 12,
+    "note": "Mínimo exento de IRPF de 35.000 euros (hoy 5.550), gradual hasta 2030, y 5.000 euros más por hijo."
+   },
+   "erc": {
+    "v": 1,
+    "page": 21,
+    "note": "Propone bajar los tipos del IRPF a rentas del trabajo inferiores a 35.000 euros, no una bajada general."
+   },
+   "compromis": {
+    "v": 0,
+    "page": 17,
+    "note": "Propone deflactar el IRPF solo para rentas inferiores a 30.000 euros y que las rentas financieras tributen como las del trabajo."
+   }
+  }
  },
  {
   "id": "eco-2",
   "topic": "economia",
   "statement": "Subir los impuestos a las grandes fortunas y patrimonios.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 48,
+    "note": "Propone subir la tributación de rentas del capital desde 50.000 euros (hasta el 35 %) y un impuesto mínimo global a grandes fortunas."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 17,
+    "note": "Convertir el impuesto a las grandes fortunas en un impuesto estatal permanente, con las características del Impuesto del Patrimonio."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 45,
+    "note": "Patrimonios de más de 1 millón pagarían al menos un 2 % y crea la Tasa Zucman del 3 % sobre más de 50 millones."
+   },
+   "salf": {
+    "v": -2,
+    "page": 13,
+    "note": "Suprime los impuestos de Sucesiones, Donaciones y Patrimonio (grandes fortunas)."
+   },
+   "erc": {
+    "v": 2,
+    "page": 22,
+    "note": "Propone hacer permanente el impuesto a grandes fortunas, subir el tipo a patrimonios de más de 10 millones y crear tramo desde 100 millones."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 17,
+    "note": "Mantiene y amplía el Impuesto a las Grandes Fortunas, acercándolo a la tasa Zucman."
+   }
+  }
  },
  {
   "id": "eco-3",
   "topic": "economia",
   "statement": "Que las grandes empresas, bancos o energéticas paguen más impuestos.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 48,
+    "note": "Propone más impuesto de sociedades a cotizadas con grandes brechas salariales y nuevos impuestos a grandes tecnológicas y a la IA."
+   },
+   "vox": {
+    "v": -1,
+    "page": 9,
+    "note": "Propone reducir el tipo del Impuesto de Sociedades; no plantea gravar más a grandes empresas."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 21,
+    "note": "Subir el tipo mínimo efectivo de Sociedades al 19% (29% en oligopolios) y crear un impuesto permanente a beneficios extraordinarios de la banca."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 44,
+    "note": "Impone un tipo mínimo efectivo del 20 % en Sociedades a grandes empresas y grupos."
+   },
+   "salf": {
+    "v": 0,
+    "page": 15,
+    "note": "Baja Sociedades al 20 %, pero exige a cinco bancos 4.700 M€ al año por el rescate y grava SOCIMI al 25 %."
+   },
+   "erc": {
+    "v": 2,
+    "page": 22,
+    "note": "Propone recuperar el impuesto a las grandes energéticas y hacer permanente el impuesto extraordinario a la banca."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 17,
+    "note": "Crea un impuesto sobre beneficios de empresas oligopolísticas y elimina privilegios fiscales de la aviación."
+   }
+  }
  },
  {
   "id": "eco-4",
   "topic": "economia",
   "statement": "Reducir el gasto público y el tamaño de la administración.",
-  "stances": {}
+  "stances": {
+   "pp": {
+    "v": 1,
+    "page": 13,
+    "note": "Propone auditar el gasto, reducir la estructura política y fusionar organismos duplicados; no habla de recorte general."
+   },
+   "vox": {
+    "v": 2,
+    "page": 29,
+    "note": "Auditoría de las administraciones y reducir al mínimo el tamaño de la Administración Pública y sus gastos."
+   },
+   "salf": {
+    "v": 2,
+    "page": 16,
+    "note": "Recorta sobrecoste autonómico, diputaciones, entes públicos y ministerios para financiar la rebaja de impuestos."
+   }
+  }
  },
  {
   "id": "eco-5",
   "topic": "economia",
   "statement": "Crear banca pública o empresas públicas en sectores estratégicos.",
-  "stances": {}
+  "stances": {
+   "podemos": {
+    "v": 2,
+    "page": 17,
+    "note": "Crear una Banca Pública (ICO, CDTI, ENISA) y una red pública de supermercados; además una Empresa Pública de Energía."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 84,
+    "note": "Crea una banca pública estatal uniendo el ICO, Correos y el peso público en CaixaBank."
+   },
+   "erc": {
+    "v": 1,
+    "page": 22,
+    "note": "Propone completar la licencia bancaria plena del Instituto Catalán de Finanzas y servicio bancario universal; no plantea banca pública estatal."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 19,
+    "note": "Crea una banca pública de inversión y aumenta la presencia estatal en sectores estratégicos con participaciones o empresas públicas."
+   }
+  }
  },
  {
   "id": "eco-6",
   "topic": "economia",
   "statement": "Eliminar o rebajar mucho el impuesto de sucesiones y donaciones.",
-  "stances": {}
+  "stances": {
+   "frenteamplio": {
+    "v": -2,
+    "page": 46,
+    "note": "Propone un impuesto estatal sobre grandes herencias, con tope de 10 millones por persona y 100 % sobre el exceso."
+   },
+   "salf": {
+    "v": 2,
+    "page": 13,
+    "note": "Suprime los impuestos de Sucesiones y Donaciones."
+   }
+  }
  },
  {
   "id": "pen-1",
   "topic": "pensiones",
   "statement": "Garantizar por ley que las pensiones suban con el IPC.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 40,
+    "note": "Propone blindar en la Constitución el sistema público de pensiones y su revalorización con el IPC."
+   },
+   "pp": {
+    "v": 2,
+    "page": 34,
+    "note": "Garantizar que las pensiones suban cada año con el IPC y mantengan su poder adquisitivo."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 57,
+    "note": "Propone reformar la Constitución para garantizar la revalorización automática de las pensiones con el IPC."
+   },
+   "salf": {
+    "v": 2,
+    "page": 20,
+    "note": "Revalorización con el IPC y prohibición de recortes con rango constitucional para las pensiones actuales."
+   },
+   "erc": {
+    "v": 2,
+    "page": 26,
+    "note": "Propone blindar la revalorización de las pensiones públicas con la inflación."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 8,
+    "note": "Propone garantizar en la Constitución que las pensiones se revaloricen según el coste de la vida."
+   },
+   "pnv": {
+    "v": 2,
+    "page": 31,
+    "note": "Propone revalorizar las pensiones cada año conforme al IPC."
+   }
+  }
  },
  {
   "id": "pen-2",
   "topic": "pensiones",
   "statement": "Subir de forma importante las pensiones mínimas y no contributivas.",
-  "stances": {}
+  "stances": {
+   "podemos": {
+    "v": 2,
+    "page": 44,
+    "note": "Equiparar la pensión mínima contributiva al SMI y fijar la no contributiva en el 80% del SMI."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 57,
+    "note": "Garantiza que ninguna pensión sea inferior al SMI y sube el IPREM hasta un suelo de 700 euros."
+   },
+   "salf": {
+    "v": 1,
+    "page": 21,
+    "note": "Pensión mínima de 1.000 euros en 14 pagas para quien haya cotizado 35 años; no habla de las no contributivas."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 9,
+    "note": "Sube las pensiones no contributivas hasta 800 euros."
+   },
+   "pnv": {
+    "v": 1,
+    "page": 31,
+    "note": "Propone mejorar progresivamente las pensiones mínimas y no contributivas, sin fijar cuantías."
+   }
+  }
  },
  {
   "id": "pen-3",
   "topic": "pensiones",
   "statement": "Facilitar la jubilación anticipada sin penalización para carreras largas o trabajos duros.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 1,
+    "page": 40,
+    "note": "Propone evaluar mejorar los coeficientes reductores y reducir penalizaciones de la jubilación anticipada involuntaria, preservando el equilibrio del sistema."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 41,
+    "note": "Eliminar, con efecto retroactivo, las penalizaciones por jubilación anticipada para quien acredite 40 años cotizados."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 58,
+    "note": "Devuelve la edad de jubilación a 65, permite jubilarse a 60 en oficios penosos y elimina coeficientes tras 40 años cotizados."
+   },
+   "salf": {
+    "v": 2,
+    "page": 20,
+    "note": "Jubilación libre sin penalización con 40 años cotizados; coeficientes reductores a los 60 para vigilantes de seguridad."
+   },
+   "erc": {
+    "v": 2,
+    "page": 26,
+    "note": "Propone jubilación anticipada sin penalización en profesiones penosas o peligrosas, en especial conductores profesionales y Agentes Rurales."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 8,
+    "note": "Elimina los coeficientes reductores que penalizan la jubilación anticipada tras 40 años cotizados y vuelve a los 65 años."
+   },
+   "pnv": {
+    "v": 2,
+    "page": 31,
+    "note": "Propone eliminar las penalizaciones de la jubilación anticipada con más de 40 años cotizados."
+   }
+  }
  },
  {
   "id": "pen-4",
   "topic": "pensiones",
   "statement": "Ampliar el Ingreso Mínimo Vital o crear ayudas universales (por ejemplo, por crianza).",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 56,
+    "note": "Propone potenciar el IMV y crear una prestación estatal por crianza para todos los hogares con menores."
+   },
+   "vox": {
+    "v": 1,
+    "page": 51,
+    "note": "Plan de natalidad con ayudas desde el primer hijo y cotización pagada por el Estado; el IMV solo para españoles."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 45,
+    "note": "Convertir el Ingreso Mínimo Vital en una renta universal incondicionada y crear una prestación universal por crianza (p. 60)."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 22,
+    "note": "Reforma el Ingreso Mínimo Vital para concederlo de oficio y crea una Prestación Universal por Crianza de 200 euros al mes."
+   },
+   "erc": {
+    "v": 2,
+    "page": 21,
+    "note": "Propone una prestación universal por crianza desde 200 euros por familia y adaptar el ingreso mínimo vital al coste de vida."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 41,
+    "note": "Crea una prestación universal por crianza de 200 euros mensuales por hijo y reforma el Ingreso Mínimo Vital."
+   },
+   "cc": {
+    "v": 1,
+    "page": 10,
+    "note": "Propone que Canarias tramite el ingreso mínimo vital y abrir debate sobre ayudas a la crianza."
+   }
+  }
  },
  {
   "id": "pen-5",
   "topic": "pensiones",
   "statement": "Impulsar los planes de pensiones privados o de empresa como complemento.",
-  "stances": {}
+  "stances": {
+   "podemos": {
+    "v": -2,
+    "page": 21,
+    "note": "Propone eliminar las desgravaciones del IRPF por planes de pensiones privados, incluidos los de empleo."
+   },
+   "frenteamplio": {
+    "v": -1,
+    "page": 46,
+    "note": "Propone eliminar las deducciones fiscales por planes de pensiones privados individuales."
+   },
+   "salf": {
+    "v": 1,
+    "page": 20,
+    "note": "Cuenta individual obligatoria del 2 % del salario para menores de 45 y mochila austriaca del 1,53 % a cargo de la empresa."
+   },
+   "erc": {
+    "v": -1,
+    "page": 25,
+    "note": "Defiende un sistema público de pensiones y rechaza privatizar las pensiones."
+   },
+   "compromis": {
+    "v": -2,
+    "page": 9,
+    "note": "Suprime toda desgravación fiscal a los planes de pensiones privados y las ventajas de PIAS y SIALP."
+   },
+   "pnv": {
+    "v": 1,
+    "page": 31,
+    "note": "Favorece extender la previsión social de empleo por negociación colectiva, como complemento y no sustituto de las pensiones públicas."
+   }
+  }
  },
  {
   "id": "san-1",
   "topic": "sanidad",
   "statement": "Revertir privatizaciones y reducir los conciertos con la sanidad privada.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 1,
+    "page": 49,
+    "note": "Propone limitar la privatización haciendo de la gestión directa la modalidad preferente."
+   },
+   "vox": {
+    "v": -1,
+    "page": 37,
+    "note": "Fomenta la colaboración público-privada cuando ayude a reducir demoras; no plantea revertir conciertos."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 88,
+    "note": "Derogar las leyes privatizadoras, prohibir externalizar servicios sanitarios y recuperar los privatizados al vencer los contratos."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 26,
+    "note": "Deroga la Ley 15/1997, hace excepcional la gestión indirecta y planifica la vuelta a gestión pública de servicios privatizados."
+   },
+   "salf": {
+    "v": -1,
+    "page": 22,
+    "note": "Si se superan los plazos máximos, el paciente elige centro privado y lo paga la sanidad pública."
+   },
+   "erc": {
+    "v": 2,
+    "page": 41,
+    "note": "Propone defender el sistema público y frenar la privatización de la sanidad."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 9,
+    "note": "Deroga la Ley 15/1997 para impedir la privatización de la gestión sanitaria."
+   }
+  }
  },
  {
   "id": "san-2",
   "topic": "sanidad",
   "statement": "Incluir el dentista (salud bucodental) en la sanidad pública.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 49,
+    "note": "Plan Sonríe: incluir los tratamientos dentales básicos de adultos en la sanidad pública, con ayuda de hasta 200 euros mientras tanto."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 92,
+    "note": "Incluir en la sanidad pública el dentista: empastes, ortodoncias y prótesis."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 27,
+    "note": "Amplía la salud bucodental pública hasta cubrir al menos al 50 % de la población."
+   },
+   "erc": {
+    "v": 2,
+    "page": 42,
+    "note": "Propone incorporar la atención dental integral y gratuita en la cartera pública."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 9,
+    "note": "Incluye odontología, oftalmología, podología y nutrición en la cartera pública."
+   }
+  }
  },
  {
   "id": "san-3",
   "topic": "sanidad",
   "statement": "Usar la sanidad privada concertada para reducir las listas de espera.",
-  "stances": {}
+  "stances": {
+   "vox": {
+    "v": 1,
+    "page": 37,
+    "note": "Plan de listas de espera con colaboración público-privada cuando ayude efectivamente a reducir demoras."
+   },
+   "podemos": {
+    "v": -2,
+    "page": 88,
+    "note": "Prohíbe externalizar y reserva el fondo estatal a la gestión pública directa; plantea reducir las listas de espera con plazos máximos."
+   },
+   "frenteamplio": {
+    "v": -1,
+    "page": 26,
+    "note": "Propone hacer excepcional la gestión privada; su decreto de listas de espera se plantea dentro del sistema público."
+   },
+   "salf": {
+    "v": 2,
+    "page": 22,
+    "note": "Superados los plazos (60 días cirugía, 30 especialista), el paciente elige centro público o privado, pagado por el sistema."
+   }
+  }
  },
  {
   "id": "san-4",
   "topic": "sanidad",
   "statement": "Limitar la atención sanitaria gratuita a inmigrantes en situación irregular.",
-  "stances": {}
+  "stances": {
+   "vox": {
+    "v": 2,
+    "page": 19,
+    "note": "Excluir de la sanidad a extranjeros en situación ilegal salvo urgencia grave y auditar el coste."
+   },
+   "podemos": {
+    "v": -2,
+    "page": 91,
+    "note": "Propone acceso universal, gratuito y oportuno a la sanidad sea cual sea la situación administrativa de la persona."
+   },
+   "salf": {
+    "v": 2,
+    "page": 23,
+    "note": "Tarjeta sanitaria para españoles y residentes legales con cotización; urgencias para todos y facturación a terceros países."
+   },
+   "compromis": {
+    "v": -2,
+    "page": 9,
+    "note": "Garantiza el acceso universal a la sanidad sin discriminar por situación administrativa."
+   }
+  }
  },
  {
   "id": "san-5",
   "topic": "sanidad",
   "statement": "Reforzar mucho la salud mental en la sanidad pública (más psicólogos y psiquiatras).",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 50,
+    "note": "Propone garantizar atención psicológica gratuita en la sanidad pública, con primera consulta en un máximo de 30 días."
+   },
+   "pp": {
+    "v": 1,
+    "page": 53,
+    "note": "Plan Nacional de Salud Mental 2027-2037 con financiación garantizada; no detalla más psicólogos o psiquiatras."
+   },
+   "vox": {
+    "v": 1,
+    "page": 38,
+    "note": "Refuerzo de la Estrategia Nacional de Salud Mental; no detalla más psicólogos o psiquiatras."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 91,
+    "note": "Ley General de Salud Mental con ratios mínimas de profesionales y atención psicológica pública gratuita."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 28,
+    "note": "Sube los profesionales de salud mental hasta 10 por cada 100.000 habitantes."
+   },
+   "salf": {
+    "v": 1,
+    "page": 24,
+    "note": "Un psicólogo clínico por cada 10.000 habitantes en centros de salud y atención en 15 días máximo."
+   },
+   "erc": {
+    "v": 2,
+    "page": 42,
+    "note": "Propone acceso universal y gratuito a la atención psicológica y a la salud mental."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 9,
+    "note": "Propone un Pacto estatal por la salud mental con más plantillas y atención psicológica."
+   },
+   "cc": {
+    "v": 1,
+    "page": 9,
+    "note": "Reclama más fondos estatales para salud mental en Canarias, con mejoras en atención primaria y servicios especializados."
+   }
+  }
  },
  {
   "id": "edu-1",
   "topic": "educacion",
   "statement": "Proteger la educación concertada y la libertad de los padres para elegir colegio.",
-  "stances": {}
+  "stances": {
+   "pp": {
+    "v": 2,
+    "page": 51,
+    "note": "Libertad de elegir colegio en todo el municipio y ningún concierto se eliminará donde haya demanda."
+   },
+   "vox": {
+    "v": 2,
+    "page": 41,
+    "note": "Garantizar la libre elección de centro en todos los niveles, con distrito único."
+   },
+   "podemos": {
+    "v": -2,
+    "page": 79,
+    "note": "Avanzar hacia una única red pública con moratoria de nuevos conciertos y reabsorción voluntaria de los centros concertados."
+   },
+   "frenteamplio": {
+    "v": -2,
+    "page": 31,
+    "note": "Prohíbe cuotas en concertados y avanza hacia que el 100 % de los fondos públicos vaya a la educación pública."
+   },
+   "salf": {
+    "v": 2,
+    "page": 34,
+    "note": "Cheque escolar con el mismo importe por alumno, válido en centros públicos, concertados y privados."
+   },
+   "compromis": {
+    "v": -2,
+    "page": 10,
+    "note": "Quiere que la red concertada sea subsidiaria de la pública y prohibir ceder suelo público a centros privados."
+   }
+  }
  },
  {
   "id": "edu-2",
   "topic": "educacion",
   "statement": "Sacar la asignatura de religión del horario escolar.",
-  "stances": {}
+  "stances": {
+   "podemos": {
+    "v": 2,
+    "page": 83,
+    "note": "Suprimir la enseñanza de cualquier religión en los colegios."
+   }
+  }
  },
  {
   "id": "edu-3",
   "topic": "educacion",
   "statement": "Educación infantil de 0 a 3 años gratuita y universal.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 51,
+    "note": "Propone universalizar la educación de 0 a 3 años con más escuelas infantiles públicas."
+   },
+   "pp": {
+    "v": 2,
+    "page": 44,
+    "note": "Escuela infantil de 0 a 3 años gratuita al terminar la legislatura, con financiación al 50% Estado-comunidades."
+   },
+   "vox": {
+    "v": 2,
+    "page": 51,
+    "note": "Incluye la gratuidad real de la educación infantil de 0 a 3 años dentro del plan de natalidad."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 80,
+    "note": "Construir en cuatro años las plazas públicas necesarias para una cobertura universal, gratuita y de gestión pública directa de 0 a 3 años."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 22,
+    "note": "Plazas públicas gratuitas de 0 a 3 años para toda familia que lo pida."
+   },
+   "erc": {
+    "v": 2,
+    "page": 11,
+    "note": "Propone una plaza pública y gratuita de 0 a 3 años para todos los niños, financiada por el Estado."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 10,
+    "note": "Amplía la red pública de 0 a 3 años hacia la gratuidad."
+   },
+   "cc": {
+    "v": 1,
+    "page": 9,
+    "note": "Pide reforzar la financiación estatal para plazas públicas gratuitas y de calidad de 0 a 3 años."
+   }
+  }
  },
  {
   "id": "edu-4",
   "topic": "educacion",
   "statement": "Garantizar que se pueda estudiar en castellano en toda España (frente a la inmersión lingüística).",
-  "stances": {}
+  "stances": {
+   "pp": {
+    "v": 2,
+    "page": 32,
+    "note": "Derecho a recibir enseñanza en castellano en todas las etapas y en toda España."
+   },
+   "vox": {
+    "v": 2,
+    "page": 41,
+    "note": "Se garantizará la educación en español en todo el territorio nacional, con currículo e inspección unificados."
+   },
+   "frenteamplio": {
+    "v": -2,
+    "page": 32,
+    "note": "Garantiza la inmersión lingüística en catalán como lengua vehicular en Cataluña."
+   },
+   "salf": {
+    "v": 2,
+    "page": 33,
+    "note": "Derecho exigible a estudiar en castellano en toda España, con Alta Inspección estatal que sanciona."
+   },
+   "erc": {
+    "v": -2,
+    "page": 10,
+    "note": "Defiende el catalán como lengua vehicular y la inmersión lingüística, y cambiar la ley estatal para impedir porcentajes lingüísticos impuestos."
+   }
+  }
  },
  {
   "id": "edu-5",
   "topic": "educacion",
   "statement": "Bajar o eliminar las tasas de la universidad pública.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 1,
+    "page": 54,
+    "note": "Propone impulsar la gratuidad de la matrícula del primer curso de grado en universidades públicas."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 85,
+    "note": "Alcanzar progresivamente la gratuidad total de las tasas de grado, máster y doctorado en universidades públicas, con becas-salario."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 33,
+    "note": "Reduce los precios de la universidad pública hacia la gratuidad."
+   },
+   "compromis": {
+    "v": 1,
+    "page": 16,
+    "note": "Crea un nuevo sistema de tasas universitarias para que quien tiene menos recursos pague menos."
+   }
+  }
  },
  {
   "id": "edu-6",
   "topic": "educacion",
   "statement": "Que los padres puedan vetar contenidos de educación afectivo-sexual (\"pin parental\").",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": -1,
+    "page": 83,
+    "note": "Propone hacer obligatorias la coeducación y la educación afectivo-sexual en todas las etapas; no menciona veto de los padres."
+   },
+   "podemos": {
+    "v": -2,
+    "page": 83,
+    "note": "Impedir la aplicación del llamado Pin Parental y proteger una educación afectivo-sexual integral."
+   },
+   "compromis": {
+    "v": -1,
+    "page": 47,
+    "note": "Propone una educación afectivosexual integral, científica y feminista; no prevé vetos de los padres."
+   },
+   "pnv": {
+    "v": -1,
+    "page": 10,
+    "note": "Propone reforzar la educación afectivo-sexual en igualdad; no plantea vetos de los padres."
+   }
+  }
  },
  {
   "id": "igu-1",
   "topic": "igualdad",
   "statement": "Mantener o ampliar las leyes específicas contra la violencia de género (machista).",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 83,
+    "note": "Propone leyes orgánicas contra la violencia vicaria y la trata y ampliar ayudas a huérfanos de la violencia de género hasta los 26 años."
+   },
+   "pp": {
+    "v": 1,
+    "page": 17,
+    "note": "Mantiene el Pacto de Estado y refuerza VioGen y las secciones de violencia sobre la mujer."
+   },
+   "vox": {
+    "v": -2,
+    "page": 30,
+    "note": "Propone derogar las leyes de género y aprobar normas de protección de las víctimas de violencia."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 51,
+    "note": "Fondo de contingencia de mil millones de euros para financiar de forma estable las políticas contra las violencias machistas."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 38,
+    "note": "Destina por ley al menos el 5 % del presupuesto a igualdad y sube cada año un 10 % la partida contra la violencia machista."
+   },
+   "erc": {
+    "v": 2,
+    "page": 24,
+    "note": "Propone reformar la Ley Orgánica 1/2004 para proteger frente a todas las violencias machistas y regular la violencia vicaria."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 37,
+    "note": "Incrementa la lucha contra la violencia de género con más coordinación y recursos."
+   },
+   "pnv": {
+    "v": 2,
+    "page": 26,
+    "note": "Propone cumplir íntegramente el Pacto de Estado contra la Violencia de Género y regular la violencia vicaria."
+   },
+   "cc": {
+    "v": 1,
+    "page": 10,
+    "note": "Reclama financiación estatal suficiente para aplicar el Pacto de Estado contra la violencia de género en todas las islas."
+   }
+  }
  },
  {
   "id": "igu-2",
   "topic": "igualdad",
   "statement": "Garantizar el aborto en la sanidad pública.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 81,
+    "note": "Propone reformar el artículo 43 de la Constitución para blindar el derecho a la interrupción voluntaria del embarazo."
+   },
+   "vox": {
+    "v": -2,
+    "page": 52,
+    "note": "Defiende el derecho a la vida desde la concepción, objeción de conciencia sanitaria y más cuidados paliativos."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 51,
+    "note": "Sacar el aborto del Código Penal e incorporarlo a la Constitución, en el artículo 15."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 37,
+    "note": "Blinda en la Constitución el aborto libre y universal en la sanidad pública."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 46,
+    "note": "Garantiza el aborto gratuito, seguro y accesible en la red pública y regula la objeción de conciencia."
+   },
+   "pnv": {
+    "v": 1,
+    "page": 26,
+    "note": "Propone proteger el acceso libre y seguro de las mujeres a los servicios sanitarios de interrupción del embarazo y fijar perímetros de protección."
+   }
+  }
  },
  {
   "id": "igu-3",
   "topic": "igualdad",
   "statement": "Mantener o ampliar la Ley Trans y la libre determinación del género.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 1,
+    "page": 97,
+    "note": "Propone garantizar la continuidad de los tratamientos hormonales de personas trans y su inclusión social y laboral."
+   },
+   "pp": {
+    "v": -2,
+    "page": 35,
+    "note": "Propone revisar la Ley Trans y eliminar la libre autodeterminación registral del sexo."
+   },
+   "vox": {
+    "v": -1,
+    "page": 43,
+    "note": "Solo menciona que el deporte femenino se rija por criterios biológicos y deportivos objetivos."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 52,
+    "note": "Paquete LGTBIQA+ con opción no binaria en documentos y eliminación de obstáculos a la libre determinación de género."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 123,
+    "note": "Propone desplegar la Ley Trans y reconocer a las personas no binarias."
+   },
+   "erc": {
+    "v": 2,
+    "page": 24,
+    "note": "Propone reconocer legalmente las identidades no binarias, sin requisitos patologizantes."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 49,
+    "note": "Blinda la ley trans, la ley LGTBI y el matrimonio igualitario, y tipifica como delito las terapias de conversión."
+   },
+   "pnv": {
+    "v": 1,
+    "page": 27,
+    "note": "Propone garantizar los derechos LGTBIQ+ y desarrollar la Ley 4/2023 para documentación de personas extranjeras trans."
+   }
+  }
  },
  {
   "id": "igu-4",
   "topic": "igualdad",
   "statement": "Ampliar los permisos por nacimiento y cuidado de hijos.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 80,
+    "note": "Propone retribuir los permisos parentales y por cuidados y ampliar la reducción de jornada para cuidar menores hasta los 16 años."
+   },
+   "pp": {
+    "v": 2,
+    "page": 44,
+    "note": "Propone ampliar los permisos por nacimiento y dar más flexibilidad a cada progenitor."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 60,
+    "note": "Ampliar los permisos por nacimiento a 26 semanas por progenitor, intransferibles y remunerados."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 24,
+    "note": "Amplía el permiso por nacimiento hasta 20 semanas por progenitor, intransferibles."
+   },
+   "erc": {
+    "v": 1,
+    "page": 24,
+    "note": "Propone un permiso retribuido por duelo gestacional e igualar derechos de ambos progenitores ante la pérdida gestacional."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 41,
+    "note": "Paga progresivamente las ocho semanas de permiso de crianza y amplía los permisos de familias monoparentales."
+   }
+  }
  },
  {
   "id": "igu-5",
   "topic": "igualdad",
   "statement": "Abolir la prostitución (castigar el proxenetismo y la compra de sexo).",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 83,
+    "note": "Propone una Ley Orgánica Abolicionista del Sistema Prostitucional que prohíba el proxenetismo en todas sus formas."
+   },
+   "podemos": {
+    "v": 0,
+    "page": 55,
+    "note": "Propone una ley integral contra la trata y la explotación con apoyo a mujeres en prostitución; no menciona abolir ni castigar la compra de sexo."
+   },
+   "frenteamplio": {
+    "v": -1,
+    "page": 39,
+    "note": "Propone eliminar toda normativa que penalice a quienes ejercen la prostitución y garantizarles derechos laborales; no habla de abolirla."
+   },
+   "compromis": {
+    "v": 1,
+    "page": 48,
+    "note": "Plan contra la explotación sexual y la trata con más sanciones a la explotación, sin sancionar a las personas prostituidas."
+   }
+  }
  },
  {
   "id": "inm-1",
   "topic": "inmigracion",
   "statement": "Regularizar a los inmigrantes en situación irregular (regularización extraordinaria o permanente).",
-  "stances": {}
+  "stances": {
+   "pp": {
+    "v": -2,
+    "page": 19,
+    "note": "Propone prohibir por ley las regularizaciones masivas e indiscriminadas; el arraigo será excepcional."
+   },
+   "vox": {
+    "v": -2,
+    "page": 15,
+    "note": "Prohíbe las regularizaciones masivas; quien entre de forma ilegal no podrá regularizar su situación."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 67,
+    "note": "Crear un procedimiento permanente de regularización basado en el arraigo social, familiar y comunitario."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 126,
+    "note": "Reforma la Ley de Extranjería para crear un procedimiento estable y permanente de regularización."
+   },
+   "salf": {
+    "v": -2,
+    "page": 17,
+    "note": "Deroga la regularización de 2026, revisa las concesiones y prohíbe por ley orgánica cualquier regularización masiva."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 56,
+    "note": "Abre vías de regularización y facilita documentación y permiso de trabajo."
+   },
+   "pnv": {
+    "v": 1,
+    "page": 25,
+    "note": "Propone avanzar en los procesos de regularización previstos en la ley para quienes cumplen los requisitos."
+   }
+  }
  },
  {
   "id": "inm-2",
   "topic": "inmigracion",
   "statement": "Expulsar a los inmigrantes en situación irregular y endurecer el control de fronteras.",
-  "stances": {}
+  "stances": {
+   "pp": {
+    "v": 2,
+    "page": 19,
+    "note": "Expulsión como regla para delincuentes, cumplimiento de órdenes de retorno y refuerzo de agentes y Frontex en la frontera."
+   },
+   "vox": {
+    "v": 2,
+    "page": 15,
+    "note": "Repatriación de quienes estén en situación ilegal, deportaciones y protección permanente de fronteras con las Fuerzas Armadas."
+   },
+   "podemos": {
+    "v": -2,
+    "page": 65,
+    "note": "Derogar la Ley de Extranjería, acabar con las devoluciones en caliente y cerrar los CIE; rechaza externalizar fronteras."
+   },
+   "frenteamplio": {
+    "v": -2,
+    "page": 127,
+    "note": "Cierra los CIE, deroga el rechazo en frontera y prohíbe devoluciones encubiertas."
+   },
+   "salf": {
+    "v": 2,
+    "page": 17,
+    "note": "Expulsión en 48 horas, 100 % de órdenes ejecutadas en 90 días, internamiento hasta la expulsión y moratoria migratoria."
+   },
+   "erc": {
+    "v": -1,
+    "page": 14,
+    "note": "Propone condicionar el Reglamento europeo de Retorno a garantías de derechos, evitar deportaciones automáticas y acabar con la externalización de fronteras."
+   },
+   "compromis": {
+    "v": -1,
+    "page": 56,
+    "note": "Propone prohibir las devoluciones encubiertas y acogida digna; va en sentido contrario a las expulsiones."
+   },
+   "pnv": {
+    "v": -1,
+    "page": 28,
+    "note": "Propone alternativas a la privación de libertad en los CIE y reforzar las garantías de migrantes en frontera."
+   }
+  }
  },
  {
   "id": "inm-3",
   "topic": "inmigracion",
   "statement": "Cerrar los Centros de Internamiento de Extranjeros (CIE).",
-  "stances": {}
+  "stances": {
+   "pp": {
+    "v": -2,
+    "page": 19,
+    "note": "Propone ampliar el tiempo máximo de permanencia en los centros de internamiento, dentro de los límites europeos."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 65,
+    "note": "Cerrar todos los Centros de Internamiento de Extranjeros y sustituirlos por alternativas comunitarias."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 127,
+    "note": "Propone cerrar los Centros de Internamiento de Extranjeros."
+   },
+   "salf": {
+    "v": -2,
+    "page": 17,
+    "note": "Prevé internamiento de los extranjeros hasta que se ejecute su expulsión."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 56,
+    "note": "Exige la eliminación de los CIE."
+   },
+   "pnv": {
+    "v": 1,
+    "page": 28,
+    "note": "Propone promover alternativas a la privación de libertad en los CIE, sin pedir expresamente su cierre."
+   }
+  }
  },
  {
   "id": "inm-4",
   "topic": "inmigracion",
   "statement": "Repartir de forma obligatoria entre comunidades a los menores migrantes no acompañados.",
-  "stances": {}
+  "stances": {
+   "pp": {
+    "v": -2,
+    "page": 20,
+    "note": "Prioriza el retorno de los menores con su familia en lugar del reparto entre comunidades."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 41,
+    "note": "Propone un acuerdo marco vinculante para un reparto solidario y equitativo de la infancia migrante entre comunidades."
+   },
+   "pnv": {
+    "v": 0,
+    "page": 25,
+    "note": "Pide una política europea de reparto equilibrado de menores no acompañados y acogida descentralizada pactada con el Estado."
+   },
+   "cc": {
+    "v": 2,
+    "page": 19,
+    "note": "Propone solidaridad obligatoria y automática: traslados a otras comunidades cuando se superen umbrales, con los cambios legales necesarios."
+   }
+  }
  },
  {
   "id": "inm-5",
   "topic": "inmigracion",
   "statement": "Dar prioridad a los españoles en ayudas, vivienda y servicios públicos (\"prioridad nacional\").",
-  "stances": {}
+  "stances": {
+   "vox": {
+    "v": 2,
+    "page": 19,
+    "note": "Acceso preferente de los españoles a vivienda pública, guardería, becas, ayudas y servicios sociales."
+   },
+   "podemos": {
+    "v": -2,
+    "page": 8,
+    "note": "Plantea garantizar derechos con independencia de la nacionalidad u origen; no propone priorizar a españoles."
+   },
+   "salf": {
+    "v": 1,
+    "page": 19,
+    "note": "Exige cinco años de residencia legal y cotización para prestaciones no contributivas, ayudas al alquiler y vivienda pública."
+   },
+   "erc": {
+    "v": -1,
+    "page": 25,
+    "note": "Propone combatir la discriminación racial en empleo y vivienda y perseguir a organizaciones que promueven el racismo."
+   },
+   "compromis": {
+    "v": -1,
+    "page": 56,
+    "note": "Propone derechos y empadronamiento para todas las personas sea cual sea su situación administrativa."
+   }
+  }
  },
  {
   "id": "inm-6",
   "topic": "inmigracion",
   "statement": "Endurecer los requisitos para conseguir la nacionalidad española.",
-  "stances": {}
+  "stances": {
+   "pp": {
+    "v": 2,
+    "page": 39,
+    "note": "Nueva Ley de Nacionalidad con más requisitos de residencia, idioma y antecedentes."
+   },
+   "vox": {
+    "v": 2,
+    "page": 15,
+    "note": "Endurecer los requisitos de nacionalidad, suprimir el arraigo y revocar las pasarelas rápidas."
+   },
+   "podemos": {
+    "v": -2,
+    "page": 66,
+    "note": "Reducir a un año el plazo para pedir la nacionalidad con arraigo, eliminar tasas y ampliar el ius soli."
+   },
+   "salf": {
+    "v": 1,
+    "page": 18,
+    "note": "Diez años de residencia legal con examen, sin antecedentes ni depender de ayudas; revisa las obtenidas con fraude."
+   }
+  }
  },
  {
   "id": "med-1",
   "topic": "medioambiente",
   "statement": "Alargar la vida de las centrales nucleares.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": -2,
+    "page": 66,
+    "note": "Propone mantener el calendario de cierre de las centrales nucleares hasta 2035, con transición justa en las comarcas afectadas."
+   },
+   "pp": {
+    "v": 2,
+    "page": 54,
+    "note": "Eliminar el calendario de cierre nuclear y ampliar la vida útil de las centrales en los primeros cien días."
+   },
+   "vox": {
+    "v": 2,
+    "page": 12,
+    "note": "Derogar el calendario de cierre de las nucleares actuales y estudiar nuevas centrales."
+   },
+   "podemos": {
+    "v": -2,
+    "page": 103,
+    "note": "Cumplir el calendario de cierre nuclear con una transición justa para los territorios afectados."
+   },
+   "frenteamplio": {
+    "v": -2,
+    "page": 64,
+    "note": "Cumplirá el calendario de cierre de las centrales nucleares, incluidas Almaraz I y II en 2027-2028."
+   },
+   "compromis": {
+    "v": -2,
+    "page": 27,
+    "note": "Mantiene el calendario de cierre de las nucleares sin nuevas prórrogas."
+   }
+  }
  },
  {
   "id": "med-2",
   "topic": "medioambiente",
   "statement": "Acelerar las energías renovables y los objetivos contra el cambio climático.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 65,
+    "note": "Propone alcanzar el 81 % de generación eléctrica renovable en 2030 y una hoja de ruta para abandonar los combustibles fósiles."
+   },
+   "pp": {
+    "v": 0,
+    "page": 55,
+    "note": "Considera la descarbonización un objetivo irrenunciable, pero revisará los ritmos y retirará obligaciones que perjudiquen a industria y empleo."
+   },
+   "vox": {
+    "v": -1,
+    "page": 29,
+    "note": "Propone acabar con las imposiciones climáticas y frenar las macroplantas solares y eólicas sobre suelo agrícola."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 98,
+    "note": "Reducir a la mitad la energía fósil en 2030, 95% de electricidad renovable en 2035 y sistema descarbonizado en 2040."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 60,
+    "note": "Fija por ley el 81 % de renovables en 2030 y reducir emisiones un 85 % en 2040."
+   },
+   "erc": {
+    "v": 2,
+    "page": 29,
+    "note": "Propone un modelo energético 100 % renovable y reducir emisiones al menos un 65 % en 2030 y un 95 % en 2040."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 27,
+    "note": "Electrificación del 100% en 2030 y abandono de los combustibles fósiles en 2040."
+   },
+   "pnv": {
+    "v": 1,
+    "page": 16,
+    "note": "Favorece almacenamiento, hidrógeno renovable, autoconsumo compartido y más redes eléctricas; apoya una Europa que afronte los retos climáticos."
+   },
+   "cc": {
+    "v": 1,
+    "page": 15,
+    "note": "Propone sustituir progresivamente centrales térmicas por renovables y reducir fósiles, sin poner en riesgo el suministro."
+   }
+  }
  },
  {
   "id": "med-3",
   "topic": "medioambiente",
   "statement": "Rechazar o revisar a fondo la Agenda 2030 o el Pacto Verde Europeo.",
-  "stances": {}
+  "stances": {
+   "vox": {
+    "v": 2,
+    "page": 12,
+    "note": "Revertir normas inspiradas en el Pacto Verde Europeo y la Agenda 2030."
+   },
+   "frenteamplio": {
+    "v": -2,
+    "page": 130,
+    "note": "Apuesta por implementar la Agenda 2030 y cita el Pacto Verde Europeo como marco de sus medidas."
+   },
+   "salf": {
+    "v": 2,
+    "page": 35,
+    "note": "Veta en el Consejo de la UE el Pacto Verde y la Ley de Restauración; no cita la Agenda 2030."
+   },
+   "compromis": {
+    "v": -2,
+    "page": 56,
+    "note": "Pide planificación coherente con la Agenda 2030 y cumplimiento del Pacto Verde."
+   }
+  }
  },
  {
   "id": "med-4",
   "topic": "medioambiente",
   "statement": "Prohibir los vuelos cortos cuando haya alternativa en tren.",
-  "stances": {}
+  "stances": {
+   "podemos": {
+    "v": 2,
+    "page": 104,
+    "note": "Prohibir vuelos cortos cuando exista alternativa en tren de menos de tres horas."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 68,
+    "note": "Prohíbe los vuelos domésticos de corto radio con alternativa en tren."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 13,
+    "note": "Limita de manera efectiva los vuelos nacionales con alternativa ferroviaria competitiva."
+   }
+  }
  },
  {
   "id": "med-5",
   "topic": "medioambiente",
   "statement": "Crear una empresa pública de energía.",
-  "stances": {}
+  "stances": {
+   "podemos": {
+    "v": 2,
+    "page": 18,
+    "note": "Crear una Empresa Pública de Energía con las concesiones hidroeléctricas revertidas y mayoría de Repsol."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 63,
+    "note": "Crea una comercializadora eléctrica pública de referencia y hace públicas las redes de distribución."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 26,
+    "note": "Crea una empresa pública de energía y recupera la titularidad pública de grandes eléctricas."
+   }
+  }
  },
  {
   "id": "med-6",
   "topic": "medioambiente",
   "statement": "Prohibir las corridas de toros o retirarles las ayudas públicas.",
-  "stances": {}
+  "stances": {
+   "pp": {
+    "v": -1,
+    "page": 38,
+    "note": "Propone restituir el Premio Nacional de Tauromaquia y proteger las tradiciones populares."
+   },
+   "vox": {
+    "v": -2,
+    "page": 43,
+    "note": "Propone defender y promocionar la tauromaquia."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 124,
+    "note": "Derogar la ley que declara la tauromaquia patrimonio cultural, eliminar ayudas públicas y prohibir menores en espectáculos taurinos."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 34,
+    "note": "Deroga la ley que protege la tauromaquia como patrimonio cultural y suprime las subvenciones estatales a los toros."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 40,
+    "note": "Suprime los espectáculos taurinos con muerte, retira subvenciones y deroga la ley 18/2013."
+   }
+  }
  },
  {
   "id": "rur-1",
   "topic": "rural",
   "statement": "Defender la caza y las tradiciones del mundo rural.",
-  "stances": {}
+  "stances": {
+   "pp": {
+    "v": 2,
+    "page": 51,
+    "note": "Propone defender la caza y proteger fiestas y tradiciones populares."
+   },
+   "vox": {
+    "v": 2,
+    "page": 35,
+    "note": "Defensa de la caza como actividad esencial y de las tradiciones rurales."
+   },
+   "podemos": {
+    "v": -1,
+    "page": 121,
+    "note": "Aplicar la legislación de protección animal a todos los animales, incluidos los perros de caza."
+   },
+   "frenteamplio": {
+    "v": 0,
+    "page": 87,
+    "note": "Vincula la caza y la pesca a la mejora de los recursos e incluye a los perros de caza en la ley de bienestar animal."
+   },
+   "compromis": {
+    "v": -1,
+    "page": 40,
+    "note": "Prohíbe la caza con perros; no defiende expresamente la caza como tradición."
+   }
+  }
  },
  {
   "id": "rur-2",
   "topic": "rural",
   "statement": "Exigir a los alimentos importados las mismas normas que a los españoles (o rechazar acuerdos como Mercosur).",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 69,
+    "note": "Propone exigir en la UE reciprocidad en estándares ambientales, sanitarios y laborales a las importaciones."
+   },
+   "pp": {
+    "v": 2,
+    "page": 50,
+    "note": "Exigir a los alimentos importados las mismas normas de seguridad y producción que a los españoles."
+   },
+   "vox": {
+    "v": 2,
+    "page": 33,
+    "note": "Rechazo explícito al acuerdo UE-Mercosur, cláusulas espejo y más controles en frontera."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 115,
+    "note": "Exigir que los productos importados cumplan los mismos estándares de producción que los europeos; rechaza el acuerdo UE-Mercosur (p. 37)."
+   },
+   "frenteamplio": {
+    "v": 1,
+    "page": 133,
+    "note": "Activará cláusulas de salvaguarda del acuerdo UE-Mercosur cuando las importaciones agrarias generen competencia desleal."
+   },
+   "salf": {
+    "v": 2,
+    "page": 35,
+    "note": "Veta el acuerdo con Mercosur: 'lo que se come en España se produce en España'."
+   },
+   "erc": {
+    "v": 2,
+    "page": 32,
+    "note": "Propone que el Gobierno rechace ratificar el acuerdo UE-Mercosur y exigir reciprocidad de normas a los productos importados."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 22,
+    "note": "Pide reforzar los controles a las importaciones de fuera de la UE."
+   },
+   "pnv": {
+    "v": 2,
+    "page": 18,
+    "note": "Propone reforzar la Ley de la Cadena Alimentaria y exigir a las importaciones condiciones equivalentes."
+   }
+  }
  },
  {
   "id": "rur-3",
   "topic": "rural",
   "statement": "Reformar la PAC para que las ayudas lleguen sobre todo a pequeños agricultores profesionales.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 69,
+    "note": "Propone una PAC orientada a explotaciones profesionales, familiares y pequeñas, y una Ley de Agricultura Familiar y Profesional."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 111,
+    "note": "Reformar la PAC: eliminar derechos históricos, limitar la concentración de ayudas y apoyar explotaciones familiares y profesionales."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 87,
+    "note": "Reforma la PAC para dirigir el dinero a explotaciones familiares pequeñas y medianas y elimina las ayudas por derechos históricos."
+   },
+   "compromis": {
+    "v": 1,
+    "page": 21,
+    "note": "Reivindica una PAC mediterránea con régimen simplificado y prioridad a quien asume el riesgo empresarial."
+   }
+  }
  },
  {
   "id": "rur-4",
   "topic": "rural",
   "statement": "Hacer nuevos trasvases o un Plan Hidrológico Nacional.",
-  "stances": {}
+  "stances": {
+   "pp": {
+    "v": 1,
+    "page": 37,
+    "note": "Pacto Nacional del Agua con 40.000 millones en regadío, desalación y reutilización; no menciona trasvases."
+   },
+   "vox": {
+    "v": 2,
+    "page": 61,
+    "note": "Plan Nacional del Agua con interconexión de todas las cuencas."
+   },
+   "frenteamplio": {
+    "v": -2,
+    "page": 74,
+    "note": "Propone una moratoria a nuevos embalses, trasvases y grandes infraestructuras hidráulicas."
+   },
+   "erc": {
+    "v": -1,
+    "page": 31,
+    "note": "Propone modificar el Plan Hidrológico del Ebro para garantizar caudales ecológicos y proteger el Delta."
+   },
+   "compromis": {
+    "v": -1,
+    "page": 22,
+    "note": "Exige que los trasvases sean excepcionales, con acuerdo entre cuencas y respeto a caudales ecológicos."
+   }
+  }
  },
  {
   "id": "ter-1",
   "topic": "territorio",
   "statement": "Reconocer el derecho de autodeterminación (referéndum de independencia).",
-  "stances": {}
+  "stances": {
+   "pp": {
+    "v": -2,
+    "page": 15,
+    "note": "Propone recuperar en el Código Penal el delito de convocatoria de referéndum ilegal."
+   },
+   "vox": {
+    "v": -2,
+    "page": 56,
+    "note": "Propone ilegalizar partidos que atenten contra la unidad e integridad territorial y recuperar la sedición."
+   },
+   "frenteamplio": {
+    "v": 1,
+    "page": 140,
+    "note": "Plantea un Estado federal y plurinacional que regule el referéndum y reconozca el derecho a decidir."
+   },
+   "erc": {
+    "v": 2,
+    "page": 8,
+    "note": "Propone negociar un referéndum de autodeterminación en Cataluña con acompañamiento internacional."
+   },
+   "pnv": {
+    "v": 0,
+    "page": 39,
+    "note": "Defiende el respeto a la voluntad democrática de la sociedad vasca y la capacidad de decisión, sin mencionar referéndum de independencia."
+   }
+  }
  },
  {
   "id": "ter-2",
   "topic": "territorio",
   "statement": "Devolver al Estado competencias de las comunidades autónomas (recentralizar).",
-  "stances": {}
+  "stances": {
+   "vox": {
+    "v": 1,
+    "page": 41,
+    "note": "Plantea currículo, evaluaciones e inspección unificados a nivel nacional; no habla de recentralizar competencias en general."
+   },
+   "frenteamplio": {
+    "v": -2,
+    "page": 140,
+    "note": "Propone una República Federal con un pacto territorial que respete las competencias autonómicas."
+   },
+   "salf": {
+    "v": 1,
+    "page": 33,
+    "note": "Alta Inspección estatal en educación, selectividad y temario de Historia únicos y central de compras sanitaria única."
+   },
+   "erc": {
+    "v": -2,
+    "page": 15,
+    "note": "Propone traspasar a la Generalitat inmuebles estatales, Inspección de Trabajo, Rodalies y otras competencias; blindar las competencias en salud."
+   },
+   "compromis": {
+    "v": -2,
+    "page": 52,
+    "note": "Propone traspasar competencias a la Generalitat, en sentido contrario a recentralizar."
+   },
+   "pnv": {
+    "v": -2,
+    "page": 38,
+    "note": "Rechaza cualquier intento de recentralización o vaciamiento de las competencias vascas."
+   },
+   "cc": {
+    "v": -2,
+    "page": 8,
+    "note": "Se opone a la recentralización y a cualquier retroceso en la capacidad de decisión de Canarias."
+   }
+  }
  },
  {
   "id": "ter-3",
   "topic": "territorio",
   "statement": "Avanzar hacia un Estado federal o plurinacional.",
-  "stances": {}
+  "stances": {
+   "vox": {
+    "v": -1,
+    "page": 56,
+    "note": "Defiende la unidad e integridad territorial de España; no propone un modelo federal o plurinacional."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 128,
+    "note": "Proceso constituyente hacia una república que reconozca la plurinacionalidad; reforma federal del Senado (p. 129)."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 140,
+    "note": "Propone avanzar hacia una República Federal y plurinacional y convertir el Senado en cámara territorial."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 52,
+    "note": "Propone avanzar hacia un Estado plurinacional y reformar el Senado."
+   },
+   "pnv": {
+    "v": 1,
+    "page": 39,
+    "note": "Propone un Concierto Político basado en el reconocimiento nacional vasco, el pacto y la bilateralidad, sin hablar de Estado federal."
+   }
+  }
  },
  {
   "id": "ter-4",
   "topic": "territorio",
   "statement": "Dar a su territorio una financiación singular o más soberanía fiscal (tipo concierto económico).",
-  "stances": {}
+  "stances": {
+   "pp": {
+    "v": -2,
+    "page": 33,
+    "note": "Ninguna comunidad saldrá del régimen común ni habrá nuevos regímenes singulares negociados bilateralmente."
+   },
+   "vox": {
+    "v": -1,
+    "page": 20,
+    "note": "Defiende igualdad de derechos y servicios con independencia del lugar de residencia y una sola Nación."
+   },
+   "frenteamplio": {
+    "v": 0,
+    "page": 103,
+    "note": "Propone más autonomía financiera y capacidad tributaria para las comunidades en general, sin pedir un régimen singular."
+   },
+   "salf": {
+    "v": -1,
+    "page": 14,
+    "note": "Defiende financiación autonómica con criterios objetivos e iguales para todas las comunidades, frente a modelos pactados."
+   },
+   "erc": {
+    "v": 2,
+    "page": 12,
+    "note": "Propone un nuevo modelo de financiación con cobro directo de impuestos y ordinalidad, y una Agencia Tributaria de Cataluña."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 50,
+    "note": "Apuesta por un concierto económico responsable o que la Generalitat recaude la mayor parte de los tributos."
+   },
+   "pnv": {
+    "v": 2,
+    "page": 39,
+    "note": "Propone ampliar las capacidades financiero-fiscales vascas modificando la Ley del Concierto Económico y el Convenio."
+   },
+   "cc": {
+    "v": 1,
+    "page": 8,
+    "note": "Pide financiación autonómica suficiente que reconozca el coste de la insularidad y que el REF no cuente como financiación ordinaria."
+   }
+  }
  },
  {
   "id": "ter-5",
   "topic": "territorio",
   "statement": "Perdonar (condonar) parte de la deuda de las comunidades autónomas.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 61,
+    "note": "Propone avanzar en la asunción parcial por el Estado de 83.000 millones de euros de deuda autonómica."
+   },
+   "pp": {
+    "v": 0,
+    "page": 33,
+    "note": "Cada comunidad responderá de su deuda, pero propone una reestructuración multilateral de la deuda autonómica."
+   },
+   "frenteamplio": {
+    "v": 1,
+    "page": 104,
+    "note": "Condona deuda autonómica con condiciones: no hacer dumping fiscal ni bajar impuestos a rentas altas."
+   },
+   "salf": {
+    "v": -2,
+    "page": 14,
+    "note": "Se opone a las condonaciones de deuda entre administraciones, salvo catástrofe."
+   },
+   "erc": {
+    "v": 2,
+    "page": 12,
+    "note": "Propone condonar los más de 17.100 millones del FLA, la deuda de la Generalitat con el Estado."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 50,
+    "note": "Exige condonar la deuda histórica de la Generalitat (78% de su deuda)."
+   }
+  }
  },
  {
   "id": "ter-6",
   "topic": "territorio",
   "statement": "Traspasar más competencias a las comunidades autónomas.",
-  "stances": {}
+  "stances": {
+   "vox": {
+    "v": -1,
+    "page": 20,
+    "note": "Propone unificar currículo e inspección y garantizar igualdad entre territorios; no plantea traspasar competencias."
+   },
+   "erc": {
+    "v": 2,
+    "page": 14,
+    "note": "Propone traspasar competencias en migración, Rodalies, aeropuertos, Inspección de Trabajo y exigir competencias exclusivas en educación."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 52,
+    "note": "Traspasar costas, puertos, aeropuertos, Cercanías, IMV e inspección de trabajo a la Generalitat."
+   },
+   "pnv": {
+    "v": 2,
+    "page": 38,
+    "note": "Exige culminar todas las transferencias pendientes del Estatuto de Gernika."
+   },
+   "cc": {
+    "v": 2,
+    "page": 8,
+    "note": "Exige un calendario verificable para completar los traspasos pendientes del Estatuto de Autonomía, con medios suficientes."
+   }
+  }
  },
  {
   "id": "ins-1",
   "topic": "instituciones",
   "statement": "Que los jueces elijan a la mayoría del Consejo General del Poder Judicial (CGPJ).",
-  "stances": {}
+  "stances": {
+   "pp": {
+    "v": 2,
+    "page": 27,
+    "note": "Los doce vocales judiciales del CGPJ serán elegidos por los propios jueces."
+   },
+   "vox": {
+    "v": 2,
+    "page": 55,
+    "note": "Los doce vocales judiciales del CGPJ elegidos por los propios jueces y magistrados con voto directo."
+   },
+   "podemos": {
+    "v": -1,
+    "page": 129,
+    "note": "El Congreso elegiría los vocales del turno judicial por mayoría reforzada; apunta a elección directa por la ciudadanía."
+   },
+   "frenteamplio": {
+    "v": -1,
+    "page": 148,
+    "note": "Los vocales del turno judicial se elegirían por las Cámaras (tres quintos, luego mayoría), no por los jueces."
+   },
+   "salf": {
+    "v": 2,
+    "page": 28,
+    "note": "El CGPJ se compondría por elección de jueces y magistrados, antigüedad y/o sorteo, sin influencia política."
+   },
+   "compromis": {
+    "v": 0,
+    "page": 37,
+    "note": "Quiere un CGPJ independiente elegido por mérito y capacidad con menos presidencialismo; no dice que los jueces elijan a la mayoría."
+   }
+  }
  },
  {
   "id": "ins-2",
   "topic": "instituciones",
   "statement": "Hacer un referéndum sobre monarquía o república.",
-  "stances": {}
+  "stances": {
+   "vox": {
+    "v": -1,
+    "page": 56,
+    "note": "Propone máxima protección jurídica a la Corona; no plantea referéndum."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 128,
+    "note": "Referéndum separado y directo para que la ciudadanía decida entre monarquía y república."
+   },
+   "frenteamplio": {
+    "v": 1,
+    "page": 140,
+    "note": "Aspira a una democracia en la que también se elija la Jefatura del Estado; no menciona un referéndum concreto."
+   }
+  }
  },
  {
   "id": "ins-3",
   "topic": "instituciones",
   "statement": "Derogar o reformar a fondo la \"ley mordaza\" (Ley de Seguridad Ciudadana).",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 99,
+    "note": "Propone una nueva Ley de Seguridad Ciudadana que sustituya a la de 2015, con cámaras corporales en policías."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 133,
+    "note": "Derogar la Ley Mordaza y aprobar una regulación que proteja libertad de expresión, reunión y manifestación."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 142,
+    "note": "Deroga por completo la Ley Mordaza y los delitos de ofensas a símbolos e injurias a la Corona."
+   },
+   "erc": {
+    "v": 2,
+    "page": 8,
+    "note": "Propone derogar la Ley mordaza (Ley Orgánica 4/2015)."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 38,
+    "note": "Deroga la Ley de Protección de la Seguridad Ciudadana (ley mordaza)."
+   },
+   "pnv": {
+    "v": 2,
+    "page": 27,
+    "note": "Propone reformar la «ley mordaza» eliminando restricciones desproporcionadas a derechos y libertades."
+   }
+  }
  },
  {
   "id": "ins-4",
   "topic": "instituciones",
   "statement": "Endurecer el Código Penal (más penas, multirreincidencia, prisión permanente revisable).",
-  "stances": {}
+  "stances": {
+   "pp": {
+    "v": 2,
+    "page": 17,
+    "note": "Ampliar la prisión permanente revisable a quien oculte el cadáver y a depredadores sexuales reincidentes."
+   },
+   "vox": {
+    "v": 2,
+    "page": 45,
+    "note": "Ampliar la prisión permanente revisable y bajar la edad de responsabilidad penal del menor."
+   },
+   "salf": {
+    "v": 2,
+    "page": 8,
+    "note": "Cumplimiento íntegro, prisión permanente revisable en ciertos casos, macrocárcel y prisión tras tres condenas."
+   },
+   "erc": {
+    "v": 0,
+    "page": 43,
+    "note": "Propone endurecer penas por tenencia ilícita de armas y robo de cable, y por maltrato animal; no habla de prisión permanente."
+   },
+   "pnv": {
+    "v": 0,
+    "page": 24,
+    "note": "Propone medidas contra la multirreincidencia, pero rechaza la prisión permanente revisable (p. 28)."
+   }
+  }
  },
  {
   "id": "ins-5",
   "topic": "instituciones",
   "statement": "Mantener o ampliar la Ley de Memoria Democrática.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 98,
+    "note": "Propone completar el Plan de Exhumaciones y el Censo de Víctimas y culminar la resignificación del Valle de Cuelgamuros."
+   },
+   "pp": {
+    "v": -2,
+    "page": 37,
+    "note": "Propone derogar la Ley de Memoria Democrática y sustituirla por una ley de concordia."
+   },
+   "vox": {
+    "v": -2,
+    "page": 30,
+    "note": "Propone la superación de la Ley de Memoria Democrática por considerarla divisiva."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 138,
+    "note": "Cumplir la Ley de Memoria Democrática: transformar el Valle de Cuelgamuros y retirar símbolos franquistas; reformar la Ley de Amnistía (p. 135)."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 146,
+    "note": "Propone el desarrollo reglamentario de la Ley de Memoria Democrática y su cumplimiento íntegro."
+   },
+   "erc": {
+    "v": 2,
+    "page": 7,
+    "note": "Exige al Estado que cumpla la Ley de Memoria Democrática y propone reparar a víctimas y convertir Vía Laietana en espacio de memoria."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 38,
+    "note": "Exige el cumplimiento efectivo de la ley de memoria y la retirada de símbolos franquistas."
+   },
+   "pnv": {
+    "v": 2,
+    "page": 40,
+    "note": "Propone la aplicación íntegra de la legislación de Memoria Histórica y Democrática."
+   }
+  }
  },
  {
   "id": "ins-6",
   "topic": "instituciones",
   "statement": "Reducir el número de ministerios, altos cargos o entes públicos.",
-  "stances": {}
+  "stances": {
+   "pp": {
+    "v": 2,
+    "page": 13,
+    "note": "Habrá menos ministerios, altos cargos y asesores."
+   },
+   "vox": {
+    "v": 1,
+    "page": 29,
+    "note": "Reducir al mínimo el tamaño de la Administración y las subvenciones a organismos; no cita ministerios ni altos cargos."
+   },
+   "salf": {
+    "v": 2,
+    "page": 29,
+    "note": "Reduce de 22 a 10 ministerios y de 823 a 450 altos cargos; suprime Senado y Consejo de Estado."
+   }
+  }
  },
  {
   "id": "ins-7",
   "topic": "instituciones",
   "statement": "Eliminar o reducir los aforamientos de los políticos.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 90,
+    "note": "Propone suprimir los aforamientos por delitos ajenos al cargo."
+   },
+   "pp": {
+    "v": 1,
+    "page": 25,
+    "note": "Propone revisar los aforamientos para devolverlos a una concepción limitada y justificada."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 128,
+    "note": "Suprimir los aforamientos."
+   },
+   "salf": {
+    "v": 2,
+    "page": 28,
+    "note": "Reforma constitucional el primer día para acabar con los 17.621 aforamientos."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 35,
+    "note": "Elimina los aforamientos parlamentario y judicial."
+   }
+  }
  },
  {
   "id": "ext-1",
   "topic": "exterior",
   "statement": "Aumentar el gasto en defensa (objetivo de la OTAN o más).",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 0,
+    "page": 110,
+    "note": "Rechaza el objetivo del 5 % del PIB, pero impulsa compras conjuntas europeas de defensa."
+   },
+   "pp": {
+    "v": 1,
+    "page": 21,
+    "note": "Ley de programación y financiación de la defensa y más efectivos; no fija un porcentaje del PIB."
+   },
+   "vox": {
+    "v": 2,
+    "page": 47,
+    "note": "Aumento de la inversión en Defensa y mejora de sueldos y ayudas del personal militar."
+   },
+   "podemos": {
+    "v": -2,
+    "page": 28,
+    "note": "Revertir el aumento del gasto militar, congelarlo en la legislatura y rechazar el objetivo del 5% del PIB de la OTAN."
+   },
+   "frenteamplio": {
+    "v": -2,
+    "page": 130,
+    "note": "Rechaza el objetivo del 5 % del PIB de la OTAN e impulsa reducir las partidas militares."
+   },
+   "salf": {
+    "v": 0,
+    "page": 38,
+    "note": "Mantiene el gasto de Defensa en el 2 % del PIB, con más retribuciones a militares dentro de ese porcentaje."
+   },
+   "compromis": {
+    "v": -2,
+    "page": 54,
+    "note": "Plantea una UE de la Defensa que reduzca gasto militar y exige que aumentos no recorten servicios públicos."
+   }
+  }
  },
  {
   "id": "ext-2",
   "topic": "exterior",
   "statement": "Salir de la OTAN.",
-  "stances": {}
+  "stances": {
+   "pp": {
+    "v": -2,
+    "page": 21,
+    "note": "Propone reforzar los contingentes españoles en la OTAN."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 28,
+    "note": "Impulsar la salida de España de la OTAN y cerrar las bases estadounidenses de Rota y Morón."
+   },
+   "erc": {
+    "v": 0,
+    "page": 16,
+    "note": "Pide una defensa europea autónoma de la OTAN, pero no propone salir de la alianza."
+   },
+   "compromis": {
+    "v": 1,
+    "page": 54,
+    "note": "Propone una Unión Europea de la Defensa que pueda sustituir el marco de la OTAN; no pide salir expresamente."
+   }
+  }
  },
  {
   "id": "ext-3",
   "topic": "exterior",
   "statement": "Romper relaciones o prohibir la venta de armas a Israel.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 1,
+    "page": 105,
+    "note": "Recoge que España ha defendido el embargo de armas a Israel y propone sanciones de la UE a quien obstaculice los dos Estados."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 34,
+    "note": "Romper relaciones diplomáticas, culturales y comerciales con Israel y promover un embargo de armas sin excepciones."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 131,
+    "note": "Aprueba una ley de embargo integral, total y permanente de armas a Israel, sin excepciones."
+   },
+   "erc": {
+    "v": 2,
+    "page": 16,
+    "note": "Propone un embargo completo de armas a Israel y que la UE suspenda su acuerdo de asociación."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 55,
+    "note": "Rompe relaciones diplomáticas y comerciales con Israel y prohíbe vender armas a países que vulneran derechos humanos."
+   }
+  }
  },
  {
   "id": "ext-4",
   "topic": "exterior",
   "statement": "Más integración europea (una UE más federal o con más poder).",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 109,
+    "note": "Propone hacer de la UE una unión política y fiscal y superar la unanimidad en sus decisiones."
+   },
+   "vox": {
+    "v": -1,
+    "page": 33,
+    "note": "Rechaza las imposiciones de Bruselas y propone suspender acuerdos internacionales que frenen el desarrollo productivo."
+   },
+   "frenteamplio": {
+    "v": 1,
+    "page": 137,
+    "note": "Propone superar el Pacto de Estabilidad y reformar los tratados del BCE para ampliar su mandato."
+   },
+   "salf": {
+    "v": -2,
+    "page": 35,
+    "note": "Propone un referéndum de renegociación con la UE y, si Bruselas se niega, un segundo referéndum sobre la salida."
+   },
+   "erc": {
+    "v": 1,
+    "page": 17,
+    "note": "Propone una UE con estrategia de seguridad propia, presupuesto común más ambicioso e impuesto digital propio."
+   },
+   "compromis": {
+    "v": 1,
+    "page": 56,
+    "note": "Pide suprimir el Pacto de Estabilidad y un presupuesto europeo de al menos el 2% de la renta nacional bruta."
+   },
+   "pnv": {
+    "v": 1,
+    "page": 41,
+    "note": "Apoya una Europa más democrática, competitiva y social, con más presencia de Euskadi en sus instituciones."
+   }
+  }
  },
  {
   "id": "ext-5",
   "topic": "exterior",
   "statement": "Apoyar el derecho de autodeterminación del Sáhara Occidental.",
-  "stances": {}
+  "stances": {
+   "podemos": {
+    "v": 2,
+    "page": 36,
+    "note": "Promover el referéndum de autodeterminación del Sáhara Occidental y reconocer a la República Árabe Saharaui Democrática."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 132,
+    "note": "Apoya la autodeterminación del pueblo saharaui mediante un referéndum libre."
+   },
+   "salf": {
+    "v": 1,
+    "page": 38,
+    "note": "Retira el giro de 2022 a favor de Marruecos y vuelve a la posición de la ONU sobre el Sáhara."
+   },
+   "erc": {
+    "v": 2,
+    "page": 16,
+    "note": "Propone revertir la posición española de 2022 y condicionar acuerdos con Marruecos a la soberanía saharaui."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 54,
+    "note": "Apoya un referéndum de autodeterminación en el Sáhara Occidental."
+   },
+   "cc": {
+    "v": 1,
+    "page": 20,
+    "note": "Apoya una solución para el Sáhara Occidental conforme a las resoluciones de la ONU, sin mencionar la autodeterminación."
+   }
+  }
  },
  {
   "id": "ext-6",
   "topic": "exterior",
   "statement": "Seguir apoyando militarmente a Ucrania.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 1,
+    "page": 105,
+    "note": "Recuerda que España ha defendido desde el primer día la soberanía e integridad territorial de Ucrania."
+   },
+   "pp": {
+    "v": 2,
+    "page": 56,
+    "note": "Mantener el apoyo político, económico, militar y humanitario a Ucrania y las sanciones a Rusia."
+   },
+   "podemos": {
+    "v": -1,
+    "page": 37,
+    "note": "Defiende solución diplomática, alto el fuego y mediación frente a la escalada militar; no propone seguir con el apoyo militar."
+   },
+   "frenteamplio": {
+    "v": 0,
+    "page": 133,
+    "note": "Muestra solidaridad con Ucrania y busca una paz por vías diplomáticas; no menciona apoyo militar."
+   },
+   "erc": {
+    "v": 1,
+    "page": 16,
+    "note": "Propone mantener el apoyo a Ucrania con ayuda desde la UE y vía diplomática y de negociación."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 54,
+    "note": "Continúa dando apoyo al pueblo ucraniano y facilita una salida dialogada; no detalla apoyo militar."
+   }
+  }
  },
  {
   "id": "cul-1",
   "topic": "cultura",
   "statement": "Bajar el IVA de la cultura.",
-  "stances": {}
+  "stances": {
+   "vox": {
+    "v": 1,
+    "page": 43,
+    "note": "Reducción de impuestos para el arte y los espectáculos en vivo y nueva Ley de Mecenazgo; no cita el IVA."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 20,
+    "note": "Bajar al 5% el IVA de entradas a teatro, danza, circo, conciertos y espectáculos en vivo."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 18,
+    "note": "Baja el IVA de productos culturales."
+   },
+   "pnv": {
+    "v": 1,
+    "page": 21,
+    "note": "Propone revisar el IVA cultural dentro de lo que permita la normativa europea."
+   }
+  }
  },
  {
   "id": "cul-2",
   "topic": "cultura",
   "statement": "Regular más las grandes plataformas digitales y la inteligencia artificial.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 96,
+    "note": "Propone una ley de gobernanza de la IA con etiquetado y sanciones, y transparencia algorítmica con auditorías independientes."
+   },
+   "pp": {
+    "v": -1,
+    "page": 48,
+    "note": "Plantea entornos de prueba sin cargas nacionales añadidas al marco europeo de IA; la agencia acompañará a las empresas."
+   },
+   "podemos": {
+    "v": 1,
+    "page": 138,
+    "note": "Ley orgánica contra la desinformación que limita la concentración de medios; no detalla regulación general de plataformas ni de IA."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 119,
+    "note": "Tipifica como delito la desobediencia de directivos de plataformas a órdenes de retirar contenidos ilícitos."
+   },
+   "erc": {
+    "v": 2,
+    "page": 35,
+    "note": "Propone exigir transparencia y supervisión humana a la IA, proteger a menores y combatir diseños adictivos de las plataformas."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 16,
+    "note": "Regula estrictamente la inteligencia artificial y protege frente a deep fakes."
+   },
+   "pnv": {
+    "v": 1,
+    "page": 35,
+    "note": "Propone reforzar las obligaciones de las plataformas digitales para proteger a la infancia y cumplir el reglamento europeo de servicios digitales."
+   }
+  }
  },
  {
   "id": "cul-3",
   "topic": "cultura",
   "statement": "Prohibir las redes sociales a los menores (14-16 años).",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 95,
+    "note": "Propone fijar los 16 años como edad mínima para usar redes sociales, con verificación obligatoria de edad."
+   },
+   "pp": {
+    "v": 1,
+    "page": 45,
+    "note": "Ningún menor de 14 años con redes sociales y autorización paterna hasta los 16, con verificación de edad."
+   },
+   "frenteamplio": {
+    "v": 1,
+    "page": 41,
+    "note": "Propone regulación severa de plataformas para menores de 16 años sin verificación de edad que respete la privacidad."
+   },
+   "pnv": {
+    "v": 0,
+    "page": 35,
+    "note": "Propone verificación de edad proporcionada en plataformas, sin prohibir las redes sociales a menores."
+   }
+  }
  },
  {
   "id": "cul-4",
   "topic": "cultura",
   "statement": "Aumentar mucho la inversión pública en ciencia e I+D.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 16,
+    "note": "Propone aumentar la inversión pública en I+D hasta el 1,25 % del PIB y el 1,5 % en 2035."
+   },
+   "pp": {
+    "v": 1,
+    "page": 48,
+    "note": "Financiación pública de I+D con continuidad y mayor deducción por investigación; no fija un aumento grande."
+   },
+   "vox": {
+    "v": 1,
+    "page": 10,
+    "note": "Reforzar la inversión en I+D+i e incentivos fiscales a la innovación empresarial."
+   },
+   "podemos": {
+    "v": 2,
+    "page": 87,
+    "note": "Subir la inversión pública en ciencia e innovación hasta el 2% del PIB."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 80,
+    "note": "Alcanza el 3 % del PIB en I+D+i en 2030 y el 4 % en la década siguiente."
+   },
+   "erc": {
+    "v": 1,
+    "page": 45,
+    "note": "Propone aumentar la inversión estatal en investigación hasta el 1,5 % del PIB y en universidades hasta el 1 % en 2030."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 20,
+    "note": "Supera el 3% del PIB en inversión en ciencia y crea carrera investigadora estable."
+   },
+   "cc": {
+    "v": 1,
+    "page": 14,
+    "note": "Pide financiación plurianual estatal para universidades canarias, astrofísica, ciencias marinas y biotecnología, y reforzar PLOCAN."
+   }
+  }
  },
  {
   "id": "cul-5",
   "topic": "cultura",
   "statement": "Reducir o privatizar la televisión pública (RTVE).",
-  "stances": {}
+  "stances": {
+   "vox": {
+    "v": 0,
+    "page": 58,
+    "note": "Propone una reforma integral de RTVE y acabar con el despilfarro; no plantea privatizarla."
+   },
+   "compromis": {
+    "v": -1,
+    "page": 15,
+    "note": "Plantea ampliar la programación en valenciano en RTVE y emitir las autonómicas en todo el Estado."
+   }
+  }
  },
  {
   "id": "cul-6",
   "topic": "cultura",
   "statement": "Promover las lenguas cooficiales (catalán, euskera, gallego) en las instituciones del Estado y la UE.",
-  "stances": {}
+  "stances": {
+   "psoe": {
+    "v": 2,
+    "page": 91,
+    "note": "Propone consolidar el uso de las lenguas cooficiales en las Cortes Generales y en la atención de la Administración del Estado."
+   },
+   "pp": {
+    "v": 0,
+    "page": 37,
+    "note": "Castellano como lengua de trabajo en el Congreso; mantiene las cooficiales en el Senado y las promueve como patrimonio cultural."
+   },
+   "vox": {
+    "v": -1,
+    "page": 37,
+    "note": "Plantea que el desconocimiento de lenguas regionales no impida el acceso a plazas sanitarias; prioriza el español."
+   },
+   "podemos": {
+    "v": 1,
+    "page": 85,
+    "note": "Garantizar la enseñanza de las lenguas cooficiales con oferta suficiente; no menciona instituciones del Estado ni la UE."
+   },
+   "frenteamplio": {
+    "v": 2,
+    "page": 141,
+    "note": "Aprueba una ley del plurilingüismo para relacionarse con las instituciones del Estado en lenguas cooficiales."
+   },
+   "erc": {
+    "v": 2,
+    "page": 17,
+    "note": "Propone ley del plurilingüismo y pedir que catalán, occitano y lengua de signos catalana sean oficiales en la UE."
+   },
+   "compromis": {
+    "v": 2,
+    "page": 39,
+    "note": "Trabaja por la oficialidad del valenciano en las instituciones de la UE y el uso de lenguas cooficiales en la Justicia."
+   },
+   "pnv": {
+    "v": 2,
+    "page": 41,
+    "note": "Propone la oficialidad del euskera, el catalán y el gallego en la Unión Europea."
+   }
+  }
  }
 ]

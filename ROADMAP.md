@@ -40,10 +40,10 @@ Se publica con **GitHub Pages**. No hay paso de compilación: HTML + CSS + JS no
 - [x] Página **Resúmenes**: elegir uno o varios partidos y temas; tarjetas que se pueden plegar; botón "ver en el PDF" que abre la página exacta en otra pestaña.
 
 ## Fase 3 — Comparador y nivel de acuerdo
-- [ ] `data/positions.json`: para cada tema, 4–8 **afirmaciones** concretas (p. ej. "Topar el precio del alquiler en zonas tensionadas"). Cada partido tiene una postura: `+2` muy a favor, `+1`, `0` neutral, `-1`, `-2` muy en contra, o `null` (no lo menciona), siempre con la página como fuente.
-- [ ] **% de acuerdo** entre A y B en un tema = 100 × (1 − media(|pA − pB|) / 4), contando solo las afirmaciones que tratan los dos. Junto al % se muestra cuántas afirmaciones se han comparado (n), para no fiarse de un % calculado con pocos datos.
-- [ ] Página **Comparar**: elegir partidos y temas → tabla/mapa de calor de % + "lo que más les separa" (las afirmaciones con más diferencia) con citas.
-- [ ] Matriz general precalculada (`data/agreement.json`) generada con `tools/agreement.py` (sin hacerla a mano).
+- [x] `data/positions.json`: para cada tema, 4–8 **afirmaciones** concretas (p. ej. "Topar el precio del alquiler en zonas tensionadas"). Cada partido tiene una postura: `+2` muy a favor, `+1`, `0` neutral, `-1`, `-2` muy en contra, o `null` (no lo menciona), siempre con la página como fuente.
+- [x] **% de acuerdo** entre A y B en un tema = 100 × (1 − media(|pA − pB|) / 4), contando solo las afirmaciones que tratan los dos. Junto al % se muestra cuántas afirmaciones se han comparado (n), para no fiarse de un % calculado con pocos datos.
+- [x] Página **Comparar**: elegir partidos y temas → tabla/mapa de calor de % + "lo que más les separa" (las afirmaciones con más diferencia) con citas.
+- [x] 80 afirmaciones; posturas por partido en `data/stances/<id>.json` → `python tools/merge_stances.py` las une y genera `data/agreement.json` (la web calcula el % en vivo con los mismos datos).
 
 ## Fase 4 — Cuestionarios (versión preliminar: 2 preguntas por programa)
 - [ ] `data/questions/<id>.json` con el esquema de AGENTS.md §5 (tema, página, pista, explicación).

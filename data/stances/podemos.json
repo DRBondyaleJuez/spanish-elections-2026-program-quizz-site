@@ -1,0 +1,402 @@
+{
+ "viv-1": {
+  "v": 2,
+  "page": 8,
+  "note": "Propone bajar por ley un 40% los alquileres, también en contratos vigentes, con suelo del 60% del precio medio de la zona."
+ },
+ "viv-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-3": {
+  "v": 2,
+  "page": 10,
+  "note": "Ampliar el parque público de alquiler social con tanteo y retracto, activos de la Sareb y expropiación de uso a grandes tenedores."
+ },
+ "viv-4": {
+  "v": -2,
+  "page": 9,
+  "note": "Propone prohibir los desalojos extrajudiciales e ilegalizar las empresas de desokupación; suspender desahucios de personas vulnerables."
+ },
+ "viv-5": {
+  "v": 2,
+  "page": 8,
+  "note": "Prohibir comprar y acumular viviendas que no sean residencia propia; medidas contra fondos y compradores extranjeros que especulan."
+ },
+ "viv-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-7": {
+  "v": 2,
+  "page": 9,
+  "note": "Eliminar progresivamente los pisos turísticos mientras dure la emergencia habitacional y prohibir nuevas licencias."
+ },
+ "emp-1": {
+  "v": 2,
+  "page": 41,
+  "note": "Subir el SMI a 1.800 euros en la legislatura y fijar por ley un mínimo del 75% del salario mediano."
+ },
+ "emp-2": {
+  "v": 2,
+  "page": 41,
+  "note": "Reducir la jornada a 30 horas semanales durante la legislatura, empezando por 35, sin bajar salarios."
+ },
+ "emp-3": {
+  "v": 2,
+  "page": 42,
+  "note": "Restablecer la indemnización de 45 días por año en despidos ilegales y recuperar la autorización administrativa en los ERE."
+ },
+ "emp-4": {
+  "v": 1,
+  "page": 23,
+  "note": "Cotización de autónomos como porcentaje progresivo del beneficio, con cuota cero si hay pérdidas; no rebaja general de cotizaciones."
+ },
+ "emp-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-1": {
+  "v": 0,
+  "page": 21,
+  "note": "Baja el tipo mínimo del IRPF del 9,5% al 9%, pero sube los tramos altos desde 60.000 euros; no es una bajada general."
+ },
+ "eco-2": {
+  "v": 2,
+  "page": 17,
+  "note": "Convertir el impuesto a las grandes fortunas en un impuesto estatal permanente, con las características del Impuesto del Patrimonio."
+ },
+ "eco-3": {
+  "v": 2,
+  "page": 21,
+  "note": "Subir el tipo mínimo efectivo de Sociedades al 19% (29% en oligopolios) y crear un impuesto permanente a beneficios extraordinarios de la banca."
+ },
+ "eco-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-5": {
+  "v": 2,
+  "page": 17,
+  "note": "Crear una Banca Pública (ICO, CDTI, ENISA) y una red pública de supermercados; además una Empresa Pública de Energía."
+ },
+ "eco-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-2": {
+  "v": 2,
+  "page": 44,
+  "note": "Equiparar la pensión mínima contributiva al SMI y fijar la no contributiva en el 80% del SMI."
+ },
+ "pen-3": {
+  "v": 2,
+  "page": 41,
+  "note": "Eliminar, con efecto retroactivo, las penalizaciones por jubilación anticipada para quien acredite 40 años cotizados."
+ },
+ "pen-4": {
+  "v": 2,
+  "page": 45,
+  "note": "Convertir el Ingreso Mínimo Vital en una renta universal incondicionada y crear una prestación universal por crianza (p. 60)."
+ },
+ "pen-5": {
+  "v": -2,
+  "page": 21,
+  "note": "Propone eliminar las desgravaciones del IRPF por planes de pensiones privados, incluidos los de empleo."
+ },
+ "san-1": {
+  "v": 2,
+  "page": 88,
+  "note": "Derogar las leyes privatizadoras, prohibir externalizar servicios sanitarios y recuperar los privatizados al vencer los contratos."
+ },
+ "san-2": {
+  "v": 2,
+  "page": 92,
+  "note": "Incluir en la sanidad pública el dentista: empastes, ortodoncias y prótesis."
+ },
+ "san-3": {
+  "v": -2,
+  "page": 88,
+  "note": "Prohíbe externalizar y reserva el fondo estatal a la gestión pública directa; plantea reducir las listas de espera con plazos máximos."
+ },
+ "san-4": {
+  "v": -2,
+  "page": 91,
+  "note": "Propone acceso universal, gratuito y oportuno a la sanidad sea cual sea la situación administrativa de la persona."
+ },
+ "san-5": {
+  "v": 2,
+  "page": 91,
+  "note": "Ley General de Salud Mental con ratios mínimas de profesionales y atención psicológica pública gratuita."
+ },
+ "edu-1": {
+  "v": -2,
+  "page": 79,
+  "note": "Avanzar hacia una única red pública con moratoria de nuevos conciertos y reabsorción voluntaria de los centros concertados."
+ },
+ "edu-2": {
+  "v": 2,
+  "page": 83,
+  "note": "Suprimir la enseñanza de cualquier religión en los colegios."
+ },
+ "edu-3": {
+  "v": 2,
+  "page": 80,
+  "note": "Construir en cuatro años las plazas públicas necesarias para una cobertura universal, gratuita y de gestión pública directa de 0 a 3 años."
+ },
+ "edu-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-5": {
+  "v": 2,
+  "page": 85,
+  "note": "Alcanzar progresivamente la gratuidad total de las tasas de grado, máster y doctorado en universidades públicas, con becas-salario."
+ },
+ "edu-6": {
+  "v": -2,
+  "page": 83,
+  "note": "Impedir la aplicación del llamado Pin Parental y proteger una educación afectivo-sexual integral."
+ },
+ "igu-1": {
+  "v": 2,
+  "page": 51,
+  "note": "Fondo de contingencia de mil millones de euros para financiar de forma estable las políticas contra las violencias machistas."
+ },
+ "igu-2": {
+  "v": 2,
+  "page": 51,
+  "note": "Sacar el aborto del Código Penal e incorporarlo a la Constitución, en el artículo 15."
+ },
+ "igu-3": {
+  "v": 2,
+  "page": 52,
+  "note": "Paquete LGTBIQA+ con opción no binaria en documentos y eliminación de obstáculos a la libre determinación de género."
+ },
+ "igu-4": {
+  "v": 2,
+  "page": 60,
+  "note": "Ampliar los permisos por nacimiento a 26 semanas por progenitor, intransferibles y remunerados."
+ },
+ "igu-5": {
+  "v": 0,
+  "page": 55,
+  "note": "Propone una ley integral contra la trata y la explotación con apoyo a mujeres en prostitución; no menciona abolir ni castigar la compra de sexo."
+ },
+ "inm-1": {
+  "v": 2,
+  "page": 67,
+  "note": "Crear un procedimiento permanente de regularización basado en el arraigo social, familiar y comunitario."
+ },
+ "inm-2": {
+  "v": -2,
+  "page": 65,
+  "note": "Derogar la Ley de Extranjería, acabar con las devoluciones en caliente y cerrar los CIE; rechaza externalizar fronteras."
+ },
+ "inm-3": {
+  "v": 2,
+  "page": 65,
+  "note": "Cerrar todos los Centros de Internamiento de Extranjeros y sustituirlos por alternativas comunitarias."
+ },
+ "inm-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-5": {
+  "v": -2,
+  "page": 8,
+  "note": "Plantea garantizar derechos con independencia de la nacionalidad u origen; no propone priorizar a españoles."
+ },
+ "inm-6": {
+  "v": -2,
+  "page": 66,
+  "note": "Reducir a un año el plazo para pedir la nacionalidad con arraigo, eliminar tasas y ampliar el ius soli."
+ },
+ "med-1": {
+  "v": -2,
+  "page": 103,
+  "note": "Cumplir el calendario de cierre nuclear con una transición justa para los territorios afectados."
+ },
+ "med-2": {
+  "v": 2,
+  "page": 98,
+  "note": "Reducir a la mitad la energía fósil en 2030, 95% de electricidad renovable en 2035 y sistema descarbonizado en 2040."
+ },
+ "med-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-4": {
+  "v": 2,
+  "page": 104,
+  "note": "Prohibir vuelos cortos cuando exista alternativa en tren de menos de tres horas."
+ },
+ "med-5": {
+  "v": 2,
+  "page": 18,
+  "note": "Crear una Empresa Pública de Energía con las concesiones hidroeléctricas revertidas y mayoría de Repsol."
+ },
+ "med-6": {
+  "v": 2,
+  "page": 124,
+  "note": "Derogar la ley que declara la tauromaquia patrimonio cultural, eliminar ayudas públicas y prohibir menores en espectáculos taurinos."
+ },
+ "rur-1": {
+  "v": -1,
+  "page": 121,
+  "note": "Aplicar la legislación de protección animal a todos los animales, incluidos los perros de caza."
+ },
+ "rur-2": {
+  "v": 2,
+  "page": 115,
+  "note": "Exigir que los productos importados cumplan los mismos estándares de producción que los europeos; rechaza el acuerdo UE-Mercosur (p. 37)."
+ },
+ "rur-3": {
+  "v": 2,
+  "page": 111,
+  "note": "Reformar la PAC: eliminar derechos históricos, limitar la concentración de ayudas y apoyar explotaciones familiares y profesionales."
+ },
+ "rur-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-3": {
+  "v": 2,
+  "page": 128,
+  "note": "Proceso constituyente hacia una república que reconozca la plurinacionalidad; reforma federal del Senado (p. 129)."
+ },
+ "ter-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-1": {
+  "v": -1,
+  "page": 129,
+  "note": "El Congreso elegiría los vocales del turno judicial por mayoría reforzada; apunta a elección directa por la ciudadanía."
+ },
+ "ins-2": {
+  "v": 2,
+  "page": 128,
+  "note": "Referéndum separado y directo para que la ciudadanía decida entre monarquía y república."
+ },
+ "ins-3": {
+  "v": 2,
+  "page": 133,
+  "note": "Derogar la Ley Mordaza y aprobar una regulación que proteja libertad de expresión, reunión y manifestación."
+ },
+ "ins-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-5": {
+  "v": 2,
+  "page": 138,
+  "note": "Cumplir la Ley de Memoria Democrática: transformar el Valle de Cuelgamuros y retirar símbolos franquistas; reformar la Ley de Amnistía (p. 135)."
+ },
+ "ins-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-7": {
+  "v": 2,
+  "page": 128,
+  "note": "Suprimir los aforamientos."
+ },
+ "ext-1": {
+  "v": -2,
+  "page": 28,
+  "note": "Revertir el aumento del gasto militar, congelarlo en la legislatura y rechazar el objetivo del 5% del PIB de la OTAN."
+ },
+ "ext-2": {
+  "v": 2,
+  "page": 28,
+  "note": "Impulsar la salida de España de la OTAN y cerrar las bases estadounidenses de Rota y Morón."
+ },
+ "ext-3": {
+  "v": 2,
+  "page": 34,
+  "note": "Romper relaciones diplomáticas, culturales y comerciales con Israel y promover un embargo de armas sin excepciones."
+ },
+ "ext-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-5": {
+  "v": 2,
+  "page": 36,
+  "note": "Promover el referéndum de autodeterminación del Sáhara Occidental y reconocer a la República Árabe Saharaui Democrática."
+ },
+ "ext-6": {
+  "v": -1,
+  "page": 37,
+  "note": "Defiende solución diplomática, alto el fuego y mediación frente a la escalada militar; no propone seguir con el apoyo militar."
+ },
+ "cul-1": {
+  "v": 2,
+  "page": 20,
+  "note": "Bajar al 5% el IVA de entradas a teatro, danza, circo, conciertos y espectáculos en vivo."
+ },
+ "cul-2": {
+  "v": 1,
+  "page": 138,
+  "note": "Ley orgánica contra la desinformación que limita la concentración de medios; no detalla regulación general de plataformas ni de IA."
+ },
+ "cul-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-4": {
+  "v": 2,
+  "page": 87,
+  "note": "Subir la inversión pública en ciencia e innovación hasta el 2% del PIB."
+ },
+ "cul-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-6": {
+  "v": 1,
+  "page": 85,
+  "note": "Garantizar la enseñanza de las lenguas cooficiales con oferta suficiente; no menciona instituciones del Estado ni la UE."
+ }
+}

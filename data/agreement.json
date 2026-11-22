@@ -1,0 +1,2734 @@
+{
+ "overall": {
+  "psoe|pp": {
+   "pct": 59,
+   "n": 23
+  },
+  "psoe|vox": {
+   "pct": 49,
+   "n": 23
+  },
+  "psoe|podemos": {
+   "pct": 88,
+   "n": 36
+  },
+  "psoe|frenteamplio": {
+   "pct": 89,
+   "n": 40
+  },
+  "psoe|salf": {
+   "pct": 57,
+   "n": 17
+  },
+  "psoe|erc": {
+   "pct": 92,
+   "n": 30
+  },
+  "psoe|compromis": {
+   "pct": 91,
+   "n": 40
+  },
+  "psoe|pnv": {
+   "pct": 86,
+   "n": 16
+  },
+  "psoe|cc": {
+   "pct": 78,
+   "n": 10
+  },
+  "pp|vox": {
+   "pct": 88,
+   "n": 32
+  },
+  "pp|podemos": {
+   "pct": 38,
+   "n": 29
+  },
+  "pp|frenteamplio": {
+   "pct": 42,
+   "n": 36
+  },
+  "pp|salf": {
+   "pct": 90,
+   "n": 22
+  },
+  "pp|erc": {
+   "pct": 54,
+   "n": 25
+  },
+  "pp|compromis": {
+   "pct": 46,
+   "n": 33
+  },
+  "pp|pnv": {
+   "pct": 48,
+   "n": 16
+  },
+  "pp|cc": {
+   "pct": 70,
+   "n": 10
+  },
+  "vox|podemos": {
+   "pct": 34,
+   "n": 35
+  },
+  "vox|frenteamplio": {
+   "pct": 36,
+   "n": 40
+  },
+  "vox|salf": {
+   "pct": 88,
+   "n": 28
+  },
+  "vox|erc": {
+   "pct": 46,
+   "n": 28
+  },
+  "vox|compromis": {
+   "pct": 39,
+   "n": 40
+  },
+  "vox|pnv": {
+   "pct": 45,
+   "n": 19
+  },
+  "vox|cc": {
+   "pct": 71,
+   "n": 14
+  },
+  "podemos|frenteamplio": {
+   "pct": 95,
+   "n": 52
+  },
+  "podemos|salf": {
+   "pct": 38,
+   "n": 27
+  },
+  "podemos|erc": {
+   "pct": 90,
+   "n": 34
+  },
+  "podemos|compromis": {
+   "pct": 93,
+   "n": 56
+  },
+  "podemos|pnv": {
+   "pct": 80,
+   "n": 20
+  },
+  "podemos|cc": {
+   "pct": 80,
+   "n": 11
+  },
+  "frenteamplio|salf": {
+   "pct": 40,
+   "n": 32
+  },
+  "frenteamplio|erc": {
+   "pct": 91,
+   "n": 41
+  },
+  "frenteamplio|compromis": {
+   "pct": 92,
+   "n": 58
+  },
+  "frenteamplio|pnv": {
+   "pct": 80,
+   "n": 25
+  },
+  "frenteamplio|cc": {
+   "pct": 82,
+   "n": 15
+  },
+  "salf|erc": {
+   "pct": 49,
+   "n": 24
+  },
+  "salf|compromis": {
+   "pct": 43,
+   "n": 32
+  },
+  "salf|pnv": {
+   "pct": 61,
+   "n": 14
+  },
+  "salf|cc": {
+   "pct": 67,
+   "n": 9
+  },
+  "erc|compromis": {
+   "pct": 95,
+   "n": 42
+  },
+  "erc|pnv": {
+   "pct": 90,
+   "n": 21
+  },
+  "erc|cc": {
+   "pct": 83,
+   "n": 15
+  },
+  "compromis|pnv": {
+   "pct": 87,
+   "n": 25
+  },
+  "compromis|cc": {
+   "pct": 85,
+   "n": 15
+  },
+  "pnv|cc": {
+   "pct": 84,
+   "n": 8
+  }
+ },
+ "byTopic": {
+  "cultura": {
+   "psoe|pp": {
+    "pct": 56,
+    "n": 4
+   },
+   "psoe|vox": {
+    "pct": 50,
+    "n": 2
+   },
+   "psoe|podemos": {
+    "pct": 83,
+    "n": 3
+   },
+   "psoe|frenteamplio": {
+    "pct": 94,
+    "n": 4
+   },
+   "psoe|salf": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|erc": {
+    "pct": 92,
+    "n": 3
+   },
+   "psoe|compromis": {
+    "pct": 100,
+    "n": 3
+   },
+   "psoe|pnv": {
+    "pct": 75,
+    "n": 3
+   },
+   "psoe|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|vox": {
+    "pct": 88,
+    "n": 2
+   },
+   "pp|podemos": {
+    "pct": 67,
+    "n": 3
+   },
+   "pp|frenteamplio": {
+    "pct": 62,
+    "n": 4
+   },
+   "pp|salf": {
+    "pct": null,
+    "n": 0
+   },
+   "pp|erc": {
+    "pct": 58,
+    "n": 3
+   },
+   "pp|compromis": {
+    "pct": 50,
+    "n": 3
+   },
+   "pp|pnv": {
+    "pct": 58,
+    "n": 3
+   },
+   "pp|cc": {
+    "pct": 100,
+    "n": 1
+   },
+   "vox|podemos": {
+    "pct": 67,
+    "n": 3
+   },
+   "vox|frenteamplio": {
+    "pct": 50,
+    "n": 2
+   },
+   "vox|salf": {
+    "pct": null,
+    "n": 0
+   },
+   "vox|erc": {
+    "pct": 62,
+    "n": 2
+   },
+   "vox|compromis": {
+    "pct": 62,
+    "n": 4
+   },
+   "vox|pnv": {
+    "pct": 62,
+    "n": 2
+   },
+   "vox|cc": {
+    "pct": 100,
+    "n": 1
+   },
+   "podemos|frenteamplio": {
+    "pct": 83,
+    "n": 3
+   },
+   "podemos|salf": {
+    "pct": null,
+    "n": 0
+   },
+   "podemos|erc": {
+    "pct": 75,
+    "n": 3
+   },
+   "podemos|compromis": {
+    "pct": 88,
+    "n": 4
+   },
+   "podemos|pnv": {
+    "pct": 83,
+    "n": 3
+   },
+   "podemos|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "frenteamplio|salf": {
+    "pct": null,
+    "n": 0
+   },
+   "frenteamplio|erc": {
+    "pct": 92,
+    "n": 3
+   },
+   "frenteamplio|compromis": {
+    "pct": 100,
+    "n": 3
+   },
+   "frenteamplio|pnv": {
+    "pct": 83,
+    "n": 3
+   },
+   "frenteamplio|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "salf|erc": {
+    "pct": null,
+    "n": 0
+   },
+   "salf|compromis": {
+    "pct": null,
+    "n": 0
+   },
+   "salf|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "salf|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "erc|compromis": {
+    "pct": 92,
+    "n": 3
+   },
+   "erc|pnv": {
+    "pct": 88,
+    "n": 2
+   },
+   "erc|cc": {
+    "pct": 100,
+    "n": 1
+   },
+   "compromis|pnv": {
+    "pct": 83,
+    "n": 3
+   },
+   "compromis|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "pnv|cc": {
+    "pct": null,
+    "n": 0
+   }
+  },
+  "economia": {
+   "psoe|pp": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|vox": {
+    "pct": 25,
+    "n": 1
+   },
+   "psoe|podemos": {
+    "pct": 100,
+    "n": 2
+   },
+   "psoe|frenteamplio": {
+    "pct": 100,
+    "n": 2
+   },
+   "psoe|salf": {
+    "pct": 25,
+    "n": 2
+   },
+   "psoe|erc": {
+    "pct": 100,
+    "n": 2
+   },
+   "psoe|compromis": {
+    "pct": 100,
+    "n": 2
+   },
+   "psoe|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "pp|vox": {
+    "pct": 75,
+    "n": 2
+   },
+   "pp|podemos": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|frenteamplio": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|salf": {
+    "pct": 75,
+    "n": 2
+   },
+   "pp|erc": {
+    "pct": 100,
+    "n": 1
+   },
+   "pp|compromis": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "pp|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "vox|podemos": {
+    "pct": 38,
+    "n": 2
+   },
+   "vox|frenteamplio": {
+    "pct": 38,
+    "n": 2
+   },
+   "vox|salf": {
+    "pct": 92,
+    "n": 3
+   },
+   "vox|erc": {
+    "pct": 50,
+    "n": 2
+   },
+   "vox|compromis": {
+    "pct": 38,
+    "n": 2
+   },
+   "vox|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "vox|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "podemos|frenteamplio": {
+    "pct": 100,
+    "n": 4
+   },
+   "podemos|salf": {
+    "pct": 33,
+    "n": 3
+   },
+   "podemos|erc": {
+    "pct": 88,
+    "n": 4
+   },
+   "podemos|compromis": {
+    "pct": 100,
+    "n": 4
+   },
+   "podemos|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "podemos|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "frenteamplio|salf": {
+    "pct": 25,
+    "n": 4
+   },
+   "frenteamplio|erc": {
+    "pct": 88,
+    "n": 4
+   },
+   "frenteamplio|compromis": {
+    "pct": 100,
+    "n": 4
+   },
+   "frenteamplio|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "frenteamplio|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "salf|erc": {
+    "pct": 42,
+    "n": 3
+   },
+   "salf|compromis": {
+    "pct": 33,
+    "n": 3
+   },
+   "salf|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "salf|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "erc|compromis": {
+    "pct": 88,
+    "n": 4
+   },
+   "erc|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "erc|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "compromis|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "compromis|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "pnv|cc": {
+    "pct": null,
+    "n": 0
+   }
+  },
+  "educacion": {
+   "psoe|pp": {
+    "pct": 100,
+    "n": 1
+   },
+   "psoe|vox": {
+    "pct": 100,
+    "n": 1
+   },
+   "psoe|podemos": {
+    "pct": 83,
+    "n": 3
+   },
+   "psoe|frenteamplio": {
+    "pct": 88,
+    "n": 2
+   },
+   "psoe|salf": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|erc": {
+    "pct": 100,
+    "n": 1
+   },
+   "psoe|compromis": {
+    "pct": 100,
+    "n": 3
+   },
+   "psoe|pnv": {
+    "pct": 100,
+    "n": 1
+   },
+   "psoe|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|vox": {
+    "pct": 100,
+    "n": 3
+   },
+   "pp|podemos": {
+    "pct": 50,
+    "n": 2
+   },
+   "pp|frenteamplio": {
+    "pct": 33,
+    "n": 3
+   },
+   "pp|salf": {
+    "pct": 100,
+    "n": 2
+   },
+   "pp|erc": {
+    "pct": 50,
+    "n": 2
+   },
+   "pp|compromis": {
+    "pct": 50,
+    "n": 2
+   },
+   "pp|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "pp|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "vox|podemos": {
+    "pct": 50,
+    "n": 2
+   },
+   "vox|frenteamplio": {
+    "pct": 33,
+    "n": 3
+   },
+   "vox|salf": {
+    "pct": 100,
+    "n": 2
+   },
+   "vox|erc": {
+    "pct": 50,
+    "n": 2
+   },
+   "vox|compromis": {
+    "pct": 50,
+    "n": 2
+   },
+   "vox|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "vox|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "podemos|frenteamplio": {
+    "pct": 100,
+    "n": 3
+   },
+   "podemos|salf": {
+    "pct": 0,
+    "n": 1
+   },
+   "podemos|erc": {
+    "pct": 100,
+    "n": 1
+   },
+   "podemos|compromis": {
+    "pct": 88,
+    "n": 4
+   },
+   "podemos|pnv": {
+    "pct": 75,
+    "n": 1
+   },
+   "podemos|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "frenteamplio|salf": {
+    "pct": 0,
+    "n": 2
+   },
+   "frenteamplio|erc": {
+    "pct": 100,
+    "n": 2
+   },
+   "frenteamplio|compromis": {
+    "pct": 92,
+    "n": 3
+   },
+   "frenteamplio|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "frenteamplio|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "salf|erc": {
+    "pct": 0,
+    "n": 1
+   },
+   "salf|compromis": {
+    "pct": 0,
+    "n": 1
+   },
+   "salf|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "salf|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "erc|compromis": {
+    "pct": 100,
+    "n": 1
+   },
+   "erc|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "erc|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "compromis|pnv": {
+    "pct": 100,
+    "n": 1
+   },
+   "compromis|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "pnv|cc": {
+    "pct": null,
+    "n": 0
+   }
+  },
+  "empleo": {
+   "psoe|pp": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|vox": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|podemos": {
+    "pct": 100,
+    "n": 3
+   },
+   "psoe|frenteamplio": {
+    "pct": 100,
+    "n": 3
+   },
+   "psoe|salf": {
+    "pct": 25,
+    "n": 1
+   },
+   "psoe|erc": {
+    "pct": 100,
+    "n": 3
+   },
+   "psoe|compromis": {
+    "pct": 100,
+    "n": 3
+   },
+   "psoe|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "pp|vox": {
+    "pct": 100,
+    "n": 1
+   },
+   "pp|podemos": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|frenteamplio": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|salf": {
+    "pct": 100,
+    "n": 1
+   },
+   "pp|erc": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|compromis": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "pp|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "vox|podemos": {
+    "pct": 75,
+    "n": 1
+   },
+   "vox|frenteamplio": {
+    "pct": 75,
+    "n": 1
+   },
+   "vox|salf": {
+    "pct": 100,
+    "n": 1
+   },
+   "vox|erc": {
+    "pct": 75,
+    "n": 1
+   },
+   "vox|compromis": {
+    "pct": 75,
+    "n": 1
+   },
+   "vox|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "vox|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "podemos|frenteamplio": {
+    "pct": 100,
+    "n": 4
+   },
+   "podemos|salf": {
+    "pct": 50,
+    "n": 2
+   },
+   "podemos|erc": {
+    "pct": 100,
+    "n": 4
+   },
+   "podemos|compromis": {
+    "pct": 100,
+    "n": 4
+   },
+   "podemos|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "podemos|cc": {
+    "pct": 100,
+    "n": 1
+   },
+   "frenteamplio|salf": {
+    "pct": 50,
+    "n": 2
+   },
+   "frenteamplio|erc": {
+    "pct": 100,
+    "n": 4
+   },
+   "frenteamplio|compromis": {
+    "pct": 100,
+    "n": 4
+   },
+   "frenteamplio|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "frenteamplio|cc": {
+    "pct": 100,
+    "n": 1
+   },
+   "salf|erc": {
+    "pct": 50,
+    "n": 2
+   },
+   "salf|compromis": {
+    "pct": 50,
+    "n": 2
+   },
+   "salf|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "salf|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "erc|compromis": {
+    "pct": 100,
+    "n": 4
+   },
+   "erc|pnv": {
+    "pct": 100,
+    "n": 1
+   },
+   "erc|cc": {
+    "pct": 100,
+    "n": 1
+   },
+   "compromis|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "compromis|cc": {
+    "pct": 100,
+    "n": 1
+   },
+   "pnv|cc": {
+    "pct": null,
+    "n": 0
+   }
+  },
+  "exterior": {
+   "psoe|pp": {
+    "pct": 75,
+    "n": 2
+   },
+   "psoe|vox": {
+    "pct": 38,
+    "n": 2
+   },
+   "psoe|podemos": {
+    "pct": 58,
+    "n": 3
+   },
+   "psoe|frenteamplio": {
+    "pct": 69,
+    "n": 4
+   },
+   "psoe|salf": {
+    "pct": 50,
+    "n": 2
+   },
+   "psoe|erc": {
+    "pct": 83,
+    "n": 3
+   },
+   "psoe|compromis": {
+    "pct": 69,
+    "n": 4
+   },
+   "psoe|pnv": {
+    "pct": 75,
+    "n": 1
+   },
+   "psoe|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "pp|vox": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|podemos": {
+    "pct": 17,
+    "n": 3
+   },
+   "pp|frenteamplio": {
+    "pct": 38,
+    "n": 2
+   },
+   "pp|salf": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|erc": {
+    "pct": 62,
+    "n": 2
+   },
+   "pp|compromis": {
+    "pct": 50,
+    "n": 3
+   },
+   "pp|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "pp|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "vox|podemos": {
+    "pct": 0,
+    "n": 1
+   },
+   "vox|frenteamplio": {
+    "pct": 25,
+    "n": 2
+   },
+   "vox|salf": {
+    "pct": 62,
+    "n": 2
+   },
+   "vox|erc": {
+    "pct": 50,
+    "n": 1
+   },
+   "vox|compromis": {
+    "pct": 25,
+    "n": 2
+   },
+   "vox|pnv": {
+    "pct": 50,
+    "n": 1
+   },
+   "vox|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "podemos|frenteamplio": {
+    "pct": 94,
+    "n": 4
+   },
+   "podemos|salf": {
+    "pct": 62,
+    "n": 2
+   },
+   "podemos|erc": {
+    "pct": 75,
+    "n": 4
+   },
+   "podemos|compromis": {
+    "pct": 80,
+    "n": 5
+   },
+   "podemos|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "podemos|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "frenteamplio|salf": {
+    "pct": 50,
+    "n": 3
+   },
+   "frenteamplio|erc": {
+    "pct": 94,
+    "n": 4
+   },
+   "frenteamplio|compromis": {
+    "pct": 90,
+    "n": 5
+   },
+   "frenteamplio|pnv": {
+    "pct": 100,
+    "n": 1
+   },
+   "frenteamplio|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "salf|erc": {
+    "pct": 50,
+    "n": 2
+   },
+   "salf|compromis": {
+    "pct": 50,
+    "n": 3
+   },
+   "salf|pnv": {
+    "pct": 25,
+    "n": 1
+   },
+   "salf|cc": {
+    "pct": 100,
+    "n": 1
+   },
+   "erc|compromis": {
+    "pct": 90,
+    "n": 5
+   },
+   "erc|pnv": {
+    "pct": 100,
+    "n": 1
+   },
+   "erc|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "compromis|pnv": {
+    "pct": 100,
+    "n": 1
+   },
+   "compromis|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "pnv|cc": {
+    "pct": null,
+    "n": 0
+   }
+  },
+  "igualdad": {
+   "psoe|pp": {
+    "pct": 67,
+    "n": 3
+   },
+   "psoe|vox": {
+    "pct": 17,
+    "n": 3
+   },
+   "psoe|podemos": {
+    "pct": 85,
+    "n": 5
+   },
+   "psoe|frenteamplio": {
+    "pct": 80,
+    "n": 5
+   },
+   "psoe|salf": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|erc": {
+    "pct": 83,
+    "n": 3
+   },
+   "psoe|compromis": {
+    "pct": 90,
+    "n": 5
+   },
+   "psoe|pnv": {
+    "pct": 92,
+    "n": 3
+   },
+   "psoe|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|vox": {
+    "pct": 50,
+    "n": 2
+   },
+   "pp|podemos": {
+    "pct": 58,
+    "n": 3
+   },
+   "pp|frenteamplio": {
+    "pct": 58,
+    "n": 3
+   },
+   "pp|salf": {
+    "pct": null,
+    "n": 0
+   },
+   "pp|erc": {
+    "pct": 50,
+    "n": 3
+   },
+   "pp|compromis": {
+    "pct": 58,
+    "n": 3
+   },
+   "pp|pnv": {
+    "pct": 50,
+    "n": 2
+   },
+   "pp|cc": {
+    "pct": 100,
+    "n": 1
+   },
+   "vox|podemos": {
+    "pct": 8,
+    "n": 3
+   },
+   "vox|frenteamplio": {
+    "pct": 8,
+    "n": 3
+   },
+   "vox|salf": {
+    "pct": null,
+    "n": 0
+   },
+   "vox|erc": {
+    "pct": 12,
+    "n": 2
+   },
+   "vox|compromis": {
+    "pct": 8,
+    "n": 3
+   },
+   "vox|pnv": {
+    "pct": 25,
+    "n": 3
+   },
+   "vox|cc": {
+    "pct": 25,
+    "n": 1
+   },
+   "podemos|frenteamplio": {
+    "pct": 95,
+    "n": 5
+   },
+   "podemos|salf": {
+    "pct": null,
+    "n": 0
+   },
+   "podemos|erc": {
+    "pct": 92,
+    "n": 3
+   },
+   "podemos|compromis": {
+    "pct": 95,
+    "n": 5
+   },
+   "podemos|pnv": {
+    "pct": 83,
+    "n": 3
+   },
+   "podemos|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "frenteamplio|salf": {
+    "pct": null,
+    "n": 0
+   },
+   "frenteamplio|erc": {
+    "pct": 92,
+    "n": 3
+   },
+   "frenteamplio|compromis": {
+    "pct": 90,
+    "n": 5
+   },
+   "frenteamplio|pnv": {
+    "pct": 83,
+    "n": 3
+   },
+   "frenteamplio|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "salf|erc": {
+    "pct": null,
+    "n": 0
+   },
+   "salf|compromis": {
+    "pct": null,
+    "n": 0
+   },
+   "salf|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "salf|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "erc|compromis": {
+    "pct": 92,
+    "n": 3
+   },
+   "erc|pnv": {
+    "pct": 88,
+    "n": 2
+   },
+   "erc|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "compromis|pnv": {
+    "pct": 83,
+    "n": 3
+   },
+   "compromis|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "pnv|cc": {
+    "pct": 75,
+    "n": 1
+   }
+  },
+  "inmigracion": {
+   "psoe|pp": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|vox": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|podemos": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|frenteamplio": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|salf": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|erc": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|compromis": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "pp|vox": {
+    "pct": 100,
+    "n": 3
+   },
+   "pp|podemos": {
+    "pct": 0,
+    "n": 4
+   },
+   "pp|frenteamplio": {
+    "pct": 0,
+    "n": 4
+   },
+   "pp|salf": {
+    "pct": 94,
+    "n": 4
+   },
+   "pp|erc": {
+    "pct": 25,
+    "n": 1
+   },
+   "pp|compromis": {
+    "pct": 8,
+    "n": 3
+   },
+   "pp|pnv": {
+    "pct": 31,
+    "n": 4
+   },
+   "pp|cc": {
+    "pct": 0,
+    "n": 1
+   },
+   "vox|podemos": {
+    "pct": 0,
+    "n": 4
+   },
+   "vox|frenteamplio": {
+    "pct": 0,
+    "n": 2
+   },
+   "vox|salf": {
+    "pct": 88,
+    "n": 4
+   },
+   "vox|erc": {
+    "pct": 25,
+    "n": 2
+   },
+   "vox|compromis": {
+    "pct": 17,
+    "n": 3
+   },
+   "vox|pnv": {
+    "pct": 25,
+    "n": 2
+   },
+   "vox|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "podemos|frenteamplio": {
+    "pct": 100,
+    "n": 3
+   },
+   "podemos|salf": {
+    "pct": 10,
+    "n": 5
+   },
+   "podemos|erc": {
+    "pct": 75,
+    "n": 2
+   },
+   "podemos|compromis": {
+    "pct": 88,
+    "n": 4
+   },
+   "podemos|pnv": {
+    "pct": 75,
+    "n": 3
+   },
+   "podemos|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "frenteamplio|salf": {
+    "pct": 0,
+    "n": 3
+   },
+   "frenteamplio|erc": {
+    "pct": 75,
+    "n": 1
+   },
+   "frenteamplio|compromis": {
+    "pct": 92,
+    "n": 3
+   },
+   "frenteamplio|pnv": {
+    "pct": 69,
+    "n": 4
+   },
+   "frenteamplio|cc": {
+    "pct": 100,
+    "n": 1
+   },
+   "salf|erc": {
+    "pct": 38,
+    "n": 2
+   },
+   "salf|compromis": {
+    "pct": 19,
+    "n": 4
+   },
+   "salf|pnv": {
+    "pct": 25,
+    "n": 3
+   },
+   "salf|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "erc|compromis": {
+    "pct": 100,
+    "n": 2
+   },
+   "erc|pnv": {
+    "pct": 100,
+    "n": 1
+   },
+   "erc|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "compromis|pnv": {
+    "pct": 83,
+    "n": 3
+   },
+   "compromis|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "pnv|cc": {
+    "pct": 50,
+    "n": 1
+   }
+  },
+  "instituciones": {
+   "psoe|pp": {
+    "pct": 38,
+    "n": 2
+   },
+   "psoe|vox": {
+    "pct": 0,
+    "n": 1
+   },
+   "psoe|podemos": {
+    "pct": 100,
+    "n": 3
+   },
+   "psoe|frenteamplio": {
+    "pct": 100,
+    "n": 2
+   },
+   "psoe|salf": {
+    "pct": 100,
+    "n": 1
+   },
+   "psoe|erc": {
+    "pct": 100,
+    "n": 2
+   },
+   "psoe|compromis": {
+    "pct": 100,
+    "n": 3
+   },
+   "psoe|pnv": {
+    "pct": 100,
+    "n": 2
+   },
+   "psoe|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "pp|vox": {
+    "pct": 94,
+    "n": 4
+   },
+   "pp|podemos": {
+    "pct": 33,
+    "n": 3
+   },
+   "pp|frenteamplio": {
+    "pct": 12,
+    "n": 2
+   },
+   "pp|salf": {
+    "pct": 94,
+    "n": 4
+   },
+   "pp|erc": {
+    "pct": 25,
+    "n": 2
+   },
+   "pp|compromis": {
+    "pct": 42,
+    "n": 3
+   },
+   "pp|pnv": {
+    "pct": 25,
+    "n": 2
+   },
+   "pp|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "vox|podemos": {
+    "pct": 17,
+    "n": 3
+   },
+   "vox|frenteamplio": {
+    "pct": 25,
+    "n": 3
+   },
+   "vox|salf": {
+    "pct": 92,
+    "n": 3
+   },
+   "vox|erc": {
+    "pct": 25,
+    "n": 2
+   },
+   "vox|compromis": {
+    "pct": 25,
+    "n": 2
+   },
+   "vox|pnv": {
+    "pct": 25,
+    "n": 2
+   },
+   "vox|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "podemos|frenteamplio": {
+    "pct": 94,
+    "n": 4
+   },
+   "podemos|salf": {
+    "pct": 62,
+    "n": 2
+   },
+   "podemos|erc": {
+    "pct": 100,
+    "n": 2
+   },
+   "podemos|compromis": {
+    "pct": 94,
+    "n": 4
+   },
+   "podemos|pnv": {
+    "pct": 100,
+    "n": 2
+   },
+   "podemos|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "frenteamplio|salf": {
+    "pct": 25,
+    "n": 1
+   },
+   "frenteamplio|erc": {
+    "pct": 100,
+    "n": 2
+   },
+   "frenteamplio|compromis": {
+    "pct": 92,
+    "n": 3
+   },
+   "frenteamplio|pnv": {
+    "pct": 100,
+    "n": 2
+   },
+   "frenteamplio|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "salf|erc": {
+    "pct": 50,
+    "n": 1
+   },
+   "salf|compromis": {
+    "pct": 75,
+    "n": 2
+   },
+   "salf|pnv": {
+    "pct": 50,
+    "n": 1
+   },
+   "salf|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "erc|compromis": {
+    "pct": 100,
+    "n": 2
+   },
+   "erc|pnv": {
+    "pct": 100,
+    "n": 3
+   },
+   "erc|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "compromis|pnv": {
+    "pct": 100,
+    "n": 2
+   },
+   "compromis|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "pnv|cc": {
+    "pct": null,
+    "n": 0
+   }
+  },
+  "medioambiente": {
+   "psoe|pp": {
+    "pct": 25,
+    "n": 2
+   },
+   "psoe|vox": {
+    "pct": 12,
+    "n": 2
+   },
+   "psoe|podemos": {
+    "pct": 100,
+    "n": 2
+   },
+   "psoe|frenteamplio": {
+    "pct": 100,
+    "n": 2
+   },
+   "psoe|salf": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|erc": {
+    "pct": 100,
+    "n": 1
+   },
+   "psoe|compromis": {
+    "pct": 100,
+    "n": 2
+   },
+   "psoe|pnv": {
+    "pct": 75,
+    "n": 1
+   },
+   "psoe|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|vox": {
+    "pct": 83,
+    "n": 3
+   },
+   "pp|podemos": {
+    "pct": 25,
+    "n": 3
+   },
+   "pp|frenteamplio": {
+    "pct": 25,
+    "n": 3
+   },
+   "pp|salf": {
+    "pct": null,
+    "n": 0
+   },
+   "pp|erc": {
+    "pct": 50,
+    "n": 1
+   },
+   "pp|compromis": {
+    "pct": 25,
+    "n": 3
+   },
+   "pp|pnv": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "vox|podemos": {
+    "pct": 8,
+    "n": 3
+   },
+   "vox|frenteamplio": {
+    "pct": 6,
+    "n": 4
+   },
+   "vox|salf": {
+    "pct": 100,
+    "n": 1
+   },
+   "vox|erc": {
+    "pct": 25,
+    "n": 1
+   },
+   "vox|compromis": {
+    "pct": 6,
+    "n": 4
+   },
+   "vox|pnv": {
+    "pct": 50,
+    "n": 1
+   },
+   "vox|cc": {
+    "pct": 50,
+    "n": 1
+   },
+   "podemos|frenteamplio": {
+    "pct": 100,
+    "n": 5
+   },
+   "podemos|salf": {
+    "pct": null,
+    "n": 0
+   },
+   "podemos|erc": {
+    "pct": 100,
+    "n": 1
+   },
+   "podemos|compromis": {
+    "pct": 100,
+    "n": 5
+   },
+   "podemos|pnv": {
+    "pct": 75,
+    "n": 1
+   },
+   "podemos|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "frenteamplio|salf": {
+    "pct": 0,
+    "n": 1
+   },
+   "frenteamplio|erc": {
+    "pct": 100,
+    "n": 1
+   },
+   "frenteamplio|compromis": {
+    "pct": 100,
+    "n": 6
+   },
+   "frenteamplio|pnv": {
+    "pct": 75,
+    "n": 1
+   },
+   "frenteamplio|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "salf|erc": {
+    "pct": null,
+    "n": 0
+   },
+   "salf|compromis": {
+    "pct": 0,
+    "n": 1
+   },
+   "salf|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "salf|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "erc|compromis": {
+    "pct": 100,
+    "n": 1
+   },
+   "erc|pnv": {
+    "pct": 75,
+    "n": 1
+   },
+   "erc|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "compromis|pnv": {
+    "pct": 75,
+    "n": 1
+   },
+   "compromis|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "pnv|cc": {
+    "pct": 100,
+    "n": 1
+   }
+  },
+  "pensiones": {
+   "psoe|pp": {
+    "pct": 100,
+    "n": 1
+   },
+   "psoe|vox": {
+    "pct": 75,
+    "n": 1
+   },
+   "psoe|podemos": {
+    "pct": 88,
+    "n": 2
+   },
+   "psoe|frenteamplio": {
+    "pct": 92,
+    "n": 3
+   },
+   "psoe|salf": {
+    "pct": 88,
+    "n": 2
+   },
+   "psoe|erc": {
+    "pct": 92,
+    "n": 3
+   },
+   "psoe|compromis": {
+    "pct": 92,
+    "n": 3
+   },
+   "psoe|pnv": {
+    "pct": 88,
+    "n": 2
+   },
+   "psoe|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|vox": {
+    "pct": null,
+    "n": 0
+   },
+   "pp|podemos": {
+    "pct": null,
+    "n": 0
+   },
+   "pp|frenteamplio": {
+    "pct": 100,
+    "n": 1
+   },
+   "pp|salf": {
+    "pct": 100,
+    "n": 1
+   },
+   "pp|erc": {
+    "pct": 100,
+    "n": 1
+   },
+   "pp|compromis": {
+    "pct": 100,
+    "n": 1
+   },
+   "pp|pnv": {
+    "pct": 100,
+    "n": 1
+   },
+   "pp|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "vox|podemos": {
+    "pct": 75,
+    "n": 1
+   },
+   "vox|frenteamplio": {
+    "pct": 75,
+    "n": 1
+   },
+   "vox|salf": {
+    "pct": null,
+    "n": 0
+   },
+   "vox|erc": {
+    "pct": 75,
+    "n": 1
+   },
+   "vox|compromis": {
+    "pct": 75,
+    "n": 1
+   },
+   "vox|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "vox|cc": {
+    "pct": 100,
+    "n": 1
+   },
+   "podemos|frenteamplio": {
+    "pct": 94,
+    "n": 4
+   },
+   "podemos|salf": {
+    "pct": 67,
+    "n": 3
+   },
+   "podemos|erc": {
+    "pct": 92,
+    "n": 3
+   },
+   "podemos|compromis": {
+    "pct": 100,
+    "n": 4
+   },
+   "podemos|pnv": {
+    "pct": 67,
+    "n": 3
+   },
+   "podemos|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "frenteamplio|salf": {
+    "pct": 81,
+    "n": 4
+   },
+   "frenteamplio|erc": {
+    "pct": 100,
+    "n": 4
+   },
+   "frenteamplio|compromis": {
+    "pct": 95,
+    "n": 5
+   },
+   "frenteamplio|pnv": {
+    "pct": 81,
+    "n": 4
+   },
+   "frenteamplio|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "salf|erc": {
+    "pct": 83,
+    "n": 3
+   },
+   "salf|compromis": {
+    "pct": 75,
+    "n": 4
+   },
+   "salf|pnv": {
+    "pct": 100,
+    "n": 4
+   },
+   "salf|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "erc|compromis": {
+    "pct": 94,
+    "n": 4
+   },
+   "erc|pnv": {
+    "pct": 83,
+    "n": 3
+   },
+   "erc|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "compromis|pnv": {
+    "pct": 75,
+    "n": 4
+   },
+   "compromis|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "pnv|cc": {
+    "pct": null,
+    "n": 0
+   }
+  },
+  "rural": {
+   "psoe|pp": {
+    "pct": 100,
+    "n": 1
+   },
+   "psoe|vox": {
+    "pct": 100,
+    "n": 1
+   },
+   "psoe|podemos": {
+    "pct": 100,
+    "n": 2
+   },
+   "psoe|frenteamplio": {
+    "pct": 88,
+    "n": 2
+   },
+   "psoe|salf": {
+    "pct": 100,
+    "n": 1
+   },
+   "psoe|erc": {
+    "pct": 100,
+    "n": 1
+   },
+   "psoe|compromis": {
+    "pct": 88,
+    "n": 2
+   },
+   "psoe|pnv": {
+    "pct": 100,
+    "n": 1
+   },
+   "psoe|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "pp|vox": {
+    "pct": 92,
+    "n": 3
+   },
+   "pp|podemos": {
+    "pct": 62,
+    "n": 2
+   },
+   "pp|frenteamplio": {
+    "pct": 50,
+    "n": 3
+   },
+   "pp|salf": {
+    "pct": 100,
+    "n": 1
+   },
+   "pp|erc": {
+    "pct": 75,
+    "n": 2
+   },
+   "pp|compromis": {
+    "pct": 58,
+    "n": 3
+   },
+   "pp|pnv": {
+    "pct": 100,
+    "n": 1
+   },
+   "pp|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "vox|podemos": {
+    "pct": 62,
+    "n": 2
+   },
+   "vox|frenteamplio": {
+    "pct": 42,
+    "n": 3
+   },
+   "vox|salf": {
+    "pct": 100,
+    "n": 1
+   },
+   "vox|erc": {
+    "pct": 62,
+    "n": 2
+   },
+   "vox|compromis": {
+    "pct": 50,
+    "n": 3
+   },
+   "vox|pnv": {
+    "pct": 100,
+    "n": 1
+   },
+   "vox|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "podemos|frenteamplio": {
+    "pct": 83,
+    "n": 3
+   },
+   "podemos|salf": {
+    "pct": 100,
+    "n": 1
+   },
+   "podemos|erc": {
+    "pct": 100,
+    "n": 1
+   },
+   "podemos|compromis": {
+    "pct": 92,
+    "n": 3
+   },
+   "podemos|pnv": {
+    "pct": 100,
+    "n": 1
+   },
+   "podemos|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "frenteamplio|salf": {
+    "pct": 75,
+    "n": 1
+   },
+   "frenteamplio|erc": {
+    "pct": 75,
+    "n": 2
+   },
+   "frenteamplio|compromis": {
+    "pct": 75,
+    "n": 4
+   },
+   "frenteamplio|pnv": {
+    "pct": 75,
+    "n": 1
+   },
+   "frenteamplio|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "salf|erc": {
+    "pct": 100,
+    "n": 1
+   },
+   "salf|compromis": {
+    "pct": 100,
+    "n": 1
+   },
+   "salf|pnv": {
+    "pct": 100,
+    "n": 1
+   },
+   "salf|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "erc|compromis": {
+    "pct": 100,
+    "n": 2
+   },
+   "erc|pnv": {
+    "pct": 100,
+    "n": 1
+   },
+   "erc|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "compromis|pnv": {
+    "pct": 100,
+    "n": 1
+   },
+   "compromis|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "pnv|cc": {
+    "pct": null,
+    "n": 0
+   }
+  },
+  "sanidad": {
+   "psoe|pp": {
+    "pct": 75,
+    "n": 1
+   },
+   "psoe|vox": {
+    "pct": 62,
+    "n": 2
+   },
+   "psoe|podemos": {
+    "pct": 92,
+    "n": 3
+   },
+   "psoe|frenteamplio": {
+    "pct": 92,
+    "n": 3
+   },
+   "psoe|salf": {
+    "pct": 62,
+    "n": 2
+   },
+   "psoe|erc": {
+    "pct": 92,
+    "n": 3
+   },
+   "psoe|compromis": {
+    "pct": 92,
+    "n": 3
+   },
+   "psoe|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|vox": {
+    "pct": 100,
+    "n": 1
+   },
+   "pp|podemos": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|frenteamplio": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|salf": {
+    "pct": 100,
+    "n": 1
+   },
+   "pp|erc": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|compromis": {
+    "pct": 75,
+    "n": 1
+   },
+   "pp|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "pp|cc": {
+    "pct": 100,
+    "n": 1
+   },
+   "vox|podemos": {
+    "pct": 31,
+    "n": 4
+   },
+   "vox|frenteamplio": {
+    "pct": 50,
+    "n": 3
+   },
+   "vox|salf": {
+    "pct": 94,
+    "n": 4
+   },
+   "vox|erc": {
+    "pct": 50,
+    "n": 2
+   },
+   "vox|compromis": {
+    "pct": 33,
+    "n": 3
+   },
+   "vox|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "vox|cc": {
+    "pct": 100,
+    "n": 1
+   },
+   "podemos|frenteamplio": {
+    "pct": 94,
+    "n": 4
+   },
+   "podemos|salf": {
+    "pct": 25,
+    "n": 4
+   },
+   "podemos|erc": {
+    "pct": 100,
+    "n": 3
+   },
+   "podemos|compromis": {
+    "pct": 100,
+    "n": 4
+   },
+   "podemos|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "podemos|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "frenteamplio|salf": {
+    "pct": 42,
+    "n": 3
+   },
+   "frenteamplio|erc": {
+    "pct": 100,
+    "n": 3
+   },
+   "frenteamplio|compromis": {
+    "pct": 100,
+    "n": 3
+   },
+   "frenteamplio|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "frenteamplio|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "salf|erc": {
+    "pct": 50,
+    "n": 2
+   },
+   "salf|compromis": {
+    "pct": 33,
+    "n": 3
+   },
+   "salf|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "salf|cc": {
+    "pct": 100,
+    "n": 1
+   },
+   "erc|compromis": {
+    "pct": 100,
+    "n": 3
+   },
+   "erc|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "erc|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "compromis|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "compromis|cc": {
+    "pct": 75,
+    "n": 1
+   },
+   "pnv|cc": {
+    "pct": null,
+    "n": 0
+   }
+  },
+  "territorio": {
+   "psoe|pp": {
+    "pct": 50,
+    "n": 1
+   },
+   "psoe|vox": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|podemos": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|frenteamplio": {
+    "pct": 75,
+    "n": 1
+   },
+   "psoe|salf": {
+    "pct": 0,
+    "n": 1
+   },
+   "psoe|erc": {
+    "pct": 100,
+    "n": 1
+   },
+   "psoe|compromis": {
+    "pct": 100,
+    "n": 1
+   },
+   "psoe|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "psoe|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "pp|vox": {
+    "pct": 88,
+    "n": 2
+   },
+   "pp|podemos": {
+    "pct": null,
+    "n": 0
+   },
+   "pp|frenteamplio": {
+    "pct": 50,
+    "n": 3
+   },
+   "pp|salf": {
+    "pct": 62,
+    "n": 2
+   },
+   "pp|erc": {
+    "pct": 17,
+    "n": 3
+   },
+   "pp|compromis": {
+    "pct": 25,
+    "n": 2
+   },
+   "pp|pnv": {
+    "pct": 25,
+    "n": 2
+   },
+   "pp|cc": {
+    "pct": 25,
+    "n": 1
+   },
+   "vox|podemos": {
+    "pct": 25,
+    "n": 1
+   },
+   "vox|frenteamplio": {
+    "pct": 38,
+    "n": 4
+   },
+   "vox|salf": {
+    "pct": 100,
+    "n": 2
+   },
+   "vox|erc": {
+    "pct": 19,
+    "n": 4
+   },
+   "vox|compromis": {
+    "pct": 25,
+    "n": 4
+   },
+   "vox|pnv": {
+    "pct": 35,
+    "n": 5
+   },
+   "vox|cc": {
+    "pct": 33,
+    "n": 3
+   },
+   "podemos|frenteamplio": {
+    "pct": 100,
+    "n": 1
+   },
+   "podemos|salf": {
+    "pct": null,
+    "n": 0
+   },
+   "podemos|erc": {
+    "pct": null,
+    "n": 0
+   },
+   "podemos|compromis": {
+    "pct": 100,
+    "n": 1
+   },
+   "podemos|pnv": {
+    "pct": 75,
+    "n": 1
+   },
+   "podemos|cc": {
+    "pct": null,
+    "n": 0
+   },
+   "frenteamplio|salf": {
+    "pct": 42,
+    "n": 3
+   },
+   "frenteamplio|erc": {
+    "pct": 75,
+    "n": 4
+   },
+   "frenteamplio|compromis": {
+    "pct": 81,
+    "n": 4
+   },
+   "frenteamplio|pnv": {
+    "pct": 75,
+    "n": 4
+   },
+   "frenteamplio|cc": {
+    "pct": 88,
+    "n": 2
+   },
+   "salf|erc": {
+    "pct": 17,
+    "n": 3
+   },
+   "salf|compromis": {
+    "pct": 17,
+    "n": 3
+   },
+   "salf|pnv": {
+    "pct": 25,
+    "n": 2
+   },
+   "salf|cc": {
+    "pct": 38,
+    "n": 2
+   },
+   "erc|compromis": {
+    "pct": 100,
+    "n": 4
+   },
+   "erc|pnv": {
+    "pct": 88,
+    "n": 4
+   },
+   "erc|cc": {
+    "pct": 92,
+    "n": 3
+   },
+   "compromis|pnv": {
+    "pct": 94,
+    "n": 4
+   },
+   "compromis|cc": {
+    "pct": 92,
+    "n": 3
+   },
+   "pnv|cc": {
+    "pct": 92,
+    "n": 3
+   }
+  },
+  "vivienda": {
+   "psoe|pp": {
+    "pct": 45,
+    "n": 5
+   },
+   "psoe|vox": {
+    "pct": 64,
+    "n": 7
+   },
+   "psoe|podemos": {
+    "pct": 85,
+    "n": 5
+   },
+   "psoe|frenteamplio": {
+    "pct": 89,
+    "n": 7
+   },
+   "psoe|salf": {
+    "pct": 60,
+    "n": 5
+   },
+   "psoe|erc": {
+    "pct": 88,
+    "n": 4
+   },
+   "psoe|compromis": {
+    "pct": 79,
+    "n": 6
+   },
+   "psoe|pnv": {
+    "pct": 75,
+    "n": 2
+   },
+   "psoe|cc": {
+    "pct": 81,
+    "n": 4
+   },
+   "pp|vox": {
+    "pct": 90,
+    "n": 5
+   },
+   "pp|podemos": {
+    "pct": 17,
+    "n": 3
+   },
+   "pp|frenteamplio": {
+    "pct": 40,
+    "n": 5
+   },
+   "pp|salf": {
+    "pct": 92,
+    "n": 3
+   },
+   "pp|erc": {
+    "pct": 62,
+    "n": 2
+   },
+   "pp|compromis": {
+    "pct": 44,
+    "n": 4
+   },
+   "pp|pnv": {
+    "pct": null,
+    "n": 0
+   },
+   "pp|cc": {
+    "pct": 75,
+    "n": 2
+   },
+   "vox|podemos": {
+    "pct": 55,
+    "n": 5
+   },
+   "vox|frenteamplio": {
+    "pct": 61,
+    "n": 7
+   },
+   "vox|salf": {
+    "pct": 75,
+    "n": 5
+   },
+   "vox|erc": {
+    "pct": 75,
+    "n": 4
+   },
+   "vox|compromis": {
+    "pct": 71,
+    "n": 6
+   },
+   "vox|pnv": {
+    "pct": 88,
+    "n": 2
+   },
+   "vox|cc": {
+    "pct": 94,
+    "n": 4
+   },
+   "podemos|frenteamplio": {
+    "pct": 95,
+    "n": 5
+   },
+   "podemos|salf": {
+    "pct": 31,
+    "n": 4
+   },
+   "podemos|erc": {
+    "pct": 92,
+    "n": 3
+   },
+   "podemos|compromis": {
+    "pct": 85,
+    "n": 5
+   },
+   "podemos|pnv": {
+    "pct": 75,
+    "n": 2
+   },
+   "podemos|cc": {
+    "pct": 83,
+    "n": 3
+   },
+   "frenteamplio|salf": {
+    "pct": 50,
+    "n": 5
+   },
+   "frenteamplio|erc": {
+    "pct": 88,
+    "n": 4
+   },
+   "frenteamplio|compromis": {
+    "pct": 88,
+    "n": 6
+   },
+   "frenteamplio|pnv": {
+    "pct": 75,
+    "n": 2
+   },
+   "frenteamplio|cc": {
+    "pct": 81,
+    "n": 4
+   },
+   "salf|erc": {
+    "pct": 56,
+    "n": 4
+   },
+   "salf|compromis": {
+    "pct": 50,
+    "n": 5
+   },
+   "salf|pnv": {
+    "pct": 75,
+    "n": 2
+   },
+   "salf|cc": {
+    "pct": 62,
+    "n": 4
+   },
+   "erc|compromis": {
+    "pct": 88,
+    "n": 4
+   },
+   "erc|pnv": {
+    "pct": 88,
+    "n": 2
+   },
+   "erc|cc": {
+    "pct": 81,
+    "n": 4
+   },
+   "compromis|pnv": {
+    "pct": 88,
+    "n": 2
+   },
+   "compromis|cc": {
+    "pct": 94,
+    "n": 4
+   },
+   "pnv|cc": {
+    "pct": 88,
+    "n": 2
+   }
+  }
+ }
+}

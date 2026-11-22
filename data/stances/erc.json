@@ -1,0 +1,402 @@
+{
+ "viv-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-3": {
+  "v": 2,
+  "page": 19,
+  "note": "Pide al Estado el 1,5 % del PIB en vivienda y transferirlo a las comunidades para ampliar el parque público de alquiler; gestión por la Generalitat."
+ },
+ "viv-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-5": {
+  "v": 1,
+  "page": 20,
+  "note": "Propone nuevas limitaciones y obligaciones fiscales a fondos buitre y grandes tenedores que destinen pisos a usos distintos de vivienda habitual."
+ },
+ "viv-6": {
+  "v": 1,
+  "page": 19,
+  "note": "Propone bajar IVA e ITP si la compra es primera residencia (y subirlos en turística, segunda residencia o vacía); no habla de avales."
+ },
+ "viv-7": {
+  "v": 2,
+  "page": 19,
+  "note": "Propone subir el IVA del alquiler turístico al 21 % y encarecer la compra de vivienda para uso turístico."
+ },
+ "emp-1": {
+  "v": 2,
+  "page": 20,
+  "note": "Propone subir el SMI estatal al 60 % del salario medio bruto."
+ },
+ "emp-2": {
+  "v": 2,
+  "page": 26,
+  "note": "Propone reducir la jornada máxima semanal a 37,5 horas sin bajar el sueldo."
+ },
+ "emp-3": {
+  "v": 2,
+  "page": 26,
+  "note": "Propone recuperar los 45 días por año en despido improcedente y eliminar el tope de indemnización en despidos sin causa."
+ },
+ "emp-4": {
+  "v": 1,
+  "page": 26,
+  "note": "Propone cotización de autónomos según ingresos reales, con cuota reducida para quien gane menos que el SMI y cuota cero en enfermedad grave."
+ },
+ "emp-5": {
+  "v": 2,
+  "page": 20,
+  "note": "Propone que Cataluña pueda fijar un salario mínimo propio de 1.460 euros, superior al estatal."
+ },
+ "eco-1": {
+  "v": 1,
+  "page": 21,
+  "note": "Propone bajar los tipos del IRPF a rentas del trabajo inferiores a 35.000 euros, no una bajada general."
+ },
+ "eco-2": {
+  "v": 2,
+  "page": 22,
+  "note": "Propone hacer permanente el impuesto a grandes fortunas, subir el tipo a patrimonios de más de 10 millones y crear tramo desde 100 millones."
+ },
+ "eco-3": {
+  "v": 2,
+  "page": 22,
+  "note": "Propone recuperar el impuesto a las grandes energéticas y hacer permanente el impuesto extraordinario a la banca."
+ },
+ "eco-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-5": {
+  "v": 1,
+  "page": 22,
+  "note": "Propone completar la licencia bancaria plena del Instituto Catalán de Finanzas y servicio bancario universal; no plantea banca pública estatal."
+ },
+ "eco-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-1": {
+  "v": 2,
+  "page": 26,
+  "note": "Propone blindar la revalorización de las pensiones públicas con la inflación."
+ },
+ "pen-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-3": {
+  "v": 2,
+  "page": 26,
+  "note": "Propone jubilación anticipada sin penalización en profesiones penosas o peligrosas, en especial conductores profesionales y Agentes Rurales."
+ },
+ "pen-4": {
+  "v": 2,
+  "page": 21,
+  "note": "Propone una prestación universal por crianza desde 200 euros por familia y adaptar el ingreso mínimo vital al coste de vida."
+ },
+ "pen-5": {
+  "v": -1,
+  "page": 25,
+  "note": "Defiende un sistema público de pensiones y rechaza privatizar las pensiones."
+ },
+ "san-1": {
+  "v": 2,
+  "page": 41,
+  "note": "Propone defender el sistema público y frenar la privatización de la sanidad."
+ },
+ "san-2": {
+  "v": 2,
+  "page": 42,
+  "note": "Propone incorporar la atención dental integral y gratuita en la cartera pública."
+ },
+ "san-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-5": {
+  "v": 2,
+  "page": 42,
+  "note": "Propone acceso universal y gratuito a la atención psicológica y a la salud mental."
+ },
+ "edu-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-3": {
+  "v": 2,
+  "page": 11,
+  "note": "Propone una plaza pública y gratuita de 0 a 3 años para todos los niños, financiada por el Estado."
+ },
+ "edu-4": {
+  "v": -2,
+  "page": 10,
+  "note": "Defiende el catalán como lengua vehicular y la inmersión lingüística, y cambiar la ley estatal para impedir porcentajes lingüísticos impuestos."
+ },
+ "edu-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-1": {
+  "v": 2,
+  "page": 24,
+  "note": "Propone reformar la Ley Orgánica 1/2004 para proteger frente a todas las violencias machistas y regular la violencia vicaria."
+ },
+ "igu-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-3": {
+  "v": 2,
+  "page": 24,
+  "note": "Propone reconocer legalmente las identidades no binarias, sin requisitos patologizantes."
+ },
+ "igu-4": {
+  "v": 1,
+  "page": 24,
+  "note": "Propone un permiso retribuido por duelo gestacional e igualar derechos de ambos progenitores ante la pérdida gestacional."
+ },
+ "igu-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-2": {
+  "v": -1,
+  "page": 14,
+  "note": "Propone condicionar el Reglamento europeo de Retorno a garantías de derechos, evitar deportaciones automáticas y acabar con la externalización de fronteras."
+ },
+ "inm-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-5": {
+  "v": -1,
+  "page": 25,
+  "note": "Propone combatir la discriminación racial en empleo y vivienda y perseguir a organizaciones que promueven el racismo."
+ },
+ "inm-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-2": {
+  "v": 2,
+  "page": 29,
+  "note": "Propone un modelo energético 100 % renovable y reducir emisiones al menos un 65 % en 2030 y un 95 % en 2040."
+ },
+ "med-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-2": {
+  "v": 2,
+  "page": 32,
+  "note": "Propone que el Gobierno rechace ratificar el acuerdo UE-Mercosur y exigir reciprocidad de normas a los productos importados."
+ },
+ "rur-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-4": {
+  "v": -1,
+  "page": 31,
+  "note": "Propone modificar el Plan Hidrológico del Ebro para garantizar caudales ecológicos y proteger el Delta."
+ },
+ "ter-1": {
+  "v": 2,
+  "page": 8,
+  "note": "Propone negociar un referéndum de autodeterminación en Cataluña con acompañamiento internacional."
+ },
+ "ter-2": {
+  "v": -2,
+  "page": 15,
+  "note": "Propone traspasar a la Generalitat inmuebles estatales, Inspección de Trabajo, Rodalies y otras competencias; blindar las competencias en salud."
+ },
+ "ter-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-4": {
+  "v": 2,
+  "page": 12,
+  "note": "Propone un nuevo modelo de financiación con cobro directo de impuestos y ordinalidad, y una Agencia Tributaria de Cataluña."
+ },
+ "ter-5": {
+  "v": 2,
+  "page": 12,
+  "note": "Propone condonar los más de 17.100 millones del FLA, la deuda de la Generalitat con el Estado."
+ },
+ "ter-6": {
+  "v": 2,
+  "page": 14,
+  "note": "Propone traspasar competencias en migración, Rodalies, aeropuertos, Inspección de Trabajo y exigir competencias exclusivas en educación."
+ },
+ "ins-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-3": {
+  "v": 2,
+  "page": 8,
+  "note": "Propone derogar la Ley mordaza (Ley Orgánica 4/2015)."
+ },
+ "ins-4": {
+  "v": 0,
+  "page": 43,
+  "note": "Propone endurecer penas por tenencia ilícita de armas y robo de cable, y por maltrato animal; no habla de prisión permanente."
+ },
+ "ins-5": {
+  "v": 2,
+  "page": 7,
+  "note": "Exige al Estado que cumpla la Ley de Memoria Democrática y propone reparar a víctimas y convertir Vía Laietana en espacio de memoria."
+ },
+ "ins-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-2": {
+  "v": 0,
+  "page": 16,
+  "note": "Pide una defensa europea autónoma de la OTAN, pero no propone salir de la alianza."
+ },
+ "ext-3": {
+  "v": 2,
+  "page": 16,
+  "note": "Propone un embargo completo de armas a Israel y que la UE suspenda su acuerdo de asociación."
+ },
+ "ext-4": {
+  "v": 1,
+  "page": 17,
+  "note": "Propone una UE con estrategia de seguridad propia, presupuesto común más ambicioso e impuesto digital propio."
+ },
+ "ext-5": {
+  "v": 2,
+  "page": 16,
+  "note": "Propone revertir la posición española de 2022 y condicionar acuerdos con Marruecos a la soberanía saharaui."
+ },
+ "ext-6": {
+  "v": 1,
+  "page": 16,
+  "note": "Propone mantener el apoyo a Ucrania con ayuda desde la UE y vía diplomática y de negociación."
+ },
+ "cul-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-2": {
+  "v": 2,
+  "page": 35,
+  "note": "Propone exigir transparencia y supervisión humana a la IA, proteger a menores y combatir diseños adictivos de las plataformas."
+ },
+ "cul-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-4": {
+  "v": 1,
+  "page": 45,
+  "note": "Propone aumentar la inversión estatal en investigación hasta el 1,5 % del PIB y en universidades hasta el 1 % en 2030."
+ },
+ "cul-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-6": {
+  "v": 2,
+  "page": 17,
+  "note": "Propone ley del plurilingüismo y pedir que catalán, occitano y lengua de signos catalana sean oficiales en la UE."
+ }
+}

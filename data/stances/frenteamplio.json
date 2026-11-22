@@ -1,0 +1,402 @@
+{
+ "viv-1": {
+  "v": 2,
+  "page": 13,
+  "note": "Propone topar por ley el alquiler en zonas tensionadas, con cuota máxima del 25 % de la renta neta media."
+ },
+ "viv-2": {
+  "v": -1,
+  "page": 13,
+  "note": "Toma la Ley de Vivienda como base y propone ampliarla, no derogarla."
+ },
+ "viv-3": {
+  "v": 2,
+  "page": 10,
+  "note": "Destina el 1 % del PIB anual a crear 1,5 millones de viviendas públicas en alquiler, hasta el 20 % del parque en 2035."
+ },
+ "viv-4": {
+  "v": -1,
+  "page": 15,
+  "note": "No trata la okupación; propone erradicar los desahucios de familias vulnerables sin alternativa habitacional."
+ },
+ "viv-5": {
+  "v": 2,
+  "page": 11,
+  "note": "Prohíbe comprar vivienda a personas jurídicas con ánimo de lucro y grava con un 10 % grandes tenencias; incluye compras de no residentes."
+ },
+ "viv-6": {
+  "v": 2,
+  "page": 19,
+  "note": "Propone eliminar el impuesto de transmisiones para la primera vivienda habitual y un sistema de avales y garantías."
+ },
+ "viv-7": {
+  "v": 2,
+  "page": 12,
+  "note": "Extingue en tres años las licencias de pisos turísticos en edificios residenciales de zonas tensionadas y les aplica IVA general."
+ },
+ "emp-1": {
+  "v": 2,
+  "page": 51,
+  "note": "Fija por ley que el SMI sea al menos el 60 % del salario medio neto."
+ },
+ "emp-2": {
+  "v": 2,
+  "page": 56,
+  "note": "Reduce la jornada progresivamente hasta 32 horas semanales sin bajar el sueldo, empezando por 37,5."
+ },
+ "emp-3": {
+  "v": 2,
+  "page": 53,
+  "note": "Reforma el despido improcedente para que repare el daño real y recupera la autorización administrativa en despidos colectivos."
+ },
+ "emp-4": {
+  "v": 1,
+  "page": 92,
+  "note": "Mantiene la tarifa plana de autónomos de 88 euros mientras sus ingresos sean inferiores al SMI anual."
+ },
+ "emp-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-1": {
+  "v": 0,
+  "page": 46,
+  "note": "Baja el IRPF solo a rentas del trabajo hasta 27.000 euros y sube los tipos a rentas altas."
+ },
+ "eco-2": {
+  "v": 2,
+  "page": 45,
+  "note": "Patrimonios de más de 1 millón pagarían al menos un 2 % y crea la Tasa Zucman del 3 % sobre más de 50 millones."
+ },
+ "eco-3": {
+  "v": 2,
+  "page": 44,
+  "note": "Impone un tipo mínimo efectivo del 20 % en Sociedades a grandes empresas y grupos."
+ },
+ "eco-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-5": {
+  "v": 2,
+  "page": 84,
+  "note": "Crea una banca pública estatal uniendo el ICO, Correos y el peso público en CaixaBank."
+ },
+ "eco-6": {
+  "v": -2,
+  "page": 46,
+  "note": "Propone un impuesto estatal sobre grandes herencias, con tope de 10 millones por persona y 100 % sobre el exceso."
+ },
+ "pen-1": {
+  "v": 2,
+  "page": 57,
+  "note": "Propone reformar la Constitución para garantizar la revalorización automática de las pensiones con el IPC."
+ },
+ "pen-2": {
+  "v": 2,
+  "page": 57,
+  "note": "Garantiza que ninguna pensión sea inferior al SMI y sube el IPREM hasta un suelo de 700 euros."
+ },
+ "pen-3": {
+  "v": 2,
+  "page": 58,
+  "note": "Devuelve la edad de jubilación a 65, permite jubilarse a 60 en oficios penosos y elimina coeficientes tras 40 años cotizados."
+ },
+ "pen-4": {
+  "v": 2,
+  "page": 22,
+  "note": "Reforma el Ingreso Mínimo Vital para concederlo de oficio y crea una Prestación Universal por Crianza de 200 euros al mes."
+ },
+ "pen-5": {
+  "v": -1,
+  "page": 46,
+  "note": "Propone eliminar las deducciones fiscales por planes de pensiones privados individuales."
+ },
+ "san-1": {
+  "v": 2,
+  "page": 26,
+  "note": "Deroga la Ley 15/1997, hace excepcional la gestión indirecta y planifica la vuelta a gestión pública de servicios privatizados."
+ },
+ "san-2": {
+  "v": 2,
+  "page": 27,
+  "note": "Amplía la salud bucodental pública hasta cubrir al menos al 50 % de la población."
+ },
+ "san-3": {
+  "v": -1,
+  "page": 26,
+  "note": "Propone hacer excepcional la gestión privada; su decreto de listas de espera se plantea dentro del sistema público."
+ },
+ "san-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-5": {
+  "v": 2,
+  "page": 28,
+  "note": "Sube los profesionales de salud mental hasta 10 por cada 100.000 habitantes."
+ },
+ "edu-1": {
+  "v": -2,
+  "page": 31,
+  "note": "Prohíbe cuotas en concertados y avanza hacia que el 100 % de los fondos públicos vaya a la educación pública."
+ },
+ "edu-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-3": {
+  "v": 2,
+  "page": 22,
+  "note": "Plazas públicas gratuitas de 0 a 3 años para toda familia que lo pida."
+ },
+ "edu-4": {
+  "v": -2,
+  "page": 32,
+  "note": "Garantiza la inmersión lingüística en catalán como lengua vehicular en Cataluña."
+ },
+ "edu-5": {
+  "v": 2,
+  "page": 33,
+  "note": "Reduce los precios de la universidad pública hacia la gratuidad."
+ },
+ "edu-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-1": {
+  "v": 2,
+  "page": 38,
+  "note": "Destina por ley al menos el 5 % del presupuesto a igualdad y sube cada año un 10 % la partida contra la violencia machista."
+ },
+ "igu-2": {
+  "v": 2,
+  "page": 37,
+  "note": "Blinda en la Constitución el aborto libre y universal en la sanidad pública."
+ },
+ "igu-3": {
+  "v": 2,
+  "page": 123,
+  "note": "Propone desplegar la Ley Trans y reconocer a las personas no binarias."
+ },
+ "igu-4": {
+  "v": 2,
+  "page": 24,
+  "note": "Amplía el permiso por nacimiento hasta 20 semanas por progenitor, intransferibles."
+ },
+ "igu-5": {
+  "v": -1,
+  "page": 39,
+  "note": "Propone eliminar toda normativa que penalice a quienes ejercen la prostitución y garantizarles derechos laborales; no habla de abolirla."
+ },
+ "inm-1": {
+  "v": 2,
+  "page": 126,
+  "note": "Reforma la Ley de Extranjería para crear un procedimiento estable y permanente de regularización."
+ },
+ "inm-2": {
+  "v": -2,
+  "page": 127,
+  "note": "Cierra los CIE, deroga el rechazo en frontera y prohíbe devoluciones encubiertas."
+ },
+ "inm-3": {
+  "v": 2,
+  "page": 127,
+  "note": "Propone cerrar los Centros de Internamiento de Extranjeros."
+ },
+ "inm-4": {
+  "v": 2,
+  "page": 41,
+  "note": "Propone un acuerdo marco vinculante para un reparto solidario y equitativo de la infancia migrante entre comunidades."
+ },
+ "inm-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-1": {
+  "v": -2,
+  "page": 64,
+  "note": "Cumplirá el calendario de cierre de las centrales nucleares, incluidas Almaraz I y II en 2027-2028."
+ },
+ "med-2": {
+  "v": 2,
+  "page": 60,
+  "note": "Fija por ley el 81 % de renovables en 2030 y reducir emisiones un 85 % en 2040."
+ },
+ "med-3": {
+  "v": -2,
+  "page": 130,
+  "note": "Apuesta por implementar la Agenda 2030 y cita el Pacto Verde Europeo como marco de sus medidas."
+ },
+ "med-4": {
+  "v": 2,
+  "page": 68,
+  "note": "Prohíbe los vuelos domésticos de corto radio con alternativa en tren."
+ },
+ "med-5": {
+  "v": 2,
+  "page": 63,
+  "note": "Crea una comercializadora eléctrica pública de referencia y hace públicas las redes de distribución."
+ },
+ "med-6": {
+  "v": 2,
+  "page": 34,
+  "note": "Deroga la ley que protege la tauromaquia como patrimonio cultural y suprime las subvenciones estatales a los toros."
+ },
+ "rur-1": {
+  "v": 0,
+  "page": 87,
+  "note": "Vincula la caza y la pesca a la mejora de los recursos e incluye a los perros de caza en la ley de bienestar animal."
+ },
+ "rur-2": {
+  "v": 1,
+  "page": 133,
+  "note": "Activará cláusulas de salvaguarda del acuerdo UE-Mercosur cuando las importaciones agrarias generen competencia desleal."
+ },
+ "rur-3": {
+  "v": 2,
+  "page": 87,
+  "note": "Reforma la PAC para dirigir el dinero a explotaciones familiares pequeñas y medianas y elimina las ayudas por derechos históricos."
+ },
+ "rur-4": {
+  "v": -2,
+  "page": 74,
+  "note": "Propone una moratoria a nuevos embalses, trasvases y grandes infraestructuras hidráulicas."
+ },
+ "ter-1": {
+  "v": 1,
+  "page": 140,
+  "note": "Plantea un Estado federal y plurinacional que regule el referéndum y reconozca el derecho a decidir."
+ },
+ "ter-2": {
+  "v": -2,
+  "page": 140,
+  "note": "Propone una República Federal con un pacto territorial que respete las competencias autonómicas."
+ },
+ "ter-3": {
+  "v": 2,
+  "page": 140,
+  "note": "Propone avanzar hacia una República Federal y plurinacional y convertir el Senado en cámara territorial."
+ },
+ "ter-4": {
+  "v": 0,
+  "page": 103,
+  "note": "Propone más autonomía financiera y capacidad tributaria para las comunidades en general, sin pedir un régimen singular."
+ },
+ "ter-5": {
+  "v": 1,
+  "page": 104,
+  "note": "Condona deuda autonómica con condiciones: no hacer dumping fiscal ni bajar impuestos a rentas altas."
+ },
+ "ter-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-1": {
+  "v": -1,
+  "page": 148,
+  "note": "Los vocales del turno judicial se elegirían por las Cámaras (tres quintos, luego mayoría), no por los jueces."
+ },
+ "ins-2": {
+  "v": 1,
+  "page": 140,
+  "note": "Aspira a una democracia en la que también se elija la Jefatura del Estado; no menciona un referéndum concreto."
+ },
+ "ins-3": {
+  "v": 2,
+  "page": 142,
+  "note": "Deroga por completo la Ley Mordaza y los delitos de ofensas a símbolos e injurias a la Corona."
+ },
+ "ins-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-5": {
+  "v": 2,
+  "page": 146,
+  "note": "Propone el desarrollo reglamentario de la Ley de Memoria Democrática y su cumplimiento íntegro."
+ },
+ "ins-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-1": {
+  "v": -2,
+  "page": 130,
+  "note": "Rechaza el objetivo del 5 % del PIB de la OTAN e impulsa reducir las partidas militares."
+ },
+ "ext-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-3": {
+  "v": 2,
+  "page": 131,
+  "note": "Aprueba una ley de embargo integral, total y permanente de armas a Israel, sin excepciones."
+ },
+ "ext-4": {
+  "v": 1,
+  "page": 137,
+  "note": "Propone superar el Pacto de Estabilidad y reformar los tratados del BCE para ampliar su mandato."
+ },
+ "ext-5": {
+  "v": 2,
+  "page": 132,
+  "note": "Apoya la autodeterminación del pueblo saharaui mediante un referéndum libre."
+ },
+ "ext-6": {
+  "v": 0,
+  "page": 133,
+  "note": "Muestra solidaridad con Ucrania y busca una paz por vías diplomáticas; no menciona apoyo militar."
+ },
+ "cul-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-2": {
+  "v": 2,
+  "page": 119,
+  "note": "Tipifica como delito la desobediencia de directivos de plataformas a órdenes de retirar contenidos ilícitos."
+ },
+ "cul-3": {
+  "v": 1,
+  "page": 41,
+  "note": "Propone regulación severa de plataformas para menores de 16 años sin verificación de edad que respete la privacidad."
+ },
+ "cul-4": {
+  "v": 2,
+  "page": 80,
+  "note": "Alcanza el 3 % del PIB en I+D+i en 2030 y el 4 % en la década siguiente."
+ },
+ "cul-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-6": {
+  "v": 2,
+  "page": 141,
+  "note": "Aprueba una ley del plurilingüismo para relacionarse con las instituciones del Estado en lenguas cooficiales."
+ }
+}

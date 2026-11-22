@@ -1,0 +1,402 @@
+{
+ "viv-1": {
+  "v": -2,
+  "page": 42,
+  "note": "Propone eliminar las zonas tensionadas y el índice de precios del alquiler."
+ },
+ "viv-2": {
+  "v": 2,
+  "page": 42,
+  "note": "Propone derogar la Ley de Vivienda para recuperar la seguridad jurídica de propietarios e inquilinos."
+ },
+ "viv-3": {
+  "v": 0,
+  "page": 41,
+  "note": "Impulsa vivienda social en suelo dotacional y financiación para vivienda asequible, pero no plantea un gran parque estatal en alquiler."
+ },
+ "viv-4": {
+  "v": 2,
+  "page": 43,
+  "note": "Propone que el propietario recupere la vivienda ocupada en 48 horas por orden judicial y juicios rápidos."
+ },
+ "viv-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-6": {
+  "v": 2,
+  "page": 43,
+  "note": "IVA del 4% en la primera vivienda para menores de 40 años y ampliación del aval público hasta el 20%."
+ },
+ "viv-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-4": {
+  "v": 2,
+  "page": 46,
+  "note": "Propone tarifa cero de cuota el primer año a nuevos autónomos y bonificar el 100% de cotizaciones del primer trabajador."
+ },
+ "emp-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-1": {
+  "v": 1,
+  "page": 47,
+  "note": "Propone elevar los mínimos del IRPF y bajar el impuesto a rentas medias y bajas, y deflactar la tarifa."
+ },
+ "eco-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-4": {
+  "v": 1,
+  "page": 13,
+  "note": "Propone auditar el gasto, reducir la estructura política y fusionar organismos duplicados; no habla de recorte general."
+ },
+ "eco-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-1": {
+  "v": 2,
+  "page": 34,
+  "note": "Garantizar que las pensiones suban cada año con el IPC y mantengan su poder adquisitivo."
+ },
+ "pen-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-5": {
+  "v": 1,
+  "page": 53,
+  "note": "Plan Nacional de Salud Mental 2027-2037 con financiación garantizada; no detalla más psicólogos o psiquiatras."
+ },
+ "edu-1": {
+  "v": 2,
+  "page": 51,
+  "note": "Libertad de elegir colegio en todo el municipio y ningún concierto se eliminará donde haya demanda."
+ },
+ "edu-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-3": {
+  "v": 2,
+  "page": 44,
+  "note": "Escuela infantil de 0 a 3 años gratuita al terminar la legislatura, con financiación al 50% Estado-comunidades."
+ },
+ "edu-4": {
+  "v": 2,
+  "page": 32,
+  "note": "Derecho a recibir enseñanza en castellano en todas las etapas y en toda España."
+ },
+ "edu-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-1": {
+  "v": 1,
+  "page": 17,
+  "note": "Mantiene el Pacto de Estado y refuerza VioGen y las secciones de violencia sobre la mujer."
+ },
+ "igu-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-3": {
+  "v": -2,
+  "page": 35,
+  "note": "Propone revisar la Ley Trans y eliminar la libre autodeterminación registral del sexo."
+ },
+ "igu-4": {
+  "v": 2,
+  "page": 44,
+  "note": "Propone ampliar los permisos por nacimiento y dar más flexibilidad a cada progenitor."
+ },
+ "igu-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-1": {
+  "v": -2,
+  "page": 19,
+  "note": "Propone prohibir por ley las regularizaciones masivas e indiscriminadas; el arraigo será excepcional."
+ },
+ "inm-2": {
+  "v": 2,
+  "page": 19,
+  "note": "Expulsión como regla para delincuentes, cumplimiento de órdenes de retorno y refuerzo de agentes y Frontex en la frontera."
+ },
+ "inm-3": {
+  "v": -2,
+  "page": 19,
+  "note": "Propone ampliar el tiempo máximo de permanencia en los centros de internamiento, dentro de los límites europeos."
+ },
+ "inm-4": {
+  "v": -2,
+  "page": 20,
+  "note": "Prioriza el retorno de los menores con su familia en lugar del reparto entre comunidades."
+ },
+ "inm-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-6": {
+  "v": 2,
+  "page": 39,
+  "note": "Nueva Ley de Nacionalidad con más requisitos de residencia, idioma y antecedentes."
+ },
+ "med-1": {
+  "v": 2,
+  "page": 54,
+  "note": "Eliminar el calendario de cierre nuclear y ampliar la vida útil de las centrales en los primeros cien días."
+ },
+ "med-2": {
+  "v": 0,
+  "page": 55,
+  "note": "Considera la descarbonización un objetivo irrenunciable, pero revisará los ritmos y retirará obligaciones que perjudiquen a industria y empleo."
+ },
+ "med-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-6": {
+  "v": -1,
+  "page": 38,
+  "note": "Propone restituir el Premio Nacional de Tauromaquia y proteger las tradiciones populares."
+ },
+ "rur-1": {
+  "v": 2,
+  "page": 51,
+  "note": "Propone defender la caza y proteger fiestas y tradiciones populares."
+ },
+ "rur-2": {
+  "v": 2,
+  "page": 50,
+  "note": "Exigir a los alimentos importados las mismas normas de seguridad y producción que a los españoles."
+ },
+ "rur-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-4": {
+  "v": 1,
+  "page": 37,
+  "note": "Pacto Nacional del Agua con 40.000 millones en regadío, desalación y reutilización; no menciona trasvases."
+ },
+ "ter-1": {
+  "v": -2,
+  "page": 15,
+  "note": "Propone recuperar en el Código Penal el delito de convocatoria de referéndum ilegal."
+ },
+ "ter-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-4": {
+  "v": -2,
+  "page": 33,
+  "note": "Ninguna comunidad saldrá del régimen común ni habrá nuevos regímenes singulares negociados bilateralmente."
+ },
+ "ter-5": {
+  "v": 0,
+  "page": 33,
+  "note": "Cada comunidad responderá de su deuda, pero propone una reestructuración multilateral de la deuda autonómica."
+ },
+ "ter-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-1": {
+  "v": 2,
+  "page": 27,
+  "note": "Los doce vocales judiciales del CGPJ serán elegidos por los propios jueces."
+ },
+ "ins-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-4": {
+  "v": 2,
+  "page": 17,
+  "note": "Ampliar la prisión permanente revisable a quien oculte el cadáver y a depredadores sexuales reincidentes."
+ },
+ "ins-5": {
+  "v": -2,
+  "page": 37,
+  "note": "Propone derogar la Ley de Memoria Democrática y sustituirla por una ley de concordia."
+ },
+ "ins-6": {
+  "v": 2,
+  "page": 13,
+  "note": "Habrá menos ministerios, altos cargos y asesores."
+ },
+ "ins-7": {
+  "v": 1,
+  "page": 25,
+  "note": "Propone revisar los aforamientos para devolverlos a una concepción limitada y justificada."
+ },
+ "ext-1": {
+  "v": 1,
+  "page": 21,
+  "note": "Ley de programación y financiación de la defensa y más efectivos; no fija un porcentaje del PIB."
+ },
+ "ext-2": {
+  "v": -2,
+  "page": 21,
+  "note": "Propone reforzar los contingentes españoles en la OTAN."
+ },
+ "ext-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-6": {
+  "v": 2,
+  "page": 56,
+  "note": "Mantener el apoyo político, económico, militar y humanitario a Ucrania y las sanciones a Rusia."
+ },
+ "cul-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-2": {
+  "v": -1,
+  "page": 48,
+  "note": "Plantea entornos de prueba sin cargas nacionales añadidas al marco europeo de IA; la agencia acompañará a las empresas."
+ },
+ "cul-3": {
+  "v": 1,
+  "page": 45,
+  "note": "Ningún menor de 14 años con redes sociales y autorización paterna hasta los 16, con verificación de edad."
+ },
+ "cul-4": {
+  "v": 1,
+  "page": 48,
+  "note": "Financiación pública de I+D con continuidad y mayor deducción por investigación; no fija un aumento grande."
+ },
+ "cul-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-6": {
+  "v": 0,
+  "page": 37,
+  "note": "Castellano como lengua de trabajo en el Congreso; mantiene las cooficiales en el Senado y las promueve como patrimonio cultural."
+ }
+}

@@ -1,0 +1,402 @@
+{
+ "viv-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-3": {
+  "v": 1,
+  "page": 10,
+  "note": "Propone un fondo estatal de ocho años para cofinanciar vivienda pública y asequible (construir, comprar, rehabilitar)."
+ },
+ "viv-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "viv-5": {
+  "v": 2,
+  "page": 11,
+  "note": "Propone reformas para limitar la compra de vivienda en Canarias por extranjeros y una Ley Canaria de Residencia."
+ },
+ "viv-6": {
+  "v": 1,
+  "page": 11,
+  "note": "Apoya deducciones por primera vivienda para jóvenes y familias de rentas medias y bajas."
+ },
+ "viv-7": {
+  "v": 1,
+  "page": 11,
+  "note": "Pide cobertura legal para limitar la vivienda vacacional donde haya presión sobre la vivienda residencial, distinguiendo uso ocasional e intensivo."
+ },
+ "emp-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "emp-4": {
+  "v": 1,
+  "page": 12,
+  "note": "Pide bonificaciones en cotizaciones ligadas a subidas salariales pactadas y más ayudas a autónomos con menos ingresos."
+ },
+ "emp-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "eco-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "pen-4": {
+  "v": 1,
+  "page": 10,
+  "note": "Propone que Canarias tramite el ingreso mínimo vital y abrir debate sobre ayudas a la crianza."
+ },
+ "pen-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "san-5": {
+  "v": 1,
+  "page": 9,
+  "note": "Reclama más fondos estatales para salud mental en Canarias, con mejoras en atención primaria y servicios especializados."
+ },
+ "edu-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-3": {
+  "v": 1,
+  "page": 9,
+  "note": "Pide reforzar la financiación estatal para plazas públicas gratuitas y de calidad de 0 a 3 años."
+ },
+ "edu-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "edu-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-1": {
+  "v": 1,
+  "page": 10,
+  "note": "Reclama financiación estatal suficiente para aplicar el Pacto de Estado contra la violencia de género en todas las islas."
+ },
+ "igu-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "igu-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-4": {
+  "v": 2,
+  "page": 19,
+  "note": "Propone solidaridad obligatoria y automática: traslados a otras comunidades cuando se superen umbrales, con los cambios legales necesarios."
+ },
+ "inm-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "inm-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-2": {
+  "v": 1,
+  "page": 15,
+  "note": "Propone sustituir progresivamente centrales térmicas por renovables y reducir fósiles, sin poner en riesgo el suministro."
+ },
+ "med-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "med-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "rur-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-2": {
+  "v": -2,
+  "page": 8,
+  "note": "Se opone a la recentralización y a cualquier retroceso en la capacidad de decisión de Canarias."
+ },
+ "ter-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-4": {
+  "v": 1,
+  "page": 8,
+  "note": "Pide financiación autonómica suficiente que reconozca el coste de la insularidad y que el REF no cuente como financiación ordinaria."
+ },
+ "ter-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ter-6": {
+  "v": 2,
+  "page": 8,
+  "note": "Exige un calendario verificable para completar los traspasos pendientes del Estatuto de Autonomía, con medios suficientes."
+ },
+ "ins-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ins-7": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-4": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "ext-5": {
+  "v": 1,
+  "page": 20,
+  "note": "Apoya una solución para el Sáhara Occidental conforme a las resoluciones de la ONU, sin mencionar la autodeterminación."
+ },
+ "ext-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-1": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-2": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-3": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-4": {
+  "v": 1,
+  "page": 14,
+  "note": "Pide financiación plurianual estatal para universidades canarias, astrofísica, ciencias marinas y biotecnología, y reforzar PLOCAN."
+ },
+ "cul-5": {
+  "v": null,
+  "page": null,
+  "note": ""
+ },
+ "cul-6": {
+  "v": null,
+  "page": null,
+  "note": ""
+ }
+}

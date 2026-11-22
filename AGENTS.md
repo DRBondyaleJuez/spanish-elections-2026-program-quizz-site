@@ -64,6 +64,7 @@ Usar estos ids en todo el proyecto. Si un tema no encaja, ponerlo en `otros`. No
 ```
 
 **`data/positions.json`** — `[{ "id", "topic", "statement", "stances": { "<party>": { "v": -2..2 | null, "page": N, "note": "…" } } }]`
+- No editar `stances` a mano en positions.json: editar `data/stances/<partido>.json` y ejecutar `python tools/merge_stances.py`. `v: null` = no lo menciona (no se deduce por ideología).
 
 **`data/questions/<id>.json`** (también `mesa.json`)
 ```json

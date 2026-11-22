@@ -70,6 +70,8 @@ table.heat { border-collapse:collapse; font-size:.8rem; min-width:100%; }
 .bar div { background:var(--bg); border-radius:6px; height:12px; overflow:hidden; }
 .bar i { display:block; height:100%; }
 .bar b { text-align:right; }
+.bar b small { display:block; font-weight:400; font-size:.68rem; color:var(--muted); }
+.bar.weak { opacity:.55; }
 ul.cmp { list-style:none; padding:0; }
 ul.cmp li { border-top:1px solid var(--border); padding-top:8px; }
 .stance { display:inline-block; font-size:.78rem; padding:2px 8px; border-radius:999px; color:#fff; margin:2px 4px 2px 0; text-shadow:0 0 2px rgba(0,0,0,.4); }

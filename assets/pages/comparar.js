@@ -74,7 +74,7 @@ export async function render(app) {
       ${z.x.note || z.y.note ? `<div class="muted small">${esc(PA.short)}: ${esc(z.x.note || '—')}<br>${esc(PB.short)}: ${esc(z.y.note || '—')}</div>` : ''}</li>`;
 
   const pairBox = `<div class="card"><h3><span class="dot" style="--c:${PA.color}"></span>${esc(PA.short)} vs <span class="dot" style="--c:${PB.color}"></span>${esc(PB.short)}</h3>
-    <div class="bars">${byTopic.map(x => `<div class="bar"><span>${x.t.icon} ${esc(x.t.name.split(',')[0])}</span><div><i style="width:${x.pct}%;background:${color(x.pct)}"></i></div><b>${x.pct}%</b></div>`).join('') || '<p class="muted">No hay afirmaciones comparables.</p>'}</div>
+    <div class="bars">${byTopic.map(x => `<div class="bar${x.n < 3 ? ' weak' : ''}"><span>${x.t.icon} ${esc(x.t.name.split(',')[0])}</span><div><i style="width:${x.pct}%;background:${color(x.pct)}"></i></div><b>${x.pct}%<small>n=${x.n}</small></b></div>`).join('') || '<p class="muted">No hay afirmaciones comparables.</p>'}</div>
     <h4>🔥 Lo que más les separa</h4><ul class="cmp">${far.map(row).join('') || '<li class="muted">No hay grandes diferencias en estas afirmaciones.</li>'}</ul>
     <h4>🤝 En lo que coinciden</h4><ul class="cmp">${near.map(row).join('') || '<li class="muted">No hay coincidencias claras.</li>'}</ul></div>`;
 
