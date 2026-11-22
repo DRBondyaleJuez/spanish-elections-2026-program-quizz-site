@@ -69,6 +69,16 @@ Se publica con **GitHub Pages**. No hay paso de compilación: HTML + CSS + JS no
 - [ ] 100 preguntas del manual de mesa (solo de las páginas de instrucciones/procedimiento).
 - [ ] `tools/validate.py`: comprueba el esquema, que no haya ids repetidos, que las páginas existan y que la respuesta aparezca cerca de la página citada.
 
+## Fase 8 — Conexión con NotebookLM (explorar)
+Objetivo: aprovechar el cuaderno de NotebookLM del proyecto (con los mismos PDFs) para compartir su material y, si es posible, preguntarle desde la web. *El enlace del cuaderno no se guarda en este repositorio (es público); se mantiene en privado.*
+
+Opciones, de la más fácil a la más difícil:
+- [ ] **A. Enlace desde la web** (fácil, sin código nuevo): botón "Pregúntale al cuaderno en NotebookLM" en cada página. Requiere compartir el cuaderno con "cualquiera con el enlace" (modo solo chat/lector) y que quien lo abra tenga cuenta de Google. Decidir antes qué se comparte: el cuaderno incluye las fuentes (PDFs públicos), pero conviene revisar notas propias antes de hacerlo público.
+- [ ] **B. Importar su material a la web** (medio): descargar lo que genera NotebookLM (guía de estudio, FAQ, resumen, audio "Audio Overview", mapa mental) y publicarlo en una página **Material extra** (audio con `<audio>`, texto en `data/extra/`). Es contenido estático, funciona en GitHub Pages. Mantener las reglas de AGENTS.md: cada dato debe poder contrastarse con una página del PDF; el material de NotebookLM se etiqueta como "generado por IA" y se revisa antes de publicarlo.
+- [ ] **C. Chat integrado en la web** (difícil / dudoso): NotebookLM para particulares **no tiene API pública**; solo parece haber API en la versión Enterprise de Google Cloud (a verificar), que necesita proyecto de pago y servidor. Una web estática en GitHub Pages no puede llamar a NotebookLM directamente ni guardar claves de forma segura.
+- [ ] **D. Alternativa propia a C** (medio-difícil): un chat "pregunta al programa" con nuestro propio texto (`extracted/`) usando la API de Claude a través de un servicio intermedio gratuito/barato (Cloudflare Workers o similar) que guarde la clave. Habría que definir límites de uso/coste, respuestas siempre con cita de página y enlace al PDF, y un aviso de que puede equivocarse.
+- [ ] **Decisión**: probar A (30 min) y B; dejar C/D solo si después del 29N sigue interesando (el valor mayor está antes de las elecciones).
+
 ## Extras hechos
 - [x] Modo oscuro con botón en la cabecera (recuerda tu elección; por defecto sigue el tema del móvil/PC).
 
