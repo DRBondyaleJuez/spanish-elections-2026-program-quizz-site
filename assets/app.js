@@ -1,10 +1,11 @@
 // Router por hash. Cada página es un módulo en assets/pages/ con export render(app).
-import { parseHash, initGlossaryPopover, esc, loadBase } from './lib.js';
+import { parseHash, initGlossaryPopover, esc, loadBase, openLegend } from './lib.js';
 
 const app = document.getElementById('app');
 
 const pages = {
   inicio: () => ({ render: renderInicio }),
+  partidos: () => import('./pages/partidos.js'),
   resumenes: () => import('./pages/resumenes.js'),
   comparar: () => import('./pages/comparar.js'),
   anexo: () => import('./pages/anexo.js'),
@@ -65,6 +66,7 @@ window.addEventListener('hashchange', () => {
   render().then(() => scrollTo(0, y));
 });
 initGlossaryPopover();
+document.getElementById('legend-btn').addEventListener('click', async () => { await loadBase(); openLegend(); });
 
 // ---- Tema claro / oscuro ----
 const root = document.documentElement;

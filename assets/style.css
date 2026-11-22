@@ -26,6 +26,8 @@ body { margin:0; font:16px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif
 header { position:sticky; top:0; background:var(--card); border-bottom:1px solid var(--border); padding:6px 16px 4px; z-index:10; }
 .topbar { display:flex; align-items:center; justify-content:space-between; gap:8px; }
 h1 { font-size:1.1rem; margin:4px 0 6px; }
+#legend-btn { flex:none; font:inherit; font-size:.85rem; height:40px; padding:0 12px; border-radius:999px; border:1px solid var(--border); background:var(--bg); color:var(--fg); cursor:pointer; }
+.topbtns { display:flex; gap:6px; align-items:center; }
 #theme-toggle { flex:none; font:inherit; font-size:1.15rem; line-height:1; width:44px; height:40px; border-radius:999px; border:1px solid var(--border); background:var(--bg); color:var(--fg); cursor:pointer; }
 #theme-toggle:hover { border-color:var(--accent); }
 h1 a { color:inherit; text-decoration:none; }
@@ -146,3 +148,25 @@ a.btn { display:inline-block; text-decoration:none; text-align:center; line-heig
 .stmt { border-top:1px solid var(--border); padding-top:6px; margin-top:6px; }
 .stmt p { margin:4px 0; }
 .stance-row { font-size:.88rem; margin:3px 0; }
+
+/* Leyenda de siglas */
+.legend-panel { position:fixed; left:12px; right:12px; top:64px; max-width:560px; max-height:calc(100vh - 80px); overflow:auto; margin:0 auto; background:var(--card); color:var(--fg); border:1px solid var(--border); border-radius:14px; box-shadow:0 8px 30px var(--shadow); padding:12px 16px; z-index:60; }
+.legend-head { display:flex; justify-content:space-between; align-items:center; gap:8px; }
+.legend-head .close { font:inherit; min-height:40px; padding:6px 14px; border-radius:8px; border:0; background:var(--accent); color:var(--on-accent); }
+.legend-list { list-style:none; padding:0; margin:6px 0 0; }
+.legend-list li { padding:8px 0; border-top:1px solid var(--border); }
+.legend-list a { color:var(--fg); text-decoration:none; }
+
+/* Página de partidos (deslizador) */
+.pslider { display:flex; overflow-x:auto; scroll-snap-type:x mandatory; scroll-behavior:smooth; gap:12px; align-items:flex-start; -webkit-overflow-scrolling:touch; scrollbar-width:none; outline-offset:2px; }
+.pslider::-webkit-scrollbar { display:none; }
+.pslide { flex:0 0 100%; scroll-snap-align:start; min-width:0; }
+.pnav { display:flex; align-items:center; justify-content:center; gap:10px; margin:10px 0; }
+.pnav .btn { min-width:44px; padding:8px 14px; }
+.dots { display:flex; flex-wrap:wrap; gap:6px; justify-content:center; max-width:240px; }
+.dots i { width:10px; height:10px; border-radius:50%; background:var(--border); cursor:pointer; }
+.dots i.on { background:var(--accent); transform:scale(1.25); }
+.pcard-head { display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+.sigla-big { font-size:1.4rem; font-weight:800; padding:2px 12px; border-radius:10px; background:var(--c, var(--accent)); color:#fff; text-shadow:0 0 2px rgba(0,0,0,.5); }
+.members { list-style:none; padding:0; margin:6px 0; display:flex; flex-wrap:wrap; gap:6px; }
+.members li { margin:0; padding:3px 10px; border-radius:999px; border:1px solid var(--border); font-size:.88rem; }

@@ -10,7 +10,7 @@ Web estática en **español** para preparar las Elecciones Generales del **29/11
 - **Primero el móvil**: a partir de 360 px de ancho, botones fáciles de pulsar (≥44 px), que nunca haya scroll horizontal.
 - El **contenido** va en `data/*.json` y nunca escrito dentro del HTML/JS. La interfaz solo muestra los datos.
 - Rutas **relativas** siempre (GitHub Pages lo sirve desde `/<repo>/`).
-- Navegación por hash: `#/resumenes`, `#/comparar`, `#/test`, `#/mesa`, `#/test-mesa`. Los filtros van en la query del hash (`#/resumenes?p=psoe,pp&t=vivienda`) para poder compartir el enlace.
+- Navegación por hash: `#/partidos`, `#/resumenes`, `#/comparar`, `#/test`, `#/mesa`, `#/test-mesa`. Los filtros van en la query del hash (`#/resumenes?p=psoe,pp&t=vivienda`) para poder compartir el enlace.
 - Selección de **uno o varios partidos** en todas las páginas que muestran información de partidos.
 
 ## 3. Precisión y fuentes (lo más importante)
@@ -52,6 +52,8 @@ Usar estos ids en todo el proyecto. Si un tema no encaja, ponerlo en `otros`. No
 **`data/parties.json`** — `[{ "id", "name", "short", "color", "file", "pages", "lang", "topicMap": { "<tema>": [[pagInicio, pagFin], …] } }]`
 - `topicMap` es **orientativo**: dice dónde está cada tema según los títulos del programa. Antes de poner "no lo menciona", buscar también palabras clave en todo `extracted/<id>/` (con grep), porque algunas propuestas aparecen en otras secciones. Si un tema no está en `topicMap` es que no se encontró ninguna sección sobre él.
 - Página física de VOX = página impresa. Compromís y el manual de la mesa: física = impresa + 1. En los demás, comprobarlo siempre en `extracted/`.
+
+**`data/coalitions.json`** — `[{ "id", "siglas" (≤ 8 car., únicas), "nombre", "programa", "tipo": "partido|coalición", "miembros": [{ "nombre", "siglas"? }], "nota", "fuente"?, "confirmar"? }]`. Una ficha por partido de `parties.json`. `loadBase()` copia `siglas` a `party.short`, así que **nunca** hay que escribir las siglas a mano en otro sitio. Los miembros salen del propio programa; si no los nombra, `miembros: []` y `confirmar: true` (no inventar). La sigla representa a **todas** las formaciones de la candidatura.
 
 **`data/topics.json`** — `[{ "id", "name", "icon" }]` (los temas del §4).
 

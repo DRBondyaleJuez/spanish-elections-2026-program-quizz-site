@@ -1,0 +1,64 @@
+[
+  { "id": "psoe", "siglas": "PSOE", "nombre": "Partido Socialista Obrero Español", "programa": "La fuerza de seguir avanzando", "tipo": "partido",
+    "miembros": [ { "nombre": "Partido Socialista Obrero Español" } ],
+    "nota": "El programa lo presenta una sola formación; no nombra otras." },
+
+  { "id": "pp", "siglas": "PP", "nombre": "Partido Popular", "programa": "Reconstrucción nacional", "tipo": "partido",
+    "miembros": [ { "nombre": "Partido Popular" } ],
+    "nota": "El programa lo presenta una sola formación; no nombra otras." },
+
+  { "id": "vox", "siglas": "VOX", "nombre": "VOX", "programa": "Programa electoral (\"Es sentido común\")", "tipo": "partido",
+    "miembros": [ { "nombre": "VOX" } ],
+    "nota": "El programa lo presenta una sola formación; no nombra otras." },
+
+  { "id": "podemos", "siglas": "Podemos", "nombre": "Podemos", "programa": "Así de básico: Paz, casa y trabajo", "tipo": "partido",
+    "miembros": [ { "nombre": "Podemos" } ],
+    "nota": "El programa lo presenta una sola formación; no nombra otras." },
+
+  { "id": "frenteamplio", "siglas": "F. Amp.", "nombre": "Frente Amplio", "programa": "Programa electoral del Frente Amplio", "tipo": "coalición",
+    "miembros": [],
+    "nota": "El programa dice que es obra de \"las organizaciones políticas que forman parte del Frente Amplio\" pero no las nombra.",
+    "fuente": { "doc": "frenteamplio", "page": 8 }, "confirmar": true },
+
+  { "id": "salf", "siglas": "SALF", "nombre": "Se Acabó La Fiesta", "programa": "Contrato electoral simplificado", "tipo": "partido",
+    "miembros": [ { "nombre": "Se Acabó La Fiesta" } ],
+    "nota": "El programa lo presenta una sola formación; no nombra otras.",
+    "fuente": { "doc": "salf", "page": 1 } },
+
+  { "id": "erc", "siglas": "ERC", "nombre": "Esquerra Republicana de Catalunya", "programa": "Pel país. Per la gent. Pel futur.", "tipo": "partido",
+    "miembros": [ { "nombre": "Esquerra Republicana de Catalunya" } ],
+    "nota": "El programa lo presenta una sola formación; no nombra otras." },
+
+  { "id": "compromis", "siglas": "Comp.-FV", "nombre": "Compromís–Front Valencià", "programa": "Programa de la coalición Compromís–Front Valencià", "tipo": "coalición",
+    "miembros": [ { "nombre": "Compromís" }, { "nombre": "Front Valencià" } ],
+    "nota": "El programa habla de \"la coalició Compromís-Front Valencià\" y de \"les diferents forces de l'esquerra valenciana\" sin detallarlas más.",
+    "fuente": { "doc": "compromis", "page": 4 } },
+
+  { "id": "pnv", "siglas": "EAJ-PNV", "nombre": "Euzko Alderdi Jeltzalea – Partido Nacionalista Vasco", "programa": "Lo que te importa. Lo que vamos a defender.", "tipo": "partido",
+    "miembros": [ { "nombre": "EAJ-PNV" } ],
+    "nota": "El programa lo presenta una sola formación; no nombra otras." },
+
+  { "id": "d21", "siglas": "D21", "nombre": "Democracia 21", "programa": "La España que merecemos (\"España Limpia\")", "tipo": "partido",
+    "miembros": [ { "nombre": "Democracia 21" } ],
+    "nota": "El programa lo presenta una sola formación; no nombra otras.",
+    "fuente": { "doc": "d21", "page": 1 } },
+
+  { "id": "cc", "siglas": "1ºC/CC", "nombre": "Coalición Canaria + Municipalistas Primero Canarias", "programa": "Defiende Canarias", "tipo": "coalición",
+    "miembros": [ { "nombre": "Coalición Canaria", "siglas": "CC" }, { "nombre": "Municipalistas Primero Canarias", "siglas": "1ºC" } ],
+    "nota": "Concurren unidas y dicen que lo hacen \"junto a otras fuerzas políticas nacionalistas canarias o de lealtad canaria\", sin nombrarlas.",
+    "fuente": { "doc": "cc", "page": 3 } },
+
+  { "id": "ehbildu", "siglas": "EH Bildu", "nombre": "EH Bildu", "programa": "Garantía y derechos", "tipo": "coalición",
+    "miembros": [],
+    "nota": "El programa no explica qué formaciones integran la candidatura.", "confirmar": true },
+
+  { "id": "drago", "siglas": "Drago", "nombre": "Drago Canarias", "programa": "Programa electoral 29N (\"La esperanza vence al miedo\")", "tipo": "partido",
+    "miembros": [ { "nombre": "Drago Canarias" } ],
+    "nota": "Se define como \"partido de obediencia canaria\"; el programa no nombra otras formaciones.",
+    "fuente": { "doc": "drago", "page": 3 } },
+
+  { "id": "upc", "siglas": "UPC", "nombre": "Unidad del Pueblo Canario", "programa": "Manifiesto electoral", "tipo": "coalición",
+    "miembros": [],
+    "nota": "Une \"formaciones nacionalistas, soberanistas, federales y confederales\" de la izquierda canaria, pero el manifiesto no las nombra.",
+    "fuente": { "doc": "upc", "page": 2 }, "confirmar": true }
+]

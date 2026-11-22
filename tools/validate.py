@@ -98,6 +98,39 @@ def check_positions():
                 err(f"{w}/{pid}", f"página fuera de rango {pg}")
 
 
+def check_coalitions():
+    f = D / "coalitions.json"
+    if not f.exists():
+        return
+    data = json.loads(f.read_text(encoding="utf-8"))
+    seen, ids = set(), set()
+    for c in data:
+        w = f"coalitions[{c.get('id')}]"
+        if c.get("id") not in parties:
+            err(w, "id de partido desconocido")
+        if c.get("id") in ids:
+            err(w, "id repetido")
+        ids.add(c.get("id"))
+        sg = c.get("siglas", "")
+        if not sg or len(sg) > 8:
+            err(w, f"siglas vacías o de más de 8 caracteres: {sg!r}")
+        if sg in seen:
+            err(w, f"siglas repetidas: {sg}")
+        seen.add(sg)
+        if c.get("tipo") not in ("partido", "coalición"):
+            err(w, "tipo debe ser partido o coalición")
+        for k in ("nombre", "programa", "nota"):
+            if not c.get(k):
+                err(w, f"falta {k}")
+        if c.get("tipo") == "coalición" and not c.get("miembros") and not c.get("confirmar"):
+            err(w, "coalición sin miembros: marcar confirmar:true")
+        if c.get("fuente"):
+            check_source(w, c["fuente"], c["id"])
+    for p in parties:
+        if p not in ids:
+            err("coalitions", f"falta la ficha de {p}")
+
+
 TYPES = {"tf", "single", "multi", "which_party", "which_not", "match"}
 
 
@@ -143,5 +176,6 @@ if __name__ == "__main__":
     if not only:
         check_questions("mesa")
         check_positions()
+        check_coalitions()
     print("\n".join(errors) if errors else "OK")
     sys.exit(1 if errors else 0)

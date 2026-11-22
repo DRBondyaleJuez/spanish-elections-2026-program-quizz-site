@@ -18,13 +18,20 @@ export async function loadJSON(path, fallback) {
 let base;
 export async function loadBase() {
   if (base) return base;
-  const [parties, topics, glossary] = await Promise.all([
+  const [parties, topics, glossary, coalitions] = await Promise.all([
     loadJSON('data/parties.json'),
     loadJSON('data/topics.json'),
     loadJSON('data/glossary.json', []),
+    loadJSON('data/coalitions.json', []),
   ]);
+  // Las siglas viven en data/coalitions.json y sustituyen a `short` en toda la web.
+  const coal = Object.fromEntries(coalitions.map(c => [c.id, c]));
+  for (const p of parties) {
+    p.coalition = coal[p.id] || null;
+    if (p.coalition) p.short = p.coalition.siglas;
+  }
   base = {
-    parties, topics, glossary,
+    parties, topics, glossary, coalitions: coal,
     party: Object.fromEntries(parties.map(p => [p.id, p])),
     topic: Object.fromEntries(topics.map(t => [t.id, t])),
     docs: Object.fromEntries(parties.map(p => [p.id, p.file])),
@@ -132,3 +139,39 @@ export const STANCE = {
   '-2': { label: 'Muy en contra', cls: 'sm2' },
   null: { label: 'No lo menciona', cls: 'sn' },
 };
+
+// ---- Leyenda de siglas (panel desplegable accesible desde la cabecera) ----
+export function openLegend() {
+  let box = document.getElementById('legend-panel');
+  if (!box) {
+    box = document.createElement('div');
+    box.id = 'legend-panel';
+    box.className = 'legend-panel';
+    box.setAttribute('role', 'dialog');
+    box.setAttribute('aria-label', 'Leyenda de siglas');
+    box.hidden = true;
+    document.body.appendChild(box);
+    box.addEventListener('click', e => {
+      if (e.target.closest('[data-close]') || e.target.closest('a')) box.hidden = true;
+    });
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') box.hidden = true; });
+    document.addEventListener('click', e => {
+      if (!box.hidden && !e.target.closest('#legend-panel') && !e.target.closest('#legend-btn')) box.hidden = true;
+    });
+  }
+  if (!box.hidden) { box.hidden = true; return; }
+  const B = base;
+  box.innerHTML = `<div class="legend-head"><b>🔤 Siglas de los partidos</b><button type="button" class="close" data-close>Cerrar</button></div>
+    <p class="small muted">Cada sigla representa a <b>todas</b> las formaciones de la candidatura. Toca una para ver su ficha.</p>
+    <ul class="legend-list">${B.parties.map(p => {
+      const c = p.coalition;
+      const miembros = (c?.tipo === 'coalición' && c.miembros?.length)
+        ? 'Formada por: ' + c.miembros.map(m => esc(m.nombre + (m.siglas ? ` (${m.siglas})` : ''))).join(' + ')
+        : '';
+      return `<li><a href="#/partidos?p=${esc(p.id)}"><span class="dot" style="--c:${p.color}"></span><b>${esc(p.short)}</b></a>
+        <span class="small"> — ${esc(c?.nombre || p.name)}</span>
+        ${miembros ? `<div class="small muted">${miembros}</div>` : ''}
+        ${c?.confirmar ? `<div class="small muted">⚠️ El programa no nombra las formaciones que la integran.</div>` : ''}</li>`;
+    }).join('')}</ul>`;
+  box.hidden = false;
+}
